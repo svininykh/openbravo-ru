@@ -1822,9 +1822,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1063" trl="N">
-    <value column="Name" isTrl="N" original="Sales Representative">Sales Representative</value>
-    <value column="PrintName" isTrl="N" original="Sales Rep">Sales Rep</value>
-    <value column="Description" isTrl="N" original="The person in charge of a document.">The person in charge of a document.</value>
+    <value column="Name" isTrl="Y" original="Sales Representative">Торговый представитель</value>
+    <value column="PrintName" isTrl="Y" original="Sales Rep">Торговый представитель</value>
+    <value column="Description" isTrl="Y" original="The person in charge of a document.">Лицо ответственное за документ.</value>
     <value column="Help" isTrl="N" original="Indicates the sales representative responsible for the transaction that  the document specifies . A valid sales representative is a business partner marked as an employee and a sales representative.">Indicates the sales representative responsible for the transaction that  the document specifies . A valid sales representative is a business partner marked as an employee and a sales representative.</value>
     <value column="PO_Description" isTrl="N" original="Purchase or Company Agent">Purchase or Company Agent</value>
     <value column="PO_Help" isTrl="N" original="Purchase agent for the document. Any Sales Rep must be a valid internal user.">Purchase agent for the document. Any Sales Rep must be a valid internal user.</value>
@@ -3272,9 +3272,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="138" trl="N">
-    <value column="Name" isTrl="N" original="User/Contact">User/Contact</value>
-    <value column="PrintName" isTrl="N" original="User">User</value>
-    <value column="Description" isTrl="N" original="An acquaintance to reach for information related to the business partner.">An acquaintance to reach for information related to the business partner.</value>
+    <value column="Name" isTrl="Y" original="User/Contact">Пользователь/Контакт</value>
+    <value column="PrintName" isTrl="Y" original="User">Пользователь</value>
+    <value column="Description" isTrl="Y" original="An acquaintance to reach for information related to the business partner.">Непосредственное лицо связанное с контрагентом.</value>
     <value column="Help" isTrl="N" original="The User identifies a unique user in the system. This could be an internal user or a business partner contact">The User identifies a unique user in the system. This could be an internal user or a business partner contact</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -4959,9 +4959,9 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="173" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Address">Invoice Address</value>
-    <value column="PrintName" isTrl="N" original="Invoice To">Invoice To</value>
-    <value column="Description" isTrl="N" original="The location where the invoice payment request will be sent.">The location where the invoice payment request will be sent.</value>
+    <value column="Name" isTrl="Y" original="Invoice Address">Адрес счёта</value>
+    <value column="PrintName" isTrl="Y" original="Invoice To">Адрес счёта</value>
+    <value column="Description" isTrl="Y" original="The location where the invoice payment request will be sent.">Адрес для выставления счёта на оплату.</value>
     <value column="Help" isTrl="N" original="An indication of the address to use in the invoice.&lt;br /&gt;">An indication of the address to use in the invoice.&lt;br /&gt;</value>
     <value column="PO_Description" isTrl="N" original="Bill From Address">Bill From Address</value>
     <value column="PO_Help" isTrl="N" original="The Bill/Invoice From indicated the address where the invoice is created by the vendor">The Bill/Invoice From indicated the address where the invoice is created by the vendor</value>
@@ -5920,9 +5920,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="196" trl="N">
-    <value column="Name" isTrl="N" original="Document Type">Document Type</value>
-    <value column="PrintName" isTrl="N" original="Doc Type">Doc Type</value>
-    <value column="Description" isTrl="N" original="A value defining what sequence and process setup are used to handle this document.">A value defining what sequence and process setup are used to handle this document.</value>
+    <value column="Name" isTrl="Y" original="Document Type">Тип документа</value>
+    <value column="PrintName" isTrl="Y" original="Doc Type">Тип документа</value>
+    <value column="Description" isTrl="Y" original="A value defining what sequence and process setup are used to handle this document.">Значение определяет последовательность и процесс для обработки этого документа.</value>
     <value column="Help" isTrl="N" original="The Document Type determines document sequence and processing rules">The Document Type determines document sequence and processing rules</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7371,9 +7371,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="289" trl="N">
-    <value column="Name" isTrl="N" original="Document Status">Document Status</value>
-    <value column="PrintName" isTrl="N" original="Doc Status">Doc Status</value>
-    <value column="Description" isTrl="N" original="The Document Status indicates the status of a document at this time.">The Document Status indicates the status of a document at this time.</value>
+    <value column="Name" isTrl="Y" original="Document Status">Статус документа</value>
+    <value column="PrintName" isTrl="Y" original="Doc Status">Статус документа</value>
+    <value column="Description" isTrl="Y" original="The Document Status indicates the status of a document at this time.">Отражает текущий статус документа.</value>
     <value column="Help" isTrl="N" original="The Document Status indicates the status of a document at this time.  To change the status of a document, use one of the buttons usually located at the bottom of the document window.">The Document Status indicates the status of a document at this time.  To change the status of a document, use one of the buttons usually located at the bottom of the document window.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7601,9 +7601,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="316" trl="N">
-    <value column="Name" isTrl="N" original="Total Gross Amount">Total Gross Amount</value>
-    <value column="PrintName" isTrl="N" original="Total Gross Amount">Total Gross Amount</value>
-    <value column="Description" isTrl="N" original="The final monetary amount (including taxes) charge listed in a document.">The final monetary amount (including taxes) charge listed in a document.</value>
+    <value column="Name" isTrl="Y" original="Total Gross Amount">Стоимость итого</value>
+    <value column="PrintName" isTrl="Y" original="Total Gross Amount">Стоимость итого</value>
+    <value column="Description" isTrl="Y" original="The final monetary amount (including taxes) charge listed in a document.">Окончательный сумму к оплате(с учётом налогов) по позициям перечисленным в документе.</value>
     <value column="Help" isTrl="N" original="The Grand Total displays the total amount including Tax and Freight in document currency">The Grand Total displays the total amount including Tax and Freight in document currency</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7791,8 +7791,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="348" trl="N">
-    <value column="Name" isTrl="Y" original="Active">Активна</value>
-    <value column="PrintName" isTrl="Y" original="Active">Активна</value>
+    <value column="Name" isTrl="Y" original="Active">Активно</value>
+    <value column="PrintName" isTrl="Y" original="Active">Активно</value>
     <value column="Description" isTrl="Y" original="A flag indicating whether this record is available for use or de-activated.">Флаг, указывающий что эта запись доступна для использования или неактивна.</value>
     <value column="Help" isTrl="N" original="There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.">There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records:
 (1) The system requires the record for auditing purposes.
@@ -11287,9 +11287,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="598" trl="N">
-    <value column="Name" isTrl="N" original="Total Net Amount">Total Net Amount</value>
-    <value column="PrintName" isTrl="N" original="Total Net Amount">Total Net Amount</value>
-    <value column="Description" isTrl="N" original="The final sum of all line totals made to a specified document or transaction (not including taxes).">The final sum of all line totals made to a specified document or transaction (not including taxes).</value>
+    <value column="Name" isTrl="Y" original="Total Net Amount">Стоимость без налога</value>
+    <value column="PrintName" isTrl="Y" original="Total Net Amount">Стоимость без налога</value>
+    <value column="Description" isTrl="Y" original="The final sum of all line totals made to a specified document or transaction (not including taxes).">Окончательная сумма по всем строкам внесенным в текущий документ или проводку(не включая налоги).</value>
     <value column="Help" isTrl="N" original="The Total amount displays the total of all lines in document currency">The Total amount displays the total of all lines in document currency</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -15998,9 +15998,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800523" trl="N">
-    <value column="Name" isTrl="N" original="Delivery Location">Delivery Location</value>
-    <value column="PrintName" isTrl="N" original="Delivery Location">Delivery Location</value>
-    <value column="Description" isTrl="N" original="The specific place or address an order will be shipped to or carried out from.">The specific place or address an order will be shipped to or carried out from.</value>
+    <value column="Name" isTrl="Y" original="Delivery Location">Место доставки</value>
+    <value column="PrintName" isTrl="Y" original="Delivery Location">Место доставки</value>
+    <value column="Description" isTrl="Y" original="The specific place or address an order will be shipped to or carried out from.">Конкретное место или адрес куда заказ будет отправлен или через что доставлен.</value>
     <value column="Help" isTrl="N" original="Location where the product will be delivered to">Location where the product will be delivered to</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -20195,9 +20195,9 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="952" trl="N">
-    <value column="Name" isTrl="N" original="Order Reference">Order Reference</value>
-    <value column="PrintName" isTrl="N" original="Order Reference">Order Reference</value>
-    <value column="Description" isTrl="N" original="A reference or document order number as listed in business partner application.">A reference or document order number as listed in business partner application.</value>
+    <value column="Name" isTrl="Y" original="Order Reference">Ссылка на накладную</value>
+    <value column="PrintName" isTrl="Y" original="Order Reference">Ссылка на накладную</value>
+    <value column="Description" isTrl="Y" original="A reference or document order number as listed in business partner application.">Ссылку или порядковый номер документа указанный в системе контрагента.</value>
     <value column="Help" isTrl="N" original="This can be used to input a reference for this specific transaction. For example, a Purchase Order number can be input on a Sales Order for easier reference.">This can be used to input a reference for this specific transaction. For example, a Purchase Order number can be input on a Sales Order for easier reference.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
