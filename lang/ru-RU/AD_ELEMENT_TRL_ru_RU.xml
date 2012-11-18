@@ -5529,9 +5529,9 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="187" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
-    <value column="PrintName" isTrl="N" original="Business Partner">Business Partner</value>
-    <value column="Description" isTrl="N" original="Anyone who takes part in daily business operations by acting as a customer, employee, etc.">Anyone who takes part in daily business operations by acting as a customer, employee, etc.</value>
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
+    <value column="PrintName" isTrl="Y" original="Business Partner">Контрагент</value>
+    <value column="Description" isTrl="Y" original="Anyone who takes part in daily business operations by acting as a customer, employee, etc.">Тот кто участвует в ежедневных бизнес-операциях, выступая в качестве покупателя, работника и т.п.</value>
     <value column="Help" isTrl="N" original="A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.">A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -5549,9 +5549,9 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="189" trl="N">
-    <value column="Name" isTrl="N" original="Partner Address">Partner Address</value>
-    <value column="PrintName" isTrl="N" original="Partner Address">Partner Address</value>
-    <value column="Description" isTrl="N" original="The location of the selected business partner.">The location of the selected business partner.</value>
+    <value column="Name" isTrl="Y" original="Partner Address">Адрес контрагента</value>
+    <value column="PrintName" isTrl="Y" original="Partner Address">Адрес контрагента</value>
+    <value column="Description" isTrl="Y" original="The location of the selected business partner.">Расположение выбранного контрагента.</value>
     <value column="Help" isTrl="N" original="The Partner address indicates the location of a Business Partner">The Partner address indicates the location of a Business Partner</value>
     <value column="PO_Description" isTrl="N" original="Identifies the (ship from) address for this Business Partner">Identifies the (ship from) address for this Business Partner</value>
     <value column="PO_Help" isTrl="N" original="The Partner address indicates the location of a Business Partner">The Partner address indicates the location of a Business Partner</value>
@@ -5930,9 +5930,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="197" trl="N">
-    <value column="Name" isTrl="N" original="Transaction Document">Transaction Document</value>
+    <value column="Name" isTrl="Y" original="Transaction Document">Документ проведения</value>
     <value column="PrintName" isTrl="N" original="Target Doc Type">Target Doc Type</value>
-    <value column="Description" isTrl="N" original="The specific document type which should be used for the document.">The specific document type which should be used for the document.</value>
+    <value column="Description" isTrl="Y" original="The specific document type which should be used for the document.">Тип документы применяемый для регистрации бухгалтерских проводок по счетам.</value>
     <value column="Help" isTrl="N" original="Specifies document subtype (eg. POS Order, Return Material, etc.) that each document (such as Sales Invoice, Purchase Order, etc.). Various document subtypes usually differ on the consequences they have. You can convert document types (e.g. from Offer to Order).  The conversion is then reflected in the current type.">Specifies document subtype (eg. POS Order, Return Material, etc.) that each document (such as Sales Invoice, Purchase Order, etc.). Various document subtypes usually differ on the consequences they have. You can convert document types (e.g. from Offer to Order).  The conversion is then reflected in the current type.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -6320,9 +6320,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="204" trl="N">
-    <value column="Name" isTrl="N" original="Payment Terms">Payment Terms</value>
-    <value column="PrintName" isTrl="N" original="Payment Term">Payment Term</value>
-    <value column="Description" isTrl="N" original="The setup and timing defined to complete a specified payment.">The setup and timing defined to complete a specified payment.</value>
+    <value column="Name" isTrl="Y" original="Payment Terms">Условия оплаты</value>
+    <value column="PrintName" isTrl="Y" original="Payment Term">Условие оплаты</value>
+    <value column="Description" isTrl="Y" original="The setup and timing defined to complete a specified payment.">Условия и сроки определенные для успешного завершения указанного платежа.</value>
     <value column="Help" isTrl="N" original="Payment Terms identify the method and timing of payment for this transaction.">Payment Terms identify the method and timing of payment for this transaction.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -6550,9 +6550,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="208" trl="N">
-    <value column="Name" isTrl="N" original="Project">Project</value>
-    <value column="PrintName" isTrl="N" original="Project">Project</value>
-    <value column="Description" isTrl="N" original="Identifier of a project defined within the Project &amp; Service Management module.">Identifier of a project defined within the Project &amp; Service Management module.</value>
+    <value column="Name" isTrl="Y" original="Project">Проект</value>
+    <value column="PrintName" isTrl="Y" original="Project">Проект</value>
+    <value column="Description" isTrl="Y" original="Identifier of a project defined within the Project &amp; Service Management module.">Идентификатор проекта определенного в рамках модуля Project &amp; Service Management.</value>
     <value column="Help" isTrl="N" original="Identifier of a project defined within the Project &amp; Service Management module.">Identifier of a project defined within the Project &amp; Service Management module.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7220,9 +7220,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="268" trl="N">
-    <value column="Name" isTrl="N" original="Order Date">Order Date</value>
-    <value column="PrintName" isTrl="N" original="Date Ordered">Date Ordered</value>
-    <value column="Description" isTrl="N" original="The time listed on the order.">The time listed on the order.</value>
+    <value column="Name" isTrl="Y" original="Order Date">Дата накладной</value>
+    <value column="PrintName" isTrl="Y" original="Date Ordered">Дата накладной</value>
+    <value column="Description" isTrl="Y" original="The time listed on the order.">Дата указываемая в накладной.</value>
     <value column="Help" isTrl="N" original="Indicates the Date an item was ordered.">Indicates the Date an item was ordered.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7230,9 +7230,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="269" trl="N">
-    <value column="Name" isTrl="N" original="Scheduled Delivery Date">Scheduled Delivery Date</value>
-    <value column="PrintName" isTrl="N" original="Delivery Date">Delivery Date</value>
-    <value column="Description" isTrl="N" original="The date that a task, process, or action is to be completed or delivered by.">The date that a task, process, or action is to be completed or delivered by.</value>
+    <value column="Name" isTrl="Y" original="Scheduled Delivery Date">Планируемая дата поставки</value>
+    <value column="PrintName" isTrl="Y" original="Delivery Date">Дата поставки</value>
+    <value column="Description" isTrl="Y" original="The date that a task, process, or action is to be completed or delivered by.">Дата к которой задача, процесс или действие должно быть завершено или доставлено.</value>
     <value column="Help" isTrl="N" original="Scheduled Delivery Date indicates the date, if any, that an order was promised by.">Scheduled Delivery Date indicates the date, if any, that an order was promised by.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7381,9 +7381,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="290" trl="N">
-    <value column="Name" isTrl="N" original="Document No.">Document No.</value>
-    <value column="PrintName" isTrl="N" original="Document No">Document No</value>
-    <value column="Description" isTrl="N" original="An often automatically generated identifier for all documents.">An often automatically generated identifier for all documents.</value>
+    <value column="Name" isTrl="Y" original="Document No.">Номер документа</value>
+    <value column="PrintName" isTrl="Y" original="Document No">№ документа</value>
+    <value column="Description" isTrl="Y" original="An often automatically generated identifier for all documents.">В большинстве случаев автоматически присваиваемый порядковый номер документа.</value>
     <value column="Help" isTrl="N" original="The document number is usually automatically generated by the system and determined by the document type of the document. If the document is not saved, the preliminary number is displayed in &quot;&lt;&gt;&quot;. If the document type of your document has no automatic document sequence defined, the field will be empty when creating a new document. This is for documents which usually have an external number (like vendor invoice).  If you leave the field empty, the system will generate a document number for you. The document sequence used for this fallback number is defined in the &quot;Document Sequence&quot; window with the name &quot;DocumentNo_&lt;TableName&gt;&quot;, where TableName is the actual name of the table inside the database (e.g. C_Order).">The document number is usually automatically generated by the system and determined by the document type of the document. If the document is not saved, the preliminary number is displayed in "&lt;&gt;". If the document type of your document has no automatic document sequence defined, the field will be empty when creating a new document. This is for documents which usually have an external number (like vendor invoice).  If you leave the field empty, the system will generate a document number for you. The document sequence used for this fallback number is defined in the "Document Sequence" window with the name "DocumentNo_&lt;TableName&gt;", where TableName is the actual name of the table inside the database (e.g. C_Order).</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -8655,9 +8655,9 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="449" trl="N">
-    <value column="Name" isTrl="N" original="Price List">Price List</value>
-    <value column="PrintName" isTrl="N" original="Price List">Price List</value>
-    <value column="Description" isTrl="N" original="A catalog of selected items with prices defined generally or for a specific partner.">A catalog of selected items with prices defined generally or for a specific partner.</value>
+    <value column="Name" isTrl="Y" original="Price List">Прейскурант</value>
+    <value column="PrintName" isTrl="Y" original="Price List">Прейскурант</value>
+    <value column="Description" isTrl="Y" original="A catalog of selected items with prices defined generally or for a specific partner.">Список для выбранных позиций с ценами определен в целом, либо для конкретного контрагента.</value>
     <value column="Help" isTrl="N" original="&#10;Price Lists are used to determine the pricing, margin and cost of items purchased or sold.">
 Price Lists are used to determine the pricing, margin and cost of items purchased or sold.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8726,9 +8726,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="459" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse">Warehouse</value>
-    <value column="PrintName" isTrl="N" original="Warehouse">Warehouse</value>
-    <value column="Description" isTrl="N" original="The location where products arrive to or are sent from.">The location where products arrive to or are sent from.</value>
+    <value column="Name" isTrl="Y" original="Warehouse">Склад</value>
+    <value column="PrintName" isTrl="Y" original="Warehouse">Склад</value>
+    <value column="Description" isTrl="Y" original="The location where products arrive to or are sent from.">Место куда продукты поступают или откуда отправляются.</value>
     <value column="Help" isTrl="N" original="The Warehouse identifies a unique Warehouse where products are stored or Services are provided.">The Warehouse identifies a unique Warehouse where products are stored or Services are provided.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10076,9 +10076,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original="Purchase Order">Purchase Order</value>
   </row>
   <row id="559" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Terms">Invoice Terms</value>
-    <value column="PrintName" isTrl="N" original="Invoice Rule">Invoice Rule</value>
-    <value column="Description" isTrl="N" original="Frequency and method of invoicing">Frequency and method of invoicing</value>
+    <value column="Name" isTrl="Y" original="Invoice Terms">Условия счёта</value>
+    <value column="PrintName" isTrl="Y" original="Invoice Rule">Условия счёта</value>
+    <value column="Description" isTrl="Y" original="Frequency and method of invoicing">Периодичность и методика выставления счёта.</value>
     <value column="Help" isTrl="N" original="The Invoice Rule defines how a Business Partner is invoiced and the frequency of invoicing.">The Invoice Rule defines how a Business Partner is invoiced and the frequency of invoicing.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -12844,9 +12844,9 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original="Payment Out Execution Result">Payment Out Execution Result</value>
   </row>
   <row id="7DC34559B411B45BE040007F0100784A" trl="N">
-    <value column="Name" isTrl="N" original="Payment Method">Payment Method</value>
-    <value column="PrintName" isTrl="N" original="Payment Method">Payment Method</value>
-    <value column="Description" isTrl="N" original="It is the method by which payment is expected to be made or received.">It is the method by which payment is expected to be made or received.</value>
+    <value column="Name" isTrl="Y" original="Payment Method">Способ оплаты</value>
+    <value column="PrintName" isTrl="Y" original="Payment Method">Способ оплаты</value>
+    <value column="Description" isTrl="Y" original="It is the method by which payment is expected to be made or received.">Способ оплаты которым будет сделан или получен платёж.</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
