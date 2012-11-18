@@ -359,7 +359,7 @@
     <value column="Name" isTrl="N" original="Body">Body</value>
     <value column="PrintName" isTrl="N" original="Body">Body</value>
     <value column="Description" isTrl="N" original="The body side of the email">The body side of the email</value>
-    <value column="Help" isTrl="N" original="As in the subject some tags are available &#10;References will be replaced by values:&#10;    * @cus_ref@: The document reference of the customer&#10;    * @our_ref@: The reference of the document&#10;    * @cus_nam@: The name of the customer&#10;    * @sal_nam@: The name of the sales rep.&#10;">As in the subject some tags are available 
+    <value column="Help" isTrl="N" original="As in the subject some tags are available &#10;References will be replaced by values:&#10;    * @cus_ref@: The document reference of the customer&#10;    * @our_ref@: The reference of the document&#10;    * @cus_nam@: The name of the customer&#10;    * @sal_nam@: The name of the sales rep.&#10;">As in the subject some tags are available
 References will be replaced by values:
     * @cus_ref@: The document reference of the customer
     * @our_ref@: The reference of the document
@@ -1460,9 +1460,9 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="102" trl="N">
-    <value column="Name" isTrl="N" original="Client">Client</value>
-    <value column="PrintName" isTrl="N" original="Client">Client</value>
-    <value column="Description" isTrl="N" original="Client for this installation.">Client for this installation.</value>
+    <value column="Name" isTrl="Y" original="Client">Клиент</value>
+    <value column="PrintName" isTrl="Y" original="Client">Клиент</value>
+    <value column="Description" isTrl="Y" original="Client for this installation.">Клиент данной установки.</value>
     <value column="Help" isTrl="N" original="A Client is a company or a legal entity. You cannot share data between Clients.">A Client is a company or a legal entity. You cannot share data between Clients.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2212,9 +2212,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="113" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
-    <value column="PrintName" isTrl="N" original="Organization">Organization</value>
-    <value column="Description" isTrl="N" original="Organizational entity within client">Organizational entity within client</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
+    <value column="PrintName" isTrl="Y" original="Organization">Организация</value>
+    <value column="Description" isTrl="Y" original="Organizational entity within client">Организационной подразделение в рамках клиента.</value>
     <value column="Help" isTrl="N" original="An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.">An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -5459,9 +5459,9 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="181" trl="N">
-    <value column="Name" isTrl="N" original="General Ledger">General Ledger</value>
-    <value column="PrintName" isTrl="N" original="General Ledger">General Ledger</value>
-    <value column="Description" isTrl="N" original="The book containing all financial transactions recorded for the legal entity.">The book containing all financial transactions recorded for the legal entity.</value>
+    <value column="Name" isTrl="Y" original="General Ledger">Главная книга</value>
+    <value column="PrintName" isTrl="Y" original="General Ledger">Главная книга</value>
+    <value column="Description" isTrl="Y" original="The book containing all financial transactions recorded for the legal entity.">Книга содержит все финансовые операции, записанные для юридического лица.</value>
     <value column="Help" isTrl="N" original="The book containing all financial transactions recorded for the legal entity.">The book containing all financial transactions recorded for the legal entity.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -5610,9 +5610,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="190" trl="N">
-    <value column="Name" isTrl="N" original="Calendar">Calendar</value>
-    <value column="PrintName" isTrl="N" original="Calendar">Calendar</value>
-    <value column="Description" isTrl="N" original="A table showing the days of the week for each month of the year.">A table showing the days of the week for each month of the year.</value>
+    <value column="Name" isTrl="Y" original="Calendar">Календарь</value>
+    <value column="PrintName" isTrl="Y" original="Calendar">Календарь</value>
+    <value column="Description" isTrl="Y" original="A table showing the days of the week for each month of the year.">Таблица дней рабочей недели для каждого месяца в году.</value>
     <value column="Help" isTrl="N" original="The Calendar uniquely identifies an accounting calendar.  Multiple calendars can be used.  For example you may need a standard calendar that runs from Jan 1 to Dec 31 and a fiscal calendar that runs from July 1 to June 30.">The Calendar uniquely identifies an accounting calendar.  Multiple calendars can be used.  For example you may need a standard calendar that runs from Jan 1 to Dec 31 and a fiscal calendar that runs from July 1 to June 30.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -5720,9 +5720,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="193" trl="N">
-    <value column="Name" isTrl="N" original="Currency">Currency</value>
-    <value column="PrintName" isTrl="N" original="Currency">Currency</value>
-    <value column="Description" isTrl="N" original="An accepted medium of monetary exchange that may vary across countries.">An accepted medium of monetary exchange that may vary across countries.</value>
+    <value column="Name" isTrl="Y" original="Currency">Валюта</value>
+    <value column="PrintName" isTrl="Y" original="Currency">Валюта</value>
+    <value column="Description" isTrl="Y" original="An accepted medium of monetary exchange that may vary across countries.">Применяется значение усреднённого курса обмена валюты, отличается в зависимости от страны.</value>
     <value column="Help" isTrl="N" original="Indicates the currency to be used when processing this document.">Indicates the currency to be used when processing this document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7260,9 +7260,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="275" trl="N">
-    <value column="Name" isTrl="N" original="Description">Description</value>
-    <value column="PrintName" isTrl="N" original="Description">Description</value>
-    <value column="Description" isTrl="N" original="A space to write additional related information.">A space to write additional related information.</value>
+    <value column="Name" isTrl="Y" original="Description">Описание</value>
+    <value column="PrintName" isTrl="Y" original="Description">Описание</value>
+    <value column="Description" isTrl="Y" original="A space to write additional related information.">Поле для записи дополнительной информации.</value>
     <value column="Help" isTrl="N" original="A description is limited to 255 characters.">A description is limited to 255 characters.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7791,10 +7791,10 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="348" trl="N">
-    <value column="Name" isTrl="N" original="Active">Active</value>
-    <value column="PrintName" isTrl="N" original="Active">Active</value>
-    <value column="Description" isTrl="N" original="A flag indicating whether this record is available for use or de-activated.">A flag indicating whether this record is available for use or de-activated.</value>
-    <value column="Help" isTrl="N" original="There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.">There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: 
+    <value column="Name" isTrl="Y" original="Active">Активна</value>
+    <value column="PrintName" isTrl="Y" original="Active">Активна</value>
+    <value column="Description" isTrl="Y" original="A flag indicating whether this record is available for use or de-activated.">Флаг, указывающий что эта запись доступна для использования или неактивна.</value>
+    <value column="Help" isTrl="N" original="There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.">There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records:
 (1) The system requires the record for auditing purposes.
 (2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8515,9 +8515,9 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="416" trl="N">
-    <value column="Name" isTrl="N" original="Summary Level">Summary Level</value>
-    <value column="PrintName" isTrl="N" original="Summary Level">Summary Level</value>
-    <value column="Description" isTrl="N" original="A means of grouping fields in order to view or hide additional information.">A means of grouping fields in order to view or hide additional information.</value>
+    <value column="Name" isTrl="Y" original="Summary Level">Уровень группировки</value>
+    <value column="PrintName" isTrl="Y" original="Summary Level">Уровень группировки</value>
+    <value column="Description" isTrl="Y" original="A means of grouping fields in order to view or hide additional information.">Инструмент группировки записей для отображения или сокрытия дополнительной информаций.</value>
     <value column="Help" isTrl="N" original="A summary entity represents a branch in a tree rather than an end-node. Summary entities are used for reporting and do not have own values.">A summary entity represents a branch in a tree rather than an end-node. Summary entities are used for reporting and do not have own values.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -8806,9 +8806,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="469" trl="N">
-    <value column="Name" isTrl="N" original="Name">Name</value>
-    <value column="PrintName" isTrl="N" original="Name">Name</value>
-    <value column="Description" isTrl="N" original="A non-unique identifier for a record/document often used as a search tool.">A non-unique identifier for a record/document often used as a search tool.</value>
+    <value column="Name" isTrl="Y" original="Name">Название</value>
+    <value column="PrintName" isTrl="Y" original="Name">Название</value>
+    <value column="Description" isTrl="Y" original="A non-unique identifier for a record/document often used as a search tool.">Не-уникальный идентификатор для записи или документа, чаще всего используется в качестве инструмента поиска.</value>
     <value column="Help" isTrl="N" original="A more descriptive identifier (that does need to be unique) of a record/document that is used as a default search option along with the search key (that is unique and mostly shorter). It is up to 60 characters in length.">A more descriptive identifier (that does need to be unique) of a record/document that is used as a default search option along with the search key (that is unique and mostly shorter). It is up to 60 characters in length.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10887,9 +10887,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="58326C677589D5F2E040007F010102FE" trl="N">
-    <value column="Name" isTrl="N" original="Allow Period Control">Allow Period Control</value>
-    <value column="PrintName" isTrl="N" original="Allow Period Control">Allow Period Control</value>
-    <value column="Description" isTrl="N" original="Specifies if the organization can open and close a period control">Specifies if the organization can open and close a period control</value>
+    <value column="Name" isTrl="Y" original="Allow Period Control">Применяется налоговый период</value>
+    <value column="PrintName" isTrl="Y" original="Allow Period Control">Применяется налоговый период</value>
+    <value column="Description" isTrl="Y" original="Specifies if the organization can open and close a period control">Указывается, если организации необходимо открывать и закрывать периоды для налогового учёта. </value>
     <value column="Help" isTrl="N" original="An organization that is checked as business unit or as a legal entity can open and close a period control.">An organization that is checked as business unit or as a legal entity can open and close a period control.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -11797,9 +11797,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="620" trl="N">
-    <value column="Name" isTrl="N" original="Search Key">Search Key</value>
-    <value column="PrintName" isTrl="N" original="Search Key">Search Key</value>
-    <value column="Description" isTrl="N" original="A fast method for finding a particular record.">A fast method for finding a particular record.</value>
+    <value column="Name" isTrl="Y" original="Search Key">Ключ поиска</value>
+    <value column="PrintName" isTrl="Y" original="Search Key">Ключ поиска</value>
+    <value column="Description" isTrl="Y" original="A fast method for finding a particular record.">Быстрый метод для поиска нужной записи.</value>
     <value column="Help" isTrl="N" original="A search key allows for a fast method of finding a particular record. If you leave the search key empty, the system automatically creates a numeric number originating from a document sequence defined in the  &quot;Document Sequence&quot; window. The sequence naming convention follows a rule &quot;DocumentNo_TableName&quot;, where TableName is the actual name of the database table (e.g. C_Order).&#10;&#10;Usually, company's internal identifiers for various records (products, customers, etc) are stored here.">A search key allows for a fast method of finding a particular record. If you leave the search key empty, the system automatically creates a numeric number originating from a document sequence defined in the  "Document Sequence" window. The sequence naming convention follows a rule "DocumentNo_TableName", where TableName is the actual name of the database table (e.g. C_Order).
 
 Usually, company's internal identifiers for various records (products, customers, etc) are stored here.</value>
@@ -12019,9 +12019,9 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="64F7ED4E80D511DD9EAB7F0741E062E6" trl="N">
-    <value column="Name" isTrl="N" original="Organization Type">Organization Type</value>
-    <value column="PrintName" isTrl="N" original="Organization Type">Organization Type</value>
-    <value column="Description" isTrl="N" original="Defines the Organization Type">Defines the Organization Type</value>
+    <value column="Name" isTrl="Y" original="Organization Type">Вид организации</value>
+    <value column="PrintName" isTrl="Y" original="Organization Type">Вид организации</value>
+    <value column="Description" isTrl="Y" original="Defines the Organization Type">Задать вид организации.</value>
     <value column="Help" isTrl="N" original="Each organization belongs to an organization type defined in the system">Each organization belongs to an organization type defined in the system</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -18871,7 +18871,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="Name" isTrl="N" original="Property">Property</value>
     <value column="PrintName" isTrl="N" original="Property">Property</value>
     <value column="Description" isTrl="N" original="Configuration Property to assign value">Configuration Property to assign value</value>
-    <value column="Help" isTrl="N" original="It is the &quot;Configuration Property&quot; this record sets value to. &#10;&#10;Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.">It is the "Configuration Property" this record sets value to. 
+    <value column="Help" isTrl="N" original="It is the &quot;Configuration Property&quot; this record sets value to. &#10;&#10;Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.">It is the "Configuration Property" this record sets value to.
 
 Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19903,9 +19903,9 @@ If the Heartbeat is also enabled the number of requests per module on the last 3
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="923B13146C2349BC8BF34E8AA3E2F9DB" trl="N">
-    <value column="Name" isTrl="N" original="Legal Name">Legal Name</value>
-    <value column="PrintName" isTrl="N" original="Legal Name">Legal Name</value>
-    <value column="Description" isTrl="N" original="The legal name of the organization">The legal name of the organization</value>
+    <value column="Name" isTrl="Y" original="Legal Name">Юридическое название</value>
+    <value column="PrintName" isTrl="Y" original="Legal Name">Юридическое название</value>
+    <value column="Description" isTrl="Y" original="The legal name of the organization">Указать юридическое название организации.</value>
     <value column="Help" isTrl="N" original="This column refer to the legal name of the organization.">This column refer to the legal name of the organization.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -20358,7 +20358,7 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="Name" isTrl="N" original="Apply Configuration Script">Apply Configuration Script</value>
     <value column="PrintName" isTrl="N" original="Apply Configuration Script">Apply Configuration Script</value>
     <value column="Description" isTrl="N" original="Apply the configuration script when building the application">Apply the configuration script when building the application</value>
-    <value column="Help" isTrl="N" original="This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. &#10;&#10;Note that this information is kept only in the instance but not it is not exported to the module.">This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. 
+    <value column="Help" isTrl="N" original="This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. &#10;&#10;Note that this information is kept only in the instance but not it is not exported to the module.">This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built.
 
 Note that this information is kept only in the instance but not it is not exported to the module.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21713,7 +21713,7 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="Name" isTrl="N" original="Basis Amount">Basis Amount</value>
     <value column="PrintName" isTrl="N" original="Basis Amount">Basis Amount</value>
     <value column="Description" isTrl="N" original="The amount  that will take into account to calculate the commission: net amount or margin.   If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin.   If margin is selected, only the invoices that have shipments will take into account.</value>
-    <value column="Help" isTrl="N" original="The amount  that will take into account to calculate the commission: net amount or margin. &#10; If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin. 
+    <value column="Help" isTrl="N" original="The amount  that will take into account to calculate the commission: net amount or margin. &#10; If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin.
  If margin is selected, only the invoices that have shipments will take into account.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
