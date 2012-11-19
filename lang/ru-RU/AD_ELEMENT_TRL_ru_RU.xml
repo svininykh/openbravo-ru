@@ -929,9 +929,9 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005" trl="N">
-    <value column="Name" isTrl="N" original="Activity">Activity</value>
-    <value column="PrintName" isTrl="N" original="Activity">Activity</value>
-    <value column="Description" isTrl="N" original="A distinct activity defined and used in activity based management.">A distinct activity defined and used in activity based management.</value>
+    <value column="Name" isTrl="Y" original="Activity">Деятельность</value>
+    <value column="PrintName" isTrl="Y" original="Activity">Деятельность</value>
+    <value column="Description" isTrl="Y" original="A distinct activity defined and used in activity based management.">Действия задаваемые и выполняемые для управления бизнес-процессом.</value>
     <value column="Help" isTrl="N" original="Activities indicate tasks that are performed and used to utilize Activity based Costing">Activities indicate tasks that are performed and used to utilize Activity based Costing</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -1350,9 +1350,9 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1007" trl="N">
-    <value column="Name" isTrl="N" original="Freight Cost Rule">Freight Cost Rule</value>
-    <value column="PrintName" isTrl="N" original="Freight Cost Rule">Freight Cost Rule</value>
-    <value column="Description" isTrl="N" original="The calculation method used when charging freight.">The calculation method used when charging freight.</value>
+    <value column="Name" isTrl="Y" original="Freight Cost Rule">Способ расчёта фрахта</value>
+    <value column="PrintName" isTrl="Y" original="Freight Cost Rule">Способ расчёта фрахта</value>
+    <value column="Description" isTrl="Y" original="The calculation method used when charging freight.">Способ расчёта стоимости фрахта применяемый при расчёте стоимости транспортировки.</value>
     <value column="Help" isTrl="N" original="The Freight Cost Rule indicates the method used when charging for freight.">The Freight Cost Rule indicates the method used when charging for freight.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2702,9 +2702,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1239" trl="N">
-    <value column="Name" isTrl="N" original="Print Discount">Print Discount</value>
-    <value column="PrintName" isTrl="N" original="Discount Printed">Discount Printed</value>
-    <value column="Description" isTrl="N" original="An option to have any discount printed on the invoice.">An option to have any discount printed on the invoice.</value>
+    <value column="Name" isTrl="Y" original="Print Discount">Печать скидки</value>
+    <value column="PrintName" isTrl="Y" original="Discount Printed">Печать скидки</value>
+    <value column="Description" isTrl="Y" original="An option to have any discount printed on the invoice.">Опция включающая печать скидки на счёте.</value>
     <value column="Help" isTrl="N" original="The Discount Printed Checkbox indicates if the discount will be printed on the document.">The Discount Printed Checkbox indicates if the discount will be printed on the document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -3898,9 +3898,9 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1514" trl="N">
-    <value column="Name" isTrl="N" original="Priority">Priority</value>
-    <value column="PrintName" isTrl="N" original="Priority">Priority</value>
-    <value column="Description" isTrl="N" original="A defined level of importance or precedence.">A defined level of importance or precedence.</value>
+    <value column="Name" isTrl="Y" original="Priority">Приоритет</value>
+    <value column="PrintName" isTrl="Y" original="Priority">Приоритет</value>
+    <value column="Description" isTrl="Y" original="A defined level of importance or precedence.">Установить уровень важности или приоритета.</value>
     <value column="Help" isTrl="N" original="The Priority indicates the importance of this request.">The Priority indicates the importance of this request.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7250,9 +7250,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="274" trl="N">
-    <value column="Name" isTrl="N" original="Delivery Method">Delivery Method</value>
-    <value column="PrintName" isTrl="N" original="Delivery Via">Delivery Via</value>
-    <value column="Description" isTrl="N" original="The desired means of getting requested goods to a business partner.">The desired means of getting requested goods to a business partner.</value>
+    <value column="Name" isTrl="Y" original="Delivery Method">Способ доставки</value>
+    <value column="PrintName" isTrl="Y" original="Delivery Via">Способ доставки</value>
+    <value column="Description" isTrl="Y" original="The desired means of getting requested goods to a business partner.">Желаемый способ получения заказанных товаров контрагентом.</value>
     <value column="Help" isTrl="N" original="The Delivery Via indicates how the products should be delivered. For example, will the order be picked up or shipped.">The Delivery Via indicates how the products should be delivered. For example, will the order be picked up or shipped.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7531,9 +7531,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="306" trl="N">
-    <value column="Name" isTrl="N" original="Freight Amount">Freight Amount</value>
-    <value column="PrintName" isTrl="N" original="Freight Amt">Freight Amt</value>
-    <value column="Description" isTrl="N" original="The charge amount for a specified shipment.">The charge amount for a specified shipment.</value>
+    <value column="Name" isTrl="Y" original="Freight Amount">Стоимость фрахта</value>
+    <value column="PrintName" isTrl="Y" original="Freight Amt">Стоимость фрахта</value>
+    <value column="Description" isTrl="Y" original="The charge amount for a specified shipment.">Сумма стоимости транспортировки.</value>
     <value column="Help" isTrl="N" original="The Freight Amount indicates the amount charged for Freight in the document currency.">The Freight Amount indicates the amount charged for Freight in the document currency.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -8716,9 +8716,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="455" trl="N">
-    <value column="Name" isTrl="N" original="Shipping Company">Shipping Company</value>
-    <value column="PrintName" isTrl="N" original="Shipper">Shipper</value>
-    <value column="Description" isTrl="N" original="The name of the company making the shipment.">The name of the company making the shipment.</value>
+    <value column="Name" isTrl="Y" original="Shipping Company">Транспортная компания</value>
+    <value column="PrintName" isTrl="Y" original="Shipper">Транспортная компания</value>
+    <value column="Description" isTrl="Y" original="The name of the company making the shipment.">Название компании производящей доставку товара.</value>
     <value column="Help" isTrl="N" original="The Shipper is any entity which will provide shipping to or shipping from an Organization.">The Shipper is any entity which will provide shipping to or shipping from an Organization.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -8728,7 +8728,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
   <row id="459" trl="N">
     <value column="Name" isTrl="Y" original="Warehouse">Склад</value>
     <value column="PrintName" isTrl="Y" original="Warehouse">Склад</value>
-    <value column="Description" isTrl="Y" original="The location where products arrive to or are sent from.">Место куда продукты поступают или откуда отправляются.</value>
+    <value column="Description" isTrl="Y" original="The location where products arrive to or are sent from.">Место куда товары поступают или откуда отправляются.</value>
     <value column="Help" isTrl="N" original="The Warehouse identifies a unique Warehouse where products are stored or Services are provided.">The Warehouse identifies a unique Warehouse where products are stored or Services are provided.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10016,9 +10016,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="550" trl="N">
-    <value column="Name" isTrl="N" original="Sales Campaign">Sales Campaign</value>
-    <value column="PrintName" isTrl="N" original="Campaign">Campaign</value>
-    <value column="Description" isTrl="N" original="An advertising effort aimed at increasing sales.">An advertising effort aimed at increasing sales.</value>
+    <value column="Name" isTrl="Y" original="Sales Campaign">Кампания продаж</value>
+    <value column="PrintName" isTrl="Y" original="Campaign">Кампания</value>
+    <value column="Description" isTrl="Y" original="An advertising effort aimed at increasing sales.">Кампания по продвижению товара на рынке, направленная на увеличение продаж.</value>
     <value column="Help" isTrl="N" original="The Campaign defines a unique marketing program.  Projects can be associated with a pre defined Marketing Campaign.  You can then report based on a specific Campaign.">The Campaign defines a unique marketing program.  Projects can be associated with a pre defined Marketing Campaign.  You can then report based on a specific Campaign.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10056,9 +10056,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="555" trl="N">
-    <value column="Name" isTrl="N" original="Delivery Terms">Delivery Terms</value>
-    <value column="PrintName" isTrl="N" original="Delivery Rule">Delivery Rule</value>
-    <value column="Description" isTrl="N" original="A definition stating when a specific delivery will occur.">A definition stating when a specific delivery will occur.</value>
+    <value column="Name" isTrl="Y" original="Delivery Terms">Условия доставки</value>
+    <value column="PrintName" isTrl="Y" original="Delivery Rule">Условия доставки</value>
+    <value column="Description" isTrl="Y" original="A definition stating when a specific delivery will occur.">На каких условиях будет осуществлена доставка.</value>
     <value column="Help" isTrl="N" original="The Delivery Rule indicates when an order should be delivered. For example should the order be delivered when the entire order is complete, when a line is complete or as the products become available.">The Delivery Rule indicates when an order should be delivered. For example should the order be delivered when the entire order is complete, when a line is complete or as the products become available.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -18910,9 +18910,9 @@ Configuration Properties are defined by modules with the purpose other modules a
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="849" trl="N">
-    <value column="Name" isTrl="N" original="Charge Amount">Charge Amount</value>
-    <value column="PrintName" isTrl="N" original="Charge Amt">Charge Amt</value>
-    <value column="Description" isTrl="N" original="The amount of a cost or expense incurred during business activity.">The amount of a cost or expense incurred during business activity.</value>
+    <value column="Name" isTrl="Y" original="Charge Amount">Сумма затрат</value>
+    <value column="PrintName" isTrl="Y" original="Charge Amt">Сумма затрат</value>
+    <value column="Description" isTrl="Y" original="The amount of a cost or expense incurred during business activity.">Сумма затрат или расходов понесенных текущим бизнес-процессом.</value>
     <value column="Help" isTrl="N" original="The Charge Amount indicates the amount for an additional charge.">The Charge Amount indicates the amount for an additional charge.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -20265,9 +20265,9 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="968" trl="N">
-    <value column="Name" isTrl="N" original="Charge">Charge</value>
-    <value column="PrintName" isTrl="N" original="Charge">Charge</value>
-    <value column="Description" isTrl="N" original="A cost or expense incurred during business activity.">A cost or expense incurred during business activity.</value>
+    <value column="Name" isTrl="Y" original="Charge">Затраты</value>
+    <value column="PrintName" isTrl="Y" original="Charge">Затраты</value>
+    <value column="Description" isTrl="Y" original="A cost or expense incurred during business activity.">Затраты или расходы понесенные текущим бизнес-процессом.</value>
     <value column="Help" isTrl="N" original="The Charge indicates a type of Charge (Handling, Shipping, Restocking)">The Charge indicates a type of Charge (Handling, Shipping, Restocking)</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
