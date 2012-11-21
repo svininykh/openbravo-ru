@@ -119,10 +119,10 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Description" isTrl="N" original="Create Prices based on parameters of this version">Create Prices based on parameters of this version</value>
     <value column="Help" isTrl="N" original="Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.">Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.</value>
   </row>
-  <row id="104" trl="N">
-    <value column="Name" isTrl="N" original="Process Order">Process Order</value>
-    <value column="Description" isTrl="N" original="Process Order">Process Order</value>
-    <value column="Help" isTrl="N" original="Process Order">Process Order</value>
+  <row id="104" trl="Y">
+    <value column="Name" isTrl="Y" original="Process Order">Провести накладную</value>
+    <value column="Description" isTrl="Y" original="Process Order">Провести накладную</value>
+    <value column="Help" isTrl="Y" original="Process Order">Провести накладную</value>
   </row>
   <row id="105" trl="N">
     <value column="Name" isTrl="N" original="Create Inventory Count List">Create Inventory Count List</value>
@@ -501,8 +501,8 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Copy lines (products) from an existing Invoice. By selecting any existing past  invoice, the process will copy all lines (products) from it to the one currently  being edited. This process can be used repetitively to copy lines (products) from several invoices into a new one.">Copy lines (products) from an existing Invoice. By selecting any existing past  invoice, the process will copy all lines (products) from it to the one currently  being edited. This process can be used repetitively to copy lines (products) from several invoices into a new one.</value>
   </row>
   <row id="211" trl="N">
-    <value column="Name" isTrl="N" original="Copy Lines">Copy Lines</value>
-    <value column="Description" isTrl="N" original="Browse history of this particular document type for the selected business partner to be able to select lines (products) from these.">Browse history of this particular document type for the selected business partner to be able to select lines (products) from these.</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копировать строки</value>
+    <value column="Description" isTrl="Y" original="Browse history of this particular document type for the selected business partner to be able to select lines (products) from these.">Просмотреть историю для этого типа документа и для выбранного контрагента, чтобы из них подобрать строки(товары).</value>
     <value column="Help" isTrl="N" original="Browse history of this particular document type for the selected business partner to be able to select lines (products) from these. For example, if you are creating a new sales order for business partner A, Copy Lines window will give you the history of products ordered and the prices given to business partner A within the last X days. X can be set within the business partner window. Consider this as a tiny CRM window.">Browse history of this particular document type for the selected business partner to be able to select lines (products) from these. For example, if you are creating a new sales order for business partner A, Copy Lines window will give you the history of products ordered and the prices given to business partner A within the last X days. X can be set within the business partner window. Consider this as a tiny CRM window.</value>
   </row>
   <row id="212" trl="N">
@@ -739,8 +739,8 @@ This process:&lt;br/&gt;
     <value column="Help" isTrl="N" original="The Balance sheet and P&amp;L structure report engine allows to launch the Balance Sheet and P&amp;L which need to be previously configured.">The Balance sheet and P&amp;L structure report engine allows to launch the Balance Sheet and P&amp;L which need to be previously configured.</value>
   </row>
   <row id="800022" trl="N">
-    <value column="Name" isTrl="N" original="Copy Product Template">Copy Product Template</value>
-    <value column="Description" isTrl="N" original="Copy products from the business partner's template of that sales order.">Copy products from the business partner's template of that sales order.</value>
+    <value column="Name" isTrl="Y" original="Copy Product Template">Копировать шаблон товара</value>
+    <value column="Description" isTrl="Y" original="Copy products from the business partner's template of that sales order.">Копировать товары для данного контрагента из шаблона этой расходной накладной.</value>
     <value column="Help" isTrl="N" original="Copy products from the business partner's template of that sales order.">Copy products from the business partner's template of that sales order.</value>
   </row>
   <row id="800023" trl="N">
@@ -1203,10 +1203,10 @@ This operation can take a long time to complete.</value>
     <value column="Description" isTrl="N" original="Process Purchase Plan">Process Purchase Plan</value>
     <value column="Help" isTrl="N" original="Process Purchase Plan">Process Purchase Plan</value>
   </row>
-  <row id="800165" trl="N">
-    <value column="Name" isTrl="N" original="Copy from Order">Copy from Order</value>
-    <value column="Description" isTrl="N" original="Copy From Order">Copy From Order</value>
-    <value column="Help" isTrl="N" original="Copies lines from Order">Copies lines from Order</value>
+  <row id="800165" trl="Y">
+    <value column="Name" isTrl="Y" original="Copy from Order">Копировать из накладной</value>
+    <value column="Description" isTrl="Y" original="Copy From Order">Копировать из накладной</value>
+    <value column="Help" isTrl="Y" original="Copies lines from Order">Копировать строки из накладной</value>
   </row>
   <row id="800168" trl="N">
     <value column="Name" isTrl="N" original="Not Posted Transaction Report">Not Posted Transaction Report</value>

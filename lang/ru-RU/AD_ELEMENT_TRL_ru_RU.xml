@@ -1702,9 +1702,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1047" trl="N">
-    <value column="Name" isTrl="N" original="Processed">Processed</value>
-    <value column="PrintName" isTrl="N" original="Processed">Processed</value>
-    <value column="Description" isTrl="N" original="A confirmation that the associated documents or requests are processed.">A confirmation that the associated documents or requests are processed.</value>
+    <value column="Name" isTrl="Y" original="Processed">Обработано</value>
+    <value column="PrintName" isTrl="Y" original="Processed">Обработано</value>
+    <value column="Description" isTrl="Y" original="A confirmation that the associated documents or requests are processed.">Признак обработки документов и запросов.</value>
     <value column="Help" isTrl="N" original="The Processed checkbox indicates that a document has been processed.">The Processed checkbox indicates that a document has been processed.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -1972,9 +1972,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1091" trl="N">
-    <value column="Name" isTrl="N" original="Date printed">Date printed</value>
-    <value column="PrintName" isTrl="N" original="Date printed">Date printed</value>
-    <value column="Description" isTrl="N" original="Date the document was printed.">Date the document was printed.</value>
+    <value column="Name" isTrl="Y" original="Date printed">Дата печати</value>
+    <value column="PrintName" isTrl="Y" original="Date printed">Дата печати</value>
+    <value column="Description" isTrl="Y" original="Date the document was printed.">Дата когда данный документ был распечатан.</value>
     <value column="Help" isTrl="N" original="Indicates the Date that a document was printed.">Indicates the Date that a document was printed.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2072,9 +2072,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1106" trl="N">
-    <value column="Name" isTrl="N" original="Sales Transaction">Sales Transaction</value>
-    <value column="PrintName" isTrl="N" original="Sales Transaction">Sales Transaction</value>
-    <value column="Description" isTrl="N" original="An indication that a transfer of goods and money between business partners is occurring.">An indication that a transfer of goods and money between business partners is occurring.</value>
+    <value column="Name" isTrl="Y" original="Sales Transaction">Сделка купли-продажи</value>
+    <value column="PrintName" isTrl="Y" original="Sales Transaction">Сделка купли-продажи</value>
+    <value column="Description" isTrl="Y" original="An indication that a transfer of goods and money between business partners is occurring.">Признак того, что передача товара и денег между контрагентами произошла.</value>
     <value column="Help" isTrl="N" original="The Sales Transaction checkbox indicates if this item is a Sales Transaction.">The Sales Transaction checkbox indicates if this item is a Sales Transaction.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2292,9 +2292,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1143" trl="N">
-    <value column="Name" isTrl="N" original="Form of Payment">Form of Payment</value>
-    <value column="PrintName" isTrl="N" original="Payment Rule">Payment Rule</value>
-    <value column="Description" isTrl="N" original="The method used for payment of this transaction.">The method used for payment of this transaction.</value>
+    <value column="Name" isTrl="Y" original="Form of Payment">Форма оплаты</value>
+    <value column="PrintName" isTrl="Y" original="Payment Rule">Форма оплаты</value>
+    <value column="Description" isTrl="Y" original="The method used for payment of this transaction.">Способ оплаты по сделки.</value>
     <value column="Help" isTrl="N" original="Form of Payment indicates the method of payment used for this transaction (eg. cash, wire transfer, etc.)">Form of Payment indicates the method of payment used for this transaction (eg. cash, wire transfer, etc.)</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2941,15 +2941,15 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="1321" trl="N">
-    <value column="Name" isTrl="N" original="Selected">Selected</value>
-    <value column="PrintName" isTrl="N" original="Selected">Selected</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="1321" trl="Y">
+    <value column="Name" isTrl="Y" original="Selected">Выбрано</value>
+    <value column="PrintName" isTrl="Y" original="Selected">Выбрано</value>
+    <value column="Description" isTrl="Y" original=""/>
+    <value column="Help" isTrl="Y" original=""/>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="1323" trl="N">
     <value column="Name" isTrl="N" original="BOM Quantity">BOM Quantity</value>
@@ -7180,9 +7180,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="263" trl="N">
-    <value column="Name" isTrl="N" original="Accounting Date">Accounting Date</value>
-    <value column="PrintName" isTrl="N" original="Acct Date">Acct Date</value>
-    <value column="Description" isTrl="N" original="The date this transaction is recorded for in the general ledger.">The date this transaction is recorded for in the general ledger.</value>
+    <value column="Name" isTrl="Y" original="Accounting Date">Дата проведения</value>
+    <value column="PrintName" isTrl="Y" original="Acct Date">Дата проведения</value>
+    <value column="Description" isTrl="Y" original="The date this transaction is recorded for in the general ledger.">Дата проведения сделки по Главной книге.</value>
     <value column="Help" isTrl="N" original="The date this transaction is recorded on in the general ledger. This date also indicates which accounting period within the fiscal year this transaction will be part of.">The date this transaction is recorded on in the general ledger. This date also indicates which accounting period within the fiscal year this transaction will be part of.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7533,7 +7533,7 @@ You find the current status in the Document Status field. The options are listed
   <row id="306" trl="N">
     <value column="Name" isTrl="Y" original="Freight Amount">Стоимость фрахта</value>
     <value column="PrintName" isTrl="Y" original="Freight Amt">Стоимость фрахта</value>
-    <value column="Description" isTrl="Y" original="The charge amount for a specified shipment.">Сумма стоимости транспортировки.</value>
+    <value column="Description" isTrl="Y" original="The charge amount for a specified shipment.">Сумма затрат на транспортировку.</value>
     <value column="Help" isTrl="N" original="The Freight Amount indicates the amount charged for Freight in the document currency.">The Freight Amount indicates the amount charged for Freight in the document currency.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7932,15 +7932,15 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="367" trl="N">
-    <value column="Name" isTrl="N" original="Delivered">Delivered</value>
-    <value column="PrintName" isTrl="N" original="Delivered">Delivered</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="367" trl="Y">
+    <value column="Name" isTrl="Y" original="Delivered">Доставлено</value>
+    <value column="PrintName" isTrl="Y" original="Delivered">Доставлено</value>
+    <value column="Description" isTrl="Y" original=""/>
+    <value column="Help" isTrl="Y" original=""/>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="368" trl="N">
     <value column="Name" isTrl="N" original="Displayed">Displayed</value>
@@ -8052,15 +8052,15 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="387" trl="N">
-    <value column="Name" isTrl="N" original="Re-invoice">Re-invoice</value>
-    <value column="PrintName" isTrl="N" original="Invoiced">Invoiced</value>
-    <value column="Description" isTrl="N" original="An indication that a transaction may be invoiced to a business partner.">An indication that a transaction may be invoiced to a business partner.</value>
-    <value column="Help" isTrl="N" original="Indicator if invoiced">Indicator if invoiced</value>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="387" trl="Y">
+    <value column="Name" isTrl="Y" original="Re-invoice">Выставлен счёт</value>
+    <value column="PrintName" isTrl="Y" original="Invoiced">Выставлен счёт</value>
+    <value column="Description" isTrl="Y" original="An indication that a transaction may be invoiced to a business partner.">Признак того, что по сделке контрагенту был выставлен счёт.</value>
+    <value column="Help" isTrl="Y" original="Indicator if invoiced">Индикатор выставления счёта</value>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="389" trl="N">
     <value column="Name" isTrl="N" original="Key Column">Key Column</value>
@@ -8103,9 +8103,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="399" trl="N">
-    <value column="Name" isTrl="N" original="Print">Print</value>
-    <value column="PrintName" isTrl="N" original="Printed">Printed</value>
-    <value column="Description" isTrl="N" original="A reference stating whether or not the document has been printed at any time in the past.">A reference stating whether or not the document has been printed at any time in the past.</value>
+    <value column="Name" isTrl="N" original="Print">Проведено</value>
+    <value column="PrintName" isTrl="N" original="Printed">Проведено</value>
+    <value column="Description" isTrl="N" original="A reference stating whether or not the document has been printed at any time in the past.">Признак проведения по Главной книге.</value>
     <value column="Help" isTrl="N" original="The Printed checkbox indicates if this document or line will included when printing.">The Printed checkbox indicates if this document or line will included when printing.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10058,7 +10058,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
   <row id="555" trl="N">
     <value column="Name" isTrl="Y" original="Delivery Terms">Условия доставки</value>
     <value column="PrintName" isTrl="Y" original="Delivery Rule">Условия доставки</value>
-    <value column="Description" isTrl="Y" original="A definition stating when a specific delivery will occur.">На каких условиях будет осуществлена доставка.</value>
+    <value column="Description" isTrl="Y" original="A definition stating when a specific delivery will occur.">Определяет условия по которым будет произведена доставка.</value>
     <value column="Help" isTrl="N" original="The Delivery Rule indicates when an order should be delivered. For example should the order be delivered when the entire order is complete, when a line is complete or as the products become available.">The Delivery Rule indicates when an order should be delivered. For example should the order be delivered when the entire order is complete, when a line is complete or as the products become available.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10066,14 +10066,14 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="558" trl="N">
-    <value column="Name" isTrl="N" original="Sales Order">Sales Order</value>
-    <value column="PrintName" isTrl="N" original="Sales Order">Sales Order</value>
-    <value column="Description" isTrl="N" original="A unique and often automatically generated identifier for a sales order.">A unique and often automatically generated identifier for a sales order.</value>
+    <value column="Name" isTrl="Y" original="Sales Order">Расходная накладная</value>
+    <value column="PrintName" isTrl="Y" original="Sales Order">Расходная накладная</value>
+    <value column="Description" isTrl="Y" original="A unique and often automatically generated identifier for a sales order.">Уникальный и чаще всего автоматически генерированный идентификатор расходной накладной.</value>
     <value column="Help" isTrl="N" original="Unique identifier and a reference to a Sales Order originating from the document sequence defined for this document type.">Unique identifier and a reference to a Sales Order originating from the document sequence defined for this document type.</value>
-    <value column="PO_Description" isTrl="N" original="A unique and often automatically generated identifier for a purchase order.">A unique and often automatically generated identifier for a purchase order.</value>
+    <value column="PO_Description" isTrl="Y" original="A unique and often automatically generated identifier for a purchase order.">Уникальный и чаще всего автоматически генерированный идентификатор расходной накладной.</value>
     <value column="PO_Help" isTrl="N" original="Unique identifier and a reference to a Purchase Order originating from the document sequence defined for this document type.">Unique identifier and a reference to a Purchase Order originating from the document sequence defined for this document type.</value>
-    <value column="PO_Name" isTrl="N" original="Purchase Order">Purchase Order</value>
-    <value column="PO_PrintName" isTrl="N" original="Purchase Order">Purchase Order</value>
+    <value column="PO_Name" isTrl="Y" original="Purchase Order">Расходная накладная</value>
+    <value column="PO_PrintName" isTrl="Y" original="Purchase Order">Расходная накладная</value>
   </row>
   <row id="559" trl="N">
     <value column="Name" isTrl="Y" original="Invoice Terms">Условия счёта</value>
@@ -13194,15 +13194,15 @@ Product quantity in the order uom.</value>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="800008" trl="N">
-    <value column="Name" isTrl="N" original="Incoterms">Incoterms</value>
-    <value column="PrintName" isTrl="N" original="C_Incoterms_ID">C_Incoterms_ID</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The ID identifies a unique Incoterm">The ID identifies a unique Incoterm</value>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="800008" trl="Y">
+    <value column="Name" isTrl="Y" original="Incoterms">INCOTERMS</value>
+    <value column="PrintName" isTrl="Y" original="C_Incoterms_ID">C_Incoterms_ID</value>
+    <value column="Description" isTrl="Y" original=""/>
+    <value column="Help" isTrl="Y" original="The ID identifies a unique Incoterm">Уникальны ID идентификатор Incoterm</value>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="800009" trl="N">
     <value column="Name" isTrl="N" original="C_Project_Vendor_ID">C_Project_Vendor_ID</value>
@@ -13357,25 +13357,25 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="800024" trl="N">
-    <value column="Name" isTrl="N" original="Delivery notes">Delivery notes</value>
-    <value column="PrintName" isTrl="N" original="Delivery notes">Delivery notes</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Notes for the delivery">Notes for the delivery</value>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="800024" trl="Y">
+    <value column="Name" isTrl="Y" original="Delivery notes">Заметки по доставке</value>
+    <value column="PrintName" isTrl="Y" original="Delivery notes">Заметки по доставке</value>
+    <value column="Description" isTrl="Y" original=""/>
+    <value column="Help" isTrl="Y" original="Notes for the delivery">Заметки по доставке</value>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
-  <row id="800025" trl="N">
-    <value column="Name" isTrl="N" original="INCOTERMS description">INCOTERMS description</value>
-    <value column="PrintName" isTrl="N" original="INCOTERMS description">INCOTERMS description</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Description of the incoterm">Description of the incoterm</value>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="800025" trl="Y">
+    <value column="Name" isTrl="Y" original="INCOTERMS description">Описание INCOTERMS</value>
+    <value column="PrintName" isTrl="Y" original="INCOTERMS description">Описание INCOTERMS</value>
+    <value column="Description" isTrl="Y" original=""/>
+    <value column="Help" isTrl="Y" original="Description of the incoterm">Описание условий INCOTERMS</value>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="800026" trl="N">
     <value column="Name" isTrl="N" original="Filter Clause">Filter Clause</value>
