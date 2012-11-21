@@ -120,9 +120,9 @@
     <value column="Help" isTrl="N" original="Procurement management team can perform several actions regarding requisitions.&lt;br&gt;This window allows them to manage requisitions regardless their current status, therefore they can change or close a requisition and create purchase orders for those demands.">Procurement management team can perform several actions regarding requisitions.&lt;br&gt;This window allows them to manage requisitions regardless their current status, therefore they can change or close a requisition and create purchase orders for those demands.</value>
   </row>
   <row id="1004400002" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Add products to be included in your requisition.  Each product is added by creating a line.">Add products to be included in your requisition.  Each product is added by creating a line.</value>
+    <value column="Description" isTrl="Y" original="Add products to be included in your requisition.  Each product is added by creating a line.">Добавить товары для вашей расходной накладной. Каждый товар добавляется в созданную строку.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Procurement team can perform a set of actions regarding requisitions lines. It is possible for them to either create lines or product demands or to cancel them.">Procurement team can perform a set of actions regarding requisitions lines. It is possible for them to either create lines or product demands or to cancel them.</value>
   </row>
