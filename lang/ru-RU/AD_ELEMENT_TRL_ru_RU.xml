@@ -1480,9 +1480,9 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1021" trl="N">
-    <value column="Name" isTrl="N" original="Error Msg">Error Msg</value>
-    <value column="PrintName" isTrl="N" original="Error Msg">Error Msg</value>
-    <value column="Description" isTrl="N" original="Error Message">Error Message</value>
+    <value column="Name" isTrl="Y" original="Error Msg">Сообщение об ошибке</value>
+    <value column="PrintName" isTrl="Y" original="Error Msg">Сообщение об ошибке</value>
+    <value column="Description" isTrl="y" original="Error Message">Сообщение об ошибке</value>
     <value column="Help" isTrl="N" original="In this filed is stored the error message in case the process fails.">In this filed is stored the error message in case the process fails.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -14517,15 +14517,15 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="800186" trl="N">
-    <value column="Name" isTrl="N" original="Default Account">Default Account</value>
-    <value column="PrintName" isTrl="N" original="Is default account">Is default account</value>
-    <value column="Description" isTrl="N" original="Is default account">Is default account</value>
-    <value column="Help" isTrl="N" original="Is default account">Is default account</value>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="800186" trl="Y">
+    <value column="Name" isTrl="Y" original="Default Account">Счёт по-умолчанию</value>
+    <value column="PrintName" isTrl="Y" original="Is default account">Счёт по-умолчанию</value>
+    <value column="Description" isTrl="Y" original="Is default account">Счёт по-умолчанию</value>
+    <value column="Help" isTrl="Y" original="Is default account">Счёт по-умолчанию</value>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="800187" trl="N">
     <value column="Name" isTrl="N" original="SQL_Record_Identifier">SQL_Record_Identifier</value>
@@ -18627,15 +18627,15 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="8189F57B424989CBE040007F01003EE0" trl="N">
-    <value column="Name" isTrl="N" original="Notes">Notes</value>
-    <value column="PrintName" isTrl="N" original="Notes">Notes</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="8189F57B424989CBE040007F01003EE0" trl="Y">
+    <value column="Name" isTrl="Y" original="Notes">Заметки</value>
+    <value column="PrintName" isTrl="Y" original="Notes">Заметки</value>
+    <value column="Description" isTrl="Y" original=""/>
+    <value column="Help" isTrl="Y" original=""/>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="82003311E52D4992B14F14EE7D1890EA" trl="N">
     <value column="Name" isTrl="N" original="Credit">Credit</value>

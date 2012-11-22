@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_FIELDGROUP" version="">
-  <row id="0595CF7C85754F72B393E766F9CF327C" trl="N">
-    <value column="Name" isTrl="N" original="List Price">List Price</value>
+  <row id="0595CF7C85754F72B393E766F9CF327C" trl="Y">
+    <value column="Name" isTrl="Y" original="List Price">Прейскурант</value>
   </row>
-  <row id="1000100000" trl="N">
-    <value column="Name" isTrl="N" original="Assets">Assets</value>
+  <row id="1000100000" trl="Y">
+    <value column="Name" isTrl="Y" original="Assets">Основные средства</value>
   </row>
-  <row id="1000100001" trl="N">
-    <value column="Name" isTrl="N" original="Audit">Audit</value>
+  <row id="1000100001" trl="Y">
+    <value column="Name" isTrl="Y" original="Audit">Аудит</value>
   </row>
   <row id="1000300000" trl="N">
     <value column="Name" isTrl="N" original="Contact Details">Contact Details</value>
@@ -18,11 +18,11 @@
   <row id="1000300002" trl="N">
     <value column="Name" isTrl="N" original="Newsletter Subscription">Newsletter Subscription</value>
   </row>
-  <row id="1000500000" trl="N">
-    <value column="Name" isTrl="N" original="SMTP Server">SMTP Server</value>
+  <row id="1000500000" trl="Y">
+    <value column="Name" isTrl="Y" original="SMTP Server">Сервер SMTP</value>
   </row>
-  <row id="1000500001" trl="N">
-    <value column="Name" isTrl="N" original="Email template">Email template</value>
+  <row id="1000500001" trl="Y">
+    <value column="Name" isTrl="Y" original="Email template">Шаблон электронного письма</value>
   </row>
   <row id="1002100000" trl="N">
     <value column="Name" isTrl="N" original="Type">Type</value>
@@ -39,29 +39,29 @@
   <row id="104" trl="N">
     <value column="Name" isTrl="N" original="Reference">Reference</value>
   </row>
-  <row id="105" trl="N">
-    <value column="Name" isTrl="N" original="History">History</value>
+  <row id="105" trl="Y">
+    <value column="Name" isTrl="Y" original="History">История</value>
   </row>
-  <row id="106" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+  <row id="106" trl="Y">
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
   </row>
-  <row id="107" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+  <row id="107" trl="Y">
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
   </row>
-  <row id="108" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse">Warehouse</value>
+  <row id="108" trl="Y">
+    <value column="Name" isTrl="Y" original="Warehouse">Склад</value>
   </row>
-  <row id="109" trl="N">
-    <value column="Name" isTrl="N" original="Bank">Bank</value>
+  <row id="109" trl="Y">
+    <value column="Name" isTrl="Y" original="Bank">Банк</value>
   </row>
   <row id="110" trl="N">
     <value column="Name" isTrl="N" original="Cash Journal">Cash Journal</value>
   </row>
-  <row id="111" trl="N">
-    <value column="Name" isTrl="N" original="Tax">Tax</value>
+  <row id="111" trl="Y">
+    <value column="Name" isTrl="Y" original="Tax">Налог</value>
   </row>
-  <row id="112" trl="N">
-    <value column="Name" isTrl="N" original="Project">Project</value>
+  <row id="112" trl="Y">
+    <value column="Name" isTrl="Y" original="Project">Проект</value>
   </row>
   <row id="113" trl="N">
     <value column="Name" isTrl="N" original="General">General</value>
@@ -75,8 +75,8 @@
   <row id="116" trl="N">
     <value column="Name" isTrl="N" original="Actual Costs">Actual Costs</value>
   </row>
-  <row id="117" trl="N">
-    <value column="Name" isTrl="N" original="Statistics">Statistics</value>
+  <row id="117" trl="Y">
+    <value column="Name" isTrl="Y" original="Statistics">Статистика</value>
   </row>
   <row id="118" trl="N">
     <value column="Name" isTrl="N" original="Defaults">Defaults</value>
@@ -99,11 +99,11 @@
   <row id="124" trl="N">
     <value column="Name" isTrl="N" original="Shipment">Shipment</value>
   </row>
-  <row id="125" trl="N">
-    <value column="Name" isTrl="N" original="Document">Document</value>
+  <row id="125" trl="Y">
+    <value column="Name" isTrl="Y" original="Document">Документ</value>
   </row>
-  <row id="126" trl="N">
-    <value column="Name" isTrl="N" original="Line">Line</value>
+  <row id="126" trl="Y">
+    <value column="Name" isTrl="Y" original="Line">Строка</value>
   </row>
   <row id="1714098AD15E4B4692378950DEDD1FA4" trl="N">
     <value column="Name" isTrl="N" original="Step 1: Payment">Step 1: Payment</value>
@@ -123,8 +123,8 @@
   <row id="2216B16A05284E558D809ACC59EBC166" trl="N">
     <value column="Name" isTrl="N" original="Bank Account">Bank Account</value>
   </row>
-  <row id="234172F0D6064D81999B32091AE39018" trl="N">
-    <value column="Name" isTrl="N" original="Filter Options">Filter Options</value>
+  <row id="234172F0D6064D81999B32091AE39018" trl="Y">
+    <value column="Name" isTrl="Y" original="Filter Options">Параметры фильтра</value>
   </row>
   <row id="392B1D87375D422F920E4DA159A86385" trl="N">
     <value column="Name" isTrl="N" original="Step 2: Deposit / Withdrawal">Step 2: Deposit / Withdrawal</value>
@@ -132,14 +132,14 @@
   <row id="3EE1956EA4C4430A8666E6197EB4D074" trl="N">
     <value column="Name" isTrl="N" original="Scheduling">Scheduling</value>
   </row>
-  <row id="402880E72F1C15A5012F1C7AA98B00E8" trl="N">
-    <value column="Name" isTrl="N" original="More Information">More Information</value>
+  <row id="402880E72F1C15A5012F1C7AA98B00E8" trl="Y">
+    <value column="Name" isTrl="Y" original="More Information">Дополнительная информация</value>
   </row>
   <row id="430DD5E155044FDF84A0178BBDF0FE4D" trl="N">
     <value column="Name" isTrl="N" original="Balance Sheet ad P&amp;L Presentation Options">Balance Sheet ad P&amp;L Presentation Options</value>
   </row>
-  <row id="47850828C3E64E458EA4B11F03ABAE28" trl="N">
-    <value column="Name" isTrl="N" original="Unit Price">Unit Price</value>
+  <row id="47850828C3E64E458EA4B11F03ABAE28" trl="Y">
+    <value column="Name" isTrl="Y" original="Unit Price">Цена за единицу</value>
   </row>
   <row id="486D71D088A445099DEF3BC6F5F86D42" trl="N">
     <value column="Name" isTrl="N" original="Advanced Configuration">Advanced Configuration</value>
@@ -162,11 +162,11 @@
   <row id="800000" trl="N">
     <value column="Name" isTrl="N" original="Dimensions">Dimensions</value>
   </row>
-  <row id="800001" trl="N">
-    <value column="Name" isTrl="N" original="Tax Category">Tax Category</value>
+  <row id="800001" trl="Y">
+    <value column="Name" isTrl="Y" original="Tax Category">Категория налога</value>
   </row>
-  <row id="800002" trl="N">
-    <value column="Name" isTrl="N" original="BP Tax Category">BP Tax Category</value>
+  <row id="800002" trl="Y">
+    <value column="Name" isTrl="Y" original="BP Tax Category">Категория налога контрагента</value>
   </row>
   <row id="9E1CC6B8E1804E2487C4BC88009C8783" trl="N">
     <value column="Name" isTrl="N" original="Expense Plan">Expense Plan</value>
