@@ -126,8 +126,8 @@
     <value column="Help" isTrl="N" original="Organization currency will be loaded at login time and used to default its value in transactional windows. It will not be used for cost calculation.">Organization currency will be loaded at login time and used to default its value in transactional windows. It will not be used for cost calculation.</value>
   </row>
   <row id="2124" trl="N">
-    <value column="Name" isTrl="N" original="Language">Language</value>
-    <value column="Description" isTrl="N" original="Language for this application">Language for this application</value>
+    <value column="Name" isTrl="Y" original="Language">Язык</value>
+    <value column="Description" isTrl="Y" original="Language for this application">Язык для данной записи.</value>
     <value column="Help" isTrl="N" original="The Language identifies the language to use for display">The Language identifies the language to use for display</value>
   </row>
   <row id="2686" trl="N">

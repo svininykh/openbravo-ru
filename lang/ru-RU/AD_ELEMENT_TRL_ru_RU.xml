@@ -1962,8 +1962,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="109" trl="N">
-    <value column="Name" isTrl="N" original="Language">Language</value>
-    <value column="PrintName" isTrl="N" original="Language">Language</value>
+    <value column="Name" isTrl="Y" original="Language">Язык</value>
+    <value column="PrintName" isTrl="Y" original="Language">Язык</value>
     <value column="Description" isTrl="N" original="A method of communication being used.">A method of communication being used.</value>
     <value column="Help" isTrl="N" original="The Language identifies the language to use for display">The Language identifies the language to use for display</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2214,7 +2214,7 @@ Advanced features are only granted to the automatic roles defined as advanced.</
   <row id="113" trl="N">
     <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="PrintName" isTrl="Y" original="Organization">Организация</value>
-    <value column="Description" isTrl="Y" original="Organizational entity within client">Организационной подразделение в рамках клиента.</value>
+    <value column="Description" isTrl="Y" original="Organizational entity within client">Структурное подразделение в рамках одной инсталляции системы.</value>
     <value column="Help" isTrl="N" original="An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.">An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2312,9 +2312,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1159" trl="N">
-    <value column="Name" isTrl="N" original="Greeting">Greeting</value>
-    <value column="PrintName" isTrl="N" original="Greeting">Greeting</value>
-    <value column="Description" isTrl="N" original="A description, often abbreviated, of how to address a business partner.">A description, often abbreviated, of how to address a business partner.</value>
+    <value column="Name" isTrl="Y" original="Greeting">Приветствие</value>
+    <value column="PrintName" isTrl="Y" original="Greeting">Приветствие</value>
+    <value column="Description" isTrl="Y" original="A description, often abbreviated, of how to address a business partner.">Сокращенное обозначение обращения к контрагенту.</value>
     <value column="Help" isTrl="N" original="The Greeting identifies the greeting to print on correspondence.">The Greeting identifies the greeting to print on correspondence.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -3302,9 +3302,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1383" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Category">Business Partner Category</value>
-    <value column="PrintName" isTrl="N" original="BPartner Group">BPartner Group</value>
-    <value column="Description" isTrl="N" original="A classification of business partners based on defined similarities.">A classification of business partners based on defined similarities.</value>
+    <value column="Name" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
+    <value column="PrintName" isTrl="Y" original="BPartner Group">Категория контрагента</value>
+    <value column="Description" isTrl="Y" original="A classification of business partners based on defined similarities.">Классификация контрагента по какому-либо подобию.</value>
     <value column="Help" isTrl="N" original="A way of grouping business partners together for classification and reporting purposes. Provides a method of defining certain defaults to be used when opening new business partners.">A way of grouping business partners together for classification and reporting purposes. Provides a method of defining certain defaults to be used when opening new business partners.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -3888,9 +3888,9 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="151" trl="N">
-    <value column="Name" isTrl="N" original="Acquisition Cost">Acquisition Cost</value>
-    <value column="PrintName" isTrl="N" original="Acquisition Cost">Acquisition Cost</value>
-    <value column="Description" isTrl="N" original="The cost of gaining the prospect as a customer">The cost of gaining the prospect as a customer</value>
+    <value column="Name" isTrl="Y" original="Acquisition Cost">Стоимость привлечения</value>
+    <value column="PrintName" isTrl="Y" original="Acquisition Cost">Стоимость привлечения</value>
+    <value column="Description" isTrl="Y" original="The cost of gaining the prospect as a customer">Затраты понесённые для того, чтобы контрагент стал вашим клиентом.</value>
     <value column="Help" isTrl="N" original="The Acquisition Cost identifies the cost associated with making this prospect a customer.">The Acquisition Cost identifies the cost associated with making this prospect a customer.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7259,15 +7259,15 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="275" trl="N">
+  <row id="275" trl="Y">
     <value column="Name" isTrl="Y" original="Description">Описание</value>
     <value column="PrintName" isTrl="Y" original="Description">Описание</value>
     <value column="Description" isTrl="Y" original="A space to write additional related information.">Поле для записи дополнительной информации.</value>
-    <value column="Help" isTrl="N" original="A description is limited to 255 characters.">A description is limited to 255 characters.</value>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="A description is limited to 255 characters.">Описание ограничено 255 символами.</value>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="278" trl="N">
     <value column="Name" isTrl="N" original="Discontinued">Discontinued</value>
@@ -7521,9 +7521,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="305" trl="N">
-    <value column="Name" isTrl="N" original="Date of First Sale">Date of First Sale</value>
-    <value column="PrintName" isTrl="N" original="First Sale">First Sale</value>
-    <value column="Description" isTrl="N" original="Date of First Sale">Date of First Sale</value>
+    <value column="Name" isTrl="Y" original="Date of First Sale">Дата первой продажи</value>
+    <value column="PrintName" isTrl="Y" original="First Sale">Дата первой продажи</value>
+    <value column="Description" isTrl="Y" original="Date of First Sale">Дата первой продажи данному контрагенту.</value>
     <value column="Help" isTrl="N" original="The First Sale Date identifies the date of the first sale to this Business Partner">The First Sale Date identifies the date of the first sale to this Business Partner</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7913,9 +7913,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="364" trl="N">
-    <value column="Name" isTrl="N" original="Customer">Customer</value>
-    <value column="PrintName" isTrl="N" original="Customer">Customer</value>
-    <value column="Description" isTrl="N" original="Indicates a business partner that is your customer, ie. that will be making purchases from you.">Indicates a business partner that is your customer, ie. that will be making purchases from you.</value>
+    <value column="Name" isTrl="Y" original="Customer">Клиент</value>
+    <value column="PrintName" isTrl="Y" original="Customer">Клиент</value>
+    <value column="Description" isTrl="Y" original="Indicates a business partner that is your customer, ie. that will be making purchases from you.">Индикатор того, что контрагент является покупателем ваших товаров или услуг.</value>
     <value column="Help" isTrl="N" original="Indicates a business partner that is your customer, ie. that will be making purchases from you. If selected, additional fields will display further details that need to be entered for a customer.">Indicates a business partner that is your customer, ie. that will be making purchases from you. If selected, additional fields will display further details that need to be entered for a customer.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -8285,9 +8285,9 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="402" trl="N">
-    <value column="Name" isTrl="N" original="Potential Customer">Potential Customer</value>
-    <value column="PrintName" isTrl="N" original="Active Prospect/Customer">Active Prospect/Customer</value>
-    <value column="Description" isTrl="N" original="Indicates a Prospect or Customer">Indicates a Prospect or Customer</value>
+    <value column="Name" isTrl="Y" original="Potential Customer">Потенциальный клиент</value>
+    <value column="PrintName" isTrl="Y" original="Active Prospect/Customer">Потенциальный клиент</value>
+    <value column="Description" isTrl="Y" original="Indicates a Prospect or Customer">Индикатор того, что контрагент является потенциальным клиентом.</value>
     <value column="Help" isTrl="N" original="The Prospect checkbox indicates an entity that is an active prospect or customer.">The Prospect checkbox indicates an entity that is an active prospect or customer.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -8846,9 +8846,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="473" trl="N">
-    <value column="Name" isTrl="N" original="No. of Employees">No. of Employees</value>
+    <value column="Name" isTrl="Y" original="No. of Employees">Код сотрудника</value>
     <value column="PrintName" isTrl="N" original="Employees">Employees</value>
-    <value column="Description" isTrl="N" original="Number of employees">Number of employees</value>
+    <value column="Description" isTrl="Y" original="Number of employees">Код сотрудника</value>
     <value column="Help" isTrl="N" original="Indicates the number of employees for this Business Partner.  This field displays only for Prospects.">Indicates the number of employees for this Business Partner.  This field displays only for Prospects.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -9195,15 +9195,15 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="50EF79F35DC543D3B72CC7B862E708F1" trl="N">
-    <value column="Name" isTrl="N" original="Fiscal Name">Fiscal Name</value>
-    <value column="PrintName" isTrl="N" original="Fiscal Name">Fiscal Name</value>
-    <value column="Description" isTrl="N" original="Fiscal Name of the Business Partner.">Fiscal Name of the Business Partner.</value>
-    <value column="Help" isTrl="N" original="Fiscal Name of the Business Partner.">Fiscal Name of the Business Partner.</value>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="50EF79F35DC543D3B72CC7B862E708F1" trl="Y">
+    <value column="Name" isTrl="Y" original="Fiscal Name">Официальное наименование</value>
+    <value column="PrintName" isTrl="Y" original="Fiscal Name">Официальное наименование</value>
+    <value column="Description" isTrl="Y" original="Fiscal Name of the Business Partner.">Полное наименование контрагента для использования в бухгалтерских документах.</value>
+    <value column="Help" isTrl="Y" original="Fiscal Name of the Business Partner.">Полное наименование контрагента для использования в бухгалтерских документах.</value>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="510" trl="N">
     <value column="Name" isTrl="N" original="Post Encumbrance">Post Encumbrance</value>
@@ -9256,9 +9256,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="515" trl="N">
-    <value column="Name" isTrl="N" original="Expected Lifetime Revenue">Expected Lifetime Revenue</value>
-    <value column="PrintName" isTrl="N" original="Potential Life Time Value">Potential Life Time Value</value>
-    <value column="Description" isTrl="N" original="Total Revenue expected">Total Revenue expected</value>
+    <value column="Name" isTrl="N" original="Expected Lifetime Revenue">Ожидаемая прибыль</value>
+    <value column="PrintName" isTrl="N" original="Potential Life Time Value">Ожидаемая прибыль</value>
+    <value column="Description" isTrl="N" original="Total Revenue expected">Общая ожидаемая прибыль</value>
     <value column="Help" isTrl="N" original="The Potential Life Time Value is the anticipated revenue to be generated by this Business Partner.">The Potential Life Time Value is the anticipated revenue to be generated by this Business Partner.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -9966,9 +9966,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="540" trl="N">
-    <value column="Name" isTrl="N" original="Reference No.">Reference No.</value>
-    <value column="PrintName" isTrl="N" original="Reference No">Reference No</value>
-    <value column="Description" isTrl="N" original="The number for a specific reference.">The number for a specific reference.</value>
+    <value column="Name" isTrl="Y" original="Reference No.">Идентификатор</value>
+    <value column="PrintName" isTrl="Y" original="Reference No">Идентификатор</value>
+    <value column="Description" isTrl="Y" original="The number for a specific reference.">Уникальный код контрагента, для указания в документах.</value>
     <value column="Help" isTrl="N" original="The reference number can be printed on orders and invoices to allow your business partner to faster identify your records.">The reference number can be printed on orders and invoices to allow your business partner to faster identify your records.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -11187,9 +11187,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="590" trl="N">
-    <value column="Name" isTrl="N" original="Tax ID">Tax ID</value>
-    <value column="PrintName" isTrl="N" original="Tax ID">Tax ID</value>
-    <value column="Description" isTrl="N" original="The government defined unique number for assigning and paying taxes.">The government defined unique number for assigning and paying taxes.</value>
+    <value column="Name" isTrl="Y" original="Tax ID">ИНН/КПП</value>
+    <value column="PrintName" isTrl="Y" original="Tax ID">ИНН/КПП</value>
+    <value column="Description" isTrl="Y" original="The government defined unique number for assigning and paying taxes.">Присваеваемый государством уникальный номер для начисления и уплаты налогов.</value>
     <value column="Help" isTrl="N" original="The Tax ID field identifies the legal Identification number of this Entity.">The Tax ID field identifies the legal Identification number of this Entity.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -11797,9 +11797,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="620" trl="N">
-    <value column="Name" isTrl="Y" original="Search Key">Ключ поиска</value>
-    <value column="PrintName" isTrl="Y" original="Search Key">Ключ поиска</value>
-    <value column="Description" isTrl="Y" original="A fast method for finding a particular record.">Быстрый метод для поиска нужной записи.</value>
+    <value column="Name" isTrl="Y" original="Search Key">Код поиска</value>
+    <value column="PrintName" isTrl="Y" original="Search Key">Код поиска</value>
+    <value column="Description" isTrl="Y" original="A fast method for finding a particular record.">Короткое наименование для поиска записи в системе.</value>
     <value column="Help" isTrl="N" original="A search key allows for a fast method of finding a particular record. If you leave the search key empty, the system automatically creates a numeric number originating from a document sequence defined in the  &quot;Document Sequence&quot; window. The sequence naming convention follows a rule &quot;DocumentNo_TableName&quot;, where TableName is the actual name of the database table (e.g. C_Order).&#10;&#10;Usually, company's internal identifiers for various records (products, customers, etc) are stored here.">A search key allows for a fast method of finding a particular record. If you leave the search key empty, the system automatically creates a numeric number originating from a document sequence defined in the  "Document Sequence" window. The sequence naming convention follows a rule "DocumentNo_TableName", where TableName is the actual name of the database table (e.g. C_Order).
 
 Usually, company's internal identifiers for various records (products, customers, etc) are stored here.</value>
@@ -20245,9 +20245,9 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="962" trl="N">
-    <value column="Name" isTrl="N" original="Valuation">Valuation</value>
-    <value column="PrintName" isTrl="N" original="Rating">Rating</value>
-    <value column="Description" isTrl="N" original="An estimation or appraisal with the goal of defining a value.">An estimation or appraisal with the goal of defining a value.</value>
+    <value column="Name" isTrl="Y" original="Valuation">Рейтинг</value>
+    <value column="PrintName" isTrl="Y" original="Rating">Рейтинг</value>
+    <value column="Description" isTrl="Y" original="An estimation or appraisal with the goal of defining a value.">Прогнозируемый или рассчётнный показатель ценности.</value>
     <value column="Help" isTrl="N" original="The Rating is used to differentiate the importance">The Rating is used to differentiate the importance</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -20315,9 +20315,9 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="983" trl="N">
-    <value column="Name" isTrl="N" original="URL">URL</value>
-    <value column="PrintName" isTrl="N" original="URL">URL</value>
-    <value column="Description" isTrl="N" original="An address which can be accessed via internet.">An address which can be accessed via internet.</value>
+    <value column="Name" isTrl="Y" original="URL">WEB адрес</value>
+    <value column="PrintName" isTrl="Y" original="URL">WEB адрес</value>
+    <value column="Description" isTrl="Y" original="An address which can be accessed via internet.">Ссылка на сайт в интернет.</value>
     <value column="Help" isTrl="N" original="The URL defines an online address for this element.">The URL defines an online address for this element.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
