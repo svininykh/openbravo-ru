@@ -5531,7 +5531,7 @@ If selected, this column will be used in the Search Window as an available filte
   <row id="187" trl="N">
     <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
     <value column="PrintName" isTrl="Y" original="Business Partner">Контрагент</value>
-    <value column="Description" isTrl="Y" original="Anyone who takes part in daily business operations by acting as a customer, employee, etc.">Тот кто участвует в ежедневных бизнес-операциях, выступая в качестве покупателя, работника и т.п.</value>
+    <value column="Description" isTrl="Y" original="Anyone who takes part in daily business operations by acting as a customer, employee, etc.">Субъект участвующий в ежедневных бизнес-операциях, выступая в качестве клиента, поставщика или работника.</value>
     <value column="Help" isTrl="N" original="A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.">A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7973,9 +7973,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="373" trl="N">
-    <value column="Name" isTrl="N" original="Employee">Employee</value>
-    <value column="PrintName" isTrl="N" original="Employee">Employee</value>
-    <value column="Description" isTrl="N" original="A business partner who will be working for an organization.">A business partner who will be working for an organization.</value>
+    <value column="Name" isTrl="Y" original="Employee">Сотрудник</value>
+    <value column="PrintName" isTrl="Y" original="Employee">Сотрудник</value>
+    <value column="Description" isTrl="Y" original="A business partner who will be working for an organization.">Индикатор того, что контрагент является сотрудником вашей организации.</value>
     <value column="Help" isTrl="N" original="The Employee checkbox indicates if this Business Partner is an Employee.  If it is selected, additional fields will display which further identify this employee.">The Employee checkbox indicates if this Business Partner is an Employee.  If it is selected, additional fields will display which further identify this employee.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -8517,7 +8517,7 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
   <row id="416" trl="N">
     <value column="Name" isTrl="Y" original="Summary Level">Уровень группировки</value>
     <value column="PrintName" isTrl="Y" original="Summary Level">Уровень группировки</value>
-    <value column="Description" isTrl="Y" original="A means of grouping fields in order to view or hide additional information.">Инструмент группировки записей для отображения или сокрытия дополнительной информаций.</value>
+    <value column="Description" isTrl="Y" original="A means of grouping fields in order to view or hide additional information.">Инструмент группировки записей для отображения или сокрытия дополнительной информации.</value>
     <value column="Help" isTrl="N" original="A summary entity represents a branch in a tree rather than an end-node. Summary entities are used for reporting and do not have own values.">A summary entity represents a branch in a tree rather than an end-node. Summary entities are used for reporting and do not have own values.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -8575,9 +8575,9 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="426" trl="N">
-    <value column="Name" isTrl="N" original="Vendor">Vendor</value>
-    <value column="PrintName" isTrl="N" original="Vendor">Vendor</value>
-    <value column="Description" isTrl="N" original="A business partner who sells products or services.">A business partner who sells products or services.</value>
+    <value column="Name" isTrl="Y" original="Vendor">Поставщик</value>
+    <value column="PrintName" isTrl="Y" original="Vendor">Поставщик</value>
+    <value column="Description" isTrl="Y" original="A business partner who sells products or services.">Индикатор того, что контрагент является поставщиком ваших товаров или услуг.</value>
     <value column="Help" isTrl="N" original="The Vendor checkbox indicates if this Business Partner is a Vendor.  If it is selected, additional fields will display which further identify this vendor.">The Vendor checkbox indicates if this Business Partner is a Vendor.  If it is selected, additional fields will display which further identify this vendor.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -8796,9 +8796,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="468" trl="N">
-    <value column="Name" isTrl="N" original="NAICS/SIC">NAICS/SIC</value>
-    <value column="PrintName" isTrl="N" original="NAICS/SIC">NAICS/SIC</value>
-    <value column="Description" isTrl="N" original="Standard Industry Code or its successor NAIC - http://www.osha.gov/oshstats/sicser.html">Standard Industry Code or its successor NAIC - http://www.osha.gov/oshstats/sicser.html</value>
+    <value column="Name" isTrl="Y" original="NAICS/SIC">Код NAICS/SIC</value>
+    <value column="PrintName" isTrl="Y" original="NAICS/SIC">Код NAICS/SIC</value>
+    <value column="Description" isTrl="Y" original="Standard Industry Code or its successor NAIC - http://www.osha.gov/oshstats/sicser.html">Стандартный промышленный код или его преемник NAIC - http://www.osha.gov/oshstats/sicser.html</value>
     <value column="Help" isTrl="N" original="The NAICS/SIC identifies either of these codes that may be applicable to this Business Partner.">The NAICS/SIC identifies either of these codes that may be applicable to this Business Partner.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10036,9 +10036,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="553" trl="N">
-    <value column="Name" isTrl="N" original="Credit Line Limit">Credit Line Limit</value>
-    <value column="PrintName" isTrl="N" original="Credit Line Limit">Credit Line Limit</value>
-    <value column="Description" isTrl="N" original="Total outstanding invoice amounts allowed">Total outstanding invoice amounts allowed</value>
+    <value column="Name" isTrl="Y" original="Credit Line Limit">Кредитный лимит</value>
+    <value column="PrintName" isTrl="Y" original="Credit Line Limit">Кредитный лимит</value>
+    <value column="Description" isTrl="Y" original="Total outstanding invoice amounts allowed">Общая сумма разрешённых счетов к выставлению без оплаты.</value>
     <value column="Help" isTrl="N" original="The Credit Line Limit indicates the total amount allowed 'on account'.  If this is exceeded a warning message will be generated.">The Credit Line Limit indicates the total amount allowed 'on account'.  If this is exceeded a warning message will be generated.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10046,9 +10046,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="554" trl="N">
-    <value column="Name" isTrl="N" original="Customer Balance">Customer Balance</value>
-    <value column="PrintName" isTrl="N" original="Customer Balance">Customer Balance</value>
-    <value column="Description" isTrl="N" original="Current open balance">Current open balance</value>
+    <value column="Name" isTrl="Y" original="Customer Balance">Баланс клиента</value>
+    <value column="PrintName" isTrl="Y" original="Customer Balance">Баланс клиента</value>
+    <value column="Description" isTrl="Y" original="Current open balance">Текущий баланс по клиенту.</value>
     <value column="Help" isTrl="N" original="The Customer Balance indicates the total amount of open or unpaid invoices for this Business Partner.">The Customer Balance indicates the total amount of open or unpaid invoices for this Business Partner.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10078,7 +10078,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
   <row id="559" trl="N">
     <value column="Name" isTrl="Y" original="Invoice Terms">Условия счёта</value>
     <value column="PrintName" isTrl="Y" original="Invoice Rule">Условия счёта</value>
-    <value column="Description" isTrl="Y" original="Frequency and method of invoicing">Периодичность и методика выставления счёта.</value>
+    <value column="Description" isTrl="Y" original="Frequency and method of invoicing">Периодичность и методика выставления счётов.</value>
     <value column="Help" isTrl="N" original="The Invoice Rule defines how a Business Partner is invoiced and the frequency of invoicing.">The Invoice Rule defines how a Business Partner is invoiced and the frequency of invoicing.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10086,9 +10086,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="560" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Schedule">Invoice Schedule</value>
-    <value column="PrintName" isTrl="N" original="Invoice Schedule">Invoice Schedule</value>
-    <value column="Description" isTrl="N" original="Schedule for generating Invoices">Schedule for generating Invoices</value>
+    <value column="Name" isTrl="N" original="Invoice Schedule">График выставления счёта</value>
+    <value column="PrintName" isTrl="N" original="Invoice Schedule">График выставления счёта</value>
+    <value column="Description" isTrl="N" original="Schedule for generating Invoices">График выставления счетов.</value>
     <value column="Help" isTrl="N" original="The Invoice Schedule identifies the frequency used when generating invoices.">The Invoice Schedule identifies the frequency used when generating invoices.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -11597,9 +11597,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="603" trl="N">
-    <value column="Name" isTrl="N" original="UPC/EAN">UPC/EAN</value>
-    <value column="PrintName" isTrl="N" original="UPC/EAN">UPC/EAN</value>
-    <value column="Description" isTrl="N" original="A  bar code with a number to identify a product.">A  bar code with a number to identify a product.</value>
+    <value column="Name" isTrl="Y" original="UPC/EAN">Код UPC/EAN</value>
+    <value column="PrintName" isTrl="Y" original="UPC/EAN">Код UPC/EAN</value>
+    <value column="Description" isTrl="Y" original="A  bar code with a number to identify a product.">Цифровой штрих код для идентификации продукции.</value>
     <value column="Help" isTrl="N" original="Use this field to enter the bar code for the product in any of the bar code symbologies (Codabar, Code 25, Code 39, Code 93, Code 128, UPC (A), UPC (E), EAN-13, EAN-8, ITF, ITF-14, ISBN, ISSN, JAN-13, JAN-8, POSTNET and FIM, MSI/Plessey, and Pharmacode)">Use this field to enter the bar code for the product in any of the bar code symbologies (Codabar, Code 25, Code 39, Code 93, Code 128, UPC (A), UPC (E), EAN-13, EAN-8, ITF, ITF-14, ISBN, ISSN, JAN-13, JAN-8, POSTNET and FIM, MSI/Plessey, and Pharmacode)</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -14568,9 +14568,9 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800193" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Grouping">Invoice Grouping</value>
-    <value column="PrintName" isTrl="N" original="Invoice grouping">Invoice grouping</value>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Name" isTrl="Y" original="Invoice Grouping">Группировка счёта</value>
+    <value column="PrintName" isTrl="Y" original="Invoice grouping">Группировка счёта</value>
+    <value column="Description" isTrl="Y" original=""/>
     <value column="Help" isTrl="N" original="For scheduled invoicing, break into different invoices if the related values are different. The value is used as a binary code with 15 digits:&#10;1.-Order organization (AD_Org_ID)&#10;2.-Order (C_Order_ID)&#10;3.-Shipment (M_InOut_ID)&#10;4.-Invoice location (BillTo_ID)&#10;5.-Ship location (C_BPartner_Location_ID)&#10;6.-Sales representative (SalesRep_ID)&#10;7.-Payment rule (PaymentRule)&#10;8.-Payment term (C_PaymentTerm_ID)&#10;9.-Currency (C_Currency_ID)&#10;10.-Campaign (C_Campaign_ID)&#10;11.-Project (C_Project_ID)&#10;12.-Activity (C_Activity_ID)&#10;13.-Transaction organization (AD_OrgTrx_ID)&#10;14.-User defined 1 (User1)&#10;15.-User defined 2 (User2)&#10;&#10;For example, if you want to create different invoices for each ship location for a customer, use the value &quot;By ship location&quot; (000010000000000)">For scheduled invoicing, break into different invoices if the related values are different. The value is used as a binary code with 15 digits:
 1.-Order organization (AD_Org_ID)
 2.-Order (C_Order_ID)
@@ -19701,15 +19701,15 @@ If the payment does not have a generated credit amount is the amount of credit u
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="91534ABABD064DF8A702EE18DEE8F998" trl="N">
-    <value column="Name" isTrl="N" original="Commercial Name">Commercial Name</value>
-    <value column="PrintName" isTrl="N" original="Commercial Name">Commercial Name</value>
-    <value column="Description" isTrl="N" original="Commercial Name of the Business Partner">Commercial Name of the Business Partner</value>
-    <value column="Help" isTrl="N" original="Commercial Name of the Business Partner">Commercial Name of the Business Partner</value>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="91534ABABD064DF8A702EE18DEE8F998" trl="Y">
+    <value column="Name" isTrl="Y" original="Commercial Name">Наименование</value>
+    <value column="PrintName" isTrl="Y" original="Commercial Name">Наименование</value>
+    <value column="Description" isTrl="Y" original="Commercial Name of the Business Partner">Наименование контрагента</value>
+    <value column="Help" isTrl="Y" original="Commercial Name of the Business Partner">Наименование контрагента</value>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="9155635C577298D2E040007F01001C13" trl="N">
     <value column="Name" isTrl="N" original="Executed Custom Query">Executed Custom Query</value>
@@ -19995,9 +19995,9 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original="Expense Plan Type">Expense Plan Type</value>
   </row>
   <row id="930" trl="N">
-    <value column="Name" isTrl="N" original="Tax Exempt">Tax Exempt</value>
-    <value column="PrintName" isTrl="N" original="Tax exempt">Tax exempt</value>
-    <value column="Description" isTrl="N" original="A condition stating that for a specific case, taxes must not be applied.">A condition stating that for a specific case, taxes must not be applied.</value>
+    <value column="Name" isTrl="Y" original="Tax Exempt">Налоговое условие</value>
+    <value column="PrintName" isTrl="Y" original="Tax exempt">Налоговое условие</value>
+    <value column="Description" isTrl="Y" original="A condition stating that for a specific case, taxes must not be applied.">Условие, устанавливающее, что в конкретном случае оборот освобождён от налогов.</value>
     <value column="Help" isTrl="N" original="If a business partner is exempt from tax, the exempt tax rate is used. For this, you need to set up a tax rate with a 0% rate and indicate that this is your tax exempt rate.  This is required for tax reporting, so that you can track tax exempt transactions.">If a business partner is exempt from tax, the exempt tax rate is used. For this, you need to set up a tax rate with a 0% rate and indicate that this is your tax exempt rate.  This is required for tax reporting, so that you can track tax exempt transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -20247,7 +20247,7 @@ There is an example image on the Login folder of the Default skin.</value>
   <row id="962" trl="N">
     <value column="Name" isTrl="Y" original="Valuation">Рейтинг</value>
     <value column="PrintName" isTrl="Y" original="Rating">Рейтинг</value>
-    <value column="Description" isTrl="Y" original="An estimation or appraisal with the goal of defining a value.">Прогнозируемый или рассчётнный показатель ценности.</value>
+    <value column="Description" isTrl="Y" original="An estimation or appraisal with the goal of defining a value.">Прогнозируемый или расчётнный показатель ценности.</value>
     <value column="Help" isTrl="N" original="The Rating is used to differentiate the importance">The Rating is used to differentiate the importance</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
