@@ -1390,9 +1390,9 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1009" trl="N">
-    <value column="Name" isTrl="N" original="Customer Prepayment">Customer Prepayment</value>
+    <value column="Name" isTrl="N" original="Customer Prepayment">Счет предоплаты</value>
     <value column="PrintName" isTrl="N" original="Customer Prepayment">Customer Prepayment</value>
-    <value column="Description" isTrl="N" original="The Customer Prepayment account indicates the account to be used for recording prepayments from a customer.">The Customer Prepayment account indicates the account to be used for recording prepayments from a customer.</value>
+    <value column="Description" isTrl="N" original="The Customer Prepayment account indicates the account to be used for recording prepayments from a customer.">Счет для учета предоплат по данному клиенту</value>
     <value column="Help" isTrl="N" original="The Customer Prepayment account indicates the account to be used for recording prepayments from a customer.">The Customer Prepayment account indicates the account to be used for recording prepayments from a customer.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -1400,9 +1400,9 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1010" trl="N">
-    <value column="Name" isTrl="N" original="Customer Receivables No.">Customer Receivables No.</value>
+    <value column="Name" isTrl="N" original="Customer Receivables No.">Счет расчетов с клиентом</value>
     <value column="PrintName" isTrl="N" original="Customer Receivables">Customer Receivables</value>
-    <value column="Description" isTrl="N" original="An account number in the general ledger to mark transactions with a business partner.">An account number in the general ledger to mark transactions with a business partner.</value>
+    <value column="Description" isTrl="N" original="An account number in the general ledger to mark transactions with a business partner.">Счет, на котором отображаются расчеты с данным клиентом</value>
     <value column="Help" isTrl="N" original="The Customer Receivables Accounts indicates the account to be used for recording transaction for customers receivables.">The Customer Receivables Accounts indicates the account to be used for recording transaction for customers receivables.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2722,9 +2722,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1244" trl="N">
-    <value column="Name" isTrl="N" original="Order Description">Order Description</value>
+    <value column="Name" isTrl="N" original="Order Description">Описание для заказа</value>
     <value column="PrintName" isTrl="N" original="Order Description">Order Description</value>
-    <value column="Description" isTrl="N" original="Description to be used on orders">Description to be used on orders</value>
+    <value column="Description" isTrl="N" original="Description to be used on orders">Описание, которое подставляется в заказы</value>
     <value column="Help" isTrl="N" original="The Order Description identifies the standard description to use on orders for this Customer.">The Order Description identifies the standard description to use on orders for this Customer.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -3032,9 +3032,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1347" trl="N">
-    <value column="Name" isTrl="N" original="Vendor">Vendor</value>
+    <value column="Name" isTrl="N" original="Vendor">Поставщик</value>
     <value column="PrintName" isTrl="N" original="Vendor">Vendor</value>
-    <value column="Description" isTrl="N" original="A business partner who sells products or services.">A business partner who sells products or services.</value>
+    <value column="Description" isTrl="N" original="A business partner who sells products or services.">Индикатор того, что контрагент является для вас поставщиком товаров или услуг.</value>
     <value column="Help" isTrl="N" original="Identifies a business partner that is a vendor.">Identifies a business partner that is a vendor.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -8577,7 +8577,7 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
   <row id="426" trl="N">
     <value column="Name" isTrl="Y" original="Vendor">Поставщик</value>
     <value column="PrintName" isTrl="Y" original="Vendor">Поставщик</value>
-    <value column="Description" isTrl="Y" original="A business partner who sells products or services.">Индикатор того, что контрагент является поставщиком ваших товаров или услуг.</value>
+    <value column="Description" isTrl="Y" original="A business partner who sells products or services.">Индикатор того, что контрагент является для вас поставщиком товаров или услуг.</value>
     <value column="Help" isTrl="N" original="The Vendor checkbox indicates if this Business Partner is a Vendor.  If it is selected, additional fields will display which further identify this vendor.">The Vendor checkbox indicates if this Business Partner is a Vendor.  If it is selected, additional fields will display which further identify this vendor.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -11979,9 +11979,9 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6393DB0FCE8A4528A39135C54581DD88" trl="N">
-    <value column="Name" isTrl="N" original="Status">Status</value>
+    <value column="Name" isTrl="N" original="Status">Статус</value>
     <value column="PrintName" isTrl="N" original="Status">Status</value>
-    <value column="Description" isTrl="N" original="Identifies the Status of the document">Identifies the Status of the document</value>
+    <value column="Description" isTrl="N" original="Identifies the Status of the document">Определяет состояние или положение оплаты</value>
     <value column="Help" isTrl="N" original="Identifies the Status of the document">Identifies the Status of the document</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -12824,9 +12824,9 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7C3B1415D4AF4EA09F8687E13D692A5D" trl="N">
-    <value column="Name" isTrl="N" original="Incoterms ( PO )">Incoterms ( PO )</value>
+    <value column="Name" isTrl="N" original="Incoterms ( PO )">Инкотермс закупки</value>
     <value column="PrintName" isTrl="N" original="Incoterms ( PO )">Incoterms ( PO )</value>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="">Код условия инкотермс для заказа на покупку</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -13488,9 +13488,9 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800037" trl="N">
-    <value column="Name" isTrl="N" original="Maturity Date 2">Maturity Date 2</value>
+    <value column="Name" isTrl="N" original="Maturity Date 2">Дата погашения 2</value>
     <value column="PrintName" isTrl="N" original="Fix Month Day 2">Fix Month Day 2</value>
-    <value column="Description" isTrl="N" original="The day of the month that invoices are due.   3 maturity dates can be defined.">The day of the month that invoices are due.   3 maturity dates can be defined.</value>
+    <value column="Description" isTrl="N" original="The day of the month that invoices are due.   3 maturity dates can be defined.">Дата среди месяца, в которую производится расчеты с клиентом.</value>
     <value column="Help" isTrl="N" original="The Fix Month Day indicates the day of the month that invoices are due.  This field is displayed only when the fixed due date checkbox is selected. 3 different fix month days can be defined.">The Fix Month Day indicates the day of the month that invoices are due.  This field is displayed only when the fixed due date checkbox is selected. 3 different fix month days can be defined.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -14198,9 +14198,9 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800146" trl="N">
-    <value column="Name" isTrl="N" original="Maturity Date 3">Maturity Date 3</value>
+    <value column="Name" isTrl="N" original="Maturity Date 3">Дата погашения 3</value>
     <value column="PrintName" isTrl="N" original="Fix Month Day 3">Fix Month Day 3</value>
-    <value column="Description" isTrl="N" original="The day of the month that invoices are due.   3 maturity dates can be defined.">The day of the month that invoices are due.   3 maturity dates can be defined.</value>
+    <value column="Description" isTrl="N" original="The day of the month that invoices are due.   3 maturity dates can be defined.">Дата среди месяца, в которую производится расчеты с клиентом.</value>
     <value column="Help" isTrl="N" original="The Fix Month Day indicates the day of the month that invoices are due.  This field is displayed only when the fixed due date checkbox is selected. 3 different fix month days can be defined.">The Fix Month Day indicates the day of the month that invoices are due.  This field is displayed only when the fixed due date checkbox is selected. 3 different fix month days can be defined.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -14985,9 +14985,9 @@ For example, if you want to create different invoices for each ship location for
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800280" trl="N">
-    <value column="Name" isTrl="N" original="Number of Copies">Number of Copies</value>
+    <value column="Name" isTrl="N" original="Number of Copies">Количество копий</value>
     <value column="PrintName" isTrl="N" original="Document_Copies">Document_Copies</value>
-    <value column="Description" isTrl="N" original="The number of copies of each document that will be printed.">The number of copies of each document that will be printed.</value>
+    <value column="Description" isTrl="N" original="The number of copies of each document that will be printed.">количество копий документов для печатиOrder Description</value>
     <value column="Help" isTrl="N" original="Number of copies">Number of copies</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -16018,9 +16018,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800525" trl="N">
-    <value column="Name" isTrl="N" original="Transactional Bank Account">Transactional Bank Account</value>
+    <value column="Name" isTrl="N" original="Transactional Bank Account">Банковский счет</value>
     <value column="PrintName" isTrl="N" original="Customer Bankaccount">Customer Bankaccount</value>
-    <value column="Description" isTrl="N" original="Default Customer Bankaccount">Default Customer Bankaccount</value>
+    <value column="Description" isTrl="N" original="Default Customer Bankaccount">Код банковского счета по умолчанию</value>
     <value column="Help" isTrl="N" original="Default Customer Bankaccount">Default Customer Bankaccount</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -16908,9 +16908,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800640" trl="N">
-    <value column="Name" isTrl="N" original="Customer Accounting">Customer Accounting</value>
+    <value column="Name" isTrl="N" original="Customer Accounting">Учёт по клиенту</value>
     <value column="PrintName" isTrl="N" original="Customer Accounting">Customer Accounting</value>
-    <value column="Description" isTrl="N" original="Business partner customer accounts.">Business partner customer accounts.</value>
+    <value column="Description" isTrl="N" original="Business partner customer accounts.">Учет по данному клиенту.</value>
     <value column="Help" isTrl="N" original="Default accounts to use when this business partner is referenced on an accounts receivable transaction.">Default accounts to use when this business partner is referenced on an accounts receivable transaction.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -18278,9 +18278,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800808" trl="N">
-    <value column="Name" isTrl="N" original="SO BP Tax Category">SO BP Tax Category</value>
+    <value column="Name" isTrl="Y" original="SO BP Tax Category">Налоговый код</value>
     <value column="PrintName" isTrl="N" original="SO BP Tax Category">SO BP Tax Category</value>
-    <value column="Description" isTrl="N" original="SO BP Tax Category">SO BP Tax Category</value>
+    <value column="Description" isTrl="Y" original="SO BP Tax Category">Налоговый код для заказа на продажу</value>
     <value column="Help" isTrl="N" original="Bussines Partner Tax Category is a category defined for apply default taxes for sales transactions.">Bussines Partner Tax Category is a category defined for apply default taxes for sales transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -19362,9 +19362,9 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="892" trl="N">
-    <value column="Name" isTrl="N" original="Maturity Date 1">Maturity Date 1</value>
+    <value column="Name" isTrl="N" original="Maturity Date 1">Дата погашения 1</value>
     <value column="PrintName" isTrl="N" original="Fix month day">Fix month day</value>
-    <value column="Description" isTrl="N" original="The day of the month that invoices are due.   3 maturity dates can be defined.">The day of the month that invoices are due.   3 maturity dates can be defined.</value>
+    <value column="Description" isTrl="N" original="The day of the month that invoices are due.   3 maturity dates can be defined.">Дата среди месяца, в которую производится расчеты с клиентом.</value>
     <value column="Help" isTrl="N" original="The Fix Month Day indicates the day of the month that invoices are due.  This field is displayed only when the fixed due date checkbox is selected. 3 different fix month days can be defined.">The Fix Month Day indicates the day of the month that invoices are due.  This field is displayed only when the fixed due date checkbox is selected. 3 different fix month days can be defined.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -21731,9 +21731,9 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="DBADCCC197DA42558F8CD6CE68530A20" trl="N">
-    <value column="Name" isTrl="N" original="Incoterms ( SO )">Incoterms ( SO )</value>
+    <value column="Name" isTrl="N" original="Incoterms ( SO )">Инкотермс продажи</value>
     <value column="PrintName" isTrl="N" original="Incoterms ( SO )">Incoterms ( SO )</value>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="">Код условия инкотермс  для заказа на продажу</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
