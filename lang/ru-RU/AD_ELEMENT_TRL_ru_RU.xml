@@ -826,8 +826,8 @@ Planned: The demand has been included in a Purchase Plan of the MRP module.</val
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1004400008" trl="N">
-    <value column="Name" isTrl="N" original="Notes for supplier">Примечание для постащика</value>
-    <value column="PrintName" isTrl="N" original="Notes for supplier">Примечание для постащика</value>
+    <value column="Name" isTrl="Y" original="Notes for supplier">Примечание для постащика</value>
+    <value column="PrintName" isTrl="Y" original="Notes for supplier">Примечание для постащика</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Notes set to include in the Purchase Orders with indications to the vendor.">Notes set to include in the Purchase Orders with indications to the vendor.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2192,8 +2192,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1124" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Order Price">Цена приходной накладной</value>
-    <value column="PrintName" isTrl="N" original="PO Price">Цена прих. накл.</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Price">Цена приходной накладной</value>
+    <value column="PrintName" isTrl="Y" original="PO Price">Цена прих. накл.</value>
     <value column="Description" isTrl="N" original="The price charged to purchase a specific item.">The price charged to purchase a specific item.</value>
     <value column="Help" isTrl="N" original="The PO Price indicates the price for a product per the purchase order.">The PO Price indicates the price for a product per the purchase order.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4569,8 +4569,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1661" trl="N">
-    <value column="Name" isTrl="N" original="Name in Purchase Windows">Название приходных накладных</value>
-    <value column="PrintName" isTrl="N" original="PO Name">Название прих. накл.</value>
+    <value column="Name" isTrl="Y" original="Name in Purchase Windows">Название приходных накладных</value>
+    <value column="PrintName" isTrl="Y" original="PO Name">Название прих. накл.</value>
     <value column="Description" isTrl="N" original="A identifier for a document which can be used as a search tool for a purchase window.">A identifier for a document which can be used as a search tool for a purchase window.</value>
     <value column="Help" isTrl="N" original="Name in Purchase Windows">Name in Purchase Windows</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4579,8 +4579,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1662" trl="N">
-    <value column="Name" isTrl="N" original="Print Name on Purchase Window">Название для печати в приходных накладных</value>
-    <value column="PrintName" isTrl="N" original="PO Print">Печать прих. накл.</value>
+    <value column="Name" isTrl="Y" original="Print Name on Purchase Window">Название для печати в приходных накладных</value>
+    <value column="PrintName" isTrl="Y" original="PO Print">Печать прих. накл.</value>
     <value column="Description" isTrl="N" original="A option to print the name given in the purchase order document.">A option to print the name given in the purchase order document.</value>
     <value column="Help" isTrl="N" original="Print name on Purchase Screens/Reports">Print name on Purchase Screens/Reports</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6770,9 +6770,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2167" trl="N">
-    <value column="Name" isTrl="N" original="Sales/Purchase Type">Тип расход/приход</value>
-    <value column="PrintName" isTrl="N" original="SO/PO Type">Тип расх./прих.</value>
-    <value column="Description" isTrl="N" original="Sales Tax applies to sales situations, Purchase Tax to purchase situations">Налог для расходных накладных в случае продажи, или налог для приходных накладных в случае закупки.</value>
+    <value column="Name" isTrl="Y" original="Sales/Purchase Type">Тип расход/приход</value>
+    <value column="PrintName" isTrl="Y" original="SO/PO Type">Тип расх./прих.</value>
+    <value column="Description" isTrl="Y" original="Sales Tax applies to sales situations, Purchase Tax to purchase situations">Налог для расходных накладных в случае продажи, или налог для приходных накладных в случае закупки.</value>
     <value column="Help" isTrl="N" original="Sales Tax: charged when selling - examples: Sales Tax, Output VAT (payable)Purchase Tax: tax charged when purchasing - examples: Use Tax, Input VAT (receivable)">Sales Tax: charged when selling - examples: Sales Tax, Output VAT (payable)Purchase Tax: tax charged when purchasing - examples: Use Tax, Input VAT (receivable)</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -18889,15 +18889,15 @@ Configuration Properties are defined by modules with the purpose other modules a
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="84553B50535D4BB4A14AECAF72103328" trl="N">
-    <value column="Name" isTrl="N" original="Calculate_Promotions">Рассчитать акцию</value>
-    <value column="PrintName" isTrl="N" original="Calculate_Promotions">Рассчитать акцию</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="84553B50535D4BB4A14AECAF72103328" trl="Y">
+    <value column="Name" isTrl="Y" original="Calculate_Promotions">Рассчитать акцию</value>
+    <value column="PrintName" isTrl="Y" original="Calculate_Promotions">Рассчитать акцию</value>
+    <value column="Description" isTrl="Y" original=""/>
+    <value column="Help" isTrl="Y" original=""/>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="847" trl="N">
     <value column="Name" isTrl="N" original="Beneficiary">Beneficiary</value>
@@ -20205,8 +20205,8 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="954" trl="N">
-    <value column="Name" isTrl="N" original="Last Purchase Price">Последняя приходная цена</value>
-    <value column="PrintName" isTrl="N" original="Last PO Price">Последняя приходная цена</value>
+    <value column="Name" isTrl="Y" original="Last Purchase Price">Последняя приходная цена</value>
+    <value column="PrintName" isTrl="Y" original="Last PO Price">Последняя приходная цена</value>
     <value column="Description" isTrl="N" original="The last price pad for this product, as noted in a completed purchase order.">The last price pad for this product, as noted in a completed purchase order.</value>
     <value column="Help" isTrl="N" original="The Last PO Price indicates the last price paid (per the purchase order) for this product.">The Last PO Price indicates the last price paid (per the purchase order) for this product.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20215,18 +20215,18 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="955" trl="N">
-    <value column="Name" isTrl="N" original="Price Limit">Price Limit</value>
-    <value column="PrintName" isTrl="N" original="Price Limit">Price Limit</value>
+    <value column="Name" isTrl="Y" original="Price Limit">Лимит цены</value>
+    <value column="PrintName" isTrl="Y" original="Price Limit">Лимит цены</value>
     <value column="Description" isTrl="N" original="The lowest net price a specified item may be sold for.">The lowest net price a specified item may be sold for.</value>
     <value column="Help" isTrl="N" original="The Net Price Limit indicates the lowest price for a product stated in the Price List Currency.">The Net Price Limit indicates the lowest price for a product stated in the Price List Currency.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original="Price Limit">Price Limit</value>
-    <value column="PO_PrintName" isTrl="N" original="Price Limit">Price Limit</value>
+    <value column="PO_Name" isTrl="Y" original="Price Limit">Лимит цены</value>
+    <value column="PO_PrintName" isTrl="Y" original="Price Limit">Лимит цены</value>
   </row>
   <row id="957" trl="N">
-    <value column="Name" isTrl="N" original="Unit Price">Unit Price</value>
-    <value column="PrintName" isTrl="N" original="Unit Price">Unit Price</value>
+    <value column="Name" isTrl="Y" original="Unit Price">Цена за единицу</value>
+    <value column="PrintName" isTrl="Y" original="Unit Price">Цена за единицу</value>
     <value column="Description" isTrl="N" original="The regular or normal price of a product in the respective price list.">The regular or normal price of a product in the respective price list.</value>
     <value column="Help" isTrl="N" original="The Standard Price indicates the standard or normal price for a product on this price list. This price might be net or gross depending on its price list configuration.">The Standard Price indicates the standard or normal price for a product on this price list. This price might be net or gross depending on its price list configuration.</value>
     <value column="PO_Description" isTrl="N" original=""/>
