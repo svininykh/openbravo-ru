@@ -141,7 +141,7 @@
     <value column="Description" isTrl="N" original="Create warehouses and organize them using storage bins.">Create warehouses and organize them using storage bins.</value>
   </row>
   <row id="126" trl="N">
-    <value column="Name" isTrl="N" original="Product">Товар</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="Description" isTrl="N" original="Create products and manage the related costing, purchasing, and pricing setup.">Create products and manage the related costing, purchasing, and pricing setup.</value>
   </row>
   <row id="127" trl="N">
@@ -153,15 +153,15 @@
     <value column="Description" isTrl="N" original="Create shipping companies and define freight costs to be used in products logistics.">Create shipping companies and define freight costs to be used in products logistics.</value>
   </row>
   <row id="129" trl="N">
-    <value column="Name" isTrl="N" original="Sales Order">Расходная накладная</value>
+    <value column="Name" isTrl="Y" original="Sales Order">Расходная накладная</value>
     <value column="Description" isTrl="N" original="Create orders tracking product sales to customers.">Create orders tracking product sales to customers.</value>
   </row>
   <row id="130" trl="N">
-    <value column="Name" isTrl="N" original="Product Category">Категория товара</value>
+    <value column="Name" isTrl="Y" original="Product Category">Категория товара</value>
     <value column="Description" isTrl="N" original="Create product categories to better organize your products and create more powerful reports.">Create product categories to better organize your products and create more powerful reports.</value>
   </row>
   <row id="132" trl="N">
-    <value column="Name" isTrl="N" original="Price List">Прейскурант</value>
+    <value column="Name" isTrl="Y" original="Price List">Прейскурант</value>
     <value column="Description" isTrl="N" original="Create and edit price lists and versions to optionally apply specified product prices to individual business partners.">Create and edit price lists and versions to optionally apply specified product prices to individual business partners.</value>
   </row>
   <row id="133" trl="N">
@@ -269,7 +269,7 @@
     <value column="Description" isTrl="N" original="Application folder gathers multi-data settings, attributes values or specific properties settings at different levels as well as alerts configuration. ">Application folder gathers multi-data settings, attributes values or specific properties settings at different levels as well as alerts configuration. </value>
   </row>
   <row id="164" trl="N">
-    <value column="Name" isTrl="N" original="Setup">Setup</value>
+    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="165" trl="N">
@@ -281,7 +281,7 @@
     <value column="Description" isTrl="N" original="Sales Management  addresses the life-cycle of a sales process and besides provides the tools to analyze sales related information.">Sales Management  addresses the life-cycle of a sales process and besides provides the tools to analyze sales related information.</value>
   </row>
   <row id="167" trl="N">
-    <value column="Name" isTrl="N" original="Setup">Setup</value>
+    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="169" trl="N">
@@ -369,7 +369,7 @@
     <value column="Description" isTrl="N" original="Create and edit goods receipts from your vendors and create invoices from these receipts.">Create and edit goods receipts from your vendors and create invoices from these receipts.</value>
   </row>
   <row id="205" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Order">Purchase Order</value>
+    <value column="Name" isTrl="Y" original="Purchase Order">Приходная накладная</value>
     <value column="Description" isTrl="N" original="Create and edit orders to buy products from suppliers.">Create and edit orders to buy products from suppliers.</value>
   </row>
   <row id="206" trl="N">
@@ -441,7 +441,7 @@
     <value column="Description" isTrl="N" original="Quarterly Customer Invoice by Vendor">Quarterly Customer Invoice by Vendor</value>
   </row>
   <row id="232" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Category">Business Partner Category</value>
+    <value column="Name" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
     <value column="Description" isTrl="N" original="Create and edit information related to similar business partners at one time by grouping them.">Create and edit information related to similar business partners at one time by grouping them.</value>
   </row>
   <row id="234" trl="N">
@@ -505,7 +505,7 @@
     <value column="Description" isTrl="N" original="Service Management">Service Management</value>
   </row>
   <row id="272" trl="N">
-    <value column="Name" isTrl="N" original="Setup">Setup</value>
+    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="278" trl="N">
@@ -561,8 +561,8 @@
     <value column="Description" isTrl="N" original="Maintain Resources">Maintain Resources</value>
   </row>
   <row id="31D7EC462DD7401EA90200C393B3EB9B" trl="N">
-    <value column="Name" isTrl="N" original="Discounts and Promotions Types">Discounts and Promotions Types</value>
-    <value column="Description" isTrl="N" original="Discounts and Promotions Types">Discounts and Promotions Types</value>
+    <value column="Name" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
+    <value column="Description" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
   </row>
   <row id="320" trl="N">
     <value column="Name" isTrl="N" original="Resource Type">Resource Type</value>
@@ -589,19 +589,19 @@
     <value column="Description" isTrl="N" original="Create AP Invoices from Expenses to be paid to employees">Create AP Invoices from Expenses to be paid to employees</value>
   </row>
   <row id="334" trl="N">
-    <value column="Name" isTrl="N" original="System">System</value>
-    <value column="Description" isTrl="N" original="System Definition">System Definition</value>
+    <value column="Name" isTrl="Y" original="System">Система</value>
+    <value column="Description" isTrl="Y" original="System Definition">Параметры системы</value>
   </row>
   <row id="335" trl="N">
-    <value column="Name" isTrl="N" original="Generate PO from Sales Order">Generate PO from Sales Order</value>
-    <value column="Description" isTrl="N" original="Create Purchase Order from Sales Orders">Create Purchase Order from Sales Orders</value>
+    <value column="Name" isTrl="Y" original="Generate PO from Sales Order">Создать приходную по расходной накладной</value>
+    <value column="Description" isTrl="Y" original="Create Purchase Order from Sales Orders">Создать приходную по расходной накладной</value>
   </row>
   <row id="343" trl="N">
-    <value column="Name" isTrl="N" original="Asset Group">Asset Group</value>
+    <value column="Name" isTrl="Y" original="Asset Group">Группа основных средств</value>
     <value column="Description" isTrl="N" original="Create and edit categories to group assets with similar characteristics together.">Create and edit categories to group assets with similar characteristics together.</value>
   </row>
   <row id="345" trl="N">
-    <value column="Name" isTrl="N" original="Assets">Assets</value>
+    <value column="Name" isTrl="Y" original="Assets">Основные средства</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create and edit the value and accounting of items and property.">Open a folder where you can create and edit the value and accounting of items and property.</value>
   </row>
   <row id="346" trl="N">
@@ -609,8 +609,8 @@
     <value column="Description" isTrl="N" original="Create shipments for all processed sales orders that fit the criteria and the parameters specified.">Create shipments for all processed sales orders that fit the criteria and the parameters specified.</value>
   </row>
   <row id="347" trl="N">
-    <value column="Name" isTrl="N" original="Print Invoices">Print Invoices</value>
-    <value column="Description" isTrl="N" original="Print Invoices to paper or send PDF">Print Invoices to paper or send PDF</value>
+    <value column="Name" isTrl="Y" original="Print Invoices">Печать счетов</value>
+    <value column="Description" isTrl="Y" original="Print Invoices to paper or send PDF">Печать счетов на принтере или экспорт в PDF.</value>
   </row>
   <row id="349" trl="N">
     <value column="Name" isTrl="N" original="Employee Expenses">Employee Expenses</value>
@@ -689,8 +689,8 @@
     <value column="Description" isTrl="N" original="Update Daily Accounting Balances">Update Daily Accounting Balances</value>
   </row>
   <row id="394" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Info">Business Partner Info</value>
-    <value column="Description" isTrl="N" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">View information related to business partner orders, receipts/shipments, invoices, and assets.</value>
+    <value column="Name" isTrl="Y" original="Business Partner Info">Информация по контрагенту</value>
+    <value column="Description" isTrl="Y" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">Просмотреть информацию по накладным, отгрузке, счетам и активам контрагента.</value>
   </row>
   <row id="3942B34C83C74EFF8A9CC51AC3B003D3" trl="N">
     <value column="Name" isTrl="N" original="Costing Migration Process">Costing Migration Process</value>
@@ -981,20 +981,20 @@
     <value column="Description" isTrl="N" original="Creates a apliccation test.">Creates a apliccation test.</value>
   </row>
   <row id="800114" trl="N">
-    <value column="Name" isTrl="N" original="Assets">Assets</value>
-    <value column="Description" isTrl="N" original="Define amortization characteristics for assets owned by your company.">Define amortization characteristics for assets owned by your company.</value>
+    <value column="Name" isTrl="Y" original="Assets">Основные средства</value>
+    <value column="Description" isTrl="Y" original="Define amortization characteristics for assets owned by your company.">Установить параметры амортизации для основных средств компании.</value>
   </row>
   <row id="800115" trl="N">
-    <value column="Name" isTrl="N" original="Amortization">Amortization</value>
-    <value column="Description" isTrl="N" original="Create and edit amortization for a selected year.">Create and edit amortization for a selected year.</value>
+    <value column="Name" isTrl="Y" original="Amortization">Амортизация</value>
+    <value column="Description" isTrl="Y" original="Create and edit amortization for a selected year.">Создать и редактирвоать амортизацию для выбранного года.</value>
   </row>
   <row id="800117" trl="N">
-    <value column="Name" isTrl="N" original="Discounts and Promotions">Discounts and Promotions</value>
-    <value column="Description" isTrl="N" original="Definition of Discounts and Promotions">Definition of Discounts and Promotions</value>
+    <value column="Name" isTrl="Y" original="Discounts and Promotions">Скидки и акции</value>
+    <value column="Description" isTrl="Y" original="Definition of Discounts and Promotions">Установка скидок и назначение акций</value>
   </row>
   <row id="800118" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Contract">Business Partner Contract</value>
-    <value column="Description" isTrl="N" original="Creates business partner contract">Creates business partner contract</value>
+    <value column="Name" isTrl="Y" original="Business Partner Contract">Договор контрагента</value>
+    <value column="Description" isTrl="Y" original="Creates business partner contract">Создать договора с контрагентом</value>
   </row>
   <row id="800119" trl="N">
     <value column="Name" isTrl="N" original="SQL Query">SQL Query</value>
@@ -1113,7 +1113,7 @@
     <value column="Description" isTrl="N" original="Define products which are only to be used inside the enterprise.">Define products which are only to be used inside the enterprise.</value>
   </row>
   <row id="800189" trl="N">
-    <value column="Name" isTrl="N" original="Setup">Setup</value>
+    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800190" trl="N">
@@ -1233,15 +1233,15 @@
     <value column="Description" isTrl="N" original="Create Tax Report">Create Tax Report</value>
   </row>
   <row id="800228" trl="N">
-    <value column="Name" isTrl="N" original="Alert">Внимание</value>
+    <value column="Name" isTrl="Y" original="Alert">Предупреждение</value>
     <value column="Description" isTrl="N" original="Create and edit alerts that will inform you about any critical or important situation in the application.">Create and edit alerts that will inform you about any critical or important situation in the application.</value>
   </row>
   <row id="800229" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Order Report">Purchase Order Report</value>
-    <value column="Description" isTrl="N" original="Purchase Order Report">Purchase Order Report</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Report">Отчет приходные накладные</value>
+    <value column="Description" isTrl="Y" original="Purchase Order Report">Отчёт по приходным накладным</value>
   </row>
   <row id="800230" trl="N">
-    <value column="Name" isTrl="N" original="Alert Management">Alert Management</value>
+    <value column="Name" isTrl="Y" original="Alert Management">Управление предупреждениями</value>
     <value column="Description" isTrl="N" original="Edit predefined alerts made by the user.">Edit predefined alerts made by the user.</value>
   </row>
   <row id="800231" trl="N">
@@ -1249,7 +1249,7 @@
     <value column="Description" isTrl="N" original="Report Sales by partner and Product">Report Sales by partner and Product</value>
   </row>
   <row id="800233" trl="N">
-    <value column="Name" isTrl="N" original="Setup">Setup</value>
+    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800234" trl="N">
@@ -1273,7 +1273,7 @@
     <value column="Description" isTrl="N" original="Open a folder where you can edit prices related to your products.">Open a folder where you can edit prices related to your products.</value>
   </row>
   <row id="800242" trl="N">
-    <value column="Name" isTrl="N" original="Transactions">Transactions</value>
+    <value column="Name" isTrl="N" original="Transactions">Проводки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create, edit, and add data to be used to complete a given transaction.">Open a folder where you can create, edit, and add data to be used to complete a given transaction.</value>
   </row>
   <row id="800243" trl="N">
@@ -1281,31 +1281,31 @@
     <value column="Description" isTrl="N" original="Warehouses and storage bins can be created and manage in this application area, as well as inventory count and inventory valuation.">Warehouses and storage bins can be created and manage in this application area, as well as inventory count and inventory valuation.</value>
   </row>
   <row id="800244" trl="N">
-    <value column="Name" isTrl="N" original="Transactions">Transactions</value>
+    <value column="Name" isTrl="N" original="Transactions">Проводки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create, edit, and add data to be used to complete a given transaction.">Open a folder where you can create, edit, and add data to be used to complete a given transaction.</value>
   </row>
   <row id="800245" trl="N">
-    <value column="Name" isTrl="N" original="Transactions">Transactions</value>
+    <value column="Name" isTrl="N" original="Transactions">Проводки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create, edit, and add data to be used to complete a given transaction.">Open a folder where you can create, edit, and add data to be used to complete a given transaction.</value>
   </row>
   <row id="800247" trl="N">
-    <value column="Name" isTrl="N" original="Transactions">Transactions</value>
+    <value column="Name" isTrl="N" original="Transactions">Проводки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create, edit, and add data to be used to complete a given transaction.">Open a folder where you can create, edit, and add data to be used to complete a given transaction.</value>
   </row>
   <row id="800248" trl="N">
-    <value column="Name" isTrl="N" original="Setup">Setup</value>
+    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800249" trl="N">
-    <value column="Name" isTrl="N" original="Transactions">Transactions</value>
+    <value column="Name" isTrl="N" original="Transactions">Проводки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create, edit, and add data to be used to complete a given transaction.">Open a folder where you can create, edit, and add data to be used to complete a given transaction.</value>
   </row>
   <row id="800250" trl="N">
-    <value column="Name" isTrl="N" original="Transactions">Transactions</value>
+    <value column="Name" isTrl="N" original="Transactions">Проводки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create, edit, and add data to be used to complete a given transaction.">Open a folder where you can create, edit, and add data to be used to complete a given transaction.</value>
   </row>
   <row id="800251" trl="N">
-    <value column="Name" isTrl="N" original="Setup">Setup</value>
+    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800252" trl="N">
@@ -1313,19 +1313,19 @@
     <value column="Description" isTrl="N" original="Open a folder where you can define accounting settings such as the fiscal calendar, account elements, accounting schemas, and document types.">Open a folder where you can define accounting settings such as the fiscal calendar, account elements, accounting schemas, and document types.</value>
   </row>
   <row id="800253" trl="N">
-    <value column="Name" isTrl="N" original="Transactions">Transactions</value>
+    <value column="Name" isTrl="N" original="Transactions">Проводки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create, edit, and add data to be used to complete a given transaction.">Open a folder where you can create, edit, and add data to be used to complete a given transaction.</value>
   </row>
   <row id="800254" trl="N">
-    <value column="Name" isTrl="N" original="Transactions">Transactions</value>
+    <value column="Name" isTrl="N" original="Transactions">Проводки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create, edit, and add data to be used to complete a given transaction.">Open a folder where you can create, edit, and add data to be used to complete a given transaction.</value>
   </row>
   <row id="800255" trl="N">
-    <value column="Name" isTrl="N" original="Setup">Setup</value>
+    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800256" trl="N">
-    <value column="Name" isTrl="N" original="Setup">Setup</value>
+    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800257" trl="N">
@@ -1345,8 +1345,8 @@
     <value column="Description" isTrl="N" original="Customer Invoice Report">Customer Invoice Report</value>
   </row>
   <row id="800261" trl="N">
-    <value column="Name" isTrl="N" original="Sales Order Report">Sales Order Report</value>
-    <value column="Description" isTrl="N" original="Sales Order Report">Sales Order Report</value>
+    <value column="Name" isTrl="Y" original="Sales Order Report">Отчет расходные накладные</value>
+    <value column="Description" isTrl="Y" original="Sales Order Report">Отчёт по расходным накладным</value>
   </row>
   <row id="800262" trl="N">
     <value column="Name" isTrl="N" original="Pending Work Requirement">Pending Work Requirement</value>
