@@ -572,10 +572,10 @@ Control Digit must be length 1.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400015" trl="N">
-    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines. 
+    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines.
 An order line is created for each requisition line.
-The process closes the requisition when it finishes successfully. 
-The Order Date is the date of the Purchase Orders. 
+The process closes the requisition when it finishes successfully.
+The Order Date is the date of the Purchase Orders.
 The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.
 The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.
 The Organization is the organization used by the Purchase Orders.
@@ -3096,7 +3096,7 @@ Be aware that if the daily limit is exceeded @extraDays@ more times in the @numb
     <value column="MsgTip" isTrl="N" original="(Re-) Open Period or change Accounting Date">(Re-) Open Period or change Accounting Date</value>
   </row>
   <row id="417C01FAE8E447F7985AA6C04074924C" trl="N">
-    <value column="MsgText" isTrl="N" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table. 
+    <value column="MsgText" isTrl="N" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table.
 This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
@@ -3181,20 +3181,20 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="437" trl="N">
-    <value column="MsgText" isTrl="N" original="Process">Process</value>
+    <value column="MsgText" isTrl="N" original="Process">Процесс</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="438" trl="N">
-    <value column="MsgText" isTrl="N" original="Process cancelled">Process cancelled</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="438" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Process cancelled">Процесс отменён.</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="438DDB0A996D4ADF91F3C731DDC2146F" trl="N">
     <value column="MsgText" isTrl="N" original="No data has been found. Please ensure that the selected filter options are correct.">No data has been found. Please ensure that the selected filter options are correct.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="439" trl="N">
-    <value column="MsgText" isTrl="N" original="Process failed">Process failed</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="439" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Process failed">Процесс не выполнен.</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="43A909085DF1445AB36732B5B5BDA544" trl="N">
     <value column="MsgText" isTrl="N" original="It is not allowed to have multiple exchange rates defined for the same pair of currencies (Currency From -&gt; Currency To).">It is not allowed to have multiple exchange rates defined for the same pair of currencies (Currency From -&gt; Currency To).</value>
@@ -3204,13 +3204,13 @@ This column is already checked as key: </value>
     <value column="MsgText" isTrl="N" original="Cannot start process - No procedure name">Cannot start process - No procedure name</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="441" trl="N">
-    <value column="MsgText" isTrl="N" original="Process completed successfully">Process completed successfully</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="441" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Process completed successfully">Процесс выполнен успешно.</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
-  <row id="442" trl="N">
-    <value column="MsgText" isTrl="N" original="Process failed during execution">Process failed during execution</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="442" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Process failed during execution">Во время выполнения процесса возникли ошибки.</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="44234732714A4DC9818C0DD009A24F98" trl="N">
     <value column="MsgText" isTrl="N" original="You can't use this report because your instance is migrated to new cost engine">You can't use this report because your instance is migrated to new cost engine</value>
@@ -4750,9 +4750,9 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgText" isTrl="N" original="You have not selected important dataset(s). After your client is created, you will need to complete its configuration by either applying a dataset to one of its organization or performing the configuration manually. Do you want to continue?">You have not selected important dataset(s). After your client is created, you will need to complete its configuration by either applying a dataset to one of its organization or performing the configuration manually. Do you want to continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="7DE20AA77B0341F9B1816B7DF908A2B2" trl="N">
-    <value column="MsgText" isTrl="N" original="Error parsing files : %s. Please fix them and run the process again.">Error parsing files : %s. Please fix them and run the process again.</value>
-    <value column="MsgTip" isTrl="N" original="Error Parsing Files">Error Parsing Files</value>
+  <row id="7DE20AA77B0341F9B1816B7DF908A2B2" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Please fix them and run the process again.">Ошибка обработки файлов : %s. Пожалуйста исправьте её и запустите процесс обработки снова.</value>
+    <value column="MsgTip" isTrl="Y" original="Error Parsing Files">Ошибка обработки файлов</value>
   </row>
   <row id="7E3E5C3B752A4026A78ADDFA826E4A1C" trl="N">
     <value column="MsgText" isTrl="N" original="Write-off">Write-off</value>
@@ -7383,7 +7383,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D5D4200451F9430E976CECEAB7A248C1" trl="N">
-    <value column="MsgText" isTrl="N" original="user is locked. &#10;Ask System Administrator to unlock it.">user is locked. 
+    <value column="MsgText" isTrl="N" original="user is locked. &#10;Ask System Administrator to unlock it.">user is locked.
 Ask System Administrator to unlock it.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
@@ -7773,7 +7773,7 @@ To find out more about this command, and why you should use it, you can read &lt
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FB074AB5BE884C2FAEE6159575A47F09" trl="N">
-    <value column="MsgText" isTrl="N" original="Restrictions file was not found in config/licenseRestrictions, or it was corrupted. &#10;Fix it and restart Tomcat.">Restrictions file was not found in config/licenseRestrictions, or it was corrupted. 
+    <value column="MsgText" isTrl="N" original="Restrictions file was not found in config/licenseRestrictions, or it was corrupted. &#10;Fix it and restart Tomcat.">Restrictions file was not found in config/licenseRestrictions, or it was corrupted.
 Fix it and restart Tomcat.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>

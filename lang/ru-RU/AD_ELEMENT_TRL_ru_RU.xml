@@ -1742,8 +1742,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1056" trl="N">
-    <value column="Name" isTrl="N" original="Vendor Liability">Vendor Liability</value>
-    <value column="PrintName" isTrl="N" original="Vendor Liability">Vendor Liability</value>
+    <value column="Name" isTrl="Y" original="Vendor Liability">Счёт кредиторской задолженности</value>
+    <value column="PrintName" isTrl="Y" original="Vendor Liability">Счёт кредиторской задолженности</value>
     <value column="Description" isTrl="N" original="An account number in the general ledger used to mark transactions with this business partner.">An account number in the general ledger used to mark transactions with this business partner.</value>
     <value column="Help" isTrl="N" original="The Vendor Liability account indicates the account used for recording transactions for vendor liabilities">The Vendor Liability account indicates the account used for recording transactions for vendor liabilities</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1762,8 +1762,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1058" trl="N">
-    <value column="Name" isTrl="N" original="Vendor Prepayment">Vendor Prepayment</value>
-    <value column="PrintName" isTrl="N" original="Vendor Prepayment">Vendor Prepayment</value>
+    <value column="Name" isTrl="Y" original="Vendor Prepayment">Предоплата поставщику</value>
+    <value column="PrintName" isTrl="Y" original="Vendor Prepayment">Предоплата поставщику</value>
     <value column="Description" isTrl="N" original="An account number in the general ledger used to mark transactions with this business partner.">An account number in the general ledger used to mark transactions with this business partner.</value>
     <value column="Help" isTrl="N" original="The Vendor Prepayment Account indicates the account used to record prepayments from a vendor.">The Vendor Prepayment Account indicates the account used to record prepayments from a vendor.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3222,7 +3222,7 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1374" trl="N">
-    <value column="Name" isTrl="Y" original="Bank Revaluation Loss">Расходы по курсовой разнице/value>
+    <value column="Name" isTrl="Y" original="Bank Revaluation Loss">Расходы по курсовой разнице</value>
     <value column="PrintName" isTrl="Y" original="Bank Revaluation Loss">Расходы по курсовой разнице</value>
     <value column="Description" isTrl="Y" original="Bank Revaluation Loss Account">Расходы по курсовой разнице</value>
     <value column="Help" isTrl="N" original="The Bank Revaluation Loss Account identifies the account to be used for recording losses that are recognized when converting currencies.">The Bank Revaluation Loss Account identifies the account to be used for recording losses that are recognized when converting currencies.</value>
@@ -10107,7 +10107,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
   </row>
   <row id="561" trl="N">
     <value column="Name" isTrl="Y" original="Sales Order Line">Строка расходной накладной</value>
-    <value column="PrintName" isTrl="Y original="Order Line">Строка расх. накл.</value>
+    <value column="PrintName" isTrl="Y" original="Order Line">Строка расх. накл.</value>
     <value column="Description" isTrl="N" original="A unique and often automatically generated identifier for a sales order line.">A unique and often automatically generated identifier for a sales order line.</value>
     <value column="Help" isTrl="N" original="A unique identifier and a reference to a sales order line (product).">A unique identifier and a reference to a sales order line (product).</value>
     <value column="PO_Description" isTrl="N" original="A unique and often automatically generated identifier for a purchase order line.">A unique and often automatically generated identifier for a purchase order line.</value>
@@ -12804,8 +12804,8 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7A210218ACCA4672ABEDDA4F3E0FC88F" trl="N">
-    <value column="Name" isTrl="Y" original="Product Revenue Return">Возврат товаров</value>
-    <value column="PrintName" isTrl="Y" original="Product Revenue Return">Возврат товаров</value>
+    <value column="Name" isTrl="Y" original="Product Revenue Return">Доход по возврату</value>
+    <value column="PrintName" isTrl="Y" original="Product Revenue Return">Доход по возврату</value>
     <value column="Description" isTrl="N" original="An account number in the general ledger to mark returns of this product.">An account number in the general ledger to mark returns of this product.</value>
     <value column="Help" isTrl="N" original="The Product Revenue Return Account indicates the account used for recording returns of this product.">The Product Revenue Return Account indicates the account used for recording returns of this product.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -12864,8 +12864,8 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7E1E466F6AC84143A8D00F59DCCEE194" trl="N">
-    <value column="Name" isTrl="N" original="Product COGS Return">Product COGS Return</value>
-    <value column="PrintName" isTrl="N" original="Product COGS Return">Product COGS Return</value>
+    <value column="Name" isTrl="Y" original="Product COGS Return">Себестоимость по возврату</value>
+    <value column="PrintName" isTrl="Y" original="Product COGS Return">Себестоимость по возврату</value>
     <value column="Description" isTrl="N" original="The cost of goods returned for a specified product.">The cost of goods returned for a specified product.</value>
     <value column="Help" isTrl="N" original="The Product COGS Account indicates the account used when recording returns associated with this product.">The Product COGS Account indicates the account used when recording returns associated with this product.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16648,8 +16648,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800596" trl="Y">
-    <value column="Name" isTrl="Y" original="Accumulated Depreciation">Счёт амортизации основных средств</value>
-    <value column="PrintName" isTrl="Y" original="Accumulated Depreciation">Счёт амортизации основных средств</value>
+    <value column="Name" isTrl="Y" original="Accumulated Depreciation">Накопленная амортизация</value>
+    <value column="PrintName" isTrl="Y" original="Accumulated Depreciation">Накопленная амортизация</value>
     <value column="Description" isTrl="Y" original="Accumulated Depreciation">Счёт накопленния амортизации основных средств</value>
     <value column="Help" isTrl="Y" original="Accumulated Depreciation Account">Счёт накопленния амортизации основных средств</value>
     <value column="PO_Description" isTrl="Y" original=""/>
