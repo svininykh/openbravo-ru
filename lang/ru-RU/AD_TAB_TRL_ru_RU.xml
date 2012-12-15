@@ -561,7 +561,7 @@
     <value column="Help" isTrl="N" original="View the stored products of a selected storage bin.">View the stored products of a selected storage bin.</value>
   </row>
   <row id="180" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a product.">Create a product.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -778,35 +778,35 @@
     <value column="Help" isTrl="N" original="Definition of dimensions to be used by the system. There are two mandatory dimensions by default: Organization and Account. Any other dimension can be as well enabled here so that they appear in transactional windows.">Definition of dimensions to be used by the system. There are two mandatory dimensions by default: Organization and Account. Any other dimension can be as well enabled here so that they appear in transactional windows.</value>
   </row>
   <row id="220" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a business partner to be used in the application.">Create a business partner to be used in the application.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="There are many business partner types such as customers, suppliers and employees you can define and configure.">There are many business partner types such as customers, suppliers and employees you can define and configure.</value>
   </row>
   <row id="222" trl="N">
-    <value column="Name" isTrl="N" original="Location/Address">Location/Address</value>
+    <value column="Name" isTrl="Y" original="Location/Address">Расположение/Адрес</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define locations or addresses for the business partner.">Define locations or addresses for the business partner.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Business partner locations and full address details can be set up in this tab.">Business partner locations and full address details can be set up in this tab.</value>
   </row>
   <row id="223" trl="N">
-    <value column="Name" isTrl="N" original="Customer">Customer</value>
+    <value column="Name" isTrl="Y" original="Customer">Клиент</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define customer properties of a business partner that will purchase items from you.">Define customer properties of a business partner that will purchase items from you.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Customer related data can be entered and configured once the &quot;Customer&quot; check-box is enabled.">Customer related data can be entered and configured once the "Customer" check-box is enabled.</value>
   </row>
   <row id="224" trl="N">
-    <value column="Name" isTrl="N" original="Vendor/Creditor">Vendor/Creditor</value>
+    <value column="Name" isTrl="Y" original="Vendor/Creditor">Поставщик/Кредитор</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define a business partner as a vendor who will sell items.">Define a business partner as a vendor who will sell items.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Vendor or Creditor related data can be entered and configured once the &quot;Vendor&quot; check-box is enabled.">Vendor or Creditor related data can be entered and configured once the "Vendor" check-box is enabled.</value>
   </row>
   <row id="225" trl="N">
-    <value column="Name" isTrl="N" original="Employee">Employee</value>
+    <value column="Name" isTrl="Y" original="Employee">Работник</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define employee properties of a business partner.">Define employee properties of a business partner.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -820,7 +820,7 @@
     <value column="Help" isTrl="N" original="Bank account tab allows you to list and setup business partner bank accounts.">Bank account tab allows you to list and setup business partner bank accounts.</value>
   </row>
   <row id="227" trl="N">
-    <value column="Name" isTrl="N" original="Bank">Bank</value>
+    <value column="Name" isTrl="Y" original="Bank">Банк</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create your banks to be used in application transactions.">Create your banks to be used in application transactions.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -940,7 +940,7 @@
     <value column="Help" isTrl="N" original="ABC Activity window allows to create as many activities as require per each organization.">ABC Activity window allows to create as many activities as require per each organization.</value>
   </row>
   <row id="252" trl="N">
-    <value column="Name" isTrl="N" original="Defaults">Defaults</value>
+    <value column="Name" isTrl="Y" original="Defaults">Счета по-умолчанию</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add and edit detailed G/L accounts to be used by default in the application.">Add and edit detailed G/L accounts to be used by default in the application.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1443,7 +1443,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="3E580F9A9D684ACC99B47E8BAE5E5563" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add and edit I/O products related to a completed part of a work requirement.">Add and edit I/O products related to a completed part of a work requirement.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2574,7 +2574,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add or edit operations and activities to be performed for the related work requirement.">Add or edit operations and activities to be performed for the related work requirement.</value>
   </row>
   <row id="800113" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add or edit I/O products to be used for the selected operation of the work requirement.">Add or edit I/O products to be used for the selected operation of the work requirement.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3513,7 +3513,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add products to be included in your sales order.  Each product is added by creating a line.">Add products to be included in your sales order.  Each product is added by creating a line.</value>
   </row>
   <row id="AF4090093D741431E040007F010048A5" trl="N">
-    <value column="Name" isTrl="N" original="Tax">Tax</value>
+    <value column="Name" isTrl="Y" original="Tax">Налог</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit taxes applied to your order.">Edit taxes applied to your order.</value>
     <value column="Filtername" isTrl="N" original=""/>
