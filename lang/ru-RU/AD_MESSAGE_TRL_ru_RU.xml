@@ -955,17 +955,17 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgText" isTrl="N" original="Amount">Amount</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="1006300044" trl="N">
-    <value column="MsgText" isTrl="N" original="Canceled">Canceled</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="1006300044" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Canceled">Отменено</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
-  <row id="1006300045" trl="N">
-    <value column="MsgText" isTrl="N" original="Currency">Currency</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="1006300045" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Currency">Валюта</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
-  <row id="1006300046" trl="N">
-    <value column="MsgText" isTrl="N" original="Payment Rule">Payment Rule</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="1006300046" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Payment Rule">Форма оплаты</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="1006300047" trl="N">
     <value column="MsgText" isTrl="N" original="Canceled Settlement">Canceled Settlement</value>
@@ -975,13 +975,13 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgText" isTrl="N" original="Generated Settlement">Generated Settlement</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="1006300049" trl="N">
-    <value column="MsgText" isTrl="N" original="Business Partner">Business Partner</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="1006300049" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Business Partner">Контрагент</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
-  <row id="1006300050" trl="N">
-    <value column="MsgText" isTrl="N" original="Product">Product</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="1006300050" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Product">Товар</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="1006300051" trl="N">
     <value column="MsgText" isTrl="N" original="Date">Date</value>
@@ -991,13 +991,13 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgText" isTrl="N" original="Doc. No.">Doc. No.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="1006300053" trl="N">
-    <value column="MsgText" isTrl="N" original="Quantity">Quantity</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="1006300053" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Quantity">Количество</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
-  <row id="1006300054" trl="N">
-    <value column="MsgText" isTrl="N" original="Price">Price</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="1006300054" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Price">Цена</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="1006300055" trl="N">
     <value column="MsgText" isTrl="N" original="Amount">Amount</value>
@@ -1671,9 +1671,9 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgText" isTrl="N" original="is available">is available</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="178" trl="N">
-    <value column="MsgText" isTrl="N" original="Client">Client</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="178" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Client">Подключение</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="179" trl="N">
     <value column="MsgText" isTrl="N" original="Shared Services">Shared Services</value>
@@ -3180,12 +3180,12 @@ This column is already checked as key: </value>
     <value column="MsgText" isTrl="N" original="Is the printout OK ?">Is the printout OK ?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="437" trl="N">
-    <value column="MsgText" isTrl="N" original="Process">Процесс</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="437" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Process">Обработка</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="438" trl="Y">
-    <value column="MsgText" isTrl="Y" original="Process cancelled">Процесс отменён.</value>
+    <value column="MsgText" isTrl="Y" original="Process cancelled">Обработка отменена.</value>
     <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="438DDB0A996D4ADF91F3C731DDC2146F" trl="N">
@@ -3776,9 +3776,9 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgText" isTrl="N" original="Start">Start</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="550" trl="N">
-    <value column="MsgText" isTrl="N" original="Do you want to start the Process?">Do you want to start the Process?</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="550" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Do you want to start the Process?">Вы уверены что необходимо начать обработку?</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="551" trl="N">
     <value column="MsgText" isTrl="N" original="Start selected Report">Start selected Report</value>
@@ -3800,9 +3800,9 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgText" isTrl="N" original="DB_prefix must not exceed 7 characters.">DB_prefix must not exceed 7 characters.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="555" trl="N">
-    <value column="MsgText" isTrl="N" original="Process completed successfully">Process completed successfully</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="555" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Process completed successfully">Процесс выполнен успешно</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="556" trl="N">
     <value column="MsgText" isTrl="N" original="Sum">Sum</value>
@@ -3977,7 +3977,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="590" trl="N">
-    <value column="MsgText" isTrl="N" original="Initial Client Setup">Initial Client Setup</value>
+    <value column="MsgText" isTrl="N" original="Initial Client Setup">Начальные параметры подключения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="591" trl="N">
@@ -4234,17 +4234,17 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgText" isTrl="N" original="{0} Line(s) - Total: {1,number,#,##0.00} {2}">{0} Line(s) - Total: {1,number,#,##0.00} {2}</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="624" trl="N">
-    <value column="MsgText" isTrl="N" original="Week">Week</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="624" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Week">Неделя</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="625" trl="N">
-    <value column="MsgText" isTrl="N" original="Day">Day</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+    <value column="MsgText" isTrl="Y" original="Day">День</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="626" trl="N">
-    <value column="MsgText" isTrl="N" original="Month">Month</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+    <value column="MsgText" isTrl="Y" original="Month">Месяц</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="627" trl="N">
     <value column="MsgText" isTrl="N" original="Resource Info">Resource Info</value>
@@ -5134,9 +5134,9 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgText" isTrl="N" original="Undo">Undo</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="800093" trl="N">
-    <value column="MsgText" isTrl="N" original="Tree">Tree</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="800093" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Tree">Схема</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="800094" trl="N">
     <value column="MsgText" isTrl="N" original="Go to First Record">Go to First Record</value>
@@ -6273,8 +6273,8 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original="Text used for heading translation by the Debt/Payment Report">Text used for heading translation by the Debt/Payment Report</value>
   </row>
   <row id="804833" trl="N">
-    <value column="MsgText" isTrl="N" original="Linked Items">Linked Items</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+    <value column="MsgText" isTrl="Y" original="Linked Items">Связанные объекты</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="804834" trl="N">
     <value column="MsgText" isTrl="N" original="Information">Information</value>
@@ -7561,9 +7561,9 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgText" isTrl="N" original="More results...">More results...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="E5E7F19AF95544228BA611E7A549F665" trl="N">
-    <value column="MsgText" isTrl="N" original="General Ledger">General Ledger</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="E5E7F19AF95544228BA611E7A549F665" trl="Y">
+    <value column="MsgText" isTrl="Y" original="General Ledger">Главная книга</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="E652E8A6AC41454D817E71F6FEE67779" trl="N">
     <value column="MsgText" isTrl="N" original="Email Configuration Error">Email Configuration Error</value>

@@ -631,17 +631,17 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="801506" trl="N">
-    <value column="Name" isTrl="N" original="Payment Rule">Payment Rule</value>
+    <value column="Name" isTrl="Y" original="Payment Rule">Форма оплаты</value>
     <value column="Description" isTrl="N" original="Purchase payment option">Purchase payment option</value>
     <value column="Help" isTrl="N" original="The Payment Rule indicates the method of purchase payment.">The Payment Rule indicates the method of purchase payment.</value>
   </row>
   <row id="801507" trl="N">
-    <value column="Name" isTrl="N" original="PO Payment Term">PO Payment Term</value>
+    <value column="Name" isTrl="Y" original="PO Payment Term">Условия оплаты приходной накладной</value>
     <value column="Description" isTrl="N" original="Payment rules for a purchase order">Payment rules for a purchase order</value>
     <value column="Help" isTrl="N" original="The PO Payment Term indicates the payment term that will be used when this purchase order becomes an invoice.">The PO Payment Term indicates the payment term that will be used when this purchase order becomes an invoice.</value>
   </row>
   <row id="801508" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Pricelist">Purchase Pricelist</value>
+    <value column="Name" isTrl="Y" original="Purchase Pricelist">Прейскурант поставщика</value>
     <value column="Description" isTrl="N" original="Price List used by this Business Partner">Price List used by this Business Partner</value>
     <value column="Help" isTrl="N" original="Identifies the price list used by a Vendor for products purchased by this organization.">Identifies the price list used by a Vendor for products purchased by this organization.</value>
   </row>
@@ -686,7 +686,7 @@
     <value column="Help" isTrl="N" original="The Processed checkbox indicates that a document has been processed.">The Processed checkbox indicates that a document has been processed.</value>
   </row>
   <row id="802677" trl="N">
-    <value column="Name" isTrl="N" original="Client">Client</value>
+    <value column="Name" isTrl="Y" original="Client">Подключение</value>
     <value column="Description" isTrl="N" original="Client for this installation.">Client for this installation.</value>
     <value column="Help" isTrl="N" original="A Client is a company or a legal entity. You cannot share data between Clients.">A Client is a company or a legal entity. You cannot share data between Clients.</value>
   </row>
@@ -768,12 +768,12 @@
     <value column="Help" isTrl="N" original="The Warehouse identifies a unique Warehouse where products are stored or Services are provided.">The Warehouse identifies a unique Warehouse where products are stored or Services are provided.</value>
   </row>
   <row id="8227" trl="N">
-    <value column="Name" isTrl="N" original="Project Category">Project Category</value>
-    <value column="Description" isTrl="N" original="Project Category">Project Category</value>
+    <value column="Name" isTrl="N" original="Project Category">Категория проекта</value>
+    <value column="Description" isTrl="N" original="Project Category">Категория проекта</value>
     <value column="Help" isTrl="N" original="The Project Category determines the behavior of the project. Default value is Multiphase Project.">The Project Category determines the behavior of the project. Default value is Multiphase Project.</value>
   </row>
   <row id="82F2E8A160E7472CE040007F01005324" trl="N">
-    <value column="Name" isTrl="N" original="Location / Address">Location / Address</value>
+    <value column="Name" isTrl="N" original="Location / Address">Расположение / Адрес</value>
     <value column="Description" isTrl="N" original="A specific place or residence.">A specific place or residence.</value>
     <value column="Help" isTrl="N" original="Address/Location of the the Financial Account within the Enterprise.">Address/Location of the the Financial Account within the Enterprise.</value>
   </row>

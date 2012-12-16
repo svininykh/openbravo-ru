@@ -1460,8 +1460,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="102" trl="N">
-    <value column="Name" isTrl="Y" original="Client">Клиент</value>
-    <value column="PrintName" isTrl="Y" original="Client">Клиент</value>
+    <value column="Name" isTrl="Y" original="Client">Подключение</value>
+    <value column="PrintName" isTrl="Y" original="Client">Подключение</value>
     <value column="Description" isTrl="Y" original="Client for this installation.">Клиент данной установки.</value>
     <value column="Help" isTrl="N" original="A Client is a company or a legal entity. You cannot share data between Clients.">A Client is a company or a legal entity. You cannot share data between Clients.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2201,15 +2201,15 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="1126" trl="N">
-    <value column="Name" isTrl="N" original="Create">Create</value>
-    <value column="PrintName" isTrl="N" original="Create">Create</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="1126" trl="Y">
+    <value column="Name" isTrl="Y" original="Create">Создано</value>
+    <value column="PrintName" isTrl="Y" original="Create">Создано</value>
+    <value column="Description" isTrl="Y" original=""/>
+    <value column="Help" isTrl="Y" original=""/>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="113" trl="N">
     <value column="Name" isTrl="Y" original="Organization">Организация</value>
@@ -2222,8 +2222,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1133" trl="N">
-    <value column="Name" isTrl="N" original="Tax Amount">Tax Amount</value>
-    <value column="PrintName" isTrl="N" original="Tax">Tax</value>
+    <value column="Name" isTrl="Y" original="Tax Amount">Сумма налога</value>
+    <value column="PrintName" isTrl="Y" original="Tax">Налог</value>
     <value column="Description" isTrl="N" original="The total sum of money requested by the government of the specified transaction.">The total sum of money requested by the government of the specified transaction.</value>
     <value column="Help" isTrl="N" original="The Tax Amount displays the total tax amount for a document.">The Tax Amount displays the total tax amount for a document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2232,8 +2232,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1134" trl="N">
-    <value column="Name" isTrl="N" original="Taxable Amount">Taxable Amount</value>
-    <value column="PrintName" isTrl="N" original="Tax base Amt">Tax base Amt</value>
+    <value column="Name" isTrl="Y" original="Taxable Amount">Налогооблагаемая сумма</value>
+    <value column="PrintName" isTrl="Y" original="Tax base Amt">Налогооблагаемая сумма</value>
     <value column="Description" isTrl="N" original="The total sum on which taxes are added.">The total sum on which taxes are added.</value>
     <value column="Help" isTrl="N" original="The Tax Base Amount indicates the base amount used for calculating the tax amount.">The Tax Base Amount indicates the base amount used for calculating the tax amount.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2932,8 +2932,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="132" trl="N">
-    <value column="Name" isTrl="N" original="Tree">Tree</value>
-    <value column="PrintName" isTrl="N" original="Tree">Tree</value>
+    <value column="Name" isTrl="Y" original="Tree">Схема</value>
+    <value column="PrintName" isTrl="Y" original="Tree">Схема</value>
     <value column="Description" isTrl="N" original="Identifies a Tree">Identifies a Tree</value>
     <value column="Help" isTrl="N" original="The Tree field identifies a unique Tree in the system. Trees define roll ups or summary levels of information.  They are used in reports for defining report points and summarization levels.">The Tree field identifies a unique Tree in the system. Trees define roll ups or summary levels of information.  They are used in reports for defining report points and summarization levels.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3628,9 +3628,9 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1462" trl="N">
-    <value column="Name" isTrl="N" original="Cash Journal">Cash Journal</value>
-    <value column="PrintName" isTrl="N" original="Cash Journal">Cash Journal</value>
-    <value column="Description" isTrl="N" original="Cash Journal">Cash Journal</value>
+    <value column="Name" isTrl="Y" original="Cash Journal">Касса</value>
+    <value column="PrintName" isTrl="Y" original="Cash Journal">Касса</value>
+    <value column="Description" isTrl="Y" original="Cash Journal">Касса</value>
     <value column="Help" isTrl="N" original="The Cash Journal uniquely identifies a Cash Journal.  The Cash Journal will record transactions for the cash bank account">The Cash Journal uniquely identifies a Cash Journal.  The Cash Journal will record transactions for the cash bank account</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -3638,8 +3638,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1463" trl="N">
-    <value column="Name" isTrl="N" original="Cashbook">Cashbook</value>
-    <value column="PrintName" isTrl="N" original="Cash Book">Cash Book</value>
+    <value column="Name" isTrl="Y" original="Cashbook">Кассовая книга</value>
+    <value column="PrintName" isTrl="Y" original="Cash Book">Кассовая книга</value>
     <value column="Description" isTrl="N" original="A document used to manage all cash transactions.">A document used to manage all cash transactions.</value>
     <value column="Help" isTrl="N" original="The Cash Book identifies a unique cash book.  The cash book is used to record cash transactions.">The Cash Book identifies a unique cash book.  The cash book is used to record cash transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5439,8 +5439,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="180" trl="N">
-    <value column="Name" isTrl="N" original="Dimensions">Dimensions</value>
-    <value column="PrintName" isTrl="N" original="Dimensions">Dimensions</value>
+    <value column="Name" isTrl="Y" original="Dimensions">Субконто</value>
+    <value column="PrintName" isTrl="Y" original="Dimensions">Субконто</value>
     <value column="Description" isTrl="N" original="Holds the list of dimensions enabled by this ledger.">Holds the list of dimensions enabled by this ledger.</value>
     <value column="Help" isTrl="N" original="Definition of dimensions to be used by the system. There are two mandatory dimensions by default: Organization and Account. Any other dimension can be as well enabled here so that they appear in transactional windows.">Definition of dimensions to be used by the system. There are two mandatory dimensions by default: Organization and Account. Any other dimension can be as well enabled here so that they appear in transactional windows.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5980,7 +5980,7 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="199" trl="N">
-    <value column="Name" isTrl="N" original="Account Tree">Account Tree</value>
+    <value column="Name" isTrl="Y" original="Account Tree">План счетов</value>
     <value column="PrintName" isTrl="N" original="Element">Element</value>
     <value column="Description" isTrl="N" original="A unique identifier of the Account Tree.">A unique identifier of the Account Tree.</value>
     <value column="Help" isTrl="N" original="The Account Tree uniquely identifies the Account Tree, also known as Chart of Accounts, linked to the Accounting Schema.">The Account Tree uniquely identifies the Account Tree, also known as Chart of Accounts, linked to the Accounting Schema.</value>
@@ -6160,8 +6160,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="202" trl="N">
-    <value column="Name" isTrl="N" original="Location / Address">Location / Address</value>
-    <value column="PrintName" isTrl="N" original="Location / Address">Location / Address</value>
+    <value column="Name" isTrl="Y" original="Location / Address">Расположение / Адрес</value>
+    <value column="PrintName" isTrl="Y" original="Location / Address">Расположение / Адрес</value>
     <value column="Description" isTrl="N" original="A specific place or residence.">A specific place or residence.</value>
     <value column="Help" isTrl="N" original="The Location / Address field defines the location of an entity.">The Location / Address field defines the location of an entity.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7080,8 +7080,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="245" trl="N">
-    <value column="Name" isTrl="N" original="Creation Date">Creation Date</value>
-    <value column="PrintName" isTrl="N" original="Created">Created</value>
+    <value column="Name" isTrl="Y" original="Creation Date">Дата создания</value>
+    <value column="PrintName" isTrl="Y" original="Created">Создано</value>
     <value column="Description" isTrl="N" original="The date that this record is completed.">The date that this record is completed.</value>
     <value column="Help" isTrl="N" original="The Created field indicates the date that this record was created.">The Created field indicates the date that this record was created.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7090,8 +7090,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="246" trl="N">
-    <value column="Name" isTrl="N" original="Created By">Created By</value>
-    <value column="PrintName" isTrl="N" original="Created By">Created By</value>
+    <value column="Name" isTrl="N" original="Created By">Автор</value>
+    <value column="PrintName" isTrl="N" original="Created By">Автор</value>
     <value column="Description" isTrl="N" original="User who created this records">User who created this records</value>
     <value column="Help" isTrl="N" original="The Created By field indicates the user who created this record.">The Created By field indicates the user who created this record.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7100,9 +7100,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="249" trl="N">
-    <value column="Name" isTrl="N" original="Credit Card No.">Credit Card No.</value>
-    <value column="PrintName" isTrl="N" original="Number">Number</value>
-    <value column="Description" isTrl="N" original="Credit Card Number">Credit Card Number</value>
+    <value column="Name" isTrl="N" original="Credit Card No.">Номер кредитной карты</value>
+    <value column="PrintName" isTrl="N" original="Number">Номер</value>
+    <value column="Description" isTrl="N" original="Credit Card Number">Номер кредитной карты</value>
     <value column="Help" isTrl="N" original="The Credit Card number indicates the number on the credit card, without blanks or spaces.">The Credit Card number indicates the number on the credit card, without blanks or spaces.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7160,8 +7160,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="260" trl="N">
-    <value column="Name" isTrl="N" original="D-U-N-S">D-U-N-S</value>
-    <value column="PrintName" isTrl="N" original="D-U-N-S">D-U-N-S</value>
+    <value column="Name" isTrl="N" original="D-U-N-S">Номер D-U-N-S</value>
+    <value column="PrintName" isTrl="N" original="D-U-N-S">Номер D-U-N-S</value>
     <value column="Description" isTrl="N" original="Dun &amp; Bradstreet Number">Dun &amp; Bradstreet Number</value>
     <value column="Help" isTrl="N" original="Used for EDI - For details see   www.dnb.com/dunsno/list.htm">Used for EDI - For details see   www.dnb.com/dunsno/list.htm</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11147,8 +11147,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="58D373789BE1DD15E040007F01013726" trl="N">
-    <value column="Name" isTrl="N" original="Cascade">Cascade</value>
-    <value column="PrintName" isTrl="N" original="Cascade">Cascade</value>
+    <value column="Name" isTrl="Y" original="Cascade">Каскадно</value>
+    <value column="PrintName" isTrl="Y" original="Cascade">Каскадно</value>
     <value column="Description" isTrl="N" original="If it is selected, the process will also open or close the documents of all of the organizations that depend on the selected organization.">If it is selected, the process will also open or close the documents of all of the organizations that depend on the selected organization.</value>
     <value column="Help" isTrl="N" original="If it is selected, the process will also open or close the documents of all of the organizations that depend on the selected organization.">If it is selected, the process will also open or close the documents of all of the organizations that depend on the selected organization.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11637,8 +11637,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="607" trl="N">
-    <value column="Name" isTrl="N" original="Updated">Updated</value>
-    <value column="PrintName" isTrl="N" original="Updated">Updated</value>
+    <value column="Name" isTrl="Y" original="Updated">Дата обновления</value>
+    <value column="PrintName" isTrl="Y" original="Updated">Обновлено</value>
     <value column="Description" isTrl="N" original="The date that this record was last updated">The date that this record was last updated</value>
     <value column="Help" isTrl="N" original="The Updated field indicates the date that this record was updated.">The Updated field indicates the date that this record was updated.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11647,8 +11647,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="608" trl="N">
-    <value column="Name" isTrl="N" original="Updated By">Updated By</value>
-    <value column="PrintName" isTrl="N" original="Updated By">Updated By</value>
+    <value column="Name" isTrl="N" original="Updated By">Редактор</value>
+    <value column="PrintName" isTrl="N" original="Updated By">Редактор</value>
     <value column="Description" isTrl="N" original="User who updated this records">User who updated this records</value>
     <value column="Help" isTrl="N" original="The Updated By field indicates the user who updated this record.">The Updated By field indicates the user who updated this record.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17138,9 +17138,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800663" trl="N">
-    <value column="Name" isTrl="N" original="Consumption Days">Consumption Days</value>
-    <value column="PrintName" isTrl="N" original="Consumption Days">Consumption Days</value>
-    <value column="Description" isTrl="N" original="Consumption Days">Consumption Days</value>
+    <value column="Name" isTrl="Y" original="Consumption Days">Потребность в днях</value>
+    <value column="PrintName" isTrl="Y" original="Consumption Days">Потребность в днях</value>
+    <value column="Description" isTrl="Y" original="Consumption Days">Потребность в днях</value>
     <value column="Help" isTrl="N" original="This field is used Copy Lines From in Order tab to specify the consumptions made in the last n days.">This field is used Copy Lines From in Order tab to specify the consumptions made in the last n days.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>

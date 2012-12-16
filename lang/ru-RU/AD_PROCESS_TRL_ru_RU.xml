@@ -139,10 +139,10 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Description" isTrl="N" original="Process Inventory count and update Inventory">Process Inventory count and update Inventory</value>
     <value column="Help" isTrl="N" original="Process Inventory count and update Inventory">Process Inventory count and update Inventory</value>
   </row>
-  <row id="108" trl="N">
-    <value column="Name" isTrl="N" original="Copy Accounts">Copy Accounts</value>
-    <value column="Description" isTrl="N" original="Copy and overwrite all accounts to system defaults (DANGEROUS!!!)">Copy and overwrite all accounts to system defaults (DANGEROUS!!!)</value>
-    <value column="Help" isTrl="N" original="Copy and overwrite all accounts to system defaults (DANGEROUS!!!)">Copy and overwrite all accounts to system defaults (DANGEROUS!!!)</value>
+  <row id="108" trl="Y">
+    <value column="Name" isTrl="Y" original="Copy Accounts">Копировать счета</value>
+    <value column="Description" isTrl="Y" original="Copy and overwrite all accounts to system defaults (DANGEROUS!!!)">Копировать и переписать все системные счета установленные по-умолчанию (ОПАСНО!!!)</value>
+    <value column="Help" isTrl="Y" original="Copy and overwrite all accounts to system defaults (DANGEROUS!!!)">Копировать и переписать все системные счета установленные по-умолчанию (ОПАСНО!!!)</value>
   </row>
   <row id="109" trl="N">
     <value column="Name" isTrl="N" original="Process Shipment">Process Shipment</value>
@@ -621,7 +621,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="53863D4359114ADE92133F772135AEEB" trl="N">
-    <value column="Name" isTrl="N" original="Set as Ready">Set as Ready</value>
+    <value column="Name" isTrl="Y" original="Set as Ready">Установить готовность</value>
     <value column="Description" isTrl="N" original="Set an organization as ready">Set an organization as ready</value>
     <value column="Help" isTrl="N" original="This procedure checks if the organization fulfills every requirement before setting it as ready.">This procedure checks if the organization fulfills every requirement before setting it as ready.</value>
   </row>
@@ -1111,10 +1111,10 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Description" isTrl="N" original="Calculate Freight Amount">Calculate Freight Amount</value>
     <value column="Help" isTrl="N" original="Calculate Freight Amount">Calculate Freight Amount</value>
   </row>
-  <row id="800142" trl="N">
-    <value column="Name" isTrl="N" original="Process">Process</value>
-    <value column="Description" isTrl="N" original="Process">Process</value>
-    <value column="Help" isTrl="N" original="Process">Process</value>
+  <row id="800142" trl="Y">
+    <value column="Name" isTrl="Y" original="Process">Обработка</value>
+    <value column="Description" isTrl="Y" original="Process">Обработка</value>
+    <value column="Help" isTrl="Y" original="Process">Обработка</value>
   </row>
   <row id="800143" trl="N">
     <value column="Name" isTrl="N" original="Shipper Report">Shipper Report</value>
@@ -1445,7 +1445,7 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Create Payment in Advance">Create Payment in Advance</value>
   </row>
   <row id="D85D5B5E368A49B1A6293BA4AE15F0F9" trl="N">
-    <value column="Name" isTrl="N" original="Export Client">Export Client</value>
+    <value column="Name" isTrl="Y" original="Export Client">Экспорт подключения</value>
     <value column="Description" isTrl="N" original="Export a client to xml">Export a client to xml</value>
     <value column="Help" isTrl="N" original="Export a client to a xml file">Export a client to a xml file</value>
   </row>

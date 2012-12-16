@@ -73,7 +73,7 @@
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars and periods for accounting purposes.">Create multiple fiscal calendars and periods for accounting purposes.</value>
   </row>
   <row id="105" trl="N">
-    <value column="Name" isTrl="N" original="Account Tree">Account Tree</value>
+    <value column="Name" isTrl="Y" original="Account Tree">План счетов</value>
     <value column="Description" isTrl="N" original="Create and edit account elements and add them to your defined chart of accounts or account trees.">Create and edit account elements and add them to your defined chart of accounts or account trees.</value>
   </row>
   <row id="106" trl="N">
@@ -81,23 +81,23 @@
     <value column="Description" isTrl="N" original="Create accounting combinations to be used in Openbravo's accounting process.">Create accounting combinations to be used in Openbravo's accounting process.</value>
   </row>
   <row id="107" trl="N">
-    <value column="Name" isTrl="N" original="Unit of Measure">Unit of Measure</value>
+    <value column="Name" isTrl="Y" original="Unit of Measure">Единицы измерения</value>
     <value column="Description" isTrl="N" original="Create units of measure and conversions rates to be applied to products.">Create units of measure and conversions rates to be applied to products.</value>
   </row>
   <row id="108" trl="N">
-    <value column="Name" isTrl="N" original="Location">Location</value>
+    <value column="Name" isTrl="Y" original="Location">Расположение</value>
     <value column="Description" isTrl="N" original="Define addresses or service points of your organizations.">Define addresses or service points of your organizations.</value>
   </row>
   <row id="109" trl="N">
-    <value column="Name" isTrl="N" original="Country and Region">Country and Region</value>
+    <value column="Name" isTrl="Y" original="Country and Region">Страна и регион</value>
     <value column="Description" isTrl="N" original="Define countries with regions to be used in the application.">Define countries with regions to be used in the application.</value>
   </row>
   <row id="110" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
     <value column="Description" isTrl="N" original="Create and edit business partner information, templates, and bank accounts.">Create and edit business partner information, templates, and bank accounts.</value>
   </row>
   <row id="111" trl="N">
-    <value column="Name" isTrl="N" original="General Ledger Configuration">General Ledger Configuration</value>
+    <value column="Name" isTrl="Y" original="General Ledger Configuration">Настройка Главной книги</value>
     <value column="Description" isTrl="N" original="Create and edit general ledger including dimensions and default accounts.">Create and edit general ledger including dimensions and default accounts.</value>
   </row>
   <row id="115" trl="N">
@@ -121,11 +121,11 @@
     <value column="Description" isTrl="N" original="Define activities for which you are interested in managing costs.">Define activities for which you are interested in managing costs.</value>
   </row>
   <row id="121" trl="N">
-    <value column="Name" isTrl="N" original="Document Type">Document Type</value>
+    <value column="Name" isTrl="Y" original="Document Type">Тип документа</value>
     <value column="Description" isTrl="N" original="Create and manage document types to be used for all application transactions.">Create and manage document types to be used for all application transactions.</value>
   </row>
   <row id="123" trl="N">
-    <value column="Name" isTrl="N" original="Tax Rate">Tax Rate</value>
+    <value column="Name" isTrl="Y" original="Tax Rate">Ставка налога</value>
     <value column="Description" isTrl="N" original="Create tax rates to be used in application transactions.">Create tax rates to be used in application transactions.</value>
   </row>
   <row id="1230E15C39394C2DBBB745EF282479F0" trl="N">
@@ -133,7 +133,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="124" trl="N">
-    <value column="Name" isTrl="N" original="Tax Category">Tax Category</value>
+    <value column="Name" isTrl="Y" original="Tax Category">Категория налога</value>
     <value column="Description" isTrl="N" original="Create tax categories to manage tax rates with similar characteristics or attributes.">Create tax categories to manage tax rates with similar characteristics or attributes.</value>
   </row>
   <row id="125" trl="N">
@@ -221,7 +221,7 @@
     <value column="Description" isTrl="N" original="Create users and manage user roles to give access permissions.">Create users and manage user roles to give access permissions.</value>
   </row>
   <row id="148" trl="N">
-    <value column="Name" isTrl="N" original="Client">Client</value>
+    <value column="Name" isTrl="Y" original="Client">Подключение</value>
     <value column="Description" isTrl="N" original="Define client characteristics, additional information, and defaults.">Define client characteristics, additional information, and defaults.</value>
   </row>
   <row id="149" trl="N">
@@ -241,11 +241,11 @@
     <value column="Description" isTrl="N" original="Open a folder where you can customize, modify, and adapt the application to your needs.">Open a folder where you can customize, modify, and adapt the application to your needs.</value>
   </row>
   <row id="155" trl="N">
-    <value column="Name" isTrl="N" original="General Setup">General Setup</value>
+    <value column="Name" isTrl="Y" original="General Setup">Основные настройки</value>
     <value column="Description" isTrl="N" original="General Setup is the place where to configure basic Openbravo settings such as the enterprise model, users and roles  as well as other more advance setting such as alerts, preferences and processes.">General Setup is the place where to configure basic Openbravo settings such as the enterprise model, users and roles  as well as other more advance setting such as alerts, preferences and processes.</value>
   </row>
   <row id="156" trl="N">
-    <value column="Name" isTrl="N" original="Client">Client</value>
+    <value column="Name" isTrl="Y" original="Client">Подключение</value>
     <value column="Description" isTrl="N" original="Client folder collects client configuration as well as the role of the client to be assigned to those Openbravo users do not linked to a Google account.">Client folder collects client configuration as well as the role of the client to be assigned to those Openbravo users do not linked to a Google account.</value>
   </row>
   <row id="157" trl="N">
@@ -265,7 +265,7 @@
     <value column="Description" isTrl="N" original="Project and Services Management addresses services and multiphase projects and helps on analyzing project related reports.">Project and Services Management addresses services and multiphase projects and helps on analyzing project related reports.</value>
   </row>
   <row id="161" trl="N">
-    <value column="Name" isTrl="N" original="Application">Меню</value>
+    <value column="Name" isTrl="Y" original="Application">Системные</value>
     <value column="Description" isTrl="N" original="Application folder gathers multi-data settings, attributes values or specific properties settings at different levels as well as alerts configuration. ">Application folder gathers multi-data settings, attributes values or specific properties settings at different levels as well as alerts configuration. </value>
   </row>
   <row id="164" trl="N">
@@ -277,7 +277,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="166" trl="N">
-    <value column="Name" isTrl="N" original="Sales Management">Sales Management</value>
+    <value column="Name" isTrl="Y" original="Sales Management">Управление продажами</value>
     <value column="Description" isTrl="N" original="Sales Management  addresses the life-cycle of a sales process and besides provides the tools to analyze sales related information.">Sales Management  addresses the life-cycle of a sales process and besides provides the tools to analyze sales related information.</value>
   </row>
   <row id="167" trl="N">
@@ -289,15 +289,15 @@
     <value column="Description" isTrl="N" original="View detailed general ledger entries for a specified time period.">View detailed general ledger entries for a specified time period.</value>
   </row>
   <row id="170" trl="N">
-    <value column="Name" isTrl="N" original="Tree and Node Image">Tree and Node Image</value>
+    <value column="Name" isTrl="Y" original="Tree and Node Image">Планы и схемы</value>
     <value column="Description" isTrl="N" original="Defines the descriptions and images that will be used when a tree is displayed.">Defines the descriptions and images that will be used when a tree is displayed.</value>
   </row>
   <row id="171" trl="N">
-    <value column="Name" isTrl="N" original="Bank">Bank</value>
+    <value column="Name" isTrl="Y" original="Bank">Банк</value>
     <value column="Description" isTrl="N" original="Define banks and the related accounts.">Define banks and the related accounts.</value>
   </row>
   <row id="175" trl="N">
-    <value column="Name" isTrl="N" original="Enterprise Model">Enterprise Model</value>
+    <value column="Name" isTrl="Y" original="Enterprise Model">Структура компании</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create and edit enterprise items such as organizations.">Open a folder where you can create and edit enterprise items such as organizations.</value>
   </row>
   <row id="176" trl="N">
@@ -361,7 +361,7 @@
     <value column="Description" isTrl="N" original="Invoice Transactions">Invoice Transactions</value>
   </row>
   <row id="203" trl="N">
-    <value column="Name" isTrl="N" original="Procurement Management">Procurement Management</value>
+    <value column="Name" isTrl="Y" original="Procurement Management">Управление закупками</value>
     <value column="Description" isTrl="N" original="Procurement Management supports the management of the orders, goods receipts and purchase invoices as well as the analysis of purchase related data.">Procurement Management supports the management of the orders, goods receipts and purchase invoices as well as the analysis of purchase related data.</value>
   </row>
   <row id="204" trl="N">
@@ -421,7 +421,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="225" trl="N">
-    <value column="Name" isTrl="N" original="Initial Client Setup">Initial Client Setup</value>
+    <value column="Name" isTrl="Y" original="Initial Client Setup">Начальные параметры подключения</value>
     <value column="Description" isTrl="N" original="Create a new empty client from scratch.">Create a new empty client from scratch.</value>
   </row>
   <row id="227" trl="N">
@@ -457,16 +457,16 @@
     <value column="Description" isTrl="N" original="Open a folder where you can create and edit settlements, debt payments, bank operations, remittances, and analyze reports.">Open a folder where you can create and edit settlements, debt payments, bank operations, remittances, and analyze reports.</value>
   </row>
   <row id="240" trl="N">
-    <value column="Name" isTrl="N" original="Cashbook">Cashbook</value>
+    <value column="Name" isTrl="Y" original="Cashbook">Кассовая книга</value>
     <value column="Description" isTrl="N" original="Create cashbooks to manage all cash movements which occur in the cash journal.">Create cashbooks to manage all cash movements which occur in the cash journal.</value>
   </row>
   <row id="241" trl="N">
-    <value column="Name" isTrl="N" original="Cash Journal">Cash Journal</value>
+    <value column="Name" isTrl="Y" original="Cash Journal">Касса</value>
     <value column="Description" isTrl="N" original="Add individual cash transactions to be managed and viewed in the cashbook.">Add individual cash transactions to be managed and viewed in the cashbook.</value>
   </row>
-  <row id="241C75FEC4C243BC8E71A4F358157F2D" trl="N">
-    <value column="Name" isTrl="N" original="Initial organization setup">Initial organization setup</value>
-    <value column="Description" isTrl="N" original=""/>
+  <row id="241C75FEC4C243BC8E71A4F358157F2D" trl="Y">
+    <value column="Name" isTrl="Y" original="Initial organization setup">Начальные параметры организации</value>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
   <row id="249" trl="N">
     <value column="Name" isTrl="N" original="Field Category">Field Category</value>
@@ -509,11 +509,11 @@
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="278" trl="N">
-    <value column="Name" isTrl="N" original="Financial Management">Financial Management</value>
+    <value column="Name" isTrl="Y" original="Financial Management">Управление финансами</value>
     <value column="Description" isTrl="N" original="The &quot;Financial Management&quot; area supports daily accounting activities such as payable and receivable accounts management, assets amortization as well as the opening and closing of the accounting year.">The "Financial Management" area supports daily accounting activities such as payable and receivable accounts management, assets amortization as well as the opening and closing of the accounting year.</value>
   </row>
   <row id="280" trl="N">
-    <value column="Name" isTrl="N" original="Analysis Tools">Analysis Tools</value>
+    <value column="Name" isTrl="Y" original="Analysis Tools">Аналитика</value>
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="292" trl="N">
@@ -881,31 +881,31 @@
     <value column="Description" isTrl="N" original="Price List Report">Price List Report</value>
   </row>
   <row id="800075" trl="N">
-    <value column="Name" isTrl="N" original="Analysis Tools">Analysis Tools</value>
+    <value column="Name" isTrl="Y" original="Analysis Tools">Аналитика</value>
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="800076" trl="N">
-    <value column="Name" isTrl="N" original="Analysis Tools">Analysis Tools</value>
+    <value column="Name" isTrl="Y" original="Analysis Tools">Аналитика</value>
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="800077" trl="N">
-    <value column="Name" isTrl="N" original="Analysis Tools">Analysis Tools</value>
+    <value column="Name" isTrl="Y" original="Analysis Tools">Аналитика</value>
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="800078" trl="N">
-    <value column="Name" isTrl="N" original="Analysis Tools">Analysis Tools</value>
+    <value column="Name" isTrl="Y" original="Analysis Tools">Аналитика</value>
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="800079" trl="N">
-    <value column="Name" isTrl="N" original="Analysis Tools">Analysis Tools</value>
+    <value column="Name" isTrl="Y" original="Analysis Tools">Аналитика</value>
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="800080" trl="N">
-    <value column="Name" isTrl="N" original="Reports">Reports</value>
+    <value column="Name" isTrl="Y" original="Reports">Отчеты</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800081" trl="N">
-    <value column="Name" isTrl="N" original="Analysis Tools">Analysis Tools</value>
+    <value column="Name" isTrl="Y" original="Analysis Tools">Аналитика</value>
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="800084" trl="N">
@@ -1041,7 +1041,7 @@
     <value column="Description" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Edit precisely what has been produced from a selected product order.</value>
   </row>
   <row id="800141" trl="N">
-    <value column="Name" isTrl="N" original="Analysis Tools">Analysis Tools</value>
+    <value column="Name" isTrl="Y" original="Analysis Tools">Аналитика</value>
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="800159" trl="N">
@@ -1153,7 +1153,7 @@
     <value column="Description" isTrl="Y" original="Import or export localizations.">Импортировать или экспортировать перевод интерфейса.</value>
   </row>
   <row id="800201" trl="N">
-    <value column="Name" isTrl="N" original="Delete Client">Delete Client</value>
+    <value column="Name" isTrl="Y" original="Delete Client">Удалить подключение</value>
     <value column="Description" isTrl="N" original="This process deletes a client">This process deletes a client</value>
   </row>
   <row id="800202" trl="N">
@@ -1257,7 +1257,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800237" trl="N">
-    <value column="Name" isTrl="N" original="Master Data Management">Master Data Management</value>
+    <value column="Name" isTrl="Y" original="Master Data Management">Справочники</value>
     <value column="Description" isTrl="N" original="Mater Data is a central repository of data where  key information such as business partners and products can be created, configured and therefore shared accross other Openbravo application areas.">Mater Data is a central repository of data where  key information such as business partners and products can be created, configured and therefore shared accross other Openbravo application areas.</value>
   </row>
   <row id="800238" trl="N">
@@ -1421,7 +1421,7 @@
     <value column="Description" isTrl="N" original="Pareto Product Report">Pareto Product Report</value>
   </row>
   <row id="8BA14A552EA84AB19A33F3F2C3002790" trl="N">
-    <value column="Name" isTrl="N" original="Export Client">Export Client</value>
+    <value column="Name" isTrl="Y" original="Export Client">Экспорт подключения</value>
     <value column="Description" isTrl="N" original="Export a client to xml">Export a client to xml</value>
   </row>
   <row id="8BA9DEA4CA5F4AFE84A60C9EB5BF1A66" trl="N">

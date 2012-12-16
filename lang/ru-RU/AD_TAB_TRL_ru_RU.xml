@@ -344,14 +344,14 @@
     <value column="Help" isTrl="N" original="The accounting periods belonging to a year can be created manually and/or automatically by running the process &quot;Create Periods&quot;.">The accounting periods belonging to a year can be created manually and/or automatically by running the process "Create Periods".</value>
   </row>
   <row id="131" trl="N">
-    <value column="Name" isTrl="N" original="Non Business Day">Non Business Day</value>
+    <value column="Name" isTrl="Y" original="Non Business Day">Не рабочий день</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define non business days for a selected fiscal calendar.">Define non business days for a selected fiscal calendar.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Non business days can be listed in this tab as a way of stating non working days for an organization and a calendar to be taken into account while calculating for instance payment dates.">Non business days can be listed in this tab as a way of stating non working days for an organization and a calendar to be taken into account while calculating for instance payment dates.</value>
   </row>
   <row id="132" trl="N">
-    <value column="Name" isTrl="N" original="Element Value">Element Value</value>
+    <value column="Name" isTrl="Y" original="Element Value">Структура элементов</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add and edit elements and edit elements tree structures.">Add and edit elements and edit elements tree structures.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -400,7 +400,7 @@
     <value column="Help" isTrl="N" original="The Organization window allows to maintain the organizations created by the Initial Organization Setup process.">The Organization window allows to maintain the organizations created by the Initial Organization Setup process.</value>
   </row>
   <row id="145" trl="N">
-    <value column="Name" isTrl="N" original="Client">Client</value>
+    <value column="Name" isTrl="Y" original="Client">Подключение</value>
     <value column="CommitWarning" isTrl="N" original="Create a new client via "/>
     <value column="Description" isTrl="N" original="Add client's detailed information.">Add client's detailed information.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -645,7 +645,7 @@
     <value column="Help" isTrl="N" original="Conversion rates window allow to create the rates to be used for multi currency transactions.">Conversion rates window allow to create the rates to be used for multi currency transactions.</value>
   </row>
   <row id="199" trl="N">
-    <value column="Name" isTrl="N" original="General Ledger Configuration">General Ledger Configuration</value>
+    <value column="Name" isTrl="Y" original="General Ledger Configuration">Настройка Главной книги</value>
     <value column="CommitWarning" isTrl="N" original="For changes to become effective, you must re-login and re-start the Application Server."/>
     <value column="Description" isTrl="N" original="Create multiple general ledger">Create multiple general ledger</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -898,7 +898,7 @@
     <value column="Help" isTrl="N" original="Accounting transaction details report is a view of every accounting transaction posted in Openbravo. This view shows the accounting dimension values of every accounting transaction.">Accounting transaction details report is a view of every accounting transaction posted in Openbravo. This view shows the accounting dimension values of every accounting transaction.</value>
   </row>
   <row id="243" trl="N">
-    <value column="Name" isTrl="N" original="Tree">Tree</value>
+    <value column="Name" isTrl="Y" original="Tree">Схема</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define structural trees to be used in the application.">Define structural trees to be used in the application.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1310,7 +1310,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Accounting tab allows to configure the ledger account to be used while posting tax rate transactions for a given accounting schema.">Accounting tab allows to configure the ledger account to be used while posting tax rate transactions for a given accounting schema.</value>
   </row>
   <row id="336" trl="N">
-    <value column="Name" isTrl="N" original="Cashbook">Cashbook</value>
+    <value column="Name" isTrl="Y" original="Cashbook">Кассовая книга</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define cashbooks to be used for the company's cash transactions.">Define cashbooks to be used for the company's cash transactions.</value>
     <value column="Filtername" isTrl="N" original=""/>
