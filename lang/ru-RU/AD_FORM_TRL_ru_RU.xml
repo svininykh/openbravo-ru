@@ -89,10 +89,10 @@ Use Module Management to browse the currently installed modules, to check for up
     <value column="Description" isTrl="N" original="Execute SQL query and view results within the Openbravo application.">Execute SQL query and view results within the Openbravo application.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="800014" trl="N">
-    <value column="Name" isTrl="N" original="Import/Export Translations">Import/Export Translations</value>
-    <value column="Description" isTrl="N" original="Import or export localizations.">Import or export localizations.</value>
-    <value column="Help" isTrl="N" original=""/>
+  <row id="800014" trl="Y">
+    <value column="Name" isTrl="Y" original="Import/Export Translations">Импорт/Экспорт переводов</value>
+    <value column="Description" isTrl="Y" original="Import or export localizations.">Импортировать или экспортировать перевод интерфейса.</value>
+    <value column="Help" isTrl="Y" original=""/>
   </row>
   <row id="800015" trl="N">
     <value column="Name" isTrl="N" original="About">About</value>

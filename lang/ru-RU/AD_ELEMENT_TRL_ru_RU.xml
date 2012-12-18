@@ -4959,7 +4959,7 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="173" trl="N">
-    <value column="Name" isTrl="Y" original="Invoice Address">Адрес счёта</value>
+    <value column="Name" isTrl="Y" original="Invoice Address">Адрес в счёте</value>
     <value column="PrintName" isTrl="Y" original="Invoice To">Адрес счёта</value>
     <value column="Description" isTrl="Y" original="The location where the invoice payment request will be sent.">Адрес для выставления счёта на оплату.</value>
     <value column="Help" isTrl="N" original="An indication of the address to use in the invoice.&lt;br /&gt;">An indication of the address to use in the invoice.&lt;br /&gt;</value>
@@ -8826,9 +8826,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original="Days Till Next Due">Days Till Next Due</value>
   </row>
   <row id="470" trl="N">
-    <value column="Name" isTrl="N" original="Overdue Payment Days Rule">Overdue Payment Days Rule</value>
-    <value column="PrintName" isTrl="N" original="Net Days">Net Days</value>
-    <value column="Description" isTrl="N" original="A plan to give additional days after the agreed payment term to pay without penalty.">A plan to give additional days after the agreed payment term to pay without penalty.</value>
+    <value column="Name" isTrl="N" original="Overdue Payment Days Rule">Дополнительные дни на оплату</value>
+    <value column="PrintName" isTrl="N" original="Net Days">Дополнительные дни на оплату</value>
+    <value column="Description" isTrl="N" original="A plan to give additional days after the agreed payment term to pay without penalty."> Планируемое количество дней сверх установленных сроков на оплату без штрафов.</value>
     <value column="Help" isTrl="N" original="Indicates the number of days after invoice date that payment is due.">Indicates the number of days after invoice date that payment is due.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -9025,9 +9025,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="4B4FE5FD9E234FC3A704B77C67C8ECFB" trl="N">
-    <value column="Name" isTrl="N" original="Quotation">Quotation</value>
-    <value column="PrintName" isTrl="N" original="Quotation">Quotation</value>
+  <row id="4B4FE5FD9E234FC3A704B77C67C8ECFB" trl="Y">
+    <value column="Name" isTrl="Y" original="Quotation">По приходной накладной</value>
+    <value column="PrintName" isTrl="Y" original="Quotation">По приходной накладной</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19372,9 +19372,9 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="893" trl="N">
-    <value column="Name" isTrl="N" original="Offset Month Due">Offset Month Due</value>
-    <value column="PrintName" isTrl="N" original="Fix month offset">Fix month offset</value>
-    <value column="Description" isTrl="N" original="Number of months (0=same, 1=following)">Number of months (0=same, 1=following)</value>
+    <value column="Name" isTrl="N" original="Offset Month Due">Месяц оплаты</value>
+    <value column="PrintName" isTrl="N" original="Fix month offset">Месяц оплаты</value>
+    <value column="Description" isTrl="N" original="Number of months (0=same, 1=following)">Число месяцов(0=текущий, 1=следующий)</value>
     <value column="Help" isTrl="N" original="The Offset Month Due indicates the number of months from the current month to indicate an invoice is due.  A 0 indicates the same month, a 1 the following month. ">The Offset Month Due indicates the number of months from the current month to indicate an invoice is due.  A 0 indicates the same month, a 1 the following month. </value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>

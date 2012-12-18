@@ -1567,17 +1567,17 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800061" trl="N">
-    <value column="Name" isTrl="N" original="Project">Project</value>
+    <value column="Name" isTrl="Y" original="Project">Проект</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800062" trl="N">
-    <value column="Name" isTrl="N" original="Order">Order</value>
+    <value column="Name" isTrl="Y" original="Order">Накладная</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800063" trl="N">
-    <value column="Name" isTrl="N" original="Order Line">Order Line</value>
+    <value column="Name" isTrl="Y" original="Order Line">Строка накладной</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

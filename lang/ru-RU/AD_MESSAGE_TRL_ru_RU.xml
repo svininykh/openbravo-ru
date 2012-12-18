@@ -932,7 +932,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300038" trl="N">
-    <value column="MsgText" isTrl="N" original="Order">Order</value>
+    <value column="MsgText" isTrl="Y" original="Order">Накладная</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300039" trl="N">
@@ -948,7 +948,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300042" trl="N">
-    <value column="MsgText" isTrl="N" original="Order">Order</value>
+    <value column="MsgText" isTrl="Y" original="Order">Накладная</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300043" trl="N">
@@ -5362,9 +5362,9 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgText" isTrl="N" original="Circular reference detected. Please check them.">Circular reference detected. Please check them.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="800152" trl="N">
-    <value column="MsgText" isTrl="N" original="More">More</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="800152" trl="Y">
+    <value column="MsgText" isTrl="Y" original="More">Больше</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="800153" trl="N">
     <value column="MsgText" isTrl="N" original="Price not found for current partner and product">Price not found for current partner and product</value>
@@ -6156,21 +6156,21 @@ Openbravo Administrator</value>
     <value column="MsgText" isTrl="N" original="Commission">Commission</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="804802" trl="N">
-    <value column="MsgText" isTrl="N" original="The business partner">The business partner</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="804802" trl="Y">
+    <value column="MsgText" isTrl="Y" original="The business partner">Контрагент</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
-  <row id="804803" trl="N">
-    <value column="MsgText" isTrl="N" original="has not defined an address location">has not defined an address location</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="804803" trl="Y">
+    <value column="MsgText" isTrl="Y" original="has not defined an address location">не задан адрес места расположения</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
-  <row id="804804" trl="N">
-    <value column="MsgText" isTrl="N" original="has not defined a payment term">has not defined a payment term</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="804804" trl="Y">
+    <value column="MsgText" isTrl="Y" original="has not defined a payment term">не задано условие оплаты</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
-  <row id="804805" trl="N">
-    <value column="MsgText" isTrl="N" original="has not defined a pricelist">has not defined a pricelist</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="804805" trl="Y">
+    <value column="MsgText" isTrl="Y" original="has not defined a pricelist">не задан прейскурант</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="804806" trl="N">
     <value column="MsgText" isTrl="N" original="Table not found">Table not found</value>
@@ -6184,9 +6184,9 @@ Openbravo Administrator</value>
     <value column="MsgText" isTrl="N" original="You have not selected any parameters">You have not selected any parameters</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="804809" trl="N">
-    <value column="MsgText" isTrl="N" original="There is not defined a default payment term">There is not defined a default payment term</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="804809" trl="Y">
+    <value column="MsgText" isTrl="Y" original="There is not defined a default payment term">Не задано условие оплаты по-умолчанию.</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="804810" trl="N">
     <value column="MsgText" isTrl="N" original="A document type for purchase order has not found">A document type for purchase order has not found</value>
@@ -6277,7 +6277,7 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="804834" trl="N">
-    <value column="MsgText" isTrl="N" original="Information">Information</value>
+    <value column="MsgText" isTrl="Y" original="Information">Информация</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804835" trl="N">

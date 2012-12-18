@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REF_LIST" version="">
   <row id="01079D7A39BD4306A217A811388D500A" trl="N">
-    <value column="Name" isTrl="N" original="Close">Close</value>
-    <value column="Description" isTrl="N" original="Close">Close</value>
+    <value column="Name" isTrl="Y" original="Close">Закрыть</value>
+    <value column="Description" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="01920B83AE144535BF95CDB43012A76D" trl="N">
     <value column="Name" isTrl="N" original="Locked User">Locked User</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="02DF846DDB7C4B4E8C2E483B38A977B7" trl="N">
-    <value column="Name" isTrl="N" original="Servlet">Servlet</value>
+    <value column="Name" isTrl="Y" original="Servlet">Сервлет</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="0330339818C446F5BEEBD4DA6B60914C" trl="N">
@@ -41,7 +41,7 @@
     <value column="Description" isTrl="N" original="Sesion logged in successfully">Sesion logged in successfully</value>
   </row>
   <row id="072138EEC68B4B9B9698EE207EB3CDB5" trl="N">
-    <value column="Name" isTrl="N" original="Not Accepted">Not Accepted</value>
+    <value column="Name" isTrl="Y" original="Not Accepted">Не принято</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="0908AC3BA88A4445AB7E56E029937498" trl="N">
@@ -49,7 +49,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="09270627DC864FF9B4EC671005235D88" trl="N">
-    <value column="Name" isTrl="N" original="Transfer">Transfer</value>
+    <value column="Name" isTrl="Y" original="Transfer">Передать</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="0BAFBA62FB824386867DA9A9698A66FF" trl="N">
@@ -73,7 +73,7 @@
     <value column="Description" isTrl="N" original="Used when disabling the process">Used when disabling the process</value>
   </row>
   <row id="0D9C324D653341949317134A1A603273" trl="N">
-    <value column="Name" isTrl="N" original="Expired">Expired</value>
+    <value column="Name" isTrl="Y" original="Expired">Просрочено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="0DB8E1CC78C641CE9FB3810F600456ED" trl="N">
@@ -289,15 +289,15 @@
     <value column="Description" isTrl="N" original="The requisition line has not been inclluded in a Purchasing plan, neither has an associated purchase order.">The requisition line has not been inclluded in a Purchasing plan, neither has an associated purchase order.</value>
   </row>
   <row id="1004400001" trl="N">
-    <value column="Name" isTrl="N" original="Planned">Planned</value>
+    <value column="Name" isTrl="Y" original="Planned">Запланировано</value>
     <value column="Description" isTrl="N" original="The requisition has been included in a Purchase Plan and purchase orders have been created.">The requisition has been included in a Purchase Plan and purchase orders have been created.</value>
   </row>
   <row id="1004400002" trl="N">
-    <value column="Name" isTrl="N" original="Closed">Closed</value>
+    <value column="Name" isTrl="Y" original="Closed">Закрыто</value>
     <value column="Description" isTrl="N" original="The requisition has at least an associated purchase order.">The requisition has at least an associated purchase order.</value>
   </row>
   <row id="1004400003" trl="N">
-    <value column="Name" isTrl="N" original="Cancelled">Cancelled</value>
+    <value column="Name" isTrl="Y" original="Cancelled">Отменено</value>
     <value column="Description" isTrl="N" original="The requisition has been cancelled without creating a purchase order.">The requisition has been cancelled without creating a purchase order.</value>
   </row>
   <row id="1004400004" trl="N">
@@ -349,7 +349,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="107" trl="N">
-    <value column="Name" isTrl="N" original="Error">Error</value>
+    <value column="Name" isTrl="Y" original="Error">Ошибка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="108" trl="N">
@@ -453,11 +453,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="131" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="132" trl="N">
-    <value column="Name" isTrl="N" original="Bus Partner">Bus Partner</value>
+    <value column="Name" isTrl="Y" original="Bus Partner">Контрагент</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="133" trl="N">
@@ -480,9 +480,9 @@
     <value column="Name" isTrl="N" original="Minority-Owned Small Business">Minority-Owned Small Business</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
-  <row id="137FAE2E0B2E41CB901067BC77E37EE7" trl="N">
-    <value column="Name" isTrl="N" original="Book">Book</value>
-    <value column="Description" isTrl="N" original="Generate documents and complete transaction">Generate documents and complete transaction</value>
+  <row id="137FAE2E0B2E41CB901067BC77E37EE7" trl="Y">
+    <value column="Name" isTrl="Y" original="Book">Провести</value>
+    <value column="Description" isTrl="Y" original="Generate documents and complete transaction">Создать документ и выполнить проводки.</value>
   </row>
   <row id="138" trl="N">
     <value column="Name" isTrl="N" original="Minority-Owned Business">Minority-Owned Business</value>
@@ -585,47 +585,47 @@
     <value column="Description" isTrl="N" original="Reference -&gt;">Reference -&gt;</value>
   </row>
   <row id="164" trl="N">
-    <value column="Name" isTrl="N" original="Draft">Draft</value>
+    <value column="Name" isTrl="Y" original="Draft">Черновик</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="165" trl="N">
-    <value column="Name" isTrl="N" original="Completed">Completed</value>
+    <value column="Name" isTrl="Y" original="Completed">Выполнено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="166" trl="N">
-    <value column="Name" isTrl="N" original="Accepted">Accepted</value>
+    <value column="Name" isTrl="Y" original="Accepted">Принято</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="167" trl="N">
-    <value column="Name" isTrl="N" original="Modified">Modified</value>
+    <value column="Name" isTrl="Y" original="Modified">Изменено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="168" trl="N">
-    <value column="Name" isTrl="N" original="Not Accepted">Not Accepted</value>
+    <value column="Name" isTrl="Y" original="Not Accepted">Не принято</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="169" trl="N">
-    <value column="Name" isTrl="N" original="Transfer Error">Transfer Error</value>
+    <value column="Name" isTrl="Y" original="Transfer Error">Ошибка передачи</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="170" trl="N">
-    <value column="Name" isTrl="N" original="Printed">Printed</value>
+    <value column="Name" isTrl="Y" original="Printed">Распечатано</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="171" trl="N">
-    <value column="Name" isTrl="N" original="Transferred">Transferred</value>
+    <value column="Name" isTrl="Y" original="Transferred">Передано</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="172" trl="N">
-    <value column="Name" isTrl="N" original="Voided">Voided</value>
+    <value column="Name" isTrl="Y" original="Voided">Анулировано</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="173" trl="N">
-    <value column="Name" isTrl="N" original="Inactive">Inactive</value>
+    <value column="Name" isTrl="Y" original="Inactive">Не активно</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="174" trl="N">
-    <value column="Name" isTrl="N" original="Accounting Error">Accounting Error</value>
+    <value column="Name" isTrl="Y" original="Accounting Error">Ошибка проведения</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="174988A322B34FC9B8C4403BA1617DB7" trl="N">
@@ -633,35 +633,35 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="175" trl="N">
-    <value column="Name" isTrl="N" original="Posted">Posted</value>
+    <value column="Name" isTrl="Y" original="Posted">Опубликовано</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="176" trl="N">
-    <value column="Name" isTrl="N" original="Re-Opened">Re-Opened</value>
+    <value column="Name" isTrl="Y" original="Re-Opened">Повторно открыто</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="177" trl="N">
-    <value column="Name" isTrl="N" original="Closed">Closed</value>
+    <value column="Name" isTrl="Y" original="Closed">Закрыто</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="178" trl="N">
-    <value column="Name" isTrl="N" original="Complete">Complete</value>
+    <value column="Name" isTrl="Y" original="Complete">Выполнить</value>
     <value column="Description" isTrl="N" original="Generate documents and complete transaction">Generate documents and complete transaction</value>
   </row>
   <row id="179" trl="N">
-    <value column="Name" isTrl="N" original="Approve">Approve</value>
+    <value column="Name" isTrl="Y" original="Approve">Утвердить</value>
     <value column="Description" isTrl="N" original="Approve this transaction">Approve this transaction</value>
   </row>
   <row id="180" trl="N">
-    <value column="Name" isTrl="N" original="Reject">Reject</value>
+    <value column="Name" isTrl="Y" original="Reject">Отклонить</value>
     <value column="Description" isTrl="N" original="Reject the approval of the document. ">Reject the approval of the document. </value>
   </row>
   <row id="181" trl="N">
-    <value column="Name" isTrl="N" original="Post">Post</value>
+    <value column="Name" isTrl="Y" original="Post">Опубликовать</value>
     <value column="Description" isTrl="N" original="Post transaction">Post transaction</value>
   </row>
   <row id="182" trl="N">
-    <value column="Name" isTrl="N" original="Void">Void</value>
+    <value column="Name" isTrl="Y" original="Void">Анулировать</value>
     <value column="Description" isTrl="N" original="Set all quantities to zero and complete transaction">Set all quantities to zero and complete transaction</value>
   </row>
   <row id="182B02BA830C469E8369E62875D472A0" trl="N">
@@ -669,11 +669,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="183" trl="N">
-    <value column="Name" isTrl="N" original="Close">Close</value>
+    <value column="Name" isTrl="Y" original="Close">Закрыть</value>
     <value column="Description" isTrl="N" original="Finally close this transaction. It cannot be re-activated.">Finally close this transaction. It cannot be re-activated.</value>
   </row>
   <row id="184" trl="N">
-    <value column="Name" isTrl="N" original="Void">Void</value>
+    <value column="Name" isTrl="Y" original="Void">Анулировать</value>
     <value column="Description" isTrl="N" original="Reverse Transaction (correction) by reversing sign with same date">Reverse Transaction (correction) by reversing sign with same date</value>
   </row>
   <row id="185" trl="N">
@@ -681,7 +681,7 @@
     <value column="Description" isTrl="N" original="Reverse by switching Dr/Cr with current date">Reverse by switching Dr/Cr with current date</value>
   </row>
   <row id="187" trl="N">
-    <value column="Name" isTrl="N" original="Transfer">Transfer</value>
+    <value column="Name" isTrl="Y" original="Transfer">Передать</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="187B94D71968449EA9E0B78328450A12" trl="N">
@@ -733,19 +733,19 @@
     <value column="Description" isTrl="N" original="Openbravo Commercial License">Openbravo Commercial License</value>
   </row>
   <row id="1D364B1DD350473DB0C1BC56DAD663D9" trl="N">
-    <value column="Name" isTrl="N" original="Current Month">Current Month</value>
+    <value column="Name" isTrl="Y" original="Current Month">Текущий месяц</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="1E280C50A2074397A985A9C3CCE2F1BE" trl="N">
-    <value column="Name" isTrl="N" original="Export to CSV">Export to CSV</value>
+    <value column="Name" isTrl="Y" original="Export to CSV">Экспорт в CSV</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="1E7E81913036445C985834E4C7DF405C" trl="N">
-    <value column="Name" isTrl="N" original="Under Way">Under Way</value>
+    <value column="Name" isTrl="Y" original="Under Way">В пути</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="1F4A81EA7A4040CC876917FB7BC57980" trl="N">
-    <value column="Name" isTrl="N" original="Net amount">Net amount</value>
+    <value column="Name" isTrl="Y" original="Net amount">Без налога</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="1F9D4FF0BA794C33A67EA8B14565FF1A" trl="N">
@@ -753,11 +753,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="200" trl="N">
-    <value column="Name" isTrl="N" original="Average">Average</value>
-    <value column="Description" isTrl="N" original="Average Rates">Average Rates</value>
+    <value column="Name" isTrl="Y" original="Average">Средняя</value>
+    <value column="Description" isTrl="Y" original="Average Rates">Средняя ставка</value>
   </row>
   <row id="200F26704B9F4613996364978BC475C8" trl="N">
-    <value column="Name" isTrl="N" original="Modified">Modified</value>
+    <value column="Name" isTrl="Y" original="Modified">Изменено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="201" trl="N">
@@ -993,11 +993,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="261" trl="N">
-    <value column="Name" isTrl="N" original="Open">Open</value>
+    <value column="Name" isTrl="Y" original="Open">Открыто</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="262" trl="N">
-    <value column="Name" isTrl="N" original="Closed">Closed</value>
+    <value column="Name" isTrl="Y" original="Closed">Закрыто</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="263" trl="N">
@@ -1009,19 +1009,19 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="266" trl="N">
-    <value column="Name" isTrl="N" original="Draft">Draft</value>
+    <value column="Name" isTrl="Y" original="Draft">Черновик</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="267" trl="N">
-    <value column="Name" isTrl="N" original="Approved">Approved</value>
+    <value column="Name" isTrl="N" original="Approved">Утверждено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="268" trl="N">
-    <value column="Name" isTrl="N" original="Error">Error</value>
+    <value column="Name" isTrl="Y" original="Error">Ошибка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="269" trl="N">
-    <value column="Name" isTrl="N" original="Warning">Warning</value>
+    <value column="Name" isTrl="Y" original="Warning">Внимание</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="26BD84560ADA416E8D00B7A07BAB2B23" trl="N">
@@ -1045,7 +1045,7 @@
     <value column="Description" isTrl="N" original="Natural Account">Natural Account</value>
   </row>
   <row id="274" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="Description" isTrl="N" original="Product">Product</value>
   </row>
   <row id="275" trl="N">
@@ -1069,7 +1069,7 @@
     <value column="Description" isTrl="N" original="Sales Region">Sales Region</value>
   </row>
   <row id="280" trl="N">
-    <value column="Name" isTrl="N" original="Project">Project</value>
+    <value column="Name" isTrl="Y" original="Project">Проект</value>
     <value column="Description" isTrl="N" original="Project">Project</value>
   </row>
   <row id="281" trl="N">
@@ -1093,7 +1093,7 @@
     <value column="Description" isTrl="N" original="Bill of Materials">Bill of Materials</value>
   </row>
   <row id="286" trl="N">
-    <value column="Name" isTrl="N" original="Project">Project</value>
+    <value column="Name" isTrl="Y" original="Project">Проект</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="287" trl="N">
@@ -1229,7 +1229,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="329" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Order">Purchase Order</value>
+    <value column="Name" isTrl="Y" original="Purchase Order">Приходная накладная</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="330" trl="N">
@@ -1257,23 +1257,23 @@
     <value column="Description" isTrl="N" original="Cash payments that do not generate an automatic accounting line. Its is not an automatic cash entry.">Cash payments that do not generate an automatic accounting line. Its is not an automatic cash entry.</value>
   </row>
   <row id="338" trl="N">
-    <value column="Name" isTrl="N" original="Month">Month</value>
+    <value column="Name" isTrl="Y" original="Month">Месяц</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="339" trl="N">
-    <value column="Name" isTrl="N" original="Quarter">Quarter</value>
+    <value column="Name" isTrl="Y" original="Quarter">Квартал</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="33FF914AAED849C1BE557ECFFF606C81" trl="N">
-    <value column="Name" isTrl="N" original="Approved">Approved</value>
+    <value column="Name" isTrl="Y" original="Approved">Утверждено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="340" trl="N">
-    <value column="Name" isTrl="N" original="Year">Year</value>
+    <value column="Name" isTrl="Y" original="Year">Год</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="341" trl="N">
-    <value column="Name" isTrl="N" original="Under Way">Under Way</value>
+    <value column="Name" isTrl="Y" original="Under Way">В пути</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="342" trl="N">
@@ -1337,7 +1337,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="355" trl="N">
-    <value column="Name" isTrl="N" original="Draft">Draft</value>
+    <value column="Name" isTrl="Y" original="Draft">Черновик</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="356" trl="N">
@@ -1357,7 +1357,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="360" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Order">Purchase Order</value>
+    <value column="Name" isTrl="Y" original="Purchase Order">Приходная накладная</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="361" trl="N">
@@ -1373,11 +1373,11 @@
     <value column="Description" isTrl="N" original="Special Forms">Special Forms</value>
   </row>
   <row id="364" trl="N">
-    <value column="Name" isTrl="N" original="And">And</value>
+    <value column="Name" isTrl="N" original="And">И</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="365" trl="N">
-    <value column="Name" isTrl="N" original="Or">Or</value>
+    <value column="Name" isTrl="N" original="Or">Или</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="366" trl="N">
@@ -1437,11 +1437,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="377" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="378" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="379" trl="N">
@@ -1545,7 +1545,7 @@
     <value column="Description" isTrl="N" original="This means that the attribute set value will specify completely the product. The attribute set value will always have this value and no other value will be allowed for it.">This means that the attribute set value will specify completely the product. The attribute set value will always have this value and no other value will be allowed for it.</value>
   </row>
   <row id="3D4C02EB56AA4380AF128782BDA72C3D" trl="N">
-    <value column="Name" isTrl="N" original="Complete">Complete</value>
+    <value column="Name" isTrl="Y" original="Complete">Выполнить</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="3E6F1F271AE44931BE140ECECE5C86A2" trl="N">
@@ -1577,7 +1577,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="4061BB5E23894F0BAF1C1F1DE5852F12" trl="N">
-    <value column="Name" isTrl="N" original="Accepted">Accepted</value>
+    <value column="Name" isTrl="Y" original="Accepted">Принято</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="406FECE6D8714CF99BE02152121F1CD2" trl="N">
@@ -1589,7 +1589,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="408" trl="N">
-    <value column="Name" isTrl="N" original="Void">Void</value>
+    <value column="Name" isTrl="Y" original="Void">Анулировать</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="409" trl="N">
@@ -1653,7 +1653,7 @@
     <value column="Description" isTrl="N" original="The days of the work week.">The days of the work week.</value>
   </row>
   <row id="445" trl="N">
-    <value column="Name" isTrl="N" original="Order">Order</value>
+    <value column="Name" isTrl="Y" original="Order">Накладная</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="446" trl="N">
@@ -1705,11 +1705,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="458" trl="N">
-    <value column="Name" isTrl="N" original="Post">Post</value>
+    <value column="Name" isTrl="Y" original="Post">Опубликовать</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="459" trl="N">
-    <value column="Name" isTrl="N" original="Unpost">Unpost</value>
+    <value column="Name" isTrl="Y" original="Unpost">Не публиковать</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="45987EAE3290457E98F2317B8807B963" trl="N">
@@ -1789,7 +1789,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="474F41E63A2B4EE6B1321CCB24C14929" trl="N">
-    <value column="Name" isTrl="N" original="Printed">Printed</value>
+    <value column="Name" isTrl="Y" original="Printed">Распечатано</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="475" trl="N">
@@ -2221,7 +2221,7 @@
     <value column="Description" isTrl="N" original="Spanish Accounting Standard">Spanish Accounting Standard</value>
   </row>
   <row id="564" trl="N">
-    <value column="Name" isTrl="N" original="Order">Order</value>
+    <value column="Name" isTrl="Y" original="Order">Накладная</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="5646BC21763F4C3FB6A819C587D29025" trl="N">
@@ -2233,7 +2233,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="567" trl="N">
-    <value column="Name" isTrl="N" original="Project">Project</value>
+    <value column="Name" isTrl="Y" original="Project">Проект</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="568" trl="N">
@@ -2329,11 +2329,11 @@
     <value column="Description" isTrl="N" original="Contains a set of modules and a configuration script.">Contains a set of modules and a configuration script.</value>
   </row>
   <row id="5E713D14D7504EE1BC0815590955BDFA" trl="N">
-    <value column="Name" isTrl="N" original="Void">Void</value>
+    <value column="Name" isTrl="Y" original="Void">Анулировать</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="61898FC4926F43F2A02BFCD3AF73870A" trl="N">
-    <value column="Name" isTrl="N" original="Yes">Yes</value>
+    <value column="Name" isTrl="Y" original="Yes">Да</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="61B0493AB5E6417E8C693AEEAC8D01F8" trl="N">
@@ -2345,7 +2345,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="6285D9AC303F481CBEBF701A9F96A59D" trl="N">
-    <value column="Name" isTrl="N" original="Default">Default</value>
+    <value column="Name" isTrl="Y" original="Default">По-умолчанию</value>
     <value column="Description" isTrl="N" original="This means that the attribute set value defined will be defaulted in each of the transactions. In other words, the user will not have to care about setting it each time when creating transactions such as goods receipts and shipments. ">This means that the attribute set value defined will be defaulted in each of the transactions. In other words, the user will not have to care about setting it each time when creating transactions such as goods receipts and shipments. </value>
   </row>
   <row id="62A9176AAE4F4CC59079DCB9734D2C8C" trl="N">
@@ -2389,7 +2389,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="6FAB6C5F138E4314B32DD534A569F2B0" trl="N">
-    <value column="Name" isTrl="N" original="Voided">Voided</value>
+    <value column="Name" isTrl="N" original="Voided">Отменено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="71E0CA678ADC422F9B709BDE923470E0" trl="N">
@@ -2413,7 +2413,7 @@
     <value column="Description" isTrl="N" original="Process trigger will execute on a monthly basis.">Process trigger will execute on a monthly basis.</value>
   </row>
   <row id="76FD693D964F428A86A33E586A8D449B" trl="N">
-    <value column="Name" isTrl="N" original="Accounting Error">Accounting Error</value>
+    <value column="Name" isTrl="N" original="Accounting Error">Ошибка проведения</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="772A9488209F42A39E948A31DF1F88E5" trl="N">
@@ -2469,11 +2469,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800003" trl="N">
-    <value column="Name" isTrl="N" original="Order">Order</value>
+    <value column="Name" isTrl="Y" original="Order">Накладная</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800004" trl="N">
-    <value column="Name" isTrl="N" original="Project">Project</value>
+    <value column="Name" isTrl="Y" original="Project">Проект</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800005" trl="N">
@@ -2533,7 +2533,7 @@
     <value column="Description" isTrl="N" original="Promissory note">Promissory note</value>
   </row>
   <row id="800019" trl="N">
-    <value column="Name" isTrl="N" original="Order">Order</value>
+    <value column="Name" isTrl="Y" original="Order">Накладная</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800020" trl="N">
@@ -3033,7 +3033,7 @@
     <value column="Description" isTrl="N" original="Delivered, invoiced and paid">Delivered, invoiced and paid</value>
   </row>
   <row id="800174" trl="N">
-    <value column="Name" isTrl="N" original="Canceled">Canceled</value>
+    <value column="Name" isTrl="Y" original="Canceled">Отменено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800177" trl="N">
@@ -3113,7 +3113,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800196" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800197" trl="N">
@@ -3121,7 +3121,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800198" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800199" trl="N">
@@ -3133,7 +3133,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800201" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800202" trl="N">
@@ -3141,7 +3141,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800203" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800204" trl="N">
@@ -3181,7 +3181,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800213" trl="N">
-    <value column="Name" isTrl="N" original="Project">Project</value>
+    <value column="Name" isTrl="Y" original="Project">Проект</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800214" trl="N">
@@ -3297,7 +3297,7 @@
     <value column="Description" isTrl="N" original="External link">External link</value>
   </row>
   <row id="800245" trl="N">
-    <value column="Name" isTrl="N" original="Warning">Warning</value>
+    <value column="Name" isTrl="Y" original="Warning">Внимание</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800247" trl="N">
@@ -3361,7 +3361,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="83E7ED16C71F43558DA8404D21D0B63B" trl="N">
-    <value column="Name" isTrl="N" original="Approve">Approve</value>
+    <value column="Name" isTrl="Y" original="Approve">Утвердить</value>
     <value column="Description" isTrl="N" original="Approve this transaction">Approve this transaction</value>
   </row>
   <row id="846C98032A894F1BB2F0991CF6D767F3" trl="N">
@@ -3401,7 +3401,7 @@
     <value column="Description" isTrl="N" original="Reached number of maximum concurrent users in the instance">Reached number of maximum concurrent users in the instance</value>
   </row>
   <row id="892B72B64684404EBCC3F741AAE48AB2" trl="N">
-    <value column="Name" isTrl="N" original="Re-Opened">Re-Opened</value>
+    <value column="Name" isTrl="N" original="Re-Opened">Повторно открыть</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="8994D37F5F7E41188519A09F9BAFAD91" trl="N">
@@ -3409,7 +3409,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="89E14C49889F4D1282E51CFD7F539E59" trl="N">
-    <value column="Name" isTrl="N" original="Error">Error</value>
+    <value column="Name" isTrl="Y" original="Error">Ошибка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="8AC0DF3B7CE94524AB7B59DD3A1C88B7" trl="N">
@@ -3429,7 +3429,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="8CB6F661867449A0AF967F27B2F04ABD" trl="N">
-    <value column="Name" isTrl="N" original="Transferred">Transferred</value>
+    <value column="Name" isTrl="N" original="Transferred">Передано</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="8D951A5E22934A819342B97E5755D063" trl="N">
@@ -3437,7 +3437,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="8DD7A5A2D5F547DC85B87D09F1875997" trl="N">
-    <value column="Name" isTrl="N" original="Completed">Completed</value>
+    <value column="Name" isTrl="Y" original="Completed">Выполнено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="8DD863CADC734203914EFC5AAFEF0BDA" trl="N">
@@ -3533,7 +3533,7 @@
     <value column="Description" isTrl="N" original="Connector Call">Connector Call</value>
   </row>
   <row id="9B378327FCD1463D89E94D7475788537" trl="N">
-    <value column="Name" isTrl="N" original="Delete">Delete</value>
+    <value column="Name" isTrl="Y" original="Delete">Удалить</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="9BB6708C5335450DA78BF6BB7957501B" trl="N">
@@ -3549,7 +3549,7 @@
     <value column="Description" isTrl="N" original="Unlock transaction (process error)">Unlock transaction (process error)</value>
   </row>
   <row id="9E62AD3C959646F5ADA430E17844EDC6" trl="N">
-    <value column="Name" isTrl="N" original="Draft">Draft</value>
+    <value column="Name" isTrl="Y" original="Draft">Черновик</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A27B7159B661436A9A6C282BAFA4EA62" trl="N">
@@ -3557,11 +3557,11 @@
     <value column="Description" isTrl="N" original="No action">No action</value>
   </row>
   <row id="A2F1EBD49E8E440982A2590C9401698B" trl="N">
-    <value column="Name" isTrl="N" original="Skip">Skip</value>
+    <value column="Name" isTrl="N" original="Skip">Пропустить</value>
     <value column="Description" isTrl="N" original="Skip Cost Calculation">Skip Cost Calculation</value>
   </row>
   <row id="A2FBBAAA0EB14047894A6E5BACDF6899" trl="N">
-    <value column="Name" isTrl="N" original="Void">Void</value>
+    <value column="Name" isTrl="N" original="Void">Отменить</value>
     <value column="Description" isTrl="N" original="Reverse Transaction (correction) by reversing sign with same date">Reverse Transaction (correction) by reversing sign with same date</value>
   </row>
   <row id="A3A5F42256B44D44BE7115E32EE4562C" trl="N">
@@ -3617,7 +3617,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="B06D9380FA25434EB5EDCAF44368F347" trl="N">
-    <value column="Name" isTrl="N" original="Reject">Reject</value>
+    <value column="Name" isTrl="Y" original="Reject">Отклонить</value>
     <value column="Description" isTrl="N" original="Reject the approval of the document. ">Reject the approval of the document. </value>
   </row>
   <row id="B2B38218AB484E3D99FB07A7AC71F894" trl="N">
@@ -3653,11 +3653,11 @@
     <value column="Description" isTrl="N" original="Process trigger will execute every n minutes.">Process trigger will execute every n minutes.</value>
   </row>
   <row id="B75C330D2DE64928AECC21174092929A" trl="N">
-    <value column="Name" isTrl="N" original="Transfer Error">Transfer Error</value>
+    <value column="Name" isTrl="N" original="Transfer Error">Ошибка передачи</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="B906EF67D10549CE83D8EA70453B6973" trl="N">
-    <value column="Name" isTrl="N" original="Inactive">Inactive</value>
+    <value column="Name" isTrl="N" original="Inactive">Не активно</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="B915A5FF852E4560886C23C43749D45D" trl="N">
@@ -3693,7 +3693,7 @@
     <value column="Description" isTrl="N" original="The execution process is managed outside Openbravo ERP. Awaiting Execution status will be bypassed.">The execution process is managed outside Openbravo ERP. Awaiting Execution status will be bypassed.</value>
   </row>
   <row id="BC89F6738E634262892E57CA20F2832A" trl="N">
-    <value column="Name" isTrl="N" original="Closed - Rejected">Closed - Rejected</value>
+    <value column="Name" isTrl="Y" original="Closed - Rejected">Закрыто - Отклонено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="BCA1B55D156C4DEA9AFB282952EE81EC" trl="N">
@@ -3733,7 +3733,7 @@
     <value column="Description" isTrl="N" original="Awaiting Payment. Unpaid.">Awaiting Payment. Unpaid.</value>
   </row>
   <row id="C31C73D8912A42068D903FC5322876D9" trl="N">
-    <value column="Name" isTrl="N" original="Void">Void</value>
+    <value column="Name" isTrl="N" original="Void">Отменить</value>
     <value column="Description" isTrl="N" original="Set all quantities to zero and complete transaction">Set all quantities to zero and complete transaction</value>
   </row>
   <row id="C498ACCF3EC1456E9B7F3223A951C6C9" trl="N">
@@ -3745,7 +3745,7 @@
     <value column="Description" isTrl="N" original="Regularization">Regularization</value>
   </row>
   <row id="C680888DFFC9463C937526B22B1A7F7A" trl="N">
-    <value column="Name" isTrl="N" original="Error">Error</value>
+    <value column="Name" isTrl="Y" original="Error">Ошибка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="C713A2EF3AC943E9ABE0BEA4550F6DC3" trl="N">
@@ -3793,7 +3793,7 @@
     <value column="Description" isTrl="N" original="Used by the process to report a scheduled beat">Used by the process to report a scheduled beat</value>
   </row>
   <row id="CDF503B865E9471CB53CD16F1A2261DC" trl="N">
-    <value column="Name" isTrl="N" original="Canceled">Canceled</value>
+    <value column="Name" isTrl="Y" original="Canceled">Отменено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="CE61672A727941959F8F8213B3A40494" trl="N">
@@ -3809,7 +3809,7 @@
     <value column="Description" isTrl="N" original="The process is complete (status of the request).">The process is complete (status of the request).</value>
   </row>
   <row id="CF769061A92D4949BED3489DD4AD68EB" trl="N">
-    <value column="Name" isTrl="N" original="Draft">Draft</value>
+    <value column="Name" isTrl="Y" original="Draft">Черновик</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="D10A9886C521489B8F9CE84806441849" trl="N">
@@ -3873,7 +3873,7 @@
     <value column="Description" isTrl="N" original="A process that has been scheduled to run but has not yet started.">A process that has been scheduled to run but has not yet started.</value>
   </row>
   <row id="DADE111C7F934696AEF4D134D37445D1" trl="N">
-    <value column="Name" isTrl="N" original="Booked">Booked</value>
+    <value column="Name" isTrl="Y" original="Booked">Проведено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="DC141616AEAC41988C447056BDDBB324" trl="N">
@@ -3889,7 +3889,7 @@
     <value column="Description" isTrl="N" original="Other open source ">Other open source </value>
   </row>
   <row id="DE6AC100F77C450FA67D716FE9EE0EE8" trl="N">
-    <value column="Name" isTrl="N" original="Posted">Posted</value>
+    <value column="Name" isTrl="Y" original="Posted">Опубликовано</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="DEDCE0338D01481D96940BD0BF6D4CC3" trl="N">
@@ -3949,7 +3949,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="EF6C34B195844863A3DF0DF61B203ABE" trl="N">
-    <value column="Name" isTrl="N" original="Closed">Closed</value>
+    <value column="Name" isTrl="Y" original="Closed">Закрыто</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="F1AB8F0E1E67406EA6D5F5977B75E686" trl="N">
@@ -3981,7 +3981,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="F68F5CBB0497425384141FD283CA7E63" trl="N">
-    <value column="Name" isTrl="N" original="Error">Error</value>
+    <value column="Name" isTrl="Y" original="Error">Ошибка</value>
     <value column="Description" isTrl="N" original="A process that has been executed but failed due to an error.">A process that has been executed but failed due to an error.</value>
   </row>
   <row id="F71CE80EE6614C0A98776ADFCC65DC34" trl="N">
@@ -4005,7 +4005,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FA50DEFEDC4E4EFE82BA5BF71C55E53F" trl="N">
-    <value column="Name" isTrl="N" original="Close">Close</value>
+    <value column="Name" isTrl="Y" original="Close">Закрыть</value>
     <value column="Description" isTrl="N" original="Finally close this transaction. It cannot be re-activated.">Finally close this transaction. It cannot be re-activated.</value>
   </row>
   <row id="FAA9E125CF414B5BAB196D6E8CE5404E" trl="N">
@@ -4057,12 +4057,12 @@
     <value column="Description" isTrl="N" original="The instance is in the process of upgrade from 2.50">The instance is in the process of upgrade from 2.50</value>
   </row>
   <row id="FF80818130BC11480130BC193B3F0012" trl="N">
-    <value column="Name" isTrl="N" original="Void">Void</value>
+    <value column="Name" isTrl="Y" original="Void">Анулировать</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FF80818130BC11480130BC1CEDD20021" trl="N">
-    <value column="Name" isTrl="N" original="Voided">Voided</value>
-    <value column="Description" isTrl="N" original="Voided">Voided</value>
+    <value column="Name" isTrl="Y" original="Voided">Анулировано</value>
+    <value column="Description" isTrl="Y" original="Voided">Анулировано</value>
   </row>
   <row id="FF80818130DF99930130DF9EE8180012" trl="N">
     <value column="Name" isTrl="N" original="Show MRP and Production Fileds">Show MRP and Production Fileds</value>

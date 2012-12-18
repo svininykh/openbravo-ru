@@ -224,7 +224,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Product master data window is the place where you can easily organize and centralize the key data of the items of any type you might manage as part of the organization processes and/or activities.">Product master data window is the place where you can easily organize and centralize the key data of the items of any type you might manage as part of the organization processes and/or activities.</value>
   </row>
   <row id="141" trl="N">
-    <value column="Name" isTrl="N" original="Payment Term">Payment Term</value>
+    <value column="Name" isTrl="Y" original="Payment Term">Условие оплаты</value>
     <value column="Description" isTrl="N" original="Define payment terms to be used for business partners taking part in transactions.">Define payment terms to be used for business partners taking part in transactions.</value>
     <value column="Help" isTrl="N" original="A payment term specifies the period allowed to pay off an amount due.">A payment term specifies the period allowed to pay off an amount due.</value>
   </row>
