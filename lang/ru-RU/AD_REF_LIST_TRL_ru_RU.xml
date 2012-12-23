@@ -521,8 +521,8 @@
     <value column="Description" isTrl="N" original="Standard Purchase Order Price Costing">Standard Purchase Order Price Costing</value>
   </row>
   <row id="146E194904144669A27BEDDB0D79C47B" trl="N">
-    <value column="Name" isTrl="N" original="Post">Post</value>
-    <value column="Description" isTrl="N" original="Post transaction">Post transaction</value>
+    <value column="Name" isTrl="Y" original="Post">Провести</value>
+    <value column="Description" isTrl="Y" original="Post transaction">Регистрировать проводки</value>
   </row>
   <row id="147" trl="N">
     <value column="Name" isTrl="N" original="Average">Average</value>
@@ -645,7 +645,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="178" trl="N">
-    <value column="Name" isTrl="Y" original="Complete">Выполнить</value>
+    <value column="Name" isTrl="Y" original="Complete">Выставить</value>
     <value column="Description" isTrl="N" original="Generate documents and complete transaction">Generate documents and complete transaction</value>
   </row>
   <row id="179" trl="N">
@@ -657,8 +657,8 @@
     <value column="Description" isTrl="N" original="Reject the approval of the document. ">Reject the approval of the document. </value>
   </row>
   <row id="181" trl="N">
-    <value column="Name" isTrl="Y" original="Post">Опубликовать</value>
-    <value column="Description" isTrl="N" original="Post transaction">Post transaction</value>
+    <value column="Name" isTrl="Y" original="Post">Провести</value>
+    <value column="Description" isTrl="Y" original="Post transaction">Регистрировать проводки</value>
   </row>
   <row id="182" trl="N">
     <value column="Name" isTrl="Y" original="Void">Анулировать</value>
@@ -1545,7 +1545,7 @@
     <value column="Description" isTrl="N" original="This means that the attribute set value will specify completely the product. The attribute set value will always have this value and no other value will be allowed for it.">This means that the attribute set value will specify completely the product. The attribute set value will always have this value and no other value will be allowed for it.</value>
   </row>
   <row id="3D4C02EB56AA4380AF128782BDA72C3D" trl="N">
-    <value column="Name" isTrl="Y" original="Complete">Выполнить</value>
+    <value column="Name" isTrl="Y" original="Complete">Выставить</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="3E6F1F271AE44931BE140ECECE5C86A2" trl="N">
@@ -1705,7 +1705,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="458" trl="N">
-    <value column="Name" isTrl="Y" original="Post">Опубликовать</value>
+    <value column="Name" isTrl="Y" original="Post">Провести</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="459" trl="N">

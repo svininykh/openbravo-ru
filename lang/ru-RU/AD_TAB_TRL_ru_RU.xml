@@ -15,7 +15,7 @@
     <value column="Help" isTrl="N" original="Shows all the payments that belong to a payment run.">Shows all the payments that belong to a payment run.</value>
   </row>
   <row id="07F009753DA647C2AF38697BA9F1B1A0" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -71,21 +71,21 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1002100009" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Header of Tax Register Type">Header of Tax Register Type</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Header of Tax Register Type">Header of Tax Register Type</value>
   </row>
   <row id="1002100010" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Lines of Type of Tax Register">Lines of Type of Tax Register</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Lines of Type of Tax Register">Lines of Type of Tax Register</value>
   </row>
   <row id="1002100011" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Payment of Tax">Payment of Tax</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -99,7 +99,7 @@
     <value column="Help" isTrl="N" original="Tax Register Header">Tax Register Header</value>
   </row>
   <row id="1002100013" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Tax Register Lines">Tax Register Lines</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -113,7 +113,7 @@
     <value column="Help" isTrl="N" original="Once a requisition line has a purchase order line linked to it, the purchase order line information is shown in this tab.">Once a requisition line has a purchase order line linked to it, the purchase order line information is shown in this tab.</value>
   </row>
   <row id="1004400001" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a requisition for procurement.">Create a requisition for procurement.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -246,56 +246,56 @@
     <value column="Help" isTrl="N" original="View and edit your application menu functions and tree structure.">View and edit your application menu functions and tree structure.</value>
   </row>
   <row id="111" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your menu translations for the predefined languages of your choice.">Edit your menu translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Edit your menu translations for the predefined languages of your choice.">Edit your menu translations for the predefined languages of your choice.</value>
   </row>
   <row id="112" trl="N">
-    <value column="Name" isTrl="N" original="Language">Language</value>
+    <value column="Name" isTrl="Y" original="Language">Язык</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create languages to be used in the application.">Create languages to be used in the application.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create languages to be used in the application.">Create languages to be used in the application.</value>
   </row>
   <row id="113" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your message translations for the predefined languages of your choice.">Edit your message translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Edit your message translations for the predefined languages of your choice.">Edit your message translations for the predefined languages of your choice.</value>
   </row>
   <row id="115" trl="N">
-    <value column="Name" isTrl="N" original="Field Translation">Field Translation</value>
+    <value column="Name" isTrl="Y" original="Field Translation">Перевод поля</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your field translations for the predefined languages of your choice.">Edit your field translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Edit your field translations for the predefined languages of your choice.">Edit your field translations for the predefined languages of your choice.</value>
   </row>
   <row id="116" trl="N">
-    <value column="Name" isTrl="N" original="Tab Translation">Tab Translation</value>
+    <value column="Name" isTrl="Y" original="Tab Translation">Перевод вкладки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your tab translations for the predefined languages of your choice.">Edit your tab translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Edit your tab translations for the predefined languages of your choice.">Edit your tab translations for the predefined languages of your choice.</value>
   </row>
   <row id="117" trl="N">
-    <value column="Name" isTrl="N" original="Window Translation">Window Translation</value>
+    <value column="Name" isTrl="Y" original="Window Translation">Перевод окна</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your window translations for the predefined languages of your choice.">Edit your window translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Edit your window translations for the predefined languages of your choice.">Edit your window translations for the predefined languages of your choice.</value>
   </row>
   <row id="118" trl="N">
-    <value column="Name" isTrl="N" original="User">User</value>
+    <value column="Name" isTrl="Y" original="User">Пользователь</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create users of the application.">Create users of the application.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="User window allows to create as many Openbravo users as required. Each person accessing Openbravo can have a different user assigned.">User window allows to create as many Openbravo users as required. Each person accessing Openbravo can have a different user assigned.</value>
   </row>
   <row id="119" trl="N">
-    <value column="Name" isTrl="N" original="Role">Role</value>
+    <value column="Name" isTrl="Y" original="Role">Роль</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create roles to give the user the complete or partial access to the application's elements.">Create roles to give the user the complete or partial access to the application's elements.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -463,14 +463,14 @@
     <value column="Help" isTrl="N" original="A General Ledger journal batch can group journals of similar characteristics which can all be processed at the same time.">A General Ledger journal batch can group journals of similar characteristics which can all be processed at the same time.</value>
   </row>
   <row id="160" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create G/L Journals for specified fiscal periods.">Create G/L Journals for specified fiscal periods.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="A General Ledger journal header can include several journals which can contain several journal lines.">A General Ledger journal header can include several journals which can contain several journal lines.</value>
   </row>
   <row id="161" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add G/L Journal lines. Each line corresponds to one G/L Journal entry.">Add G/L Journal lines. Each line corresponds to one G/L Journal entry.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -512,14 +512,14 @@
     <value column="Help" isTrl="N" original="Edit your reference translations for the predefined languages of your choice.">Edit your reference translations for the predefined languages of your choice.</value>
   </row>
   <row id="172" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit the translations of selected list elements for the predefined languages of your choice.">Edit the translations of selected list elements for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Edit the translations of selected list elements for the predefined languages of your choice.">Edit the translations of selected list elements for the predefined languages of your choice.</value>
   </row>
   <row id="173B46EC4F91406E9B68DCF6464BB308" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add new customer payment into the system. ">Add new customer payment into the system. </value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -582,7 +582,7 @@
     <value column="Help" isTrl="N" original="A product can be part of many Price List Versions which are valid for a given time period. ">A product can be part of many Price List Versions which are valid for a given time period. </value>
   </row>
   <row id="184" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a payment term.">Create a payment term.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -596,14 +596,14 @@
     <value column="Help" isTrl="N" original="Create shippers to be used in other application transactions.">Create shippers to be used in other application transactions.</value>
   </row>
   <row id="186" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a sales order and process it when ready.">Create a sales order and process it when ready.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create a sales order and process it when ready.">Create a sales order and process it when ready.</value>
   </row>
   <row id="187" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your sales order.  Each product is added by creating a line.">Add products to be included in your sales order.  Each product is added by creating a line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -694,7 +694,7 @@
     <value column="Help" isTrl="N" original="Create and edit application elements and their texts.">Create and edit application elements and their texts.</value>
   </row>
   <row id="204" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Translate application elements into multiple languages.">Translate application elements into multiple languages.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -841,28 +841,28 @@
     <value column="Help" isTrl="N" original="The Withholding Tab defines any withholding information for this business partner.">The Withholding Tab defines any withholding information for this business partner.</value>
   </row>
   <row id="230" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your document type translations for the predefined languages of your choice.">Edit your document type translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Document types can be translated to any language required.">Document types can be translated to any language required.</value>
   </row>
   <row id="232" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit account element translations for the predefined languages of your choice.">Edit account element translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Account elements can be translated to any language required.">Account elements can be translated to any language required.</value>
   </row>
   <row id="233" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your payment perm translations for the predefined languages of your choice.">Edit your payment perm translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Payment Terms can be translated to the language required.">Payment Terms can be translated to the language required.</value>
   </row>
   <row id="235" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your product name translations for the predefined languages of your choice.">Edit your product name translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -891,7 +891,7 @@
 </value>
   </row>
   <row id="242" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View detailed general ledger entries for a specified time period.">View detailed general ledger entries for a specified time period.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -926,7 +926,7 @@
     <value column="Help" isTrl="N" original="Translate parameters of a process into multiple languages.">Translate parameters of a process into multiple languages.</value>
   </row>
   <row id="248" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your report or process translations for the predefined languages of your choice.">Edit your report or process translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -947,35 +947,35 @@
     <value column="Help" isTrl="N" original="Defaults tab allows to maintain or to add a set of default accounts to use while posting a certain type of transactions.">Defaults tab allows to maintain or to add a set of default accounts to use while posting a certain type of transactions.</value>
   </row>
   <row id="255" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create an inventory count to update your stock quantities.">Create an inventory count to update your stock quantities.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Goods count process requires to create an inventory count to check or to update stock quantities.">Goods count process requires to create an inventory count to check or to update stock quantities.</value>
   </row>
   <row id="256" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add or edit individual products to be included in the inventory count.">Add or edit individual products to be included in the inventory count.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Lines tab allows to add or to edit individual products to be included in the inventory count list.">Lines tab allows to add or to edit individual products to be included in the inventory count list.</value>
   </row>
   <row id="257" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and process a shipment.">Create and process a shipment.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and process a shipment.">Create and process a shipment.</value>
   </row>
   <row id="258" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add or see products which are included in your shipment.  Each product is shown on its own line.">Add or see products which are included in your shipment.  Each product is shown on its own line.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add or see products which are included in your shipment.  Each product is shown on its own line.">Add or see products which are included in your shipment.  Each product is shown on its own line.</value>
   </row>
   <row id="259" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit inventory internal movements.">Create and edit inventory internal movements.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -989,7 +989,7 @@
     <value column="Help" isTrl="N" original="Taxes related to the order line.">Taxes related to the order line.</value>
   </row>
   <row id="260" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products and quantities for a specific goods movement. Each line represents one particular product.">Add products and quantities for a specific goods movement. Each line represents one particular product.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1003,14 +1003,14 @@
     <value column="Help" isTrl="N" original="View all products transactions related to the selected warehouse.">View all products transactions related to the selected warehouse.</value>
   </row>
   <row id="263" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit customer invoices.">Create and edit customer invoices.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit customer invoices.">Create and edit customer invoices.</value>
   </row>
   <row id="270" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your invoice.  Each product is added by creating a line.">Add products to be included in your invoice.  Each product is added by creating a line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1024,7 +1024,7 @@
     <value column="Help" isTrl="N" original="Edit taxes applied to your invoice.">Edit taxes applied to your invoice.</value>
   </row>
   <row id="273" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your UOM translations for the predefined languages of your choice.">Edit your UOM translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1045,14 +1045,14 @@
     <value column="Help" isTrl="N" original="There are many titles to use while contacting business partners of any type as well as contacts.">There are many titles to use while contacting business partners of any type as well as contacts.</value>
   </row>
   <row id="283" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your Title translations for the predefined languages of your choice.">Edit your Title translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Business partner titles can be translated to any language required.">Business partner titles can be translated to any language required.</value>
   </row>
   <row id="284" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your tax category translations for the predefined languages of your choice.">Edit your tax category translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1080,7 +1080,7 @@
     <value column="Help" isTrl="N" original="In this tab the user can define the reversed invoices (if any) associated with the invoice. When the user voids an invoice, the reversed invoice is automatically created, In case of a Credit Memo or a negative invoice, the user must manually create the reversed invoices.">In this tab the user can define the reversed invoices (if any) associated with the invoice. When the user voids an invoice, the reversed invoice is automatically created, In case of a Credit Memo or a negative invoice, the user must manually create the reversed invoices.</value>
   </row>
   <row id="290" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit a sales invoice.">Create and edit a sales invoice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1100,7 +1100,7 @@ The corresponding tables have then the following setting:
 - SalesOrder, in the org.crm.order package, resulting in the java class: org.crm.order.SalesOrder</value>
   </row>
   <row id="291" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your invoice.  Each product is added by creating a line.">Add products to be included in your invoice.  Each product is added by creating a line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1114,14 +1114,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Summarized purchase invoice tax related information is shown in this tab.">Summarized purchase invoice tax related information is shown in this tab.</value>
   </row>
   <row id="293" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your purchase order.  Each product is added by creating a line.">Add products to be included in your purchase order.  Each product is added by creating a line.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Once the purchase order header has been properly filled in and saved, each purchase order line can be created in this tab.">Once the purchase order header has been properly filled in and saved, each purchase order line can be created in this tab.</value>
   </row>
   <row id="294" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a purchase order and process it when ready.">Create a purchase order and process it when ready.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1135,14 +1135,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Summarized purchase order tax related information is shown in this tab.">Summarized purchase order tax related information is shown in this tab.</value>
   </row>
   <row id="296" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit a goods receipt.">Create and edit a goods receipt.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Goods Receipts can be issued and booked in the header section of the goods receipt window.">Goods Receipts can be issued and booked in the header section of the goods receipt window.</value>
   </row>
   <row id="297" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products which are included in your goods receipt.  Each product is shown on its own line.">Add products which are included in your goods receipt.  Each product is shown on its own line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1163,7 +1163,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Taxes related to the order line.">Taxes related to the order line.</value>
   </row>
   <row id="2DD6F1E2CAE0456AA9797A1D627BFF5E" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1177,7 +1177,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Define forms (manual windows) of the application.">Define forms (manual windows) of the application.</value>
   </row>
   <row id="303" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your form translations for the predefined languages of your choice.">Edit your form translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1198,7 +1198,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="This tab lists and/or allows to add the reports and processes to which a role will have access to.">This tab lists and/or allows to add the reports and processes to which a role will have access to.</value>
   </row>
   <row id="30576C6ABD12419F9D19D497216FC9B8" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and process a return material receipt">Create and process a return material receipt</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1289,14 +1289,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected bank.">Create and edit G/L accounts to be used in transactions including a selected bank.</value>
   </row>
   <row id="328" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add received bank statements to compare the completed financial transaction with application transactions.">Add received bank statements to compare the completed financial transaction with application transactions.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add received bank statements to compare the completed financial transaction with application transactions.">Add received bank statements to compare the completed financial transaction with application transactions.</value>
   </row>
   <row id="329" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add bank statement lines. Each line represents a particular transaction included in the received bank statement.">Add bank statement lines. Each line represents a particular transaction included in the received bank statement.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1324,14 +1324,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected cashbook.">Create and edit G/L accounts to be used in transactions including a selected cashbook.</value>
   </row>
   <row id="338" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add cash transactions performed by the company.">Add cash transactions performed by the company.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add cash transactions performed by the company.">Add cash transactions performed by the company.</value>
   </row>
   <row id="339" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add cash journal lines. Each line represents one particular cash transaction.">Add cash journal lines. Each line represents one particular cash transaction.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1345,7 +1345,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Edit the subsections of fields within of tabs.">Edit the subsections of fields within of tabs.</value>
   </row>
   <row id="343" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Translate field groups into multiple languages.">Translate field groups into multiple languages.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1359,21 +1359,21 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Org Access tab allows to define the organization/s to which a given role will have access rights to.">Org Access tab allows to define the organization/s to which a given role will have access rights to.</value>
   </row>
   <row id="355" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define a sales commission to be used in the sales process.">Define a sales commission to be used in the sales process.</value>
     <value column="Filtername" isTrl="N" original="Active commissions">Active commissions</value>
     <value column="Help" isTrl="N" original="Define a sales commission to be used in the sales process.">Define a sales commission to be used in the sales process.</value>
   </row>
   <row id="356" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit the selected commission amount.">Edit the selected commission amount.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Edit the selected commission amount.">Edit the selected commission amount.</value>
   </row>
   <row id="362" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit a new commission payment.">Create and edit a new commission payment.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1415,7 +1415,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="387B6179438D4C4CB40769A77F4C304C" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your purchase order.  Each product is added by creating a line.">Add products to be included in your purchase order.  Each product is added by creating a line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1464,14 +1464,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Modules can merge other ones. This table contains information about the merges. A module should be merged in a new major version and once it is merged it should be kept in all future versions. When there is a module merged, multiple DBPrefixes are allowed to maintain the one originally defined by the module as well as all the ones defined in the merged modules.">Modules can merge other ones. This table contains information about the merges. A module should be merged in a new major version and once it is merged it should be kept in all future versions. When there is a module merged, multiple DBPrefixes are allowed to maintain the one originally defined by the module as well as all the ones defined in the merged modules.</value>
   </row>
   <row id="404" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a price list schema to assign item prices to your business partners.">Create a price list schema to assign item prices to your business partners.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Price list schema window supports the creation of as many price list schemas as required with the aim of getting an easy management of price lists and price list versions.">Price list schema window supports the creation of as many price list schemas as required with the aim of getting an easy management of price lists and price list versions.</value>
   </row>
   <row id="405" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add prices and discounts to your price list.  Each piece of information is added by creating a line.">Add prices and discounts to your price list.  Each piece of information is added by creating a line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1514,14 +1514,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Product definition of Expense Type">Product definition of Expense Type</value>
   </row>
   <row id="412" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and process an expense sheet.">Create and process an expense sheet.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and process an expense sheet.">Create and process an expense sheet.</value>
   </row>
   <row id="413" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add time and regular expense lines to your sheet.  Each expense is added to an individual line and may or may not be invoiced to your customers.">Add time and regular expense lines to your sheet.  Each expense is added to an individual line and may or may not be invoiced to your customers.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1605,7 +1605,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Select the customer who will be receiving the sales invoice.">Select the customer who will be receiving the sales invoice.</value>
   </row>
   <row id="432" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View each expense line to be included in the sales invoice.">View each expense line to be included in the sales invoice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1640,14 +1640,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Select the employee who is submitting the expenses.">Select the employee who is submitting the expenses.</value>
   </row>
   <row id="457" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View each expense line for the employee.">View each expense line for the employee.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="View each expense line for the employee.">View each expense line for the employee.</value>
   </row>
   <row id="458" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your tax category translations for the predefined languages of your choice.">Edit your tax category translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1747,7 +1747,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Shows all the objects that have been accessed during the session.">Shows all the objects that have been accessed during the session.</value>
   </row>
   <row id="47F87F1A284B4A7D9FB6ED2D02C5CDA1" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Module Translation">Module Translation</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1761,7 +1761,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Create or edit access to DB tables for a selected role.">Create or edit access to DB tables for a selected role.</value>
   </row>
   <row id="485" trl="N">
-    <value column="Name" isTrl="N" original="Role">Role</value>
+    <value column="Name" isTrl="Y" original="Role">Профиль</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit a role for which you want to give or withhold tables and columns tables.">Edit a role for which you want to give or withhold tables and columns tables.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1880,7 +1880,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Maintain Marketing Campaign Accounting Dimension Tree">Maintain Marketing Campaign Accounting Dimension Tree</value>
   </row>
   <row id="549" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your country, region, and city translations for the predefined languages of your choice.">Edit your country, region, and city translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1922,7 +1922,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="View assets for a specific business partner.">View assets for a specific business partner.</value>
   </row>
   <row id="557" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Currencies can be translated to any language if required.">Currencies can be translated to any language if required.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1936,7 +1936,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="View applied price adjustments for each order line.">View applied price adjustments for each order line.</value>
   </row>
   <row id="5A5CCFC8359B4D79BA705DC487FE8173" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a purchase order and process it when ready.">Create a purchase order and process it when ready.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2028,7 +2028,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Shows information about the history of payment execution attempts.">Shows information about the history of payment execution attempts.</value>
   </row>
   <row id="728DBD16A1F14A4D82335E37BA433E33" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit a goods receipt.">Create and edit a goods receipt.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2399,7 +2399,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Sirve para imputar costes a diferentes unidades de megocio">Sirve para imputar costes a diferentes unidades de megocio</value>
   </row>
   <row id="800074" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add individual payment term criteria to be included in your payment in the case of a split payment.  Each term is shown on its own line.">Add individual payment term criteria to be included in your payment in the case of a split payment.  Each term is shown on its own line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2413,14 +2413,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Accounting dimension">Accounting dimension</value>
   </row>
   <row id="800076" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create amortizations for particular periods.">Create amortizations for particular periods.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create amortizations for particular periods.">Create amortizations for particular periods.</value>
   </row>
   <row id="800077" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add amortized assets and details of amortization.">Add amortized assets and details of amortization.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2560,7 +2560,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define input and output products taking part in a specified process.">Define input and output products taking part in a specified process.</value>
   </row>
   <row id="800111" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create production orders by choosing dates and the previously defined work requirement model.">Create production orders by choosing dates and the previously defined work requirement model.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2735,7 +2735,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit labels of forms and reports.">Edit labels of forms and reports.</value>
   </row>
   <row id="800168" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit the forms' and reports' label translations for the predefined languages of your choice.">Edit the forms' and reports' label translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2931,14 +2931,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create mappings for a process used to call the it through a browser.">Create mappings for a process used to call the it through a browser.</value>
   </row>
   <row id="800202" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create products which are to be used inside the organization, and not sold to customers.">Create products which are to be used inside the organization, and not sold to customers.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create products which are to be used inside the organization, and not sold to customers.">Create products which are to be used inside the organization, and not sold to customers.</value>
   </row>
   <row id="800203" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add internal consumption lines. Each line corresponds to one product.">Add internal consumption lines. Each line corresponds to one product.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2952,28 +2952,28 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit G/L accounts to be used in transactions which include a selected asset group.">Create and edit G/L accounts to be used in transactions which include a selected asset group.</value>
   </row>
   <row id="800205" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create budgets for a selected year to be used for informative purposes.">Create budgets for a selected year to be used for informative purposes.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create budgets for a selected year to be used for informative purposes.">Create budgets for a selected year to be used for informative purposes.</value>
   </row>
   <row id="800206" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add budget lines.  Each line may refer to a specified period, business partner, product, etc.">Add budget lines.  Each line may refer to a specified period, business partner, product, etc.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add budget lines.  Each line may refer to a specified period, business partner, product, etc.">Add budget lines.  Each line may refer to a specified period, business partner, product, etc.</value>
   </row>
   <row id="800209" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit payments.">Create and edit payments.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit payments.">Create and edit payments.</value>
   </row>
   <row id="800210" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit payment lines by changing payments status.">Create and edit payment lines by changing payments status.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2994,14 +2994,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="View detailed general ledger entries for a specified time period.">View detailed general ledger entries for a specified time period.</value>
   </row>
   <row id="800213" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create remittances by including specified payments.">Create remittances by including specified payments.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create remittances by including specified payments.">Create remittances by including specified payments.</value>
   </row>
   <row id="800214" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit remittance lines. Each line corresponds to one payment.">Edit remittance lines. Each line corresponds to one payment.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3218,14 +3218,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define the planner in charge of managing the purchase or production of specific products.">Define the planner in charge of managing the purchase or production of specific products.</value>
   </row>
   <row id="800246" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a MRP forecast.">Create a MRP forecast.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create a MRP forecast.">Create a MRP forecast.</value>
   </row>
   <row id="800248" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your MRP forecast.  Each product is added by creating a line.">Add products to be included in your MRP forecast.  Each product is added by creating a line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3239,49 +3239,49 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Any member of the organization or business unit can create requisitions and monitor them in this window.">Any member of the organization or business unit can create requisitions and monitor them in this window.</value>
   </row>
   <row id="800251" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your requisition.  Each product is added by creating a line.">Add products to be included in your requisition.  Each product is added by creating a line.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Each requisition line is a product demand for a specific date. ">Each requisition line is a product demand for a specific date. </value>
   </row>
   <row id="800252" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a planning method.">Create a planning method.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create a planning method.">Create a planning method.</value>
   </row>
   <row id="800253" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add transactions to be included in your plan.  Each transaction is shown on its own line.">Add transactions to be included in your plan.  Each transaction is shown on its own line.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add transactions to be included in your plan.  Each transaction is shown on its own line.">Add transactions to be included in your plan.  Each transaction is shown on its own line.</value>
   </row>
   <row id="800255" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit a manufacturing plan.">Create and edit a manufacturing plan.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit a manufacturing plan.">Create and edit a manufacturing plan.</value>
   </row>
   <row id="800257" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your plan.  Each product is shown on its own line.">Add products to be included in your plan.  Each product is shown on its own line.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add products to be included in your plan.  Each product is shown on its own line.">Add products to be included in your plan.  Each product is shown on its own line.</value>
   </row>
   <row id="800258" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit a purchase plan.">Create and edit a purchase plan.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit a purchase plan.">Create and edit a purchase plan.</value>
   </row>
   <row id="800259" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your plan.  Each product is shown on its own line.">Add products to be included in your plan.  Each product is shown on its own line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3323,7 +3323,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Alert window allows the definition of alert rules as SQL queries which define the event to be monitored and how it will be monitored.">Alert window allows the definition of alert rules as SQL queries which define the event to be monitored and how it will be monitored.</value>
   </row>
   <row id="800266" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your alert rule translations for the predefined languages of your choice.">Edit your alert rule translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3456,7 +3456,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="A9F3CB2CCAA0406AB97E73274DF60B93" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Month translation tab">Month translation tab</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3484,7 +3484,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Shows information about the history of payment execution attempts.">Shows information about the history of payment execution attempts.</value>
   </row>
   <row id="AC5EA97A85F14F28B417421F69963FDF" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3499,14 +3499,14 @@ You can also select if transactions are allowed or not for this organization typ
 </value>
   </row>
   <row id="AF4090093CFF1431E040007F010048A5" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a sales order and process it when ready.">Create a sales order and process it when ready.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create a sales order and process it when ready.">Create a sales order and process it when ready.</value>
   </row>
   <row id="AF4090093D471431E040007F010048A5" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your sales order.  Each product is added by creating a line.">Add products to be included in your sales order.  Each product is added by creating a line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3583,7 +3583,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Custom Queries executed">Custom Queries executed</value>
   </row>
   <row id="C4B6506838E14A349D6717D6856F1B56" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add new customer payment into the system.">Add new customer payment into the system.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3618,7 +3618,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add progress details of the specified work requirements.">Add progress details of the specified work requirements.</value>
   </row>
   <row id="C9BD6AF9E06F4BE4B4799D09965481DC" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products which are included in your goods receipt.  Each product is shown on its own line.">Add products which are included in your goods receipt.  Each product is shown on its own line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3646,7 +3646,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Process Request window allows to review and add background processes which can be scheduled or unschedule as required.">Process Request window allows to review and add background processes which can be scheduled or unschedule as required.</value>
   </row>
   <row id="CF6D6C7B85EB473CB88E757E14D1D022" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add or see products which are included in the receipt.  Each product is shown on its own line.">Add or see products which are included in the receipt.  Each product is shown on its own line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3681,7 +3681,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="E13E29EB8CF349BAA3D4CB71873CC896" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3695,7 +3695,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Data sets tab allows to view the reference data applied to the organization and informs in case there is any updated of a reference data applied availabe.">Data sets tab allows to view the reference data applied to the organization and informs in case there is any updated of a reference data applied availabe.</value>
   </row>
   <row id="E2F36B4352DA4CA8BE324DC428BEE358" trl="N">
-    <value column="Name" isTrl="N" original="Lines">Lines</value>
+    <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your sales order.  Each product is added by creating a line.">Add products to be included in your sales order.  Each product is added by creating a line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3716,14 +3716,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="This tab manages the installed modules in the application.">This tab manages the installed modules in the application.</value>
   </row>
   <row id="F7A52FDAAA0346EFA07D53C125B40404" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="F87F1EB7EB404F1F916EBAFAD1A0A334" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a sales order and process it when ready.">Create a sales order and process it when ready.</value>
     <value column="Filtername" isTrl="N" original=""/>

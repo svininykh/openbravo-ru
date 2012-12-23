@@ -73,7 +73,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1C8D1970AE9A46319D42430A0D0AAF09" trl="N">
-    <value column="MsgText" isTrl="N" original="Role - Client">Role - Client</value>
+    <value column="MsgText" isTrl="Y" original="Role - Client">Роль - Подключение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2052DF26669F4864B295C17502F53E38" trl="N">
@@ -125,7 +125,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="49C1D2F7A3F9442482B27EBD450BBA40" trl="N">
-    <value column="MsgText" isTrl="N" original="The current password is incorrect.">The current password is incorrect.</value>
+    <value column="MsgText" isTrl="Y" original="The current password is incorrect.">Ошибка ввода текущего пароля.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="4B86BAA9B3EC4103A1A0CB9CDD990B72" trl="N">
@@ -133,15 +133,15 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="4D295B42933742CD84B42249BB6BFF3B" trl="N">
-    <value column="MsgText" isTrl="N" original="Warehouse">Warehouse</value>
+    <value column="MsgText" isTrl="Y" original="Warehouse">Склад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="51968FE85D8B48F68D0B5AC6716BAC12" trl="N">
-    <value column="MsgText" isTrl="N" original="Alert Management">Alert Management</value>
+    <value column="MsgText" isTrl="Y" original="Alert Management">Управление предупреждениями</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="51FF106EA92C4D5AB7310A32ED2A6D79" trl="N">
-    <value column="MsgText" isTrl="N" original="Edit">Edit</value>
+    <value column="MsgText" isTrl="Y" original="Edit">Редактировать</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="52FC93FB2DEC4C168D14E65195F97752" trl="N">
@@ -189,7 +189,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="71CCB8FF2D4F4E56B43865557ADC0B11" trl="N">
-    <value column="MsgText" isTrl="N" original="Profile">Profile</value>
+    <value column="MsgText" isTrl="Y" original="Profile">Профиль</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="733C8CD6D07F44E5BDD0D9DFB521B2B8" trl="N">
@@ -322,7 +322,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B8C1706AB7C34C0EA750048CD68E314A" trl="N">
-    <value column="MsgText" isTrl="N" original="Role">Role</value>
+    <value column="MsgText" isTrl="Y" original="Role">Роль</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C525E9A7101B4920A8A652DD94B97AFE" trl="N">
@@ -334,7 +334,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CA656863135B44B6BF645936B34C61C7" trl="N">
-    <value column="MsgText" isTrl="N" original="One or more fields contain illegal values, check the errors for each field.">One or more fields contain illegal values, check the errors for each field.</value>
+    <value column="MsgText" isTrl="Y" original="One or more fields contain illegal values, check the errors for each field.">Одно или несколько полей содержат неверные значения, проверьти и исправьте указанные поля.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CB2FE513B6C0424A8D074AF6BDFC8607" trl="N">
@@ -374,7 +374,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E20A23145D554996A09BC927B847F3BB" trl="N">
-    <value column="MsgText" isTrl="N" original="End Session">End Session</value>
+    <value column="MsgText" isTrl="Y" original="End Session">Завершить сессию</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E4446D7FB74A4C57A9C715B4DDACC3E9" trl="N">
@@ -466,19 +466,19 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE38C83950064" trl="N">
-    <value column="MsgText" isTrl="N" original="Alert Rule">Alert Rule</value>
+    <value column="MsgText" isTrl="Y" original="Alert Rule">Правило предупреждения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE38CD7B70069" trl="N">
-    <value column="MsgText" isTrl="N" original="Alert">Alert</value>
+    <value column="MsgText" isTrl="Y" original="Alert">Предупреждение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE38D27B2006F" trl="N">
-    <value column="MsgText" isTrl="N" original="Time">Time</value>
+    <value column="MsgText" isTrl="Y" original="Time">Время</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE38D601B0074" trl="N">
-    <value column="MsgText" isTrl="N" original="Note">Note</value>
+    <value column="MsgText" isTrl="Y" original="Note">Заметка</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE38DA0290079" trl="N">
@@ -775,27 +775,27 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA54F20012DA70BBB56006F" trl="N">
-    <value column="MsgText" isTrl="N" original="Clear Filter(s)">Clear Filter(s)</value>
+    <value column="MsgText" isTrl="N" original="Clear Filter(s)">Очистить фильтр(ы)</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA54F20012DA70C104A0072" trl="N">
-    <value column="MsgText" isTrl="N" original="No records yet.">No records yet.</value>
+    <value column="MsgText" isTrl="Y" original="No records yet.">Нет записей.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA54F20012DA70C468C0075" trl="N">
-    <value column="MsgText" isTrl="N" original="Create One">Create One</value>
+    <value column="MsgText" isTrl="Y" original="Create One">Создать одну новую</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA79D5E012DA7CD45DB0048" trl="N">
-    <value column="MsgText" isTrl="N" original="No record selected to print. Select at least one and try again.">No record selected to print. Select at least one and try again.</value>
+    <value column="MsgText" isTrl="Y" original="No record selected to print. Select at least one and try again.">Нет выбранных записей для печати. Выберите хотя-бы одну и повторите снова.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DB28C2D012DB299135F002A" trl="N">
-    <value column="MsgText" isTrl="N" original="Create a new record in a form">Create a new record in a form</value>
+    <value column="MsgText" isTrl="Y" original="Create a new record in a form">Создать новую запись открыв форму ввода</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DC07B0C012DC082C76E0014" trl="N">
-    <value column="MsgText" isTrl="N" original="Filters applied. Click to clear.">Filters applied. Click to clear.</value>
+    <value column="MsgText" isTrl="Y" original="Filters applied. Click to clear.">Фильтры применены. Нажмите для очистки.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DC813F3012DC82111700015" trl="N">
@@ -803,7 +803,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DCD184B012DCD2BED740061" trl="N">
-    <value column="MsgText" isTrl="Y" original="Apply">Применено</value>
+    <value column="MsgText" isTrl="Y" original="Apply">Применить</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DCD184B012DCD2C41780068" trl="N">
@@ -847,7 +847,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E7BA4E8012E7BAD74830021" trl="N">
-    <value column="MsgText" isTrl="N" original="Insert row">Insert row</value>
+    <value column="MsgText" isTrl="Y" original="Insert row">Вставить строку</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E7BA4E8012E7BADC6FE0028" trl="N">
@@ -859,11 +859,11 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E867351012E867555F90008" trl="N">
-    <value column="MsgText" isTrl="N" original="Cancel changes">Cancel changes</value>
+    <value column="MsgText" isTrl="Y" original="Cancel changes">Отменить изменения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E91304C6F000C" trl="N">
-    <value column="MsgText" isTrl="N" original="Clear">Clear</value>
+    <value column="MsgText" isTrl="Y" original="Clear">Очистить</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E91319A280016" trl="N">
@@ -1190,7 +1190,7 @@ Please &lt;b&gt;logout&lt;/b&gt; from the application unless your access is auth
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813176E1B0013176F1CDFD0061" trl="N">
-    <value column="MsgText" isTrl="N" original="Tab">Tab</value>
+    <value column="MsgText" isTrl="Y" original="Tab">Вкладка</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181317B723B01317B780D370012" trl="N">

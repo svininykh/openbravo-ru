@@ -2112,8 +2112,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1115" trl="N">
-    <value column="Name" isTrl="N" original="Comments">Comments</value>
-    <value column="PrintName" isTrl="N" original="Note">Note</value>
+    <value column="Name" isTrl="Y" original="Comments">Комментарии</value>
+    <value column="PrintName" isTrl="Y" original="Note">Комментарии</value>
     <value column="Description" isTrl="N" original="A space to write additional related information.">A space to write additional related information.</value>
     <value column="Help" isTrl="N" original="The Note field allows for optional entry of user defined information regarding this record">The Note field allows for optional entry of user defined information regarding this record</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2612,8 +2612,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="123" trl="N">
-    <value column="Name" isTrl="N" original="Role">Role</value>
-    <value column="PrintName" isTrl="N" original="Role">Role</value>
+    <value column="Name" isTrl="Y" original="Role">Роль</value>
+    <value column="PrintName" isTrl="Y" original="Role">Роль</value>
     <value column="Description" isTrl="N" original="The profile of security for the user defining what windows and tabs they can see.">The profile of security for the user defining what windows and tabs they can see.</value>
     <value column="Help" isTrl="N" original="The Role determines security and access a user who has this Role will have in the System.">The Role determines security and access a user who has this Role will have in the System.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8545,8 +8545,8 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="420" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
-    <value column="PrintName" isTrl="N" original="Translated">Translated</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
+    <value column="PrintName" isTrl="Y" original="Translated">Переведено</value>
     <value column="Description" isTrl="N" original="An indication that an item is translated.">An indication that an item is translated.</value>
     <value column="Help" isTrl="N" original="The Translated checkbox indicates if this column is translated.">The Translated checkbox indicates if this column is translated.</value>
     <value column="PO_Description" isTrl="N" original=""/>

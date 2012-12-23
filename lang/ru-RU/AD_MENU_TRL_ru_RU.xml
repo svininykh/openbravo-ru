@@ -209,15 +209,15 @@
     <value column="Description" isTrl="N" original="Create and edit application initiated information and error messages.">Create and edit application initiated information and error messages.</value>
   </row>
   <row id="144" trl="N">
-    <value column="Name" isTrl="N" original="Menu">Menu</value>
+    <value column="Name" isTrl="Y" original="Menu">Меню</value>
     <value column="Description" isTrl="N" original="Edit the application menu tree structure according to your business necessities.">Edit the application menu tree structure according to your business necessities.</value>
   </row>
   <row id="145" trl="N">
-    <value column="Name" isTrl="N" original="Language">Language</value>
+    <value column="Name" isTrl="Y" original="Language">Язык</value>
     <value column="Description" isTrl="N" original="Define multiple languages to be used in the application.">Define multiple languages to be used in the application.</value>
   </row>
   <row id="147" trl="N">
-    <value column="Name" isTrl="N" original="User">User</value>
+    <value column="Name" isTrl="Y" original="User">Пользователь</value>
     <value column="Description" isTrl="N" original="Create users and manage user roles to give access permissions.">Create users and manage user roles to give access permissions.</value>
   </row>
   <row id="148" trl="N">
@@ -225,11 +225,11 @@
     <value column="Description" isTrl="N" original="Define client characteristics, additional information, and defaults.">Define client characteristics, additional information, and defaults.</value>
   </row>
   <row id="149" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="Description" isTrl="N" original="Create organizations and manage the organizational structure according to your business necessities.">Create organizations and manage the organizational structure according to your business necessities.</value>
   </row>
   <row id="150" trl="N">
-    <value column="Name" isTrl="N" original="Role">Role</value>
+    <value column="Name" isTrl="Y" original="Role">Роль</value>
     <value column="Description" isTrl="N" original="Create roles with assigned users, and edit roles access to organizations, windows, processes, etc.">Create roles with assigned users, and edit roles access to organizations, windows, processes, etc.</value>
   </row>
   <row id="151" trl="N">
@@ -305,11 +305,11 @@
     <value column="Description" isTrl="N" original="Define and edit reports and processes (database or Java).">Define and edit reports and processes (database or Java).</value>
   </row>
   <row id="178" trl="N">
-    <value column="Name" isTrl="N" original="Sales Invoice">Sales Invoice</value>
+    <value column="Name" isTrl="Y" original="Sales Invoice">Расходная счёт-фактура</value>
     <value column="Description" isTrl="N" original="Create and edit sales invoices for your customers.">Create and edit sales invoices for your customers.</value>
   </row>
   <row id="179" trl="N">
-    <value column="Name" isTrl="N" original="Physical Inventory">Physical Inventory</value>
+    <value column="Name" isTrl="Y" original="Physical Inventory">Инвентаризация</value>
     <value column="Description" isTrl="N" original="Create and edit inventory counts and update your stock quantities.">Create and edit inventory counts and update your stock quantities.</value>
   </row>
   <row id="180" trl="N">
@@ -317,7 +317,7 @@
     <value column="Description" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
   </row>
   <row id="181" trl="N">
-    <value column="Name" isTrl="N" original="Goods Movements">Goods Movements</value>
+    <value column="Name" isTrl="Y" original="Goods Movements">Перемещение товаров</value>
     <value column="Description" isTrl="N" original="Create and edit internal inventory movements among warehouses and storage bins.">Create and edit internal inventory movements among warehouses and storage bins.</value>
   </row>
   <row id="183" trl="N">
@@ -373,7 +373,7 @@
     <value column="Description" isTrl="N" original="Create and edit orders to buy products from suppliers.">Create and edit orders to buy products from suppliers.</value>
   </row>
   <row id="206" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Invoice">Purchase Invoice</value>
+    <value column="Name" isTrl="Y" original="Purchase Invoice">Приходная счёт-фактура</value>
     <value column="Description" isTrl="N" original="Purchase invoice window allows to register and manage suppliers invoices.">Purchase invoice window allows to register and manage suppliers invoices.</value>
   </row>
   <row id="20C210B5BE7846819385A70F23F5118C" trl="N">

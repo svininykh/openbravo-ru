@@ -155,9 +155,9 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Help" isTrl="N" original="** Special **">** Special **</value>
   </row>
   <row id="111" trl="N">
-    <value column="Name" isTrl="N" original="Process Invoice">Process Invoice</value>
-    <value column="Description" isTrl="N" original="Process Invoice">Process Invoice</value>
-    <value column="Help" isTrl="N" original="Process Invoice">Process Invoice</value>
+    <value column="Name" isTrl="Y" original="Process Invoice">Выставить счёт-фактуру</value>
+    <value column="Description" isTrl="Y" original="Process Invoice">Выставить счёт-фактуру</value>
+    <value column="Help" isTrl="Y" original="Process Invoice">Выставить счёт-фактуру</value>
   </row>
   <row id="112" trl="N">
     <value column="Name" isTrl="N" original="Copy Accounts">Copy Accounts</value>

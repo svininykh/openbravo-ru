@@ -3897,11 +3897,11 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="575" trl="N">
-    <value column="MsgText" isTrl="N" original="User">User</value>
+    <value column="MsgText" isTrl="Y" original="User">Пользователь</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="576" trl="N">
-    <value column="MsgText" isTrl="N" original="User Interface">User Interface</value>
+    <value column="MsgText" isTrl="Y" original="User Interface">Интерфейс пользователя</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="577" trl="N">
@@ -4081,7 +4081,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D3624FE019649CCB3B5900F32E59E21" trl="N">
-    <value column="MsgText" isTrl="N" original="NOTE">NOTE</value>
+    <value column="MsgText" isTrl="Y" original="NOTE">ЗАМЕТКА</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D3624FE019649CCB3B5900F32E59E22" trl="N">
@@ -6858,7 +6858,7 @@ Do you want to propagate this value to all payment methods?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="A1FA3C21D5C84961BC6C35318605EEDF" trl="N">
-    <value column="MsgText" isTrl="N" original="Goods Movements">Goods Movements</value>
+    <value column="MsgText" isTrl="Y" original="Goods Movements">Перемещение товаров</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="A2647B75CEFA4460BD7D486262772191" trl="N">
@@ -7691,11 +7691,11 @@ In the last 30 days this instance has exceeded the limit of web service calls al
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F35BFCBD116548BD8B97A2259E5A4E3E" trl="N">
-    <value column="MsgText" isTrl="N" original="User">User</value>
+    <value column="MsgText" isTrl="Y" original="User">Пользователь</value>
     <value column="MsgTip" isTrl="N" original="Used for grid-column translation in the audit trail popup">Used for grid-column translation in the audit trail popup</value>
   </row>
   <row id="F376FBC96F46443AB1B51579EB442AED" trl="N">
-    <value column="MsgText" isTrl="N" original="Invalid user/password.">Invalid user/password.</value>
+    <value column="MsgText" isTrl="Y" original="Invalid user/password.">Неверное имя пользователя или пароль.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F38A8843E6504699A91571A79C3AA3DF" trl="N">

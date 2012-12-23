@@ -431,7 +431,7 @@
     <value column="Help" isTrl="N" original="Login time is the date and time when the session started.">Login time is the date and time when the session started.</value>
   </row>
   <row id="7010" trl="N">
-    <value column="Name" isTrl="N" original="User">User</value>
+    <value column="Name" isTrl="Y" original="User">Пользователь</value>
     <value column="Description" isTrl="N" original="Alphanumeric identifier of the entity">Alphanumeric identifier of the entity</value>
     <value column="Help" isTrl="N" original="The User Name which contact  will have access to application. It must be registered in user window as application user.">The User Name which contact  will have access to application. It must be registered in user window as application user.</value>
   </row>

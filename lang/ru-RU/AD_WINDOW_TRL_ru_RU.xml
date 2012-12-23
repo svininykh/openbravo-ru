@@ -88,22 +88,22 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="This window helps you to post the discrepancies between inventory and financial accounting of those items for which the corresponding goods receipts were posted.">This window helps you to post the discrepancies between inventory and financial accounting of those items for which the corresponding goods receipts were posted.</value>
   </row>
   <row id="108" trl="N">
-    <value column="Name" isTrl="N" original="User">User</value>
+    <value column="Name" isTrl="Y" original="User">Пользователь</value>
     <value column="Description" isTrl="N" original="Create users and manage user roles to give access permissions.">Create users and manage user roles to give access permissions.</value>
     <value column="Help" isTrl="N" original="A user is an entity which can log into Openbravo whenever it has a password and at least one role assigned to it.">A user is an entity which can log into Openbravo whenever it has a password and at least one role assigned to it.</value>
   </row>
   <row id="109" trl="N">
-    <value column="Name" isTrl="N" original="Client">Client</value>
+    <value column="Name" isTrl="Y" original="Client">Подключение</value>
     <value column="Description" isTrl="N" original="Define client characteristics, additional information, and defaults.">Define client characteristics, additional information, and defaults.</value>
     <value column="Help" isTrl="N" original="A client is an independent entity composed of at least an enterprise or organization.  A client includes and manages the master data to share among all the organizations which belong to it and groups the transactional data booked in any of the organizations which belong to it.">A client is an independent entity composed of at least an enterprise or organization.  A client includes and manages the master data to share among all the organizations which belong to it and groups the transactional data booked in any of the organizations which belong to it.</value>
   </row>
   <row id="110" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="Description" isTrl="N" original="Create organizations and manage the organizational structure according to your business necessities.">Create organizations and manage the organizational structure according to your business necessities.</value>
     <value column="Help" isTrl="N" original="An organization is an enterprise of a Client. Each client must have at least one organization created by running the Initial Organization Setup process. The process of creating an organization ends after setting it as &quot;Ready&quot;.">An organization is an enterprise of a Client. Each client must have at least one organization created by running the Initial Organization Setup process. The process of creating an organization ends after setting it as "Ready".</value>
   </row>
   <row id="111" trl="N">
-    <value column="Name" isTrl="N" original="Role">Role</value>
+    <value column="Name" isTrl="Y" original="Role">Роль</value>
     <value column="Description" isTrl="N" original="Create roles with assigned users, and edit roles access to organizations, windows, processes, etc.">Create roles with assigned users, and edit roles access to organizations, windows, processes, etc.</value>
     <value column="Help" isTrl="N" original="The aim of a role is to group user/s depending on what parts of Openbravo they are allowed to access to and therefore to work in.">The aim of a role is to group user/s depending on what parts of Openbravo they are allowed to access to and therefore to work in.</value>
   </row>
@@ -300,12 +300,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define and edit reports and processes (database or Java).">Define and edit reports and processes (database or Java).</value>
   </row>
   <row id="167" trl="N">
-    <value column="Name" isTrl="N" original="Sales Invoice">Sales Invoice</value>
+    <value column="Name" isTrl="Y" original="Sales Invoice">Расходная счет-фактура</value>
     <value column="Description" isTrl="N" original="Create and edit sales invoices for your customers.">Create and edit sales invoices for your customers.</value>
     <value column="Help" isTrl="N" original="Create and edit sales invoices for your customers.">Create and edit sales invoices for your customers.</value>
   </row>
   <row id="168" trl="N">
-    <value column="Name" isTrl="N" original="Physical Inventory">Physical Inventory</value>
+    <value column="Name" isTrl="Y" original="Physical Inventory">Инвентаризация</value>
     <value column="Description" isTrl="N" original="Create and edit inventory counts and update your stock quantities.">Create and edit inventory counts and update your stock quantities.</value>
     <value column="Help" isTrl="N" original="Physical Inventory window allows to execute goods count process in Openbravo.">Physical Inventory window allows to execute goods count process in Openbravo.</value>
   </row>
@@ -315,7 +315,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
   </row>
   <row id="170" trl="N">
-    <value column="Name" isTrl="N" original="Goods Movements">Goods Movements</value>
+    <value column="Name" isTrl="Y" original="Goods Movements">Перемещение товаров</value>
     <value column="Description" isTrl="N" original="Create and edit internal inventory movements among warehouses and storage bins.">Create and edit internal inventory movements among warehouses and storage bins.</value>
     <value column="Help" isTrl="N" original="Create and edit internal inventory movements among warehouses and storage bins.">Create and edit internal inventory movements among warehouses and storage bins.</value>
   </row>
@@ -325,12 +325,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Title window allows to setup business partner titles such as Mr or Madame to be used while contacting business partners.">Title window allows to setup business partner titles such as Mr or Madame to be used while contacting business partners.</value>
   </row>
   <row id="181" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Order">Purchase Order</value>
+    <value column="Name" isTrl="Y" original="Purchase Order">Приходная накладная</value>
     <value column="Description" isTrl="N" original="Create and edit orders to buy products from suppliers.">Create and edit orders to buy products from suppliers.</value>
     <value column="Help" isTrl="N" original="Purchase Order window allows the procurement team to create and manage orders which once booked will be sent to the external suppliers.">Purchase Order window allows the procurement team to create and manage orders which once booked will be sent to the external suppliers.</value>
   </row>
   <row id="183" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Invoice">Purchase Invoice</value>
+    <value column="Name" isTrl="Y" original="Purchase Invoice">Приходная счет-фактура</value>
     <value column="Description" isTrl="N" original="Purchase invoice window allows to register and manage suppliers invoices.">Purchase invoice window allows to register and manage suppliers invoices.</value>
     <value column="Help" isTrl="N" original="Purchase invoice window allows to register and manage suppliers invoices.">Purchase invoice window allows to register and manage suppliers invoices.</value>
   </row>
