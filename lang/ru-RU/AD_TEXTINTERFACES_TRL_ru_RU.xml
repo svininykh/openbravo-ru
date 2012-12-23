@@ -598,43 +598,43 @@
     <value column="Text" isTrl="N" original="The withhold amount has been deposited at:">The withhold amount has been deposited at:</value>
   </row>
   <row id="1002500000" trl="N">
-    <value column="Text" isTrl="N" original="Year ">Year </value>
+    <value column="Text" isTrl="Y" original="Year ">Год </value>
   </row>
   <row id="1002500001" trl="N">
     <value column="Text" isTrl="N" original="Role information">Role information</value>
   </row>
   <row id="1003900010" trl="N">
-    <value column="Text" isTrl="N" original="Date:">Date:</value>
+    <value column="Text" isTrl="Y" original="Date:">Дата:</value>
   </row>
   <row id="1003900011" trl="N">
-    <value column="Text" isTrl="N" original="Client:">Client:</value>
+    <value column="Text" isTrl="Y" original="Client:">Client:</value>
   </row>
   <row id="1003900014" trl="N">
-    <value column="Text" isTrl="N" original="Business Partner:">Business Partner:</value>
+    <value column="Text" isTrl="Y" original="Business Partner:">Контрагент:</value>
   </row>
   <row id="1003900016" trl="N">
     <value column="Text" isTrl="N" original="Account No.:">Account No.:</value>
   </row>
   <row id="1003900017" trl="N">
-    <value column="Text" isTrl="N" original="Currency:">Currency:</value>
+    <value column="Text" isTrl="Y" original="Currency:">Валюта:</value>
   </row>
   <row id="1003900018" trl="N">
-    <value column="Text" isTrl="N" original="Currency:">Currency:</value>
+    <value column="Text" isTrl="Y" original="Currency:">Валюта:</value>
   </row>
   <row id="1003900020" trl="N">
     <value column="Text" isTrl="N" original="Total Client:">Total Client:</value>
   </row>
   <row id="1003900025" trl="N">
-    <value column="Text" isTrl="N" original="Project:">Project:</value>
+    <value column="Text" isTrl="Y" original="Project:">Проект:</value>
   </row>
   <row id="1003900026" trl="N">
-    <value column="Text" isTrl="N" original="Date:">Date:</value>
+    <value column="Text" isTrl="Y" original="Date:">Дата:</value>
   </row>
   <row id="1003900028" trl="N">
     <value column="Text" isTrl="N" original="Total Client:">Total Client:</value>
   </row>
   <row id="1003900029" trl="N">
-    <value column="Text" isTrl="N" original="Order Date:">Order Date:</value>
+    <value column="Text" isTrl="Y" original="Order Date:">Дата накладной:</value>
   </row>
   <row id="1003900032" trl="N">
     <value column="Text" isTrl="N" original="Client:">Client:</value>
@@ -880,7 +880,7 @@
     <value column="Text" isTrl="N" original="Don't do anything now. I will reload the Openbravo application manually later  ">Don't do anything now. I will reload the Openbravo application manually later  </value>
   </row>
   <row id="1060751D2F064AE4BCD3F8F8A4E3710C" trl="N">
-    <value column="Text" isTrl="N" original="Total Amount">Total Amount</value>
+    <value column="Text" isTrl="Y" original="Total Amount">Итоговый объём</value>
   </row>
   <row id="10851888723A48D598857004623C06CC" trl="N">
     <value column="Text" isTrl="N" original="Opening Entry Amount to Initial Balance">Opening Entry Amount to Initial Balance</value>
@@ -982,7 +982,7 @@
     <value column="Text" isTrl="N" original="General Ledger Report">General Ledger Report</value>
   </row>
   <row id="25AA0658849611DDB88C001B388C05F0" trl="N">
-    <value column="Text" isTrl="N" original="Totals">Totals</value>
+    <value column="Text" isTrl="Y" original="Totals">Итоги</value>
   </row>
   <row id="272CF5C8A1F411DD8ED1EF26D1098B24" trl="N">
     <value column="Text" isTrl="N" original="Print Document">Print Document</value>
@@ -2344,19 +2344,19 @@
     <value column="Text" isTrl="N" original="Shipment edition">Shipment edition</value>
   </row>
   <row id="800545" trl="N">
-    <value column="Text" isTrl="N" original="Generate Invoices manual">Generate Invoices manual</value>
+    <value column="Text" isTrl="Y" original="Generate Invoices manual">Генерировать счета вручную</value>
   </row>
   <row id="800570" trl="N">
-    <value column="Text" isTrl="N" original="DESCRIPTION">DESCRIPTION</value>
+    <value column="Text" isTrl="Y" original="DESCRIPTION">ОПИСАНИЕ</value>
   </row>
   <row id="800587" trl="N">
-    <value column="Text" isTrl="N" original="CREDIT">CREDIT</value>
+    <value column="Text" isTrl="Y" original="CREDIT">КРЕДИТ</value>
   </row>
   <row id="800625" trl="Y">
     <value column="Text" isTrl="Y" original="Import">Импортировать</value>
   </row>
   <row id="800671" trl="N">
-    <value column="Text" isTrl="N" original="Test">Test</value>
+    <value column="Text" isTrl="Y" original="Test">Тестировать</value>
   </row>
   <row id="800682" trl="N">
     <value column="Text" isTrl="N" original="Shipment report">Shipment report</value>
@@ -2365,16 +2365,16 @@
     <value column="Text" isTrl="N" original="Order filter">Order filter</value>
   </row>
   <row id="800747" trl="N">
-    <value column="Text" isTrl="N" original="Weight">Weight</value>
+    <value column="Text" isTrl="Y" original="Weight">Вес</value>
   </row>
   <row id="800806" trl="N">
-    <value column="Text" isTrl="N" original="AMOUNT">AMOUNT</value>
+    <value column="Text" isTrl="Y" original="AMOUNT">ОБЪЁМ</value>
   </row>
   <row id="800847" trl="N">
     <value column="Text" isTrl="Y" original="Price">Цена</value>
   </row>
   <row id="800850" trl="N">
-    <value column="Text" isTrl="N" original="TOTAL:">TOTAL:</value>
+    <value column="Text" isTrl="Y" original="TOTAL:">ИТОГО:</value>
   </row>
   <row id="800949" trl="N">
     <value column="Text" isTrl="N" original="Devol. Ref">Devol. Ref</value>
@@ -5707,7 +5707,7 @@
     <value column="Text" isTrl="N" original="Help for ">Help for </value>
   </row>
   <row id="DEE3E51681A84564B1E2D0C1EE2DAE44" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Date">Invoice Date</value>
+    <value column="Text" isTrl="Y" original="Invoice Date">Дата выставления</value>
   </row>
   <row id="E0CBE4F115604DAB9E4F285D17E27057" trl="N">
     <value column="Text" isTrl="N" original=" You are about to install module(s) with maturity levels lower than General Availability."> You are about to install module(s) with maturity levels lower than General Availability.</value>

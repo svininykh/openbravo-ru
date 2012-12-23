@@ -610,35 +610,35 @@
     <value column="Help" isTrl="N" original="Add products to be included in your sales order.  Each product is added by creating a line.">Add products to be included in your sales order.  Each product is added by creating a line.</value>
   </row>
   <row id="189" trl="N">
-    <value column="Name" isTrl="N" original="Product Category">Product Category</value>
+    <value column="Name" isTrl="Y" original="Product Category">Категория товара</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a product category.">Create a product category.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Product category window allows you to create and configure every product group your company may need. ">Product category window allows you to create and configure every product group your company may need. </value>
   </row>
   <row id="191" trl="N">
-    <value column="Name" isTrl="N" original="Price List">Price List</value>
+    <value column="Name" isTrl="Y" original="Price List">Прейскурант</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create price lists to be used in application transactions.">Create price lists to be used in application transactions.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Price List window allows to create purchase and sales price lists to be assigned to the business partners for its use in purchase and sales transactions such as orders and invoices.">Price List window allows to create purchase and sales price lists to be assigned to the business partners for its use in purchase and sales transactions such as orders and invoices.</value>
   </row>
   <row id="192" trl="N">
-    <value column="Name" isTrl="N" original="Product Price">Product Price</value>
+    <value column="Name" isTrl="Y" original="Product Price">Цена товара</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products and edit their prices for a selected price list.">Add products and edit their prices for a selected price list.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Product Price tab allows to either add or edit products and their prices for a selected price list.">Product Price tab allows to either add or edit products and their prices for a selected price list.</value>
   </row>
   <row id="193" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Schedule">Invoice Schedule</value>
+    <value column="Name" isTrl="Y" original="Invoice Schedule">График выставления</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create invoice schedules to be used for business partners.">Create invoice schedules to be used for business partners.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="An organization can agree and therefore define specific schedules for issuing invoices, schedules which will then need to be linked to the corresponding customers.">An organization can agree and therefore define specific schedules for issuing invoices, schedules which will then need to be linked to the corresponding customers.</value>
   </row>
   <row id="198" trl="N">
-    <value column="Name" isTrl="N" original="Conversion Rate">Conversion Rate</value>
+    <value column="Name" isTrl="Y" original="Conversion Rate">Курс конвертации</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define conversion rates to be used for multi currency application transactions.">Define conversion rates to be used for multi currency application transactions.</value>
     <value column="Filtername" isTrl="N" original=""/>

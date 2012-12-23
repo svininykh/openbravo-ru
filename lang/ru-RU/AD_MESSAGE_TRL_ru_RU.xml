@@ -824,11 +824,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for grid column translation in Account selector">Used for grid column translation in Account selector</value>
   </row>
   <row id="1006300011" trl="N">
-    <value column="MsgText" isTrl="N" original="Description">Description</value>
+    <value column="MsgText" isTrl="Y" original="Description">Описание</value>
     <value column="MsgTip" isTrl="N" original="Used for grid column translation in Account selector">Used for grid column translation in Account selector</value>
   </row>
   <row id="1006300012" trl="N">
-    <value column="MsgText" isTrl="N" original="Organization">Organization</value>
+    <value column="MsgText" isTrl="Y" original="Organization">Организация</value>
     <value column="MsgTip" isTrl="N" original="Used for grid column translation in Account selector">Used for grid column translation in Account selector</value>
   </row>
   <row id="1006300013" trl="N">
@@ -928,7 +928,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300037" trl="N">
-    <value column="MsgText" isTrl="N" original="Description">Description</value>
+    <value column="MsgText" isTrl="Y" original="Description">Описание</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300038" trl="N">
@@ -1140,7 +1140,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Shipment Receipt Selector">Used for column name translation in Shipment Receipt Selector</value>
   </row>
   <row id="1006400033" trl="N">
-    <value column="MsgText" isTrl="N" original="Description">Description</value>
+    <value column="MsgText" isTrl="Y" original="Description">Описание</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Shipment Receipt Selector">Used for column name translation in Shipment Receipt Selector</value>
   </row>
   <row id="1006400034" trl="N">
@@ -1212,7 +1212,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Sales Order Selector">Used for column name translation in Sales Order Selector</value>
   </row>
   <row id="1006400051" trl="N">
-    <value column="MsgText" isTrl="N" original="Description">Description</value>
+    <value column="MsgText" isTrl="Y" original="Description">Описание</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Sales Order Selector">Used for column name translation in Sales Order Selector</value>
   </row>
   <row id="1006400052" trl="N">
@@ -1957,7 +1957,7 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="219" trl="N">
-    <value column="MsgText" isTrl="N" original="Description">Description</value>
+    <value column="MsgText" isTrl="Y" original="Description">Описание</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="220" trl="N">

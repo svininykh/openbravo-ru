@@ -692,9 +692,9 @@ References will be replaced by values:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1002100026" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Date">Invoice Date</value>
-    <value column="PrintName" isTrl="N" original="Invoice Date">Invoice Date</value>
-    <value column="Description" isTrl="N" original="Invoice Date">Invoice Date</value>
+    <value column="Name" isTrl="N" original="Invoice Date">Дата выставления</value>
+    <value column="PrintName" isTrl="N" original="Invoice Date">Дата выставления</value>
+    <value column="Description" isTrl="N" original="Invoice Date">Дата выставления</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -3372,8 +3372,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1402" trl="N">
-    <value column="Name" isTrl="N" original="Payment Complete">Payment Complete</value>
-    <value column="PrintName" isTrl="N" original="Paid">Paid</value>
+    <value column="Name" isTrl="Y" original="Payment Complete">Оплачено</value>
+    <value column="PrintName" isTrl="Y" original="Paid">Оплачено</value>
     <value column="Description" isTrl="N" original="A confirmation stating whether the request has been closed through a monetary transaction.">A confirmation stating whether the request has been closed through a monetary transaction.</value>
     <value column="Help" isTrl="N" original="The document is paid for.">The document is paid for.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5555,12 +5555,12 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="Help" isTrl="N" original="The Partner address indicates the location of a Business Partner">The Partner address indicates the location of a Business Partner</value>
     <value column="PO_Description" isTrl="N" original="Identifies the (ship from) address for this Business Partner">Identifies the (ship from) address for this Business Partner</value>
     <value column="PO_Help" isTrl="N" original="The Partner address indicates the location of a Business Partner">The Partner address indicates the location of a Business Partner</value>
-    <value column="PO_Name" isTrl="N" original="Partner Address">Partner Address</value>
-    <value column="PO_PrintName" isTrl="N" original="Partner Address">Partner Address</value>
+    <value column="PO_Name" isTrl="Y" original="Partner Address">Адрес контрагента</value>
+    <value column="PO_PrintName" isTrl="Y" original="Partner Address">Адрес контрагента</value>
   </row>
   <row id="1891" trl="N">
-    <value column="Name" isTrl="N" original="Birthday">Birthday</value>
-    <value column="PrintName" isTrl="N" original="Birthday">Birthday</value>
+    <value column="Name" isTrl="Y" original="Birthday">День рождения</value>
+    <value column="PrintName" isTrl="Y" original="Birthday">День рождения</value>
     <value column="Description" isTrl="N" original="An anniversary of birth for a business partner.">An anniversary of birth for a business partner.</value>
     <value column="Help" isTrl="N" original="Birthday or Anniversary day">Birthday or Anniversary day</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6850,8 +6850,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2183" trl="N">
-    <value column="Name" isTrl="N" original="Description Only">Description Only</value>
-    <value column="PrintName" isTrl="N" original="Description">Description</value>
+    <value column="Name" isTrl="Y" original="Description Only">Только описание</value>
+    <value column="PrintName" isTrl="Y" original="Description">Описание</value>
     <value column="Description" isTrl="N" original="if true, the line is just description and no transaction">if true, the line is just description and no transaction</value>
     <value column="Help" isTrl="N" original="If a line is Description Only, e.g. Product Inventory is not corrected. No accounting transactions are created and the amount or totals are not included in the document.  This for including descriptional detail lines, e.g. for an Work Order.">If a line is Description Only, e.g. Product Inventory is not corrected. No accounting transactions are created and the amount or totals are not included in the document.  This for including descriptional detail lines, e.g. for an Work Order.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6870,8 +6870,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="219" trl="N">
-    <value column="Name" isTrl="N" original="UOM for Time">UOM for Time</value>
-    <value column="PrintName" isTrl="N" original="UOM for Time">UOM for Time</value>
+    <value column="Name" isTrl="Y" original="UOM for Time">Ед. изм. времени</value>
+    <value column="PrintName" isTrl="Y" original="UOM for Time">Ед. изм. времени</value>
     <value column="Description" isTrl="N" original="Standard Unit of Measure for Time">Standard Unit of Measure for Time</value>
     <value column="Help" isTrl="N" original="The Standard UOM for Time indicates the UOM to use for products referenced by time in a document.">The Standard UOM for Time indicates the UOM to use for products referenced by time in a document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6880,8 +6880,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="220" trl="N">
-    <value column="Name" isTrl="N" original="UOM for Volume">UOM for Volume</value>
-    <value column="PrintName" isTrl="N" original="UOM for Volume">UOM for Volume</value>
+    <value column="Name" isTrl="Y" original="UOM for Volume">Ед. изм. объёма</value>
+    <value column="PrintName" isTrl="Y" original="UOM for Volume">Ед. изм. объёма</value>
     <value column="Description" isTrl="N" original="Standard Unit of Measure for Volume">Standard Unit of Measure for Volume</value>
     <value column="Help" isTrl="N" original="The Standard UOM for Volume indicates the UOM to use for products referenced by volume in a document.">The Standard UOM for Volume indicates the UOM to use for products referenced by volume in a document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6890,8 +6890,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="221" trl="N">
-    <value column="Name" isTrl="N" original="UOM for Weight">UOM for Weight</value>
-    <value column="PrintName" isTrl="N" original="UOM for Weight">UOM for Weight</value>
+    <value column="Name" isTrl="N" original="UOM for Weight">Ед. изм. веса</value>
+    <value column="PrintName" isTrl="N" original="UOM for Weight">Ед. изм. веса</value>
     <value column="Description" isTrl="N" original="Standard Unit of Measure for Weight">Standard Unit of Measure for Weight</value>
     <value column="Help" isTrl="N" original="The Standard UOM for Weight indicates the UOM to use for products referenced by weight in a document.">The Standard UOM for Weight indicates the UOM to use for products referenced by weight in a document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11968,15 +11968,15 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="63874B9705CB4B1F829ED815A16A46B3" trl="N">
-    <value column="Name" isTrl="N" original="Last Calculated on Date">Last Calculated on Date</value>
-    <value column="PrintName" isTrl="N" original="Last Calculated On Date">Last Calculated On Date</value>
-    <value column="Description" isTrl="N" original="Last Calculated On Date for payment monitor">Last Calculated On Date for payment monitor</value>
-    <value column="Help" isTrl="N" original="Last Calculated On Date for payment monitor">Last Calculated On Date for payment monitor</value>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="63874B9705CB4B1F829ED815A16A46B3" trl="Y">
+    <value column="Name" isTrl="Y" original="Last Calculated on Date">Последний рассчёт на дату</value>
+    <value column="PrintName" isTrl="Y" original="Last Calculated On Date">Последний рассчёт на дату</value>
+    <value column="Description" isTrl="Y" original="Last Calculated On Date for payment monitor">Последний рассчёт на дату отслеживания оплаты.</value>
+    <value column="Help" isTrl="Y" original="Last Calculated On Date for payment monitor">Последний рассчёт на дату отслеживания оплаты.</value>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="6393DB0FCE8A4528A39135C54581DD88" trl="N">
     <value column="Name" isTrl="N" original="Status">Статус</value>
@@ -21659,15 +21659,15 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="D53F04776DA948AAA14F7CDCB38795D2" trl="N">
-    <value column="Name" isTrl="N" original="Total Paid">Total Paid</value>
-    <value column="PrintName" isTrl="N" original="Total Paid">Total Paid</value>
-    <value column="Description" isTrl="N" original="Total amount paid.">Total amount paid.</value>
-    <value column="Help" isTrl="N" original="Total amount paid.">Total amount paid.</value>
-    <value column="PO_Description" isTrl="N" original="Total amount paid.">Total amount paid.</value>
-    <value column="PO_Help" isTrl="N" original="Total amount paid.">Total amount paid.</value>
-    <value column="PO_Name" isTrl="N" original="Total Paid">Total Paid</value>
-    <value column="PO_PrintName" isTrl="N" original="Total Paid">Total Paid</value>
+  <row id="D53F04776DA948AAA14F7CDCB38795D2" trl="Y">
+    <value column="Name" isTrl="Y" original="Total Paid">Всего оплачено</value>
+    <value column="PrintName" isTrl="Y" original="Total Paid">Всего оплачено</value>
+    <value column="Description" isTrl="Y" original="Total amount paid.">Всего размер оплаты.</value>
+    <value column="Help" isTrl="Y" original="Total amount paid.">Всего размер оплаты.</value>
+    <value column="PO_Description" isTrl="Y" original="Total amount paid.">Всего размер оплаты.</value>
+    <value column="PO_Help" isTrl="Y" original="Total amount paid.">Всего размер оплаты.</value>
+    <value column="PO_Name" isTrl="Y" original="Total Paid">Всего оплачено</value>
+    <value column="PO_PrintName" isTrl="Y" original="Total Paid">Всего оплачено</value>
   </row>
   <row id="D66DAAD6524140849CFCF28CE8FC8290" trl="N">
     <value column="Name" isTrl="N" original="Connector Calls Max">Connector Calls Max</value>
