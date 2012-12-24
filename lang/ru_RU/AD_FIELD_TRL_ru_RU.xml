@@ -176,8 +176,8 @@
     <value column="Help" isTrl="N" original="Supplier invoice number associated with the payment, i.e., which of the supplier’s invoices you are paying">Supplier invoice number associated with the payment, i.e., which of the supplier’s invoices you are paying</value>
   </row>
   <row id="3363" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Order Line">Purchase Order Line</value>
-    <value column="Description" isTrl="N" original="Purchase Order Line">Purchase Order Line</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Line">Строка приходной накладной</value>
+    <value column="Description" isTrl="Y" original="Purchase Order Line">Строка приходной накладной</value>
     <value column="Help" isTrl="N" original="The Purchase Order Line is a unique identifier for a line in an order.">The Purchase Order Line is a unique identifier for a line in an order.</value>
   </row>
   <row id="3395" trl="N">
@@ -191,8 +191,8 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="3521" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Order Line">Purchase Order Line</value>
-    <value column="Description" isTrl="N" original="Purchase Order Line">Purchase Order Line</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Line">Строка приходной накладной</value>
+    <value column="Description" isTrl="Y" original="Purchase Order Line">Строка приходной накладной</value>
     <value column="Help" isTrl="N" original="The Purchase Order Line is a unique identifier for a line in an order.">The Purchase Order Line is a unique identifier for a line in an order.</value>
   </row>
   <row id="3742" trl="N">
@@ -973,13 +973,13 @@
     <value column="Help" isTrl="N" original="Account to be used upon reconciliation">Account to be used upon reconciliation</value>
   </row>
   <row id="DCB3CD5102A644DB882524C242F4145C" trl="N">
-    <value column="Name" isTrl="Y" original="Net List Price">Цена по прейскуранту</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена без налога</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>
   <row id="DF28D00022F846ADA026758669AA1841" trl="N">
-    <value column="Name" isTrl="N" original="Return to Vendor line">Return to Vendor line</value>
-    <value column="Description" isTrl="N" original="Purchase Order Line">Purchase Order Line</value>
+    <value column="Name" isTrl="Y" original="Return to Vendor line">Строка возврата поставщику</value>
+    <value column="Description" isTrl="Y" original="Purchase Order Line">Строка приходной накладной для возврата поставщику.</value>
     <value column="Help" isTrl="N" original="The Purchase Order Line is a unique identifier for a line in an order.">The Purchase Order Line is a unique identifier for a line in an order.</value>
   </row>
   <row id="E9720E4D2C164A6398D32AAA916A74CF" trl="N">
