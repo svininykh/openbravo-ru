@@ -121,7 +121,7 @@
     <value column="Help" isTrl="N" original="Financial account where the payment amount is deposited.">Financial account where the payment amount is deposited.</value>
   </row>
   <row id="1418FA20C83B4B6A99BB2729D52997E3" trl="N">
-    <value column="Name" isTrl="N" original="Currency">Currency</value>
+    <value column="Name" isTrl="Y" original="Currency">Валюта</value>
     <value column="Description" isTrl="N" original="An accepted medium of monetary exchange that may vary across countries.">An accepted medium of monetary exchange that may vary across countries.</value>
     <value column="Help" isTrl="N" original="Organization currency will be loaded at login time and used to default its value in transactional windows. It will not be used for cost calculation.">Organization currency will be loaded at login time and used to default its value in transactional windows. It will not be used for cost calculation.</value>
   </row>
@@ -151,13 +151,13 @@
     <value column="Help" isTrl="N" original="Account used for in transit status of incoming payments">Account used for in transit status of incoming payments</value>
   </row>
   <row id="300" trl="N">
-    <value column="Name" isTrl="N" original="Name">Name</value>
+    <value column="Name" isTrl="Y" original="Name">Название</value>
     <value column="Description" isTrl="N" original="Alphanumeric identifier of the entity">Alphanumeric identifier of the entity</value>
     <value column="Help" isTrl="N" original="The name of an entity (record) is used as an default search option in addition to the search key. The name is up to 60 characters in length.">The name of an entity (record) is used as an default search option in addition to the search key. The name is up to 60 characters in length.</value>
   </row>
   <row id="3124" trl="N">
-    <value column="Name" isTrl="N" original="Discount">Discount</value>
-    <value column="Description" isTrl="N" original="Discount in percent">Discount in percent</value>
+    <value column="Name" isTrl="Y" original="Discount">Скидка</value>
+    <value column="Description" isTrl="Y" original="Discount in percent">Скидка в процентах</value>
     <value column="Help" isTrl="N" original="The Discount indicates the discount applied as a percentage of the List Price.">The Discount indicates the discount applied as a percentage of the List Price.</value>
   </row>
   <row id="3219" trl="N">
@@ -456,8 +456,8 @@
     <value column="Help" isTrl="N" original="Financial account used to deposit / withdrawal money such as bank accounts or petty cash">Financial account used to deposit / withdrawal money such as bank accounts or petty cash</value>
   </row>
   <row id="7DDB021EF8FF4041BE373FD1386DBE51" trl="N">
-    <value column="Name" isTrl="N" original="Discount">Discount</value>
-    <value column="Description" isTrl="N" original="Discount in percent">Discount in percent</value>
+    <value column="Name" isTrl="Y" original="Discount">Скидка</value>
+    <value column="Description" isTrl="Y" original="Discount in percent">Скидка в процентах</value>
     <value column="Help" isTrl="N" original="The Discount indicates the discount applied as a percentage of the List Price.">The Discount indicates the discount applied as a percentage of the List Price.</value>
   </row>
   <row id="7E35F16BB0F8C186E040007F010014C7" trl="N">
@@ -858,8 +858,8 @@
     <value column="Help" isTrl="N" original="The received quantity from the customer.">The received quantity from the customer.</value>
   </row>
   <row id="AF4090093D671431E040007F010048A5" trl="N">
-    <value column="Name" isTrl="N" original="Discount">Discount</value>
-    <value column="Description" isTrl="N" original="Discount in percent">Discount in percent</value>
+    <value column="Name" isTrl="Y" original="Discount">Скидка</value>
+    <value column="Description" isTrl="Y" original="Discount in percent">Скидка в процентах</value>
     <value column="Help" isTrl="N" original="The Discount indicates the discount applied as a percentage of the List Price.">The Discount indicates the discount applied as a percentage of the List Price.</value>
   </row>
   <row id="AF4090093D731431E040007F010048A5" trl="N">

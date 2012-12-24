@@ -118,12 +118,12 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="Currencies and conversion rates are basic settings to share within Openbravo.">Currencies and conversion rates are basic settings to share within Openbravo.</value>
   </row>
   <row id="116" trl="N">
-    <value column="Name" isTrl="N" original="Conversion Rates">Conversion Rates</value>
+    <value column="Name" isTrl="Y" original="Conversion Rates">Курсы обмена</value>
     <value column="Description" isTrl="N" original="Define conversion rates to be used for currencies defined in the application.">Define conversion rates to be used for currencies defined in the application.</value>
     <value column="Help" isTrl="N" original="Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.">Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.</value>
   </row>
   <row id="117" trl="N">
-    <value column="Name" isTrl="N" original="Fiscal Calendar">Fiscal Calendar</value>
+    <value column="Name" isTrl="Y" original="Fiscal Calendar">Налоговый календарь</value>
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars and periods for accounting purposes.">Create multiple fiscal calendars and periods for accounting purposes.</value>
     <value column="Help" isTrl="N" original="&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types inherit it from it.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization accounting practice.&#10;&#10;">"Legal entities with accounting" organization types must have a fiscal calendar assigned while rest of organization types inherit it from it.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization accounting practice.
 
@@ -270,7 +270,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit the central repository of application elements to update field name descriptions and help/comments.">Edit the central repository of application elements to update field name descriptions and help/comments.</value>
   </row>
   <row id="152" trl="N">
-    <value column="Name" isTrl="N" original="Sales Region">Sales Region</value>
+    <value column="Name" isTrl="Y" original="Sales Region">Регион продаж</value>
     <value column="Description" isTrl="N" original="Create sales regions to be used in sales operations.">Create sales regions to be used in sales operations.</value>
     <value column="Help" isTrl="N" original="Create sales regions to be used in sales operations.">Create sales regions to be used in sales operations.</value>
   </row>
@@ -511,12 +511,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define freight categories to be used by shippers.">Define freight categories to be used by shippers.</value>
   </row>
   <row id="283" trl="N">
-    <value column="Name" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Name" isTrl="Y" original="Accounting Dimension">План счетов по субконто</value>
     <value column="Description" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
     <value column="Help" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
   </row>
   <row id="291" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Info">Business Partner Info</value>
+    <value column="Name" isTrl="Y" original="Business Partner Info">Описание контрагента</value>
     <value column="Description" isTrl="N" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">View information related to business partner orders, receipts/shipments, invoices, and assets.</value>
     <value column="Help" isTrl="N" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">View information related to business partner orders, receipts/shipments, invoices, and assets.</value>
   </row>
@@ -651,7 +651,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit remittance types with corresponding parameters according to your business needs.">Create and edit remittance types with corresponding parameters according to your business needs.</value>
   </row>
   <row id="800019" trl="N">
-    <value column="Name" isTrl="N" original="Month">Month</value>
+    <value column="Name" isTrl="Y" original="Month">Месяц</value>
     <value column="Description" isTrl="N" original="Create and edit names of the month, assigning them to your quarterly and yearly calendar.">Create and edit names of the month, assigning them to your quarterly and yearly calendar.</value>
     <value column="Help" isTrl="N" original="Create and edit names of the month, assigning them to your quarterly and yearly calendar.">Create and edit names of the month, assigning them to your quarterly and yearly calendar.</value>
   </row>
@@ -661,17 +661,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define parameters to be used in making reports.">Define parameters to be used in making reports.</value>
   </row>
   <row id="800026" trl="N">
-    <value column="Name" isTrl="N" original="Amortization">Amortization</value>
+    <value column="Name" isTrl="Y" original="Amortization">Амортизация</value>
     <value column="Description" isTrl="N" original="Create and edit amortization for a selected year.">Create and edit amortization for a selected year.</value>
     <value column="Help" isTrl="N" original="Create and edit amortization for a selected year.">Create and edit amortization for a selected year.</value>
   </row>
   <row id="800027" trl="N">
-    <value column="Name" isTrl="N" original="Assets">Assets</value>
+    <value column="Name" isTrl="Y" original="Assets">Основные средства</value>
     <value column="Description" isTrl="N" original="Define amortization characteristics for assets owned by your company.">Define amortization characteristics for assets owned by your company.</value>
     <value column="Help" isTrl="N" original="Define amortization characteristics for assets owned by your company.">Define amortization characteristics for assets owned by your company.</value>
   </row>
   <row id="800028" trl="N">
-    <value column="Name" isTrl="N" original="Discounts and Promotions">Discounts and Promotions</value>
+    <value column="Name" isTrl="Y" original="Discounts and Promotions">Скидки и акции</value>
     <value column="Description" isTrl="N" original="Definition of Discounts and Promotions">Definition of Discounts and Promotions</value>
     <value column="Help" isTrl="N" original="Discounts and Promotions is a mechanism that allows to adjust prices based on different rules. External modules can extend this definition by providing additional rules (Discount Types) implementations.">Discounts and Promotions is a mechanism that allows to adjust prices based on different rules. External modules can extend this definition by providing additional rules (Discount Types) implementations.</value>
   </row>
@@ -865,13 +865,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
     <value column="Help" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
   </row>
-  <row id="9153155013C843839F88E9940B976148" trl="N">
-    <value column="Name" isTrl="N" original="Discounts and Promotions Types">Discounts and Promotions Types</value>
-    <value column="Description" isTrl="N" original="Discounts and Promotions Types">Discounts and Promotions Types</value>
-    <value column="Help" isTrl="N" original="Discounts and Promotions Types ">Discounts and Promotions Types </value>
+  <row id="9153155013C843839F88E9940B976148" trl="Y">
+    <value column="Name" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
+    <value column="Description" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
+    <value column="Help" isTrl="Y" original="Discounts and Promotions Types ">Виды скидок и акций</value>
   </row>
   <row id="94EAA455D2644E04AB25D93BE5157B6D" trl="N">
-    <value column="Name" isTrl="N" original="Financial Account">Финансовый счёт</value>
+    <value column="Name" isTrl="Y" original="Financial Account">Финансовый счёт</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

@@ -5,10 +5,10 @@
     <value column="Description" isTrl="N" original="Request a process to be run in the background or scheduled.">Request a process to be run in the background or scheduled.</value>
     <value column="Help" isTrl="N" original="Request a process to be run in the background or scheduled.">Request a process to be run in the background or scheduled.</value>
   </row>
-  <row id="100" trl="N">
-    <value column="Name" isTrl="N" original="Create Periods">Create Periods</value>
-    <value column="Description" isTrl="N" original="Create 12 standard calendar periods (Jan-Dec)">Create 12 standard calendar periods (Jan-Dec)</value>
-    <value column="Help" isTrl="N" original="Create 12 standard calendar periods (Jan-Dec)">Create 12 standard calendar periods (Jan-Dec)</value>
+  <row id="100" trl="Y">
+    <value column="Name" isTrl="Y" original="Create Periods">Создать периоды</value>
+    <value column="Description" isTrl="Y" original="Create 12 standard calendar periods (Jan-Dec)">Создать 12 стандартных календарных периода (Янв-Дек).</value>
+    <value column="Help" isTrl="Y" original="Create 12 standard calendar periods (Jan-Dec)">Создать 12 стандартных календарных периода (Янв-Дек).</value>
   </row>
   <row id="1000500000" trl="N">
     <value column="Name" isTrl="N" original="Pareto Product Report Legacy">Pareto Product Report Legacy</value>
@@ -784,7 +784,7 @@ This process:&lt;br/&gt;
     <value column="Help" isTrl="N" original="Report To Invoice Consignment">Report To Invoice Consignment</value>
   </row>
   <row id="800036" trl="N">
-    <value column="Name" isTrl="N" original="Close Year">Close Year</value>
+    <value column="Name" isTrl="Y" original="Close Year">Закрыть год</value>
     <value column="Description" isTrl="N" original="This proces creates the closing transactions and the corresponding opening transactions for the following year.">This proces creates the closing transactions and the corresponding opening transactions for the following year.</value>
     <value column="Help" isTrl="N" original="This proces creates the closing transactions and the corresponding opening transactions for the following year.&#10;The following year must already exist in the system and the first period must be open.&#10;The ledger accounting entries created by the Fiscal Year closing process are:&#10;     1. P&amp;L Closing: Resets all revenue and costs accounts and posts P&amp;L transaction. Currently posted into last day of last period of closing year.&#10;     2. Closing entry or Balance Sheet Closing: Creates closing transactions for asset and liabilities. Currently posted into last day of last period of closing year.&#10;     3. Opening entry: Posts opposite entry of closing entry. First day of first period of new year">This proces creates the closing transactions and the corresponding opening transactions for the following year.
 The following year must already exist in the system and the first period must be open.
@@ -794,7 +794,7 @@ The ledger accounting entries created by the Fiscal Year closing process are:
      3. Opening entry: Posts opposite entry of closing entry. First day of first period of new year</value>
   </row>
   <row id="800038" trl="N">
-    <value column="Name" isTrl="N" original="Undo Close Year">Undo Close Year</value>
+    <value column="Name" isTrl="Y" original="Undo Close Year">Отменить закрытие года</value>
     <value column="Description" isTrl="N" original="This process undo all what was done by the closing year process; all the accounting entries which were generated are undo or reverted.">This process undo all what was done by the closing year process; all the accounting entries which were generated are undo or reverted.</value>
     <value column="Help" isTrl="N" original="This process undo all what was done by the closing year process; all the accounting entries which were generated are undo or reverted.">This process undo all what was done by the closing year process; all the accounting entries which were generated are undo or reverted.</value>
   </row>

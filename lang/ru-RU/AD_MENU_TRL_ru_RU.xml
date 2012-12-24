@@ -53,7 +53,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="1005400001" trl="N">
-    <value column="Name" isTrl="N" original="Heartbeat Configuration">Heartbeat Configuration</value>
+    <value column="Name" isTrl="Y" original="Heartbeat Configuration">Настройки кардиограммы</value>
     <value column="Description" isTrl="N" original="Enable or disable the heartbeat process and configure internet connection proxy information ">Enable or disable the heartbeat process and configure internet connection proxy information </value>
   </row>
   <row id="1005500000" trl="N">
@@ -61,15 +61,15 @@
     <value column="Description" isTrl="N" original="Payment Aging Balance">Payment Aging Balance</value>
   </row>
   <row id="102" trl="N">
-    <value column="Name" isTrl="N" original="Currency">Currency</value>
+    <value column="Name" isTrl="Y" original="Currency">Валюта</value>
     <value column="Description" isTrl="N" original="Define currencies and conversion rates to be used in the application.">Define currencies and conversion rates to be used in the application.</value>
   </row>
   <row id="103" trl="N">
-    <value column="Name" isTrl="N" original="Conversion Rates">Conversion Rates</value>
+    <value column="Name" isTrl="Y" original="Conversion Rates">Курсы обмена</value>
     <value column="Description" isTrl="N" original="Define conversion rates to be used for currencies defined in the application.">Define conversion rates to be used for currencies defined in the application.</value>
   </row>
   <row id="104" trl="N">
-    <value column="Name" isTrl="N" original="Fiscal Calendar">Fiscal Calendar</value>
+    <value column="Name" isTrl="Y" original="Fiscal Calendar">Налоговый календарь</value>
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars and periods for accounting purposes.">Create multiple fiscal calendars and periods for accounting purposes.</value>
   </row>
   <row id="105" trl="N">
@@ -77,7 +77,7 @@
     <value column="Description" isTrl="N" original="Create and edit account elements and add them to your defined chart of accounts or account trees.">Create and edit account elements and add them to your defined chart of accounts or account trees.</value>
   </row>
   <row id="106" trl="N">
-    <value column="Name" isTrl="N" original="Account Combination">Account Combination</value>
+    <value column="Name" isTrl="Y" original="Account Combination">Типовые проводки</value>
     <value column="Description" isTrl="N" original="Create accounting combinations to be used in Openbravo's accounting process.">Create accounting combinations to be used in Openbravo's accounting process.</value>
   </row>
   <row id="107" trl="N">
@@ -169,19 +169,19 @@
     <value column="Description" isTrl="N" original="Define invoice schedules to be used for business partners.">Define invoice schedules to be used for business partners.</value>
   </row>
   <row id="134" trl="N">
-    <value column="Name" isTrl="N" original="Sales Campaign">Sales Campaign</value>
+    <value column="Name" isTrl="Y" original="Sales Campaign">Кампания продвижения</value>
     <value column="Description" isTrl="N" original="Create specific sales campaigns to be used in sales operations.">Create specific sales campaigns to be used in sales operations.</value>
   </row>
   <row id="134C41C58C8945FAB0C18D88B33C08FE" trl="N">
-    <value column="Name" isTrl="N" original="Organization Type">Organization Type</value>
+    <value column="Name" isTrl="Y" original="Organization Type">Тип организации</value>
     <value column="Description" isTrl="N" original="Defines an organization type which will be available into the system">Defines an organization type which will be available into the system</value>
   </row>
   <row id="136" trl="N">
-    <value column="Name" isTrl="N" original="Sales Channel">Sales Channel</value>
+    <value column="Name" isTrl="Y" original="Sales Channel">Канал продаж</value>
     <value column="Description" isTrl="N" original="Create specific sales channels to be used in sales operations.">Create specific sales channels to be used in sales operations.</value>
   </row>
   <row id="137" trl="N">
-    <value column="Name" isTrl="N" original="Sales Region">Sales Region</value>
+    <value column="Name" isTrl="Y" original="Sales Region">Регион продаж</value>
     <value column="Description" isTrl="N" original="Create sales regions to be used in sales operations.">Create sales regions to be used in sales operations.</value>
   </row>
   <row id="138" trl="N">

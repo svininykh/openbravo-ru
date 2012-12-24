@@ -21,17 +21,17 @@
     <value column="Help" isTrl="N" original="Procurement management team can use this window to manage &quot;Completed&quot; requisitions all at once.">Procurement management team can use this window to manage "Completed" requisitions all at once.</value>
   </row>
   <row id="1005800000" trl="N">
-    <value column="Name" isTrl="N" original="Registration">Registration</value>
+    <value column="Name" isTrl="Y" original="Registration">Регистрация</value>
     <value column="Description" isTrl="N" original="Registration form for Openbravo installation">Registration form for Openbravo installation</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1005800001" trl="N">
-    <value column="Name" isTrl="N" original="Heartbeat">Heartbeat</value>
+    <value column="Name" isTrl="Y" original="Heartbeat">Кардиограмма</value>
     <value column="Description" isTrl="N" original="Heartbeat pop-up window">Heartbeat pop-up window</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="102" trl="N">
-    <value column="Name" isTrl="N" original="Initial Client Setup">Initial Client Setup</value>
+    <value column="Name" isTrl="Y" original="Initial Client Setup">Начальные параметры подключения</value>
     <value column="Description" isTrl="N" original="Create a new empty client from scratch.">Create a new empty client from scratch.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -130,7 +130,7 @@ Use Module Management to browse the currently installed modules, to check for up
     <value column="Help" isTrl="N" original="Shows a GUI to edit help for windows, tabs, fields and elements.">Shows a GUI to edit help for windows, tabs, fields and elements.</value>
   </row>
   <row id="DE2329ABCAA84D5F99B59043CFFFE454" trl="N">
-    <value column="Name" isTrl="N" original="Initial organization setup">Initial organization setup</value>
+    <value column="Name" isTrl="Y" original="Initial organization setup">Начальные параметры организации</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

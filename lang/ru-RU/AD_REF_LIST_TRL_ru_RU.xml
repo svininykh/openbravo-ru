@@ -385,16 +385,16 @@
     <value column="Description" isTrl="N" original="Spot Conversation Rate Type">Spot Conversation Rate Type</value>
   </row>
   <row id="115" trl="N">
-    <value column="Name" isTrl="N" original="Period End">Period End</value>
+    <value column="Name" isTrl="Y" original="Period End">Окончание периода</value>
     <value column="Description" isTrl="N" original="Period Conversion Type">Period Conversion Type</value>
   </row>
   <row id="116" trl="N">
-    <value column="Name" isTrl="N" original="Standard Calendar Period">Standard Calendar Period</value>
+    <value column="Name" isTrl="Y" original="Standard Calendar Period">Стандартный календарный период</value>
     <value column="Description" isTrl="N" original="Periods with non overlapping calendar days">Periods with non overlapping calendar days</value>
   </row>
   <row id="117" trl="N">
-    <value column="Name" isTrl="N" original="Adjustment Period">Adjustment Period</value>
-    <value column="Description" isTrl="N" original="Period without calendar days">Period without calendar days</value>
+    <value column="Name" isTrl="Y" original="Adjustment Period">Период корректировок</value>
+    <value column="Description" isTrl="Y" original="Period without calendar days">Период без календарных дней</value>
   </row>
   <row id="118" trl="N">
     <value column="Name" isTrl="N" original="Account">Account</value>
@@ -1046,11 +1046,11 @@
   </row>
   <row id="274" trl="N">
     <value column="Name" isTrl="Y" original="Product">Товар</value>
-    <value column="Description" isTrl="N" original="Product">Product</value>
+    <value column="Description" isTrl="Y" original="Product">Товар</value>
   </row>
   <row id="275" trl="N">
-    <value column="Name" isTrl="N" original="Bus.Partner">Bus.Partner</value>
-    <value column="Description" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Name" isTrl="Y" original="Bus.Partner">Контрагент</value>
+    <value column="Description" isTrl="Y" original="Business Partner">Контрагент</value>
   </row>
   <row id="276" trl="N">
     <value column="Name" isTrl="N" original="Trx. Org">Trx. Org</value>
@@ -1065,27 +1065,27 @@
     <value column="Description" isTrl="N" original="Location To">Location To</value>
   </row>
   <row id="279" trl="N">
-    <value column="Name" isTrl="N" original="Sales Region">Sales Region</value>
-    <value column="Description" isTrl="N" original="Sales Region">Sales Region</value>
+    <value column="Name" isTrl="Y" original="Sales Region">Регион продаж</value>
+    <value column="Description" isTrl="Y" original="Sales Region">Регион продаж</value>
   </row>
   <row id="280" trl="N">
     <value column="Name" isTrl="Y" original="Project">Проект</value>
-    <value column="Description" isTrl="N" original="Project">Project</value>
+    <value column="Description" isTrl="Y" original="Project">Проект</value>
   </row>
   <row id="281" trl="N">
-    <value column="Name" isTrl="N" original="Campaign">Campaign</value>
-    <value column="Description" isTrl="N" original="Marketing Campaign">Marketing Campaign</value>
+    <value column="Name" isTrl="Y" original="Campaign">Кампания продвижения</value>
+    <value column="Description" isTrl="Y" original="Marketing Campaign">Кампания продвижения</value>
   </row>
   <row id="282" trl="N">
-    <value column="Name" isTrl="N" original="User 1">User 1</value>
-    <value column="Description" isTrl="N" original="User 1">User 1</value>
+    <value column="Name" isTrl="Y" original="User 1">Пользователь 1</value>
+    <value column="Description" isTrl="Y" original="User 1">Пользователь 1</value>
   </row>
   <row id="283" trl="N">
-    <value column="Name" isTrl="N" original="User 2">User 2</value>
-    <value column="Description" isTrl="N" original="User 2">User 2</value>
+    <value column="Name" isTrl="Y" original="User 2">Пользователь 2</value>
+    <value column="Description" isTrl="Y" original="User 2">Пользователь 2</value>
   </row>
   <row id="284" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="285" trl="N">
@@ -1097,15 +1097,15 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="287" trl="N">
-    <value column="Name" isTrl="N" original="Sales Region">Sales Region</value>
+    <value column="Name" isTrl="Y" original="Sales Region">Регион продаж</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="288" trl="N">
-    <value column="Name" isTrl="N" original="Product Category">Product Category</value>
+    <value column="Name" isTrl="Y" original="Product Category">Категория товара</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="289" trl="N">
-    <value column="Name" isTrl="N" original="Campaign">Campaign</value>
+    <value column="Name" isTrl="Y" original="Campaign">Кампания</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="297E89663206449C92A875D1060A0734" trl="N">
@@ -1665,31 +1665,31 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="448" trl="N">
-    <value column="Name" isTrl="N" original="Weekly">Weekly</value>
+    <value column="Name" isTrl="Y" original="Weekly">Неделя</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="449" trl="N">
-    <value column="Name" isTrl="N" original="Monthly">Monthly</value>
+    <value column="Name" isTrl="Y" original="Monthly">Месяц</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="450" trl="N">
-    <value column="Name" isTrl="N" original="Quarterly">Quarterly</value>
+    <value column="Name" isTrl="Y" original="Quarterly">Квартал</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="451" trl="N">
-    <value column="Name" isTrl="N" original="System">System</value>
+    <value column="Name" isTrl="Y" original="System">Система</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="452" trl="N">
-    <value column="Name" isTrl="N" original="Client">Client</value>
+    <value column="Name" isTrl="Y" original="Client">Подключение</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="453" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="454" trl="N">
-    <value column="Name" isTrl="N" original="Client+Organization">Client+Organization</value>
+    <value column="Name" isTrl="N" original="Client+Organization">Клиент+Организация</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="455" trl="N">
@@ -2245,7 +2245,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="57" trl="N">
-    <value column="Name" isTrl="N" original="All">All</value>
+    <value column="Name" isTrl="Y" original="All">Все</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="570" trl="N">

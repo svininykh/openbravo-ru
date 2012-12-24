@@ -309,42 +309,42 @@
     <value column="Help" isTrl="N" original="User Assignment tab allows to add users to a given role.">User Assignment tab allows to add users to a given role.</value>
   </row>
   <row id="121" trl="N">
-    <value column="Name" isTrl="N" original="User Roles">User Roles</value>
+    <value column="Name" isTrl="Y" original="User Roles">Роли пользователя</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit roles for the selected user.">Edit roles for the selected user.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Roles are the connection between users and access rights. Each user can have more than one role assigned,  however a user can only log into Openbravo by using just one role. ">Roles are the connection between users and access rights. Each user can have more than one role assigned,  however a user can only log into Openbravo by using just one role. </value>
   </row>
   <row id="127" trl="N">
-    <value column="Name" isTrl="N" original="Conversion Rates">Conversion Rates</value>
+    <value column="Name" isTrl="Y" original="Conversion Rates">Курсы обмена</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Conversion rates tab list the available conversion rates for a given currency.">Conversion rates tab list the available conversion rates for a given currency.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Conversion rates tab list the available conversion rates for a given currency.">Conversion rates tab list the available conversion rates for a given currency.</value>
   </row>
   <row id="128" trl="N">
-    <value column="Name" isTrl="N" original="Calendar">Calendar</value>
+    <value column="Name" isTrl="Y" original="Calendar">Календарь</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars to be used by one or all your organizations.">Create multiple fiscal calendars to be used by one or all your organizations.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Calendar window allows to create and maintain as many fiscal calendars as required.">Calendar window allows to create and maintain as many fiscal calendars as required.</value>
   </row>
   <row id="129" trl="N">
-    <value column="Name" isTrl="N" original="Year">Year</value>
+    <value column="Name" isTrl="Y" original="Year">Год</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create fiscal years with the possibility of automatically adding fiscal periods.">Create fiscal years with the possibility of automatically adding fiscal periods.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Year tab allows to create as many fiscal years as required within a calendar. ">Year tab allows to create as many fiscal years as required within a calendar. </value>
   </row>
   <row id="130" trl="N">
-    <value column="Name" isTrl="N" original="Period">Period</value>
+    <value column="Name" isTrl="Y" original="Period">Период</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit fiscal periods according to your needs, as well as open/close selected periods.">Create and edit fiscal periods according to your needs, as well as open/close selected periods.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The accounting periods belonging to a year can be created manually and/or automatically by running the process &quot;Create Periods&quot;.">The accounting periods belonging to a year can be created manually and/or automatically by running the process "Create Periods".</value>
   </row>
   <row id="131" trl="N">
-    <value column="Name" isTrl="Y" original="Non Business Day">Не рабочий день</value>
+    <value column="Name" isTrl="Y" original="Non Business Day">Нерабочие дни</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define non business days for a selected fiscal calendar.">Define non business days for a selected fiscal calendar.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -358,14 +358,14 @@
     <value column="Help" isTrl="N" original="Element value tab list every chart of account element from the chart of accounts headings to the sub-accounts.">Element value tab list every chart of account element from the chart of accounts headings to the sub-accounts.</value>
   </row>
   <row id="133" trl="N">
-    <value column="Name" isTrl="N" original="Unit of Measure">Unit of Measure</value>
+    <value column="Name" isTrl="Y" original="Unit of Measure">Единицы измерения</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a non monetary unit of measure.">Create a non monetary unit of measure.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Products of any type are managed in non-monetary units of measure.">Products of any type are managed in non-monetary units of measure.</value>
   </row>
   <row id="134" trl="N">
-    <value column="Name" isTrl="N" original="Conversion">Conversion</value>
+    <value column="Name" isTrl="Y" original="Conversion">Преобразование</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit the conversion rate of one unit of measure into another one.">Edit the conversion rate of one unit of measure into another one.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -379,21 +379,21 @@
     <value column="Help" isTrl="N" original="Lists all the modules that are form part of the dependencies for the module.">Lists all the modules that are form part of the dependencies for the module.</value>
   </row>
   <row id="135" trl="N">
-    <value column="Name" isTrl="N" original="Country">Country</value>
+    <value column="Name" isTrl="Y" original="Country">Страна</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define countries to be used in the application.">Define countries to be used in the application.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="This window allows to visualize and/or to create and maintain the countries and the regions to be used in daily business activities.">This window allows to visualize and/or to create and maintain the countries and the regions to be used in daily business activities.</value>
   </row>
   <row id="136" trl="N">
-    <value column="Name" isTrl="N" original="Region">Region</value>
+    <value column="Name" isTrl="Y" original="Region">Регион</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define regions to be used in the application.">Define regions to be used in the application.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Regions tab allows to visualize and/or to create and maintain the regions of any type of a country.">Regions tab allows to visualize and/or to create and maintain the regions of any type of a country.</value>
   </row>
   <row id="143" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="CommitWarning" isTrl="N" original="When adding a new organization, you must re-login to be able to access the new organization!"/>
     <value column="Description" isTrl="N" original="Create organizations to manage your company's organizational structure.">Create organizations to manage your company's organizational structure.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -414,7 +414,7 @@
     <value column="Help" isTrl="N" original="Document sequence window allows to define how document sequences are going to behave.">Document sequence window allows to define how document sequences are going to behave.</value>
   </row>
   <row id="151" trl="N">
-    <value column="Name" isTrl="N" original="Currency">Currency</value>
+    <value column="Name" isTrl="Y" original="Currency">Валюта</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Currency window allows to create and configure the currencies to use in monetary transaction.">Currency window allows to create and configure the currencies to use in monetary transaction.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -659,7 +659,7 @@
     <value column="Help" isTrl="N" original="Results of the executed custom queries">Results of the executed custom queries</value>
   </row>
   <row id="1EB39A39CFDB402FBDA86AB8BAF2EDB4" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add price lists in order to include or exclude them from a selected price adjustment.">Add price lists in order to include or exclude them from a selected price adjustment.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -673,14 +673,14 @@
     <value column="Help" isTrl="N" original="General accounts tab allows you to define accounts to be used in balancing entries and posting fiscal close. ">General accounts tab allows you to define accounts to be used in balancing entries and posting fiscal close. </value>
   </row>
   <row id="201" trl="N">
-    <value column="Name" isTrl="N" original="Sales Campaign">Sales Campaign</value>
+    <value column="Name" isTrl="Y" original="Sales Campaign">Кампания продвижения</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define a sales campaign to be used in the sales process.">Define a sales campaign to be used in the sales process.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Define a sales campaign to be used in the sales process.">Define a sales campaign to be used in the sales process.</value>
   </row>
   <row id="202" trl="N">
-    <value column="Name" isTrl="N" original="Sales Channel">Sales Channel</value>
+    <value column="Name" isTrl="Y" original="Sales Channel">Канал продаж</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define a sales channel to be used in the sales process.">Define a sales channel to be used in the sales process.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -708,7 +708,7 @@
     <value column="Help" isTrl="N" original="Add and edit document types to be included in the accounting process during the selected fiscal period.">Add and edit document types to be included in the accounting process during the selected fiscal period.</value>
   </row>
   <row id="206" trl="N">
-    <value column="Name" isTrl="N" original="Sales Region">Sales Region</value>
+    <value column="Name" isTrl="Y" original="Sales Region">Регион продаж</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define a sales region to be used in the sales process.">Define a sales region to be used in the sales process.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1929,7 +1929,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Currencies can be translated to any language if required.">Currencies can be translated to any language if required.</value>
   </row>
   <row id="560493C813AE4B94A2425E3E4B62C525" trl="N">
-    <value column="Name" isTrl="N" original="Discounts and Promotions">Discounts and Promotions</value>
+    <value column="Name" isTrl="Y" original="Discounts and Promotions">Скидки и акции</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View applied price adjustments for each order line.">View applied price adjustments for each order line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2063,9 +2063,9 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add or edit toolsets used to complete a specified part of a work requirement.">Add or edit toolsets used to complete a specified part of a work requirement.</value>
   </row>
   <row id="79C291C04E5C48B2BB3A4779E44C1291" trl="N">
-    <value column="Name" isTrl="N" original="Discounts and Promotions Types">Discounts and Promotions Types</value>
+    <value column="Name" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Discounts and Promotions Types">Discounts and Promotions Types</value>
+    <value column="Description" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Types define how Discounts and Promotions  behave. Modules can add new types by providing implementation for them.">Types define how Discounts and Promotions  behave. Modules can add new types by providing implementation for them.</value>
   </row>
@@ -2077,7 +2077,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800000" trl="N">
-    <value column="Name" isTrl="N" original="UOM">UOM</value>
+    <value column="Name" isTrl="Y" original="UOM">Единицы измерения</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add a unit of measurement to this product.">Add a unit of measurement to this product.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2091,7 +2091,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define new inputs for tabs in order to change their behaviour.">Define new inputs for tabs in order to change their behaviour.</value>
   </row>
   <row id="800002" trl="N">
-    <value column="Name" isTrl="N" original="Service Project">Service Project</value>
+    <value column="Name" isTrl="Y" original="Service Project">Сервисный проект</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add service projects for which your products will be needed.">Add service projects for which your products will be needed.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2434,7 +2434,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define assets owned by your company and create an amortization for them.">Define assets owned by your company and create an amortization for them.</value>
   </row>
   <row id="800079" trl="N">
-    <value column="Name" isTrl="N" original="Discounts and Promotions">Discounts and Promotions</value>
+    <value column="Name" isTrl="Y" original="Discounts and Promotions">Скидки и акции</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Definition of Discounts and Promotions">Definition of Discounts and Promotions</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3050,28 +3050,28 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create an obligation for accounting to pay for all or part of your purchase order amount in advance.">Create an obligation for accounting to pay for all or part of your purchase order amount in advance.</value>
   </row>
   <row id="800221" trl="N">
-    <value column="Name" isTrl="N" original="Discounts and Promotions">Discounts and Promotions</value>
+    <value column="Name" isTrl="Y" original="Discounts and Promotions">Скидки и акции</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View applied Discounts and Promotions for each line.">View applied Discounts and Promotions for each line.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="View applied Discounts and Promotions for each line.">View applied Discounts and Promotions for each line.</value>
   </row>
   <row id="800222" trl="N">
-    <value column="Name" isTrl="N" original="Discounts and Promotions">Discounts and Promotions</value>
+    <value column="Name" isTrl="Y" original="Discounts and Promotions">Скидки и акции</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View applied Discounts and Promotions for each line.">View applied Discounts and Promotions for each line.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="View applied Discounts and Promotions for each line.">View applied Discounts and Promotions for each line.</value>
   </row>
   <row id="800223" trl="N">
-    <value column="Name" isTrl="N" original="Discounts and Promotions">Discounts and Promotions</value>
+    <value column="Name" isTrl="Y" original="Discounts and Promotions">Скидки и акции</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View applied Discounts and Promotions for each line.">View applied Discounts and Promotions for each line.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="View applied Discounts and Promotions for each line.">View applied Discounts and Promotions for each line.</value>
   </row>
   <row id="800224" trl="N">
-    <value column="Name" isTrl="N" original="Discounts and Promotions">Discounts and Promotions</value>
+    <value column="Name" isTrl="Y" original="Discounts and Promotions">Скидки и акции</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View applied Discounts and Promotions for each line.">View applied Discounts and Promotions for each line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3288,7 +3288,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add products to be included in your plan.  Each product is shown on its own line.">Add products to be included in your plan.  Each product is shown on its own line.</value>
   </row>
   <row id="800261" trl="N">
-    <value column="Name" isTrl="N" original="Setup">Setup</value>
+    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a new accounting report.">Create a new accounting report.</value>
     <value column="Filtername" isTrl="N" original=""/>

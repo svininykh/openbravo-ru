@@ -2822,9 +2822,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1273" trl="N">
-    <value column="Name" isTrl="N" original="Line Discount">Line Discount</value>
-    <value column="PrintName" isTrl="N" original="Discount">Discount</value>
-    <value column="Description" isTrl="N" original="Line Discount Amount">Line Discount Amount</value>
+    <value column="Name" isTrl="Y" original="Line Discount">Скидка по строке</value>
+    <value column="PrintName" isTrl="Y" original="Discount">Скидка</value>
+    <value column="Description" isTrl="Y" original="Line Discount Amount">Размер скидки по строке</value>
     <value column="Help" isTrl="N" original="Indicates the discount for this line as an amount.">Indicates the discount for this line as an amount.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -3342,8 +3342,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1395" trl="N">
-    <value column="Name" isTrl="N" original="Discount Amount">Discount Amount</value>
-    <value column="PrintName" isTrl="N" original="Discount">Discount</value>
+    <value column="Name" isTrl="Y" original="Discount Amount">Размер скидки</value>
+    <value column="PrintName" isTrl="Y" original="Discount">Скидка</value>
     <value column="Description" isTrl="N" original="The Discount Amount indicates the discount amount for a document or line.">The Discount Amount indicates the discount amount for a document or line.</value>
     <value column="Help" isTrl="N" original="The Discount Amount indicates the discount amount for a document or line.">The Discount Amount indicates the discount amount for a document or line.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4859,8 +4859,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1711" trl="N">
-    <value column="Name" isTrl="N" original="Discount Type">Discount Type</value>
-    <value column="PrintName" isTrl="N" original="Discount Type">Discount Type</value>
+    <value column="Name" isTrl="Y" original="Discount Type">Тип скидки</value>
+    <value column="PrintName" isTrl="Y" original="Discount Type">Тип скидки</value>
     <value column="Description" isTrl="N" original="Type of trade discount calculation">Type of trade discount calculation</value>
     <value column="Help" isTrl="N" original="Type of procedure used to calculate the trade discount percentage">Type of procedure used to calculate the trade discount percentage</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4889,8 +4889,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1714" trl="N">
-    <value column="Name" isTrl="N" original="Price List Schema">Price List Schema</value>
-    <value column="PrintName" isTrl="N" original="Discount Schema">Discount Schema</value>
+    <value column="Name" isTrl="Y" original="Price List Schema">Схема скидок</value>
+    <value column="PrintName" isTrl="Y" original="Discount Schema">Схема скидок</value>
     <value column="Description" isTrl="N" original="A set of guidelines applied to current Price List in order to create a price list.">A set of guidelines applied to current Price List in order to create a price list.</value>
     <value column="Help" isTrl="N" original="After calculation of the (standard) price, the trade discount percentage is calculated and applied resulting in the final price.">After calculation of the (standard) price, the trade discount percentage is calculated and applied resulting in the final price.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4899,8 +4899,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1716" trl="N">
-    <value column="Name" isTrl="N" original="Discount Pricelist">Discount Pricelist</value>
-    <value column="PrintName" isTrl="N" original="Discount Pricelist">Discount Pricelist</value>
+    <value column="Name" isTrl="Y" original="Discount Pricelist">Скидка прейскуранта</value>
+    <value column="PrintName" isTrl="Y" original="Discount Pricelist">Скидка прейскуранта</value>
     <value column="Description" isTrl="N" original="Line of the pricelist trade discount schema">Line of the pricelist trade discount schema</value>
     <value column="Help" isTrl="N" original="For the Pricelist Discount Type, you enter how the list, standard and limit price is calculated.">For the Pricelist Discount Type, you enter how the list, standard and limit price is calculated.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6230,8 +6230,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="203" trl="N">
-    <value column="Name" isTrl="N" original="Non Business Day">Non Business Day</value>
-    <value column="PrintName" isTrl="N" original="Non Business Day">Non Business Day</value>
+    <value column="Name" isTrl="Y" original="Non Business Day">Нерабочий день</value>
+    <value column="PrintName" isTrl="Y" original="Non Business Day">Нерабочий день</value>
     <value column="Description" isTrl="N" original="Day on which business is not transacted">Day on which business is not transacted</value>
     <value column="Help" isTrl="N" original="The Non Business Day identifies a day that should not be considered a day when business is transacted">The Non Business Day identifies a day that should not be considered a day when business is transacted</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6590,8 +6590,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="209" trl="N">
-    <value column="Name" isTrl="N" original="Region">Region</value>
-    <value column="PrintName" isTrl="N" original="Region">Region</value>
+    <value column="Name" isTrl="Y" original="Region">Регион</value>
+    <value column="PrintName" isTrl="Y" original="Region">Регион</value>
     <value column="Description" isTrl="N" original="An area of a specific country.">An area of a specific country.</value>
     <value column="Help" isTrl="N" original="The Region identifies a unique Region for this Country.">The Region identifies a unique Region for this Country.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6600,8 +6600,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="210" trl="N">
-    <value column="Name" isTrl="N" original="Sales Region">Sales Region</value>
-    <value column="PrintName" isTrl="N" original="Sales Region">Sales Region</value>
+    <value column="Name" isTrl="Y" original="Sales Region">Регион продаж</value>
+    <value column="PrintName" isTrl="Y" original="Sales Region">Sales Region</value>
     <value column="Description" isTrl="N" original="A defined section of the world where sales efforts will be focused.">A defined section of the world where sales efforts will be focused.</value>
     <value column="Help" isTrl="N" original="The Sales Region indicates a specific area of sales coverage.">The Sales Region indicates a specific area of sales coverage.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6910,9 +6910,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="223" trl="N">
-    <value column="Name" isTrl="N" original="Year">Year</value>
-    <value column="PrintName" isTrl="N" original="Year">Year</value>
-    <value column="Description" isTrl="N" original="Calendar Year">Calendar Year</value>
+    <value column="Name" isTrl="Y" original="Year">Год</value>
+    <value column="PrintName" isTrl="Y" original="Year">Год</value>
+    <value column="Description" isTrl="Y" original="Calendar Year">Календарь на год</value>
     <value column="Help" isTrl="N" original="The Year uniquely identifies an accounting year for a calendar.">The Year uniquely identifies an accounting year for a calendar.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7290,8 +7290,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="280" trl="N">
-    <value column="Name" isTrl="N" original="Discount %">Discount %</value>
-    <value column="PrintName" isTrl="N" original="Discount %">Discount %</value>
+    <value column="Name" isTrl="Y" original="Discount %">Скидка %</value>
+    <value column="PrintName" isTrl="Y" original="Discount %">Скидка %</value>
     <value column="Description" isTrl="N" original="The proportional discount given to an item, without respect to any previously defined discounts.">The proportional discount given to an item, without respect to any previously defined discounts.</value>
     <value column="Help" isTrl="N" original="The Discount indicates the discount applied or taken as a percentage.">The Discount indicates the discount applied or taken as a percentage.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8996,8 +8996,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="498" trl="N">
-    <value column="Name" isTrl="N" original="Password">Password</value>
-    <value column="PrintName" isTrl="N" original="Password">Password</value>
+    <value column="Name" isTrl="Y" original="Password">Пароль</value>
+    <value column="PrintName" isTrl="Y" original="Password">Пароль</value>
     <value column="Description" isTrl="N" original="A secret code used to allow access to a specified window or tab.">A secret code used to allow access to a specified window or tab.</value>
     <value column="Help" isTrl="N" original="The Password indicates the Password for this User Id.  Passwords are required to identify authorized users.">The Password indicates the Password for this User Id.  Passwords are required to identify authorized users.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11909,8 +11909,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="633" trl="N">
-    <value column="Name" isTrl="N" original="Row (X)">Row (X)</value>
-    <value column="PrintName" isTrl="N" original="X">X</value>
+    <value column="Name" isTrl="Y" original="Row (X)">Ось (X)</value>
+    <value column="PrintName" isTrl="Y" original="X">X</value>
     <value column="Description" isTrl="N" original="X dimension, e.g., Aisle">X dimension, e.g., Aisle</value>
     <value column="Help" isTrl="N" original="The X dimension indicates the Aisle a product is located in.">The X dimension indicates the Aisle a product is located in.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11919,9 +11919,9 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="634" trl="N">
-    <value column="Name" isTrl="N" original="EDI Code">EDI Code</value>
-    <value column="PrintName" isTrl="N" original="EDI Code">EDI Code</value>
-    <value column="Description" isTrl="N" original="UOM EDI Code">UOM EDI Code</value>
+    <value column="Name" isTrl="Y" original="EDI Code">Код EDI </value>
+    <value column="PrintName" isTrl="Y" original="EDI Code">Код EDI</value>
+    <value column="Description" isTrl="Y" original="UOM EDI Code">Код EDI для единиц измерения.</value>
     <value column="Help" isTrl="N" original="The Unit of Measure Code indicates the EDI X12 Code Data Element 355 (Unit or Basis for Measurement)">The Unit of Measure Code indicates the EDI X12 Code Data Element 355 (Unit or Basis for Measurement)</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -11929,8 +11929,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="635" trl="N">
-    <value column="Name" isTrl="N" original="Stack (Y)">Stack (Y)</value>
-    <value column="PrintName" isTrl="N" original="Y">Y</value>
+    <value column="Name" isTrl="Y" original="Stack (Y)">Ось (Y)</value>
+    <value column="PrintName" isTrl="Y" original="Y">Y</value>
     <value column="Description" isTrl="N" original="Y dimension, e.g., Bin">Y dimension, e.g., Bin</value>
     <value column="Help" isTrl="N" original="The Y dimension indicates the Bin a product is located in">The Y dimension indicates the Bin a product is located in</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11939,8 +11939,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="636" trl="N">
-    <value column="Name" isTrl="N" original="Fiscal Year">Fiscal Year</value>
-    <value column="PrintName" isTrl="N" original="Year">Year</value>
+    <value column="Name" isTrl="Y" original="Fiscal Year">Налоговый год</value>
+    <value column="PrintName" isTrl="Y" original="Year">Налоговый год</value>
     <value column="Description" isTrl="N" original="Calendar Year">Calendar Year</value>
     <value column="Help" isTrl="N" original="The Year identifies the accounting year for a calendar.">The Year identifies the accounting year for a calendar.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11959,8 +11959,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="637" trl="N">
-    <value column="Name" isTrl="N" original="Level (Z)">Level (Z)</value>
-    <value column="PrintName" isTrl="N" original="Z">Z</value>
+    <value column="Name" isTrl="Y" original="Level (Z)">Уровень (Z)</value>
+    <value column="PrintName" isTrl="Y" original="Z">Z</value>
     <value column="Description" isTrl="N" original="Z dimension, e.g., Level">Z dimension, e.g., Level</value>
     <value column="Help" isTrl="N" original="The Z dimension indicates the Level a product is located in.">The Z dimension indicates the Level a product is located in.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11979,9 +11979,9 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="6393DB0FCE8A4528A39135C54581DD88" trl="N">
-    <value column="Name" isTrl="N" original="Status">Статус</value>
+    <value column="Name" isTrl="N" original="Status">Status</value>
     <value column="PrintName" isTrl="N" original="Status">Status</value>
-    <value column="Description" isTrl="N" original="Identifies the Status of the document">Определяет состояние или положение оплаты</value>
+    <value column="Description" isTrl="N" original="Identifies the Status of the document">Identifies the Status of the document</value>
     <value column="Help" isTrl="N" original="Identifies the Status of the document">Identifies the Status of the document</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -14874,15 +14874,15 @@ For example, if you want to create different invoices for each ship location for
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="800267" trl="N">
-    <value column="Name" isTrl="N" original="Discount Amount">Discount Amount</value>
-    <value column="PrintName" isTrl="N" original="Discount Amt">Discount Amt</value>
-    <value column="Description" isTrl="N" original="Fixed discount amount">Fixed discount amount</value>
-    <value column="Help" isTrl="N" original="Fixed discount amount">Fixed discount amount</value>
-    <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original=""/>
-    <value column="PO_PrintName" isTrl="N" original=""/>
+  <row id="800267" trl="Y">
+    <value column="Name" isTrl="Y" original="Discount Amount">Размер скидки</value>
+    <value column="PrintName" isTrl="Y" original="Discount Amt">Размер скидки</value>
+    <value column="Description" isTrl="Y" original="Fixed discount amount">Фиксированный размер скидки</value>
+    <value column="Help" isTrl="Y" original="Fixed discount amount">Фиксированный размер скидки</value>
+    <value column="PO_Description" isTrl="Y" original=""/>
+    <value column="PO_Help" isTrl="Y" original=""/>
+    <value column="PO_Name" isTrl="Y" original=""/>
+    <value column="PO_PrintName" isTrl="Y" original=""/>
   </row>
   <row id="800268" trl="N">
     <value column="Name" isTrl="N" original="Included BP Categories">Included BP Categories</value>
@@ -17198,7 +17198,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800670" trl="N">
-    <value column="Name" isTrl="N" original="Discount per Unit">Discount per Unit</value>
+    <value column="Name" isTrl="Y" original="Discount per Unit">Скидка на единицу</value>
     <value column="PrintName" isTrl="N" original="Amount offer">Amount offer</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Defines the amount per that is discounted per unit by this promotion. If the used price list includes taxes this discount applies to gross unit, whereas if it doesn't include taxes, it applies to net unit price.">Defines the amount per that is discounted per unit by this promotion. If the used price list includes taxes this discount applies to gross unit, whereas if it doesn't include taxes, it applies to net unit price.</value>
