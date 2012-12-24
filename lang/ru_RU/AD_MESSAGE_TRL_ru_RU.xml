@@ -422,15 +422,15 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600005" trl="N">
-    <value column="MsgText" isTrl="N" original="Create client process completed successfully">Create client process completed successfully</value>
+    <value column="MsgText" isTrl="Y" original="Create client process completed successfully">Процесс создания клиента прошёл успешно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600006" trl="N">
-    <value column="MsgText" isTrl="N" original="Create accounting process completed successfully">Create accounting process completed successfully</value>
+    <value column="MsgText" isTrl="Y" original="Create accounting process completed successfully">Процесс создания плана счетов прошёл успешно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600007" trl="N">
-    <value column="MsgText" isTrl="N" original="Create document types process completed successfully">Create document types process completed successfully</value>
+    <value column="MsgText" isTrl="Y" original="Create document types process completed successfully">Процесс создания типовых документов прошёл успешно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600008" trl="N">
@@ -2541,7 +2541,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="322" trl="N">
-    <value column="MsgText" isTrl="N" original="Loading ....">Loading ....</value>
+    <value column="MsgText" isTrl="Y" original="Loading ....">Загрузка ....</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="32218842A1E740BE9E9FFAEC1B446322" trl="N">
@@ -2553,11 +2553,11 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="323" trl="N">
-    <value column="MsgText" isTrl="N" original="Location/Address">Location/Address</value>
+    <value column="MsgText" isTrl="Y" original="Location/Address">Расположение/Адрес</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="324" trl="N">
-    <value column="MsgText" isTrl="N" original="Enter new Location/Address">Enter new Location/Address</value>
+    <value column="MsgText" isTrl="Y" original="Enter new Location/Address">Ввести новое расположение/адрес</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="325" trl="N">
@@ -2777,7 +2777,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="366" trl="N">
-    <value column="MsgText" isTrl="N" original="OK">OK</value>
+    <value column="MsgText" isTrl="Y" original="OK">Подтвердить</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="367" trl="N">
@@ -3317,11 +3317,11 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="465" trl="N">
-    <value column="MsgText" isTrl="N" original="Reload Current Page">Reload Current Page</value>
+    <value column="MsgText" isTrl="Y" original="Reload Current Page">Перезагрузка текущей страницы</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="466" trl="N">
-    <value column="MsgText" isTrl="N" original="Refresh all">Refresh all</value>
+    <value column="MsgText" isTrl="Y" original="Refresh all">Обновить всё</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="466602FE48454BF588E9458DFB75CB16" trl="N">

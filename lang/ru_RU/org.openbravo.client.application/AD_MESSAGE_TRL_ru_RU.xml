@@ -101,7 +101,7 @@
     <value column="MsgTip" isTrl="N" original="Label for 'Add New' type button">Label for 'Add New' type button</value>
   </row>
   <row id="36611160D1404304930C24E2EA3C0434" trl="N">
-    <value column="MsgText" isTrl="N" original="Select a parent record in order to view its children here.">Select a parent record in order to view its children here.</value>
+    <value column="MsgText" isTrl="Y" original="Select a parent record in order to view its children here.">Выберите родительскую запись, чтобы увидеть дочернии записи.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="366664A3D4334A33ACC382F777863945" trl="N">
@@ -566,7 +566,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812FC4FC29012FC50394FC000A" trl="N">
-    <value column="MsgText" isTrl="N" original="Confirm Deletion">Confirm Deletion</value>
+    <value column="MsgText" isTrl="Y" original="Confirm Deletion">Подтвердить удаление</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081302762E30130278B34E4000D" trl="N">
@@ -679,7 +679,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131509CDA013150B85F370024" trl="N">
-    <value column="MsgText" isTrl="N" original="Close">Close</value>
+    <value column="MsgText" isTrl="Y" original="Close">Закрыть</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131509CDA013150B8CC730027" trl="N">
@@ -691,7 +691,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131517E5F0131523F2F9000C1" trl="N">
-    <value column="MsgText" isTrl="N" original="One or more rows could not be saved. Fix the problem or &lt;a href=&quot;#&quot; style=&quot;color: green;&quot; onclick=&quot;window['%0'].undo();&quot;&gt;cancel all pending changes&lt;/a&gt; to return to the last saved state.">One or more rows could not be saved. Fix the problem or &lt;a href="#" style="color: green;" onclick="window['%0'].undo();"&gt;cancel all pending changes&lt;/a&gt; to return to the last saved state.</value>
+    <value column="MsgText" isTrl="N" original="One or more rows could not be saved. Fix the problem or &lt;a href=&quot;#&quot; style=&quot;color: green;&quot; onclick=&quot;window['%0'].undo();&quot;&gt;cancel all pending changes&lt;/a&gt; to return to the last saved state.">Одна или больше строк не могут быть сохранены. Исправьте проблему или &lt;a href="#" style="color: green;" onclick="window['%0'].undo();"&gt;отмените все сделаные изменения&lt;/a&gt; для возврата к сохранённой позиции.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081319427300131943A5EFB0019" trl="N">
@@ -747,27 +747,27 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA32652012DA353DBCA004D" trl="N">
-    <value column="MsgText" isTrl="N" original="Click to (un)select this record">Click to (un)select this record</value>
+    <value column="MsgText" isTrl="Y" original="Click to (un)select this record">Нажмите для выбора данной записи</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA32652012DA35441D30054" trl="N">
-    <value column="MsgText" isTrl="N" original="Click to edit the record in the grid">Click to edit the record in the grid</value>
+    <value column="MsgText" isTrl="Y" original="Click to edit the record in the grid">Нажмите для редактирования записи в строке</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA32652012DA354D026005C" trl="N">
-    <value column="MsgText" isTrl="N" original="Click to open the record in a form">Click to open the record in a form</value>
+    <value column="MsgText" isTrl="Y" original="Click to open the record in a form">Нажмите для редактирования записи в форме</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA32652012DA3553A250063" trl="N">
-    <value column="MsgText" isTrl="N" original="Click to cancel your changes">Click to cancel your changes</value>
+    <value column="MsgText" isTrl="Y" original="Click to cancel your changes">Нажмите для отмены ваших изменений</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA32652012DA3559052006C" trl="N">
-    <value column="MsgText" isTrl="N" original="Click to save your changes to the database">Click to save your changes to the database</value>
+    <value column="MsgText" isTrl="Y" original="Click to save your changes to the database">Нажмите для сохранения ваших изменений в базе данных</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA37EE2012DA38E84E4000F" trl="N">
-    <value column="MsgText" isTrl="N" original="Click to (un)select all records">Click to (un)select all records</value>
+    <value column="MsgText" isTrl="Y" original="Click to (un)select all records">Нажмите для выбора всех записей</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA54F20012DA70AEBC9006B" trl="N">
@@ -775,7 +775,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA54F20012DA70BBB56006F" trl="N">
-    <value column="MsgText" isTrl="N" original="Clear Filter(s)">Очистить фильтр(ы)</value>
+    <value column="MsgText" isTrl="Y" original="Clear Filter(s)">Очистить фильтр(ы)</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA54F20012DA70C104A0072" trl="N">
@@ -827,11 +827,11 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E0CE808012E0CF95450002B" trl="N">
-    <value column="MsgText" isTrl="N" original="The parent record is an unsaved new record, save it to create child records.">The parent record is an unsaved new record, save it to create child records.</value>
+    <value column="MsgText" isTrl="Y" original="The parent record is an unsaved new record, save it to create child records.">Родительская запись создана и не сохранена, сохраните её и создайте дочернюю запись.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E0CE808012E0D37FF720093" trl="N">
-    <value column="MsgText" isTrl="N" original="Are you sure that you want to logout from the application?">Are you sure that you want to logout from the application?</value>
+    <value column="MsgText" isTrl="Y" original="Are you sure that you want to logout from the application?">Вы уверены что хотите заверщить текущую сессию?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E0F2FB1012E0F3248D5000B" trl="N">
@@ -1146,7 +1146,7 @@ Please &lt;b&gt;logout&lt;/b&gt; from the application unless your access is auth
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818130EB258F0130EB26AFE20009" trl="N">
-    <value column="MsgText" isTrl="N" original="Click to scroll to the first selected row">Click to scroll to the first selected row</value>
+    <value column="MsgText" isTrl="Y" original="Click to scroll to the first selected row">Нажмите для промотки к первой выбраной строке</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818130FECDFE0130FEDA5DF50012" trl="N">
