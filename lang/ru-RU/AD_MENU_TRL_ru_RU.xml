@@ -17,8 +17,8 @@
     <value column="Description" isTrl="N" original="Pareto Product Report Legacy">Pareto Product Report Legacy</value>
   </row>
   <row id="1002100000" trl="N">
-    <value column="Name" isTrl="N" original="Withholding">Withholding</value>
-    <value column="Description" isTrl="N" original="Withholding Rules">Withholding Rules</value>
+    <value column="Name" isTrl="Y" original="Withholding">Правила удержания</value>
+    <value column="Description" isTrl="Y" original="Withholding Rules">Правила удержания</value>
   </row>
   <row id="1002100003" trl="N">
     <value column="Name" isTrl="N" original="Tax Register Type">Tax Register Type</value>
@@ -69,7 +69,7 @@
     <value column="Description" isTrl="N" original="Define conversion rates to be used for currencies defined in the application.">Define conversion rates to be used for currencies defined in the application.</value>
   </row>
   <row id="104" trl="N">
-    <value column="Name" isTrl="Y" original="Fiscal Calendar">Налоговый календарь</value>
+    <value column="Name" isTrl="Y" original="Fiscal Calendar">Фискальный календарь</value>
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars and periods for accounting purposes.">Create multiple fiscal calendars and periods for accounting purposes.</value>
   </row>
   <row id="105" trl="N">
@@ -349,7 +349,7 @@
     <value column="Description" isTrl="N" original="Product Transaction Summary">Product Transaction Summary</value>
   </row>
   <row id="1C00140BAFA946E3A63F1AD557A35F45" trl="N">
-    <value column="Name" isTrl="N" original="Open/Close Period Control">Open/Close Period Control</value>
+    <value column="Name" isTrl="Y" original="Open/Close Period Control">Контроль открытия/закрытия периода</value>
     <value column="Description" isTrl="N" original="Open or close periods for the allowed organizations">Open or close periods for the allowed organizations</value>
   </row>
   <row id="1E5FB50EFD5D43BDA4AB1879707D9003" trl="N">
@@ -673,7 +673,7 @@
     <value column="Description" isTrl="N" original="Reset Cache of the System ** Close all Windows before proceeding **">Reset Cache of the System ** Close all Windows before proceeding **</value>
   </row>
   <row id="384" trl="N">
-    <value column="Name" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Name" isTrl="Y" original="Accounting Dimension">Субконто по счетам</value>
     <value column="Description" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
   </row>
   <row id="392" trl="N">
@@ -1261,15 +1261,15 @@
     <value column="Description" isTrl="N" original="Mater Data is a central repository of data where  key information such as business partners and products can be created, configured and therefore shared accross other Openbravo application areas.">Mater Data is a central repository of data where  key information such as business partners and products can be created, configured and therefore shared accross other Openbravo application areas.</value>
   </row>
   <row id="800238" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Setup">Business Partner Setup</value>
+    <value column="Name" isTrl="Y" original="Business Partner Setup">Настройки контрагента</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800239" trl="N">
-    <value column="Name" isTrl="N" original="Product Setup">Product Setup</value>
+    <value column="Name" isTrl="Y" original="Product Setup">Настройки товара</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800240" trl="N">
-    <value column="Name" isTrl="N" original="Pricing">Pricing</value>
+    <value column="Name" isTrl="Y" original="Pricing">Ценообразование</value>
     <value column="Description" isTrl="N" original="Open a folder where you can edit prices related to your products.">Open a folder where you can edit prices related to your products.</value>
   </row>
   <row id="800242" trl="N">

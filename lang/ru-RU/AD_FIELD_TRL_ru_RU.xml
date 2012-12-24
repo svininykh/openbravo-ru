@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_FIELD" version="">
-  <row id="001B5B2BFC064FA4AEDD5B20518B2DD1" trl="N">
-    <value column="Name" isTrl="N" original="Amount Currently Due">Amount Currently Due</value>
-    <value column="Description" isTrl="N" original="Due Amount">Due Amount</value>
-    <value column="Help" isTrl="N" original="Total amount due">Total amount due</value>
+  <row id="001B5B2BFC064FA4AEDD5B20518B2DD1" trl="Y">
+    <value column="Name" isTrl="Y" original="Amount Currently Due">Сумма текущей задолженности</value>
+    <value column="Description" isTrl="Y" original="Due Amount">Сумма текущей задолженности</value>
+    <value column="Help" isTrl="Y" original="Total amount due">Сумма текущей задолженности</value>
   </row>
   <row id="030214D33DE44805B2BA9139944B0BE1" trl="N">
     <value column="Name" isTrl="N" original="RM receipt">RM receipt</value>
@@ -11,7 +11,7 @@
     <value column="Help" isTrl="N" original="The Shipment ID indicates the unique document for this shipment.">The Shipment ID indicates the unique document for this shipment.</value>
   </row>
   <row id="0554CE00C06447F2B33889030BC040E3" trl="N">
-    <value column="Name" isTrl="N" original="Net List Price">Net List Price</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена по прейскуранту</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>
@@ -25,10 +25,10 @@
     <value column="Description" isTrl="N" original="Account used upon reconciliation">Account used upon reconciliation</value>
     <value column="Help" isTrl="N" original="Account used upon reconciliation">Account used upon reconciliation</value>
   </row>
-  <row id="0F5888C3B41142FFAAC11D68CD176C05" trl="N">
-    <value column="Name" isTrl="N" original="Amount Currently Due">Amount Currently Due</value>
-    <value column="Description" isTrl="N" original="Due Amount">Due Amount</value>
-    <value column="Help" isTrl="N" original="Total amount due">Total amount due</value>
+  <row id="0F5888C3B41142FFAAC11D68CD176C05" trl="Y">
+    <value column="Name" isTrl="Y" original="Amount Currently Due">Сумма текущей задолженности</value>
+    <value column="Description" isTrl="Y" original="Due Amount">Сумма текущей задолженности</value>
+    <value column="Help" isTrl="Y" original="Total amount due">Сумма текущей задолженности</value>
   </row>
   <row id="1004400028" trl="N">
     <value column="Name" isTrl="N" original="Requester">Requester</value>
@@ -56,7 +56,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1005900002" trl="N">
-    <value column="Name" isTrl="N" original="Ending Date">Ending Date</value>
+    <value column="Name" isTrl="Y" original="Ending Date">Дата окончания</value>
     <value column="Description" isTrl="N" original="A parameter stating when a specified request will end.">A parameter stating when a specified request will end.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -76,7 +76,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1005900006" trl="N">
-    <value column="Name" isTrl="N" original="Starting Date">Starting Date</value>
+    <value column="Name" isTrl="Y" original="Starting Date">Дата начала</value>
     <value column="Description" isTrl="N" original="A parameter stating when a specified request will begin.">A parameter stating when a specified request will begin.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -101,12 +101,12 @@
     <value column="Help" isTrl="N" original="Revenue services">Revenue services</value>
   </row>
   <row id="1137" trl="N">
-    <value column="Name" isTrl="N" original="Net List Price">Net List Price</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена по прейскуранту</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>
   <row id="114" trl="N">
-    <value column="Name" isTrl="N" original="Name">Name</value>
+    <value column="Name" isTrl="Y" original="Name">Название</value>
     <value column="Description" isTrl="N" original="Alphanumeric identifier of the entity">Alphanumeric identifier of the entity</value>
     <value column="Help" isTrl="N" original="The name of an entity (record) is used as an default search option in addition to the search key. The name is up to 60 characters in length.">The name of an entity (record) is used as an default search option in addition to the search key. The name is up to 60 characters in length.</value>
   </row>
@@ -181,7 +181,7 @@
     <value column="Help" isTrl="N" original="The Purchase Order Line is a unique identifier for a line in an order.">The Purchase Order Line is a unique identifier for a line in an order.</value>
   </row>
   <row id="3395" trl="N">
-    <value column="Name" isTrl="N" original="Net List Price">Net List Price</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена по прейскуранту</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>
@@ -336,12 +336,12 @@
     <value column="Help" isTrl="N" original="Updates payment monitor information">Updates payment monitor information</value>
   </row>
   <row id="58D503FCDDAFD53FE040007F01016BBB" trl="N">
-    <value column="Name" isTrl="N" original="Until Period.">Until Period.</value>
-    <value column="Description" isTrl="N" original="Until Period Number">Until Period Number</value>
+    <value column="Name" isTrl="Y" original="Until Period.">До периода</value>
+    <value column="Description" isTrl="Y" original="Until Period Number">До периода</value>
     <value column="Help" isTrl="N" original="The process will open or close all the documents of this period and the periods before this one for the selected year.">The process will open or close all the documents of this period and the periods before this one for the selected year.</value>
   </row>
   <row id="58E0AFDC8162B4CCE040007F01006F95" trl="N">
-    <value column="Name" isTrl="N" original="Module Language">Module Language</value>
+    <value column="Name" isTrl="Y" original="Module Language">Язык модуля</value>
     <value column="Description" isTrl="N" original="Language for the current module">Language for the current module</value>
     <value column="Help" isTrl="N" original="This language defines the language used as base for the user interface elements in the module.">This language defines the language used as base for the user interface elements in the module.</value>
   </row>
@@ -401,7 +401,7 @@
     <value column="Help" isTrl="N" original="Standard Quantity">Standard Quantity</value>
   </row>
   <row id="6650" trl="N">
-    <value column="Name" isTrl="N" original="Ending Date">Ending Date</value>
+    <value column="Name" isTrl="Y" original="Ending Date">Дата окончания</value>
     <value column="Description" isTrl="N" original="A parameter stating when a specified request will end.">A parameter stating when a specified request will end.</value>
     <value column="Help" isTrl="N" original="The End Date indicates the last date in this range.">The End Date indicates the last date in this range.</value>
   </row>
@@ -506,7 +506,7 @@
     <value column="Help" isTrl="N" original="The amount invoiced">The amount invoiced</value>
   </row>
   <row id="800074" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse">Warehouse</value>
+    <value column="Name" isTrl="Y" original="Warehouse">Склад</value>
     <value column="Description" isTrl="N" original="The location where products arrive to or are sent from.">The location where products arrive to or are sent from.</value>
     <value column="Help" isTrl="N" original="The Warehouse identifies a unique Warehouse where products are stored or Services are provided.">The Warehouse identifies a unique Warehouse where products are stored or Services are provided.</value>
   </row>
@@ -591,42 +591,42 @@
     <value column="Help" isTrl="N" original="Different types of cost used by the legacy cost engine. To configure costs use Costing Rules.">Different types of cost used by the legacy cost engine. To configure costs use Costing Rules.</value>
   </row>
   <row id="801095" trl="N">
-    <value column="Name" isTrl="N" original="Line No">Line No</value>
+    <value column="Name" isTrl="Y" original="Line No">№ строки</value>
     <value column="Description" isTrl="N" original="Unique line for this document">Unique line for this document</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="801110" trl="N">
-    <value column="Name" isTrl="N" original="Product Identifier">Product Identifier</value>
+    <value column="Name" isTrl="Y" original="Product Identifier">Идентификатор товара</value>
     <value column="Description" isTrl="N" original="A value specified in many forms.">A value specified in many forms.</value>
     <value column="Help" isTrl="N" original="A value specified in many forms.">A value specified in many forms.</value>
   </row>
   <row id="801111" trl="N">
-    <value column="Name" isTrl="N" original="Product Name">Product Name</value>
+    <value column="Name" isTrl="Y" original="Product Name">Название товара</value>
     <value column="Description" isTrl="N" original="A identifier for a document which can be used as a search tool.">A identifier for a document which can be used as a search tool.</value>
-    <value column="Help" isTrl="N" original="Name of the product">Name of the product</value>
+    <value column="Help" isTrl="Y" original="Name of the product">Название товара</value>
   </row>
   <row id="801112" trl="N">
-    <value column="Name" isTrl="N" original="Product Description">Product Description</value>
+    <value column="Name" isTrl="Y" original="Product Description">Описание товара</value>
     <value column="Description" isTrl="N" original="A space to write additional related information.">A space to write additional related information.</value>
-    <value column="Help" isTrl="N" original="Description for the product">Description for the product</value>
+    <value column="Help" isTrl="Y" original="Description for the product">Описание товара</value>
   </row>
   <row id="801113" trl="N">
-    <value column="Name" isTrl="N" original="Product Identifier">Product Identifier</value>
+    <value column="Name" isTrl="Y" original="Product Identifier">Идентификатор товара</value>
     <value column="Description" isTrl="N" original="A value specified in many forms.">A value specified in many forms.</value>
     <value column="Help" isTrl="N" original="A value specified in many forms.">A value specified in many forms.</value>
   </row>
   <row id="801114" trl="N">
-    <value column="Name" isTrl="N" original="Product Name">Product Name</value>
+    <value column="Name" isTrl="Y" original="Product Name">Название товара</value>
     <value column="Description" isTrl="N" original="A identifier for a document which can be used as a search tool.">A identifier for a document which can be used as a search tool.</value>
-    <value column="Help" isTrl="N" original="Name of the product">Name of the product</value>
+    <value column="Help" isTrl="Y" original="Name of the product">Название товара</value>
   </row>
   <row id="801115" trl="N">
-    <value column="Name" isTrl="N" original="Product Description">Product Description</value>
+    <value column="Name" isTrl="Y" original="Product Description">Описание товара</value>
     <value column="Description" isTrl="N" original="A space to write additional related information.">A space to write additional related information.</value>
-    <value column="Help" isTrl="N" original="Description for the product">Description for the product</value>
+    <value column="Help" isTrl="Y" original="Description for the product">Описание товара</value>
   </row>
   <row id="801363" trl="N">
-    <value column="Name" isTrl="N" original="Process Now">Process Now</value>
+    <value column="Name" isTrl="Y" original="Process Now">Выполнять немедленно</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -651,7 +651,7 @@
     <value column="Help" isTrl="N" original="The Account Number indicates the Number assigned to this account">The Account Number indicates the Number assigned to this account</value>
   </row>
   <row id="801768" trl="N">
-    <value column="Name" isTrl="N" original="Closed">Closed</value>
+    <value column="Name" isTrl="Y" original="Closed">Закрыто</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Indicates if the work requirement is completely done or if we don't want to continue with it.">Indicates if the work requirement is completely done or if we don't want to continue with it.</value>
   </row>
@@ -763,7 +763,7 @@
 -If some of the elements have it and some not, the ones having it will appear at the beginning of the list sorted by Sequence Number, the rest of them will be shown at the end ordered alphabetically.</value>
   </row>
   <row id="8187" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse">Warehouse</value>
+    <value column="Name" isTrl="Y" original="Warehouse">Склад</value>
     <value column="Description" isTrl="N" original="The location where products arrive to or are sent from.">The location where products arrive to or are sent from.</value>
     <value column="Help" isTrl="N" original="The Warehouse identifies a unique Warehouse where products are stored or Services are provided.">The Warehouse identifies a unique Warehouse where products are stored or Services are provided.</value>
   </row>
@@ -843,7 +843,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="AF4090093D4A1431E040007F010048A5" trl="N">
-    <value column="Name" isTrl="N" original="Net List Price">Net List Price</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена по прейскуранту</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>
@@ -973,7 +973,7 @@
     <value column="Help" isTrl="N" original="Account to be used upon reconciliation">Account to be used upon reconciliation</value>
   </row>
   <row id="DCB3CD5102A644DB882524C242F4145C" trl="N">
-    <value column="Name" isTrl="N" original="Net List Price">Net List Price</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена по прейскуранту</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>
@@ -988,7 +988,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="EF232FEE3DD749A49279EAD8783044C2" trl="N">
-    <value column="Name" isTrl="N" original="Name">Name</value>
+    <value column="Name" isTrl="Y" original="Name">Название</value>
     <value column="Description" isTrl="N" original="Name of the Promotion Type">Name of the Promotion Type</value>
     <value column="Help" isTrl="N" original="Promotion Type name is intended to be internally used as identifier for the Promotion Type. In case &quot;Printed Name&quot; is set, that will be the way final user will see the promotion, but if it is empty, &quot;Name&quot; will be used instead.">Promotion Type name is intended to be internally used as identifier for the Promotion Type. In case "Printed Name" is set, that will be the way final user will see the promotion, but if it is empty, "Name" will be used instead.</value>
   </row>

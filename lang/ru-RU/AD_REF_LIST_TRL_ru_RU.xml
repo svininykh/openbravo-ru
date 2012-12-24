@@ -285,7 +285,7 @@
     <value column="Description" isTrl="N" original="Grouped">Grouped</value>
   </row>
   <row id="1004400000" trl="N">
-    <value column="Name" isTrl="N" original="Open">Open</value>
+    <value column="Name" isTrl="N" original="Open">Открыто</value>
     <value column="Description" isTrl="N" original="The requisition line has not been inclluded in a Purchasing plan, neither has an associated purchase order.">The requisition line has not been inclluded in a Purchasing plan, neither has an associated purchase order.</value>
   </row>
   <row id="1004400001" trl="N">
@@ -976,53 +976,53 @@
     <value column="Name" isTrl="N" original="Procesando">Procesando</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
-  <row id="258" trl="N">
-    <value column="Name" isTrl="N" original="Open Period">Open Period</value>
-    <value column="Description" isTrl="N" original=""/>
+  <row id="258" trl="Y">
+    <value column="Name" isTrl="Y" original="Open Period">Открытый период</value>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
-  <row id="259" trl="N">
-    <value column="Name" isTrl="N" original="Close Period">Close Period</value>
-    <value column="Description" isTrl="N" original="Soft close - can be re-opened">Soft close - can be re-opened</value>
+  <row id="259" trl="Y">
+    <value column="Name" isTrl="Y" original="Close Period">Закрытый период</value>
+    <value column="Description" isTrl="Y" original="Soft close - can be re-opened">Свободное закрытие, может быть открыт.</value>
   </row>
-  <row id="25DA44AD295749AFBA1A53AFC4DF6B37" trl="N">
-    <value column="Name" isTrl="N" original="Active">Active</value>
-    <value column="Description" isTrl="N" original=""/>
+  <row id="25DA44AD295749AFBA1A53AFC4DF6B37" trl="Y">
+    <value column="Name" isTrl="Y" original="Active">Активно</value>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
-  <row id="260" trl="N">
-    <value column="Name" isTrl="N" original="Permanently Close Period">Permanently Close Period</value>
-    <value column="Description" isTrl="N" original=""/>
+  <row id="260" trl="Y">
+    <value column="Name" isTrl="Y" original="Permanently Close Period">Постоянно закрытый период</value>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
-  <row id="261" trl="N">
+  <row id="261" trl="Y">
     <value column="Name" isTrl="Y" original="Open">Открыто</value>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
-  <row id="262" trl="N">
+  <row id="262" trl="Y">
     <value column="Name" isTrl="Y" original="Closed">Закрыто</value>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
-  <row id="263" trl="N">
-    <value column="Name" isTrl="N" original="Permanently closed">Permanently closed</value>
-    <value column="Description" isTrl="N" original=""/>
+  <row id="263" trl="Y">
+    <value column="Name" isTrl="Y" original="Permanently closed">Постоянно закрытый</value>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
-  <row id="264" trl="N">
-    <value column="Name" isTrl="N" original="Never opened">Never opened</value>
-    <value column="Description" isTrl="N" original=""/>
+  <row id="264" trl="Y">
+    <value column="Name" isTrl="Y" original="Never opened">Не открывался</value>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
-  <row id="266" trl="N">
+  <row id="266" trl="Y">
     <value column="Name" isTrl="Y" original="Draft">Черновик</value>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
-  <row id="267" trl="N">
-    <value column="Name" isTrl="N" original="Approved">Утверждено</value>
-    <value column="Description" isTrl="N" original=""/>
+  <row id="267" trl="Y">
+    <value column="Name" isTrl="Y" original="Approved">Утверждено</value>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
-  <row id="268" trl="N">
+  <row id="268" trl="Y">
     <value column="Name" isTrl="Y" original="Error">Ошибка</value>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
-  <row id="269" trl="N">
+  <row id="269" trl="Y">
     <value column="Name" isTrl="Y" original="Warning">Внимание</value>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="Y" original=""/>
   </row>
   <row id="26BD84560ADA416E8D00B7A07BAB2B23" trl="N">
     <value column="Name" isTrl="N" original="Concurrent users limitation">Concurrent users limitation</value>
@@ -1037,7 +1037,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="272" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="Description" isTrl="N" original="Owning Organization">Owning Organization</value>
   </row>
   <row id="273" trl="N">
@@ -1213,15 +1213,15 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="325" trl="N">
-    <value column="Name" isTrl="N" original="Net List Price">Net List Price</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена по прейскуранту</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="326" trl="N">
-    <value column="Name" isTrl="N" original="Net Unit Price">Net Unit Price</value>
+    <value column="Name" isTrl="Y" original="Net Unit Price">Цена без налога</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="327" trl="N">
-    <value column="Name" isTrl="N" original="Limit (PO) Price">Limit (PO) Price</value>
+    <value column="Name" isTrl="Y" original="Limit (PO) Price">Лимит цены(приходная накладная)</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="328" trl="N">
@@ -1965,7 +1965,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="51" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="510" trl="N">
@@ -2737,39 +2737,39 @@
     <value column="Description" isTrl="N" original="Standard cost based on old engine">Standard cost based on old engine</value>
   </row>
   <row id="800071" trl="N">
-    <value column="Name" isTrl="N" original="Post: Error">Post: Error</value>
+    <value column="Name" isTrl="Y" original="Post: Error">Проведение: Ошибка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800072" trl="N">
-    <value column="Name" isTrl="N" original="By customer">By customer</value>
+    <value column="Name" isTrl="Y" original="By customer">По клиенту</value>
     <value column="Description" isTrl="N" original="Totally grouped">Totally grouped</value>
   </row>
   <row id="800073" trl="N">
-    <value column="Name" isTrl="N" original="By ship location">By ship location</value>
+    <value column="Name" isTrl="Y" original="By ship location">По месту продаж</value>
     <value column="Description" isTrl="N" original="Break into different invoices if the ship location is different">Break into different invoices if the ship location is different</value>
   </row>
   <row id="800074" trl="N">
-    <value column="Name" isTrl="N" original="By project">By project</value>
+    <value column="Name" isTrl="Y" original="By project">По проекту</value>
     <value column="Description" isTrl="N" original="Break into different invoices if the project is different">Break into different invoices if the project is different</value>
   </row>
   <row id="800075" trl="N">
-    <value column="Name" isTrl="N" original="First quarter">First quarter</value>
+    <value column="Name" isTrl="Y" original="First quarter">Первый квартал</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800076" trl="N">
-    <value column="Name" isTrl="N" original="Second quarter">Second quarter</value>
+    <value column="Name" isTrl="Y" original="Second quarter">Второй квартал</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800077" trl="N">
-    <value column="Name" isTrl="N" original="Third quarter">Third quarter</value>
+    <value column="Name" isTrl="Y" original="Third quarter">Третий квартал</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800078" trl="N">
-    <value column="Name" isTrl="N" original="Fourth quarter">Fourth quarter</value>
+    <value column="Name" isTrl="Y" original="Fourth quarter">Четвёртый квартал</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800079" trl="N">
-    <value column="Name" isTrl="N" original="Withholding">Withholding</value>
+    <value column="Name" isTrl="Y" original="Withholding">Удержание</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800080" trl="N">
@@ -3153,11 +3153,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800206" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse">Warehouse</value>
+    <value column="Name" isTrl="Y" original="Warehouse">Склад</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800207" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800208" trl="N">
@@ -3169,11 +3169,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800210" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse">Warehouse</value>
+    <value column="Name" isTrl="Y" original="Warehouse">Склад</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800211" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800212" trl="N">
@@ -3189,11 +3189,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800215" trl="N">
-    <value column="Name" isTrl="N" original="per Kilogram">per Kilogram</value>
+    <value column="Name" isTrl="Y" original="per Kilogram">на килограмм</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800216" trl="N">
-    <value column="Name" isTrl="N" original="per Hour">per Hour</value>
+    <value column="Name" isTrl="Y" original="per Hour">в час</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800217" trl="N">
@@ -3205,7 +3205,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800219" trl="N">
-    <value column="Name" isTrl="N" original="per Produced Units">per Produced Units</value>
+    <value column="Name" isTrl="Y" original="per Produced Units">на произведённую единицу</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800220" trl="N">
@@ -3577,7 +3577,7 @@
     <value column="Description" isTrl="N" original="First specified weekday of the month.">First specified weekday of the month.</value>
   </row>
   <row id="A6013E760F1240988DC3FB463EA569F7" trl="N">
-    <value column="Name" isTrl="N" original="Standard">Standard</value>
+    <value column="Name" isTrl="Y" original="Standard">Стандартный</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A60D08A595E84734A6369720E2BFE84F" trl="N">
@@ -3601,19 +3601,19 @@
     <value column="Description" isTrl="N" original="Pending Cost Calculation">Pending Cost Calculation</value>
   </row>
   <row id="ABB16AFAD8A0409DB86E4A453F6960AD" trl="N">
-    <value column="Name" isTrl="N" original="View">View</value>
+    <value column="Name" isTrl="Y" original="View">Просмотреть</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="ACD5C8B42D51415ABB7A76D70E6EF9E3" trl="N">
-    <value column="Name" isTrl="N" original="Open">Open</value>
-    <value column="Description" isTrl="N" original="Open">Open</value>
+    <value column="Name" isTrl="Y" original="Open">Открыть</value>
+    <value column="Description" isTrl="Y" original="Open">Открыть</value>
   </row>
   <row id="AE48AE3D08B34923AFB52237B380EACE" trl="N">
     <value column="Name" isTrl="N" original="Not Calculated">Not Calculated</value>
     <value column="Description" isTrl="N" original="Not Cost Calculated">Not Cost Calculated</value>
   </row>
   <row id="AE9348373DF7485981AC43D41AF7CADE" trl="N">
-    <value column="Name" isTrl="N" original="Line Net Amount">Line Net Amount</value>
+    <value column="Name" isTrl="Y" original="Line Net Amount">Всего без налога</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="B06D9380FA25434EB5EDCAF44368F347" trl="N">
@@ -3621,7 +3621,7 @@
     <value column="Description" isTrl="N" original="Reject the approval of the document. ">Reject the approval of the document. </value>
   </row>
   <row id="B2B38218AB484E3D99FB07A7AC71F894" trl="N">
-    <value column="Name" isTrl="N" original="Copy files">Copy files</value>
+    <value column="Name" isTrl="Y" original="Copy files">Копировать файлы</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="B2E6B90D0AA4477C92772D4597BED03C" trl="N">

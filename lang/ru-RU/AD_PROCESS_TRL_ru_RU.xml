@@ -355,15 +355,15 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Help" isTrl="N" original="Create Invoice from Commission Calculation">Create Invoice from Commission Calculation</value>
   </row>
   <row id="167" trl="N">
-    <value column="Name" isTrl="N" original="Open/Close All">Open/Close All</value>
+    <value column="Name" isTrl="Y" original="Open/Close All">Открыть/Закрыть все</value>
     <value column="Description" isTrl="N" original="Open/Close all Base Document Types">Open/Close all Base Document Types</value>
     <value column="Help" isTrl="N" original="Open/Close all Base Document Types.&#10;NOTE: You will not be able to close the fiscal year if you close all its periods permanently. Maybe you should close it before changing the last period from closed to permanently closed.">Open/Close all Base Document Types.
 NOTE: You will not be able to close the fiscal year if you close all its periods permanently. Maybe you should close it before changing the last period from closed to permanently closed.</value>
   </row>
   <row id="168" trl="N">
-    <value column="Name" isTrl="N" original="Open/Close">Open/Close</value>
-    <value column="Description" isTrl="N" original="Open/Close">Open/Close</value>
-    <value column="Help" isTrl="N" original="Open/Close">Open/Close</value>
+    <value column="Name" isTrl="Y" original="Open/Close">Открыть/Закрыть</value>
+    <value column="Description" isTrl="Y" original="Open/Close">Открыть/Закрыть</value>
+    <value column="Help" isTrl="Y" original="Open/Close">Открыть/Закрыть</value>
   </row>
   <row id="169" trl="N">
     <value column="Name" isTrl="N" original="Process Journal">Process Journal</value>

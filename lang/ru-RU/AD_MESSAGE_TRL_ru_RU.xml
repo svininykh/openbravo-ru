@@ -780,11 +780,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300000" trl="N">
-    <value column="MsgText" isTrl="N" original="Key">Key</value>
+    <value column="MsgText" isTrl="Y" original="Key">Идентификатор</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Business Partner Selector">Used for column name translation in Business Partner Selector</value>
   </row>
   <row id="1006300001" trl="N">
-    <value column="MsgText" isTrl="N" original="Name">Name</value>
+    <value column="MsgText" isTrl="Y" original="Name">Название</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Business Partner Selector">Used for column name translation in Business Partner Selector</value>
   </row>
   <row id="1006300002" trl="N">
@@ -852,11 +852,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for grid column translation in Account selector">Used for grid column translation in Account selector</value>
   </row>
   <row id="1006300018" trl="N">
-    <value column="MsgText" isTrl="N" original="Key">Key</value>
+    <value column="MsgText" isTrl="Y" original="Key">Идентификатор</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300019" trl="N">
-    <value column="MsgText" isTrl="N" original="Name">Name</value>
+    <value column="MsgText" isTrl="Y" original="Name">Название</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300020" trl="N">
@@ -880,11 +880,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300025" trl="N">
-    <value column="MsgText" isTrl="N" original="Key">Key</value>
+    <value column="MsgText" isTrl="Y" original="Key">Идентификатор</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300026" trl="N">
-    <value column="MsgText" isTrl="N" original="Name">Name</value>
+    <value column="MsgText" isTrl="Y" original="Name">Название</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300027" trl="N">
@@ -916,7 +916,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300034" trl="N">
-    <value column="MsgText" isTrl="N" original="Open">Open</value>
+    <value column="MsgText" isTrl="Y" original="Open">Открыто</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300035" trl="N">
@@ -1008,11 +1008,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006400000" trl="N">
-    <value column="MsgText" isTrl="N" original="Key">Key</value>
+    <value column="MsgText" isTrl="Y" original="Key">Идентификатор</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Selector">Used for column name translation in Product Selector</value>
   </row>
   <row id="1006400001" trl="N">
-    <value column="MsgText" isTrl="N" original="Name">Name</value>
+    <value column="MsgText" isTrl="Y" original="Name">Название</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Selector">Used for column name translation in Product Selector</value>
   </row>
   <row id="1006400002" trl="N">
@@ -1044,11 +1044,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Selector">Used for column name translation in Product Selector</value>
   </row>
   <row id="1006400009" trl="N">
-    <value column="MsgText" isTrl="N" original="Key">Key</value>
+    <value column="MsgText" isTrl="Y" original="Key">Идентификатор</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Complete Selector">Used for column name translation in Product Complete Selector</value>
   </row>
   <row id="1006400010" trl="N">
-    <value column="MsgText" isTrl="N" original="Name">Name</value>
+    <value column="MsgText" isTrl="Y" original="Name">Название</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Complete Selector">Used for column name translation in Product Complete Selector</value>
   </row>
   <row id="1006400011" trl="N">
@@ -1112,11 +1112,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Locator Selector">Used for column name translation in Locator Selector</value>
   </row>
   <row id="1006400026" trl="N">
-    <value column="MsgText" isTrl="N" original="Key">Key</value>
+    <value column="MsgText" isTrl="Y" original="Key">Идентификатор</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Project Selector">Used for column name translation in Project Selector</value>
   </row>
   <row id="1006400027" trl="N">
-    <value column="MsgText" isTrl="N" original="Name">Name</value>
+    <value column="MsgText" isTrl="Y" original="Name">Название</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Project Selector">Used for column name translation in Project Selector</value>
   </row>
   <row id="1006400028" trl="N">
@@ -1596,11 +1596,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="165" trl="N">
-    <value column="MsgText" isTrl="N" original="Calendar">Calendar</value>
+    <value column="MsgText" isTrl="Y" original="Calendar">Календарь</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="166" trl="N">
-    <value column="MsgText" isTrl="N" original="Cancel">Cancel</value>
+    <value column="MsgText" isTrl="Y" original="Cancel">Отменить</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="166F701CD5C440FF8B04DC51CFBD9399" trl="N">
@@ -2653,7 +2653,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="343" trl="N">
-    <value column="MsgText" isTrl="N" original="Name">Name</value>
+    <value column="MsgText" isTrl="Y" original="Name">Название</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="344" trl="N">
@@ -2813,11 +2813,11 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="373" trl="N">
-    <value column="MsgText" isTrl="N" original="Open">Open</value>
+    <value column="MsgText" isTrl="Y" original="Open">Открыто</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="374" trl="N">
-    <value column="MsgText" isTrl="N" original="Open">Open</value>
+    <value column="MsgText" isTrl="Y" original="Open">Открыто</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="375" trl="N">
@@ -3757,15 +3757,15 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="546" trl="N">
-    <value column="MsgText" isTrl="N" original="Sort by">Sort by</value>
+    <value column="MsgText" isTrl="Y" original="Sort by">Сортировать по</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="547" trl="N">
-    <value column="MsgText" isTrl="N" original="Sorted">Sorted</value>
+    <value column="MsgText" isTrl="Y" original="Sorted">Отсортировано</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="548" trl="N">
-    <value column="MsgText" isTrl="N" original="Standard">Standard</value>
+    <value column="MsgText" isTrl="Y" original="Standard">Стандартный</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="548069F5D9E04ECF80B3EA2EA7218036" trl="N">
@@ -3985,7 +3985,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="592" trl="N">
-    <value column="MsgText" isTrl="N" original="Key">Key</value>
+    <value column="MsgText" isTrl="Y" original="Key">Идентификатор</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="593" trl="N">
@@ -4595,7 +4595,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6F43018F37274704A195A23CC6842AD7" trl="N">
-    <value column="MsgText" isTrl="N" original="Name">Name</value>
+    <value column="MsgText" isTrl="Y" original="Name">Название</value>
     <value column="MsgTip" isTrl="N" original="Used for grid column translation in Account selector">Used for grid column translation in Account selector</value>
   </row>
   <row id="701624AA793449FC8315266E2FC58E10" trl="N">
@@ -6995,7 +6995,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B028CE1D0F9E43209097CE56CB182F67" trl="N">
-    <value column="MsgText" isTrl="N" original="Search Key">Search Key</value>
+    <value column="MsgText" isTrl="Y" original="Search Key">Код поиска</value>
     <value column="MsgTip" isTrl="N" original="Used for grid column translation in Account selector">Used for grid column translation in Account selector</value>
   </row>
   <row id="B029738DD2604EDFA12785CAF3C7DBA0" trl="N">

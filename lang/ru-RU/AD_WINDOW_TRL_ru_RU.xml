@@ -16,8 +16,8 @@
     <value column="Help" isTrl="N" original="Edit tables and columns so that Openbravo can access the database, as well as control the role access.">Edit tables and columns so that Openbravo can access the database, as well as control the role access.</value>
   </row>
   <row id="1002100000" trl="N">
-    <value column="Name" isTrl="N" original="Withholding">Withholding</value>
-    <value column="Description" isTrl="N" original="Withholding Rules">Withholding Rules</value>
+    <value column="Name" isTrl="N" original="Withholding">Правила удержания</value>
+    <value column="Description" isTrl="N" original="Withholding Rules">Правила удержания</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1002100003" trl="N">
@@ -123,7 +123,7 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.">Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.</value>
   </row>
   <row id="117" trl="N">
-    <value column="Name" isTrl="Y" original="Fiscal Calendar">Налоговый календарь</value>
+    <value column="Name" isTrl="Y" original="Fiscal Calendar">Фискальный календарь</value>
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars and periods for accounting purposes.">Create multiple fiscal calendars and periods for accounting purposes.</value>
     <value column="Help" isTrl="N" original="&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types inherit it from it.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization accounting practice.&#10;&#10;">"Legal entities with accounting" organization types must have a fiscal calendar assigned while rest of organization types inherit it from it.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization accounting practice.
 
@@ -931,7 +931,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Window to manage the payments done by customers">Window to manage the payments done by customers</value>
   </row>
   <row id="E56E701CCBA14B8BA480CBDE37C50D7A" trl="N">
-    <value column="Name" isTrl="N" original="Open/Close Period Control">Open/Close Period Control</value>
+    <value column="Name" isTrl="Y" original="Open/Close Period Control">Контроль открытия/закрытия периода</value>
     <value column="Description" isTrl="N" original="Open or close periods for the allowed organizations">Open or close periods for the allowed organizations</value>
     <value column="Help" isTrl="N" original="Open/Close Period Control allows to open, close or permanently close the accounting period/s of a year.  This process is enabled to Organizations for which &quot;Period Control&quot; feature is enabled.">Open/Close Period Control allows to open, close or permanently close the accounting period/s of a year.  This process is enabled to Organizations for which "Period Control" feature is enabled.</value>
   </row>

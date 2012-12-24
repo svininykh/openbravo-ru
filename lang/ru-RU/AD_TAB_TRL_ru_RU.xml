@@ -22,7 +22,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="0F65E95AA2A14A53AE6DDA18B5009A97" trl="N">
-    <value column="Name" isTrl="N" original="Line Tax">Line Tax</value>
+    <value column="Name" isTrl="Y" original="Line Tax">Налог по строке</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Taxes related to the order line.">Taxes related to the order line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -57,16 +57,16 @@
     <value column="Help" isTrl="N" original="Emails definition tab supports the creation of as many email templates as required depending on the language to be used for sending the documents by email.">Emails definition tab supports the creation of as many email templates as required depending on the language to be used for sending the documents by email.</value>
   </row>
   <row id="1002100000" trl="N">
-    <value column="Name" isTrl="N" original="Withholding">Withholding</value>
+    <value column="Name" isTrl="Y" original="Withholding">Удержание</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Withholding">Withholding</value>
+    <value column="Description" isTrl="Y" original="Withholding">Удержание</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1002100005" trl="N">
-    <value column="Name" isTrl="N" original="Withholding Account">Withholding Account</value>
+    <value column="Name" isTrl="Y" original="Withholding Account">Счёт удержания</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Withholding Account">Withholding Account</value>
+    <value column="Description" isTrl="Y" original="Withholding Account">Счёт удержания</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -526,7 +526,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="174" trl="N">
-    <value column="Name" isTrl="N" original="Tax">Tax</value>
+    <value column="Name" isTrl="Y" original="Tax">Налог</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit tax rates to be used in the application transactions.">Create and edit tax rates to be used in the application transactions.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -540,21 +540,21 @@
     <value column="Help" isTrl="N" original="It is possible to create as many tax categories as required to be later on linked to the correponding tax rates and products.">It is possible to create as many tax categories as required to be later on linked to the correponding tax rates and products.</value>
   </row>
   <row id="177" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse">Warehouse</value>
+    <value column="Name" isTrl="Y" original="Warehouse">Склад</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create warehouses for your organizations.">Create warehouses for your organizations.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create warehouses for your organizations.">Create warehouses for your organizations.</value>
   </row>
   <row id="178" trl="N">
-    <value column="Name" isTrl="N" original="Storage Bin">Storage Bin</value>
+    <value column="Name" isTrl="Y" original="Storage Bin">Место хранения</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create storage bins for a selected warehouse.">Create storage bins for a selected warehouse.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create storage bins for a selected warehouse.">Create storage bins for a selected warehouse.</value>
   </row>
   <row id="179" trl="N">
-    <value column="Name" isTrl="N" original="Bin Contents">Bin Contents</value>
+    <value column="Name" isTrl="Y" original="Bin Contents">Содержимое</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View the stored products of a selected storage bin.">View the stored products of a selected storage bin.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -701,7 +701,7 @@
     <value column="Help" isTrl="N" original="Translate application elements into multiple languages.">Translate application elements into multiple languages.</value>
   </row>
   <row id="205" trl="N">
-    <value column="Name" isTrl="N" original="Period Control">Period Control</value>
+    <value column="Name" isTrl="Y" original="Period Control">Фискальный контроль</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add and edit document types to be included in the accounting process during the selected fiscal period.">Add and edit document types to be included in the accounting process during the selected fiscal period.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -827,14 +827,14 @@
     <value column="Help" isTrl="N" original="Create your banks to be used in application transactions.">Create your banks to be used in application transactions.</value>
   </row>
   <row id="228" trl="N">
-    <value column="Name" isTrl="N" original="Bank Account">Bank Account</value>
+    <value column="Name" isTrl="Y" original="Bank Account">Банковский счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit bank accounts for a selected bank.">Create and edit bank accounts for a selected bank.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit bank accounts for a selected bank.">Create and edit bank accounts for a selected bank.</value>
   </row>
   <row id="229" trl="N">
-    <value column="Name" isTrl="N" original="Withholding">Withholding</value>
+    <value column="Name" isTrl="Y" original="Withholding">Удержание</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define Withholding">Define Withholding</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -869,7 +869,7 @@
     <value column="Help" isTrl="N" original="Product names can be translated to any language. ">Product names can be translated to any language. </value>
   </row>
   <row id="236" trl="N">
-    <value column="Name" isTrl="N" original="Tax">Tax</value>
+    <value column="Name" isTrl="Y" original="Tax">Налог</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit taxes applied to your order.">Edit taxes applied to your order.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -982,7 +982,7 @@
     <value column="Help" isTrl="N" original="Create and edit inventory internal movements.">Create and edit inventory internal movements.</value>
   </row>
   <row id="25C70617A7964B479BDA71197E7E88E9" trl="N">
-    <value column="Name" isTrl="N" original="Line Tax">Line Tax</value>
+    <value column="Name" isTrl="Y" original="Line Tax">Налог по строке</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Order Line Tax">Order Line Tax</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1017,7 +1017,7 @@
     <value column="Help" isTrl="N" original="Add products to be included in your invoice.  Each product is added by creating a line.">Add products to be included in your invoice.  Each product is added by creating a line.</value>
   </row>
   <row id="271" trl="N">
-    <value column="Name" isTrl="N" original="Tax">Tax</value>
+    <value column="Name" isTrl="Y" original="Tax">Налог</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit taxes applied to your invoice.">Edit taxes applied to your invoice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1031,7 +1031,7 @@
     <value column="Help" isTrl="N" original="Units of Measure can be translated to any language required.">Units of Measure can be translated to any language required.</value>
   </row>
   <row id="27456D8A387F4580B30EA784C63831BB" trl="N">
-    <value column="Name" isTrl="N" original="Line Tax">Line Tax</value>
+    <value column="Name" isTrl="Y" original="Line Tax">Налог по строке</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Taxes related to the invoice line">Taxes related to the invoice line</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1107,7 +1107,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Once the purchase invoice header has been properly filled in and saved, each purchase invoice line can be registered in this tab.">Once the purchase invoice header has been properly filled in and saved, each purchase invoice line can be registered in this tab.</value>
   </row>
   <row id="292" trl="N">
-    <value column="Name" isTrl="N" original="Tax">Tax</value>
+    <value column="Name" isTrl="Y" original="Tax">Налог</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View or edit taxes applied to your invoice.">View or edit taxes applied to your invoice.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1128,7 +1128,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Purchase orders can be created and booked in the header section of the purchase order window.">Purchase orders can be created and booked in the header section of the purchase order window.</value>
   </row>
   <row id="295" trl="N">
-    <value column="Name" isTrl="N" original="Tax">Tax</value>
+    <value column="Name" isTrl="Y" original="Tax">Налог</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit taxes applied to your order.">Edit taxes applied to your order.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1156,7 +1156,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="2C9A8C451DD847FEA493A9CC08AF6822" trl="N">
-    <value column="Name" isTrl="N" original="Line Tax">Line Tax</value>
+    <value column="Name" isTrl="Y" original="Line Tax">Налог по строке</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Order Line Tax">Order Line Tax</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1796,7 +1796,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Parameters for the object in the web.xml file">Parameters for the object in the web.xml file</value>
   </row>
   <row id="4DE17FC05C3843C4959166BB67967486" trl="N">
-    <value column="Name" isTrl="N" original="Open/Close Period Control">Open/Close Period Control</value>
+    <value column="Name" isTrl="Y" original="Open/Close Period Control">Контроль открытия/закрытия периода</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="It allows to open or close periods for the allowed organizations">It allows to open or close periods for the allowed organizations</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1824,56 +1824,56 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Create freight categories to be used by shippers.">Create freight categories to be used by shippers.</value>
   </row>
   <row id="515" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Dimension">Business Partner Dimension</value>
+    <value column="Name" isTrl="Y" original="Business Partner Dimension">Субконто контрагент</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit business partner dimensions to be used in the dimensional reports.">Create and edit business partner dimensions to be used in the dimensional reports.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit business partner dimensions to be used in the dimensional reports.">Create and edit business partner dimensions to be used in the dimensional reports.</value>
   </row>
   <row id="516" trl="N">
-    <value column="Name" isTrl="N" original="Product Dimension">Product Dimension</value>
+    <value column="Name" isTrl="Y" original="Product Dimension">Субконто товар</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit products dimensions to be used in the dimensional reports.">Create and edit products dimensions to be used in the dimensional reports.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit products dimensions to be used in the dimensional reports.">Create and edit products dimensions to be used in the dimensional reports.</value>
   </row>
   <row id="517" trl="N">
-    <value column="Name" isTrl="N" original="Acitivity Dimension">Acitivity Dimension</value>
+    <value column="Name" isTrl="Y" original="Acitivity Dimension">Субконто деятельность</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Maintain Acitivity Accounting Dimension Tree">Maintain Acitivity Accounting Dimension Tree</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Maintain Acitivity Accounting Dimension Tree">Maintain Acitivity Accounting Dimension Tree</value>
   </row>
   <row id="518" trl="N">
-    <value column="Name" isTrl="N" original="Project Dimension">Project Dimension</value>
+    <value column="Name" isTrl="Y" original="Project Dimension">Субконто проект</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit projects dimensions to be used in the dimensional reports.">Create and edit projects dimensions to be used in the dimensional reports.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit projects dimensions to be used in the dimensional reports.">Create and edit projects dimensions to be used in the dimensional reports.</value>
   </row>
   <row id="519" trl="N">
-    <value column="Name" isTrl="N" original="Organization Dimension">Organization Dimension</value>
+    <value column="Name" isTrl="Y" original="Organization Dimension">Субконто организация</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit organizational dimensions to be used in the dimensional reports.">Create and edit organizational dimensions to be used in the dimensional reports.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit organizational dimensions to be used in the dimensional reports.">Create and edit organizational dimensions to be used in the dimensional reports.</value>
   </row>
   <row id="520" trl="N">
-    <value column="Name" isTrl="N" original="Sales Region Dimension">Sales Region Dimension</value>
+    <value column="Name" isTrl="Y" original="Sales Region Dimension">Субконто регион продаж</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit sales regions dimensions to be used in the dimensional reports.">Create and edit sales regions dimensions to be used in the dimensional reports.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit sales regions dimensions to be used in the dimensional reports.">Create and edit sales regions dimensions to be used in the dimensional reports.</value>
   </row>
   <row id="5247D51755AA43F384EBC35006FC2329" trl="N">
-    <value column="Name" isTrl="N" original="Line Tax">Line Tax</value>
+    <value column="Name" isTrl="Y" original="Line Tax">Налог по строке</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Line Tax">Line Tax</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Taxes related to the invoice line.">Taxes related to the invoice line.</value>
   </row>
   <row id="526" trl="N">
-    <value column="Name" isTrl="N" original="Campaign Dimension">Campaign Dimension</value>
+    <value column="Name" isTrl="Y" original="Campaign Dimension">Субконто кампания продвижения</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Maintain Marketing Campaign Accounting Dimension Tree">Maintain Marketing Campaign Accounting Dimension Tree</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1972,7 +1972,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add work incidences that might have occurred during the completion of a related work requirement.">Add work incidences that might have occurred during the completion of a related work requirement.</value>
   </row>
   <row id="62EB234861174F658093BA10DAFF81FA" trl="N">
-    <value column="Name" isTrl="N" original="Tax">Tax</value>
+    <value column="Name" isTrl="Y" original="Tax">Налог</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit taxes applied to your order.">Edit taxes applied to your order.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2007,7 +2007,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Definition of the rules. ">Definition of the rules. </value>
   </row>
   <row id="6BC4F7D2CBE94AEE939CCB5990B55FEA" trl="N">
-    <value column="Name" isTrl="N" original="Period Control">Period Control</value>
+    <value column="Name" isTrl="Y" original="Period Control">Фискальный контроль контроль</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View to display the Period Control for the selected organization">View to display the Period Control for the selected organization</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2405,12 +2405,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="It is possible to split payments terms into more than just one payment term line.">It is possible to split payments terms into more than just one payment term line.</value>
   </row>
-  <row id="800075" trl="N">
-    <value column="Name" isTrl="N" original="Accounting dimension">Accounting dimension</value>
-    <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Accounting dimension">Accounting dimension</value>
-    <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Accounting dimension">Accounting dimension</value>
+  <row id="800075" trl="Y">
+    <value column="Name" isTrl="Y" original="Accounting dimension">Субконто плана счетов</value>
+    <value column="CommitWarning" isTrl="Y" original=""/>
+    <value column="Description" isTrl="Y" original="Accounting dimension">Субконто плана счетов</value>
+    <value column="Filtername" isTrl="Y" original=""/>
+    <value column="Help" isTrl="Y" original="Accounting dimension">Субконто плана счетов</value>
   </row>
   <row id="800076" trl="N">
     <value column="Name" isTrl="Y" original="Header">Заглавие</value>
@@ -3428,7 +3428,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add and edit resources used to complete a specified part of a work requirement.">Add and edit resources used to complete a specified part of a work requirement.</value>
   </row>
   <row id="9F030341690C4BB3A3C15835AEC0FF39" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse">Warehouse</value>
+    <value column="Name" isTrl="Y" original="Warehouse">Склад</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3491,7 +3491,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Algorithms have to set up the java class that implements them.">Algorithms have to set up the java class that implements them.</value>
   </row>
   <row id="ADBD1719BFA14C97A32C7B6E8452D14F" trl="N">
-    <value column="Name" isTrl="N" original="Line Tax">Line Tax</value>
+    <value column="Name" isTrl="Y" original="Line Tax">Налог по строке</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Taxes related to the order line.">Taxes related to the order line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3534,7 +3534,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="AF4090093DAF1431E040007F010048A5" trl="N">
-    <value column="Name" isTrl="N" original="Line Tax">Line Tax</value>
+    <value column="Name" isTrl="Y" original="Line Tax">Налог по строке</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Order Line Tax">Order Line Tax</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3660,7 +3660,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Parameters used for the execution process associated for all the payments that belong to the payment run.">Parameters used for the execution process associated for all the payments that belong to the payment run.</value>
   </row>
   <row id="D173CDA24A0C431A94CEE845DC1E6290" trl="N">
-    <value column="Name" isTrl="N" original="Tax">Tax</value>
+    <value column="Name" isTrl="Y" original="Tax">Налог</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit taxes applied to your order.">Edit taxes applied to your order.</value>
     <value column="Filtername" isTrl="N" original=""/>

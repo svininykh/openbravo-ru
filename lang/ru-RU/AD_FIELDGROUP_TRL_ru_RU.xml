@@ -10,10 +10,10 @@
     <value column="Name" isTrl="Y" original="Audit">Аудит</value>
   </row>
   <row id="1000300000" trl="N">
-    <value column="Name" isTrl="N" original="Contact Details">Contact Details</value>
+    <value column="Name" isTrl="Y" original="Contact Details">Подробнее о контакте</value>
   </row>
   <row id="1000300001" trl="N">
-    <value column="Name" isTrl="N" original="Company Details">Company Details</value>
+    <value column="Name" isTrl="Y" original="Company Details">Подробнее о компании</value>
   </row>
   <row id="1000300002" trl="N">
     <value column="Name" isTrl="N" original="Newsletter Subscription">Newsletter Subscription</value>
@@ -24,20 +24,20 @@
   <row id="1000500001" trl="Y">
     <value column="Name" isTrl="Y" original="Email template">Шаблон электронного письма</value>
   </row>
-  <row id="1002100000" trl="N">
-    <value column="Name" isTrl="N" original="Type">Type</value>
+  <row id="1002100000" trl="Y">
+    <value column="Name" isTrl="Y" original="Type">Тип</value>
   </row>
-  <row id="101" trl="N">
-    <value column="Name" isTrl="N" original="Status">Status</value>
+  <row id="101" trl="Y">
+    <value column="Name" isTrl="Y" original="Status">Статус</value>
   </row>
-  <row id="102" trl="N">
-    <value column="Name" isTrl="N" original="Quantities">Quantities</value>
+  <row id="102" trl="Y">
+    <value column="Name" isTrl="Y" original="Quantities">Количество</value>
   </row>
-  <row id="103" trl="N">
-    <value column="Name" isTrl="N" original="Amounts">Amounts</value>
+  <row id="103" trl="Y">
+    <value column="Name" isTrl="Y" original="Amounts">Объём</value>
   </row>
-  <row id="104" trl="N">
-    <value column="Name" isTrl="N" original="Reference">Reference</value>
+  <row id="104" trl="Y">
+    <value column="Name" isTrl="Y" original="Reference">Ссылка</value>
   </row>
   <row id="105" trl="Y">
     <value column="Name" isTrl="Y" original="History">История</value>
@@ -118,10 +118,10 @@
     <value column="Name" isTrl="N" original="Step 3: Reconcile">Step 3: Reconcile</value>
   </row>
   <row id="20E50987265A49C087236256E52D3CF9" trl="N">
-    <value column="Name" isTrl="N" original="Proxy settings">Proxy settings</value>
+    <value column="Name" isTrl="Y" original="Proxy settings">Параметры прокси</value>
   </row>
   <row id="2216B16A05284E558D809ACC59EBC166" trl="N">
-    <value column="Name" isTrl="N" original="Bank Account">Bank Account</value>
+    <value column="Name" isTrl="Y" original="Bank Account">Банковский счёт</value>
   </row>
   <row id="234172F0D6064D81999B32091AE39018" trl="Y">
     <value column="Name" isTrl="Y" original="Filter Options">Параметры фильтра</value>
@@ -178,7 +178,7 @@
     <value column="Name" isTrl="N" original="Matching info">Matching info</value>
   </row>
   <row id="D2A0D89EDB884813B6833F6880777C27" trl="N">
-    <value column="Name" isTrl="N" original="Bank Account Format">Bank Account Format</value>
+    <value column="Name" isTrl="Y" original="Bank Account Format">Формат банковского счёта</value>
   </row>
   <row id="DED752CA2E4D49DB9B1232C707FD2622" trl="N">
     <value column="Name" isTrl="N" original="Notifications">Notifications</value>
