@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_WINDOW" version="">
+  <row id="08F09D2A7C774585B014C06C0F44F591" trl="N">
+    <value column="Name" isTrl="N" original="AD Implementation Mapping">AD Implementation Mapping</value>
+    <value column="Description" isTrl="N" original="Displays the AD-implementation mappings">Displays the AD-implementation mappings</value>
+    <value column="Help" isTrl="N" original="Displays the AD-implementation mappings for web.xml file">Displays the AD-implementation mappings for web.xml file</value>
+  </row>
+  <row id="0CFFACC0F91C4DFDA429CCF80EBF4BC4" trl="N">
+    <value column="Name" isTrl="N" original="Return Reasons">Return Reasons</value>
+    <value column="Description" isTrl="N" original="Here you define the return reason">Here you define the return reason</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="100" trl="N">
+    <value column="Name" isTrl="N" original="Tables and Columns">Tables and Columns</value>
+    <value column="Description" isTrl="N" original="Edit tables and columns so that Openbravo can access the database, as well as control the role access.">Edit tables and columns so that Openbravo can access the database, as well as control the role access.</value>
+    <value column="Help" isTrl="N" original="Edit tables and columns so that Openbravo can access the database, as well as control the role access.">Edit tables and columns so that Openbravo can access the database, as well as control the role access.</value>
+  </row>
+  <row id="1002100000" trl="N">
+    <value column="Name" isTrl="N" original="Withholding">Правила удержания</value>
+    <value column="Description" isTrl="N" original="Withholding Rules">Правила удержания</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="1002100003" trl="N">
+    <value column="Name" isTrl="N" original="Tax Register Type">Tax Register Type</value>
+    <value column="Description" isTrl="N" original="Tax Register Type">Tax Register Type</value>
+    <value column="Help" isTrl="N" original="Type of Tax Register">Type of Tax Register</value>
+  </row>
+  <row id="1002100004" trl="N">
+    <value column="Name" isTrl="N" original="Tax Payment">Tax Payment</value>
+    <value column="Description" isTrl="N" original="Tax Payment/Tax Register">Tax Payment/Tax Register</value>
+    <value column="Help" isTrl="N" original="Tax Payment where put the payment of tax and in where tax register is recorded .">Tax Payment where put the payment of tax and in where tax register is recorded .</value>
+  </row>
+  <row id="1004400000" trl="N">
+    <value column="Name" isTrl="N" original="Manage Requisitions">Manage Requisitions</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Manage Requisition window is intended to be used by the procurement team as it provides an overall picture of the items needed.&lt;br&gt;At the end of the day the procurement team is the one to decide what to do with the requisitions created by other members of the organization or business unit. ">Manage Requisition window is intended to be used by the procurement team as it provides an overall picture of the items needed.&lt;br&gt;At the end of the day the procurement team is the one to decide what to do with the requisitions created by other members of the organization or business unit. </value>
+  </row>
+  <row id="1005400002" trl="N">
+    <value column="Name" isTrl="N" original="Heartbeat Configuration">Heartbeat Configuration</value>
+    <value column="Description" isTrl="N" original="Enable or disable the heartbeat process and configure internet connection proxy information ">Enable or disable the heartbeat process and configure internet connection proxy information </value>
+    <value column="Help" isTrl="N" original="During heartbeat processing, some of the data that is collected. See the complete list of gathered data in http://wiki.openbravo.com/wiki/ERP/2.50/User_Manual/HeartBeat&#10;&#10;The Heartbeat server might return several queries to be executed locally. Consult the following link for the historic list of custom queries: http://wiki.openbravo.com/wiki/Projects/Heartbeat/Custom_Queries&#10;&#10;The heartbeat data is stored in a file controlled by Openbravo S.L.U. It is collected solely to gather and send data about your Openbravo product installation back to a service on Openbravo SLU's infrastructure to assist managing your Openbravo product installation. As a benefit to you, with this information, Openbravo SLU can offer you system configuration and component update information, sent automatically to you. Available updates may include, for example, Operating System updates, Database updates and Openbravo code. This data will be used on an aggregated and anonymous basis to generate reports identifying where and how the Openbravo product is being utilized.&#10;&#10;For further information, please consult http://wiki.openbravo.com/wiki/ERP/2.50/User_Manual/HeartBeat&#10;&#10;Openbravo stores this information on servers in the USA and implements security measures in accordance with applicable legislation to maintain the confidentiality of this data. This data is not used for commercial purposes other than as set out above. It is not communicated or transferred to any third party&#10;&#10;You may deactivate this feature by disabling the “enable heartbeat” box. In addition, you may exercise your right to access, rectify, oppose and cancel the data by writing to Openbravo, S.L.U. PO Box 5117, 31010 Pamplona, Navarra, Spain, or by email to privacy@openbravo.com.&#10;&#10;By enabling the heartbeat, you consent to the processing of this data and storing of the same in the USA as set out above.">During heartbeat processing, some of the data that is collected. See the complete list of gathered data in http://wiki.openbravo.com/wiki/ERP/2.50/User_Manual/HeartBeat
+
+The Heartbeat server might return several queries to be executed locally. Consult the following link for the historic list of custom queries: http://wiki.openbravo.com/wiki/Projects/Heartbeat/Custom_Queries
+
+The heartbeat data is stored in a file controlled by Openbravo S.L.U. It is collected solely to gather and send data about your Openbravo product installation back to a service on Openbravo SLU's infrastructure to assist managing your Openbravo product installation. As a benefit to you, with this information, Openbravo SLU can offer you system configuration and component update information, sent automatically to you. Available updates may include, for example, Operating System updates, Database updates and Openbravo code. This data will be used on an aggregated and anonymous basis to generate reports identifying where and how the Openbravo product is being utilized.
+
+For further information, please consult http://wiki.openbravo.com/wiki/ERP/2.50/User_Manual/HeartBeat
+
+Openbravo stores this information on servers in the USA and implements security measures in accordance with applicable legislation to maintain the confidentiality of this data. This data is not used for commercial purposes other than as set out above. It is not communicated or transferred to any third party
+
+You may deactivate this feature by disabling the “enable heartbeat” box. In addition, you may exercise your right to access, rectify, oppose and cancel the data by writing to Openbravo, S.L.U. PO Box 5117, 31010 Pamplona, Navarra, Spain, or by email to privacy@openbravo.com.
+
+By enabling the heartbeat, you consent to the processing of this data and storing of the same in the USA as set out above.</value>
+  </row>
+  <row id="101" trl="N">
+    <value column="Name" isTrl="N" original="Reference">Reference</value>
+    <value column="Description" isTrl="N" original="Edit standard data types such as strings, integers, lists as well as custom data types.">Edit standard data types such as strings, integers, lists as well as custom data types.</value>
+    <value column="Help" isTrl="N" original="Edit standard data types such as strings, integers, lists as well as custom data types.">Edit standard data types such as strings, integers, lists as well as custom data types.</value>
+  </row>
+  <row id="102" trl="N">
+    <value column="Name" isTrl="N" original="Windows, Tabs, and Fields">Windows, Tabs, and Fields</value>
+    <value column="Description" isTrl="N" original="Create and edit windows, tabs, and fields according to your business preferences.">Create and edit windows, tabs, and fields according to your business preferences.</value>
+    <value column="Help" isTrl="N" original="Create and edit windows, tabs, and fields according to your business preferences.">Create and edit windows, tabs, and fields according to your business preferences.</value>
+  </row>
+  <row id="103" trl="N">
+    <value column="Name" isTrl="N" original="Validation Setup">Validation Setup</value>
+    <value column="Description" isTrl="N" original="Create and edit the validation setup to be used for columns of tables.">Create and edit the validation setup to be used for columns of tables.</value>
+    <value column="Help" isTrl="N" original="Create and edit the validation setup to be used for columns of tables.">Create and edit the validation setup to be used for columns of tables.</value>
+  </row>
+  <row id="104" trl="N">
+    <value column="Name" isTrl="N" original="Message">Message</value>
+    <value column="Description" isTrl="N" original="Create and edit application initiated information and error messages.">Create and edit application initiated information and error messages.</value>
+    <value column="Help" isTrl="N" original="Create and edit application initiated information and error messages.">Create and edit application initiated information and error messages.</value>
+  </row>
+  <row id="105" trl="N">
+    <value column="Name" isTrl="N" original="Menu">Menu</value>
+    <value column="Description" isTrl="N" original="Edit the application menu tree structure according to your business necessities.">Edit the application menu tree structure according to your business necessities.</value>
+    <value column="Help" isTrl="N" original="Edit the application menu tree structure according to your business necessities.">Edit the application menu tree structure according to your business necessities.</value>
+  </row>
+  <row id="106" trl="N">
+    <value column="Name" isTrl="N" original="Language">Language</value>
+    <value column="Description" isTrl="N" original="Define multiple languages to be used in the application.">Define multiple languages to be used in the application.</value>
+    <value column="Help" isTrl="N" original="Define multiple languages to be used in the application.">Define multiple languages to be used in the application.</value>
+  </row>
+  <row id="107" trl="N">
+    <value column="Name" isTrl="N" original="Matched Invoices">Matched Invoices</value>
+    <value column="Description" isTrl="N" original="Track matching between purchase invoice lines and the corresponding shipment/receipt lines.">Track matching between purchase invoice lines and the corresponding shipment/receipt lines.</value>
+    <value column="Help" isTrl="N" original="This window helps you to post the discrepancies between inventory and financial accounting of those items for which the corresponding goods receipts were posted.">This window helps you to post the discrepancies between inventory and financial accounting of those items for which the corresponding goods receipts were posted.</value>
+  </row>
+  <row id="108" trl="N">
+    <value column="Name" isTrl="Y" original="User">Пользователь</value>
+    <value column="Description" isTrl="N" original="Create users and manage user roles to give access permissions.">Create users and manage user roles to give access permissions.</value>
+    <value column="Help" isTrl="N" original="A user is an entity which can log into Openbravo whenever it has a password and at least one role assigned to it.">A user is an entity which can log into Openbravo whenever it has a password and at least one role assigned to it.</value>
+  </row>
+  <row id="109" trl="N">
+    <value column="Name" isTrl="Y" original="Client">Подключение</value>
+    <value column="Description" isTrl="N" original="Define client characteristics, additional information, and defaults.">Define client characteristics, additional information, and defaults.</value>
+    <value column="Help" isTrl="N" original="A client is an independent entity composed of at least an enterprise or organization.  A client includes and manages the master data to share among all the organizations which belong to it and groups the transactional data booked in any of the organizations which belong to it.">A client is an independent entity composed of at least an enterprise or organization.  A client includes and manages the master data to share among all the organizations which belong to it and groups the transactional data booked in any of the organizations which belong to it.</value>
+  </row>
+  <row id="110" trl="N">
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
+    <value column="Description" isTrl="N" original="Create organizations and manage the organizational structure according to your business necessities.">Create organizations and manage the organizational structure according to your business necessities.</value>
+    <value column="Help" isTrl="N" original="An organization is an enterprise of a Client. Each client must have at least one organization created by running the Initial Organization Setup process. The process of creating an organization ends after setting it as &quot;Ready&quot;.">An organization is an enterprise of a Client. Each client must have at least one organization created by running the Initial Organization Setup process. The process of creating an organization ends after setting it as "Ready".</value>
+  </row>
+  <row id="111" trl="N">
+    <value column="Name" isTrl="Y" original="Role">Роль</value>
+    <value column="Description" isTrl="N" original="Create roles with assigned users, and edit roles access to organizations, windows, processes, etc.">Create roles with assigned users, and edit roles access to organizations, windows, processes, etc.</value>
+    <value column="Help" isTrl="N" original="The aim of a role is to group user/s depending on what parts of Openbravo they are allowed to access to and therefore to work in.">The aim of a role is to group user/s depending on what parts of Openbravo they are allowed to access to and therefore to work in.</value>
+  </row>
+  <row id="112" trl="N">
+    <value column="Name" isTrl="N" original="Document Sequence">Document Sequence</value>
+    <value column="Description" isTrl="N" original="Define an auto numbering system to uniquely identify document types.">Define an auto numbering system to uniquely identify document types.</value>
+    <value column="Help" isTrl="N" original="Every document in Openbravo can be numbered and therefore linked to a document sequence.">Every document in Openbravo can be numbered and therefore linked to a document sequence.</value>
+  </row>
+  <row id="115" trl="N">
+    <value column="Name" isTrl="Y" original="Currency">Валюта</value>
+    <value column="Description" isTrl="N" original="Define currencies and conversion rates to be used in the application.">Define currencies and conversion rates to be used in the application.</value>
+    <value column="Help" isTrl="N" original="Currencies and conversion rates are basic settings to share within Openbravo.">Currencies and conversion rates are basic settings to share within Openbravo.</value>
+  </row>
+  <row id="116" trl="N">
+    <value column="Name" isTrl="Y" original="Conversion Rates">Курсы обмена</value>
+    <value column="Description" isTrl="N" original="Define conversion rates to be used for currencies defined in the application.">Define conversion rates to be used for currencies defined in the application.</value>
+    <value column="Help" isTrl="N" original="Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.">Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.</value>
+  </row>
+  <row id="117" trl="N">
+    <value column="Name" isTrl="Y" original="Fiscal Calendar">Фискальный календарь</value>
+    <value column="Description" isTrl="N" original="Create multiple fiscal calendars and periods for accounting purposes.">Create multiple fiscal calendars and periods for accounting purposes.</value>
+    <value column="Help" isTrl="N" original="&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types inherit it from it.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization accounting practice.&#10;&#10;">"Legal entities with accounting" organization types must have a fiscal calendar assigned while rest of organization types inherit it from it.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization accounting practice.
+
+</value>
+  </row>
+  <row id="118" trl="N">
+    <value column="Name" isTrl="Y" original="Account Tree">План счетов</value>
+    <value column="Description" isTrl="N" original="Create and edit account elements and add them to your defined chart of accounts or account trees.">Create and edit account elements and add them to your defined chart of accounts or account trees.</value>
+    <value column="Help" isTrl="N" original="An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.">An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.</value>
+  </row>
+  <row id="11E11FE8445B4621A9989DD406C1B374" trl="N">
+    <value column="Name" isTrl="N" original="Organization Type">Organization Type</value>
+    <value column="Description" isTrl="N" original="Defines an organization type which will be available into the system">Defines an organization type which will be available into the system</value>
+    <value column="Help" isTrl="N" original="An organization can be a Legal Entity, a Business Unit or neither of both.&#10;You can also select if transactions are allowed or not for this organization type.">An organization can be a Legal Entity, a Business Unit or neither of both.
+You can also select if transactions are allowed or not for this organization type.</value>
+  </row>
+  <row id="120" trl="N">
+    <value column="Name" isTrl="N" original="Unit of Measure">Unit of Measure</value>
+    <value column="Description" isTrl="N" original="Create units of measure and conversions rates to be applied to products.">Create units of measure and conversions rates to be applied to products.</value>
+    <value column="Help" isTrl="N" original="A unit of measure is a standard unit or combination of units to be used alongside the quantity of a product.">A unit of measure is a standard unit or combination of units to be used alongside the quantity of a product.</value>
+  </row>
+  <row id="121" trl="N">
+    <value column="Name" isTrl="N" original="Location">Location</value>
+    <value column="Description" isTrl="N" original="Define addresses or service points of your organizations.">Define addresses or service points of your organizations.</value>
+    <value column="Help" isTrl="N" original="Define addresses or service points of your organizations.">Define addresses or service points of your organizations.</value>
+  </row>
+  <row id="122" trl="N">
+    <value column="Name" isTrl="N" original="Country and Region">Country and Region</value>
+    <value column="Description" isTrl="N" original="Define countries with regions to be used in the application.">Define countries with regions to be used in the application.</value>
+    <value column="Help" isTrl="N" original="Countries and regions are basic settings to share within Openbravo.">Countries and regions are basic settings to share within Openbravo.</value>
+  </row>
+  <row id="123" trl="N">
+    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Description" isTrl="N" original="Create and edit business partner information, templates, and bank accounts.">Create and edit business partner information, templates, and bank accounts.</value>
+    <value column="Help" isTrl="N" original="Business partner master data window is the place where you can easily organize and centralize business partner data. ">Business partner master data window is the place where you can easily organize and centralize business partner data. </value>
+  </row>
+  <row id="123271B9AD60469BAE8A924841456B63" trl="N">
+    <value column="Name" isTrl="N" original="Return Material Receipt">Return Material Receipt</value>
+    <value column="Description" isTrl="N" original="Return material receipt">Return material receipt</value>
+    <value column="Help" isTrl="N" original="In this window you receive the material that has been returned from the customer">In this window you receive the material that has been returned from the customer</value>
+  </row>
+  <row id="125" trl="N">
+    <value column="Name" isTrl="N" original="General Ledger Configuration">Настройка Главной книги</value>
+    <value column="Description" isTrl="N" original="Create and edit general ledger including dimensions and default accounts.">Create and edit general ledger including dimensions and default accounts.</value>
+    <value column="Help" isTrl="N" original="Accounting configuration.">Accounting configuration.</value>
+  </row>
+  <row id="129" trl="N">
+    <value column="Name" isTrl="N" original="Preference">Preference</value>
+    <value column="Description" isTrl="N" original="Create and edit extremely restrictive values for a specified user, window, or for the entire application.">Create and edit extremely restrictive values for a specified user, window, or for the entire application.</value>
+    <value column="Help" isTrl="N" original="A preference is a type of session value which can either be an attribute or a property.">A preference is a type of session value which can either be an attribute or a property.</value>
+  </row>
+  <row id="130" trl="N">
+    <value column="Name" isTrl="N" original="Multiphase Project">Multiphase Project</value>
+    <value column="Description" isTrl="N" original="Create and edit projects and tasks potentially requiring sales invoicing.">Create and edit projects and tasks potentially requiring sales invoicing.</value>
+    <value column="Help" isTrl="N" original="Create and edit projects and tasks potentially requiring sales invoicing.&#10;">Create and edit projects and tasks potentially requiring sales invoicing.
+</value>
+  </row>
+  <row id="131" trl="N">
+    <value column="Name" isTrl="N" original="G/L Category">G/L Category</value>
+    <value column="Description" isTrl="N" original="Define G/L Categories to be used in the General Ledger.">Define G/L Categories to be used in the General Ledger.</value>
+    <value column="Help" isTrl="N" original="Define G/L Categories to be used in the General Ledger.">Define G/L Categories to be used in the General Ledger.</value>
+  </row>
+  <row id="132" trl="N">
+    <value column="Name" isTrl="N" original="G/L Journal">G/L Journal</value>
+    <value column="Description" isTrl="N" original="Create and edit manual G/L journal entries.">Create and edit manual G/L journal entries.</value>
+    <value column="Help" isTrl="N" original="General Ledger journals allow to manually enter and post accounting entries including &quot;opening&quot; balance accounts ones.">General Ledger journals allow to manually enter and post accounting entries including "opening" balance accounts ones.</value>
+  </row>
+  <row id="134" trl="N">
+    <value column="Name" isTrl="N" original="ABC Activity">ABC Activity</value>
+    <value column="Description" isTrl="N" original="Define activities for which you are interested in managing costs.">Define activities for which you are interested in managing costs.</value>
+    <value column="Help" isTrl="N" original="Activity based costing (ABC) is a special costing model that identifies activities in an organization for which managing cost is required.&#10;&#10;">Activity based costing (ABC) is a special costing model that identifies activities in an organization for which managing cost is required.
+
+</value>
+  </row>
+  <row id="135" trl="N">
+    <value column="Name" isTrl="N" original="Document Type">Document Type</value>
+    <value column="Description" isTrl="N" original="Create and manage document types to be used for all application transactions.">Create and manage document types to be used for all application transactions.</value>
+    <value column="Help" isTrl="N" original="Each document type in Openbravo refers to a business transactions. Business transactions such as purchase orders, shipments or sales invoices among others.">Each document type in Openbravo refers to a business transactions. Business transactions such as purchase orders, shipments or sales invoices among others.</value>
+  </row>
+  <row id="137" trl="N">
+    <value column="Name" isTrl="N" original="Tax Rate">Tax Rate</value>
+    <value column="Description" isTrl="N" original="Create tax rates to be used in application transactions.">Create tax rates to be used in application transactions.</value>
+    <value column="Help" isTrl="N" original="Each tax rate in Openbravo is a combination of different variables such as the tax category, the rate and the business partner tax category among others.&lt;br&gt;If all those variables are properly setup the correct tax rate is automatically filled in every business transaction.">Each tax rate in Openbravo is a combination of different variables such as the tax category, the rate and the business partner tax category among others.&lt;br&gt;If all those variables are properly setup the correct tax rate is automatically filled in every business transaction.</value>
+  </row>
+  <row id="138" trl="N">
+    <value column="Name" isTrl="N" original="Tax Category">Tax Category</value>
+    <value column="Description" isTrl="N" original="Create tax categories to manage tax rates with similar characteristics or attributes.">Create tax categories to manage tax rates with similar characteristics or attributes.</value>
+    <value column="Help" isTrl="N" original="A tax category allows to group and manage similar product or services tax rates.">A tax category allows to group and manage similar product or services tax rates.</value>
+  </row>
+  <row id="139" trl="N">
+    <value column="Name" isTrl="N" original="Warehouse and Storage Bins">Warehouse and Storage Bins</value>
+    <value column="Description" isTrl="N" original="Create warehouses and organize them using storage bins.">Create warehouses and organize them using storage bins.</value>
+    <value column="Help" isTrl="N" original="Create warehouses and organize them using storage bins.">Create warehouses and organize them using storage bins.</value>
+  </row>
+  <row id="140" trl="N">
+    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Description" isTrl="N" original="Create products and manage the related costing, purchasing, and pricing setup.">Create products and manage the related costing, purchasing, and pricing setup.</value>
+    <value column="Help" isTrl="N" original="Product master data window is the place where you can easily organize and centralize the key data of the items of any type you might manage as part of the organization processes and/or activities.">Product master data window is the place where you can easily organize and centralize the key data of the items of any type you might manage as part of the organization processes and/or activities.</value>
+  </row>
+  <row id="141" trl="N">
+    <value column="Name" isTrl="Y" original="Payment Term">Условие оплаты</value>
+    <value column="Description" isTrl="N" original="Define payment terms to be used for business partners taking part in transactions.">Define payment terms to be used for business partners taking part in transactions.</value>
+    <value column="Help" isTrl="N" original="A payment term specifies the period allowed to pay off an amount due.">A payment term specifies the period allowed to pay off an amount due.</value>
+  </row>
+  <row id="142" trl="N">
+    <value column="Name" isTrl="N" original="Shipping Company">Shipping Company</value>
+    <value column="Description" isTrl="N" original="Create shipping companies and define freight costs to be used in products logistics.">Create shipping companies and define freight costs to be used in products logistics.</value>
+    <value column="Help" isTrl="N" original="Create shipping companies and define freight costs to be used in products logistics.">Create shipping companies and define freight costs to be used in products logistics.</value>
+  </row>
+  <row id="143" trl="N">
+    <value column="Name" isTrl="N" original="Sales Order">Sales Order</value>
+    <value column="Description" isTrl="N" original="Create orders tracking product sales to customers.">Create orders tracking product sales to customers.</value>
+    <value column="Help" isTrl="N" original="Create orders tracking product sales to customers.">Create orders tracking product sales to customers.</value>
+  </row>
+  <row id="144" trl="N">
+    <value column="Name" isTrl="N" original="Product Category">Product Category</value>
+    <value column="Description" isTrl="N" original="Create product categories to better organize your products and create more powerful reports.">Create product categories to better organize your products and create more powerful reports.</value>
+    <value column="Help" isTrl="N" original="Similar products can be grouped into different categories which must be created with the aim of helping their management and analysis.">Similar products can be grouped into different categories which must be created with the aim of helping their management and analysis.</value>
+  </row>
+  <row id="146" trl="N">
+    <value column="Name" isTrl="N" original="Price List">Price List</value>
+    <value column="Description" isTrl="N" original="Create and edit price lists and versions to optionally apply specified product prices to individual business partners.">Create and edit price lists and versions to optionally apply specified product prices to individual business partners.</value>
+    <value column="Help" isTrl="N" original="A price list is a listing of prices for different products or services. &lt;br&gt;It is possible to create as many price list and price list versions as required depending on the organization needs.&#10;">A price list is a listing of prices for different products or services. &lt;br&gt;It is possible to create as many price list and price list versions as required depending on the organization needs.
+</value>
+  </row>
+  <row id="147" trl="N">
+    <value column="Name" isTrl="N" original="Invoice Schedule">Invoice Schedule</value>
+    <value column="Description" isTrl="N" original="Define invoice schedules to be used for business partners.">Define invoice schedules to be used for business partners.</value>
+    <value column="Help" isTrl="N" original="Invoice schedule window allows to define and configure how often and by when an organization can issue invoices to be sent to customers.">Invoice schedule window allows to define and configure how often and by when an organization can issue invoices to be sent to customers.</value>
+  </row>
+  <row id="149" trl="N">
+    <value column="Name" isTrl="N" original="Sales Campaign">Sales Campaign</value>
+    <value column="Description" isTrl="N" original="Create specific sales campaigns to be used in sales operations.">Create specific sales campaigns to be used in sales operations.</value>
+    <value column="Help" isTrl="N" original="Create specific sales campaigns to be used in sales operations.">Create specific sales campaigns to be used in sales operations.</value>
+  </row>
+  <row id="150" trl="N">
+    <value column="Name" isTrl="N" original="Sales Channel">Sales Channel</value>
+    <value column="Description" isTrl="N" original="Create specific sales channels to be used in sales operations.">Create specific sales channels to be used in sales operations.</value>
+    <value column="Help" isTrl="N" original="Create specific sales channels to be used in sales operations.">Create specific sales channels to be used in sales operations.</value>
+  </row>
+  <row id="151" trl="N">
+    <value column="Name" isTrl="N" original="Element">Element</value>
+    <value column="Description" isTrl="N" original="Edit the central repository of application elements to update field name descriptions and help/comments.">Edit the central repository of application elements to update field name descriptions and help/comments.</value>
+    <value column="Help" isTrl="N" original="Edit the central repository of application elements to update field name descriptions and help/comments.">Edit the central repository of application elements to update field name descriptions and help/comments.</value>
+  </row>
+  <row id="152" trl="N">
+    <value column="Name" isTrl="Y" original="Sales Region">Регион продаж</value>
+    <value column="Description" isTrl="N" original="Create sales regions to be used in sales operations.">Create sales regions to be used in sales operations.</value>
+    <value column="Help" isTrl="N" original="Create sales regions to be used in sales operations.">Create sales regions to be used in sales operations.</value>
+  </row>
+  <row id="153" trl="N">
+    <value column="Name" isTrl="N" original="Account Combination">Account Combination</value>
+    <value column="Description" isTrl="N" original="Create accounting combinations to be used in Openbravo's accounting process.">Create accounting combinations to be used in Openbravo's accounting process.</value>
+    <value column="Help" isTrl="N" original="An account combination is an account (subaccount) of a given accounting schema associated to a given organization. ">An account combination is an account (subaccount) of a given accounting schema associated to a given organization. </value>
+  </row>
+  <row id="158" trl="N">
+    <value column="Name" isTrl="N" original="Bank">Bank</value>
+    <value column="Description" isTrl="N" original="Define banks and the related accounts.">Define banks and the related accounts.</value>
+    <value column="Help" isTrl="N" original="Define banks and the related accounts.">Define banks and the related accounts.</value>
+  </row>
+  <row id="162" trl="N">
+    <value column="Name" isTrl="N" original="Accounting Transaction Details">Accounting Transaction Details</value>
+    <value column="Description" isTrl="N" original="View detailed general ledger entries for a specified time period.">View detailed general ledger entries for a specified time period.</value>
+    <value column="Help" isTrl="N" original="Openbravo has an integrated accounting system that combines financial and analytical accounting. Each accounting type exploits a set of accounting dimensions.">Openbravo has an integrated accounting system that combines financial and analytical accounting. Each accounting type exploits a set of accounting dimensions.</value>
+  </row>
+  <row id="163" trl="N">
+    <value column="Name" isTrl="Y" original="Tree and Node Image">Планы и схемы</value>
+    <value column="Description" isTrl="N" original="Defines the descriptions and images that will be used when a tree is displayed.">Defines the descriptions and images that will be used when a tree is displayed.</value>
+    <value column="Help" isTrl="N" original="Defines the descriptions and images that will be used when a tree is displayed.">Defines the descriptions and images that will be used when a tree is displayed.</value>
+  </row>
+  <row id="165" trl="N">
+    <value column="Name" isTrl="N" original="Report and Process">Report and Process</value>
+    <value column="Description" isTrl="N" original="Define and edit reports and processes (database or Java).">Define and edit reports and processes (database or Java).</value>
+    <value column="Help" isTrl="N" original="Define and edit reports and processes (database or Java).">Define and edit reports and processes (database or Java).</value>
+  </row>
+  <row id="167" trl="N">
+    <value column="Name" isTrl="Y" original="Sales Invoice">Расходная счет-фактура</value>
+    <value column="Description" isTrl="N" original="Create and edit sales invoices for your customers.">Create and edit sales invoices for your customers.</value>
+    <value column="Help" isTrl="N" original="Create and edit sales invoices for your customers.">Create and edit sales invoices for your customers.</value>
+  </row>
+  <row id="168" trl="N">
+    <value column="Name" isTrl="Y" original="Physical Inventory">Инвентаризация</value>
+    <value column="Description" isTrl="N" original="Create and edit inventory counts and update your stock quantities.">Create and edit inventory counts and update your stock quantities.</value>
+    <value column="Help" isTrl="N" original="Physical Inventory window allows to execute goods count process in Openbravo.">Physical Inventory window allows to execute goods count process in Openbravo.</value>
+  </row>
+  <row id="169" trl="N">
+    <value column="Name" isTrl="N" original="Goods Shipment">Goods Shipment</value>
+    <value column="Description" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
+    <value column="Help" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
+  </row>
+  <row id="170" trl="N">
+    <value column="Name" isTrl="Y" original="Goods Movements">Перемещение товаров</value>
+    <value column="Description" isTrl="N" original="Create and edit internal inventory movements among warehouses and storage bins.">Create and edit internal inventory movements among warehouses and storage bins.</value>
+    <value column="Help" isTrl="N" original="Create and edit internal inventory movements among warehouses and storage bins.">Create and edit internal inventory movements among warehouses and storage bins.</value>
+  </row>
+  <row id="178" trl="N">
+    <value column="Name" isTrl="N" original="Title">Title</value>
+    <value column="Description" isTrl="N" original="Define titles to be used to address a business partner.">Define titles to be used to address a business partner.</value>
+    <value column="Help" isTrl="N" original="Title window allows to setup business partner titles such as Mr or Madame to be used while contacting business partners.">Title window allows to setup business partner titles such as Mr or Madame to be used while contacting business partners.</value>
+  </row>
+  <row id="181" trl="N">
+    <value column="Name" isTrl="Y" original="Purchase Order">Приходная накладная</value>
+    <value column="Description" isTrl="N" original="Create and edit orders to buy products from suppliers.">Create and edit orders to buy products from suppliers.</value>
+    <value column="Help" isTrl="N" original="Purchase Order window allows the procurement team to create and manage orders which once booked will be sent to the external suppliers.">Purchase Order window allows the procurement team to create and manage orders which once booked will be sent to the external suppliers.</value>
+  </row>
+  <row id="183" trl="N">
+    <value column="Name" isTrl="Y" original="Purchase Invoice">Приходная счет-фактура</value>
+    <value column="Description" isTrl="N" original="Purchase invoice window allows to register and manage suppliers invoices.">Purchase invoice window allows to register and manage suppliers invoices.</value>
+    <value column="Help" isTrl="N" original="Purchase invoice window allows to register and manage suppliers invoices.">Purchase invoice window allows to register and manage suppliers invoices.</value>
+  </row>
+  <row id="184" trl="N">
+    <value column="Name" isTrl="N" original="Goods Receipt">Goods Receipt</value>
+    <value column="Description" isTrl="N" original="Create and edit goods receipts from your vendors and create invoices from these receipts.">Create and edit goods receipts from your vendors and create invoices from these receipts.</value>
+    <value column="Help" isTrl="N" original="A Goods Receipt is a document issued to acknowledge the receipt of the items listed in it.">A Goods Receipt is a document issued to acknowledge the receipt of the items listed in it.</value>
+  </row>
+  <row id="187" trl="N">
+    <value column="Name" isTrl="N" original="Form">Form</value>
+    <value column="Description" isTrl="N" original="Create and edit forms (manual windows) to be used in the application.">Create and edit forms (manual windows) to be used in the application.</value>
+    <value column="Help" isTrl="N" original="Create and edit forms (manual windows) to be used in the application.">Create and edit forms (manual windows) to be used in the application.</value>
+  </row>
+  <row id="191" trl="N">
+    <value column="Name" isTrl="N" original="Bill of Materials Production">Bill of Materials Production</value>
+    <value column="Description" isTrl="N" original="Create and run production processes using the previously defined bills of materials.">Create and run production processes using the previously defined bills of materials.</value>
+    <value column="Help" isTrl="N" original="Create and run production processes using the previously defined bills of materials.">Create and run production processes using the previously defined bills of materials.</value>
+  </row>
+  <row id="192" trl="N">
+    <value column="Name" isTrl="N" original="Business Partner Category">Business Partner Category</value>
+    <value column="Description" isTrl="N" original="Create and edit information related to similar business partners at one time by grouping them.">Create and edit information related to similar business partners at one time by grouping them.</value>
+    <value column="Help" isTrl="N" original="Business partners can be grouped into different categories which must be created with the aim of helping their management and analysis.">Business partners can be grouped into different categories which must be created with the aim of helping their management and analysis.</value>
+  </row>
+  <row id="194" trl="N">
+    <value column="Name" isTrl="N" original="Bank Statement">Bank Statement</value>
+    <value column="Description" isTrl="N" original="View your bank statements against transactions created and edited in the application.">View your bank statements against transactions created and edited in the application.</value>
+    <value column="Help" isTrl="N" original="View your bank statements against transactions created and edited in the application.">View your bank statements against transactions created and edited in the application.</value>
+  </row>
+  <row id="197" trl="N">
+    <value column="Name" isTrl="Y" original="Cashbook">Кассовая книга</value>
+    <value column="Description" isTrl="N" original="Create cashbooks to manage all cash movements which occur in the cash journal.">Create cashbooks to manage all cash movements which occur in the cash journal.</value>
+    <value column="Help" isTrl="N" original="Create cashbooks to manage all cash movements which occur in the cash journal.">Create cashbooks to manage all cash movements which occur in the cash journal.</value>
+  </row>
+  <row id="198" trl="N">
+    <value column="Name" isTrl="Y" original="Cash Journal">Касса</value>
+    <value column="Description" isTrl="N" original="Add individual cash transactions to be managed and viewed in the cashbook.">Add individual cash transactions to be managed and viewed in the cashbook.</value>
+    <value column="Help" isTrl="N" original="Add individual cash transactions to be managed and viewed in the cashbook.">Add individual cash transactions to be managed and viewed in the cashbook.</value>
+  </row>
+  <row id="1B7B3BB7FEAF41ED8D9727AB98779D3C" trl="N">
+    <value column="Name" isTrl="N" original="Payment Proposal">Payment Proposal</value>
+    <value column="Description" isTrl="N" original="Generates a payment proposal for a selected payment method based on a criteria.">Generates a payment proposal for a selected payment method based on a criteria.</value>
+    <value column="Help" isTrl="N" original="A mechanism by which a user can make payment by selecting scheduled payment events for a particular payment method by due date. The system &quot;proposes&quot; what should be paid based on the selection criteria provided by the user.">A mechanism by which a user can make payment by selecting scheduled payment events for a particular payment method by due date. The system "proposes" what should be paid based on the selection criteria provided by the user.</value>
+  </row>
+  <row id="200" trl="N">
+    <value column="Name" isTrl="N" original="Field Category">Field Category</value>
+    <value column="Description" isTrl="N" original="Edit the subsection field group properties of tabs.">Edit the subsection field group properties of tabs.</value>
+    <value column="Help" isTrl="N" original="Edit the subsection field group properties of tabs.">Edit the subsection field group properties of tabs.</value>
+  </row>
+  <row id="207" trl="N">
+    <value column="Name" isTrl="N" original="Commission">Commission</value>
+    <value column="Description" isTrl="N" original="Define how and when you want commissions to be calculated and to whom they are to be paid.">Define how and when you want commissions to be calculated and to whom they are to be paid.</value>
+    <value column="Help" isTrl="N" original="Define how and when commissions are going to be calculated and to whom they are going to be paid.">Define how and when commissions are going to be calculated and to whom they are going to be paid.</value>
+  </row>
+  <row id="210" trl="N">
+    <value column="Name" isTrl="N" original="Commission Payment">Commission Payment</value>
+    <value column="Description" isTrl="N" original="Create commissions and create corresponding invoices.">Create commissions and create corresponding invoices.</value>
+    <value column="Help" isTrl="N" original="Create commissions and create corresponding invoices.">Create commissions and create corresponding invoices.</value>
+  </row>
+  <row id="223" trl="N">
+    <value column="Name" isTrl="N" original="Goods Transaction">Goods Transaction</value>
+    <value column="Description" isTrl="N" original="Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.">Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.</value>
+    <value column="Help" isTrl="N" original="Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.">Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.</value>
+  </row>
+  <row id="227" trl="N">
+    <value column="Name" isTrl="N" original="Application Image">Application Image</value>
+    <value column="Description" isTrl="N" original="Create and edit images that later will be used in other windows.">Create and edit images that later will be used in other windows.</value>
+    <value column="Help" isTrl="N" original="Create and edit images that later will be used in other windows.">Create and edit images that later will be used in other windows.</value>
+  </row>
+  <row id="228" trl="N">
+    <value column="Name" isTrl="N" original="Matched Purchase Orders">Matched Purchase Orders</value>
+    <value column="Description" isTrl="N" original="Track matching between purchase order lines and the corresponding shipment/receipt or invoice lines. ">Track matching between purchase order lines and the corresponding shipment/receipt or invoice lines. </value>
+    <value column="Help" isTrl="N" original="This window informs about the matching between each purchase order, goods receipt and invoice line.">This window informs about the matching between each purchase order, goods receipt and invoice line.</value>
+  </row>
+  <row id="233" trl="N">
+    <value column="Name" isTrl="N" original="Price List Schema">Price List Schema</value>
+    <value column="Description" isTrl="N" original="Define a Price List Schema to be assigned to business partners.">Define a Price List Schema to be assigned to business partners.</value>
+    <value column="Help" isTrl="N" original="A price list schema is a template used to automatically populate a new version of a price list ">A price list schema is a template used to automatically populate a new version of a price list </value>
+  </row>
+  <row id="234" trl="N">
+    <value column="Name" isTrl="N" original="Expense Type">Expense Type</value>
+    <value column="Description" isTrl="N" original="Maintain Expense Report Types">Maintain Expense Report Types</value>
+    <value column="Help" isTrl="N" original="Maintain Expense Report Types">Maintain Expense Report Types</value>
+  </row>
+  <row id="235" trl="N">
+    <value column="Name" isTrl="N" original="Expense Sheet">Expense Sheet</value>
+    <value column="Description" isTrl="N" original="Create a time or expense sheet in order to submit employee or invoicable expenses.">Create a time or expense sheet in order to submit employee or invoicable expenses.</value>
+    <value column="Help" isTrl="N" original="Create a time or expense sheet in order to submit employee or invoicable expenses.">Create a time or expense sheet in order to submit employee or invoicable expenses.</value>
+  </row>
+  <row id="236" trl="N">
+    <value column="Name" isTrl="N" original="Resource">Resource</value>
+    <value column="Description" isTrl="N" original="Maintain Resources">Maintain Resources</value>
+    <value column="Help" isTrl="N" original="Maintain Resources">Maintain Resources</value>
+  </row>
+  <row id="237" trl="N">
+    <value column="Name" isTrl="N" original="Resource Type">Resource Type</value>
+    <value column="Description" isTrl="N" original="Maintain Resource Types">Maintain Resource Types</value>
+    <value column="Help" isTrl="N" original="Maintain Resource types and their principal availability.">Maintain Resource types and their principal availability.</value>
+  </row>
+  <row id="242" trl="N">
+    <value column="Name" isTrl="N" original="Invoiceable Expenses">Invoiceable Expenses</value>
+    <value column="Description" isTrl="N" original="View expenses before invoicing them to customers.">View expenses before invoicing them to customers.</value>
+    <value column="Help" isTrl="N" original="View expenses before invoicing them to customers.">View expenses before invoicing them to customers.</value>
+  </row>
+  <row id="246" trl="N">
+    <value column="Name" isTrl="N" original="System">System</value>
+    <value column="Description" isTrl="N" original="System Definition">System Definition</value>
+    <value column="Help" isTrl="N" original="System Definition">System Definition</value>
+  </row>
+  <row id="24DDE1DDF13942D78B6D6F216979E56A" trl="N">
+    <value column="Name" isTrl="N" original="Execution Process">Execution Process</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="252" trl="N">
+    <value column="Name" isTrl="N" original="Asset Group">Asset Group</value>
+    <value column="Description" isTrl="N" original="Create and edit categories to group assets with similar characteristics together.">Create and edit categories to group assets with similar characteristics together.</value>
+    <value column="Help" isTrl="N" original="Create and edit categories to group assets with similar characteristics together.">Create and edit categories to group assets with similar characteristics together.</value>
+  </row>
+  <row id="254" trl="N">
+    <value column="Name" isTrl="N" original="Employee Expenses">Employee Expenses</value>
+    <value column="Description" isTrl="N" original="View internal employee expenses before processing them.">View internal employee expenses before processing them.</value>
+    <value column="Help" isTrl="N" original="View internal employee expenses before processing them.">View internal employee expenses before processing them.</value>
+  </row>
+  <row id="256" trl="N">
+    <value column="Name" isTrl="N" original="Attribute Set">Attribute Set</value>
+    <value column="Description" isTrl="N" original="Define a group of attributes to apply to specific products.">Define a group of attributes to apply to specific products.</value>
+    <value column="Help" isTrl="N" original="An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.">An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.</value>
+  </row>
+  <row id="257" trl="N">
+    <value column="Name" isTrl="N" original="Lot">Lot</value>
+    <value column="Description" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
+    <value column="Help" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
+  </row>
+  <row id="258" trl="N">
+    <value column="Name" isTrl="N" original="Lot Number Sequence">Lot Number Sequence</value>
+    <value column="Description" isTrl="N" original="Define a number sequence to assign lot numbers to products.">Define a number sequence to assign lot numbers to products.</value>
+    <value column="Help" isTrl="N" original="A product attribute can be a Lot Number.">A product attribute can be a Lot Number.</value>
+  </row>
+  <row id="259" trl="N">
+    <value column="Name" isTrl="N" original="Serial Number Sequence">Serial Number Sequence</value>
+    <value column="Description" isTrl="N" original="Define a serial number sequence to assign serial numbers to products.">Define a serial number sequence to assign serial numbers to products.</value>
+    <value column="Help" isTrl="N" original="A product attribute can be a serial number.">A product attribute can be a serial number.</value>
+  </row>
+  <row id="260" trl="N">
+    <value column="Name" isTrl="N" original="Attribute">Attribute</value>
+    <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
+    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest.
+</value>
+  </row>
+  <row id="264" trl="N">
+    <value column="Name" isTrl="N" original="Session">Session</value>
+    <value column="Description" isTrl="N" original="View all login's made in the application.">View all login's made in the application.</value>
+    <value column="Help" isTrl="N" original="View all login's made in the application.">View all login's made in the application.</value>
+  </row>
+  <row id="265" trl="N">
+    <value column="Name" isTrl="N" original="Project Type">Project Type</value>
+    <value column="Description" isTrl="N" original="Define projects types with typical phases and tasks to be used in projects.">Define projects types with typical phases and tasks to be used in projects.</value>
+    <value column="Help" isTrl="N" original="Define projects types with typical phases and tasks to be used in projects.">Define projects types with typical phases and tasks to be used in projects.</value>
+  </row>
+  <row id="268" trl="N">
+    <value column="Name" isTrl="N" original="Role Access">Role Access</value>
+    <value column="Description" isTrl="N" original="Define access to DB tables and columns for selected roles.">Define access to DB tables and columns for selected roles.</value>
+    <value column="Help" isTrl="N" original="Define access to DB tables and columns for selected roles.">Define access to DB tables and columns for selected roles.</value>
+  </row>
+  <row id="273673D2ED914C399A6C51DB758BE0F9" trl="N">
+    <value column="Name" isTrl="N" original="Return to Vendor Shipment">Return to Vendor Shipment</value>
+    <value column="Description" isTrl="N" original="Return to vendor shipment">Return to vendor shipment</value>
+    <value column="Help" isTrl="N" original="From this window you deliver the returned goods to the vendor">From this window you deliver the returned goods to the vendor</value>
+  </row>
+  <row id="276" trl="N">
+    <value column="Name" isTrl="N" original="Alert">Alert</value>
+    <value column="Description" isTrl="N" original="Create and edit alerts that will inform you about any critical or important situation in the application.">Create and edit alerts that will inform you about any critical or important situation in the application.</value>
+    <value column="Help" isTrl="N" original="Alerts are notifications which inform about events happening whenever an alert rule has been properly defined to monitor those events.">Alerts are notifications which inform about events happening whenever an alert rule has been properly defined to monitor those events.</value>
+  </row>
+  <row id="282" trl="N">
+    <value column="Name" isTrl="N" original="Freight Category">Freight Category</value>
+    <value column="Description" isTrl="N" original="Define freight categories to be used by shippers.">Define freight categories to be used by shippers.</value>
+    <value column="Help" isTrl="N" original="Define freight categories to be used by shippers.">Define freight categories to be used by shippers.</value>
+  </row>
+  <row id="283" trl="N">
+    <value column="Name" isTrl="Y" original="Accounting Dimension">План счетов по субконто</value>
+    <value column="Description" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
+    <value column="Help" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
+  </row>
+  <row id="291" trl="N">
+    <value column="Name" isTrl="Y" original="Business Partner Info">Описание контрагента</value>
+    <value column="Description" isTrl="N" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">View information related to business partner orders, receipts/shipments, invoices, and assets.</value>
+    <value column="Help" isTrl="N" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">View information related to business partner orders, receipts/shipments, invoices, and assets.</value>
+  </row>
+  <row id="2CC1DC1EDEA2454F987E7F2BBF48A4AE" trl="N">
+    <value column="Name" isTrl="N" original="Dataset">Dataset</value>
+    <value column="Description" isTrl="N" original="Dataset">Dataset</value>
+    <value column="Help" isTrl="N" original="Sets of data.">Sets of data.</value>
+  </row>
+  <row id="31496219132644BE8D477517595AE9D3" trl="N">
+    <value column="Name" isTrl="N" original="RFC Order Pick / Edit Lines">RFC Order Pick / Edit Lines</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="3596042B422E4F049F9E4AAED238C219" trl="N">
+    <value column="Name" isTrl="N" original="RM Shipment Pick and Edit">RM Shipment Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="3CAAC7D54593489384452416ACF356DD" trl="N">
+    <value column="Name" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="3E945A9102144C16BD211D211089C2DF" trl="N">
+    <value column="Name" isTrl="N" original="Costing Rules">Costing Rules</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Costing Rules are rules to be applied during cost calculation. Each rule has a valid from date and sets the costing algorithm to be used and the dimensions that are desired to apply.">Costing Rules are rules to be applied during cost calculation. Each rule has a valid from date and sets the costing algorithm to be used and the dimensions that are desired to apply.</value>
+  </row>
+  <row id="44C2799AA0644D9BB8C018933BF83F16" trl="N">
+    <value column="Name" isTrl="N" original="Extension Points">Extension Points</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="48E7EDE7D1104A59B46FC7449D9FB267" trl="N">
+    <value column="Name" isTrl="N" original="Process Request">Process Request</value>
+    <value column="Description" isTrl="N" original="Request processes and reports to be scheduled and executed in the background.">Request processes and reports to be scheduled and executed in the background.</value>
+    <value column="Help" isTrl="N" original="A background process is a system action requested by the user who has to previously provide auxiliary parameter values to execute that action.">A background process is a system action requested by the user who has to previously provide auxiliary parameter values to execute that action.</value>
+  </row>
+  <row id="557A0AA1D0D745F9A61557C05483072C" trl="N">
+    <value column="Name" isTrl="N" original="Bank File Format">Bank File Format</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="578DD45CF2BF4D3CA27E4C0EEEF5E5E6" trl="N">
+    <value column="Name" isTrl="N" original="System Info">System Info</value>
+    <value column="Description" isTrl="N" original="System Info">System Info</value>
+    <value column="Help" isTrl="N" original="System Info">System Info</value>
+  </row>
+  <row id="6CB5B67ED33F47DFA334079D3EA2340E" trl="N">
+    <value column="Name" isTrl="N" original="Sales Quotation">Sales Quotation</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="6CB90FC76E2E4CD3A6AF472E39C042B6" trl="N">
+    <value column="Name" isTrl="N" original="Costing Algorithm">Costing Algorithm</value>
+    <value column="Description" isTrl="N" original="Defines each costing algorithm installed and ready to use">Defines each costing algorithm installed and ready to use</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="6F8F913FA60F4CBD93DC1D3AA696E76E" trl="N">
+    <value column="Name" isTrl="N" original="Payment Out">Payment Out</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="800000" trl="N">
+    <value column="Name" isTrl="N" original="Auxiliary Input">Auxiliary Input</value>
+    <value column="Description" isTrl="N" original="Define values of a selected field, depending on the tab that is being edited.">Define values of a selected field, depending on the tab that is being edited.</value>
+    <value column="Help" isTrl="N" original="Define values of a selected field, depending on the tab that is being edited.">Define values of a selected field, depending on the tab that is being edited.</value>
+  </row>
+  <row id="800001" trl="N">
+    <value column="Name" isTrl="N" original="Service Project">Service Project</value>
+    <value column="Description" isTrl="N" original="Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.">Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.</value>
+    <value column="Help" isTrl="N" original="Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.">Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.</value>
+  </row>
+  <row id="800002" trl="N">
+    <value column="Name" isTrl="N" original="Incoterm">Incoterm</value>
+    <value column="Description" isTrl="N" original="Define international commercial terms (Incoterms) to be used in sales transactions.">Define international commercial terms (Incoterms) to be used in sales transactions.</value>
+    <value column="Help" isTrl="N" original="Define international commercial terms (Incoterms) to be used in sales transactions.">Define international commercial terms (Incoterms) to be used in sales transactions.</value>
+  </row>
+  <row id="800003" trl="N">
+    <value column="Name" isTrl="N" original="Volume Discount">Volume Discount</value>
+    <value column="Description" isTrl="N" original="Create volume discounts related to products and product categories to be assigned to selected business partners.">Create volume discounts related to products and product categories to be assigned to selected business partners.</value>
+    <value column="Help" isTrl="N" original="Volume discounts are discounts which apply after getting a certain volume of sales of specific products or product groups.">Volume discounts are discounts which apply after getting a certain volume of sales of specific products or product groups.</value>
+  </row>
+  <row id="800005" trl="N">
+    <value column="Name" isTrl="N" original="Settlement">Settlement</value>
+    <value column="Description" isTrl="N" original="Edit payments by summing one or many into one or by dividing one into many.  Here you manage payments that come from invoices generated in the application.">Edit payments by summing one or many into one or by dividing one into many.  Here you manage payments that come from invoices generated in the application.</value>
+    <value column="Help" isTrl="N" original="Edit payments by summing one or many into one or by dividing one into many.  Here you manage payments that come from invoices generated in the application.">Edit payments by summing one or many into one or by dividing one into many.  Here you manage payments that come from invoices generated in the application.</value>
+  </row>
+  <row id="800006" trl="N">
+    <value column="Name" isTrl="N" original="Manual Settlement">Manual Settlement</value>
+    <value column="Description" isTrl="N" original="Create and edit payments with no corresponding document/transaction in the application.">Create and edit payments with no corresponding document/transaction in the application.</value>
+    <value column="Help" isTrl="N" original="Create and edit payments with no corresponding document/transaction in the application.">Create and edit payments with no corresponding document/transaction in the application.</value>
+  </row>
+  <row id="800007" trl="N">
+    <value column="Name" isTrl="N" original="G/L Item">G/L Item</value>
+    <value column="Description" isTrl="N" original="Create and edit accounting items to be used in manual settlements.">Create and edit accounting items to be used in manual settlements.</value>
+    <value column="Help" isTrl="N" original="A G/L item is an account item to be used for direct account posting.">A G/L item is an account item to be used for direct account posting.</value>
+  </row>
+  <row id="800008" trl="N">
+    <value column="Name" isTrl="N" original="Project Proposal Tracker">Project Proposal Tracker</value>
+    <value column="Description" isTrl="N" original="View all proposals made to you during a Budget Project.">View all proposals made to you during a Budget Project.</value>
+    <value column="Help" isTrl="N" original="View all proposals made to you during a Budget Project.">View all proposals made to you during a Budget Project.</value>
+  </row>
+  <row id="800013" trl="N">
+    <value column="Name" isTrl="N" original="Incoming Shipment">Incoming Shipment</value>
+    <value column="Description" isTrl="N" original="Create and manage goods shipments from our vendors">Create and manage goods shipments from our vendors</value>
+    <value column="Help" isTrl="N" original="Create and manage goods shipments from our vendors">Create and manage goods shipments from our vendors</value>
+  </row>
+  <row id="800014" trl="N">
+    <value column="Name" isTrl="N" original="Outgoing Shipment">Outgoing Shipment</value>
+    <value column="Description" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
+    <value column="Help" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
+  </row>
+  <row id="800015" trl="N">
+    <value column="Name" isTrl="N" original="Data File Type">Data File Type</value>
+    <value column="Description" isTrl="N" original="Create and edit formats for attached files (.pdf, .html)">Create and edit formats for attached files (.pdf, .html)</value>
+    <value column="Help" isTrl="N" original="Create and edit formats for attached files (.pdf, .html)">Create and edit formats for attached files (.pdf, .html)</value>
+  </row>
+  <row id="800016" trl="N">
+    <value column="Name" isTrl="N" original="Process Scheduling">Process Scheduling</value>
+    <value column="Description" isTrl="N" original="Define background processes to be automatically performed by the application.">Define background processes to be automatically performed by the application.</value>
+    <value column="Help" isTrl="N" original="Define background processes to be automatically performed by the application.">Define background processes to be automatically performed by the application.</value>
+  </row>
+  <row id="800017" trl="N">
+    <value column="Name" isTrl="N" original="Basic Discount">Basic Discount</value>
+    <value column="Description" isTrl="N" original="Create and edit product price percentage Basic Discounts.">Create and edit product price percentage Basic Discounts.</value>
+    <value column="Help" isTrl="N" original="A Basic Discount is a deduction from the total amount of an order or an invoice.">A Basic Discount is a deduction from the total amount of an order or an invoice.</value>
+  </row>
+  <row id="800018" trl="N">
+    <value column="Name" isTrl="N" original="Remittance Type">Remittance Type</value>
+    <value column="Description" isTrl="N" original="Create and edit remittance types with corresponding parameters according to your business needs.">Create and edit remittance types with corresponding parameters according to your business needs.</value>
+    <value column="Help" isTrl="N" original="Create and edit remittance types with corresponding parameters according to your business needs.">Create and edit remittance types with corresponding parameters according to your business needs.</value>
+  </row>
+  <row id="800019" trl="N">
+    <value column="Name" isTrl="Y" original="Month">Месяц</value>
+    <value column="Description" isTrl="N" original="Create and edit names of the month, assigning them to your quarterly and yearly calendar.">Create and edit names of the month, assigning them to your quarterly and yearly calendar.</value>
+    <value column="Help" isTrl="N" original="Create and edit names of the month, assigning them to your quarterly and yearly calendar.">Create and edit names of the month, assigning them to your quarterly and yearly calendar.</value>
+  </row>
+  <row id="800020" trl="N">
+    <value column="Name" isTrl="N" original="Dimension">Dimension</value>
+    <value column="Description" isTrl="N" original="Define parameters to be used in making reports.">Define parameters to be used in making reports.</value>
+    <value column="Help" isTrl="N" original="Define parameters to be used in making reports.">Define parameters to be used in making reports.</value>
+  </row>
+  <row id="800026" trl="N">
+    <value column="Name" isTrl="Y" original="Amortization">Амортизация</value>
+    <value column="Description" isTrl="N" original="Create and edit amortization for a selected year.">Create and edit amortization for a selected year.</value>
+    <value column="Help" isTrl="N" original="Create and edit amortization for a selected year.">Create and edit amortization for a selected year.</value>
+  </row>
+  <row id="800027" trl="N">
+    <value column="Name" isTrl="Y" original="Assets">Основные средства</value>
+    <value column="Description" isTrl="N" original="Define amortization characteristics for assets owned by your company.">Define amortization characteristics for assets owned by your company.</value>
+    <value column="Help" isTrl="N" original="Define amortization characteristics for assets owned by your company.">Define amortization characteristics for assets owned by your company.</value>
+  </row>
+  <row id="800028" trl="N">
+    <value column="Name" isTrl="Y" original="Discounts and Promotions">Скидки и акции</value>
+    <value column="Description" isTrl="N" original="Definition of Discounts and Promotions">Definition of Discounts and Promotions</value>
+    <value column="Help" isTrl="N" original="Discounts and Promotions is a mechanism that allows to adjust prices based on different rules. External modules can extend this definition by providing additional rules (Discount Types) implementations.">Discounts and Promotions is a mechanism that allows to adjust prices based on different rules. External modules can extend this definition by providing additional rules (Discount Types) implementations.</value>
+  </row>
+  <row id="800029" trl="N">
+    <value column="Name" isTrl="N" original="Section">Section</value>
+    <value column="Description" isTrl="N" original="Edit the production area by dividing them into multiple sections.">Edit the production area by dividing them into multiple sections.</value>
+    <value column="Help" isTrl="N" original="Edit the production area by dividing them into multiple sections.">Edit the production area by dividing them into multiple sections.</value>
+  </row>
+  <row id="800030" trl="N">
+    <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
+    <value column="Description" isTrl="N" original="Create and edit cost centers related to production to sum up charges associated with a specific transaction.">Create and edit cost centers related to production to sum up charges associated with a specific transaction.</value>
+    <value column="Help" isTrl="N" original="Create and edit cost centers related to production to sum up charges associated with a specific transaction.">Create and edit cost centers related to production to sum up charges associated with a specific transaction.</value>
+  </row>
+  <row id="800031" trl="N">
+    <value column="Name" isTrl="N" original="Machine">Machine</value>
+    <value column="Description" isTrl="N" original="Create machines to be used in production.">Create machines to be used in production.</value>
+    <value column="Help" isTrl="N" original="Create machines to be used in production.">Create machines to be used in production.</value>
+  </row>
+  <row id="800032" trl="N">
+    <value column="Name" isTrl="N" original="Work Center">Work Center</value>
+    <value column="Description" isTrl="N" original="Create and add machines to be used in a work center.">Create and add machines to be used in a work center.</value>
+    <value column="Help" isTrl="N" original="Create and add machines to be used in a work center.">Create and add machines to be used in a work center.</value>
+  </row>
+  <row id="800035" trl="N">
+    <value column="Name" isTrl="N" original="Toolset">Toolset</value>
+    <value column="Description" isTrl="N" original="Define tools and groups of tools to be used in the production process.">Define tools and groups of tools to be used in the production process.</value>
+    <value column="Help" isTrl="N" original="Define tools and groups of tools to be used in the production process.">Define tools and groups of tools to be used in the production process.</value>
+  </row>
+  <row id="800048" trl="N">
+    <value column="Name" isTrl="N" original="Work Incidence">Work Incidence</value>
+    <value column="Description" isTrl="N" original="Define types of work incidences that may occur during production.">Define types of work incidences that may occur during production.</value>
+    <value column="Help" isTrl="N" original="Define types of work incidences that may occur during production.">Define types of work incidences that may occur during production.</value>
+  </row>
+  <row id="800051" trl="N">
+    <value column="Name" isTrl="N" original="Process Plan">Process Plan</value>
+    <value column="Description" isTrl="N" original="Define the steps and processes to be completed for an intermediate or finished good, taking into account available resources.">Define the steps and processes to be completed for an intermediate or finished good, taking into account available resources.</value>
+    <value column="Help" isTrl="N" original="Define the steps and processes to be completed for an intermediate or finished good, taking into account available resources.">Define the steps and processes to be completed for an intermediate or finished good, taking into account available resources.</value>
+  </row>
+  <row id="800052" trl="N">
+    <value column="Name" isTrl="N" original="Work Requirement">Work Requirement</value>
+    <value column="Description" isTrl="N" original="Create and manage an order for a process plan to be executed a certain number of times to satisfy the production requirements.">Create and manage an order for a process plan to be executed a certain number of times to satisfy the production requirements.</value>
+    <value column="Help" isTrl="N" original="Create and manage an order for a process plan to be executed a certain number of times to satisfy the production requirements.">Create and manage an order for a process plan to be executed a certain number of times to satisfy the production requirements.</value>
+  </row>
+  <row id="800053" trl="N">
+    <value column="Name" isTrl="N" original="Work Effort">Work Effort</value>
+    <value column="Description" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Edit precisely what has been produced from a selected product order.</value>
+    <value column="Help" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Edit precisely what has been produced from a selected product order.</value>
+  </row>
+  <row id="800060" trl="N">
+    <value column="Name" isTrl="N" original="Activity">Activity</value>
+    <value column="Description" isTrl="N" original="Define activities (processes) to be performed as part of a process plan and their characteristics .">Define activities (processes) to be performed as part of a process plan and their characteristics .</value>
+    <value column="Help" isTrl="N" original="Define activities (processes) to be performed as part of a process plan and their characteristics .">Define activities (processes) to be performed as part of a process plan and their characteristics .</value>
+  </row>
+  <row id="800063" trl="N">
+    <value column="Name" isTrl="N" original="Quality Control Point">Quality Control Point</value>
+    <value column="Description" isTrl="N" original="Define quality control check points to be used for testing the product quality at any point in the production process.">Define quality control check points to be used for testing the product quality at any point in the production process.</value>
+    <value column="Help" isTrl="N" original="Define quality control check points to be used for testing the product quality at any point in the production process.">Define quality control check points to be used for testing the product quality at any point in the production process.</value>
+  </row>
+  <row id="800064" trl="N">
+    <value column="Name" isTrl="N" original="Quality Control Report">Quality Control Report</value>
+    <value column="Description" isTrl="N" original="Create and edit measurements and report findings at predefined checkpoints.  The goal is to ensure output quality during production.">Create and edit measurements and report findings at predefined checkpoints.  The goal is to ensure output quality during production.</value>
+    <value column="Help" isTrl="N" original="Create and edit measurements and report findings at predefined checkpoints.  The goal is to ensure output quality during production.">Create and edit measurements and report findings at predefined checkpoints.  The goal is to ensure output quality during production.</value>
+  </row>
+  <row id="800066" trl="N">
+    <value column="Name" isTrl="N" original="Periodic Quality Control">Periodic Quality Control</value>
+    <value column="Description" isTrl="N" original="Define checkpoints to be used for quality control of a produced product.">Define checkpoints to be used for quality control of a produced product.</value>
+    <value column="Help" isTrl="N" original="Define checkpoints to be used for quality control of a produced product.">Define checkpoints to be used for quality control of a produced product.</value>
+  </row>
+  <row id="800067" trl="N">
+    <value column="Name" isTrl="N" original="Periodic Quality Control Data">Periodic Quality Control Data</value>
+    <value column="Description" isTrl="N" original="Create and edit data collection and measurements related to quality control.  This is done at predefined checkpoints for a produced product.">Create and edit data collection and measurements related to quality control.  This is done at predefined checkpoints for a produced product.</value>
+    <value column="Help" isTrl="N" original="Create and edit data collection and measurements related to quality control.  This is done at predefined checkpoints for a produced product.">Create and edit data collection and measurements related to quality control.  This is done at predefined checkpoints for a produced product.</value>
+  </row>
+  <row id="800068" trl="N">
+    <value column="Name" isTrl="N" original="Text Interfaces">Text Interfaces</value>
+    <value column="Description" isTrl="N" original="Edit translations of forms and reports.">Edit translations of forms and reports.</value>
+    <value column="Help" isTrl="N" original="Edit translations of forms and reports.">Edit translations of forms and reports.</value>
+  </row>
+  <row id="800069" trl="N">
+    <value column="Name" isTrl="N" original="Promissory Note Format">Promissory Note Format</value>
+    <value column="Description" isTrl="N" original="Create and edit the structure of how to print a promissory note.">Create and edit the structure of how to print a promissory note.</value>
+    <value column="Help" isTrl="N" original="Create and edit the structure of how to print a promissory note.">Create and edit the structure of how to print a promissory note.</value>
+  </row>
+  <row id="800070" trl="N">
+    <value column="Name" isTrl="N" original="Callout">Callout</value>
+    <value column="Description" isTrl="N" original="Define callouts of  the application, their classes, and their mapping plan.">Define callouts of  the application, their classes, and their mapping plan.</value>
+    <value column="Help" isTrl="N" original="Define callouts of  the application, their classes, and their mapping plan.">Define callouts of  the application, their classes, and their mapping plan.</value>
+  </row>
+  <row id="800071" trl="N">
+    <value column="Name" isTrl="N" original="Machine Category">Machine Category</value>
+    <value column="Description" isTrl="N" original="Create machine categories based on your desired characteristics.">Create machine categories based on your desired characteristics.</value>
+    <value column="Help" isTrl="N" original="Create machine categories based on your desired characteristics.">Create machine categories based on your desired characteristics.</value>
+  </row>
+  <row id="800072" trl="N">
+    <value column="Name" isTrl="N" original="Maintenance Task">Maintenance Task</value>
+    <value column="Description" isTrl="N" original="Define a scheduled maintenance task to be completed during the production process.">Define a scheduled maintenance task to be completed during the production process.</value>
+    <value column="Help" isTrl="N" original="Define a scheduled maintenance task to be completed during the production process.">Define a scheduled maintenance task to be completed during the production process.</value>
+  </row>
+  <row id="800074" trl="N">
+    <value column="Name" isTrl="N" original="Maintenance Plan">Maintenance Plan</value>
+    <value column="Description" isTrl="N" original="Add and edit predefined maintenance plans.">Add and edit predefined maintenance plans.</value>
+    <value column="Help" isTrl="N" original="Add and edit predefined maintenance plans.">Add and edit predefined maintenance plans.</value>
+  </row>
+  <row id="800075" trl="N">
+    <value column="Name" isTrl="N" original="Maintenance Order">Maintenance Order</value>
+    <value column="Description" isTrl="N" original="Create and edit the results of a scheduled maintenance order.">Create and edit the results of a scheduled maintenance order.</value>
+    <value column="Help" isTrl="N" original="Create and edit the results of a scheduled maintenance order.">Create and edit the results of a scheduled maintenance order.</value>
+  </row>
+  <row id="800076" trl="N">
+    <value column="Name" isTrl="N" original="Internal Consumption">Internal Consumption</value>
+    <value column="Description" isTrl="N" original="Define products which are only to be used inside the enterprise.">Define products which are only to be used inside the enterprise.</value>
+    <value column="Help" isTrl="N" original="Define products which are only to be used inside the enterprise.">Define products which are only to be used inside the enterprise.</value>
+  </row>
+  <row id="800077" trl="N">
+    <value column="Name" isTrl="N" original="Budget">Budget</value>
+    <value column="Description" isTrl="N" original="Create and edit budgets to be used for informative purposes.">Create and edit budgets to be used for informative purposes.</value>
+    <value column="Help" isTrl="N" original="Create and edit budgets to be used for informative purposes.">Create and edit budgets to be used for informative purposes.</value>
+  </row>
+  <row id="800080" trl="N">
+    <value column="Name" isTrl="N" original="Payment Status Management">Payment Status Management</value>
+    <value column="Description" isTrl="N" original="Edit the status of payments for the accounting purposes.">Edit the status of payments for the accounting purposes.</value>
+    <value column="Help" isTrl="N" original="Edit the status of payments for the accounting purposes.">Edit the status of payments for the accounting purposes.</value>
+  </row>
+  <row id="800081" trl="N">
+    <value column="Name" isTrl="N" original="User Defined Accounting Report Setup">User Defined Accounting Report Setup</value>
+    <value column="Description" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
+    <value column="Help" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
+  </row>
+  <row id="800082" trl="N">
+    <value column="Name" isTrl="N" original="Remittance">Remittance</value>
+    <value column="Description" isTrl="N" original="Edit payments by using remittances to cancel or return them.">Edit payments by using remittances to cancel or return them.</value>
+    <value column="Help" isTrl="N" original="Edit payments by using remittances to cancel or return them.">Edit payments by using remittances to cancel or return them.</value>
+  </row>
+  <row id="800083" trl="N">
+    <value column="Name" isTrl="N" original="External Point of Sales">External Point of Sales</value>
+    <value column="Description" isTrl="N" original="Define and synchonize Openbravo to your points of sales and their respective attributes.">Define and synchonize Openbravo to your points of sales and their respective attributes.</value>
+    <value column="Help" isTrl="N" original="Define and synchonize Openbravo to your points of sales and their respective attributes.">Define and synchonize Openbravo to your points of sales and their respective attributes.</value>
+  </row>
+  <row id="800084" trl="N">
+    <value column="Name" isTrl="N" original="Salary Category">Salary Category</value>
+    <value column="Description" isTrl="N" original="Create salary categories to be applied to your employees/workers.">Create salary categories to be applied to your employees/workers.</value>
+    <value column="Help" isTrl="N" original="Create salary categories to be applied to your employees/workers.">Create salary categories to be applied to your employees/workers.</value>
+  </row>
+  <row id="800085" trl="N">
+    <value column="Name" isTrl="N" original="Indirect Cost">Indirect Cost</value>
+    <value column="Description" isTrl="N" original="Create and edit indirect costs to be used in production.">Create and edit indirect costs to be used in production.</value>
+    <value column="Help" isTrl="N" original="Create and edit indirect costs to be used in production.">Create and edit indirect costs to be used in production.</value>
+  </row>
+  <row id="800086" trl="N">
+    <value column="Name" isTrl="N" original="Business Partner Tax Category">Business Partner Tax Category</value>
+    <value column="Description" isTrl="N" original="Create a tax category to be added to each business partner.">Create a tax category to be added to each business partner.</value>
+    <value column="Help" isTrl="N" original="A business partner tax category allows to group and manage similar business partners tax rates.">A business partner tax category allows to group and manage similar business partners tax rates.</value>
+  </row>
+  <row id="800088" trl="N">
+    <value column="Name" isTrl="N" original="Planner">Planner</value>
+    <value column="Description" isTrl="N" original="Define the entity in charge of managing the purchase or production of specific products.">Define the entity in charge of managing the purchase or production of specific products.</value>
+    <value column="Help" isTrl="N" original="Define the entity in charge of managing the purchase or production of specific products.">Define the entity in charge of managing the purchase or production of specific products.</value>
+  </row>
+  <row id="800090" trl="N">
+    <value column="Name" isTrl="N" original="MRP Forecast">MRP Forecast</value>
+    <value column="Description" isTrl="N" original="Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.">Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.</value>
+    <value column="Help" isTrl="N" original="Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.">Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.</value>
+  </row>
+  <row id="800092" trl="N">
+    <value column="Name" isTrl="N" original="Requisition">Requisition</value>
+    <value column="Description" isTrl="N" original="Create requests for the procurement department to buy necessary items based on your defined plan.">Create requests for the procurement department to buy necessary items based on your defined plan.</value>
+    <value column="Help" isTrl="N" original="A requisition is a formal request of something needed by the organization or business unit.&lt;br&gt;Each requisition includes the item/s needed and could have a preferred vendor and/or Price List.">A requisition is a formal request of something needed by the organization or business unit.&lt;br&gt;Each requisition includes the item/s needed and could have a preferred vendor and/or Price List.</value>
+  </row>
+  <row id="800094" trl="N">
+    <value column="Name" isTrl="N" original="Planning Method">Planning Method</value>
+    <value column="Description" isTrl="N" original="Define how transaction types will be dealt with in the application.">Define how transaction types will be dealt with in the application.</value>
+    <value column="Help" isTrl="N" original="Define how transaction types will be dealt with in the application.">Define how transaction types will be dealt with in the application.</value>
+  </row>
+  <row id="800096" trl="N">
+    <value column="Name" isTrl="N" original="Manufacturing Plan">Manufacturing Plan</value>
+    <value column="Description" isTrl="N" original="Create a comprehensive work requirement in order to request materials over a specified time period.">Create a comprehensive work requirement in order to request materials over a specified time period.</value>
+    <value column="Help" isTrl="N" original="Create a comprehensive work requirement in order to request materials over a specified time period.">Create a comprehensive work requirement in order to request materials over a specified time period.</value>
+  </row>
+  <row id="800097" trl="N">
+    <value column="Name" isTrl="N" original="Purchasing Plan">Purchasing Plan</value>
+    <value column="Description" isTrl="N" original="Create a comprehensive and organized plan to request purchases over a specified time period.">Create a comprehensive and organized plan to request purchases over a specified time period.</value>
+    <value column="Help" isTrl="N" original="Create a comprehensive and organized plan to request purchases over a specified time period.">Create a comprehensive and organized plan to request purchases over a specified time period.</value>
+  </row>
+  <row id="800099" trl="N">
+    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure Setup">Balance sheet and P&amp;L structure Setup</value>
+    <value column="Description" isTrl="N" original="Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.">Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.</value>
+    <value column="Help" isTrl="N" original="Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.">Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.</value>
+  </row>
+  <row id="800100" trl="N">
+    <value column="Name" isTrl="N" original="Tax Report Setup">Tax Report Setup</value>
+    <value column="Description" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
+    <value column="Help" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
+  </row>
+  <row id="9153155013C843839F88E9940B976148" trl="Y">
+    <value column="Name" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
+    <value column="Description" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
+    <value column="Help" isTrl="Y" original="Discounts and Promotions Types ">Виды скидок и акций</value>
+  </row>
+  <row id="94EAA455D2644E04AB25D93BE5157B6D" trl="N">
+    <value column="Name" isTrl="Y" original="Financial Account">Финансовый счёт</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="95719E62321748BE854604C5364518D6" trl="N">
+    <value column="Name" isTrl="N" original="RM Receipt Pick and Edit">RM Receipt Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="A9FD6A5AED3546EC83DB567882646D2E" trl="N">
+    <value column="Name" isTrl="N" original="Accounting Process">Accounting Process</value>
+    <value column="Description" isTrl="N" original="Accounting process to be launched at posting time">Accounting process to be launched at posting time</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="AB30B4B4C94540849D221C4BC31A9816" trl="N">
+    <value column="Name" isTrl="N" original="Reject Reason">Reject Reason</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="AFE6BDF360C44B99ACA6FB5E9F51EA45" trl="N">
+    <value column="Name" isTrl="N" original="Payment Run">Payment Run</value>
+    <value column="Description" isTrl="N" original="This window shows all the group of payments executed together.">This window shows all the group of payments executed together.</value>
+    <value column="Help" isTrl="N" original="Each payment run will group all the payment executed together. It is possible to check the status and result of the payment run as well as the result and message of every single payment inside the payment run.">Each payment run will group all the payment executed together. It is possible to check the status and result of the payment run as well as the result and message of every single payment inside the payment run.</value>
+  </row>
+  <row id="B15DDE526F724EBCB11439BDDB483FA6" trl="N">
+    <value column="Name" isTrl="N" original="Accounting templates">Accounting templates</value>
+    <value column="Description" isTrl="N" original="Accounting templates to overwrite default accounting behavior">Accounting templates to overwrite default accounting behavior</value>
+    <value column="Help" isTrl="N" original="Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.">Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.</value>
+  </row>
+  <row id="B43A89704D864A6995BD5AC32201DBD9" trl="N">
+    <value column="Name" isTrl="N" original="Condition of the goods">Condition of the goods</value>
+    <value column="Description" isTrl="N" original="Condition of the goods to be used in window RM receipt">Condition of the goods to be used in window RM receipt</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C50A8AEE6F044825B5EF54FAAE76826F" trl="N">
+    <value column="Name" isTrl="N" original="Return to Vendor">Return to Vendor</value>
+    <value column="Description" isTrl="N" original="Return to vendor (RTV). Here you enter the goods you want to return to the vendor">Return to vendor (RTV). Here you enter the goods you want to return to the vendor</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D1D0C603DFC0423099D897A0DB388AC2" trl="N">
+    <value column="Name" isTrl="N" original="Matching Algorithm">Matching Algorithm</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D549B07D9D774AB2A60FF09E1562C93A" trl="N">
+    <value column="Name" isTrl="N" original="Payment Priority">Payment Priority</value>
+    <value column="Description" isTrl="N" original="Define priorities for payment plans created when processing invoices and orders.">Define priorities for payment plans created when processing invoices and orders.</value>
+    <value column="Help" isTrl="N" original="Define priorities for payment plans created when processing invoices and orders. You can mark as default the priority you want to be displayed as selected in Invoice and Order windows. You can only mark as default one priority.">Define priorities for payment plans created when processing invoices and orders. You can mark as default the priority you want to be displayed as selected in Invoice and Order windows. You can only mark as default one priority.</value>
+  </row>
+  <row id="D586192D06C14EC182B44CAD34CA4295" trl="N">
+    <value column="Name" isTrl="N" original="Module">Module</value>
+    <value column="Description" isTrl="N" original="Module management">Module management</value>
+    <value column="Help" isTrl="N" original="Manages the modules currently installed.">Manages the modules currently installed.</value>
+  </row>
+  <row id="E547CE89D4C04429B6340FFA44E70716" trl="N">
+    <value column="Name" isTrl="N" original="Payment In">Payment In</value>
+    <value column="Description" isTrl="N" original="Window to manage the payments done by customers ">Window to manage the payments done by customers </value>
+    <value column="Help" isTrl="N" original="Window to manage the payments done by customers">Window to manage the payments done by customers</value>
+  </row>
+  <row id="E56E701CCBA14B8BA480CBDE37C50D7A" trl="N">
+    <value column="Name" isTrl="Y" original="Open/Close Period Control">Контроль открытия/закрытия периода</value>
+    <value column="Description" isTrl="N" original="Open or close periods for the allowed organizations">Open or close periods for the allowed organizations</value>
+    <value column="Help" isTrl="N" original="Open/Close Period Control allows to open, close or permanently close the accounting period/s of a year.  This process is enabled to Organizations for which &quot;Period Control&quot; feature is enabled.">Open/Close Period Control allows to open, close or permanently close the accounting period/s of a year.  This process is enabled to Organizations for which "Period Control" feature is enabled.</value>
+  </row>
+  <row id="EF3E837705944F4DBF398D683D36ACE0" trl="N">
+    <value column="Name" isTrl="N" original="Process Monitor">Process Monitor</value>
+    <value column="Description" isTrl="N" original="Monitor the results, run time, start and finish times of execution of process requests.">Monitor the results, run time, start and finish times of execution of process requests.</value>
+    <value column="Help" isTrl="N" original="Process monitor feature allows to review the status of processes executed by a user as well as the ones scheduled in the process request window.">Process monitor feature allows to review the status of processes executed by a user as well as the ones scheduled in the process request window.</value>
+  </row>
+  <row id="FC404D2406A9491CBD905D0D38F04846" trl="N">
+    <value column="Name" isTrl="N" original="Warehouse Rules">Warehouse Rules</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Warehouse Rules definition">Warehouse Rules definition</value>
+  </row>
+  <row id="FEB8679CAA0D47E5978F10E22566FCEA" trl="N">
+    <value column="Name" isTrl="N" original="Audit Trail">Audit Trail</value>
+    <value column="Description" isTrl="N" original="Display historical information about data changes of record via the audit trail system">Display historical information about data changes of record via the audit trail system</value>
+    <value column="Help" isTrl="N" original="Audit Trail allows to monitor every data change done in any table or entity through the user interface.">Audit Trail allows to monitor every data change done in any table or entity through the user interface.</value>
+  </row>
+  <row id="FF808081330213E60133021822E40007" trl="N">
+    <value column="Name" isTrl="N" original="Return from Customer">Return from Customer</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="FF808181323E504701323E57E08D0017" trl="N">
+    <value column="Name" isTrl="N" original="Production Run">Production Run</value>
+    <value column="Description" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Edit precisely what has been produced from a selected product order.</value>
+    <value column="Help" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Edit precisely what has been produced from a selected product order.</value>
+  </row>
+</compiereTrl>
