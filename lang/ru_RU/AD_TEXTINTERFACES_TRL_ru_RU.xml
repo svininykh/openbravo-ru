@@ -1369,7 +1369,7 @@
     <value column="Text" isTrl="Y" original="Reference data">Справочные данные</value>
   </row>
   <row id="58E820EAFEFE3EE9E040007F01015AA4" trl="N">
-    <value column="Text" isTrl="N" original="Accounting Dimensions">Accounting Dimensions</value>
+    <value column="Text" isTrl="Y" original="Accounting Dimensions">Субконто плана счетов</value>
   </row>
   <row id="58E820EAFF003EE9E040007F01015AA4" trl="N">
     <value column="Text" isTrl="Y" original="Reference data">Справочные данные</value>
@@ -3187,7 +3187,7 @@
     <value column="Text" isTrl="Y" original="Client Username">Пользователь подключения</value>
   </row>
   <row id="805970" trl="N">
-    <value column="Text" isTrl="N" original="Accounting Dimensions">Accounting Dimensions</value>
+    <value column="Text" isTrl="Y" original="Accounting Dimensions">Субконто плана счетов</value>
   </row>
   <row id="805972" trl="N">
     <value column="Text" isTrl="Y" original="Accounting File">Файл плана счетов</value>
@@ -3454,13 +3454,13 @@
     <value column="Text" isTrl="N" original="Accounted shipment">Accounted shipment</value>
   </row>
   <row id="807012" trl="N">
-    <value column="Text" isTrl="N" original="Accounting">Accounting</value>
+    <value column="Text" isTrl="Y" original="Accounting">Бухгалтерия</value>
   </row>
   <row id="807013" trl="N">
-    <value column="Text" isTrl="N" original="Accounting combination">Accounting combination</value>
+    <value column="Text" isTrl="Y" original="Accounting combination">Бухгалтерская проводка</value>
   </row>
   <row id="807014" trl="N">
-    <value column="Text" isTrl="N" original="Accounting report">Accounting report</value>
+    <value column="Text" isTrl="Y" original="Accounting report">Бухгалтерский отчёт</value>
   </row>
   <row id="807015" trl="N">
     <value column="Text" isTrl="N" original="Accounts receivable - Trade">Accounts receivable - Trade</value>
@@ -3550,7 +3550,7 @@
     <value column="Text" isTrl="N" original="By Descending Amount">By Descending Amount</value>
   </row>
   <row id="807053" trl="N">
-    <value column="Text" isTrl="N" original="Campaign">Campaign</value>
+    <value column="Text" isTrl="Y" original="Campaign">Кампания</value>
   </row>
   <row id="807054" trl="N">
     <value column="Text" isTrl="N" original="Canceled">Canceled</value>
@@ -3568,7 +3568,7 @@
     <value column="Text" isTrl="Y" original="City">Город</value>
   </row>
   <row id="807063" trl="N">
-    <value column="Text" isTrl="N" original="Client">Client</value>
+    <value column="Text" isTrl="Y" original="Client">Подключение</value>
   </row>
   <row id="807064" trl="N">
     <value column="Text" isTrl="N" original="Client stock report">Client stock report</value>

@@ -11587,8 +11587,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="602" trl="N">
-    <value column="Name" isTrl="N" original="Symbol">Symbol</value>
-    <value column="PrintName" isTrl="N" original="UoM">UoM</value>
+    <value column="Name" isTrl="Y" original="Symbol">Обозначение</value>
+    <value column="PrintName" isTrl="Y" original="UoM">Ед. изм.</value>
     <value column="Description" isTrl="N" original="An abbreviated description used to define a unit of measure or currency.">An abbreviated description used to define a unit of measure or currency.</value>
     <value column="Help" isTrl="N" original="The Symbol identifies the Symbol to be displayed and printed for a Unit of Measure">The Symbol identifies the Symbol to be displayed and printed for a Unit of Measure</value>
     <value column="PO_Description" isTrl="N" original=""/>
