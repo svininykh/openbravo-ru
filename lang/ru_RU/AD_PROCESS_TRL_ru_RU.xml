@@ -371,9 +371,9 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Process Journal">Process Journal</value>
   </row>
   <row id="172" trl="N">
-    <value column="Name" isTrl="N" original="Synchronize Terminology">Synchronize Terminology</value>
+    <value column="Name" isTrl="Y" original="Synchronize Terminology">Синхронизация интерфейса</value>
     <value column="Description" isTrl="N" original="Synchronize the terminology within the system.">Synchronize the terminology within the system.</value>
-    <value column="Help" isTrl="N" original="Based on the entries in Window Element, the fields in windows, parameters, etc. are synchronized, if they are centrally maintained.">Based on the entries in Window Element, the fields in windows, parameters, etc. are synchronized, if they are centrally maintained.</value>
+    <value column="Help" isTrl="Y" original="Based on the entries in Window Element, the fields in windows, parameters, etc. are synchronized, if they are centrally maintained.">Все записи связанные с элементами интерфейса окон, полей, параметров и т.д. будут синхронизированы, если они хранились на сервере.</value>
   </row>
   <row id="173" trl="N">
     <value column="Name" isTrl="N" original="Create Columns from DB">Create Columns from DB</value>
