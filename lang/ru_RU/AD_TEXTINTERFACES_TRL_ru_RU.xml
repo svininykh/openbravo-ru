@@ -43,13 +43,13 @@
     <value column="Text" isTrl="N" original="VO">VO</value>
   </row>
   <row id="08C14BD2ACD747E8913757418B574A10" trl="N">
-    <value column="Text" isTrl="N" original="Payment method">Payment method</value>
+    <value column="Text" isTrl="Y" original="Payment method">Способ оплаты</value>
   </row>
   <row id="0924435222F94E48BECDFA27BB007DC6" trl="N">
     <value column="Text" isTrl="N" original="Shipment Date">Shipment Date</value>
   </row>
   <row id="09B882E340B94131BEFF131264165994" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="09E3996786EF4AFCB9FD14145B7248A5" trl="N">
     <value column="Text" isTrl="N" original="For more information visit ">For more information visit </value>
@@ -760,13 +760,13 @@
     <value column="Text" isTrl="N" original="Registration Confirm">Registration Confirm</value>
   </row>
   <row id="1005400022" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="1005400023" trl="N">
     <value column="Text" isTrl="N" original="Heartbeat Confirmation">Heartbeat Confirmation</value>
   </row>
   <row id="1005400024" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="1005500011" trl="N">
     <value column="Text" isTrl="N" original="Aging Balance">Aging Balance</value>
@@ -907,7 +907,7 @@
     <value column="Text" isTrl="N" original="(current">(current</value>
   </row>
   <row id="18D599A7C6A745C380B0AE85DEB49EFC" trl="N">
-    <value column="Text" isTrl="N" original="VOIDED">VOIDED</value>
+    <value column="Text" isTrl="Y" original="VOIDED">ОТМЕНЕНО</value>
   </row>
   <row id="199C71AA2E6611DEA609DF011C2C76FB" trl="N">
     <value column="Text" isTrl="N" original="Invoice term">Invoice term</value>
@@ -928,7 +928,7 @@
     <value column="Text" isTrl="N" original="Date From">Date From</value>
   </row>
   <row id="1CC23F4A0231499EA8FD214B77FB458E" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="1CE525A686D9493ABC0A1B6D9E369DBF" trl="N">
     <value column="Text" isTrl="N" original="Copyright © Openbravo, S.L.U. 2001-2012">Copyright © Openbravo, S.L.U. 2001-2012</value>
@@ -1159,7 +1159,7 @@
     <value column="Text" isTrl="N" original="Employee:">Employee:</value>
   </row>
   <row id="4CF72E501DE011DEBEBB001EEC1F37D2" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="4D3B5BA6D00711DDA04A001D09C4A2FE" trl="N">
     <value column="Text" isTrl="N" original="Rebuild the System">Rebuild the System</value>
@@ -1174,7 +1174,7 @@
     <value column="Text" isTrl="N" original="learn more">learn more</value>
   </row>
   <row id="4D63FAA2D00711DDB0A6001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Continue">Continue</value>
+    <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="4D6985DAD00711DD81B6001D09C4A2FE" trl="N">
     <value column="Text" isTrl="N" original="Restarting Context">Restarting Context</value>
@@ -1378,7 +1378,7 @@
     <value column="Text" isTrl="N" original="Module Detail">Module Detail</value>
   </row>
   <row id="58E820EAFF053EE9E040007F01015AA4" trl="N">
-    <value column="Text" isTrl="N" original="Continue">Continue</value>
+    <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="58E820EAFF063EE9E040007F01015AA4" trl="N">
     <value column="Text" isTrl="N" original="Module Detail">Module Detail</value>
@@ -1648,31 +1648,31 @@
     <value column="Text" isTrl="N" original="Generated on">Generated on</value>
   </row>
   <row id="5F4C1DE27F6B495ABD4F549040FF5F5A" trl="N">
-    <value column="Text" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="Text" isTrl="Y" original="Payment Method">Способ оплаты</value>
   </row>
   <row id="60131D0676FF409BAD9EF1084CA6A6A3" trl="N">
-    <value column="Text" isTrl="N" original="VOIDED">VOIDED</value>
+    <value column="Text" isTrl="Y" original="VOIDED">ОТМЕНЕНО</value>
   </row>
   <row id="60457DF882B84C8699CF73DACE947CE6" trl="N">
     <value column="Text" isTrl="N" original="Operation WR">Operation WR</value>
   </row>
   <row id="605A878DC6B5C144E040007F01003147" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="60D44A2F9BAD4906940E372D168B73BF" trl="N">
-    <value column="Text" isTrl="N" original="Warnings and errors:">Warnings and errors:</value>
+    <value column="Text" isTrl="Y" original="Warnings and errors:">Предупреждения и ошибки:</value>
   </row>
   <row id="6114E3A18688B982E040007F010128D3" trl="N">
-    <value column="Text" isTrl="N" original="Location/Address">Location/Address</value>
+    <value column="Text" isTrl="Y" original="Location/Address">Расположение/Адрес</value>
   </row>
   <row id="6177D0B8CC2D462FA9FBBA1475F6A674" trl="N">
-    <value column="Text" isTrl="N" original=". Do not close this window.">. Do not close this window.</value>
+    <value column="Text" isTrl="Y" original=". Do not close this window.">. Не закрывайте данное окно.</value>
   </row>
   <row id="61B01C808EA5418F86FF42F75C979576" trl="N">
-    <value column="Text" isTrl="N" original="View Results       ">View Results       </value>
+    <value column="Text" isTrl="Y" original="View Results       ">Просмотр результатов       </value>
   </row>
   <row id="61B4C9E84E6D916AE040007F01014252" trl="N">
-    <value column="Text" isTrl="N" original="Post/Unpost Document">Post/Unpost Document</value>
+    <value column="Text" isTrl="Y" original="Post/Unpost Document">Провести/Отменить документ</value>
   </row>
   <row id="61CDE597969742C99E2A5B506D916E23" trl="N">
     <value column="Text" isTrl="N" original="Journal Entries Report">Journal Entries Report</value>
@@ -1879,7 +1879,7 @@
     <value column="Text" isTrl="N" original="Planned Duration">Planned Duration</value>
   </row>
   <row id="6C917BC895CB41199D4C6825D5D23403" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="6D7469B473B7418A95D0237421B610F0" trl="N">
     <value column="Text" isTrl="N" original="No Active Yet">No Active Yet</value>
@@ -1888,16 +1888,16 @@
     <value column="Text" isTrl="N" original="Planned End Date">Planned End Date</value>
   </row>
   <row id="6E0B3322B52914C6E040007F010136CA" trl="N">
-    <value column="Text" isTrl="N" original="Openbravo ">Openbravo </value>
+    <value column="Text" isTrl="Y" original="Openbravo ">Openbravo </value>
   </row>
   <row id="6E0B3322B52A14C6E040007F010136CA" trl="N">
-    <value column="Text" isTrl="N" original="Version number:">Version number:</value>
+    <value column="Text" isTrl="Y" original="Version number:">Номер версии:</value>
   </row>
   <row id="6E59421C5B32AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Continue">Continue</value>
+    <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="6E59421C5B33AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Install File">Install File</value>
+    <value column="Text" isTrl="Y" original="Install File">Установить файл</value>
   </row>
   <row id="6E59421C5B34AB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="N" original="Activate from Activation File">Activate from Activation File</value>
@@ -1915,7 +1915,7 @@
     <value column="Text" isTrl="N" original="Activation File">Activation File</value>
   </row>
   <row id="6E59421C5B3BAB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Continue">Continue</value>
+    <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="6E59421C5B3CAB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="N" original="Activate Instance">Activate Instance</value>
@@ -1942,10 +1942,10 @@
     <value column="Text" isTrl="N" original=" (http://www.openbravo.com/legal/license.html)"> (http://www.openbravo.com/legal/license.html)</value>
   </row>
   <row id="6E59421C5B44AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Deactivate">Deactivate</value>
+    <value column="Text" isTrl="Y" original="Deactivate">Деактивировано</value>
   </row>
   <row id="6E59421C5B46AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Continue">Continue</value>
+    <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="6E59421C5B47AB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="N" original="Deactivate Instance">Deactivate Instance</value>
@@ -2053,7 +2053,7 @@
     <value column="Text" isTrl="N" original="What is the main purpose of the instance?">What is the main purpose of the instance?</value>
   </row>
   <row id="6E59421C5B76AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Continue">Continue</value>
+    <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="6E59421C5B77AB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="N" original="Activate Instance">Activate Instance</value>
@@ -2107,7 +2107,7 @@
     <value column="Text" isTrl="N" original="I do not accept all license agreements">I do not accept all license agreements</value>
   </row>
   <row id="7A60C81C99DB11DDA87C001B388C61A4" trl="N">
-    <value column="Text" isTrl="N" original="Continue">Continue</value>
+    <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="7A633BD302FBBEA8E040007F010032C3" trl="N">
     <value column="Text" isTrl="N" original="Acct. No.">Acct. No.</value>
@@ -2983,13 +2983,13 @@
     <value column="Text" isTrl="N" original="Edit Control Point Measures">Edit Control Point Measures</value>
   </row>
   <row id="805013" trl="N">
-    <value column="Text" isTrl="N" original="Close project">Close project</value>
+    <value column="Text" isTrl="Y" original="Close project">Закрыть проект</value>
   </row>
   <row id="805014" trl="N">
     <value column="Text" isTrl="N" original="Create Reg Fact Acct">Create Reg Fact Acct</value>
   </row>
   <row id="805016" trl="N">
-    <value column="Text" isTrl="N" original="Posted">Posted</value>
+    <value column="Text" isTrl="Y" original="Posted">Проведено</value>
   </row>
   <row id="805018" trl="N">
     <value column="Text" isTrl="N" original="Pending delivery/receipt">Pending delivery/receipt</value>
@@ -3301,7 +3301,7 @@
     <value column="Text" isTrl="Y" original="Go back">Назад</value>
   </row>
   <row id="806439" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="806441" trl="N">
     <value column="Text" isTrl="Y" original="Identifier">Идентификатор</value>
@@ -4726,7 +4726,7 @@
     <value column="Text" isTrl="Y" original="PROJECT NAME">НАЗВАНИЕ ПРОЕКТА</value>
   </row>
   <row id="809907" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="809908" trl="N">
     <value column="Text" isTrl="N" original="Total Order:">Total Order:</value>
@@ -4891,7 +4891,7 @@
     <value column="Text" isTrl="N" original="Collapse all">Collapse all</value>
   </row>
   <row id="810047" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="810048" trl="N">
     <value column="Text" isTrl="N" original="Report cash flow">Report cash flow</value>
@@ -4933,7 +4933,7 @@
     <value column="Text" isTrl="N" original="Primary Filters    ">Primary Filters    </value>
   </row>
   <row id="85D608DDFC8D4E63B0844B6BB0707E78" trl="N">
-    <value column="Text" isTrl="N" original="VOIDED">VOIDED</value>
+    <value column="Text" isTrl="Y" original="VOIDED">ОТМЕНЕНО</value>
   </row>
   <row id="865772D226ED40CF94D061EF1D508BE8" trl="N">
     <value column="Text" isTrl="N" original="M. %">M. %</value>
@@ -5158,7 +5158,7 @@
     <value column="Text" isTrl="N" original="What is the purpose of this Openbravo ERP instance?">What is the purpose of this Openbravo ERP instance?</value>
   </row>
   <row id="91C8B57567277107E040007F0100283A" trl="N">
-    <value column="Text" isTrl="N" original="Continue">Continue</value>
+    <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="91DB21C639AD0140E040007F01005B7A" trl="N">
     <value column="Text" isTrl="N" original="--please select--">--please select--</value>
@@ -5428,7 +5428,7 @@
     <value column="Text" isTrl="N" original="Modification time to">Modification time to</value>
   </row>
   <row id="AC7C3DDAFB4A4CD29F38A6D9E9DA3CEE" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="AD868CA9DF734111BBDE6386301A7044" trl="N">
     <value column="Text" isTrl="N" original="Starting Warehouse">Starting Warehouse</value>
@@ -5488,7 +5488,7 @@
     <value column="Text" isTrl="N" original="VO">VO</value>
   </row>
   <row id="B1AFEA6B619FFE94E040007F01006F96" trl="N">
-    <value column="Text" isTrl="N" original="VOIDED">VOIDED</value>
+    <value column="Text" isTrl="Y" original="VOIDED">ОТМЕНЕНО</value>
   </row>
   <row id="B1AFEA6B61A1FE94E040007F01006F96" trl="N">
     <value column="Text" isTrl="N" original="\n">\n</value>
@@ -5512,7 +5512,7 @@
     <value column="Text" isTrl="N" original="VO">VO</value>
   </row>
   <row id="B1AFEA6B61B9FE94E040007F01006F96" trl="N">
-    <value column="Text" isTrl="N" original="VOIDED">VOIDED</value>
+    <value column="Text" isTrl="Y" original="VOIDED">ОТМЕНЕНО</value>
   </row>
   <row id="B1AFEA6B61BBFE94E040007F01006F96" trl="N">
     <value column="Text" isTrl="N" original="\n">\n</value>
@@ -5554,7 +5554,7 @@
     <value column="Text" isTrl="N" original=" The following modules do not declare in its dependencies compatibility with the new major release. "> The following modules do not declare in its dependencies compatibility with the new major release. </value>
   </row>
   <row id="B6A66CC018A248DE9978DBF152DC6352" trl="N">
-    <value column="Text" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="Text" isTrl="Y" original="Payment Method">Способ оплаты</value>
   </row>
   <row id="B9FE576F39B34B66BAEC1A638B1ADA59" trl="N">
     <value column="Text" isTrl="N" original="\n">\n</value>
@@ -5716,7 +5716,7 @@
     <value column="Text" isTrl="N" original="Create lines from">Create lines from</value>
   </row>
   <row id="E22DAD1A1598472BB3F6CB745B1A7F50" trl="N">
-    <value column="Text" isTrl="N" original="Close">Close</value>
+    <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="E30F1F5F7E0E4C388C508F9399897CD6" trl="N">
     <value column="Text" isTrl="N" original="Asset Description">Asset Description</value>
@@ -5824,7 +5824,7 @@
     <value column="Text" isTrl="N" original="Balance As Of">Balance As Of</value>
   </row>
   <row id="FA33B0B0706A40518FDF1F20F973826B" trl="N">
-    <value column="Text" isTrl="N" original="Continue">Continue</value>
+    <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="FA40B353434747BFB0BB80F92128FF15" trl="N">
     <value column="Text" isTrl="N" original="Legacy Pareto Report for Products">Legacy Pareto Report for Products</value>

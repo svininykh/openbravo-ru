@@ -1107,9 +1107,9 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Post Payment Management">Post Payment Management</value>
   </row>
   <row id="800141" trl="N">
-    <value column="Name" isTrl="N" original="Calculate Freight Amount">Calculate Freight Amount</value>
-    <value column="Description" isTrl="N" original="Calculate Freight Amount">Calculate Freight Amount</value>
-    <value column="Help" isTrl="N" original="Calculate Freight Amount">Calculate Freight Amount</value>
+    <value column="Name" isTrl="Y" original="Calculate Freight Amount">Рассчитать стоимость фрахта</value>
+    <value column="Description" isTrl="Y" original="Calculate Freight Amount">Рассчитать стоимость фрахта</value>
+    <value column="Help" isTrl="Y" original="Calculate Freight Amount">Рассчитать стоимость фрахта</value>
   </row>
   <row id="800142" trl="Y">
     <value column="Name" isTrl="Y" original="Process">Обработка</value>

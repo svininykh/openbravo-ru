@@ -149,7 +149,7 @@
     <value column="Description" isTrl="N" original="Define payment terms to be used for business partners taking part in transactions.">Define payment terms to be used for business partners taking part in transactions.</value>
   </row>
   <row id="128" trl="N">
-    <value column="Name" isTrl="N" original="Shipping Company">Shipping Company</value>
+    <value column="Name" isTrl="Y" original="Shipping Company">Транспортная компания</value>
     <value column="Description" isTrl="N" original="Create shipping companies and define freight costs to be used in products logistics.">Create shipping companies and define freight costs to be used in products logistics.</value>
   </row>
   <row id="129" trl="N">
@@ -165,7 +165,7 @@
     <value column="Description" isTrl="N" original="Create and edit price lists and versions to optionally apply specified product prices to individual business partners.">Create and edit price lists and versions to optionally apply specified product prices to individual business partners.</value>
   </row>
   <row id="133" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Schedule">Invoice Schedule</value>
+    <value column="Name" isTrl="Y" original="Invoice Schedule">График выставления</value>
     <value column="Description" isTrl="N" original="Define invoice schedules to be used for business partners.">Define invoice schedules to be used for business partners.</value>
   </row>
   <row id="134" trl="N">
@@ -197,7 +197,7 @@
     <value column="Description" isTrl="N" original="Edit standard data types such as strings, integers, lists as well as custom data types.">Edit standard data types such as strings, integers, lists as well as custom data types.</value>
   </row>
   <row id="141" trl="N">
-    <value column="Name" isTrl="N" original="Windows, Tabs, and Fields">Windows, Tabs, and Fields</value>
+    <value column="Name" isTrl="N" original="Windows, Tabs, and Fields">Окна, Вкладки, and Поля</value>
     <value column="Description" isTrl="N" original="Create and edit windows, tabs, and fields according to your business preferences.">Create and edit windows, tabs, and fields according to your business preferences.</value>
   </row>
   <row id="142" trl="N">
@@ -649,7 +649,7 @@
     <value column="Description" isTrl="N" original="Define access to DB tables and columns for selected roles.">Define access to DB tables and columns for selected roles.</value>
   </row>
   <row id="364" trl="N">
-    <value column="Name" isTrl="N" original="Project Type">Project Type</value>
+    <value column="Name" isTrl="Y" original="Project Type">Тип проекта</value>
     <value column="Description" isTrl="N" original="Define projects types with typical phases and tasks to be used in projects.">Define projects types with typical phases and tasks to be used in projects.</value>
   </row>
   <row id="366" trl="N">
@@ -661,15 +661,15 @@
     <value column="Description" isTrl="N" original="Open a folder where you can see session logs and monitor modifications made by each user.">Open a folder where you can see session logs and monitor modifications made by each user.</value>
   </row>
   <row id="372" trl="N">
-    <value column="Name" isTrl="N" original="Web">Web</value>
+    <value column="Name" isTrl="Y" original="Web">Вэб</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="381" trl="N">
-    <value column="Name" isTrl="N" original="Freight Category">Freight Category</value>
+    <value column="Name" isTrl="Y" original="Freight Category">Категория фрахта</value>
     <value column="Description" isTrl="N" original="Define freight categories to be used by shippers.">Define freight categories to be used by shippers.</value>
   </row>
   <row id="383" trl="N">
-    <value column="Name" isTrl="N" original="Cache Reset">Cache Reset</value>
+    <value column="Name" isTrl="Y" original="Cache Reset">Очистить кэш</value>
     <value column="Description" isTrl="N" original="Reset Cache of the System ** Close all Windows before proceeding **">Reset Cache of the System ** Close all Windows before proceeding **</value>
   </row>
   <row id="384" trl="N">
@@ -677,7 +677,7 @@
     <value column="Description" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
   </row>
   <row id="392" trl="N">
-    <value column="Name" isTrl="N" original="Knowledge">Knowledge</value>
+    <value column="Name" isTrl="Y" original="Knowledge">Знания</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="392A7B0601FA42F9AFC41FD8E576610D" trl="N">

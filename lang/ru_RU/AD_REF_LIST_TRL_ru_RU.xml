@@ -633,7 +633,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="175" trl="N">
-    <value column="Name" isTrl="Y" original="Posted">Опубликовано</value>
+    <value column="Name" isTrl="Y" original="Posted">Проведено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="176" trl="N">
@@ -1613,7 +1613,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="415" trl="N">
-    <value column="Name" isTrl="N" original="Charge">Charge</value>
+    <value column="Name" isTrl="Y" original="Charge">Затраты</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="416" trl="N">
@@ -1649,8 +1649,8 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="440287BBD2C441BCAA253698C21148DB" trl="N">
-    <value column="Name" isTrl="N" original="Weekdays">Weekdays</value>
-    <value column="Description" isTrl="N" original="The days of the work week.">The days of the work week.</value>
+    <value column="Name" isTrl="Y" original="Weekdays">Рабочая неделя</value>
+    <value column="Description" isTrl="Y" original="The days of the work week.">Дней рабочей недели.</value>
   </row>
   <row id="445" trl="N">
     <value column="Name" isTrl="Y" original="Order">Накладная</value>
@@ -1689,11 +1689,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="454" trl="N">
-    <value column="Name" isTrl="N" original="Client+Organization">Клиент+Организация</value>
+    <value column="Name" isTrl="Y" original="Client+Organization">Подключение+Организация</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="455" trl="N">
-    <value column="Name" isTrl="N" original="Manual">Manual</value>
+    <value column="Name" isTrl="Y" original="Manual">Вручную</value>
     <value column="Description" isTrl="N" original="Manual Entry">Manual Entry</value>
   </row>
   <row id="456" trl="N">
@@ -1837,11 +1837,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="487" trl="N">
-    <value column="Name" isTrl="N" original="Dictionary">Dictionary</value>
+    <value column="Name" isTrl="Y" original="Dictionary">Словарь</value>
     <value column="Description" isTrl="N" original="Application Dictionary (synchronized)">Application Dictionary (synchronized)</value>
   </row>
   <row id="488" trl="N">
-    <value column="Name" isTrl="N" original="Core">Core</value>
+    <value column="Name" isTrl="Y" original="Core">Ядро</value>
     <value column="Description" isTrl="N" original="Core Application (synchronized)">Core Application (synchronized)</value>
   </row>
   <row id="489" trl="N">
@@ -1865,7 +1865,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="496" trl="N">
-    <value column="Name" isTrl="N" original="Line">Line</value>
+    <value column="Name" isTrl="Y" original="Line">Строка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="497" trl="N">
@@ -1889,7 +1889,7 @@
     <value column="Description" isTrl="N" original="Process trigger will finish after date.">Process trigger will finish after date.</value>
   </row>
   <row id="49CA2EB814834A60BB71F0F45233A208" trl="N">
-    <value column="Name" isTrl="N" original="Percentage">Percentage</value>
+    <value column="Name" isTrl="Y" original="Percentage">Процент</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="49CC7B0012EA4A379F8CE95F481A3F8D" trl="N">
@@ -3889,7 +3889,7 @@
     <value column="Description" isTrl="N" original="Other open source ">Other open source </value>
   </row>
   <row id="DE6AC100F77C450FA67D716FE9EE0EE8" trl="N">
-    <value column="Name" isTrl="Y" original="Posted">Опубликовано</value>
+    <value column="Name" isTrl="Y" original="Posted">Проведено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="DEDCE0338D01481D96940BD0BF6D4CC3" trl="N">

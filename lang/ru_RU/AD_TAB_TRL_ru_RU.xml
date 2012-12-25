@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_TAB" version="">
   <row id="01F5E95D71544D428E1B9004B05D0298" trl="N">
-    <value column="Name" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="Name" isTrl="Y" original="Payment Method">Способ оплаты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Shows all payment methods related to the given financial account.">Shows all payment methods related to the given financial account.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Shows all payment methods related to the financial account as well as their configuration in terms of payment in/out management and accounting.">Shows all payment methods related to the financial account as well as their configuration in terms of payment in/out management and accounting.</value>
   </row>
   <row id="0675F934EA9E40C799826AABC47CD837" trl="N">
-    <value column="Name" isTrl="N" original="Payments">Payments</value>
+    <value column="Name" isTrl="Y" original="Payments">Платежи</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Shows all the payments that belong to a payment run.">Shows all the payments that belong to a payment run.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -29,28 +29,28 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="100" trl="N">
-    <value column="Name" isTrl="N" original="Table">Table</value>
+    <value column="Name" isTrl="Y" original="Table">Таблица</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define tables that Openbravo can access in the database.">Define tables that Openbravo can access in the database.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Define tables that Openbravo can access in the database.">Define tables that Openbravo can access in the database.</value>
   </row>
   <row id="1000500000" trl="N">
-    <value column="Name" isTrl="N" original="Email Configuration">Email Configuration</value>
+    <value column="Name" isTrl="Y" original="Email Configuration">Настройка эл. почты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Configuration tab for the Point of Contact features">Configuration tab for the Point of Contact features</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Documents such as orders or invoices can be sent out by e-mail. Email configuration tab allows to configure the email server, account and password, variables which require to be properly setup prior sending documents by email. ">Documents such as orders or invoices can be sent out by e-mail. Email configuration tab allows to configure the email server, account and password, variables which require to be properly setup prior sending documents by email. </value>
   </row>
   <row id="1000500001" trl="N">
-    <value column="Name" isTrl="N" original="Report Templates">Report Templates</value>
+    <value column="Name" isTrl="Y" original="Report Templates">Шаблоны отчёта</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Configure Report templates">Configure Report templates</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Report template tab allows to configure a different look and feel for the document types by setting up Jasper JRXML templates for each document type. ">Report template tab allows to configure a different look and feel for the document types by setting up Jasper JRXML templates for each document type. </value>
   </row>
   <row id="1000500002" trl="N">
-    <value column="Name" isTrl="N" original="Email Definitions">Email Definitions</value>
+    <value column="Name" isTrl="Y" original="Email Definitions">Шаблоны эл. почты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Configure template for emails">Configure template for emails</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -589,7 +589,7 @@
     <value column="Help" isTrl="N" original="Payment Term window allows to create and configure the payment terms to be linked to the business partners.">Payment Term window allows to create and configure the payment terms to be linked to the business partners.</value>
   </row>
   <row id="185" trl="N">
-    <value column="Name" isTrl="N" original="Shipping Company">Shipping Company</value>
+    <value column="Name" isTrl="Y" original="Shipping Company">Транспортная компания</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create shippers to be used in other application transactions.">Create shippers to be used in other application transactions.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1810,14 +1810,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="It is possible to assign additional accounting process to be run after the standar one for a given accounting schema.">It is possible to assign additional accounting process to be run after the standar one for a given accounting schema.</value>
   </row>
   <row id="513" trl="N">
-    <value column="Name" isTrl="N" original="Freight">Freight</value>
+    <value column="Name" isTrl="Y" original="Freight">Фрахт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define freights to be used for a specified shipper.">Define freights to be used for a specified shipper.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Define freights to be used for a specified shipper.">Define freights to be used for a specified shipper.</value>
   </row>
   <row id="514" trl="N">
-    <value column="Name" isTrl="N" original="Freight Category">Freight Category</value>
+    <value column="Name" isTrl="Y" original="Freight Category">Категория фрахта</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create freight categories to be used by shippers.">Create freight categories to be used by shippers.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3435,21 +3435,21 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Relation of prioritized on hand warehouses of the Organization.">Relation of prioritized on hand warehouses of the Organization.</value>
   </row>
   <row id="A0F74205D11848FAB0393A11B0CFB515" trl="N">
-    <value column="Name" isTrl="N" original="Basic Discounts">Basic Discounts</value>
+    <value column="Name" isTrl="Y" original="Basic Discounts">Скидки базовые</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="A4A463FA34F946BFA3F687DC8754ED93" trl="N">
-    <value column="Name" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="Name" isTrl="Y" original="Payment Method">Способ оплаты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="A4C162259A204149A3F8CBC9E6170127" trl="N">
-    <value column="Name" isTrl="N" original="Basic Discounts">Basic Discounts</value>
+    <value column="Name" isTrl="Y" original="Basic Discounts">Скидки базовые</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3527,7 +3527,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="View applied price adjustments for each order line.">View applied price adjustments for each order line.</value>
   </row>
   <row id="AF4090093DA61431E040007F010048A5" trl="N">
-    <value column="Name" isTrl="N" original="Basic Discounts">Basic Discounts</value>
+    <value column="Name" isTrl="Y" original="Basic Discounts">Скидки базовые</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>

@@ -229,7 +229,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="A payment term specifies the period allowed to pay off an amount due.">A payment term specifies the period allowed to pay off an amount due.</value>
   </row>
   <row id="142" trl="N">
-    <value column="Name" isTrl="N" original="Shipping Company">Shipping Company</value>
+    <value column="Name" isTrl="Y" original="Shipping Company">Транспортная компания</value>
     <value column="Description" isTrl="N" original="Create shipping companies and define freight costs to be used in products logistics.">Create shipping companies and define freight costs to be used in products logistics.</value>
     <value column="Help" isTrl="N" original="Create shipping companies and define freight costs to be used in products logistics.">Create shipping companies and define freight costs to be used in products logistics.</value>
   </row>
@@ -239,23 +239,23 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create orders tracking product sales to customers.">Create orders tracking product sales to customers.</value>
   </row>
   <row id="144" trl="N">
-    <value column="Name" isTrl="N" original="Product Category">Product Category</value>
+    <value column="Name" isTrl="Y" original="Product Category">Категория товара</value>
     <value column="Description" isTrl="N" original="Create product categories to better organize your products and create more powerful reports.">Create product categories to better organize your products and create more powerful reports.</value>
     <value column="Help" isTrl="N" original="Similar products can be grouped into different categories which must be created with the aim of helping their management and analysis.">Similar products can be grouped into different categories which must be created with the aim of helping their management and analysis.</value>
   </row>
   <row id="146" trl="N">
-    <value column="Name" isTrl="N" original="Price List">Price List</value>
+    <value column="Name" isTrl="Y" original="Price List">Прейскурант</value>
     <value column="Description" isTrl="N" original="Create and edit price lists and versions to optionally apply specified product prices to individual business partners.">Create and edit price lists and versions to optionally apply specified product prices to individual business partners.</value>
     <value column="Help" isTrl="N" original="A price list is a listing of prices for different products or services. &lt;br&gt;It is possible to create as many price list and price list versions as required depending on the organization needs.&#10;">A price list is a listing of prices for different products or services. &lt;br&gt;It is possible to create as many price list and price list versions as required depending on the organization needs.
 </value>
   </row>
   <row id="147" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Schedule">Invoice Schedule</value>
+    <value column="Name" isTrl="Y" original="Invoice Schedule">График выставления</value>
     <value column="Description" isTrl="N" original="Define invoice schedules to be used for business partners.">Define invoice schedules to be used for business partners.</value>
     <value column="Help" isTrl="N" original="Invoice schedule window allows to define and configure how often and by when an organization can issue invoices to be sent to customers.">Invoice schedule window allows to define and configure how often and by when an organization can issue invoices to be sent to customers.</value>
   </row>
   <row id="149" trl="N">
-    <value column="Name" isTrl="N" original="Sales Campaign">Sales Campaign</value>
+    <value column="Name" isTrl="Y" original="Sales Campaign">Кампания продвижения</value>
     <value column="Description" isTrl="N" original="Create specific sales campaigns to be used in sales operations.">Create specific sales campaigns to be used in sales operations.</value>
     <value column="Help" isTrl="N" original="Create specific sales campaigns to be used in sales operations.">Create specific sales campaigns to be used in sales operations.</value>
   </row>
@@ -280,7 +280,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="An account combination is an account (subaccount) of a given accounting schema associated to a given organization. ">An account combination is an account (subaccount) of a given accounting schema associated to a given organization. </value>
   </row>
   <row id="158" trl="N">
-    <value column="Name" isTrl="N" original="Bank">Bank</value>
+    <value column="Name" isTrl="Y" original="Bank">Банк</value>
     <value column="Description" isTrl="N" original="Define banks and the related accounts.">Define banks and the related accounts.</value>
     <value column="Help" isTrl="N" original="Define banks and the related accounts.">Define banks and the related accounts.</value>
   </row>
@@ -501,12 +501,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="From this window you deliver the returned goods to the vendor">From this window you deliver the returned goods to the vendor</value>
   </row>
   <row id="276" trl="N">
-    <value column="Name" isTrl="N" original="Alert">Alert</value>
+    <value column="Name" isTrl="Y" original="Alert">Предупреждение</value>
     <value column="Description" isTrl="N" original="Create and edit alerts that will inform you about any critical or important situation in the application.">Create and edit alerts that will inform you about any critical or important situation in the application.</value>
     <value column="Help" isTrl="N" original="Alerts are notifications which inform about events happening whenever an alert rule has been properly defined to monitor those events.">Alerts are notifications which inform about events happening whenever an alert rule has been properly defined to monitor those events.</value>
   </row>
   <row id="282" trl="N">
-    <value column="Name" isTrl="N" original="Freight Category">Freight Category</value>
+    <value column="Name" isTrl="N" original="Freight Category">Категория фрахта</value>
     <value column="Description" isTrl="N" original="Define freight categories to be used by shippers.">Define freight categories to be used by shippers.</value>
     <value column="Help" isTrl="N" original="Define freight categories to be used by shippers.">Define freight categories to be used by shippers.</value>
   </row>

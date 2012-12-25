@@ -4965,8 +4965,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="Help" isTrl="N" original="An indication of the address to use in the invoice.&lt;br /&gt;">An indication of the address to use in the invoice.&lt;br /&gt;</value>
     <value column="PO_Description" isTrl="N" original="Bill From Address">Bill From Address</value>
     <value column="PO_Help" isTrl="N" original="The Bill/Invoice From indicated the address where the invoice is created by the vendor">The Bill/Invoice From indicated the address where the invoice is created by the vendor</value>
-    <value column="PO_Name" isTrl="N" original="Invoice From">Invoice From</value>
-    <value column="PO_PrintName" isTrl="N" original="Invoice From">Invoice From</value>
+    <value column="PO_Name" isTrl="Y" original="Invoice From">Выставлено от</value>
+    <value column="PO_PrintName" isTrl="Y" original="Invoice From">Выставлено от</value>
   </row>
   <row id="1738" trl="N">
     <value column="Name" isTrl="N" original="Line ID">Line ID</value>
@@ -6610,8 +6610,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="211" trl="N">
-    <value column="Name" isTrl="N" original="Tax Category">Tax Category</value>
-    <value column="PrintName" isTrl="N" original="Tax Category">Tax Category</value>
+    <value column="Name" isTrl="Y" original="Tax Category">Категория налога</value>
+    <value column="PrintName" isTrl="Y" original="Tax Category">Категория налога</value>
     <value column="Description" isTrl="N" original="A classification of tax options based on similar characteristics or attributes.">A classification of tax options based on similar characteristics or attributes.</value>
     <value column="Help" isTrl="N" original="The Tax Category provides a method of grouping similar taxes.  For example, Sales Tax or Value Added Tax.">The Tax Category provides a method of grouping similar taxes.  For example, Sales Tax or Value Added Tax.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6620,9 +6620,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2110" trl="N">
-    <value column="Name" isTrl="N" original="Freight">Freight</value>
-    <value column="PrintName" isTrl="N" original="Freight">Freight</value>
-    <value column="Description" isTrl="N" original="Freight Rate">Freight Rate</value>
+    <value column="Name" isTrl="Y" original="Freight">Ставка фрахта</value>
+    <value column="PrintName" isTrl="Y" original="Freight">Ставка фрахта</value>
+    <value column="Description" isTrl="Y" original="Freight Rate">Ставка фрахта</value>
     <value column="Help" isTrl="N" original="Freight Rate for Shipper">Freight Rate for Shipper</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -6630,8 +6630,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2111" trl="N">
-    <value column="Name" isTrl="N" original="Freight Category">Freight Category</value>
-    <value column="PrintName" isTrl="N" original="Freight Category">Freight Category</value>
+    <value column="Name" isTrl="Y" original="Freight Category">Категория фрахта</value>
+    <value column="PrintName" isTrl="Y" original="Freight Category">Категория фрахта</value>
     <value column="Description" isTrl="N" original="A classification used to help calculate shipping company freight amounts.">A classification used to help calculate shipping company freight amounts.</value>
     <value column="Help" isTrl="N" original="Freight Categories are used to calculate the Freight for the Shipper selected">Freight Categories are used to calculate the Freight for the Shipper selected</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7873,8 +7873,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="357" trl="N">
-    <value column="Name" isTrl="N" original="Base Language">Base Language</value>
-    <value column="PrintName" isTrl="N" original="Base Language">Base Language</value>
+    <value column="Name" isTrl="Y" original="Base Language">Базовый язык</value>
+    <value column="PrintName" isTrl="Y" original="Base Language">Базовый язык</value>
     <value column="Description" isTrl="N" original="The system information is maintained in this language">The system information is maintained in this language</value>
     <value column="Help" isTrl="N" original="The system information is maintained in this language">The system information is maintained in this language</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7883,9 +7883,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="35C50FAEA42311DDA55D001B388C05F0" trl="N">
-    <value column="Name" isTrl="N" original="Freight Currency">Freight Currency</value>
-    <value column="PrintName" isTrl="N" original="Freight Currency">Freight Currency</value>
-    <value column="Description" isTrl="N" original="Currency of the freight amount.">Currency of the freight amount.</value>
+    <value column="Name" isTrl="Y" original="Freight Currency">Валюта фрахта</value>
+    <value column="PrintName" isTrl="Y" original="Freight Currency">Валюта фрахта</value>
+    <value column="Description" isTrl="Y" original="Currency of the freight amount.">Валюта стоимости фрахта.</value>
     <value column="Help" isTrl="N" original="Indicates the currency of the freight amount when it is calculated.">Indicates the currency of the freight amount when it is calculated.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7893,8 +7893,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="361ED16139BD40CBA4DB049380EE1641" trl="N">
-    <value column="Name" isTrl="N" original="Your Company Big Image">Your Company Big Image</value>
-    <value column="PrintName" isTrl="N" original="Your Company Big Image">Your Company Big Image</value>
+    <value column="Name" isTrl="Y" original="Your Company Big Image">Большой логотип вашей фирмы</value>
+    <value column="PrintName" isTrl="Y" original="Your Company Big Image">Большой логотип вашей фирмы</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7903,8 +7903,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="362" trl="N">
-    <value column="Name" isTrl="N" original="Central Maintenance">Central Maintenance</value>
-    <value column="PrintName" isTrl="N" original="Centrally maintained">Centrally maintained</value>
+    <value column="Name" isTrl="Y" original="Central Maintenance">Центральный репозитарий</value>
+    <value column="PrintName" isTrl="Y" original="Centrally maintained">Центральный репозитарий</value>
     <value column="Description" isTrl="N" original="A flag indicating that this label is managed in a central repository.">A flag indicating that this label is managed in a central repository.</value>
     <value column="Help" isTrl="N" original="The Centrally Maintained checkbox indicates if the Name, Description and Help maintained in 'System Element' table  or 'Window' table.">The Centrally Maintained checkbox indicates if the Name, Description and Help maintained in 'System Element' table  or 'Window' table.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9306,8 +9306,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="522" trl="N">
-    <value column="Name" isTrl="N" original="Priority">Priority</value>
-    <value column="PrintName" isTrl="N" original="Priority">Priority</value>
+    <value column="Name" isTrl="Y" original="Priority">Приоритет</value>
+    <value column="PrintName" isTrl="Y" original="Priority">Приоритет</value>
     <value column="Description" isTrl="N" original="A defined level of importance or precedence.">A defined level of importance or precedence.</value>
     <value column="Help" isTrl="N" original="The Priority indicates the importance (high, medium, low) of this document">The Priority indicates the importance (high, medium, low) of this document</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10016,7 +10016,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="550" trl="N">
-    <value column="Name" isTrl="Y" original="Sales Campaign">Кампания продаж</value>
+    <value column="Name" isTrl="Y" original="Sales Campaign">Кампания продвижения</value>
     <value column="PrintName" isTrl="Y" original="Campaign">Кампания</value>
     <value column="Description" isTrl="Y" original="An advertising effort aimed at increasing sales.">Кампания по продвижению товара на рынке, направленная на увеличение продаж.</value>
     <value column="Help" isTrl="N" original="The Campaign defines a unique marketing program.  Projects can be associated with a pre defined Marketing Campaign.  You can then report based on a specific Campaign.">The Campaign defines a unique marketing program.  Projects can be associated with a pre defined Marketing Campaign.  You can then report based on a specific Campaign.</value>
