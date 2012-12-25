@@ -607,13 +607,13 @@
     <value column="Text" isTrl="Y" original="Date:">Дата:</value>
   </row>
   <row id="1003900011" trl="N">
-    <value column="Text" isTrl="Y" original="Client:">Client:</value>
+    <value column="Text" isTrl="Y" original="Client:">Подключение:</value>
   </row>
   <row id="1003900014" trl="N">
     <value column="Text" isTrl="Y" original="Business Partner:">Контрагент:</value>
   </row>
   <row id="1003900016" trl="N">
-    <value column="Text" isTrl="N" original="Account No.:">Account No.:</value>
+    <value column="Text" isTrl="N" original="Account No.:">Счёт №:</value>
   </row>
   <row id="1003900017" trl="N">
     <value column="Text" isTrl="Y" original="Currency:">Валюта:</value>
@@ -973,7 +973,7 @@
     <value column="Text" isTrl="N" original="GOODS RECEIPT">GOODS RECEIPT</value>
   </row>
   <row id="21444EAA2E5211DE95D5ABB0C6CBBF57" trl="N">
-    <value column="Text" isTrl="N" original="PREVIOUS">PREVIOUS</value>
+    <value column="Text" isTrl="Y" original="PREVIOUS">НА НАЧАЛО</value>
   </row>
   <row id="21C7674B589C4C8BBB2D6C62943148FE" trl="N">
     <value column="Text" isTrl="N" original="AVERAGE COST">AVERAGE COST</value>
@@ -1846,10 +1846,10 @@
     <value column="Text" isTrl="N" original="Sales Rep.">Sales Rep.</value>
   </row>
   <row id="69B62064DBC488B9E040007F010178C7" trl="N">
-    <value column="Text" isTrl="N" original="BUSINESS PARTNER">BUSINESS PARTNER</value>
+    <value column="Text" isTrl="Y" original="BUSINESS PARTNER">КОНТРАГЕНТ</value>
   </row>
   <row id="69B62064DBC588B9E040007F010178C7" trl="N">
-    <value column="Text" isTrl="N" original="PREVIOUS">PREVIOUS</value>
+    <value column="Text" isTrl="Y" original="PREVIOUS">НА НАЧАЛО</value>
   </row>
   <row id="6A4C276FA56B4F8CB026B5D7EA98ACD7" trl="N">
     <value column="Text" isTrl="N" original="Restart servlet container now  ">Restart servlet container now  </value>
@@ -2065,7 +2065,7 @@
     <value column="Text" isTrl="N" original="Renew Instance">Renew Instance</value>
   </row>
   <row id="6E96197292C2BC5FE040007F010163BC" trl="N">
-    <value column="Text" isTrl="N" original="SUBTOTAL">SUBTOTAL</value>
+    <value column="Text" isTrl="Y" original="SUBTOTAL">НА КОНЕЦ</value>
   </row>
   <row id="6E961D44DEFA3D3DE040007F0101642C" trl="N">
     <value column="Text" isTrl="N" original="Subtotal">Subtotal</value>
@@ -2110,10 +2110,10 @@
     <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="7A633BD302FBBEA8E040007F010032C3" trl="N">
-    <value column="Text" isTrl="N" original="Acct. No.">Acct. No.</value>
+    <value column="Text" isTrl="Y" original="Acct. No.">Счёт №</value>
   </row>
   <row id="7A633BD302FCBEA8E040007F010032C3" trl="N">
-    <value column="Text" isTrl="N" original="Account Name">Account Name</value>
+    <value column="Text" isTrl="Y" original="Account Name">Название счёта</value>
   </row>
   <row id="7A91D45B984F47738C5FAD0AACDA6BB2" trl="N">
     <value column="Text" isTrl="N" original="A major upgrade is available: ">A major upgrade is available: </value>
@@ -2191,10 +2191,10 @@
     <value column="Text" isTrl="N" original="Results">Results</value>
   </row>
   <row id="800165" trl="N">
-    <value column="Text" isTrl="N" original="Corridor">Corridor</value>
+    <value column="Text" isTrl="Y" original="Corridor">Коридор</value>
   </row>
   <row id="800171" trl="N">
-    <value column="Text" isTrl="N" original="Search">Search</value>
+    <value column="Text" isTrl="Y" original="Search">Искать</value>
   </row>
   <row id="800172" trl="N">
     <value column="Text" isTrl="Y" original="Business Partner">Контрагент</value>
@@ -3409,7 +3409,7 @@
     <value column="Text" isTrl="N" original="To doc No.">To doc No.</value>
   </row>
   <row id="806738" trl="N">
-    <value column="Text" isTrl="N" original="Account ">Account </value>
+    <value column="Text" isTrl="N" original="Account ">Счёт </value>
   </row>
   <row id="806739" trl="N">
     <value column="Text" isTrl="Y" original="Organization ">Организация </value>
@@ -3439,13 +3439,13 @@
     <value column="Text" isTrl="N" original="* This value is required.">* This value is required.</value>
   </row>
   <row id="807007" trl="N">
-    <value column="Text" isTrl="N" original="Account">Account</value>
+    <value column="Text" isTrl="Y" original="Account">Счёт</value>
   </row>
   <row id="807008" trl="N">
-    <value column="Text" isTrl="N" original="Account No">Account No</value>
+    <value column="Text" isTrl="Y" original="Account No">Счёт №</value>
   </row>
   <row id="807009" trl="N">
-    <value column="Text" isTrl="N" original="Account No.">Account No.</value>
+    <value column="Text" isTrl="Y" original="Account No.">Счёт №</value>
   </row>
   <row id="807010" trl="N">
     <value column="Text" isTrl="N" original="Account selector">Account selector</value>
@@ -3514,22 +3514,22 @@
     <value column="Text" isTrl="N" original="Attribute selector">Attribute selector</value>
   </row>
   <row id="807035" trl="N">
-    <value column="Text" isTrl="N" original="BALANCE">BALANCE</value>
+    <value column="Text" isTrl="Y" original="BALANCE">БАЛАНС</value>
   </row>
   <row id="807036" trl="N">
-    <value column="Text" isTrl="N" original="Balance">Balance</value>
+    <value column="Text" isTrl="Y" original="Balance">Баланс</value>
   </row>
   <row id="807038" trl="N">
-    <value column="Text" isTrl="N" original="Bank">Bank</value>
+    <value column="Text" isTrl="Y" original="Bank">Банк</value>
   </row>
   <row id="807039" trl="N">
-    <value column="Text" isTrl="N" original="Bank:">Bank:</value>
+    <value column="Text" isTrl="Y" original="Bank:">Банк:</value>
   </row>
   <row id="807040" trl="N">
-    <value column="Text" isTrl="N" original="Bank account">Bank account</value>
+    <value column="Text" isTrl="Y" original="Bank account">Банковский счёт</value>
   </row>
   <row id="807041" trl="N">
-    <value column="Text" isTrl="N" original="Bank acct:">Bank acct:</value>
+    <value column="Text" isTrl="Y" original="Bank acct:">Банковский счёт:</value>
   </row>
   <row id="807042" trl="N">
     <value column="Text" isTrl="N" original="Bank draft">Bank draft</value>
@@ -3616,22 +3616,22 @@
     <value column="Text" isTrl="N" original="Credit">Credit</value>
   </row>
   <row id="807088" trl="N">
-    <value column="Text" isTrl="N" original="CUSTOMER">CUSTOMER</value>
+    <value column="Text" isTrl="Y" original="CUSTOMER">КЛИЕНТ</value>
   </row>
   <row id="807089" trl="N">
-    <value column="Text" isTrl="N" original="Customer">Customer</value>
+    <value column="Text" isTrl="Y" original="Customer">Клиент</value>
   </row>
   <row id="807090" trl="N">
-    <value column="Text" isTrl="N" original="DATE">DATE</value>
+    <value column="Text" isTrl="Y" original="DATE">ДАТА</value>
   </row>
   <row id="807091" trl="N">
-    <value column="Text" isTrl="N" original="DATE:">DATE:</value>
+    <value column="Text" isTrl="Y" original="DATE:">ДАТА:</value>
   </row>
   <row id="807096" trl="N">
     <value column="Text" isTrl="N" original="Date Invoiced">Date Invoiced</value>
   </row>
   <row id="807099" trl="N">
-    <value column="Text" isTrl="N" original="DEBIT">DEBIT</value>
+    <value column="Text" isTrl="N" original="DEBIT">ДЕБИТ</value>
   </row>
   <row id="807101" trl="N">
     <value column="Text" isTrl="N" original="Debt Payment">Debt Payment</value>
@@ -3744,17 +3744,17 @@
   <row id="807150" trl="N">
     <value column="Text" isTrl="N" original="Fixed">Fixed</value>
   </row>
-  <row id="807151" trl="N">
-    <value column="Text" isTrl="N" original="From">From</value>
+  <row id="807151" trl="Y">
+    <value column="Text" isTrl="Y" original="From">С</value>
   </row>
-  <row id="807152" trl="N">
-    <value column="Text" isTrl="N" original="From Account">From Account</value>
+  <row id="807152" trl="Y">
+    <value column="Text" isTrl="Y" original="From Account">C счёта</value>
   </row>
-  <row id="807153" trl="N">
-    <value column="Text" isTrl="N" original="From Amount">From Amount</value>
+  <row id="807153" trl="Y">
+    <value column="Text" isTrl="Y" original="From Amount">От суммы</value>
   </row>
-  <row id="807154" trl="N">
-    <value column="Text" isTrl="N" original="From Date">From Date</value>
+  <row id="807154" trl="Y">
+    <value column="Text" isTrl="Y" original="From Date">С даты</value>
   </row>
   <row id="807155" trl="N">
     <value column="Text" isTrl="N" original="From Date planned">From Date planned</value>
@@ -3763,7 +3763,7 @@
     <value column="Text" isTrl="N" original="From Reference Date">From Reference Date</value>
   </row>
   <row id="807157" trl="N">
-    <value column="Text" isTrl="N" original="General Ledger">General Ledger</value>
+    <value column="Text" isTrl="Y" original="General Ledger">Главная книга</value>
   </row>
   <row id="807158" trl="N">
     <value column="Text" isTrl="N" original="General Ledger Journal">General Ledger Journal</value>
@@ -4206,17 +4206,17 @@
   <row id="807354" trl="N">
     <value column="Text" isTrl="N" original="TITLE">TITLE</value>
   </row>
-  <row id="807355" trl="N">
-    <value column="Text" isTrl="N" original="To">To</value>
+  <row id="807355" trl="Y">
+    <value column="Text" isTrl="Y" original="To">По</value>
   </row>
-  <row id="807356" trl="N">
-    <value column="Text" isTrl="N" original="To Account">To Account</value>
+  <row id="807356" trl="Y">
+    <value column="Text" isTrl="Y" original="To Account">По счёт</value>
   </row>
-  <row id="807357" trl="N">
-    <value column="Text" isTrl="N" original="To Amount">To Amount</value>
+  <row id="807357" trl="Y">
+    <value column="Text" isTrl="Y" original="To Amount">До суммы</value>
   </row>
-  <row id="807358" trl="N">
-    <value column="Text" isTrl="N" original="To Date">To Date</value>
+  <row id="807358" trl="Y">
+    <value column="Text" isTrl="Y" original="To Date">По дату</value>
   </row>
   <row id="807360" trl="N">
     <value column="Text" isTrl="N" original="To Date planned">To Date planned</value>
@@ -4231,7 +4231,7 @@
     <value column="Text" isTrl="N" original="Tot sales">Tot sales</value>
   </row>
   <row id="807364" trl="N">
-    <value column="Text" isTrl="N" original="TOTAL">TOTAL</value>
+    <value column="Text" isTrl="N" original="TOTAL">ЗА ПЕРИОД</value>
   </row>
   <row id="807366" trl="N">
     <value column="Text" isTrl="N" original="Total">Total</value>
@@ -4261,10 +4261,10 @@
     <value column="Text" isTrl="N" original="URL">URL</value>
   </row>
   <row id="807390" trl="N">
-    <value column="Text" isTrl="N" original="View Results">View Results</value>
+    <value column="Text" isTrl="Y" original="View Results">Результат запроса</value>
   </row>
   <row id="807391" trl="N">
-    <value column="Text" isTrl="N" original="View Results in a New Window">View Results in a New Window</value>
+    <value column="Text" isTrl="Y" original="View Results in a New Window">Результат запроса в новом окне</value>
   </row>
   <row id="807392" trl="N">
     <value column="Text" isTrl="Y" original="Warehouse">Склад</value>
@@ -4345,7 +4345,7 @@
     <value column="Text" isTrl="N" original="Order Qty">Order Qty</value>
   </row>
   <row id="807543" trl="N">
-    <value column="Text" isTrl="N" original="Primary Filters">Primary Filters</value>
+    <value column="Text" isTrl="Y" original="Primary Filters">Основные фильтры</value>
   </row>
   <row id="807550" trl="Y">
     <value column="Text" isTrl="Y" original="Business Partners">Контрагенты</value>
@@ -4897,19 +4897,19 @@
     <value column="Text" isTrl="N" original="Report cash flow">Report cash flow</value>
   </row>
   <row id="810049" trl="N">
-    <value column="Text" isTrl="N" original="Account ">Account </value>
+    <value column="Text" isTrl="Y" original="Account ">Счёт </value>
   </row>
   <row id="810050" trl="N">
-    <value column="Text" isTrl="N" original="Organization ">Organization </value>
+    <value column="Text" isTrl="Y" original="Organization ">Организация </value>
   </row>
   <row id="810051" trl="N">
-    <value column="Text" isTrl="N" original="Period ">Period </value>
+    <value column="Text" isTrl="Y" original="Period ">Период </value>
   </row>
   <row id="810052" trl="N">
     <value column="Text" isTrl="N" original="Report Cash Flow">Report Cash Flow</value>
   </row>
   <row id="810053" trl="N">
-    <value column="Text" isTrl="N" original="Report">Report</value>
+    <value column="Text" isTrl="Y" original="Report">Отчёт</value>
   </row>
   <row id="810054" trl="N">
     <value column="Text" isTrl="N" original="Cash Flow">Cash Flow</value>
@@ -5317,7 +5317,7 @@
     <value column="Text" isTrl="Y" original="Confirm Password">Подтвердить пароль</value>
   </row>
   <row id="95CA79458E3CC420E040007F01015644" trl="N">
-    <value column="Text" isTrl="N" original="Initial page number">Initial page number</value>
+    <value column="Text" isTrl="Y" original="Initial page number">Начальный номер страницы</value>
   </row>
   <row id="982644405A4C4BC6AD687D6014C11878" trl="N">
     <value column="Text" isTrl="N" original="Invoiced">Invoiced</value>

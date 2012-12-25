@@ -2113,11 +2113,11 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="248" trl="N">
-    <value column="MsgText" isTrl="N" original="Export">Export</value>
+    <value column="MsgText" isTrl="Y" original="Export">Экспорт</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="249" trl="N">
-    <value column="MsgText" isTrl="N" original="Export to Excel">Export to Excel</value>
+    <value column="MsgText" isTrl="Y" original="Export to Excel">Экспорт в Excel</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="24D75AD6BD814259BFF03E41B49EDFD3" trl="N">
@@ -2125,7 +2125,7 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="250" trl="N">
-    <value column="MsgText" isTrl="N" original="Export Records">Export Records</value>
+    <value column="MsgText" isTrl="Y" original="Export Records">Экспорт записей</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="251" trl="N">
@@ -3129,7 +3129,7 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="425" trl="N">
-    <value column="MsgText" isTrl="N" original="Print Record">Print Record</value>
+    <value column="MsgText" isTrl="Y" original="Print Record">Печать записи</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="426" trl="N">
@@ -6373,11 +6373,11 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804858" trl="N">
-    <value column="MsgText" isTrl="N" original="Export to PDF">Export to PDF</value>
+    <value column="MsgText" isTrl="N" original="Export to PDF">Экспорт в PDF</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804859" trl="N">
-    <value column="MsgText" isTrl="N" original="Export to CSV">Export to CSV</value>
+    <value column="MsgText" isTrl="Y" original="Export to CSV">Экспорт в CSV</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804860" trl="N">

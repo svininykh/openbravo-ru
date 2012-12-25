@@ -2052,8 +2052,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1103" trl="N">
-    <value column="Name" isTrl="N" original="Default">Default</value>
-    <value column="PrintName" isTrl="N" original="Default">Default</value>
+    <value column="Name" isTrl="Y" original="Default">По-умолчанию</value>
+    <value column="PrintName" isTrl="Y" original="Default">По-умолчанию</value>
     <value column="Description" isTrl="N" original="A value that is shown whenever a record is created.">A value that is shown whenever a record is created.</value>
     <value column="Help" isTrl="N" original="The Default Checkbox indicates if this record will be used as a default value.">The Default Checkbox indicates if this record will be used as a default value.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16058,8 +16058,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800530" trl="N">
-    <value column="Name" isTrl="N" original="Search">Search</value>
-    <value column="PrintName" isTrl="N" original="Search">Search</value>
+    <value column="Name" isTrl="Y" original="Search">Поиск</value>
+    <value column="PrintName" isTrl="Y" original="Search">Поиск</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16768,9 +16768,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800611" trl="N">
-    <value column="Name" isTrl="N" original="Export to Excel">Export to Excel</value>
-    <value column="PrintName" isTrl="N" original="Export to excel">Export to excel</value>
-    <value column="Description" isTrl="N" original="Export to excel">Export to excel</value>
+    <value column="Name" isTrl="Y" original="Export to Excel">Экспорт в Excel</value>
+    <value column="PrintName" isTrl="Y" original="Export to excel">Экспорт в Excel</value>
+    <value column="Description" isTrl="Y" original="Export to excel">Экспорт в Excel</value>
     <value column="Help" isTrl="N" original="Process to export budget to excel file.">Process to export budget to excel file.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
