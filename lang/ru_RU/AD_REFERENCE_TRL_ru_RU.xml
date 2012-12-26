@@ -5,6 +5,11 @@
     <value column="Description" isTrl="N" original="This reference used in Receive Payment ">This reference used in Receive Payment </value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="01303128416E4CFC92E3A71D793F6EFF" trl="N">
+    <value column="Name" isTrl="N" original="Manage Reservation Pick and Edit">Manage Reservation Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="01F377BC3C0743E7868F81C20D062AA8" trl="N">
     <value column="Name" isTrl="N" original="FIN_Payment_Schedule invoice">FIN_Payment_Schedule invoice</value>
     <value column="Description" isTrl="N" original=""/>
@@ -24,6 +29,11 @@
     <value column="Name" isTrl="N" original="AD_Heartbeat - Type of beat">AD_Heartbeat - Type of beat</value>
     <value column="Description" isTrl="N" original="Types of beats">Types of beats</value>
     <value column="Help" isTrl="N" original="Types of beats: When enabling, disabling the process, a scheduled beat, or unknown (old beats)">Types of beats: When enabling, disabling the process, a scheduled beat, or unknown (old beats)</value>
+  </row>
+  <row id="0E0D1661E18E4E05A118785A7CF146B8" trl="N">
+    <value column="Name" isTrl="N" original="User Dimension 1 Selector">User Dimension 1 Selector</value>
+    <value column="Description" isTrl="N" original="User Dimension 1 Selector">User Dimension 1 Selector</value>
+    <value column="Help" isTrl="N" original="User Dimension 1 Selector">User Dimension 1 Selector</value>
   </row>
   <row id="1" trl="N">
     <value column="Name" isTrl="N" original="AD_Reference Data Types">AD_Reference Data Types</value>
@@ -512,6 +522,16 @@
   <row id="184" trl="N">
     <value column="Name" isTrl="N" original="AD_Tree">AD_Tree</value>
     <value column="Description" isTrl="N" original="Tree selection">Tree selection</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="1850A5390D97470EBB35A3A5F43AB533" trl="N">
+    <value column="Name" isTrl="N" original="User Dimension 2 Selector">User Dimension 2 Selector</value>
+    <value column="Description" isTrl="N" original="User Dimension 2 Selector">User Dimension 2 Selector</value>
+    <value column="Help" isTrl="N" original="User Dimension 2 Selector">User Dimension 2 Selector</value>
+  </row>
+  <row id="1852D69AB3FD453F8F031813501B26F0" trl="N">
+    <value column="Name" isTrl="N" original="Create_Reservation list">Create_Reservation list</value>
+    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="187" trl="N">
@@ -1144,6 +1164,16 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="List of Input Types allowed for Execution Process Parameters">List of Input Types allowed for Execution Process Parameters</value>
   </row>
+  <row id="3AE2B2C5C5F640EC83A5E77B0484C316" trl="N">
+    <value column="Name" isTrl="N" original="User2">User2</value>
+    <value column="Description" isTrl="N" original="Refers the user dimension 2 table">Refers the user dimension 2 table</value>
+    <value column="Help" isTrl="N" original="Refers the user dimension 2 table">Refers the user dimension 2 table</value>
+  </row>
+  <row id="3DDC9BFFE43342C4826EC65E97D40586" trl="N">
+    <value column="Name" isTrl="N" original="Tab Level">Tab Level</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="3F854F4DC7284CE4857A5EA941BE032C" trl="N">
     <value column="Name" isTrl="N" original="Module type">Module type</value>
     <value column="Description" isTrl="N" original="Type of module (module, package or template)">Type of module (module, package or template)</value>
@@ -1158,6 +1188,16 @@
     <value column="Name" isTrl="N" original="Business Partner not filtered by default by customer/vendor">Business Partner not filtered by default by customer/vendor</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="440DDA64A43F4799AAFF48BC86DC8F78" trl="N">
+    <value column="Name" isTrl="N" original="Reservation Actions">Reservation Actions</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="444F3B4F45544B9CA45E4035D49C1176" trl="N">
+    <value column="Name" isTrl="N" original="Asset Selector">Asset Selector</value>
+    <value column="Description" isTrl="N" original="Asset Selector">Asset Selector</value>
+    <value column="Help" isTrl="N" original="Asset Selector">Asset Selector</value>
   </row>
   <row id="4452E6997DD14363AB4387B06939871A" trl="N">
     <value column="Name" isTrl="N" original="CommercialTier">CommercialTier</value>
@@ -1238,6 +1278,11 @@
     <value column="Name" isTrl="N" original="License Type">License Type</value>
     <value column="Description" isTrl="N" original="Type of license">Type of license</value>
     <value column="Help" isTrl="N" original="Includes a list of all the possible license to distribute modules.">Includes a list of all the possible license to distribute modules.</value>
+  </row>
+  <row id="5E6828AAA48A4DC8A29C550AD84406DA" trl="N">
+    <value column="Name" isTrl="N" original="User1">User1</value>
+    <value column="Description" isTrl="N" original="Refers the user dimension 1 table">Refers the user dimension 1 table</value>
+    <value column="Help" isTrl="N" original="Refers the user dimension 1 table">Refers the user dimension 1 table</value>
   </row>
   <row id="5E77652CBFEB4F03A3A0629642D024DD" trl="N">
     <value column="Name" isTrl="N" original="FIN_Payment">FIN_Payment</value>
@@ -1806,6 +1851,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="List of allowed results of a payment after an Payment Run. ">List of allowed results of a payment after an Payment Run. </value>
   </row>
+  <row id="8FAA2F7B2F67456780B3551099E13917" trl="N">
+    <value column="Name" isTrl="N" original="Manage Prereservation Pick and Edit">Manage Prereservation Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="956E8F5C98A345AFBCCDD12E49A9074D" trl="N">
     <value column="Name" isTrl="N" original="FIN Execution Process Parameter type">FIN Execution Process Parameter type</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1891,6 +1941,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="C3C19DE8AB3B42E78748E20D986FBBC9" trl="N">
+    <value column="Name" isTrl="N" original="SO_Res_Status">SO_Res_Status</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="C5C21C28B39E4683A91779F16C112E40" trl="N">
     <value column="Name" isTrl="N" original="Password (not decryptable)">Password (not decryptable)</value>
     <value column="Description" isTrl="N" original="A password which is shown with * in the UI; the cleartext value cannot be recovered as only a hashed value is stored">A password which is shown with * in the UI; the cleartext value cannot be recovered as only a hashed value is stored</value>
@@ -1926,6 +1981,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original="Modules">Modules</value>
     <value column="Help" isTrl="N" original="Modules">Modules</value>
   </row>
+  <row id="DEE6B917B36D4648B2DA729FC2872CF4" trl="N">
+    <value column="Name" isTrl="N" original="Cost Center Selector">Cost Center Selector</value>
+    <value column="Description" isTrl="N" original="Cost Center Selector">Cost Center Selector</value>
+    <value column="Help" isTrl="N" original="Cost Center Selector">Cost Center Selector</value>
+  </row>
   <row id="DF1CEA94B3564A33AFDB37C07E1CE353" trl="N">
     <value column="Name" isTrl="N" original="FIN_Financial_Account">FIN_Financial_Account</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1948,6 +2008,11 @@ For example, if you want to create different invoices for each ship location for
   </row>
   <row id="E943EF6DC4524209BD5933661EC0BDDC" trl="N">
     <value column="Name" isTrl="N" original="FIN_Payment_Schedule_V invoice">FIN_Payment_Schedule_V invoice</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="EE8B072E19034D0FB34CA1CEB3583620" trl="N">
+    <value column="Name" isTrl="N" original="Reservation Status">Reservation Status</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1980,6 +2045,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Name" isTrl="N" original="Report Type">Report Type</value>
     <value column="Description" isTrl="N" original="Type of general accounting report">Type of general accounting report</value>
     <value column="Help" isTrl="N" original="Type of general accounting report">Type of general accounting report</value>
+  </row>
+  <row id="FBC599C796664DD49AD002C61DAFF813" trl="N">
+    <value column="Name" isTrl="N" original="C_DocType DocBaseType Dimensions configuration">C_DocType DocBaseType Dimensions configuration</value>
+    <value column="Description" isTrl="N" original="Base Document Types supporting dimensions configuration">Base Document Types supporting dimensions configuration</value>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FC98D43996374909B1AAC0197BBE95BA" trl="N">
     <value column="Name" isTrl="N" original="Payment Execution Type">Payment Execution Type</value>

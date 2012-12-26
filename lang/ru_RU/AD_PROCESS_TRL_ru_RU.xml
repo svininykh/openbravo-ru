@@ -7,8 +7,8 @@
   </row>
   <row id="100" trl="Y">
     <value column="Name" isTrl="Y" original="Create Periods">Создать периоды</value>
-    <value column="Description" isTrl="Y" original="Create 12 standard calendar periods (Jan-Dec)">Создать 12 стандартных календарных периода (Янв-Дек).</value>
-    <value column="Help" isTrl="Y" original="Create 12 standard calendar periods (Jan-Dec)">Создать 12 стандартных календарных периода (Янв-Дек).</value>
+    <value column="Description" isTrl="Y" original="Create 12 standard calendar periods (Jan-Dec) and an optional 13th period">Создать 12 стандартных календарных периода (Янв-Дек) и опционально 13-ый период.</value>
+    <value column="Help" isTrl="Y" original="Create 12 standard calendar periods (Jan-Dec) and an optional 13th period for adjustments">Создать 12 стандартных календарных периода (Янв-Дек) и опционально 13-ый период для корректировок.</value>
   </row>
   <row id="1000500000" trl="N">
     <value column="Name" isTrl="N" original="Pareto Product Report Legacy">Pareto Product Report Legacy</value>
@@ -393,7 +393,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
   <row id="176" trl="N">
     <value column="Name" isTrl="N" original="Reset Accounting">Reset Accounting</value>
     <value column="Description" isTrl="N" original="Reset Accounting Entries">Reset Accounting Entries</value>
-    <value column="Help" isTrl="N" original="The reset accounting process allows to totally or partially delete the accounting of an organization. The organization's accounting can be later on re-created by using the &quot;Accounting Server Process&quot; or the &quot;GL Posting by DB Tables&quot; massive posting.  ">The reset accounting process allows to totally or partially delete the accounting of an organization. The organization's accounting can be later on re-created by using the "Accounting Server Process" or the "GL Posting by DB Tables" massive posting.  </value>
+    <value column="Help" isTrl="N" original="The reset accounting process allows to totally or partially remove the ledger entries of an organization. The ledger entries can be massively re-created again by using the &quot;Accounting Server Process&quot; or the &quot;G/L Posting by DB Tables&quot; process. ">The reset accounting process allows to totally or partially delete the accounting of an organization. The organization's accounting can be later on re-created by using the "Accounting Server Process" or the "GL Posting by DB Tables" massive posting.  </value>
   </row>
   <row id="179" trl="N">
     <value column="Name" isTrl="N" original="Verify Languages">Verify Languages</value>
@@ -431,8 +431,8 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Create AP Invoices from Expenses to be paid to employees">Create AP Invoices from Expenses to be paid to employees</value>
   </row>
   <row id="188" trl="N">
-    <value column="Name" isTrl="N" original="Process Batch">Process Batch</value>
-    <value column="Description" isTrl="N" original="Process Batch">Process Batch</value>
+    <value column="Name" isTrl="N" original="Process Batch old">Process Batch</value>
+    <value column="Description" isTrl="N" original="Process Batch old. Do not use this one">Process Batch</value>
     <value column="Help" isTrl="N" original="Process Batch">Process Batch</value>
   </row>
   <row id="189" trl="N">
@@ -633,6 +633,11 @@ This process:&lt;br/&gt;
 - Will Stop the background process scheduler during process execution&lt;br/&gt;
 - Can take several minutes. Do not close the browser during execution.</value>
   </row>
+  <row id="5A2A0AF88AF54BB085DCC52FCC9B17B7" trl="N">
+    <value column="Name" isTrl="N" original="Reservation Process">Reservation Process</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="645271C57F8C4DA4A1F64C7ACE37B101" trl="N">
     <value column="Name" isTrl="N" original="Invoice Payment Monitor">Invoice Payment Monitor</value>
     <value column="Description" isTrl="N" original="Invoice Payment Monitor">Invoice Payment Monitor</value>
@@ -671,6 +676,11 @@ This process:&lt;br/&gt;
   <row id="75F83D534E764C7C8781FFA6C08E87ED" trl="N">
     <value column="Name" isTrl="N" original="Pareto Product Report">Pareto Product Report</value>
     <value column="Description" isTrl="N" original="Pareto Product Report">Pareto Product Report</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="7CB6B4D1ECCF4036B3F111D2CF11AADE" trl="N">
+    <value column="Name" isTrl="N" original="Create Reservations">Create Reservations</value>
+    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="7E9E0E62BF1341B796A57F3AC4A2D861" trl="N">
@@ -746,7 +756,7 @@ This process:&lt;br/&gt;
   <row id="800023" trl="N">
     <value column="Name" isTrl="N" original="Invoice Taxes Report">Invoice Taxes Report</value>
     <value column="Description" isTrl="N" original="Report Tax Invoice">Report Tax Invoice</value>
-    <value column="Help" isTrl="N" original="Report Tax Invoice">Report Tax Invoice</value>
+    <value column="Help" isTrl="N" original="The invoice taxes report provides invoice tax related information per each tax rate.">Report Tax Invoice</value>
   </row>
   <row id="800024" trl="N">
     <value column="Name" isTrl="N" original="Change Debt Payment">Change Debt Payment</value>
@@ -1424,6 +1434,11 @@ This operation can take a long time to complete.</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity.  If the firm quote check box is deselected and the price list is modified after quotation, prices will be reflect these changes in the sales order or invoice">A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity.  If the firm quote check box is deselected and the price list is modified after quotation, prices will be reflect these changes in the sales order or invoice</value>
   </row>
+  <row id="ABDFC8131D964936AD2EF7E0CED97FD9" trl="N">
+    <value column="Name" isTrl="N" original="Update Actuals">Update Actuals</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="ACD33F81B247441B8659BECF10D7A808" trl="N">
     <value column="Name" isTrl="N" original="Print payments process">Print payments process</value>
     <value column="Description" isTrl="N" original="Process to print payments or send them through email to the client">Process to print payments or send them through email to the client</value>
@@ -1438,6 +1453,11 @@ This operation can take a long time to complete.</value>
     <value column="Name" isTrl="N" original="Apply Modules">Apply Modules</value>
     <value column="Description" isTrl="N" original="This process apply all the installed modules">This process apply all the installed modules</value>
     <value column="Help" isTrl="N" original="This process applies all the installed modules. It loads the module definition in the database and generate and compiles the corresponding code.">This process applies all the installed modules. It loads the module definition in the database and generate and compiles the corresponding code.</value>
+  </row>
+  <row id="CD7283DF804B449C97DA09446669EEEF" trl="N">
+    <value column="Name" isTrl="N" original="Process Batch">Process Batch</value>
+    <value column="Description" isTrl="N" original="GL Journal Batch Process">GL Journal Batch Process</value>
+    <value column="Help" isTrl="N" original="GL Journal Batch Process">GL Journal Batch Process</value>
   </row>
   <row id="D56220370A774B7FA51323BE3C6E0F22" trl="N">
     <value column="Name" isTrl="N" original="Create Payment in Advance">Create Payment in Advance</value>

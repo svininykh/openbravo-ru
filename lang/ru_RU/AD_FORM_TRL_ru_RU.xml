@@ -72,7 +72,7 @@ Use Module Management to browse the currently installed modules, to check for up
   <row id="800003" trl="N">
     <value column="Name" isTrl="N" original="GL Posting by DB Tables">GL Posting by DB Tables</value>
     <value column="Description" isTrl="N" original="Recreate accounting information and add transactions for the General Ledger, grouped by defined database tables.">Recreate accounting information and add transactions for the General Ledger, grouped by defined database tables.</value>
-    <value column="Help" isTrl="N" original="The GL Posting by DB Table feature allows to massive post the transactions related to a given table defined to generate accountng.">The GL Posting by DB Table feature allows to massive post the transactions related to a given table defined to generate accountng.</value>
+    <value column="Help" isTrl="N" original="The G/L Posting by DB Table allows to massively post the transactions related to a given transactional table or to all of them.">The GL Posting by DB Table feature allows to massive post the transactions related to a given table defined to generate accountng.</value>
   </row>
   <row id="800007" trl="N">
     <value column="Name" isTrl="N" original="Background Process">Background Process</value>
@@ -92,7 +92,7 @@ Use Module Management to browse the currently installed modules, to check for up
   <row id="800014" trl="Y">
     <value column="Name" isTrl="Y" original="Import/Export Translations">Импорт/Экспорт переводов</value>
     <value column="Description" isTrl="Y" original="Import or export localizations.">Импортировать или экспортировать перевод интерфейса.</value>
-    <value column="Help" isTrl="Y" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800015" trl="N">
     <value column="Name" isTrl="N" original="About">About</value>

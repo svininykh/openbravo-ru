@@ -20,6 +20,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="07BA019E35BC4495AD040F8338740D95" trl="N">
+    <value column="Name" isTrl="N" original="Receipt Status">Receipt Status</value>
+    <value column="Description" isTrl="N" original="Receipt Status">Receipt Status</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="090122697F994BE696E9F947FFF34E3C" trl="N">
     <value column="Name" isTrl="N" original="Upon Reconciliation Use">Upon Reconciliation Use</value>
     <value column="Description" isTrl="N" original="Account used upon reconciliation">Account used upon reconciliation</value>
@@ -345,10 +350,20 @@
     <value column="Description" isTrl="N" original="Language for the current module">Language for the current module</value>
     <value column="Help" isTrl="N" original="This language defines the language used as base for the user interface elements in the module.">This language defines the language used as base for the user interface elements in the module.</value>
   </row>
+  <row id="5B8B513DB09446C4A363E1C5508ECB35" trl="N">
+    <value column="Name" isTrl="N" original="Payment">Payment</value>
+    <value column="Description" isTrl="N" original="Payment event">Payment event</value>
+    <value column="Help" isTrl="N" original="Payment event">Payment event</value>
+  </row>
   <row id="5E6B91050CDA4F6B9ABC3DD692875337" trl="N">
     <value column="Name" isTrl="N" original="Cleared Payment Account">Cleared Payment Account</value>
     <value column="Description" isTrl="N" original="Account used for payment IN when clearing ">Account used for payment IN when clearing </value>
     <value column="Help" isTrl="N" original="Account used for payment IN when clearing ">Account used for payment IN when clearing </value>
+  </row>
+  <row id="5F27F456BE1C41A186ABF8305E3752DF" trl="N">
+    <value column="Name" isTrl="N" original="Vendor">Vendor</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="63981B875CAA7A68E040007F01006697" trl="N">
     <value column="Name" isTrl="N" original="Object Name">Object Name</value>
@@ -685,6 +700,11 @@
     <value column="Description" isTrl="N" original="The document has been processed">The document has been processed</value>
     <value column="Help" isTrl="N" original="The Processed checkbox indicates that a document has been processed.">The Processed checkbox indicates that a document has been processed.</value>
   </row>
+  <row id="801E3D9BC2A74C7F9E48D8BE9B272510" trl="N">
+    <value column="Name" isTrl="N" original="Customer">Customer</value>
+    <value column="Description" isTrl="N" original="Anyone who takes part in daily business operations by acting as a customer, employee, etc.">Anyone who takes part in daily business operations by acting as a customer, employee, etc.</value>
+    <value column="Help" isTrl="N" original="A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.">A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.</value>
+  </row>
   <row id="802677" trl="N">
     <value column="Name" isTrl="Y" original="Client">Подключение</value>
     <value column="Description" isTrl="N" original="Client for this installation.">Client for this installation.</value>
@@ -768,12 +788,12 @@
     <value column="Help" isTrl="N" original="The Warehouse identifies a unique Warehouse where products are stored or Services are provided.">The Warehouse identifies a unique Warehouse where products are stored or Services are provided.</value>
   </row>
   <row id="8227" trl="N">
-    <value column="Name" isTrl="N" original="Project Category">Категория проекта</value>
-    <value column="Description" isTrl="N" original="Project Category">Категория проекта</value>
+    <value column="Name" isTrl="Y" original="Project Category">Категория проекта</value>
+    <value column="Description" isTrl="Y" original="Project Category">Категория проекта</value>
     <value column="Help" isTrl="N" original="The Project Category determines the behavior of the project. Default value is Multiphase Project.">The Project Category determines the behavior of the project. Default value is Multiphase Project.</value>
   </row>
   <row id="82F2E8A160E7472CE040007F01005324" trl="N">
-    <value column="Name" isTrl="N" original="Location / Address">Расположение / Адрес</value>
+    <value column="Name" isTrl="Y" original="Location / Address">Расположение / Адрес</value>
     <value column="Description" isTrl="N" original="A specific place or residence.">A specific place or residence.</value>
     <value column="Help" isTrl="N" original="Address/Location of the the Financial Account within the Enterprise.">Address/Location of the the Financial Account within the Enterprise.</value>
   </row>
@@ -962,6 +982,31 @@
     <value column="Description" isTrl="N" original="Tax Rate to be used in all sales invoices belonging to this Organization (in except of tax rates included in sales invoices, that have got the Is Tax Deductable flag active)">Tax Rate to be used in all sales invoices belonging to this Organization (in except of tax rates included in sales invoices, that have got the Is Tax Deductable flag active)</value>
     <value column="Help" isTrl="N" original="Tax Rate to be used in all sales invoices belonging to this Organization (in except of tax rates included in sales invoices, that have got the Is Tax Deductable flag active)">Tax Rate to be used in all sales invoices belonging to this Organization (in except of tax rates included in sales invoices, that have got the Is Tax Deductable flag active)</value>
   </row>
+  <row id="CA9E542CEB107632E040007F01006734" trl="N">
+    <value column="Name" isTrl="N" original="Purchase Order Line">Purchase Order Line</value>
+    <value column="Description" isTrl="N" original="A unique and often automatically generated identifier for a purchase order line.">A unique and often automatically generated identifier for a purchase order line.</value>
+    <value column="Help" isTrl="N" original="A unique identifier and a reference to a purchase order line (product).">A unique identifier and a reference to a purchase order line (product).</value>
+  </row>
+  <row id="CD35A5791D2F06E5E040007F01001839" trl="N">
+    <value column="Name" isTrl="N" original="Purchase Order Line">Purchase Order Line</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="A unique identifier and a reference to a purchase order line (product).">A unique identifier and a reference to a purchase order line (product).</value>
+  </row>
+  <row id="CE88342CC7CE28E3E040007F01002B8B" trl="N">
+    <value column="Name" isTrl="N" original="SO Document No.">SO Document No.</value>
+    <value column="Description" isTrl="N" original="An often automatically generated identifier for all documents.">An often automatically generated identifier for all documents.</value>
+    <value column="Help" isTrl="N" original="The document number is usually automatically generated by the system and determined by the document type of the document. If the document is not saved, the preliminary number is displayed in &quot;&lt;&gt;&quot;. If the document type of your document has no automatic document sequence defined, the field will be empty when creating a new document. This is for documents which usually have an external number (like vendor invoice).  If you leave the field empty, the system will generate a document number for you. The document sequence used for this fallback number is defined in the &quot;Document Sequence&quot; window with the name &quot;DocumentNo_&lt;TableName&gt;&quot;, where TableName is the actual name of the table inside the database (e.g. C_Order).">The document number is usually automatically generated by the system and determined by the document type of the document. If the document is not saved, the preliminary number is displayed in "&lt;&gt;". If the document type of your document has no automatic document sequence defined, the field will be empty when creating a new document. This is for documents which usually have an external number (like vendor invoice).  If you leave the field empty, the system will generate a document number for you. The document sequence used for this fallback number is defined in the "Document Sequence" window with the name "DocumentNo_&lt;TableName&gt;", where TableName is the actual name of the table inside the database (e.g. C_Order).</value>
+  </row>
+  <row id="CE88342CC7D228E3E040007F01002B8B" trl="N">
+    <value column="Name" isTrl="N" original="PO Received Qty">PO Received Qty</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Received quantity">Received quantity</value>
+  </row>
+  <row id="CE8BC64B717AE90FE040007F01007EB7" trl="N">
+    <value column="Name" isTrl="N" original="PO Purchased Qty">PO Purchased Qty</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="CF89E182C6014DE29EB3C3B5E03AF84E" trl="N">
     <value column="Name" isTrl="N" original="Paying To">Paying To</value>
     <value column="Description" isTrl="N" original=""/>
@@ -981,6 +1026,11 @@
     <value column="Name" isTrl="Y" original="Return to Vendor line">Строка возврата поставщику</value>
     <value column="Description" isTrl="Y" original="Purchase Order Line">Строка приходной накладной для возврата поставщику.</value>
     <value column="Help" isTrl="N" original="The Purchase Order Line is a unique identifier for a line in an order.">The Purchase Order Line is a unique identifier for a line in an order.</value>
+  </row>
+  <row id="E28A115E25D44BB181D8D34CB55E0A1B" trl="N">
+    <value column="Name" isTrl="N" original="Purchase Order Line">Purchase Order Line</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="E9720E4D2C164A6398D32AAA916A74CF" trl="N">
     <value column="Name" isTrl="N" original="Alternate Taxable Amount">Alternate Taxable Amount</value>
