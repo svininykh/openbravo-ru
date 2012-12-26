@@ -2332,8 +2332,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="117" trl="N">
-    <value column="Name" isTrl="N" original="Process">Process</value>
-    <value column="PrintName" isTrl="N" original="Process">Process</value>
+    <value column="Name" isTrl="Y" original="Process">Обработка</value>
+    <value column="PrintName" isTrl="Y" original="Process">Обработка</value>
     <value column="Description" isTrl="N" original="A series of actions carried out in sequential order.">A series of actions carried out in sequential order.</value>
     <value column="Help" isTrl="N" original="The Process field identifies a unique Process or Report in the system.">The Process field identifies a unique Process or Report in the system.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -12454,9 +12454,9 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="77237543C385C8DCE040007F0101413D" trl="N">
-    <value column="Name" isTrl="N" original="Process">Process</value>
-    <value column="PrintName" isTrl="N" original="Process">Process</value>
-    <value column="Description" isTrl="N" original="Process">Process</value>
+    <value column="Name" isTrl="Y" original="Process">Обработка</value>
+    <value column="PrintName" isTrl="Y" original="Process">Обработка</value>
+    <value column="Description" isTrl="Y" original="Process">Обработка</value>
     <value column="Help" isTrl="N" original="Identifies the process that triggered the change.">Identifies the process that triggered the change.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -14368,7 +14368,7 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800169" trl="N">
-    <value column="Name" isTrl="Y" original="Basic Discount">Базовая скидка</value>
+    <value column="Name" isTrl="Y" original="Basic Discount">Скидка базовая</value>
     <value column="PrintName" isTrl="N" original="C_Discount_ID">C_Discount_ID</value>
     <value column="Description" isTrl="N" original="The percentage price reduction based on the list price.">The percentage price reduction based on the list price.</value>
     <value column="Help" isTrl="N" original="Discount applicable to prices.">Discount applicable to prices.</value>

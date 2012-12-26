@@ -169,14 +169,14 @@
     <value column="Help" isTrl="N" original="Define columns within a table that Openbravo can access in the database.">Define columns within a table that Openbravo can access in the database.</value>
   </row>
   <row id="1011100000" trl="N">
-    <value column="Name" isTrl="N" original="Basic Discounts">Basic Discounts</value>
+    <value column="Name" isTrl="Y" original="Basic Discounts">Скидки базовые</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1011100001" trl="N">
-    <value column="Name" isTrl="N" original="Basic Discounts">Basic Discounts</value>
+    <value column="Name" isTrl="Y" original="Basic Discounts">Скидки базовые</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2350,21 +2350,21 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Costing tab collects and summarize item cost related information as a result of items movements. The costs are valid during a fixed date range, it is used by Average and Standard algorithms.">Costing tab collects and summarize item cost related information as a result of items movements. The costs are valid during a fixed date range, it is used by Average and Standard algorithms.</value>
   </row>
   <row id="800058" trl="N">
-    <value column="Name" isTrl="Y" original="Basic Discount">Базовая скидка</value>
+    <value column="Name" isTrl="Y" original="Basic Discount">Скидка базовая</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a discount.">Create a discount.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="A total discount can be created and configured by entering a discount name, a discount product and a discount %.">A total discount can be created and configured by entering a discount name, a discount product and a discount %.</value>
   </row>
   <row id="800059" trl="N">
-    <value column="Name" isTrl="Y" original="Basic Discounts">Базовые скидки</value>
+    <value column="Name" isTrl="Y" original="Basic Discounts">Скидки базовые</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800060" trl="N">
-    <value column="Name" isTrl="Y" original="Basic Discount">Базовая скидка</value>
+    <value column="Name" isTrl="Y" original="Basic Discount">Скидка базовая</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add Basic Discounts which may be made available to this business partner.">Add Basic Discounts which may be made available to this business partner.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2980,7 +2980,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit payment lines by changing payments status.">Create and edit payment lines by changing payments status.</value>
   </row>
   <row id="800211" trl="N">
-    <value column="Name" isTrl="N" original="Basic Discounts">Basic Discounts</value>
+    <value column="Name" isTrl="Y" original="Basic Discounts">Скидки базовые</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Vendor discounts">Vendor discounts</value>
     <value column="Filtername" isTrl="N" original=""/>

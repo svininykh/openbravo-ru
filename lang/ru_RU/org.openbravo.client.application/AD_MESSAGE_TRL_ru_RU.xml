@@ -161,7 +161,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6267D26C10A84572BBA5B3360F847E65" trl="N">
-    <value column="MsgText" isTrl="N" original="No data in grid.">No data in grid.</value>
+    <value column="MsgText" isTrl="Y" original="No data in grid.">Нет данных в списке.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6504DF0738A142D599C824644653BA88" trl="N">
@@ -298,7 +298,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B05C4EF1C8624EAAAC53764B7DACB2C2" trl="N">
-    <value column="MsgText" isTrl="Y" original="Application">Меню</value>
+    <value column="MsgText" isTrl="Y" original="Application">Приложение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B151C652F8204C8B896AB76BED5A273D" trl="N">
@@ -1074,17 +1074,17 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="Y" original="Click the funnel icon in the top right of the grid to clear all filters.">Нажмите на значок воронки в правом верхнем углу списка, чтобы очистить все фильтры.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="FF8081813008185F0130086C20B6001F" trl="N">
+  <row id="FF8081813008185F0130086C20B6001F" trl="Y">
     <value column="MsgText" isTrl="Y" original="This grid is filtered using">Этот список отфильтрован по</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="FF8081813008185F01300873148A0027" trl="N">
     <value column="MsgText" isTrl="N" original="an implicit filter">an implicit filter</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="FF8081813008185F013008744C5D002F" trl="N">
-    <value column="MsgText" isTrl="N" original="a transactional filter &lt;i&gt;(only draft &amp; modified documents in the last %n day(s))&lt;/i&gt;">фильтру транзакций &lt;i&gt;(только черновики &amp; изменённых документов в последние %n дней)&lt;/i&gt;</value>
-    <value column="MsgTip" isTrl="N" original=""/>
+  <row id="FF8081813008185F013008744C5D002F" trl="Y">
+    <value column="MsgText" isTrl="Y" original="a transactional filter &lt;i&gt;(only draft &amp; modified documents in the last %n day(s))&lt;/i&gt;">фильтру транзакций &lt;i&gt;(только черновики &amp; изменённых документов в последние %n дней)&lt;/i&gt;</value>
+    <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="FF808181304F1CD101304F8A68810021" trl="N">
     <value column="MsgText" isTrl="N" original="Run the APRM Migration Tool">Run the APRM Migration Tool</value>
