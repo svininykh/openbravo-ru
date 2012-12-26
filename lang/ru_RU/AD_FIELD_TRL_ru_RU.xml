@@ -111,8 +111,8 @@
     <value column="Help" isTrl="N" original="The name of an entity (record) is used as an default search option in addition to the search key. The name is up to 60 characters in length.">The name of an entity (record) is used as an default search option in addition to the search key. The name is up to 60 characters in length.</value>
   </row>
   <row id="12C428AA32294335A97B3AAFCF00A7AD" trl="N">
-    <value column="Name" isTrl="N" original="Total Outstanding">Total Outstanding</value>
-    <value column="Description" isTrl="N" original="Outstanding Amount">Outstanding Amount</value>
+    <value column="Name" isTrl="Y" original="Total Outstanding">Итого не оплачено</value>
+    <value column="Description" isTrl="Y" original="Outstanding Amount">Итого не оплаченная сумма</value>
     <value column="Help" isTrl="N" original="Total Outstanding Amount. Amount pending to be paid">Total Outstanding Amount. Amount pending to be paid</value>
   </row>
   <row id="133B82E6E63D42A8BF22920E72A3A5EA" trl="N">
@@ -913,37 +913,37 @@
     <value column="Help" isTrl="N" original="A unique identifier and a reference to a sales order line (product).">A unique identifier and a reference to a sales order line (product).</value>
   </row>
   <row id="B1EBC90EB5EAC896E040A8C0280118CA" trl="N">
-    <value column="Name" isTrl="N" original="Paid in Full Date">Paid in Full Date</value>
+    <value column="Name" isTrl="Y" original="Paid in Full Date">Дата полной оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B1EBC90EB5EBC896E040A8C0280118CA" trl="N">
-    <value column="Name" isTrl="N" original="Days to Pay in Full">Days to Pay in Full</value>
+    <value column="Name" isTrl="Y" original="Days to Pay in Full">Дней до полной оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B1EBC90EB5ECC896E040A8C0280118CA" trl="N">
-    <value column="Name" isTrl="N" original="Percentage Paid Late">Percentage Paid Late</value>
+    <value column="Name" isTrl="Y" original="Percentage Paid Late">Процент оплаты с задержкой</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B1EBCACD0EB2E3F4E040A8C028011B08" trl="N">
-    <value column="Name" isTrl="N" original="Paid In Full Date">Paid In Full Date</value>
+    <value column="Name" isTrl="Y" original="Paid In Full Date">Дата полной оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B1EBCACD0EB3E3F4E040A8C028011B08" trl="N">
-    <value column="Name" isTrl="N" original="Days to Pay in Full">Days to Pay in Full</value>
+    <value column="Name" isTrl="Y" original="Days to Pay in Full">Дней до полной оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B1EBCACD0EB4E3F4E040A8C028011B08" trl="N">
-    <value column="Name" isTrl="N" original="Percentage Paid Late">Percentage Paid Late</value>
+    <value column="Name" isTrl="Y" original="Percentage Paid Late">Процент оплаты с задержкой</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B5195C109C5D11DD8CB3001B388C05F0" trl="N">
-    <value column="Name" isTrl="N" original="Base Currency">Base Currency</value>
+    <value column="Name" isTrl="Y" original="Base Currency">Базовая валюта</value>
     <value column="Description" isTrl="N" original="Base Currency of the Client.">Base Currency of the Client.</value>
     <value column="Help" isTrl="N" original="The Base Currency is taken as the currency for the amounts that do not have an explicit currency, for instance, costs.">The Base Currency is taken as the currency for the amounts that do not have an explicit currency, for instance, costs.</value>
   </row>

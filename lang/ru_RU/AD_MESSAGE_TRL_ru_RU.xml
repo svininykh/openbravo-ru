@@ -2129,7 +2129,7 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="251" trl="N">
-    <value column="MsgText" isTrl="Y" original="Process failed:">Выполнение прервано:</value>
+    <value column="MsgText" isTrl="Y" original="Process failed:">Обработка прервана:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="252" trl="N">
@@ -2921,7 +2921,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="396" trl="N">
-    <value column="MsgText" isTrl="N" original="Created Payment:">Created Payment:</value>
+    <value column="MsgText" isTrl="Y" original="Created Payment:">Создан платёж:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="397" trl="N">
@@ -3185,7 +3185,7 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="438" trl="Y">
-    <value column="MsgText" isTrl="Y" original="Process cancelled">Обработка отменена.</value>
+    <value column="MsgText" isTrl="Y" original="Process cancelled">Обработка отменена</value>
     <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="438DDB0A996D4ADF91F3C731DDC2146F" trl="N">
@@ -3193,7 +3193,7 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="439" trl="Y">
-    <value column="MsgText" isTrl="Y" original="Process failed">Процесс не выполнен.</value>
+    <value column="MsgText" isTrl="Y" original="Process failed">Обработка прервана</value>
     <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="43A909085DF1445AB36732B5B5BDA544" trl="N">
@@ -3205,11 +3205,11 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="441" trl="Y">
-    <value column="MsgText" isTrl="Y" original="Process completed successfully">Процесс выполнен успешно.</value>
+    <value column="MsgText" isTrl="Y" original="Process completed successfully">Обработка выполнена успешно</value>
     <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="442" trl="Y">
-    <value column="MsgText" isTrl="Y" original="Process failed during execution">Во время выполнения процесса возникли ошибки.</value>
+    <value column="MsgText" isTrl="Y" original="Process failed during execution">Во время выполнения обработки возникли ошибки</value>
     <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="44234732714A4DC9818C0DD009A24F98" trl="N">
@@ -3217,15 +3217,15 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="443" trl="N">
-    <value column="MsgText" isTrl="N" original="Error:">Error:</value>
+    <value column="MsgText" isTrl="Y" original="Error:">Ошибка:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="444" trl="N">
-    <value column="MsgText" isTrl="N" original="Information:">Information:</value>
+    <value column="MsgText" isTrl="Y" original="Information:">Информация:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="445" trl="N">
-    <value column="MsgText" isTrl="N" original="Warning:">Warning:</value>
+    <value column="MsgText" isTrl="Y" original="Warning:">Предупреждение:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="446" trl="N">
@@ -3233,7 +3233,7 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="447" trl="N">
-    <value column="MsgText" isTrl="N" original="Processing ... Please wait ...">Processing ... Please wait ...</value>
+    <value column="MsgText" isTrl="Y" original="Processing ... Please wait ...">Обработка ... Пожалуйста ждите ...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="448" trl="N">
@@ -3801,7 +3801,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="555" trl="Y">
-    <value column="MsgText" isTrl="Y" original="Process completed successfully">Процесс выполнен успешно</value>
+    <value column="MsgText" isTrl="Y" original="Process completed successfully">Обработка выполнена успешно</value>
     <value column="MsgTip" isTrl="Y" original=""/>
   </row>
   <row id="556" trl="N">

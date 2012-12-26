@@ -25,7 +25,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="07272FCDEEA64054AF2F983D9814EE00" trl="N">
-    <value column="MsgText" isTrl="N" original="Use as filter">Use as filter</value>
+    <value column="MsgText" isTrl="Y" original="Use as filter">Использовать как фильтр</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="090A37D22DDB1C89012DDB22CE910012" trl="N">
@@ -77,7 +77,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2052DF26669F4864B295C17502F53E38" trl="N">
-    <value column="MsgText" isTrl="N" original="Edit in grid ">Edit in grid </value>
+    <value column="MsgText" isTrl="Y" original="Edit in grid ">Редактировать в списке</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2C8A8843F1E04317AD38623A3C52F978" trl="N">
@@ -129,7 +129,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="4B86BAA9B3EC4103A1A0CB9CDD990B72" trl="N">
-    <value column="MsgText" isTrl="N" original="Open on tab">Open on tab</value>
+    <value column="MsgText" isTrl="Y" original="Open on tab">Открыть вкладку</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="4D295B42933742CD84B42249BB6BFF3B" trl="N">
@@ -843,7 +843,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E7BA4E8012E7BAD022D001A" trl="N">
-    <value column="MsgText" isTrl="N" original="Edit in form">Edit in form</value>
+    <value column="MsgText" isTrl="Y" original="Edit in form">Редактировать в форме</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E7BA4E8012E7BAD74830021" trl="N">
@@ -1067,15 +1067,15 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813008185F01300869B7AB0017" trl="N">
-    <value column="MsgText" isTrl="N" original="Never show this message again">Never show this message again</value>
+    <value column="MsgText" isTrl="Y" original="Never show this message again">Никогда не показывать это сообщение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813008185F0130086A5DDD001B" trl="N">
-    <value column="MsgText" isTrl="N" original="Click the funnel icon in the top right of the grid to clear all filters.">Click the funnel icon in the top right of the grid to clear all filters.</value>
+    <value column="MsgText" isTrl="Y" original="Click the funnel icon in the top right of the grid to clear all filters.">Нажмите на значок воронки в правом верхнем углу списка, чтобы очистить все фильтры.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813008185F0130086C20B6001F" trl="N">
-    <value column="MsgText" isTrl="N" original="This grid is filtered using">This grid is filtered using</value>
+    <value column="MsgText" isTrl="Y" original="This grid is filtered using">Этот список отфильтрован по</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813008185F01300873148A0027" trl="N">
@@ -1083,7 +1083,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813008185F013008744C5D002F" trl="N">
-    <value column="MsgText" isTrl="N" original="a transactional filter &lt;i&gt;(only draft &amp; modified documents in the last %n day(s))&lt;/i&gt;">a transactional filter &lt;i&gt;(only draft &amp; modified documents in the last %n day(s))&lt;/i&gt;</value>
+    <value column="MsgText" isTrl="N" original="a transactional filter &lt;i&gt;(only draft &amp; modified documents in the last %n day(s))&lt;/i&gt;">фильтру транзакций &lt;i&gt;(только черновики &amp; изменённых документов в последние %n дней)&lt;/i&gt;</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181304F1CD101304F8A68810021" trl="N">

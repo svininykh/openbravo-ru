@@ -1066,7 +1066,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="289" trl="N">
-    <value column="Name" isTrl="N" original="Transactions">Transactions</value>
+    <value column="Name" isTrl="Y" original="Transactions">Транзакции</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View all transactions related to this product.">View all transactions related to this product.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1868,7 +1868,7 @@ The corresponding tables have then the following setting:
   <row id="5247D51755AA43F384EBC35006FC2329" trl="N">
     <value column="Name" isTrl="Y" original="Line Tax">Налог по строке</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Line Tax">Line Tax</value>
+    <value column="Description" isTrl="Y" original="Line Tax">Налог по строке</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Taxes related to the invoice line.">Taxes related to the invoice line.</value>
   </row>
@@ -2217,14 +2217,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="View cancelled payments.">View cancelled payments.</value>
   </row>
   <row id="800027" trl="N">
-    <value column="Name" isTrl="N" original="Created Payments">Created Payments</value>
+    <value column="Name" isTrl="Y" original="Created Payments">Созданы платежи</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create payments. The amount of all the payments created must be equal to the amount of all the payments cancelled.">Create payments. The amount of all the payments created must be equal to the amount of all the payments cancelled.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create payments. The amount of all the payments created must be equal to the amount of all the payments cancelled.">Create payments. The amount of all the payments created must be equal to the amount of all the payments cancelled.</value>
   </row>
   <row id="800028" trl="N">
-    <value column="Name" isTrl="N" original="Payment">Payment</value>
+    <value column="Name" isTrl="Y" original="Payment">Платёж</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create an obligation for accounting to expect to receive all or part of your Invoice amount in advance.">Create an obligation for accounting to expect to receive all or part of your Invoice amount in advance.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2238,14 +2238,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit manual settlements for payments with no corresponding document/transaction in the application.">Create and edit manual settlements for payments with no corresponding document/transaction in the application.</value>
   </row>
   <row id="800031" trl="N">
-    <value column="Name" isTrl="N" original="Create Payment">Create Payment</value>
+    <value column="Name" isTrl="Y" original="Create Payment">Создать платёж</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create manual settlement lines.  Each line represents one payment.">Create manual settlement lines.  Each line represents one payment.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create manual settlement lines.  Each line represents one payment.">Create manual settlement lines.  Each line represents one payment.</value>
   </row>
   <row id="800032" trl="N">
-    <value column="Name" isTrl="N" original="Balance Payment">Balance Payment</value>
+    <value column="Name" isTrl="Y" original="Balance Payment">Баланс платежа</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define the GL item that are going to be used">Define the GL item that are going to be used</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3702,7 +3702,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add products to be included in your sales order.  Each product is added by creating a line.">Add products to be included in your sales order.  Each product is added by creating a line.</value>
   </row>
   <row id="EF42DED63D3641ED83C4141DFAB2D607" trl="N">
-    <value column="Name" isTrl="N" original="Payment Plan">Payment Plan</value>
+    <value column="Name" isTrl="Y" original="Payment Plan">График оплаты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
