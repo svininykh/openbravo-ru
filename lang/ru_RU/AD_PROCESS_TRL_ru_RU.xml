@@ -110,19 +110,19 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Help" isTrl="N" original="The Project Progress report permits to track the progress of projects with useful indicators such as the time burned or the completion percentage.">The Project Progress report permits to track the progress of projects with useful indicators such as the time burned or the completion percentage.</value>
   </row>
   <row id="101" trl="N">
-    <value column="Name" isTrl="N" original="Renumber">Renumber</value>
+    <value column="Name" isTrl="Y" original="Renumber">Перенумеровать</value>
     <value column="Description" isTrl="N" original="Renumber Discount entries">Renumber Discount entries</value>
     <value column="Help" isTrl="N" original="Renumber Discount entries">Renumber Discount entries</value>
   </row>
   <row id="103" trl="N">
-    <value column="Name" isTrl="N" original="Create Price List">Create Price List</value>
+    <value column="Name" isTrl="Y" original="Create Price List">Создать прейскурант</value>
     <value column="Description" isTrl="N" original="Create Prices based on parameters of this version">Create Prices based on parameters of this version</value>
     <value column="Help" isTrl="N" original="Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.">Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.</value>
   </row>
   <row id="104" trl="Y">
-    <value column="Name" isTrl="Y" original="Process Order">Провести накладную</value>
-    <value column="Description" isTrl="Y" original="Process Order">Провести накладную</value>
-    <value column="Help" isTrl="Y" original="Process Order">Провести накладную</value>
+    <value column="Name" isTrl="Y" original="Process Order">Обработать накладную</value>
+    <value column="Description" isTrl="Y" original="Process Order">Обработать накладную</value>
+    <value column="Help" isTrl="Y" original="Process Order">Обработать накладную</value>
   </row>
   <row id="105" trl="N">
     <value column="Name" isTrl="N" original="Create Inventory Count List">Create Inventory Count List</value>
@@ -345,12 +345,12 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Help" isTrl="N" original="The Generate Order process will generate a new Order document based on the project phase. A price list and warehouse/service point must be defined on the project.">The Generate Order process will generate a new Order document based on the project phase. A price list and warehouse/service point must be defined on the project.</value>
   </row>
   <row id="165" trl="N">
-    <value column="Name" isTrl="N" original="Copy Lines">Copy Lines</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копировать строки</value>
     <value column="Description" isTrl="N" original="Copy Commission Lines from other Commission">Copy Commission Lines from other Commission</value>
     <value column="Help" isTrl="N" original="Copy Commission Lines from other Commission">Copy Commission Lines from other Commission</value>
   </row>
   <row id="166" trl="N">
-    <value column="Name" isTrl="N" original="Create Invoice">Create Invoice</value>
+    <value column="Name" isTrl="Y" original="Create Invoice">Создать счёт</value>
     <value column="Description" isTrl="N" original="Create Invoice from Commission Calculation">Create Invoice from Commission Calculation</value>
     <value column="Help" isTrl="N" original="Create Invoice from Commission Calculation">Create Invoice from Commission Calculation</value>
   </row>
@@ -436,22 +436,22 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Process Batch">Process Batch</value>
   </row>
   <row id="189" trl="N">
-    <value column="Name" isTrl="N" original="Copy Columns">Copy Columns</value>
+    <value column="Name" isTrl="Y" original="Copy Columns">Копировать столбцы</value>
     <value column="Description" isTrl="N" original="Copy Report Columns from other Column Set">Copy Report Columns from other Column Set</value>
     <value column="Help" isTrl="N" original="Copy columns at the end of this Column Set">Copy columns at the end of this Column Set</value>
   </row>
   <row id="190" trl="N">
-    <value column="Name" isTrl="N" original="Copy Lines">Copy Lines</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копировать строки</value>
     <value column="Description" isTrl="N" original="Copy Report Lines from other Line Set">Copy Report Lines from other Line Set</value>
     <value column="Help" isTrl="N" original="Copy lines at the end of this Line Set">Copy lines at the end of this Line Set</value>
   </row>
   <row id="192" trl="N">
-    <value column="Name" isTrl="N" original="Copy/Create">Copy/Create</value>
+    <value column="Name" isTrl="Y" original="Copy/Create">Копировать/Создать</value>
     <value column="Description" isTrl="N" original="Copy existing OR create Print Format from Table">Copy existing OR create Print Format from Table</value>
     <value column="Help" isTrl="N" original="Select either a table to create a print format [creates initial rough layout]|OR a print format to copy into the current print format [copies layout].">Select either a table to create a print format [creates initial rough layout]|OR a print format to copy into the current print format [copies layout].</value>
   </row>
   <row id="193" trl="N">
-    <value column="Name" isTrl="N" original="Generate PO from Sales Order">Generate PO from Sales Order</value>
+    <value column="Name" isTrl="Y" original="Generate PO from Sales Order">Приходная на основании расходной накладной</value>
     <value column="Description" isTrl="N" original="Create Purchase Order from Sales Orders">Create Purchase Order from Sales Orders</value>
     <value column="Help" isTrl="N" original="After completing sales orders, you can create one or more purchase orders for each sales order. A purchase order references always only one sales order (i.e. no consolidation of sales orders).||POs are created for all sales order lines where the product h">After completing sales orders, you can create one or more purchase orders for each sales order. A purchase order references always only one sales order (i.e. no consolidation of sales orders).||POs are created for all sales order lines where the product h</value>
   </row>
@@ -496,7 +496,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Start Replication with Remote Host">Start Replication with Remote Host</value>
   </row>
   <row id="210" trl="N">
-    <value column="Name" isTrl="N" original="Copy Lines">Copy Lines</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копировать строки</value>
     <value column="Description" isTrl="N" original="Copy lines (products) from an existing Invoice.">Copy lines (products) from an existing Invoice.</value>
     <value column="Help" isTrl="N" original="Copy lines (products) from an existing Invoice. By selecting any existing past  invoice, the process will copy all lines (products) from it to the one currently  being edited. This process can be used repetitively to copy lines (products) from several invoices into a new one.">Copy lines (products) from an existing Invoice. By selecting any existing past  invoice, the process will copy all lines (products) from it to the one currently  being edited. This process can be used repetitively to copy lines (products) from several invoices into a new one.</value>
   </row>
@@ -804,9 +804,9 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Help" isTrl="N" original="The trial balance helps to check that the total amount of debits are equal to the total amount of credits.">The trial balance helps to check that the total amount of debits are equal to the total amount of credits.</value>
   </row>
   <row id="800040" trl="N">
-    <value column="Name" isTrl="N" original="Create All Price Lists">Create All Price Lists</value>
-    <value column="Description" isTrl="N" original="Create price list version for a price list">Create price list version for a price list</value>
-    <value column="Help" isTrl="N" original="Create price list version for a price list">Create price list version for a price list</value>
+    <value column="Name" isTrl="Y" original="Create All Price Lists">Создать все прейскурантов</value>
+    <value column="Description" isTrl="Y" original="Create price list version for a price list">Создать версии для прейскурантов</value>
+    <value column="Help" isTrl="Y" original="Create price list version for a price list">Создать версии для прейскурантов</value>
   </row>
   <row id="800046" trl="N">
     <value column="Name" isTrl="N" original="Product Movements Report">Product Movements Report</value>
@@ -854,9 +854,9 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Help" isTrl="N" original="Create invoice">Create invoice</value>
   </row>
   <row id="800069" trl="N">
-    <value column="Name" isTrl="N" original="Create Price List Version">Create Price List Version</value>
-    <value column="Description" isTrl="N" original="Create Price List Version">Create Price List Version</value>
-    <value column="Help" isTrl="N" original="Create Price List Version">Create Price List Version</value>
+    <value column="Name" isTrl="Y" original="Create Price List Version">Создать версию прейскуранта</value>
+    <value column="Description" isTrl="Y" original="Create Price List Version">Создать версию прейскуранта</value>
+    <value column="Help" isTrl="Y" original="Create Price List Version">Создать версию прейскуранта</value>
   </row>
   <row id="800070" trl="N">
     <value column="Name" isTrl="N" original="Settlement printed">Settlement printed</value>

@@ -1020,7 +1020,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Selector">Used for column name translation in Product Selector</value>
   </row>
   <row id="1006400003" trl="N">
-    <value column="MsgText" isTrl="N" original="Pricelist price">Pricelist price</value>
+    <value column="MsgText" isTrl="Y" original="Pricelist price">Цена прейскуранта</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Selector">Used for column name translation in Product Selector</value>
   </row>
   <row id="1006400004" trl="N">
@@ -2129,27 +2129,27 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="251" trl="N">
-    <value column="MsgText" isTrl="N" original="Process failed:">Process failed:</value>
+    <value column="MsgText" isTrl="Y" original="Process failed:">Выполнение прервано:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="252" trl="N">
-    <value column="MsgText" isTrl="N" original="Field">Field</value>
+    <value column="MsgText" isTrl="Y" original="Field">Поле</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="253" trl="N">
-    <value column="MsgText" isTrl="N" original="File">File</value>
+    <value column="MsgText" isTrl="Y" original="File">Файл</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="254" trl="N">
-    <value column="MsgText" isTrl="N" original="Excel CSV file">Excel CSV file</value>
+    <value column="MsgText" isTrl="Y" original="Excel CSV file">Файл Excel CSV</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="255" trl="N">
-    <value column="MsgText" isTrl="N" original="Cannot create file">Cannot create file</value>
+    <value column="MsgText" isTrl="Y" original="Cannot create file">Невозможно создать файл</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="256" trl="N">
-    <value column="MsgText" isTrl="N" original="HTML file">HTML file</value>
+    <value column="MsgText" isTrl="Y" original="HTML file">Файл HTML file</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="257" trl="N">
@@ -2157,7 +2157,7 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="258" trl="N">
-    <value column="MsgText" isTrl="N" original="&lt;Select File to Load&gt;">&lt;Select File to Load&gt;</value>
+    <value column="MsgText" isTrl="Y" original="&lt;Select File to Load&gt;">&lt;Выбрать файл для загрузки&gt;</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="259" trl="N">
@@ -2297,7 +2297,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="289" trl="N">
-    <value column="MsgText" isTrl="Y" original="Group by">Групировать по</value>
+    <value column="MsgText" isTrl="Y" original="Group by">Сгруппировать по</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="28AF0C91A51343919D29CE084E901466" trl="N">
@@ -4855,7 +4855,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800023" trl="N">
-    <value column="MsgText" isTrl="N" original="File creation failed">File creation failed</value>
+    <value column="MsgText" isTrl="Y" original="File creation failed">Создание файла прервано</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800024" trl="N">

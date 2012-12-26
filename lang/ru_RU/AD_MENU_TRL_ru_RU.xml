@@ -537,7 +537,7 @@
     <value column="Description" isTrl="N" original="Reset Accounting Entries">Reset Accounting Entries</value>
   </row>
   <row id="310" trl="N">
-    <value column="Name" isTrl="N" original="Price List Schema">Price List Schema</value>
+    <value column="Name" isTrl="Y" original="Price List Schema">Схема прейскуранта</value>
     <value column="Description" isTrl="N" original="Define a Price List Schema to be assigned to business partners.">Define a Price List Schema to be assigned to business partners.</value>
   </row>
   <row id="315" trl="N">
@@ -841,8 +841,8 @@
     <value column="Description" isTrl="N" original="Trial Balance Report">Trial Balance Report</value>
   </row>
   <row id="800043" trl="N">
-    <value column="Name" isTrl="N" original="Create All Price Lists">Create All Price Lists</value>
-    <value column="Description" isTrl="N" original="Create price list version for a price list">Create price list version for a price list</value>
+    <value column="Name" isTrl="Y" original="Create All Price Lists">Создать все прейскурантов</value>
+    <value column="Description" isTrl="Y" original="Create price list version for a price list">Создать версии для прейскурантов</value>
   </row>
   <row id="800052" trl="N">
     <value column="Name" isTrl="N" original="Product Movements Report">Product Movements Report</value>

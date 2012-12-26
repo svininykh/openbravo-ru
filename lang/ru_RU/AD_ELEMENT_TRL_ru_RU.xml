@@ -2482,8 +2482,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1214" trl="N">
-    <value column="Name" isTrl="N" original="Conversion Date">Conversion Date</value>
-    <value column="PrintName" isTrl="N" original="Conversion Date">Conversion Date</value>
+    <value column="Name" isTrl="Y" original="Conversion Date">Дата конверсии</value>
+    <value column="PrintName" isTrl="Y" original="Conversion Date">Дата конверсии</value>
     <value column="Description" isTrl="N" original="Date for selecting conversion rate">Date for selecting conversion rate</value>
     <value column="Help" isTrl="N" original="The Conversion Date identifies the date used for currency conversion. The conversion rate chosen must include this date in it's date range">The Conversion Date identifies the date used for currency conversion. The conversion rate chosen must include this date in it's date range</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2532,8 +2532,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1220" trl="N">
-    <value column="Name" isTrl="N" original="Price Limit Rounding">Price Limit Rounding</value>
-    <value column="PrintName" isTrl="N" original="Price Limit Rounding">Price Limit Rounding</value>
+    <value column="Name" isTrl="Y" original="Price Limit Rounding">Округление лимита цены</value>
+    <value column="PrintName" isTrl="Y" original="Price Limit Rounding">Округление лимита цены</value>
     <value column="Description" isTrl="N" original="Rounding of the final result">Rounding of the final result</value>
     <value column="Help" isTrl="N" original="A drop down list box which indicates the rounding (if any) will apply to the final prices in this price list.">A drop down list box which indicates the rounding (if any) will apply to the final prices in this price list.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2542,9 +2542,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1221" trl="N">
-    <value column="Name" isTrl="N" original="Surcharge List Price Amount">Surcharge List Price Amount</value>
-    <value column="PrintName" isTrl="N" original="Surcharge List Price Amount">Surcharge List Price Amount</value>
-    <value column="Description" isTrl="N" original="List Price Surcharge Amount">List Price Surcharge Amount</value>
+    <value column="Name" isTrl="Y" original="Surcharge List Price Amount">Сумма доплаты к цене прейскуранта</value>
+    <value column="PrintName" isTrl="Y" original="Surcharge List Price Amount">Сумма доплаты к цене прейскуранта</value>
+    <value column="Description" isTrl="Y" original="List Price Surcharge Amount">Сумма доплаты к цене прейскуранта</value>
     <value column="Help" isTrl="N" original="The List Price Surcharge Amount indicates the amount to be added to the price prior to multiplication.">The List Price Surcharge Amount indicates the amount to be added to the price prior to multiplication.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2552,8 +2552,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1222" trl="N">
-    <value column="Name" isTrl="N" original="Base List Price">Base List Price</value>
-    <value column="PrintName" isTrl="N" original="Base List Price">Base List Price</value>
+    <value column="Name" isTrl="Y" original="Base List Price">Базовая цена прейскуранта</value>
+    <value column="PrintName" isTrl="Y" original="Base List Price">Базовая цена прейскуранта</value>
     <value column="Description" isTrl="N" original="Price used as the basis for price list calculations">Price used as the basis for price list calculations</value>
     <value column="Help" isTrl="N" original="The List Price Base indicates the price to use as the basis for the calculation of a new price list.">The List Price Base indicates the price to use as the basis for the calculation of a new price list.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2582,8 +2582,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1226" trl="N">
-    <value column="Name" isTrl="N" original="List Price Rounding">List Price Rounding</value>
-    <value column="PrintName" isTrl="N" original="List Price Rounding">List Price Rounding</value>
+    <value column="Name" isTrl="Y" original="List Price Rounding">Округление цены прейскуранта</value>
+    <value column="PrintName" isTrl="Y" original="List Price Rounding">Округление цены прейскуранта</value>
     <value column="Description" isTrl="N" original="Rounding rule for final list price">Rounding rule for final list price</value>
     <value column="Help" isTrl="N" original="The List Price Rounding indicates how the final list price will be rounded.">The List Price Rounding indicates how the final list price will be rounded.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2592,8 +2592,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1228" trl="N">
-    <value column="Name" isTrl="N" original="Base Price List Version">Base Price List Version</value>
-    <value column="PrintName" isTrl="N" original="Base Price List">Base Price List</value>
+    <value column="Name" isTrl="Y" original="Base Price List Version">Версия базовой цены прейскуранта</value>
+    <value column="PrintName" isTrl="Y" original="Base Price List">Версия базовой цены прейскуранта</value>
     <value column="Description" isTrl="N" original="Source for Price list calculations">Source for Price list calculations</value>
     <value column="Help" isTrl="N" original="The Base Price List identifies the Base Pricelist used for calculating prices (the source)">The Base Price List identifies the Base Pricelist used for calculating prices (the source)</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2602,8 +2602,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1229" trl="N">
-    <value column="Name" isTrl="N" original="Surcharge Unit Price Amount">Surcharge Unit Price Amount</value>
-    <value column="PrintName" isTrl="N" original="Surcharge Unit Price Amount">Surcharge Unit Price Amount</value>
+    <value column="Name" isTrl="Y" original="Surcharge Unit Price Amount">Сумма доплаты к цене единицы</value>
+    <value column="PrintName" isTrl="Y" original="Surcharge Unit Price Amount">Сумма доплаты к цене единицы</value>
     <value column="Description" isTrl="N" original="Amount added to a price as a surcharge">Amount added to a price as a surcharge</value>
     <value column="Help" isTrl="N" original="The Standard Price Surcharge Amount indicates the amount to be added to the price prior to multiplication.">The Standard Price Surcharge Amount indicates the amount to be added to the price prior to multiplication.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2652,8 +2652,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1234" trl="N">
-    <value column="Name" isTrl="N" original="Unit Price Rounding">Unit Price Rounding</value>
-    <value column="PrintName" isTrl="N" original="Unit Price Rounding">Unit Price Rounding</value>
+    <value column="Name" isTrl="Y" original="Unit Price Rounding">Округление цены единицы</value>
+    <value column="PrintName" isTrl="Y" original="Unit Price Rounding">Округление цены единицы</value>
     <value column="Description" isTrl="N" original="Rounding rule for calculated price">Rounding rule for calculated price</value>
     <value column="Help" isTrl="N" original="The Standard Price Rounding indicates how the final Standard price will be rounded.">The Standard Price Rounding indicates how the final Standard price will be rounded.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2662,8 +2662,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1235" trl="N">
-    <value column="Name" isTrl="N" original="Current Vendor">Current Vendor</value>
-    <value column="PrintName" isTrl="N" original="Current vendor">Current vendor</value>
+    <value column="Name" isTrl="Y" original="Current Vendor">Текущий поставщик</value>
+    <value column="PrintName" isTrl="Y" original="Current vendor">Текущий поставщик</value>
     <value column="Description" isTrl="N" original="Use this Vendor for pricing and stock replenishment">Use this Vendor for pricing and stock replenishment</value>
     <value column="Help" isTrl="N" original="The Current Vendor indicates if prices are used and Product is reordered from this vendor">The Current Vendor indicates if prices are used and Product is reordered from this vendor</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2672,8 +2672,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1236" trl="N">
-    <value column="Name" isTrl="N" original="Price Limit Discount %">Price Limit Discount %</value>
-    <value column="PrintName" isTrl="N" original="Price Limit Discount %">Price Limit Discount %</value>
+    <value column="Name" isTrl="Y" original="Price Limit Discount %">Лимит цены со скидкой</value>
+    <value column="PrintName" isTrl="Y" original="Price Limit Discount %">Лимит цены со скидкой</value>
     <value column="Description" isTrl="N" original="Discount in percent to be subtracted from base, if negative it will be added to base price">Discount in percent to be subtracted from base, if negative it will be added to base price</value>
     <value column="Help" isTrl="N" original="Indicates the discount in percent to be subtracted from base, if negative it will be added to base price">Indicates the discount in percent to be subtracted from base, if negative it will be added to base price</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2682,8 +2682,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1237" trl="N">
-    <value column="Name" isTrl="N" original="List Price Discount %">List Price Discount %</value>
-    <value column="PrintName" isTrl="N" original="List Price Discount %">List Price Discount %</value>
+    <value column="Name" isTrl="Y" original="List Price Discount %">% скидки от цены прейскуранта</value>
+    <value column="PrintName" isTrl="Y" original="List Price Discount %">% скидки от цены прейскуранта</value>
     <value column="Description" isTrl="N" original="Discount from list price as a percentage">Discount from list price as a percentage</value>
     <value column="Help" isTrl="N" original="The List Price Discount Percentage indicates the percentage discount which will be subtracted from the base price.  A negative amount indicates the percentage which will be added to the base price.">The List Price Discount Percentage indicates the percentage discount which will be subtracted from the base price.  A negative amount indicates the percentage which will be added to the base price.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2692,8 +2692,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1238" trl="N">
-    <value column="Name" isTrl="N" original="Unit Price Discount %">Unit Price Discount %</value>
-    <value column="PrintName" isTrl="N" original="Unit Price Discount %">Unit Price Discount %</value>
+    <value column="Name" isTrl="Y" original="Unit Price Discount %">% скидки от цены единицы</value>
+    <value column="PrintName" isTrl="Y" original="Unit Price Discount %">% скидки от цены единицы</value>
     <value column="Description" isTrl="N" original="Discount percentage to subtract from base price">Discount percentage to subtract from base price</value>
     <value column="Help" isTrl="N" original="The Standard Price Discount Percentage indicates the percentage discount which will be subtracted from the base price.  A negative amount indicates the percentage which will be added to the base price.">The Standard Price Discount Percentage indicates the percentage discount which will be subtracted from the base price.  A negative amount indicates the percentage which will be added to the base price.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4889,7 +4889,7 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1714" trl="N">
-    <value column="Name" isTrl="Y" original="Price List Schema">Схема скидок</value>
+    <value column="Name" isTrl="Y" original="Price List Schema">Схема прейскуранта</value>
     <value column="PrintName" isTrl="Y" original="Discount Schema">Схема скидок</value>
     <value column="Description" isTrl="N" original="A set of guidelines applied to current Price List in order to create a price list.">A set of guidelines applied to current Price List in order to create a price list.</value>
     <value column="Help" isTrl="N" original="After calculation of the (standard) price, the trade discount percentage is calculated and applied resulting in the final price.">After calculation of the (standard) price, the trade discount percentage is calculated and applied resulting in the final price.</value>
@@ -5019,8 +5019,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1744" trl="N">
-    <value column="Name" isTrl="N" original="Fixed Price Limit">Fixed Price Limit</value>
-    <value column="PrintName" isTrl="N" original="Fixed Price Limit">Fixed Price Limit</value>
+    <value column="Name" isTrl="Y" original="Fixed Price Limit">Лимит фиксированной цены</value>
+    <value column="PrintName" isTrl="Y" original="Fixed Price Limit">Лимит фиксированной цены</value>
     <value column="Description" isTrl="N" original="Fixed Limit Price (not calculated)">Fixed Limit Price (not calculated)</value>
     <value column="Help" isTrl="N" original="Fixed Limit Price (not calculated)">Fixed Limit Price (not calculated)</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5029,8 +5029,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1745" trl="N">
-    <value column="Name" isTrl="N" original="Fixed List Price">Fixed List Price</value>
-    <value column="PrintName" isTrl="N" original="Fixed List Price">Fixed List Price</value>
+    <value column="Name" isTrl="Y" original="Fixed List Price">Фиксированная цена прейскуранта</value>
+    <value column="PrintName" isTrl="Y" original="Fixed List Price">Фиксированная цена прейскуранта</value>
     <value column="Description" isTrl="N" original="Fixes List Price (not calculated)">Fixes List Price (not calculated)</value>
     <value column="Help" isTrl="N" original="Fixes List Price (not calculated)">Fixes List Price (not calculated)</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5039,8 +5039,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1746" trl="N">
-    <value column="Name" isTrl="N" original="Fixed Unit Price">Fixed Unit Price</value>
-    <value column="PrintName" isTrl="N" original="Fixed Unit Price">Fixed Unit Price</value>
+    <value column="Name" isTrl="Y" original="Fixed Unit Price">Фиксированная цена единицы</value>
+    <value column="PrintName" isTrl="Y" original="Fixed Unit Price">Фиксированная цена единицы</value>
     <value column="Description" isTrl="N" original="Fixed Standard Price (not calculated)">Fixed Standard Price (not calculated)</value>
     <value column="Help" isTrl="N" original="Fixed Standard Price (not calculated)">Fixed Standard Price (not calculated)</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6290,8 +6290,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2037" trl="N">
-    <value column="Name" isTrl="N" original="Copy from">Copy from</value>
-    <value column="PrintName" isTrl="N" original="Copy From">Copy From</value>
+    <value column="Name" isTrl="Y" original="Copy from">Копировать из</value>
+    <value column="PrintName" isTrl="Y" original="Copy From">Копировать из</value>
     <value column="Description" isTrl="N" original="An addition of statements from pre-existing documents.">An addition of statements from pre-existing documents.</value>
     <value column="Help" isTrl="N" original="Copy lines (products) from another document of the same type.">Copy lines (products) from another document of the same type.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7030,8 +7030,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="234" trl="N">
-    <value column="Name" isTrl="N" original="Conversion Rate Type">Conversion Rate Type</value>
-    <value column="PrintName" isTrl="N" original="ConversionRateType">ConversionRateType</value>
+    <value column="Name" isTrl="Y" original="Conversion Rate Type">Тип конверсии</value>
+    <value column="PrintName" isTrl="Y" original="ConversionRateType">Тип конверсии</value>
     <value column="Description" isTrl="N" original="A distinct conversion rate characteristic used for processes.">A distinct conversion rate characteristic used for processes.</value>
     <value column="Help" isTrl="N" original="The Conversion Rate Type indicates the type of conversion rate.  This allows you to enter multiple rates for the same currency pair.  For example, one rate may be used for Spot conversions and a different rate for Revaluations.">The Conversion Rate Type indicates the type of conversion rate.  This allows you to enter multiple rates for the same currency pair.  For example, one rate may be used for Spot conversions and a different rate for Revaluations.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8435,8 +8435,8 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="408" trl="N">
-    <value column="Name" isTrl="N" original="Sales Price List">Sales Price List</value>
-    <value column="PrintName" isTrl="N" original="Sales Price list">Sales Price list</value>
+    <value column="Name" isTrl="Y" original="Sales Price List">Прейскурант для продаж</value>
+    <value column="PrintName" isTrl="Y" original="Sales Price list">Прейскурант для продаж</value>
     <value column="Description" isTrl="N" original="This is a Sales Price List">This is a Sales Price List</value>
     <value column="Help" isTrl="N" original="The Sales Price List check box indicates if this price list is used for sales transactions.">The Sales Price List check box indicates if this price list is used for sales transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8676,8 +8676,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="450" trl="N">
-    <value column="Name" isTrl="N" original="Price List Version">Price List Version</value>
-    <value column="PrintName" isTrl="N" original="Price List Version">Price List Version</value>
+    <value column="Name" isTrl="Y" original="Price List Version">Версия прейскуранта</value>
+    <value column="PrintName" isTrl="Y" original="Price List Version">Версия прейскуранта</value>
     <value column="Description" isTrl="N" original="A price list with a specified validity range.">A price list with a specified validity range.</value>
     <value column="Help" isTrl="N" original="Each Price List can have multiple versions.  The most common use is to indicate the dates that a Price List is valid for.">Each Price List can have multiple versions.  The most common use is to indicate the dates that a Price List is valid for.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9446,8 +9446,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBECC52DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Product Price">Product Price</value>
-    <value column="PrintName" isTrl="N" original="Product Price">Product Price</value>
+    <value column="Name" isTrl="Y" original="Product Price">Цена товара</value>
+    <value column="PrintName" isTrl="Y" original="Product Price">Цена товара</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10166,8 +10166,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="566" trl="N">
-    <value column="Name" isTrl="N" original="Sequence Number">Sequence Number</value>
-    <value column="PrintName" isTrl="N" original="Sequence Number">Sequence Number</value>
+    <value column="Name" isTrl="Y" original="Sequence Number">Порядковый номер</value>
+    <value column="PrintName" isTrl="Y" original="Sequence Number">Порядковый номер</value>
     <value column="Description" isTrl="N" original="The order of records in a specified document.">The order of records in a specified document.</value>
     <value column="Help" isTrl="N" original="The Sequence indicates the order of records">The Sequence indicates the order of records</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11737,8 +11737,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="617" trl="N">
-    <value column="Name" isTrl="N" original="Valid From Date">Valid From Date</value>
-    <value column="PrintName" isTrl="N" original="Valid from">Valid from</value>
+    <value column="Name" isTrl="Y" original="Valid From Date">Действительно с даты</value>
+    <value column="PrintName" isTrl="Y" original="Valid from">Действительно с</value>
     <value column="Description" isTrl="N" original="A parameter stating the starting time of a specified request.">A parameter stating the starting time of a specified request.</value>
     <value column="Help" isTrl="N" original="The Valid From date indicates the first day of a date range">The Valid From date indicates the first day of a date range</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14378,8 +14378,8 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800170" trl="N">
-    <value column="Name" isTrl="N" original="Cost">Cost</value>
-    <value column="PrintName" isTrl="N" original="Cost">Cost</value>
+    <value column="Name" isTrl="Y" original="Cost">Себестоимость</value>
+    <value column="PrintName" isTrl="Y" original="Cost">Себестоимость</value>
     <value column="Description" isTrl="N" original="A charge related to conducting business.">A charge related to conducting business.</value>
     <value column="Help" isTrl="N" original="Cost amount.">Cost amount.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14725,8 +14725,8 @@ For example, if you want to create different invoices for each ship location for
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800232" trl="N">
-    <value column="Name" isTrl="N" original="File Name">File Name</value>
-    <value column="PrintName" isTrl="N" original="Filename">Filename</value>
+    <value column="Name" isTrl="Y" original="File Name">Имя файла</value>
+    <value column="PrintName" isTrl="Y" original="Filename">Имя файла</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -18038,8 +18038,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800764" trl="N">
-    <value column="Name" isTrl="N" original="Fixed">Fixed</value>
-    <value column="PrintName" isTrl="N" original="Fixed">Fixed</value>
+    <value column="Name" isTrl="Y" original="Fixed">Зафиксировано</value>
+    <value column="PrintName" isTrl="Y" original="Fixed">Зафиксировано</value>
     <value column="Description" isTrl="N" original="A means of locking the header tab so it will not be affected if a specified process is run again.">A means of locking the header tab so it will not be affected if a specified process is run again.</value>
     <value column="Help" isTrl="N" original="Is fixed">Is fixed</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -18858,9 +18858,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="840" trl="N">
-    <value column="Name" isTrl="N" original="Account No.">Account No.</value>
-    <value column="PrintName" isTrl="N" original="Account No">Account No</value>
-    <value column="Description" isTrl="N" original="Account Number">Account Number</value>
+    <value column="Name" isTrl="Y" original="Account No.">Счёт №</value>
+    <value column="PrintName" isTrl="Y" original="Account No">Счёт №</value>
+    <value column="Description" isTrl="Y" original="Account Number">Номер счёта</value>
     <value column="Help" isTrl="N" original="The Account Number indicates the Number assigned to this account">The Account Number indicates the Number assigned to this account</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -19302,8 +19302,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="882" trl="N">
-    <value column="Name" isTrl="N" original="Enforce Price Limit">Enforce Price Limit</value>
-    <value column="PrintName" isTrl="N" original="Enforce price limit">Enforce price limit</value>
+    <value column="Name" isTrl="Y" original="Enforce Price Limit">Применять лимит цены</value>
+    <value column="PrintName" isTrl="Y" original="Enforce price limit">Применять лимит цены</value>
     <value column="Description" isTrl="N" original="Do not allow prices below the limit price">Do not allow prices below the limit price</value>
     <value column="Help" isTrl="N" original="The Enforce Price Limit check box indicates that prices cannot be below the limit price in Orders. Invoices are not checked.">The Enforce Price Limit check box indicates that prices cannot be below the limit price in Orders. Invoices are not checked.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21330,8 +21330,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C3DA0880F589707CE040007F01003707" trl="N">
-    <value column="Name" isTrl="N" original="Limit Price Margin %">Limit Price Margin %</value>
-    <value column="PrintName" isTrl="N" original="Limit Price Margin %">Limit Price Margin %</value>
+    <value column="Name" isTrl="Y" original="Limit Price Margin %">Лимит маржи цены</value>
+    <value column="PrintName" isTrl="Y" original="Limit Price Margin %">Лимит маржи цены</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21340,8 +21340,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C3DA0880F58A707CE040007F01003707" trl="N">
-    <value column="Name" isTrl="N" original="Price list based on cost">Price list based on cost</value>
-    <value column="PrintName" isTrl="N" original="Price list based on cost">Price list based on cost</value>
+    <value column="Name" isTrl="Y" original="Price list based on cost">Прейскурант основанный на себестоимости</value>
+    <value column="PrintName" isTrl="Y" original="Price list based on cost">Прейскурант основанный на себестоимости</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21350,8 +21350,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C3DA0880F58B707CE040007F01003707" trl="N">
-    <value column="Name" isTrl="N" original="List Price Margin %">List Price Margin %</value>
-    <value column="PrintName" isTrl="N" original="List Price Margin %">List Price Margin %</value>
+    <value column="Name" isTrl="Y" original="List Price Margin %">% маржи на цену прейскуранта</value>
+    <value column="PrintName" isTrl="Y" original="List Price Margin %">% маржи на цену прейскуранта</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21360,8 +21360,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C3DA0880F58C707CE040007F01003707" trl="N">
-    <value column="Name" isTrl="N" original="Unit Price Margin %">Unit Price Margin %</value>
-    <value column="PrintName" isTrl="N" original="Unit Price Margin %">Unit Price Margin %</value>
+    <value column="Name" isTrl="Y" original="Unit Price Margin %">% маржи на цену единицы</value>
+    <value column="PrintName" isTrl="Y" original="Unit Price Margin %">% маржи на цену единицы</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

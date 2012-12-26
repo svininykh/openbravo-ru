@@ -11,7 +11,7 @@
     <value column="Help" isTrl="N" original="The Shipment ID indicates the unique document for this shipment.">The Shipment ID indicates the unique document for this shipment.</value>
   </row>
   <row id="0554CE00C06447F2B33889030BC040E3" trl="N">
-    <value column="Name" isTrl="Y" original="Net List Price">Цена по прейскуранту</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена прейскуранта</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>
@@ -101,7 +101,7 @@
     <value column="Help" isTrl="N" original="Revenue services">Revenue services</value>
   </row>
   <row id="1137" trl="N">
-    <value column="Name" isTrl="Y" original="Net List Price">Цена по прейскуранту</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена прейскуранта</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>
@@ -181,7 +181,7 @@
     <value column="Help" isTrl="N" original="The Purchase Order Line is a unique identifier for a line in an order.">The Purchase Order Line is a unique identifier for a line in an order.</value>
   </row>
   <row id="3395" trl="N">
-    <value column="Name" isTrl="Y" original="Net List Price">Цена по прейскуранту</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена прейскуранта</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>
@@ -196,8 +196,8 @@
     <value column="Help" isTrl="N" original="The Purchase Order Line is a unique identifier for a line in an order.">The Purchase Order Line is a unique identifier for a line in an order.</value>
   </row>
   <row id="3742" trl="N">
-    <value column="Name" isTrl="N" original="Base Version (Default)">Base Version (Default)</value>
-    <value column="Description" isTrl="N" original="Base Price List">Base Price List</value>
+    <value column="Name" isTrl="Y" original="Base Version (Default)">Версия основание (По-умолчанию)</value>
+    <value column="Description" isTrl="Y" original="Base Price List">Базовый прейскурант</value>
     <value column="Help" isTrl="N" original="The Base Price List identifies the Base Pricelist used for calculating prices (the source)">The Base Price List identifies the Base Pricelist used for calculating prices (the source)</value>
   </row>
   <row id="3747" trl="N">
@@ -581,12 +581,12 @@
     <value column="Help" isTrl="N" original="The Goods Receipt Line indicates a unique line in a Receipt document">The Goods Receipt Line indicates a unique line in a Receipt document</value>
   </row>
   <row id="801029" trl="N">
-    <value column="Name" isTrl="N" original="Cost">Cost</value>
+    <value column="Name" isTrl="Y" original="Cost">Себестоимость</value>
     <value column="Description" isTrl="N" original="A charge related to conducting business.">A charge related to conducting business.</value>
     <value column="Help" isTrl="N" original="Cost amount. The amount must be expressed in the currency of the Legal Entity. Notice that legacy cost engine costs are expressed in the currency of the Client.">Cost amount. The amount must be expressed in the currency of the Legal Entity. Notice that legacy cost engine costs are expressed in the currency of the Client.</value>
   </row>
   <row id="801030" trl="N">
-    <value column="Name" isTrl="N" original="Cost Type">Cost Type</value>
+    <value column="Name" isTrl="Y" original="Cost Type">Тип себестоимости</value>
     <value column="Description" isTrl="N" original="A distinct cost characteristic used for processes.">A distinct cost characteristic used for processes.</value>
     <value column="Help" isTrl="N" original="Different types of cost used by the legacy cost engine. To configure costs use Costing Rules.">Different types of cost used by the legacy cost engine. To configure costs use Costing Rules.</value>
   </row>
@@ -746,7 +746,7 @@
     <value column="Help" isTrl="N" original="Accounting Report Group defines groups for general accounting reports.">Accounting Report Group defines groups for general accounting reports.</value>
   </row>
   <row id="804192" trl="N">
-    <value column="Name" isTrl="N" original="Fixed">Fixed</value>
+    <value column="Name" isTrl="Y" original="Fixed">Зафиксировано</value>
     <value column="Description" isTrl="N" original="Is fixed">Is fixed</value>
     <value column="Help" isTrl="N" original="When is fixed is set as 'Y' means that the rule that the record which raised the alert has been modified and the rule is not raised for this record anymore.">When is fixed is set as 'Y' means that the rule that the record which raised the alert has been modified and the rule is not raised for this record anymore.</value>
   </row>
@@ -756,7 +756,7 @@
     <value column="Help" isTrl="N" original="The Ordered Quantity indicates the quantity of a product that was ordered.">The Ordered Quantity indicates the quantity of a product that was ordered.</value>
   </row>
   <row id="807CB1125A891B22E040007F01013A3F" trl="N">
-    <value column="Name" isTrl="N" original="Sequence Number">Sequence Number</value>
+    <value column="Name" isTrl="Y" original="Sequence Number">Порядковый номер</value>
     <value column="Description" isTrl="N" original="Order the elements in the list will be displayed in the drop down list">Order the elements in the list will be displayed in the drop down list</value>
     <value column="Help" isTrl="N" original="-If the value of this field is null for all the elements in the list, the list will be sorted alphabetically.&#10;-If all the elements have this value set, they will be ordered taken into account it.&#10;-If some of the elements have it and some not, the ones having it will appear at the beginning of the list sorted by Sequence Number, the rest of them will be shown at the end ordered alphabetically.">-If the value of this field is null for all the elements in the list, the list will be sorted alphabetically.
 -If all the elements have this value set, they will be ordered taken into account it.
@@ -843,7 +843,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="AF4090093D4A1431E040007F010048A5" trl="N">
-    <value column="Name" isTrl="Y" original="Net List Price">Цена по прейскуранту</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена прейскуранта</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>
@@ -973,7 +973,7 @@
     <value column="Help" isTrl="N" original="Account to be used upon reconciliation">Account to be used upon reconciliation</value>
   </row>
   <row id="DCB3CD5102A644DB882524C242F4145C" trl="N">
-    <value column="Name" isTrl="Y" original="Net List Price">Цена без налога</value>
+    <value column="Name" isTrl="Y" original="Net List Price">Цена прейскуранта</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>

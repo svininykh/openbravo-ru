@@ -85,7 +85,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3137ECD8CD0D4656BEDC1FE87DBA8838" trl="N">
-    <value column="MsgText" isTrl="N" original="Success">Success</value>
+    <value column="MsgText" isTrl="Y" original="Success">Успешно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3270B64D4D6B4464B2E9BA10C69996E4" trl="N">
@@ -97,7 +97,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3423F8C3C26645E2BED53B282343ACB3" trl="N">
-    <value column="MsgText" isTrl="N" original="Add New">Add New</value>
+    <value column="MsgText" isTrl="Y" original="Add New">Добавить новый</value>
     <value column="MsgTip" isTrl="N" original="Label for 'Add New' type button">Label for 'Add New' type button</value>
   </row>
   <row id="36611160D1404304930C24E2EA3C0434" trl="N">
@@ -546,15 +546,15 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F44375E012F444B33320021" trl="N">
-    <value column="MsgText" isTrl="N" original="Show attachments">Show attachments</value>
+    <value column="MsgText" isTrl="Y" original="Show attachments">Показать вложения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812FB0FC61012FBA1617A30193" trl="N">
-    <value column="MsgText" isTrl="N" original="Submit">Submit</value>
+    <value column="MsgText" isTrl="Y" original="Submit">Отправить</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812FB0FC61012FBA177C6801A0" trl="N">
-    <value column="MsgText" isTrl="N" original="File">File</value>
+    <value column="MsgText" isTrl="Y" original="File">Файл</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812FB0FC61012FBA3EBC6F01DC" trl="N">
@@ -650,7 +650,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808130B667BD0130B6C07695001F" trl="N">
-    <value column="MsgText" isTrl="N" original="Attach File">Attach File</value>
+    <value column="MsgText" isTrl="Y" original="Attach File">Прикрепить файл</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808130D5DD6A0130D5EEF54A000A" trl="N">
@@ -675,7 +675,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131509CDA013150B7DBF30021" trl="N">
-    <value column="MsgText" isTrl="N" original="File">File</value>
+    <value column="MsgText" isTrl="Y" original="File">Файл</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131509CDA013150B85F370024" trl="N">
@@ -1059,11 +1059,11 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818130028FA5013002917EED0007" trl="N">
-    <value column="MsgText" isTrl="N" original="Copy record">Copy record</value>
+    <value column="MsgText" isTrl="Y" original="Copy record">Копировать запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818130028FA501300291CE7F000C" trl="N">
-    <value column="MsgText" isTrl="N" original="The record has been copied.">The record has been copied.</value>
+    <value column="MsgText" isTrl="Y" original="The record has been copied.">Запись скопированна.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813008185F01300869B7AB0017" trl="N">
