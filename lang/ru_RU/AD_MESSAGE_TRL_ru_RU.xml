@@ -282,11 +282,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300008" trl="N">
-    <value column="MsgText" isTrl="N" original="Counted">Counted</value>
+    <value column="MsgText" isTrl="Y" original="Counted">Посчитано</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300009" trl="N">
-    <value column="MsgText" isTrl="N" original="Created">Created</value>
+    <value column="MsgText" isTrl="Y" original="Created">Создано</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300010" trl="N">
@@ -1756,7 +1756,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="194" trl="N">
-    <value column="MsgText" isTrl="N" original="Created">Created</value>
+    <value column="MsgText" isTrl="Y" original="Created">Создано</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="195" trl="N">
