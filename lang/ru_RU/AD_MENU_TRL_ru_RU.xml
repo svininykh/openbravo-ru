@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MENU" version="">
   <row id="04B49FB13913462C8ACE2E3906440E3F" trl="N">
-    <value column="Name" isTrl="N" original="Module">Module</value>
-    <value column="Description" isTrl="N" original="Module management">Module management</value>
+    <value column="Name" isTrl="Y" original="Module">Модуль</value>
+    <value column="Description" isTrl="Y" original="Module management">Управление модулем</value>
   </row>
   <row id="08B67705E5B44C5DB2196B9A1CD1ABD7" trl="N">
     <value column="Name" isTrl="N" original="Costing Algorithm">Costing Algorithm</value>
     <value column="Description" isTrl="N" original="Defines each costing algorithm installed and ready to use">Defines each costing algorithm installed and ready to use</value>
   </row>
   <row id="1000001" trl="N">
-    <value column="Name" isTrl="N" original="Openbravo ERP">Openbravo ERP</value>
+    <value column="Name" isTrl="Y" original="Openbravo ERP">Openbravo ERP</value>
     <value column="Description" isTrl="N" original="Openbravo Homepage">Openbravo Homepage</value>
   </row>
   <row id="1000500000" trl="N">
@@ -241,7 +241,7 @@
     <value column="Description" isTrl="N" original="Open a folder where you can customize, modify, and adapt the application to your needs.">Open a folder where you can customize, modify, and adapt the application to your needs.</value>
   </row>
   <row id="155" trl="N">
-    <value column="Name" isTrl="Y" original="General Setup">Основные настройки</value>
+    <value column="Name" isTrl="Y" original="General Setup">Основные параметры</value>
     <value column="Description" isTrl="N" original="General Setup is the place where to configure basic Openbravo settings such as the enterprise model, users and roles  as well as other more advance setting such as alerts, preferences and processes.">General Setup is the place where to configure basic Openbravo settings such as the enterprise model, users and roles  as well as other more advance setting such as alerts, preferences and processes.</value>
   </row>
   <row id="156" trl="N">
@@ -269,7 +269,7 @@
     <value column="Description" isTrl="N" original="Application folder gathers multi-data settings, attributes values or specific properties settings at different levels as well as alerts configuration. ">Application folder gathers multi-data settings, attributes values or specific properties settings at different levels as well as alerts configuration. </value>
   </row>
   <row id="164" trl="N">
-    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
+    <value column="Name" isTrl="Y" original="Setup">Параметры</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="165" trl="N">
@@ -281,7 +281,7 @@
     <value column="Description" isTrl="N" original="Sales Management  addresses the life-cycle of a sales process and besides provides the tools to analyze sales related information.">Sales Management  addresses the life-cycle of a sales process and besides provides the tools to analyze sales related information.</value>
   </row>
   <row id="167" trl="N">
-    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
+    <value column="Name" isTrl="Y" original="Setup">Параметры</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="169" trl="N">
@@ -453,7 +453,7 @@
     <value column="Description" isTrl="N" original="Update Audit Trail Infrastructure">Update Audit Trail Infrastructure</value>
   </row>
   <row id="236" trl="N">
-    <value column="Name" isTrl="N" original="Receivables and Payables">Receivables and Payables</value>
+    <value column="Name" isTrl="Y" original="Receivables and Payables">Выплаты и платежи</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create and edit settlements, debt payments, bank operations, remittances, and analyze reports.">Open a folder where you can create and edit settlements, debt payments, bank operations, remittances, and analyze reports.</value>
   </row>
   <row id="240" trl="N">
@@ -505,7 +505,7 @@
     <value column="Description" isTrl="N" original="Service Management">Service Management</value>
   </row>
   <row id="272" trl="N">
-    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
+    <value column="Name" isTrl="Y" original="Setup">Параметры</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="278" trl="N">
@@ -941,7 +941,7 @@
     <value column="Description" isTrl="N" original="Generates raw materials average costs.">Generates raw materials average costs.</value>
   </row>
   <row id="800096" trl="N">
-    <value column="Name" isTrl="N" original="Basic Discount">Basic Discount</value>
+    <value column="Name" isTrl="Y" original="Basic Discount">Базовая скидка</value>
     <value column="Description" isTrl="N" original="Create and edit product price percentage Basic Discounts.">Create and edit product price percentage Basic Discounts.</value>
   </row>
   <row id="800097" trl="N">
@@ -1113,7 +1113,7 @@
     <value column="Description" isTrl="N" original="Define products which are only to be used inside the enterprise.">Define products which are only to be used inside the enterprise.</value>
   </row>
   <row id="800189" trl="N">
-    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
+    <value column="Name" isTrl="Y" original="Setup">Параметры</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800190" trl="N">
@@ -1173,7 +1173,7 @@
     <value column="Description" isTrl="N" original="Create Production Costs">Create Production Costs</value>
   </row>
   <row id="800206" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Tax Category">Business Partner Tax Category</value>
+    <value column="Name" isTrl="Y" original="Business Partner Tax Category">Налоговая категория контрагента</value>
     <value column="Description" isTrl="N" original="Create a tax category to be added to each business partner.">Create a tax category to be added to each business partner.</value>
   </row>
   <row id="800207" trl="N">
@@ -1249,7 +1249,7 @@
     <value column="Description" isTrl="N" original="Report Sales by partner and Product">Report Sales by partner and Product</value>
   </row>
   <row id="800233" trl="N">
-    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
+    <value column="Name" isTrl="Y" original="Setup">Параметры</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800234" trl="N">
@@ -1261,11 +1261,11 @@
     <value column="Description" isTrl="N" original="Mater Data is a central repository of data where  key information such as business partners and products can be created, configured and therefore shared accross other Openbravo application areas.">Mater Data is a central repository of data where  key information such as business partners and products can be created, configured and therefore shared accross other Openbravo application areas.</value>
   </row>
   <row id="800238" trl="N">
-    <value column="Name" isTrl="Y" original="Business Partner Setup">Настройки контрагента</value>
+    <value column="Name" isTrl="Y" original="Business Partner Setup">Параметры контрагента</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800239" trl="N">
-    <value column="Name" isTrl="Y" original="Product Setup">Настройки товара</value>
+    <value column="Name" isTrl="Y" original="Product Setup">Параметры товара</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800240" trl="N">
@@ -1293,7 +1293,7 @@
     <value column="Description" isTrl="N" original="Open a folder where you can create, edit, and add data to be used to complete a given transaction.">Open a folder where you can create, edit, and add data to be used to complete a given transaction.</value>
   </row>
   <row id="800248" trl="N">
-    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
+    <value column="Name" isTrl="Y" original="Setup">Параметры</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800249" trl="N">
@@ -1305,7 +1305,7 @@
     <value column="Description" isTrl="N" original="Open a folder where you can create, edit, and add data to be used to complete a given transaction.">Open a folder where you can create, edit, and add data to be used to complete a given transaction.</value>
   </row>
   <row id="800251" trl="N">
-    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
+    <value column="Name" isTrl="Y" original="Setup">Параметры</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800252" trl="N">
@@ -1321,11 +1321,11 @@
     <value column="Description" isTrl="N" original="Open a folder where you can create, edit, and add data to be used to complete a given transaction.">Open a folder where you can create, edit, and add data to be used to complete a given transaction.</value>
   </row>
   <row id="800255" trl="N">
-    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
+    <value column="Name" isTrl="Y" original="Setup">Параметры</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800256" trl="N">
-    <value column="Name" isTrl="Y" original="Setup">Настройки</value>
+    <value column="Name" isTrl="Y" original="Setup">Параметры</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="800257" trl="N">
@@ -1465,7 +1465,7 @@
     <value column="Description" isTrl="N" original="Condition of the goods to be used in window RM receipt">Condition of the goods to be used in window RM receipt</value>
   </row>
   <row id="D13B4DBDCBF747BB9A91B17CBC6D1AA5" trl="N">
-    <value column="Name" isTrl="N" original="Process Scheduling">Process Scheduling</value>
+    <value column="Name" isTrl="Y" original="Process Scheduling">Планирование обработки</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="D4A88451E7F64130A1998567B5E0C68F" trl="N">
@@ -1477,8 +1477,8 @@
     <value column="Description" isTrl="N" original="Dataset">Dataset</value>
   </row>
   <row id="EEC07584F29040388C9BAA388BC4C2D0" trl="N">
-    <value column="Name" isTrl="N" original="System Info">System Info</value>
-    <value column="Description" isTrl="N" original="System Info">System Info</value>
+    <value column="Name" isTrl="Y" original="System Info">Системная информация</value>
+    <value column="Description" isTrl="Y" original="System Info">Системная информация</value>
   </row>
   <row id="EFC616EE0EA04A9ABB47E793A0D8F671" trl="N">
     <value column="Name" isTrl="N" original="Sales Quotation">Sales Quotation</value>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_PROCESS" version="">
   <row id="0515E6559C31478E92703A3D10E6783B" trl="N">
-    <value column="Name" isTrl="N" original="Schedule Process">Schedule Process</value>
+    <value column="Name" isTrl="Y" original="Schedule Process">Планировать обработку</value>
     <value column="Description" isTrl="N" original="Request a process to be run in the background or scheduled.">Request a process to be run in the background or scheduled.</value>
     <value column="Help" isTrl="N" original="Request a process to be run in the background or scheduled.">Request a process to be run in the background or scheduled.</value>
   </row>

@@ -3861,7 +3861,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="D832F22185A0419F875AF44B6E68A2B1" trl="N">
-    <value column="Name" isTrl="N" original="Primary Key">Primary Key</value>
+    <value column="Name" isTrl="Y" original="Primary Key">Первичный ключ</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="D9FFDD5DD51D434FB45628FCBAD10A4E" trl="N">
@@ -3869,7 +3869,7 @@
     <value column="Description" isTrl="N" original="This only affects the process button on Purchase and Sales invoice windows. All other processes that complete invoices will still use the c_invoice_post procedure.">This only affects the process button on Purchase and Sales invoice windows. All other processes that complete invoices will still use the c_invoice_post procedure.</value>
   </row>
   <row id="DAC02370F50D485BAA4F79957AA1A7A4" trl="N">
-    <value column="Name" isTrl="N" original="Scheduled">Scheduled</value>
+    <value column="Name" isTrl="Y" original="Scheduled">Запланировано</value>
     <value column="Description" isTrl="N" original="A process that has been scheduled to run but has not yet started.">A process that has been scheduled to run but has not yet started.</value>
   </row>
   <row id="DADE111C7F934696AEF4D134D37445D1" trl="N">

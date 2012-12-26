@@ -14358,7 +14358,7 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800168" trl="N">
-    <value column="Name" isTrl="N" original="Print Price">Print Price</value>
+    <value column="Name" isTrl="Y" original="Print Price">Печать цены</value>
     <value column="PrintName" isTrl="N" original="Ispriceprinted">Ispriceprinted</value>
     <value column="Description" isTrl="N" original="Defines if the pricestd is going to be printed or not in the document">Defines if the pricestd is going to be printed or not in the document</value>
     <value column="Help" isTrl="N" original="It allows you to print or not the price of a product in a document so you can summary many products in just one.">It allows you to print or not the price of a product in a document so you can summary many products in just one.</value>
@@ -14368,7 +14368,7 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800169" trl="N">
-    <value column="Name" isTrl="N" original="Basic Discount">Basic Discount</value>
+    <value column="Name" isTrl="Y" original="Basic Discount">Базовая скидка</value>
     <value column="PrintName" isTrl="N" original="C_Discount_ID">C_Discount_ID</value>
     <value column="Description" isTrl="N" original="The percentage price reduction based on the list price.">The percentage price reduction based on the list price.</value>
     <value column="Help" isTrl="N" original="Discount applicable to prices.">Discount applicable to prices.</value>

@@ -636,12 +636,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit formats for attached files (.pdf, .html)">Create and edit formats for attached files (.pdf, .html)</value>
   </row>
   <row id="800016" trl="N">
-    <value column="Name" isTrl="N" original="Process Scheduling">Process Scheduling</value>
+    <value column="Name" isTrl="Y" original="Process Scheduling">Планирование обработки</value>
     <value column="Description" isTrl="N" original="Define background processes to be automatically performed by the application.">Define background processes to be automatically performed by the application.</value>
     <value column="Help" isTrl="N" original="Define background processes to be automatically performed by the application.">Define background processes to be automatically performed by the application.</value>
   </row>
   <row id="800017" trl="N">
-    <value column="Name" isTrl="N" original="Basic Discount">Basic Discount</value>
+    <value column="Name" isTrl="Y" original="Basic Discount">Базовая скидка</value>
     <value column="Description" isTrl="N" original="Create and edit product price percentage Basic Discounts.">Create and edit product price percentage Basic Discounts.</value>
     <value column="Help" isTrl="N" original="A Basic Discount is a deduction from the total amount of an order or an invoice.">A Basic Discount is a deduction from the total amount of an order or an invoice.</value>
   </row>
