@@ -52,6 +52,10 @@
     <value column="MsgText" isTrl="Y" original="Save Note">Сохранить заметку</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="0BEB24CF954E410EAFE4EF198C38A902" trl="N">
+    <value column="MsgText" isTrl="N" original="Total prereserved quantity exceeds the quantity in sales order line (%0) considering the already reserved quantity in other reservations (%1). Please enter a valid number.">Total prereserved quantity exceeds the quantity in sales order line (%0) considering the already reserved quantity in other reservations (%1). Please enter a valid number.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="0D2FEB9F4F39423BB5A5310891256558" trl="N">
     <value column="MsgText" isTrl="Y" original="Remove Attachments">Удалить вложения</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -74,6 +78,10 @@
   </row>
   <row id="1C8D1970AE9A46319D42430A0D0AAF09" trl="N">
     <value column="MsgText" isTrl="Y" original="Role - Client">Роль - Подключение</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="1E1CAC55E447469293C57EF539B3BEEC" trl="N">
+    <value column="MsgText" isTrl="N" original="Total reserved quantity exceeds the reservation quantity. The sum of all reserved quantities must be equal or lower than %0.">Total reserved quantity exceeds the reservation quantity. The sum of all reserved quantities must be equal or lower than %0.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2052DF26669F4864B295C17502F53E38" trl="N">
@@ -146,6 +154,10 @@
   </row>
   <row id="52FC93FB2DEC4C168D14E65195F97752" trl="N">
     <value column="MsgText" isTrl="N" original="Set Summary Function">Set Summary Function</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="597897349BE0452C89E43E27D94A175D" trl="N">
+    <value column="MsgText" isTrl="N" original="Reserved quantity is lower than the released quantity. Enter a valid number equal or higher than %0.">Reserved quantity is lower than the released quantity. Enter a valid number equal or higher than %0.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5B1FB06A4EBA4654A9A93695434C72AE" trl="N">
@@ -325,6 +337,10 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="Y" original="Role">Роль</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="C415C626CAE14E35A7F05C42F11DA114" trl="N">
+    <value column="MsgText" isTrl="N" original="Total prereserved quantity exceeds the pending to receipt quantity. The sum of all prereserved quantities must be equal or lower than %0.">Total prereserved quantity exceeds the pending to receipt quantity. The sum of all prereserved quantities must be equal or lower than %0.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="C525E9A7101B4920A8A652DD94B97AFE" trl="N">
     <value column="MsgText" isTrl="Y" original="%0 Alerts">%0 предупреждений</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -351,6 +367,10 @@ All modules in this window must be "in development".</value>
   </row>
   <row id="CE3E9A8711D54E719F02630BE8D5E2FB" trl="N">
     <value column="MsgText" isTrl="N" original="By 1">By 1</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="D109B6F7D8BF4F5C9D84463CD36BF434" trl="N">
+    <value column="MsgText" isTrl="N" original="Reserved quantity exceeds the available quantity (%0) considering the quantity reserved in other reservations (%1). Please, enter a valid number.">Reserved quantity exceeds the available quantity (%0) considering the quantity reserved in other reservations (%1). Please, enter a valid number.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D514BC49ED374B7288B215D94DAC3177" trl="N">
@@ -691,7 +711,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131517E5F0131523F2F9000C1" trl="N">
-    <value column="MsgText" isTrl="N" original="One or more rows could not be saved. Fix the problem or &lt;a href=&quot;#&quot; style=&quot;color: green;&quot; onclick=&quot;window['%0'].undo();&quot;&gt;cancel all pending changes&lt;/a&gt; to return to the last saved state.">Одна или больше строк не могут быть сохранены. Исправьте проблему или &lt;a href="#" style="color: green;" onclick="window['%0'].undo();"&gt;отмените все сделаные изменения&lt;/a&gt; для возврата к сохранённой позиции.</value>
+    <value column="MsgText" isTrl="Y" original="One or more rows could not be saved. Fix the problem or &lt;a href=&quot;#&quot; style=&quot;color: green;&quot; onclick=&quot;window['%0'].undo();&quot;&gt;cancel all pending changes&lt;/a&gt; to return to the last saved state.">Одна или больше строк не могут быть сохранены. Исправьте проблему или &lt;a href=&quot;#&quot; style=&quot;color: green;&quot; onclick=&quot;window['%0'].undo();&quot;&gt;отмените все сделаные изменения&lt;/a&gt; для возврата к сохранённой позиции.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081319427300131943A5EFB0019" trl="N">
@@ -1076,7 +1096,7 @@ All modules in this window must be "in development".</value>
   </row>
   <row id="FF8081813008185F0130086C20B6001F" trl="Y">
     <value column="MsgText" isTrl="Y" original="This grid is filtered using">Этот список отфильтрован по</value>
-    <value column="MsgTip" isTrl="Y" original=""/>
+    <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813008185F01300873148A0027" trl="N">
     <value column="MsgText" isTrl="N" original="an implicit filter">an implicit filter</value>
@@ -1084,7 +1104,7 @@ All modules in this window must be "in development".</value>
   </row>
   <row id="FF8081813008185F013008744C5D002F" trl="Y">
     <value column="MsgText" isTrl="Y" original="a transactional filter &lt;i&gt;(only draft &amp; modified documents in the last %n day(s))&lt;/i&gt;">фильтру транзакций &lt;i&gt;(только черновики &amp; изменённых документов в последние %n дней)&lt;/i&gt;</value>
-    <value column="MsgTip" isTrl="Y" original=""/>
+    <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181304F1CD101304F8A68810021" trl="N">
     <value column="MsgText" isTrl="N" original="Run the APRM Migration Tool">Run the APRM Migration Tool</value>
