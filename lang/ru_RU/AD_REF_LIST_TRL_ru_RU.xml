@@ -101,7 +101,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="0EB261D7F77348AF970433D05318218F" trl="N">
-    <value column="Name" isTrl="N" original="Module">Module</value>
+    <value column="Name" isTrl="Y" original="Module">Модуль</value>
     <value column="Description" isTrl="N" original="Module type: it contains the module itself (data and resources)">Module type: it contains the module itself (data and resources)</value>
   </row>
   <row id="0F17315EE4144DB487A11F49DF1E5F0E" trl="N">
@@ -2513,7 +2513,7 @@
     <value column="Description" isTrl="N" original="A process that is currently executing.">A process that is currently executing.</value>
   </row>
   <row id="7A6076D850C84A1DB817C3C3BFA900AB" trl="N">
-    <value column="Name" isTrl="Y" original="BP Deposit">Депозит контрагента</value>
+    <value column="Name" isTrl="Y" original="BP Deposit">Поступление контрагента</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="7CF20E12800D4B54A493CE90C90F767B" trl="N">
@@ -2625,7 +2625,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800022" trl="N">
-    <value column="Name" isTrl="N" original="Bank Deposit">Bank Deposit</value>
+    <value column="Name" isTrl="Y" original="Bank Deposit">Банковский депозит</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800023" trl="N">
@@ -3121,7 +3121,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800178" trl="N">
-    <value column="Name" isTrl="N" original="Module">Module</value>
+    <value column="Name" isTrl="Y" original="Module">Модуль</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800179" trl="N">

@@ -1832,11 +1832,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1C3FA623333E4AE183F1F441E9F84DE9" trl="N">
-    <value column="MsgText" isTrl="N" original="Deposit Account">Deposit Account</value>
+    <value column="MsgText" isTrl="Y" original="Deposit Account">Счёт поступлений</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1C68A76422C94FEC882C1E576C9F4F28" trl="N">
-    <value column="MsgText" isTrl="N" original="The Storage Bin is not empty.">The Storage Bin is not empty.</value>
+    <value column="MsgText" isTrl="Y" original="The Storage Bin is not empty.">Корзина не пуста.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1CF066F6A68F419CA5241635305B9B77" trl="N">
@@ -3585,7 +3585,7 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="4E7508EBC0A44CACB9DF16FC24207251" trl="N">
-    <value column="MsgText" isTrl="N" original="Withdrawal Account">Withdrawal Account</value>
+    <value column="MsgText" isTrl="Y" original="Withdrawal Account">Счёт выплат</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="4ECAA12B455F4BE497A92FC3F4C86BD6" trl="N">

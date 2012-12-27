@@ -3665,11 +3665,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="The payment in window allows to record and manage customer's payments received against different types of documents issued by the organization such as orders and invoices. This window also allows to manage the customer's payments already recorded in the sales invoice window.">The payment in window allows to record and manage customer's payments received against different types of documents issued by the organization such as orders and invoices. This window also allows to manage the customer's payments already recorded in the sales invoice window.</value>
   </row>
   <row id="C53967BA96E64FC6B2E4166A7C945168" trl="N">
-    <value column="Name" isTrl="N" original="Dataset">Dataset</value>
+    <value column="Name" isTrl="Y" original="Dataset">Набор данных</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Dataset">Dataset</value>
+    <value column="Description" isTrl="Y" original="Dataset">Набор данных</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Sets of data">Sets of data</value>
+    <value column="Help" isTrl="Y" original="Sets of data">Набор данных</value>
   </row>
   <row id="C56E698100314ABBBBD3A89626CA551C" trl="N">
     <value column="Name" isTrl="N" original="Imported Bank Statements">Imported Bank Statements</value>
@@ -3812,9 +3812,9 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="F53E35A11C564F20BE4082A7B8CFF6B7" trl="N">
-    <value column="Name" isTrl="N" original="Module">Module</value>
+    <value column="Name" isTrl="Y" original="Module">Модуль</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Installed module">Installed module</value>
+    <value column="Description" isTrl="Y" original="Installed module">Установленный модуль</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="This tab manages the installed modules in the application.">This tab manages the installed modules in the application.</value>
   </row>

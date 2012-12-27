@@ -453,7 +453,7 @@
     <value column="Description" isTrl="N" original="Update Audit Trail Infrastructure">Update Audit Trail Infrastructure</value>
   </row>
   <row id="236" trl="N">
-    <value column="Name" isTrl="Y" original="Receivables and Payables">Выплаты и платежи</value>
+    <value column="Name" isTrl="Y" original="Receivables and Payables">Выплаты и поступления</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create and edit settlements, debt payments, bank operations, remittances, and analyze reports.">Open a folder where you can create and edit settlements, debt payments, bank operations, remittances, and analyze reports.</value>
   </row>
   <row id="240" trl="N">
@@ -1489,8 +1489,8 @@
     <value column="Description" isTrl="N" original="Report that shows the progress of the projects.">Report that shows the progress of the projects.</value>
   </row>
   <row id="DF55818A579B448AAF0CE64736E20E45" trl="N">
-    <value column="Name" isTrl="N" original="Dataset">Dataset</value>
-    <value column="Description" isTrl="N" original="Dataset">Dataset</value>
+    <value column="Name" isTrl="Y" original="Dataset">Набор данных</value>
+    <value column="Description" isTrl="Y" original="Dataset">Набор данных</value>
   </row>
   <row id="EEC07584F29040388C9BAA388BC4C2D0" trl="N">
     <value column="Name" isTrl="Y" original="System Info">Системная информация</value>

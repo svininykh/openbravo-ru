@@ -523,9 +523,9 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">View information related to business partner orders, receipts/shipments, invoices, and assets.</value>
   </row>
   <row id="2CC1DC1EDEA2454F987E7F2BBF48A4AE" trl="N">
-    <value column="Name" isTrl="N" original="Dataset">Dataset</value>
-    <value column="Description" isTrl="N" original="Dataset">Dataset</value>
-    <value column="Help" isTrl="N" original="Sets of data.">Sets of data.</value>
+    <value column="Name" isTrl="Y" original="Dataset">Набор данных</value>
+    <value column="Description" isTrl="Y" original="Dataset">Набор данных</value>
+    <value column="Help" isTrl="Y" original="Sets of data.">Набор данных.</value>
   </row>
   <row id="31496219132644BE8D477517595AE9D3" trl="N">
     <value column="Name" isTrl="N" original="RFC Order Pick / Edit Lines">RFC Order Pick / Edit Lines</value>
@@ -588,7 +588,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="6F8F913FA60F4CBD93DC1D3AA696E76E" trl="N">
-    <value column="Name" isTrl="N" original="Payment Out">Payment Out</value>
+    <value column="Name" isTrl="N" original="Payment Out">Выплаченные платежи</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Supplier's payments and prepayments can be made and manage in the payment out window.">Supplier's payments and prepayments can be made and manage in the payment out window.</value>
   </row>
@@ -953,12 +953,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define priorities for payment plans created when processing invoices and orders. You can mark as default the priority you want to be displayed as selected in Invoice and Order windows. You can only mark as default one priority.">Define priorities for payment plans created when processing invoices and orders. You can mark as default the priority you want to be displayed as selected in Invoice and Order windows. You can only mark as default one priority.</value>
   </row>
   <row id="D586192D06C14EC182B44CAD34CA4295" trl="N">
-    <value column="Name" isTrl="N" original="Module">Module</value>
-    <value column="Description" isTrl="N" original="Module management">Module management</value>
+    <value column="Name" isTrl="Y" original="Module">Управление модулями</value>
+    <value column="Description" isTrl="Y" original="Module management">Управление модулями</value>
     <value column="Help" isTrl="N" original="Manages the modules currently installed.">Manages the modules currently installed.</value>
   </row>
   <row id="E547CE89D4C04429B6340FFA44E70716" trl="N">
-    <value column="Name" isTrl="N" original="Payment In">Payment In</value>
+    <value column="Name" isTrl="Y" original="Payment In">Принятые платежи</value>
     <value column="Description" isTrl="N" original="Window to manage the payments done by customers ">Window to manage the payments done by customers </value>
     <value column="Help" isTrl="N" original="Customer's payments and prepayments received can be recorded and managed in the payment in window.">Customer's payments and prepayments received can be recorded and managed in the payment in window.</value>
   </row>

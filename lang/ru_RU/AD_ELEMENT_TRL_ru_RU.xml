@@ -151,14 +151,14 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="0D1F9C2D797C49A7AA476A3047DC075A" trl="N">
-    <value column="Name" isTrl="N" original="Payment In">Payment In</value>
-    <value column="PrintName" isTrl="N" original="Payment In">Payment In</value>
+    <value column="Name" isTrl="Y" original="Payment In">Принятый платёж</value>
+    <value column="PrintName" isTrl="Y" original="Payment In">Принятый платёж</value>
     <value column="Description" isTrl="N" original="Payment In event">Payment In event</value>
     <value column="Help" isTrl="N" original="Payment In event">Payment In event</value>
     <value column="PO_Description" isTrl="N" original="Payment Out event">Payment Out event</value>
     <value column="PO_Help" isTrl="N" original="Payment Out event">Payment Out event</value>
-    <value column="PO_Name" isTrl="N" original="Payment Out">Payment Out</value>
-    <value column="PO_PrintName" isTrl="N" original="Payment Out">Payment Out</value>
+    <value column="PO_Name" isTrl="Y" original="Payment Out">Выплаченный платёж</value>
+    <value column="PO_PrintName" isTrl="Y" original="Payment Out">Выплаченный платёж</value>
   </row>
   <row id="0DCA4840773E45198061B6F1E5F22841" trl="N">
     <value column="Name" isTrl="N" original="Show in Status Bar">Show in Status Bar</value>
@@ -10201,9 +10201,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="565E666A619A2693E040007F01002851" trl="N">
-    <value column="Name" isTrl="N" original="Module">Module</value>
-    <value column="PrintName" isTrl="N" original="Module">Module</value>
-    <value column="Description" isTrl="N" original="Module">Module</value>
+    <value column="Name" isTrl="Y" original="Module">Модуль</value>
+    <value column="PrintName" isTrl="Y" original="Module">Модуль</value>
+    <value column="Description" isTrl="Y" original="Module">Модуль</value>
     <value column="Help" isTrl="N" original="Indicates the module the element forms part of.">Indicates the module the element forms part of.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10792,9 +10792,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="57A0D4EA68FF7E16E040007F01004841" trl="N">
-    <value column="Name" isTrl="N" original="Dataset">Dataset</value>
-    <value column="PrintName" isTrl="N" original="Dataset">Dataset</value>
-    <value column="Description" isTrl="N" original="Dataset">Dataset</value>
+    <value column="Name" isTrl="Y" original="Dataset">Набор данных</value>
+    <value column="PrintName" isTrl="Y" original="Dataset">Набор данных</value>
+    <value column="Description" isTrl="Y" original="Dataset">Набор данных</value>
     <value column="Help" isTrl="N" original="Indicates the dataset the element forms part of.">Indicates the dataset the element forms part of.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -12767,18 +12767,18 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7891269C8422655DE040007F010155CE" trl="Y">
-    <value column="Name" isTrl="Y" original="Withdrawal Amount">Сумма возврата</value>
-    <value column="PrintName" isTrl="Y" original="Withdrawal Amount">Сумма возврата</value>
+    <value column="Name" isTrl="Y" original="Withdrawal Amount">Сумма выплаты</value>
+    <value column="PrintName" isTrl="Y" original="Withdrawal Amount">Сумма выплаты</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="Y" original="Withdrawal amount">Сумма возврата</value>
+    <value column="Help" isTrl="Y" original="Withdrawal amount">Сумма выплаты</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7891269C8424655DE040007F010155CE" trl="Y">
-    <value column="Name" isTrl="Y" original="Deposit Amount">Сумма депозита</value>
-    <value column="PrintName" isTrl="Y" original="Depositamt">Сумма депозита</value>
+    <value column="Name" isTrl="Y" original="Deposit Amount">Сумма поступления</value>
+    <value column="PrintName" isTrl="Y" original="Depositamt">Сумма поступления</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13157,8 +13157,8 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7FF6CC4D061931F2E040007F01002CC3" trl="N">
-    <value column="Name" isTrl="N" original="Withdrawal Account">Withdrawal Account</value>
-    <value column="PrintName" isTrl="N" original="Withdrawal Account">Withdrawal Account</value>
+    <value column="Name" isTrl="Y" original="Withdrawal Account">Счёт выплат</value>
+    <value column="PrintName" isTrl="Y" original="Withdrawal Account">Счёт выплат</value>
     <value column="Description" isTrl="N" original="Withdrawal Account used by the financial account">Withdrawal Account used by the financial account</value>
     <value column="Help" isTrl="N" original="Withdrawal Account used by the financial account">Withdrawal Account used by the financial account</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13217,8 +13217,8 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7FF6CC4D061F31F2E040007F01002CC3" trl="N">
-    <value column="Name" isTrl="N" original="Deposit Account">Deposit Account</value>
-    <value column="PrintName" isTrl="N" original="Deposit Account">Deposit Account</value>
+    <value column="Name" isTrl="Y" original="Deposit Account">Счёт поступлений</value>
+    <value column="PrintName" isTrl="Y" original="Deposit Account">Счёт поступлений</value>
     <value column="Description" isTrl="N" original="Deposit Account used by the financial account">Deposit Account used by the financial account</value>
     <value column="Help" isTrl="N" original="Deposit Account used by the financial account">Deposit Account used by the financial account</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -18771,8 +18771,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="828EE0AE7FF85FA1E040007F010067C7" trl="N">
-    <value column="Name" isTrl="N" original="Automatic Deposit">Automatic Deposit</value>
-    <value column="PrintName" isTrl="N" original="Automatic Deposit">Automatic Deposit</value>
+    <value column="Name" isTrl="Y" original="Automatic Deposit">Автоматическое поступление</value>
+    <value column="PrintName" isTrl="Y" original="Automatic Deposit">Автоматическое поступление</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Automatically deposit the payment when it is processed.">Automatically deposit the payment when it is processed.</value>
     <value column="PO_Description" isTrl="N" original=""/>
