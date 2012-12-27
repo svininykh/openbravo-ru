@@ -2802,8 +2802,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="126" trl="N">
-    <value column="Name" isTrl="N" original="Table">Table</value>
-    <value column="PrintName" isTrl="N" original="Table">Table</value>
+    <value column="Name" isTrl="Y" original="Table">Таблица</value>
+    <value column="PrintName" isTrl="Y" original="Table">Таблица</value>
     <value column="Description" isTrl="N" original="A dictionary table used for this tab that points to the database table.">A dictionary table used for this tab that points to the database table.</value>
     <value column="Help" isTrl="N" original="The Table indicates the table in which a field or fields reside.">The Table indicates the table in which a field or fields reside.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3582,7 +3582,7 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="145" trl="N">
-    <value column="Name" isTrl="N" original="Data Access Level">Data Access Level</value>
+    <value column="Name" isTrl="Y" original="Data Access Level">Уровень доступа к данным</value>
     <value column="PrintName" isTrl="N" original="Data Access Level">Data Access Level</value>
     <value column="Description" isTrl="N" original="Indicates what type of data (in terms of AD_CLIENT and AD_ORG data columns) can be entered or viewed.">Indicates what type of data (in terms of AD_CLIENT and AD_ORG data columns) can be entered or viewed.</value>
     <value column="Help" isTrl="N" original="Indicates what type of data (in terms of AD_CLIENT and AD_ORG data columns) can be entered or viewed. We can classify data in 4 major categories:&#10;- System (AD_CLIENT_ID=0, AD_ORG_ID=0) - system data (such as metadata for window, tab and field definition)&#10;- Organization (AD_CLIENT&lt;&gt;0, AD_ORG_ID&lt;&gt;0) - data particular to an organization (such as sales orders)&#10;- Client/Organization (AD_CLIENT&lt;&gt;0, AD_ORG_ID=anything) - data particular to an organization or shared among all organizations within one client&#10;- Client (AD_CLIENT&lt;&gt;0, AD_ORG_ID=0) - data that is specific to a client but can be used by all organizations within that client&#10;&#10;or All (AD_CLIENT=anything, AD_ORG_ID=anything)">Indicates what type of data (in terms of AD_CLIENT and AD_ORG data columns) can be entered or viewed. We can classify data in 4 major categories:
@@ -10802,8 +10802,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="57A0D4EA69007E16E040007F01004841" trl="N">
-    <value column="Name" isTrl="N" original="Include All Columns">Include All Columns</value>
-    <value column="PrintName" isTrl="N" original="Include All Columns">Include All Columns</value>
+    <value column="Name" isTrl="Y" original="Include All Columns">Включать все столбцы</value>
+    <value column="PrintName" isTrl="Y" original="Include All Columns">Включать все столбцы</value>
     <value column="Description" isTrl="N" original="Include all columns from the table in the dataset">Include all columns from the table in the dataset</value>
     <value column="Help" isTrl="N" original="Include all columns from the table in the dataset">Include all columns from the table in the dataset</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10812,29 +10812,29 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="57A0D4EA69017E16E040007F01004841" trl="N">
-    <value column="Name" isTrl="N" original="Dataset Column">Dataset Column</value>
-    <value column="PrintName" isTrl="N" original="Dataset Column">Dataset Column</value>
-    <value column="Description" isTrl="N" original="Dataset Column">Dataset Column</value>
+    <value column="Name" isTrl="Y" original="Dataset Column">Набор данных столбца</value>
+    <value column="PrintName" isTrl="Y" original="Dataset Column">Набор данных столбца</value>
+    <value column="Description" isTrl="Y" original="Dataset Column">Набор данных столбца</value>
     <value column="Help" isTrl="N" original="Indicates the dataset table column the element forms part of.">Indicates the dataset table column the element forms part of.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="57A0D4EA69027E16E040007F01004841" trl="N">
-    <value column="Name" isTrl="N" original="Excluded">Excluded</value>
-    <value column="PrintName" isTrl="N" original="Excluded">Excluded</value>
-    <value column="Description" isTrl="N" original="Mark a column excluded from a dataset">Mark a column excluded from a dataset</value>
-    <value column="Help" isTrl="N" original="Mark a column excluded from a dataset">Mark a column excluded from a dataset</value>
+  <row id="57A0D4EA69027E16E040007F01004841" trl="Y">
+    <value column="Name" isTrl="Y" original="Excluded">Исключён</value>
+    <value column="PrintName" isTrl="Y" original="Excluded">Исключён</value>
+    <value column="Description" isTrl="Y" original="Mark a column excluded from a dataset">Отметить столбец как исключённый из набора данных.</value>
+    <value column="Help" isTrl="Y" original="Mark a column excluded from a dataset">Отметить столбец как исключённый из набора данных.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="57A0D4EA69067E16E040007F01004841" trl="N">
-    <value column="Name" isTrl="N" original="Dataset Table">Dataset Table</value>
-    <value column="PrintName" isTrl="N" original="Dataset Table">Dataset Table</value>
-    <value column="Description" isTrl="N" original="Dataset Table">Dataset Table</value>
+    <value column="Name" isTrl="Y" original="Dataset Table">Набор данных таблицы</value>
+    <value column="PrintName" isTrl="Y" original="Dataset Table">Набор данных таблицы</value>
+    <value column="Description" isTrl="Y" original="Dataset Table">Набор данных таблицы</value>
     <value column="Help" isTrl="N" original="Indicates the dataset table the element forms part of.">Indicates the dataset table the element forms part of.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -11492,8 +11492,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5AC5B513B969D9D1E040007F01001637" trl="N">
-    <value column="Name" isTrl="N" original="Export allowed">Export allowed</value>
-    <value column="PrintName" isTrl="N" original="Export allowed">Export allowed</value>
+    <value column="Name" isTrl="Y" original="Export allowed">Экспорт разрещён</value>
+    <value column="PrintName" isTrl="Y" original="Export allowed">Экспорт разрещён</value>
     <value column="Description" isTrl="N" original="This data set can be exported">This data set can be exported</value>
     <value column="Help" isTrl="N" original="This data set can be exported. There are datasets which are not meant to be exported, such as the AD dataset (which contains the set of tables which define the Application Dictionary), or the Client dataset. If the dataset needs to be exported via the Export Dataset functionality, this check should be marked. If it's going to be used for another purpose, and its data content doesn't need to be included inside the modules, then it should be unchecked. ">This data set can be exported. There are datasets which are not meant to be exported, such as the AD dataset (which contains the set of tables which define the Application Dictionary), or the Client dataset. If the dataset needs to be exported via the Export Dataset functionality, this check should be marked. If it's going to be used for another purpose, and its data content doesn't need to be included inside the modules, then it should be unchecked. </value>
     <value column="PO_Description" isTrl="N" original=""/>

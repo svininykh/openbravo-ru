@@ -162,7 +162,7 @@
     <value column="Help" isTrl="N" original="Documents tab allows to define which document types of a table allow negative posting and if they use a different accounting process than the default one based on a given accounting template.">Documents tab allows to define which document types of a table allow negative posting and if they use a different accounting process than the default one based on a given accounting template.</value>
   </row>
   <row id="101" trl="N">
-    <value column="Name" isTrl="N" original="Column">Column</value>
+    <value column="Name" isTrl="Y" original="Column">Столбец</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define columns within a table that Openbravo can access in the database.">Define columns within a table that Openbravo can access in the database.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -498,7 +498,7 @@
     <value column="Help" isTrl="N" original="Information tab allows to add relevant information of an organization, information such as location and tax ID number.">Information tab allows to add relevant information of an organization, information such as location and tax ID number.</value>
   </row>
   <row id="1705E06D88D14A0DB0907E5B0A61D8D2" trl="N">
-    <value column="Name" isTrl="N" original="Table">Table</value>
+    <value column="Name" isTrl="Y" original="Table">Таблица</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Tables of a dataset.">Tables of a dataset.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3489,7 +3489,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="99DCADEC674D4ECCB158CA5F3DDBFF83" trl="N">
-    <value column="Name" isTrl="N" original="Column">Column</value>
+    <value column="Name" isTrl="Y" original="Column">Столбец</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Columns of a Table of a dataset.">Columns of a Table of a dataset.</value>
     <value column="Filtername" isTrl="N" original=""/>
