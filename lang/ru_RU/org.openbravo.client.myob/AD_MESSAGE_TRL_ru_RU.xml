@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MESSAGE" version="">
   <row id="01E166C76B5A49E5A321738145D112B2" trl="N">
-    <value column="MsgText" isTrl="N" original="Delete this widget?">Delete this widget?</value>
+    <value column="MsgText" isTrl="Y" original="Delete this widget?">Удалить этот виджет?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="03D018ABB0414D18A1B60782C0DD1389" trl="N">
@@ -9,11 +9,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="06E9344CB05A46F0BFEF458B0407002C" trl="N">
-    <value column="MsgText" isTrl="N" original="No widgets have been added.">No widgets have been added.</value>
+    <value column="MsgText" isTrl="Y" original="No widgets have been added.">Нет виджетов для добавления.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="091F3DEA915E4A56A0F076513C33F2AE" trl="N">
-    <value column="MsgText" isTrl="N" original="Refresh">Refresh</value>
+    <value column="MsgText" isTrl="Y" original="Refresh">Обновить</value>
     <value column="MsgTip" isTrl="N" original="WMO: Widget Menu Option">WMO: Widget Menu Option</value>
   </row>
   <row id="0A3B691314614A099CFD4B599E937134" trl="N">
@@ -85,11 +85,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7EDEEA0AE0D74F37AE006AD9AB25D198" trl="N">
-    <value column="MsgText" isTrl="N" original="Manage Workspace">Manage Workspace</value>
+    <value column="MsgText" isTrl="Y" original="Manage Workspace">Управление рабочим столом</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="88A4B1F1CC734C139C60CDFD17028E35" trl="N">
-    <value column="MsgText" isTrl="N" original="Recent Views">Recent Views</value>
+    <value column="MsgText" isTrl="Y" original="Recent Views">Последнии просмотры</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="95BB721B09B04ABA812A79BBB2AD9EBF" trl="N">
@@ -97,7 +97,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9A0BD5C58B094E0884DD43D4281EDF06" trl="N">
-    <value column="MsgText" isTrl="N" original="Add Widget">Add Widget</value>
+    <value column="MsgText" isTrl="Y" original="Add Widget">Добавить виджет</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9E19BE42AD6443D28196CC71DF96D0B2" trl="N">
@@ -229,7 +229,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E9F4334012E9F4645BF0007" trl="N">
-    <value column="MsgText" isTrl="N" original="Recent Documents">Recent Documents</value>
+    <value column="MsgText" isTrl="Y" original="Recent Documents">Последнии документы</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818131E162F30131E16910BF0003" trl="N">
