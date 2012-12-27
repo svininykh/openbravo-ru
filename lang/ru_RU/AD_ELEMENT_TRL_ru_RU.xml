@@ -6459,8 +6459,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="206" trl="N">
-    <value column="Name" isTrl="N" original="Period">Period</value>
-    <value column="PrintName" isTrl="N" original="Period">Period</value>
+    <value column="Name" isTrl="Y" original="Period">Период</value>
+    <value column="PrintName" isTrl="Y" original="Period">Период</value>
     <value column="Description" isTrl="N" original="A specified time period.">A specified time period.</value>
     <value column="Help" isTrl="N" original="The Period indicates an exclusive range of dates for a calendar.">The Period indicates an exclusive range of dates for a calendar.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11332,8 +11332,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="596" trl="N">
-    <value column="Name" isTrl="N" original="Total Credit Amount">Total Credit Amount</value>
-    <value column="PrintName" isTrl="N" original="Total Credit">Total Credit</value>
+    <value column="Name" isTrl="Y" original="Total Credit Amount">Итого сумма кредита</value>
+    <value column="PrintName" isTrl="Y" original="Total Credit">Итого кредит</value>
     <value column="Description" isTrl="N" original="Total Credit in document currency">Total Credit in document currency</value>
     <value column="Help" isTrl="N" original="The Total Credit indicates the total credit amount for a journal or journal batch in the source currency">The Total Credit indicates the total credit amount for a journal or journal batch in the source currency</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11342,8 +11342,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="597" trl="N">
-    <value column="Name" isTrl="N" original="Total Debit Amount">Total Debit Amount</value>
-    <value column="PrintName" isTrl="N" original="Total Debit">Total Debit</value>
+    <value column="Name" isTrl="Y" original="Total Debit Amount">Итого сумма дебита</value>
+    <value column="PrintName" isTrl="Y" original="Total Debit">Итого дебит</value>
     <value column="Description" isTrl="N" original="Total debit in document currency">Total debit in document currency</value>
     <value column="Help" isTrl="N" original="The Total Debit indicates the total debit amount for a journal or journal batch in the source currency">The Total Debit indicates the total debit amount for a journal or journal batch in the source currency</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17341,8 +17341,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800677" trl="N">
-    <value column="Name" isTrl="N" original="Template">Template</value>
-    <value column="PrintName" isTrl="N" original="Template">Template</value>
+    <value column="Name" isTrl="Y" original="Template">Шаблон</value>
+    <value column="PrintName" isTrl="Y" original="Template">Шаблон</value>
     <value column="Description" isTrl="N" original="Is Template">Is Template</value>
     <value column="Help" isTrl="N" original="Template is checked when the element is used as a template.">Template is checked when the element is used as a template.</value>
     <value column="PO_Description" isTrl="N" original=""/>

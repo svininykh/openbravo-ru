@@ -1781,11 +1781,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="468" trl="N">
-    <value column="Name" isTrl="N" original="Total Debit Only">Total Debit Only</value>
+    <value column="Name" isTrl="Y" original="Total Debit Only">Только итог дебита</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="469" trl="N">
-    <value column="Name" isTrl="N" original="Total Credit Only">Total Credit Only</value>
+    <value column="Name" isTrl="Y" original="Total Credit Only">Только итог кредита</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="46B566C2C5AA4248A2D5FE1A1A6CA209" trl="N">
@@ -2373,7 +2373,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="58C82EFABC4743808AD3F7AAD6CCE6A2" trl="N">
-    <value column="Name" isTrl="N" original="Template">Template</value>
+    <value column="Name" isTrl="Y" original="Template">Шаблон</value>
     <value column="Description" isTrl="N" original="Contains a set of modules and a configuration script.">Contains a set of modules and a configuration script.</value>
   </row>
   <row id="5BBABB0BC5E74B919FAE36EC25F2951D" trl="N">
