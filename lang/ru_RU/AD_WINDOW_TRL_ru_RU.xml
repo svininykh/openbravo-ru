@@ -16,19 +16,19 @@
     <value column="Help" isTrl="N" original="Edit tables and columns so that Openbravo can access the database, as well as control the role access.">Edit tables and columns so that Openbravo can access the database, as well as control the role access.</value>
   </row>
   <row id="1002100000" trl="N">
-    <value column="Name" isTrl="N" original="Withholding">Правила удержания</value>
-    <value column="Description" isTrl="N" original="Withholding Rules">Правила удержания</value>
+    <value column="Name" isTrl="Y" original="Withholding">Правила удержания</value>
+    <value column="Description" isTrl="Y" original="Withholding Rules">Правила удержания</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1002100003" trl="N">
     <value column="Name" isTrl="N" original="Tax Register Type">Tax Register Type</value>
     <value column="Description" isTrl="N" original="Tax Register Type">Tax Register Type</value>
-    <value column="Help" isTrl="N" original="Type of Tax Register">Type of Tax Register</value>
+    <value column="Help" isTrl="N" original="A tax register type is used to collect all the tax rates of a type to take into account while calculating the total tax amount of a given tax register type within a period of time.">A tax register type is used to collect all the tax rates of a type to take into account while calculating the total tax amount of a given tax register type within a period of time.</value>
   </row>
   <row id="1002100004" trl="N">
     <value column="Name" isTrl="N" original="Tax Payment">Tax Payment</value>
     <value column="Description" isTrl="N" original="Tax Payment/Tax Register">Tax Payment/Tax Register</value>
-    <value column="Help" isTrl="N" original="Tax Payment where put the payment of tax and in where tax register is recorded .">Tax Payment where put the payment of tax and in where tax register is recorded .</value>
+    <value column="Help" isTrl="N" original="The &quot;Tax Payment&quot; process helps to calculate the amount of taxes to be paid to or received from the tax authority.">The &quot;Tax Payment&quot; process helps to calculate the amount of taxes to be paid to or received from the tax authority.</value>
   </row>
   <row id="1004400000" trl="N">
     <value column="Name" isTrl="N" original="Manage Requisitions">Manage Requisitions</value>
@@ -122,12 +122,15 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Description" isTrl="N" original="Define conversion rates to be used for currencies defined in the application.">Define conversion rates to be used for currencies defined in the application.</value>
     <value column="Help" isTrl="N" original="Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.">Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.</value>
   </row>
+  <row id="1163E0338E154F41BE0BA413D49821CF" trl="N">
+    <value column="Name" isTrl="N" original="Dimensions Mapping">Dimensions Mapping</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="117" trl="N">
     <value column="Name" isTrl="Y" original="Fiscal Calendar">Фискальный календарь</value>
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars and periods for accounting purposes.">Create multiple fiscal calendars and periods for accounting purposes.</value>
-    <value column="Help" isTrl="N" original="&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types inherit it from it.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization accounting practice.&#10;&#10;">"Legal entities with accounting" organization types must have a fiscal calendar assigned while rest of organization types inherit it from it.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization accounting practice.
-
-</value>
+    <value column="Help" isTrl="N" original="&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization's accounting practice.&#10;&#10;">&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization's accounting practice.&#10;&#10;</value>
   </row>
   <row id="118" trl="N">
     <value column="Name" isTrl="Y" original="Account Tree">План счетов</value>
@@ -166,9 +169,9 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="In this window you receive the material that has been returned from the customer">In this window you receive the material that has been returned from the customer</value>
   </row>
   <row id="125" trl="N">
-    <value column="Name" isTrl="N" original="General Ledger Configuration">Настройка Главной книги</value>
+    <value column="Name" isTrl="Y" original="General Ledger Configuration">Настройка Главной книги</value>
     <value column="Description" isTrl="N" original="Create and edit general ledger including dimensions and default accounts.">Create and edit general ledger including dimensions and default accounts.</value>
-    <value column="Help" isTrl="N" original="Accounting configuration.">Accounting configuration.</value>
+    <value column="Help" isTrl="N" original="The general ledger configuration drives the way that the organization's financial transactions are going to be posted to the ledger.">The general ledger configuration drives the way that the organization's financial transactions are going to be posted to the ledger.</value>
   </row>
   <row id="129" trl="N">
     <value column="Name" isTrl="N" original="Preference">Preference</value>
@@ -189,7 +192,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="132" trl="N">
     <value column="Name" isTrl="N" original="G/L Journal">G/L Journal</value>
     <value column="Description" isTrl="N" original="Create and edit manual G/L journal entries.">Create and edit manual G/L journal entries.</value>
-    <value column="Help" isTrl="N" original="General Ledger journals allow to manually enter and post accounting entries including &quot;opening&quot; balance accounts ones.">General Ledger journals allow to manually enter and post accounting entries including "opening" balance accounts ones.</value>
+    <value column="Help" isTrl="N" original="A G/L (General Ledger) journal allows to post journal entries to the ledger.">A G/L (General Ledger) journal allows to post journal entries to the ledger.</value>
   </row>
   <row id="134" trl="N">
     <value column="Name" isTrl="N" original="ABC Activity">ABC Activity</value>
@@ -236,7 +239,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="143" trl="N">
     <value column="Name" isTrl="N" original="Sales Order">Sales Order</value>
     <value column="Description" isTrl="N" original="Create orders tracking product sales to customers.">Create orders tracking product sales to customers.</value>
-    <value column="Help" isTrl="N" original="Create orders tracking product sales to customers.">Create orders tracking product sales to customers.</value>
+    <value column="Help" isTrl="N" original="A sales order is a document that specifies products and/or services ordered by a specific business partner (customer), as well as the price and terms and conditions. ">A sales order is a document that specifies products and/or services ordered by a specific business partner (customer), as well as the price and terms and conditions. </value>
   </row>
   <row id="144" trl="N">
     <value column="Name" isTrl="Y" original="Product Category">Категория товара</value>
@@ -277,7 +280,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="153" trl="N">
     <value column="Name" isTrl="N" original="Account Combination">Account Combination</value>
     <value column="Description" isTrl="N" original="Create accounting combinations to be used in Openbravo's accounting process.">Create accounting combinations to be used in Openbravo's accounting process.</value>
-    <value column="Help" isTrl="N" original="An account combination is an account (subaccount) of a given accounting schema associated to a given organization. ">An account combination is an account (subaccount) of a given accounting schema associated to a given organization. </value>
+    <value column="Help" isTrl="N" original="An account combination is an Organization's General Ledger account.">An account combination is an Organization's General Ledger account.</value>
   </row>
   <row id="158" trl="N">
     <value column="Name" isTrl="Y" original="Bank">Банк</value>
@@ -287,7 +290,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="162" trl="N">
     <value column="Name" isTrl="N" original="Accounting Transaction Details">Accounting Transaction Details</value>
     <value column="Description" isTrl="N" original="View detailed general ledger entries for a specified time period.">View detailed general ledger entries for a specified time period.</value>
-    <value column="Help" isTrl="N" original="Openbravo has an integrated accounting system that combines financial and analytical accounting. Each accounting type exploits a set of accounting dimensions.">Openbravo has an integrated accounting system that combines financial and analytical accounting. Each accounting type exploits a set of accounting dimensions.</value>
+    <value column="Help" isTrl="N" original="The accounting transaction details window is a detailed list of every ledger entry of a general ledger.">The accounting transaction details window is a detailed list of every ledger entry of a general ledger.</value>
   </row>
   <row id="163" trl="N">
     <value column="Name" isTrl="Y" original="Tree and Node Image">Планы и схемы</value>
@@ -302,7 +305,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="167" trl="N">
     <value column="Name" isTrl="Y" original="Sales Invoice">Расходная счет-фактура</value>
     <value column="Description" isTrl="N" original="Create and edit sales invoices for your customers.">Create and edit sales invoices for your customers.</value>
-    <value column="Help" isTrl="N" original="Create and edit sales invoices for your customers.">Create and edit sales invoices for your customers.</value>
+    <value column="Help" isTrl="N" original="Sales invoice window allows to issue and manage customer's invoices.">Sales invoice window allows to issue and manage customer's invoices.</value>
   </row>
   <row id="168" trl="N">
     <value column="Name" isTrl="Y" original="Physical Inventory">Инвентаризация</value>
@@ -332,7 +335,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="183" trl="N">
     <value column="Name" isTrl="Y" original="Purchase Invoice">Приходная счет-фактура</value>
     <value column="Description" isTrl="N" original="Purchase invoice window allows to register and manage suppliers invoices.">Purchase invoice window allows to register and manage suppliers invoices.</value>
-    <value column="Help" isTrl="N" original="Purchase invoice window allows to register and manage suppliers invoices.">Purchase invoice window allows to register and manage suppliers invoices.</value>
+    <value column="Help" isTrl="N" original="Purchase invoice window allows to register and manage supplier's invoices.">Purchase invoice window allows to register and manage supplier's invoices.</value>
   </row>
   <row id="184" trl="N">
     <value column="Name" isTrl="N" original="Goods Receipt">Goods Receipt</value>
@@ -372,7 +375,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="1B7B3BB7FEAF41ED8D9727AB98779D3C" trl="N">
     <value column="Name" isTrl="N" original="Payment Proposal">Payment Proposal</value>
     <value column="Description" isTrl="N" original="Generates a payment proposal for a selected payment method based on a criteria.">Generates a payment proposal for a selected payment method based on a criteria.</value>
-    <value column="Help" isTrl="N" original="A mechanism by which a user can make payment by selecting scheduled payment events for a particular payment method by due date. The system &quot;proposes&quot; what should be paid based on the selection criteria provided by the user.">A mechanism by which a user can make payment by selecting scheduled payment events for a particular payment method by due date. The system "proposes" what should be paid based on the selection criteria provided by the user.</value>
+    <value column="Help" isTrl="N" original="The payment proposal is a tool that helps the user to make payments by selecting the documents related to a given payment method or scheduled to be paid before a given due date. The system proposes what should be paid based on the selection criteria provided by the user.">The payment proposal is a tool that helps the user to make payments by selecting the documents related to a given payment method or scheduled to be paid before a given due date. The system proposes what should be paid based on the selection criteria provided by the user.</value>
   </row>
   <row id="200" trl="N">
     <value column="Name" isTrl="N" original="Field Category">Field Category</value>
@@ -442,7 +445,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="24DDE1DDF13942D78B6D6F216979E56A" trl="N">
     <value column="Name" isTrl="N" original="Execution Process">Execution Process</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Some payments types require an additional activity to be executed upon completion of the payment.">Some payments types require an additional activity to be executed upon completion of the payment.</value>
   </row>
   <row id="252" trl="N">
     <value column="Name" isTrl="N" original="Asset Group">Asset Group</value>
@@ -477,8 +480,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="260" trl="N">
     <value column="Name" isTrl="N" original="Attribute">Attribute</value>
     <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
-    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest.
-</value>
+    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest. &#10;</value>
   </row>
   <row id="264" trl="N">
     <value column="Name" isTrl="N" original="Session">Session</value>
@@ -506,7 +508,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Alerts are notifications which inform about events happening whenever an alert rule has been properly defined to monitor those events.">Alerts are notifications which inform about events happening whenever an alert rule has been properly defined to monitor those events.</value>
   </row>
   <row id="282" trl="N">
-    <value column="Name" isTrl="N" original="Freight Category">Категория фрахта</value>
+    <value column="Name" isTrl="Y" original="Freight Category">Категория фрахта</value>
     <value column="Description" isTrl="N" original="Define freight categories to be used by shippers.">Define freight categories to be used by shippers.</value>
     <value column="Help" isTrl="N" original="Define freight categories to be used by shippers.">Define freight categories to be used by shippers.</value>
   </row>
@@ -543,7 +545,12 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="3E945A9102144C16BD211D211089C2DF" trl="N">
     <value column="Name" isTrl="N" original="Costing Rules">Costing Rules</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Costing Rules are rules to be applied during cost calculation. Each rule has a valid from date and sets the costing algorithm to be used and the dimensions that are desired to apply.">Costing Rules are rules to be applied during cost calculation. Each rule has a valid from date and sets the costing algorithm to be used and the dimensions that are desired to apply.</value>
+    <value column="Help" isTrl="N" original="A costing rule is applied during cost calculation. Each rule needs to have a costing algorithm and a valid from date. Costing rules can also be defined in a way that the costs are calculated by warehouse.">A costing rule is applied during cost calculation. Each rule needs to have a costing algorithm and a valid from date. Costing rules can also be defined in a way that the costs are calculated by warehouse.</value>
+  </row>
+  <row id="442FA34D72E5423B8DDBD65DBF0ED4B6" trl="N">
+    <value column="Name" isTrl="N" original="Reservation Pick and Edit">Reservation Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="44C2799AA0644D9BB8C018933BF83F16" trl="N">
     <value column="Name" isTrl="N" original="Extension Points">Extension Points</value>
@@ -558,12 +565,17 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="557A0AA1D0D745F9A61557C05483072C" trl="N">
     <value column="Name" isTrl="N" original="Bank File Format">Bank File Format</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Openbravo allows to import a bank statement file on an organization's financial account if a bank file format is confgured for the organization.">Openbravo allows to import a bank statement file on an organization's financial account if a bank file format is confgured for the organization.</value>
   </row>
   <row id="578DD45CF2BF4D3CA27E4C0EEEF5E5E6" trl="N">
     <value column="Name" isTrl="N" original="System Info">System Info</value>
     <value column="Description" isTrl="N" original="System Info">System Info</value>
     <value column="Help" isTrl="N" original="System Info">System Info</value>
+  </row>
+  <row id="6AA84F4BDAA44477808F0E7A86AB4961" trl="N">
+    <value column="Name" isTrl="N" original="Prereservation Pick and Edit">Prereservation Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="6CB5B67ED33F47DFA334079D3EA2340E" trl="N">
     <value column="Name" isTrl="N" original="Sales Quotation">Sales Quotation</value>
@@ -578,7 +590,12 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="6F8F913FA60F4CBD93DC1D3AA696E76E" trl="N">
     <value column="Name" isTrl="N" original="Payment Out">Payment Out</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Supplier's payments and prepayments can be made and manage in the payment out window.">Supplier's payments and prepayments can be made and manage in the payment out window.</value>
+  </row>
+  <row id="79FC23AB84F04384B4B7CCCADCDD2942" trl="N">
+    <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
+    <value column="Description" isTrl="N" original="Tracks the cost of running a company. ">Tracks the cost of running a company. </value>
+    <value column="Help" isTrl="N" original="Tracks the costs that does not produce direct profit and adds to the cost of running a company. ">Tracks the costs that does not produce direct profit and adds to the cost of running a company. </value>
   </row>
   <row id="800000" trl="N">
     <value column="Name" isTrl="N" original="Auxiliary Input">Auxiliary Input</value>
@@ -681,7 +698,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit the production area by dividing them into multiple sections.">Edit the production area by dividing them into multiple sections.</value>
   </row>
   <row id="800030" trl="N">
-    <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
+    <value column="Name" isTrl="N" original="Manufacturing Cost Center">Manufacturing Cost Center</value>
     <value column="Description" isTrl="N" original="Create and edit cost centers related to production to sum up charges associated with a specific transaction.">Create and edit cost centers related to production to sum up charges associated with a specific transaction.</value>
     <value column="Help" isTrl="N" original="Create and edit cost centers related to production to sum up charges associated with a specific transaction.">Create and edit cost centers related to production to sum up charges associated with a specific transaction.</value>
   </row>
@@ -870,15 +887,25 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
     <value column="Help" isTrl="Y" original="Discounts and Promotions Types ">Виды скидок и акций</value>
   </row>
+  <row id="929DA14E43E94D4E97863133D930D769" trl="N">
+    <value column="Name" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
+    <value column="Description" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
+    <value column="Help" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
+  </row>
   <row id="94EAA455D2644E04AB25D93BE5157B6D" trl="N">
     <value column="Name" isTrl="Y" original="Financial Account">Финансовый счёт</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="A Financial Account represents an account at a financial institution such as a bank account, a credit card issuer, an electronic payment service, as well as a cash or petty cash register. ">A Financial Account represents an account at a financial institution such as a bank account, a credit card issuer, an electronic payment service, as well as a cash or petty cash register. </value>
   </row>
   <row id="95719E62321748BE854604C5364518D6" trl="N">
     <value column="Name" isTrl="N" original="RM Receipt Pick and Edit">RM Receipt Pick and Edit</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="9F13F7F5BA604C01911589C7E44FAD82" trl="N">
+    <value column="Name" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
+    <value column="Description" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
+    <value column="Help" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
   </row>
   <row id="A9FD6A5AED3546EC83DB567882646D2E" trl="N">
     <value column="Name" isTrl="N" original="Accounting Process">Accounting Process</value>
@@ -893,7 +920,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="AFE6BDF360C44B99ACA6FB5E9F51EA45" trl="N">
     <value column="Name" isTrl="N" original="Payment Run">Payment Run</value>
     <value column="Description" isTrl="N" original="This window shows all the group of payments executed together.">This window shows all the group of payments executed together.</value>
-    <value column="Help" isTrl="N" original="Each payment run will group all the payment executed together. It is possible to check the status and result of the payment run as well as the result and message of every single payment inside the payment run.">Each payment run will group all the payment executed together. It is possible to check the status and result of the payment run as well as the result and message of every single payment inside the payment run.</value>
+    <value column="Help" isTrl="N" original="The payment run window is a read-only window which shows relevant information of each payment run executed within an organization.">The payment run window is a read-only window which shows relevant information of each payment run executed within an organization.</value>
   </row>
   <row id="B15DDE526F724EBCB11439BDDB483FA6" trl="N">
     <value column="Name" isTrl="N" original="Accounting templates">Accounting templates</value>
@@ -909,6 +936,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Name" isTrl="N" original="Return to Vendor">Return to Vendor</value>
     <value column="Description" isTrl="N" original="Return to vendor (RTV). Here you enter the goods you want to return to the vendor">Return to vendor (RTV). Here you enter the goods you want to return to the vendor</value>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C85110C9334B4C26BA29BB3B91000689" trl="N">
+    <value column="Name" isTrl="N" original="Stock Reservation">Stock Reservation</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="In this window is possible to review and manage existing Reservations.">In this window is possible to review and manage existing Reservations.</value>
   </row>
   <row id="D1D0C603DFC0423099D897A0DB388AC2" trl="N">
     <value column="Name" isTrl="N" original="Matching Algorithm">Matching Algorithm</value>
@@ -928,7 +960,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="E547CE89D4C04429B6340FFA44E70716" trl="N">
     <value column="Name" isTrl="N" original="Payment In">Payment In</value>
     <value column="Description" isTrl="N" original="Window to manage the payments done by customers ">Window to manage the payments done by customers </value>
-    <value column="Help" isTrl="N" original="Window to manage the payments done by customers">Window to manage the payments done by customers</value>
+    <value column="Help" isTrl="N" original="Customer's payments and prepayments received can be recorded and managed in the payment in window.">Customer's payments and prepayments received can be recorded and managed in the payment in window.</value>
   </row>
   <row id="E56E701CCBA14B8BA480CBDE37C50D7A" trl="N">
     <value column="Name" isTrl="Y" original="Open/Close Period Control">Контроль открытия/закрытия периода</value>

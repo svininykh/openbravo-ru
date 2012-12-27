@@ -2,17 +2,17 @@
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="C_UOM" version="">
   <row id="100" trl="Y">
     <value column="Name" isTrl="Y" original="Unit">Единица</value>
-    <value column="Description" isTrl="Y" original=""/>
+    <value column="Description" isTrl="N" original=""/>
     <value column="UOMSymbol" isTrl="Y" original="Ud ">Ед.</value>
   </row>
   <row id="101" trl="Y">
     <value column="Name" isTrl="Y" original="Hour">Час</value>
-    <value column="Description" isTrl="Y" original=""/>
-    <value column="UOMSymbol" isTrl="Y" original="h  ">ч.</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="UOMSymbol" isTrl="Y" original="h  ">ч. </value>
   </row>
   <row id="102" trl="Y">
     <value column="Name" isTrl="Y" original="Day">Дней</value>
-    <value column="Description" isTrl="Y" original=""/>
+    <value column="Description" isTrl="N" original=""/>
     <value column="UOMSymbol" isTrl="Y" original="d  ">дн.</value>
   </row>
   <row id="103" trl="Y">
@@ -42,7 +42,7 @@
   </row>
   <row id="108" trl="Y">
     <value column="Name" isTrl="Y" original="Year">Год</value>
-    <value column="Description" isTrl="Y" original=""/>
+    <value column="Description" isTrl="N" original=""/>
     <value column="UOMSymbol" isTrl="Y" original="Y  ">год</value>
   </row>
   <row id="2EBC93C05D75431E9EEFB29CEC76F244" trl="Y">
@@ -57,7 +57,7 @@
   </row>
   <row id="72BA247D31F745F3AF11F74A5E2CCBEF" trl="Y">
     <value column="Name" isTrl="Y" original="Kilogram">Килограмм</value>
-    <value column="Description" isTrl="Y" original=""/>
+    <value column="Description" isTrl="N" original=""/>
     <value column="UOMSymbol" isTrl="Y" original="kg ">кг.</value>
   </row>
 </compiereTrl>
