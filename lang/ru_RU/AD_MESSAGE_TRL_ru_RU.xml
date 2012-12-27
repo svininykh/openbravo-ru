@@ -836,11 +836,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for grid column translation in Account selector">Used for grid column translation in Account selector</value>
   </row>
   <row id="1006300013" trl="N">
-    <value column="MsgText" isTrl="N" original="Account">Account</value>
+    <value column="MsgText" isTrl="Y" original="Account">Счёт</value>
     <value column="MsgTip" isTrl="N" original="Used for grid column translation in Account selector">Used for grid column translation in Account selector</value>
   </row>
   <row id="1006300014" trl="N">
-    <value column="MsgText" isTrl="N" original="Product">Product</value>
+    <value column="MsgText" isTrl="Y" original="Product">Товар</value>
     <value column="MsgTip" isTrl="N" original="Used for grid column translation in Account selector">Used for grid column translation in Account selector</value>
   </row>
   <row id="1006300015" trl="N">
@@ -2365,15 +2365,15 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="295" trl="N">
-    <value column="MsgText" isTrl="N" original="Ignore changes">Ignore changes</value>
+    <value column="MsgText" isTrl="Y" original="Ignore changes">Игнорировать изменения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="296" trl="N">
-    <value column="MsgText" isTrl="N" original="Could not ignore changes:">Could not ignore changes:</value>
+    <value column="MsgText" isTrl="Y" original="Could not ignore changes:">Невозможно игнорировать изменения:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="297" trl="N">
-    <value column="MsgText" isTrl="N" original="Changes ignored">Changes ignored</value>
+    <value column="MsgText" isTrl="Y" original="Changes ignored">Изменения проигнорированные</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="298" trl="N">
@@ -7983,19 +7983,19 @@ Press 'Cancel' to go back or 'OK' to discard them and continue with your action.
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE38321540030" trl="N">
-    <value column="MsgText" isTrl="N" original="New">New</value>
+    <value column="MsgText" isTrl="Y" original="New">Новый</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE384968A0035" trl="N">
-    <value column="MsgText" isTrl="N" original="Pending">Pending</value>
+    <value column="MsgText" isTrl="Y" original="Pending">Ожидает</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE3854B280039" trl="N">
-    <value column="MsgText" isTrl="N" original="Ignore">Ignore</value>
+    <value column="MsgText" isTrl="Y" original="Ignore">Проигнорированны</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE3857935003C" trl="N">
-    <value column="MsgText" isTrl="N" original="Solved">Solved</value>
+    <value column="MsgText" isTrl="Y" original="Solved">Решено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EFD7CD9012EFD9B49970172" trl="N">

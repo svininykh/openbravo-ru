@@ -1360,8 +1360,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1007400000" trl="N">
-    <value column="Name" isTrl="N" original="Allow negative">Allow negative</value>
-    <value column="PrintName" isTrl="N" original="Allow negative">Allow negative</value>
+    <value column="Name" isTrl="Y" original="Allow negative">Допускает отрицательные значения</value>
+    <value column="PrintName" isTrl="Y" original="Allow negative">Допускает отрицательные значения</value>
     <value column="Description" isTrl="N" original="Allow negative entries in credit and debit">Allow negative entries in credit and debit</value>
     <value column="Help" isTrl="N" original="Allow negative entries in credit and debit">Allow negative entries in credit and debit</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2032,8 +2032,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1100" trl="N">
-    <value column="Name" isTrl="N" original="Is Bank Account">Is Bank Account</value>
-    <value column="PrintName" isTrl="N" original="Is Bank Account">Is Bank Account</value>
+    <value column="Name" isTrl="Y" original="Is Bank Account">Это банковский счёт</value>
+    <value column="PrintName" isTrl="Y" original="Is Bank Account">Это банковский счёт</value>
     <value column="Description" isTrl="N" original="A monetary account of funds held in a recognized banking institution.">A monetary account of funds held in a recognized banking institution.</value>
     <value column="Help" isTrl="N" original="The Bank Account checkbox indicates if this is account is the bank account.">The Bank Account checkbox indicates if this is account is the bank account.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3608,8 +3608,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="146" trl="N">
-    <value column="Name" isTrl="N" original="Account Sign">Account Sign</value>
-    <value column="PrintName" isTrl="N" original="Sign">Sign</value>
+    <value column="Name" isTrl="Y" original="Account Sign">Знак счёта</value>
+    <value column="PrintName" isTrl="Y" original="Sign">Знак счёта</value>
     <value column="Description" isTrl="N" original="Indicates the Natural Sign of the Account as a Debit or Credit">Indicates the Natural Sign of the Account as a Debit or Credit</value>
     <value column="Help" isTrl="N" original="Indicates if the expected balance for this account should be a Debit or a Credit.">Indicates if the expected balance for this account should be a Debit or a Credit.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3618,9 +3618,9 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1461" trl="N">
-    <value column="Name" isTrl="N" original="Account Type">Account Type</value>
-    <value column="PrintName" isTrl="N" original="Account type">Account type</value>
-    <value column="Description" isTrl="N" original="Bank Account Type">Bank Account Type</value>
+    <value column="Name" isTrl="Y" original="Account Type">Тип банковского счёта</value>
+    <value column="PrintName" isTrl="Y" original="Account type">Тип банковского счёта</value>
+    <value column="Description" isTrl="Y" original="Bank Account Type">Тип банковского счёта</value>
     <value column="Help" isTrl="N" original="The Bank Account Type field indicates the type of account (savings, checking etc) this account  is defined as.">The Bank Account Type field indicates the type of account (savings, checking etc) this account  is defined as.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -3748,8 +3748,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="148" trl="N">
-    <value column="Name" isTrl="N" original="Account">Account</value>
-    <value column="PrintName" isTrl="N" original="Account">Account</value>
+    <value column="Name" isTrl="Y" original="Account">Счёт</value>
+    <value column="PrintName" isTrl="Y" original="Account">Счёт</value>
     <value column="Description" isTrl="N" original="The identification code used for accounting.">The identification code used for accounting.</value>
     <value column="Help" isTrl="N" original="The (natural) account used">The (natural) account used</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4839,8 +4839,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1706" trl="N">
-    <value column="Name" isTrl="N" original="All Nodes">All Nodes</value>
-    <value column="PrintName" isTrl="N" original="All Nodes">All Nodes</value>
+    <value column="Name" isTrl="Y" original="All Nodes">Все узлы</value>
+    <value column="PrintName" isTrl="Y" original="All Nodes">Все узлы</value>
     <value column="Description" isTrl="N" original="All Nodes are included">All Nodes are included</value>
     <value column="Help" isTrl="N" original="If this field is checked all nodes are included">If this field is checked all nodes are included</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5959,8 +5959,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="198" trl="N">
-    <value column="Name" isTrl="N" original="Account Element">Account Element</value>
-    <value column="PrintName" isTrl="N" original="Account Element">Account Element</value>
+    <value column="Name" isTrl="Y" original="Account Element">Бухгалтерский счёт</value>
+    <value column="PrintName" isTrl="Y" original="Account Element">Бухгалтерский счёт</value>
     <value column="Description" isTrl="N" original="A identification code for an account type.">A identification code for an account type.</value>
     <value column="Help" isTrl="N" original="Account Elements can be natural accounts or user defined values.">Account Elements can be natural accounts or user defined values.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7410,8 +7410,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="293" trl="N">
-    <value column="Name" isTrl="N" original="Type">Type</value>
-    <value column="PrintName" isTrl="N" original="Type">Type</value>
+    <value column="Name" isTrl="Y" original="Type">Тип</value>
+    <value column="PrintName" isTrl="Y" original="Type">Тип</value>
     <value column="Description" isTrl="N" original="A distinct item characteristic used for processes and sometimes grouped within a category.">A distinct item characteristic used for processes and sometimes grouped within a category.</value>
     <value column="Help" isTrl="N" original="The Element Type indicates if this element is the Account element or is a User Defined element.">The Element Type indicates if this element is the Account element or is a User Defined element.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7560,9 +7560,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="307" trl="N">
-    <value column="Name" isTrl="N" original="Accounting Standard">Accounting Standard</value>
-    <value column="PrintName" isTrl="N" original="Accounting Standard">Accounting Standard</value>
-    <value column="Description" isTrl="N" original="Accounting Standard">Accounting Standard</value>
+    <value column="Name" isTrl="Y" original="Accounting Standard">Стандарт бухгалтерского учёта</value>
+    <value column="PrintName" isTrl="Y" original="Accounting Standard">Стандарт бухгалтерского учёта</value>
+    <value column="Description" isTrl="Y" original="Accounting Standard">Стандарт бухгалтерского учёта</value>
     <value column="Help" isTrl="N" original="The Accounting Standard identifies the account principles that this accounting schema will adhere to.">The Accounting Standard identifies the account principles that this accounting schema will adhere to.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -7870,9 +7870,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="354" trl="N">
-    <value column="Name" isTrl="N" original="Balanced">Balanced</value>
-    <value column="PrintName" isTrl="N" original="Balanced">Balanced</value>
-    <value column="Description" isTrl="N" original="Balanced">Balanced</value>
+    <value column="Name" isTrl="Y" original="Balanced">Балансовый</value>
+    <value column="PrintName" isTrl="Y" original="Balanced">Балансовый</value>
+    <value column="Description" isTrl="Y" original="Balanced">Балансовый</value>
     <value column="Help" isTrl="N" original="Needs to be balanced.">Needs to be balanced.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10191,9 +10191,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="565" trl="N">
-    <value column="Name" isTrl="N" original="Element separator">Element separator</value>
-    <value column="PrintName" isTrl="N" original="Element Separator">Element Separator</value>
-    <value column="Description" isTrl="N" original="Element Separator">Element Separator</value>
+    <value column="Name" isTrl="Y" original="Element separator">Разделитель элементов</value>
+    <value column="PrintName" isTrl="Y" original="Element Separator">Разделитель элементов</value>
+    <value column="Description" isTrl="Y" original="Element Separator">Разделитель элементов</value>
     <value column="Help" isTrl="N" original="The Element Separator defines the delimiter printed between elements of the structure">The Element Separator defines the delimiter printed between elements of the structure</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10992,8 +10992,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="58488161BB7C7382E040007F01002D6A" trl="N">
-    <value column="Name" isTrl="N" original="Type">Type</value>
-    <value column="PrintName" isTrl="N" original="Type">Type</value>
+    <value column="Name" isTrl="Y" original="Type">Тип</value>
+    <value column="PrintName" isTrl="Y" original="Type">Тип</value>
     <value column="Description" isTrl="N" original="Type of entry (Normal, Closing, Opening, Regularization)">Type of entry (Normal, Closing, Opening, Regularization)</value>
     <value column="Help" isTrl="N" original="Type of entry (Normal, Closing, Opening, Regularization)">Type of entry (Normal, Closing, Opening, Regularization)</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11642,8 +11642,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="600" trl="N">
-    <value column="Name" isTrl="N" original="Type">Type</value>
-    <value column="PrintName" isTrl="N" original="Type">Type</value>
+    <value column="Name" isTrl="Y" original="Type">Тип</value>
+    <value column="PrintName" isTrl="Y" original="Type">Тип</value>
     <value column="Description" isTrl="N" original="A distinct item characteristic used for processes and sometimes grouped within a category.">A distinct item characteristic used for processes and sometimes grouped within a category.</value>
     <value column="Help" isTrl="N" original="The Type indicates the type of validation that will occur.  This can be SQL, Java Script or Java Language.">The Type indicates the type of validation that will occur.  This can be SQL, Java Script or Java Language.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11802,8 +11802,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="616" trl="N">
-    <value column="Name" isTrl="N" original="Value Format">Value Format</value>
-    <value column="PrintName" isTrl="N" original="Value Format">Value Format</value>
+    <value column="Name" isTrl="Y" original="Value Format">Формат значения</value>
+    <value column="PrintName" isTrl="Y" original="Value Format">Формат значения</value>
     <value column="Description" isTrl="N" original="Value Format is the format the value will be displayed with.">Value Format is the format the value will be displayed with.</value>
     <value column="Help" isTrl="N" original="Value Format is the format the value will be displayed with.">Value Format is the format the value will be displayed with.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13721,10 +13721,10 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800053" trl="N">
-    <value column="Name" isTrl="N" original="Element Shown">Element Shown</value>
-    <value column="PrintName" isTrl="N" original="Show element">Show element</value>
-    <value column="Description" isTrl="N" original="Show element">Show element</value>
-    <value column="Help" isTrl="N" original="Displays this element.">Displays this element.</value>
+    <value column="Name" isTrl="Y" original="Element Shown">Отображать элемент</value>
+    <value column="PrintName" isTrl="Y" original="Show element">Отображать элемент</value>
+    <value column="Description" isTrl="Y" original="Show element">Отображать элемент</value>
+    <value column="Help" isTrl="Y" original="Displays this element.">Отображать данный элемент.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -13741,9 +13741,9 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800055" trl="N">
-    <value column="Name" isTrl="N" original="Sign">Sign</value>
-    <value column="PrintName" isTrl="N" original="Sign">Sign</value>
-    <value column="Description" isTrl="N" original="Sign">Sign</value>
+    <value column="Name" isTrl="Y" original="Sign">Знак</value>
+    <value column="PrintName" isTrl="Y" original="Sign">Знак</value>
+    <value column="Description" isTrl="Y" original="Sign">Знак</value>
     <value column="Help" isTrl="N" original="Sign applied to the operand to calculate the amount of the element value.">Sign applied to the operand to calculate the amount of the element value.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -14061,9 +14061,9 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800102" trl="N">
-    <value column="Name" isTrl="N" original="Element Level">Element Level</value>
-    <value column="PrintName" isTrl="N" original="Element Level">Element Level</value>
-    <value column="Description" isTrl="N" original="Element Level">Element Level</value>
+    <value column="Name" isTrl="Y" original="Element Level">Уровень счёта</value>
+    <value column="PrintName" isTrl="Y" original="Element Level">Уровень счёта</value>
+    <value column="Description" isTrl="Y" original="Element Level">Уровень счёта</value>
     <value column="Help" isTrl="N" original="Indicates the level of the account (heading, account, breakdown or subaccount).">Indicates the level of the account (heading, account, breakdown or subaccount).</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -14071,9 +14071,9 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800103" trl="N">
-    <value column="Name" isTrl="N" original="Show Value Condition">Show Value Condition</value>
-    <value column="PrintName" isTrl="N" original="ShowValueCond">ShowValueCond</value>
-    <value column="Description" isTrl="N" original="Show Value Condition">Show Value Condition</value>
+    <value column="Name" isTrl="Y" original="Show Value Condition">Рассчёт значения</value>
+    <value column="PrintName" isTrl="Y" original="ShowValueCond">Рассчёт значения</value>
+    <value column="Description" isTrl="Y" original="Show Value Condition">Рассчёт значения</value>
     <value column="Help" isTrl="N" original="Condition to show value. when algebraic it is always displayed, when positive it is shown only if the amount is positive and when negative it is shown only if the amount is negative.">Condition to show value. when algebraic it is always displayed, when positive it is shown only if the amount is positive and when negative it is shown only if the amount is negative.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -19983,8 +19983,8 @@ If the payment does not have a generated credit amount is the amount of credit u
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="919" trl="N">
-    <value column="Name" isTrl="N" original="Foreign Currency Account">Foreign Currency Account</value>
-    <value column="PrintName" isTrl="N" original="Foreign Currency">Foreign Currency</value>
+    <value column="Name" isTrl="Y" original="Foreign Currency Account">Счёт в иностранной валюте</value>
+    <value column="PrintName" isTrl="Y" original="Foreign Currency">Счёт в иностранной валюте</value>
     <value column="Description" isTrl="N" original="Balances in foreign currency accounts are held in the nominated currency">Balances in foreign currency accounts are held in the nominated currency</value>
     <value column="Help" isTrl="N" original="Balances in foreign currency accounts are held in the nominated currency and translated to functional currency">Balances in foreign currency accounts are held in the nominated currency and translated to functional currency</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20628,8 +20628,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="9E96304962F87A34E040007F01006BDB" trl="N">
-    <value column="Name" isTrl="N" original="Title Node">Title Node</value>
-    <value column="PrintName" isTrl="N" original="Title Node">Title Node</value>
+    <value column="Name" isTrl="Y" original="Title Node">Уровень заглавия</value>
+    <value column="PrintName" isTrl="Y" original="Title Node">Уровень заглавия</value>
     <value column="Description" isTrl="N" original="A node flagged as &quot;Title Node&quot;, will always be displayed in the report, even if the balance is 0, and the &quot;Show only accounts with value&quot; is flagged.">A node flagged as "Title Node", will always be displayed in the report, even if the balance is 0, and the "Show only accounts with value" is flagged.</value>
     <value column="Help" isTrl="N" original="A node flagged as &quot;Title Node&quot;, will always be displayed in the report, even if the balance is 0, and the &quot;Show only accounts with value&quot; is flagged.">A node flagged as "Title Node", will always be displayed in the report, even if the balance is 0, and the "Show only accounts with value" is flagged.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22269,8 +22269,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="E0AAAEDD15444468A96DDAF14AF227F2" trl="N">
-    <value column="Name" isTrl="N" original="Type">Type</value>
-    <value column="PrintName" isTrl="N" original="Type">Type</value>
+    <value column="Name" isTrl="Y" original="Type">Тип</value>
+    <value column="PrintName" isTrl="Y" original="Type">Тип</value>
     <value column="Description" isTrl="N" original="Type of beat">Type of beat</value>
     <value column="Help" isTrl="N" original="The different type of beats: enabling heartbeat, disabling heartbeat, scheduled beat, unknown">The different type of beats: enabling heartbeat, disabling heartbeat, scheduled beat, unknown</value>
     <value column="PO_Description" isTrl="N" original=""/>

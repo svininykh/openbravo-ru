@@ -351,7 +351,7 @@
     <value column="Help" isTrl="N" original="Non business days can be listed in this tab as a way of stating non working days for an organization and a calendar to be taken into account while calculating for instance payment dates.">Non business days can be listed in this tab as a way of stating non working days for an organization and a calendar to be taken into account while calculating for instance payment dates.</value>
   </row>
   <row id="132" trl="N">
-    <value column="Name" isTrl="Y" original="Element Value">Структура элементов</value>
+    <value column="Name" isTrl="Y" original="Element Value">Значение счёта</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add and edit elements and edit elements tree structures.">Add and edit elements and edit elements tree structures.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -652,7 +652,7 @@
     <value column="Help" isTrl="N" original="Conversion rates window allow to create the rates to be used for multi currency transactions.">Conversion rates window allow to create the rates to be used for multi currency transactions.</value>
   </row>
   <row id="199" trl="N">
-    <value column="Name" isTrl="Y" original="General Ledger Configuration">Настройка Главной книги</value>
+    <value column="Name" isTrl="Y" original="General Ledger Configuration">Параметры Главной книги</value>
     <value column="CommitWarning" isTrl="N" original="For changes to become effective, you must re-login and re-start the Application Server.">For changes to become effective, you must re-login and re-start the Application Server.</value>
     <value column="Description" isTrl="N" original="Create multiple general ledger">Create multiple general ledger</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -778,7 +778,7 @@
     <value column="Help" isTrl="N" original="The Cities Tab defines Cities within a Country or Region.  Cities entered here are not referenced when entering the address.">The Cities Tab defines Cities within a Country or Region.  Cities entered here are not referenced when entering the address.</value>
   </row>
   <row id="217" trl="N">
-    <value column="Name" isTrl="N" original="Dimension">Dimension</value>
+    <value column="Name" isTrl="Y" original="Dimension">Субконто</value>
     <value column="CommitWarning" isTrl="N" original="ATTENTION: ANY CHANGES here will effect the structure of your chart of accounts!&#10;For changes to become effective, you must re-login and re-start the Application Server."/>
     <value column="Description" isTrl="N" original="Holds the list of dimensions enabled by this ledger.">Holds the list of dimensions enabled by this ledger.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -820,7 +820,7 @@
     <value column="Help" isTrl="N" original="A business partner can be set up as employee once the check-box &quot;Employee&quot; is enabled.">A business partner can be set up as employee once the check-box "Employee" is enabled.</value>
   </row>
   <row id="226" trl="N">
-    <value column="Name" isTrl="N" original="Bank Account">Bank Account</value>
+    <value column="Name" isTrl="Y" original="Bank Account">Банковский счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define bank accounts to be used for monetary transactions with this business partner.">Define bank accounts to be used for monetary transactions with this business partner.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1073,7 +1073,7 @@
     <value column="Help" isTrl="N" original="Tax categories can be translated to any language required.">Tax categories can be translated to any language required.</value>
   </row>
   <row id="2845D761A8394468BD3BA4710AA888D4" trl="N">
-    <value column="Name" isTrl="N" original="Account">Account</value>
+    <value column="Name" isTrl="Y" original="Account">Финансовый счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>

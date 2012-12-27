@@ -802,10 +802,10 @@
     <value column="Text" isTrl="N" original="Actual">Actual</value>
   </row>
   <row id="1005500024" trl="N">
-    <value column="Text" isTrl="N" original="AccountSchema">AccountSchema</value>
+    <value column="Text" isTrl="Y" original="AccountSchema">План счетов</value>
   </row>
   <row id="1005500025" trl="N">
-    <value column="Text" isTrl="N" original="Account Element">Account Element</value>
+    <value column="Text" isTrl="Y" original="Account Element">Бухгалтерский счёт</value>
   </row>
   <row id="1005900000" trl="N">
     <value column="Text" isTrl="N" original="Expense Sales Order Process">Expense Sales Order Process</value>
@@ -4253,10 +4253,10 @@
     <value column="Text" isTrl="N" original="Traceability report">Traceability report</value>
   </row>
   <row id="807384" trl="N">
-    <value column="Text" isTrl="N" original="Transaction type">Transaction type</value>
+    <value column="Text" isTrl="Y" original="Transaction type">Тип транзакции</value>
   </row>
   <row id="807385" trl="N">
-    <value column="Text" isTrl="N" original="Type">Type</value>
+    <value column="Text" isTrl="Y" original="Type">Тип</value>
   </row>
   <row id="807388" trl="N">
     <value column="Text" isTrl="N" original="URL">URL</value>

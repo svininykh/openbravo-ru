@@ -409,47 +409,47 @@
     <value column="Description" isTrl="Y" original="Period without calendar days">Период без календарных дней</value>
   </row>
   <row id="118" trl="N">
-    <value column="Name" isTrl="N" original="Account">Account</value>
-    <value column="Description" isTrl="N" original="Account Element">Account Element</value>
+    <value column="Name" isTrl="Y" original="Account">Бухгалтерский счёт</value>
+    <value column="Description" isTrl="Y" original="Account Element">Бухгалтерский счёт</value>
   </row>
   <row id="119" trl="N">
     <value column="Name" isTrl="N" original="User defined">User defined</value>
     <value column="Description" isTrl="N" original="User defined element">User defined element</value>
   </row>
   <row id="120" trl="N">
-    <value column="Name" isTrl="N" original="Asset">Asset</value>
+    <value column="Name" isTrl="Y" original="Asset">Активный</value>
     <value column="Description" isTrl="N" original="Asset (Balance Sheet) Account">Asset (Balance Sheet) Account</value>
   </row>
   <row id="121" trl="N">
-    <value column="Name" isTrl="N" original="Liability">Liability</value>
+    <value column="Name" isTrl="Y" original="Liability">Пассивный</value>
     <value column="Description" isTrl="N" original="Liability (Balance Sheet) Account">Liability (Balance Sheet) Account</value>
   </row>
   <row id="122" trl="N">
-    <value column="Name" isTrl="N" original="Revenue">Revenue</value>
+    <value column="Name" isTrl="Y" original="Revenue">Доходный</value>
     <value column="Description" isTrl="N" original="Revenue (P&amp;L) Account">Revenue (P&amp;L) Account</value>
   </row>
   <row id="123" trl="N">
-    <value column="Name" isTrl="N" original="Expense">Expense</value>
+    <value column="Name" isTrl="Y" original="Expense">Расходный</value>
     <value column="Description" isTrl="N" original="Expense (P&amp;L) Account">Expense (P&amp;L) Account</value>
   </row>
   <row id="124" trl="N">
-    <value column="Name" isTrl="N" original="Owner's Equity">Owner's Equity</value>
+    <value column="Name" isTrl="Y" original="Owner's Equity">Капитал</value>
     <value column="Description" isTrl="N" original="Owner's Equity (Balance Sheet) Account">Owner's Equity (Balance Sheet) Account</value>
   </row>
   <row id="125" trl="N">
-    <value column="Name" isTrl="N" original="Memo">Memo</value>
+    <value column="Name" isTrl="Y" original="Memo">Забалансовый</value>
     <value column="Description" isTrl="N" original="Memo (Non Balance Sheet nor P&amp;L) Account">Memo (Non Balance Sheet nor P&amp;L) Account</value>
   </row>
   <row id="126" trl="N">
-    <value column="Name" isTrl="N" original="Natural">Natural</value>
+    <value column="Name" isTrl="Y" original="Natural">Натуральный</value>
     <value column="Description" isTrl="N" original="Natural sign of the Account Type">Natural sign of the Account Type</value>
   </row>
   <row id="127" trl="N">
-    <value column="Name" isTrl="N" original="Debit">Debit</value>
+    <value column="Name" isTrl="Y" original="Debit">Дебит</value>
     <value column="Description" isTrl="N" original="Debit Balance Account">Debit Balance Account</value>
   </row>
   <row id="128" trl="N">
-    <value column="Name" isTrl="N" original="Credit">Credit</value>
+    <value column="Name" isTrl="Y" original="Credit">Кредит</value>
     <value column="Description" isTrl="N" original="Credit Balance Account">Credit Balance Account</value>
   </row>
   <row id="129" trl="N">
@@ -4213,7 +4213,7 @@
     <value column="Description" isTrl="N" original="Implements Payment Priority feature">Implements Payment Priority feature</value>
   </row>
   <row id="FF8080812EC85BDE012EC8B32FD90022" trl="N">
-    <value column="Name" isTrl="N" original="New">New</value>
+    <value column="Name" isTrl="Y" original="New">Новый</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EC85BDE012EC8B445AF0028" trl="N">
