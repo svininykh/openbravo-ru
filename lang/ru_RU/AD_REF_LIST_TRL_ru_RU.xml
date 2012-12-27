@@ -1157,7 +1157,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="2F98263E2FDA44D9B435E2028463077C" trl="N">
-    <value column="Name" isTrl="N" original="Every n days">Every n days</value>
+    <value column="Name" isTrl="Y" original="Every n days">Каждые n дней</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="302" trl="N">
@@ -1185,7 +1185,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="308" trl="N">
-    <value column="Name" isTrl="N" original="Sales Order">Sales Order</value>
+    <value column="Name" isTrl="Y" original="Sales Order">Расходная накладная</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="312" trl="N">
@@ -1481,7 +1481,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="381" trl="N">
-    <value column="Name" isTrl="N" original="Exchange Rates">Exchange Rates</value>
+    <value column="Name" isTrl="Y" original="Exchange Rates">Курсы обмена</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="382" trl="N">
@@ -3173,19 +3173,19 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800191" trl="N">
-    <value column="Name" isTrl="N" original="Debit">Debit</value>
+    <value column="Name" isTrl="Y" original="Debit">Дебит</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800192" trl="N">
-    <value column="Name" isTrl="N" original="Credit">Credit</value>
+    <value column="Name" isTrl="Y" original="Credit">Кредит</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800193" trl="N">
-    <value column="Name" isTrl="N" original="Credit-Debit">Credit-Debit</value>
+    <value column="Name" isTrl="Y" original="Credit-Debit">Кредит-Дебит</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800194" trl="N">
-    <value column="Name" isTrl="N" original="Debit-Credit">Debit-Credit</value>
+    <value column="Name" isTrl="Y" original="Debit-Credit">Дебит-Кредит</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800195" trl="N">

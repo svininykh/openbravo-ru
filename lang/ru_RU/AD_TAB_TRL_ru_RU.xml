@@ -316,7 +316,7 @@
     <value column="Help" isTrl="N" original="Roles are the connection between users and access rights. Each user can have more than one role assigned,  however a user can only log into Openbravo by using just one role. ">Roles are the connection between users and access rights. Each user can have more than one role assigned,  however a user can only log into Openbravo by using just one role. </value>
   </row>
   <row id="127" trl="N">
-    <value column="Name" isTrl="Y" original="Conversion Rates">Курсы обмена</value>
+    <value column="Name" isTrl="Y" original="Conversion Rates">Курсы конвертации</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Conversion rates tab list the available conversion rates for a given currency.">Conversion rates tab list the available conversion rates for a given currency.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -729,42 +729,42 @@
     <value column="Help" isTrl="N" original="The Account Combination window allows to review the Organization's General Ledger accounts.">The Account Combination window allows to review the accounts of an accounting schema. </value>
   </row>
   <row id="209" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected warehouse.">Create and edit G/L accounts to be used in transactions including a selected warehouse.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected warehouse.">Create and edit G/L accounts to be used in transactions including a selected warehouse.</value>
   </row>
   <row id="210" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected product.">Create and edit G/L accounts to be used in transactions including a selected product.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Accounting tab allows to configure the ledger accounts to be used while posting product related transactions such as product purchase or sales to the general ledger.">Accounting tab allows to configure the ledger accounts to be used while posting product related transactions such as product purchase or sales. </value>
   </row>
   <row id="211" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define Project Accounting">Define Project Accounting</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Define Project Accounting">Define Project Accounting</value>
   </row>
   <row id="212" trl="N">
-    <value column="Name" isTrl="Y" original="Customer Accounting">Бухгалтерия клиента</value>
+    <value column="Name" isTrl="Y" original="Customer Accounting">Проводки клиента</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected customer.">Create and edit G/L accounts to be used in transactions including a selected customer.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Customer accounting tab allows you to configure the ledger accounts to be used while posting customer related transactions such as customer receivables and customer advances to the general ledger.">Customer accounting tab allows you to configure the ledger accounts to be used while posting customer related transactions such as customer receivables and customer advances.</value>
   </row>
   <row id="213" trl="N">
-    <value column="Name" isTrl="Y" original="Vendor Accounting">Бухгалтерия поставщика</value>
+    <value column="Name" isTrl="Y" original="Vendor Accounting">Проводки поставщика</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected vendor.">Create and edit G/L accounts to be used in transactions including a selected vendor.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Vendor accounting tab allows you to configure the ledger accounts to be used while posting vendor related transactions such as vendor liabilities and vendor advanced payments to the general ledger.">Vendor accounting tab allows you to configure the ledger accounts to be used while posting vendor related transactions such as vendor liabilities and vendor advanced payments.</value>
   </row>
   <row id="214" trl="N">
-    <value column="Name" isTrl="Y" original="Employee Accounting">Бухгалтерия работника</value>
+    <value column="Name" isTrl="Y" original="Employee Accounting">Проводки работника</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected employee.">Create and edit G/L accounts to be used in transactions including a selected employee.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1283,21 +1283,21 @@
     <value column="Help" isTrl="N" original="Business partner category window allows you to create and configure every business partner category your company may need.">Business partner category window allows you to create and configure every business partner category your company may need.</value>
   </row>
   <row id="323" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected business partner group.">Create and edit G/L accounts to be used in transactions including a selected business partner group.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Each business partner category allows you to configure a different set of ledger accounts.">Each business partner category allows you to configure a different set of ledger accounts.</value>
   </row>
   <row id="324" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected product category.">Create and edit G/L accounts to be used in transactions including a selected product category.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Each product category allows you to configure a different set of ledger accounts. ">Each product category allows you to configure a different set of ledger accounts. </value>
   </row>
   <row id="327" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected bank.">Create and edit G/L accounts to be used in transactions including a selected bank.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1318,7 +1318,7 @@
     <value column="Help" isTrl="N" original="Add bank statement lines. Each line represents a particular transaction included in the received bank statement.">Add bank statement lines. Each line represents a particular transaction included in the received bank statement.</value>
   </row>
   <row id="333" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected tax rate.">Create and edit G/L accounts to be used in transactions including a selected tax rate.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1332,7 +1332,7 @@
     <value column="Help" isTrl="N" original="Define cashbooks to be used for the company's cash transactions.">Define cashbooks to be used for the company's cash transactions.</value>
   </row>
   <row id="337" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected cashbook.">Create and edit G/L accounts to be used in transactions including a selected cashbook.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1592,7 +1592,7 @@
     <value column="Help" isTrl="N" original="Maintain Resource types and their principal availability.">Maintain Resource types and their principal availability.</value>
   </row>
   <row id="419" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create an account number for the expense type in order to manage the General Ledger Accounting.">Create an account number for the expense type in order to manage the General Ledger Accounting.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1613,7 +1613,7 @@
     <value column="Help" isTrl="N" original="Resource Pricing">Resource Pricing</value>
   </row>
   <row id="422" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define Accounting Parameters">Define Accounting Parameters</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2321,7 +2321,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="G/L Item window allows to create as many account items as required for an organization and general ledger.">G/L Item window allows to create as many account items as required for an organization and general ledger.</value>
   </row>
   <row id="800034" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create an account number for the G/L item in order to manage the General Ledger Accounting.">Create an account number for the G/L item in order to manage the General Ledger Accounting.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2699,7 +2699,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add toolsets to be used for completion of a specified process.">Add toolsets to be used for completion of a specified process.</value>
   </row>
   <row id="800146" trl="N">
-    <value column="Name" isTrl="N" original="Version">Version</value>
+    <value column="Name" isTrl="Y" original="Version">Версия</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create process plans valid for a specified time period.">Create process plans valid for a specified time period.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2923,7 +2923,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add previously scheduled maintenances for a specific date and report observations.">Add previously scheduled maintenances for a specific date and report observations.</value>
   </row>
   <row id="800190" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions which include a selected asset.">Create and edit G/L accounts to be used in transactions which include a selected asset.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3007,7 +3007,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add internal consumption lines. Each line corresponds to one product.">Add internal consumption lines. Each line corresponds to one product.</value>
   </row>
   <row id="800204" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting">Бухгалтерия</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions which include a selected asset group.">Create and edit G/L accounts to be used in transactions which include a selected asset group.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3203,7 +3203,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add invoices corresponding to the outsourced part of a completed work requirement.">Add invoices corresponding to the outsourced part of a completed work requirement.</value>
   </row>
   <row id="800234" trl="N">
-    <value column="Name" isTrl="N" original="Version">Version</value>
+    <value column="Name" isTrl="Y" original="Version">Версия</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create cost center versions to be used with specified time periods.">Create cost center versions to be used with specified time periods.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3785,7 +3785,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="The lines tab shows the transactions (orders and/or invoices) included in the payment proposal.">The lines tab shows the transactions (orders and/or invoices) included in the payment proposal.</value>
   </row>
   <row id="E166858871CA4F74BBC0E1BBDC5C9887" trl="N">
-    <value column="Name" isTrl="N" original="Data Sets">Data Sets</value>
+    <value column="Name" isTrl="Y" original="Data Sets">Наборы данных</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Data sets applied to this organization">Data sets applied to this organization</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3905,35 +3905,35 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Defines whether a tab is editable or read only for a concrete role.">Defines whether a tab is editable or read only for a concrete role.</value>
   </row>
   <row id="FF808181308EA4230130901AB2C60090" trl="N">
-    <value column="Name" isTrl="N" original="Exchange rates">Exchange rates</value>
+    <value column="Name" isTrl="Y" original="Exchange rates">Курсы обмена</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="In this tab the user can define another currency conversion rate for this document different than Openbravo systema exchange rate.">In this tab the user can define another currency conversion rate for this document different than Openbravo systema exchange rate.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The exchange rate tab allows to enter an exchange rate between the organization's general ledger currency and the currency of the supplier's  invoice to be used while posting the invoice to the ledger.">The exchange rate tab allows to enter an exchange rate between the organization's general ledger currency and the currency of the supplier's  invoice to be used while posting the invoice to the ledger.</value>
   </row>
   <row id="FF808181308EA4230130901D313D00A5" trl="N">
-    <value column="Name" isTrl="N" original="Exchange rates">Exchange rates</value>
+    <value column="Name" isTrl="Y" original="Exchange rates">Курсы обмена</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="In this tab the user can define another currency conversion rate for this document different than Openbravo systema exchange rate.">In this tab the user can define another currency conversion rate for this document different than Openbravo systema exchange rate.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The exchange rate tab allows to enter an exchange rate between the organization's general ledger currency and the currency of the customer's invoice to be used while posting the invoice to the ledger.">The exchange rate tab allows to enter an exchange rate between the organization's general ledger currency and the currency of the customer's invoice to be used while posting the invoice to the ledger.</value>
   </row>
   <row id="FF808181309036230130905A9AAC0025" trl="N">
-    <value column="Name" isTrl="N" original="Exchange rates">Exchange rates</value>
+    <value column="Name" isTrl="Y" original="Exchange rates">Курсы обмена</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="In this tab the user can define another currency conversion rate for this document different than Openbravo systema exchange rate.">In this tab the user can define another currency conversion rate for this document different than Openbravo systema exchange rate.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The exchange rate tab allows to enter an exchange rate between the organization's general ledger currency and the currency of the payment received to be used while posting the payment to the ledger.">The exchange rate tab allows to enter an exchange rate between the organization's general ledger currency and the currency of the payment received to be used while posting the payment to the ledger.</value>
   </row>
   <row id="FF808181309036230130905C67210034" trl="N">
-    <value column="Name" isTrl="N" original="Exchange rates">Exchange rates</value>
+    <value column="Name" isTrl="Y" original="Exchange rates">Курсы обмена</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="In this tab the user can define another currency conversion rate for this document different than Openbravo systema exchange rate.">In this tab the user can define another currency conversion rate for this document different than Openbravo systema exchange rate.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The exchange rate tab allows to enter an exchange rate between the organization's general ledger currency and the currency of the payment made to be used while posting the payment to the ledger.">The exchange rate tab allows to enter an exchange rate between the organization's general ledger currency and the currency of the payment made to be used while posting the payment to the ledger.</value>
   </row>
   <row id="FF808181309036230130905FCB450044" trl="N">
-    <value column="Name" isTrl="N" original="Exchange rates">Exchange rates</value>
+    <value column="Name" isTrl="Y" original="Exchange rates">Курсы обмена</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="In this tab the user can define another currency conversion rate for this document different than Openbravo systema exchange rate.">In this tab the user can define another currency conversion rate for this document different than Openbravo systema exchange rate.</value>
     <value column="Filtername" isTrl="N" original=""/>

@@ -826,7 +826,7 @@
     <value column="Text" isTrl="N" original="Project Type">Project Type</value>
   </row>
   <row id="1005900006" trl="N">
-    <value column="Text" isTrl="N" original="Starting Date:">Starting Date:</value>
+    <value column="Text" isTrl="Y" original="Starting Date:">Дата начала:</value>
   </row>
   <row id="1005900007" trl="N">
     <value column="Text" isTrl="N" original="Project Progress Report">Project Progress Report</value>
@@ -850,10 +850,10 @@
     <value column="Text" isTrl="N" original="Reference Date:">Reference Date:</value>
   </row>
   <row id="1005900018" trl="N">
-    <value column="Text" isTrl="N" original="Project Status:">Project Status:</value>
+    <value column="Text" isTrl="Y" original="Project Status:">Статус проекта:</value>
   </row>
   <row id="1005900019" trl="N">
-    <value column="Text" isTrl="N" original="Ending Date:">Ending Date:</value>
+    <value column="Text" isTrl="Y" original="Ending Date:">Дата окончания:</value>
   </row>
   <row id="1005900022" trl="N">
     <value column="Text" isTrl="N" original="Complete">Complete</value>
@@ -1102,10 +1102,10 @@
     <value column="Text" isTrl="N" original="Report general ledger journal">Report general ledger journal</value>
   </row>
   <row id="3F1024E0A08D47CDA648DAE42FC3DBE3" trl="N">
-    <value column="Text" isTrl="N" original="Financial account">Financial account</value>
+    <value column="Text" isTrl="Y" original="Financial account">Финансовый счёт</value>
   </row>
   <row id="3F359ECEAB5D4A6EB927727DBBAD7543" trl="N">
-    <value column="Text" isTrl="N" original="Customer balance">Customer balance</value>
+    <value column="Text" isTrl="Y" original="Customer balance">Баланс клиента</value>
   </row>
   <row id="413F936C37AA4E0D865BD0109ECAE092" trl="N">
     <value column="Text" isTrl="N" original="Depreciation Amount">Depreciation Amount</value>
@@ -1747,25 +1747,25 @@
     <value column="Text" isTrl="N" original="Date invoiced">Date invoiced</value>
   </row>
   <row id="69B62064DBA288B9E040007F010178C7" trl="N">
-    <value column="Text" isTrl="N" original="B. Partner">B. Partner</value>
+    <value column="Text" isTrl="Y" original="B. Partner">Контрагент</value>
   </row>
   <row id="69B62064DBA388B9E040007F010178C7" trl="N">
     <value column="Text" isTrl="N" original="INCOME">INCOME</value>
   </row>
   <row id="69B62064DBA488B9E040007F010178C7" trl="N">
-    <value column="Text" isTrl="N" original="PAYMENT">PAYMENT</value>
+    <value column="Text" isTrl="Y" original="PAYMENT">ПЛАТЁЖ</value>
   </row>
   <row id="69B62064DBA588B9E040007F010178C7" trl="N">
-    <value column="Text" isTrl="N" original="Cash Forecast">Cash Forecast</value>
+    <value column="Text" isTrl="Y" original="Cash Forecast">Прогноз денежного потока</value>
   </row>
   <row id="69B62064DBA688B9E040007F010178C7" trl="N">
-    <value column="Text" isTrl="N" original="Bank Balance">Bank Balance</value>
+    <value column="Text" isTrl="Y" original="Bank Balance">Банковский баланс</value>
   </row>
   <row id="69B62064DBA788B9E040007F010178C7" trl="N">
-    <value column="Text" isTrl="N" original="Transaction date">Transaction date</value>
+    <value column="Text" isTrl="Y" original="Transaction date">Дата транзакции</value>
   </row>
   <row id="69B62064DBA888B9E040007F010178C7" trl="N">
-    <value column="Text" isTrl="N" original="Customer balance">Customer balance</value>
+    <value column="Text" isTrl="Y" original="Customer balance">Баланс покупателя</value>
   </row>
   <row id="69B62064DBA988B9E040007F010178C7" trl="N">
     <value column="Text" isTrl="N" original="PPA balance">PPA balance</value>
@@ -2429,7 +2429,7 @@
     <value column="Text" isTrl="N" original="Manual settlement">Manual settlement</value>
   </row>
   <row id="801934" trl="N">
-    <value column="Text" isTrl="N" original="Debit">Debit</value>
+    <value column="Text" isTrl="Y" original="Debit">Дебит</value>
   </row>
   <row id="802003" trl="N">
     <value column="Text" isTrl="N" original="General accounting plan statements">General accounting plan statements</value>
@@ -3614,7 +3614,7 @@
     <value column="Text" isTrl="N" original="Create from Shipment">Create from Shipment</value>
   </row>
   <row id="807085" trl="N">
-    <value column="Text" isTrl="N" original="Credit">Credit</value>
+    <value column="Text" isTrl="Y" original="Credit">Кредит</value>
   </row>
   <row id="807088" trl="N">
     <value column="Text" isTrl="Y" original="CUSTOMER">КЛИЕНТ</value>
@@ -5432,7 +5432,7 @@
     <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="AD868CA9DF734111BBDE6386301A7044" trl="N">
-    <value column="Text" isTrl="N" original="Starting Warehouse">Starting Warehouse</value>
+    <value column="Text" isTrl="Y" original="Starting Warehouse">Склад отправления</value>
   </row>
   <row id="AD935A21C34B4D4DAB1A214124C25C07" trl="N">
     <value column="Text" isTrl="Y" original="PRODUCT NAME">НАЗВАНИЕ ТОВАРА</value>
@@ -5802,7 +5802,7 @@
     <value column="Text" isTrl="N" original="Total Amount Incoming-Payments">Total Amount Incoming-Payments</value>
   </row>
   <row id="F4B6387C83DB41B2B42EDDB0BFD2240E" trl="N">
-    <value column="Text" isTrl="N" original="Database update">Database update</value>
+    <value column="Text" isTrl="N" original="Database update">Обновление базы данных</value>
   </row>
   <row id="F5EAFA2F130549CDBAEE22407DFD97ED" trl="N">
     <value column="Text" isTrl="N" original="http://www.openbravo.com/legal/license.html">http://www.openbravo.com/legal/license.html</value>

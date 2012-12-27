@@ -296,12 +296,12 @@
     <value column="Help" isTrl="N" original="Indicates the Date an item was ordered.">Indicates the Date an item was ordered.</value>
   </row>
   <row id="565E666A61B92693E040007F01002851" trl="N">
-    <value column="Name" isTrl="N" original="Version">Version</value>
+    <value column="Name" isTrl="Y" original="Version">Версия</value>
     <value column="Description" isTrl="N" original="Module version">Module version</value>
     <value column="Help" isTrl="N" original="Module version is a 3 integer dot separated number to identify the version. The 2 first ones define the module's major version whereas the last one is the minor version. An example could be 2.50.10440, where 2.50 is the major version and 10440 is the minor one.">Module version is a 3 integer dot separated number to identify the version. The 2 first ones define the module's major version whereas the last one is the minor version. An example could be 2.50.10440, where 2.50 is the major version and 10440 is the minor one.</value>
   </row>
   <row id="56EBDFF41AC25BDDE040007F0100368E" trl="N">
-    <value column="Name" isTrl="N" original="Version">Version</value>
+    <value column="Name" isTrl="Y" original="Version">Версия</value>
     <value column="Description" isTrl="N" original="First compatible version">First compatible version</value>
     <value column="Help" isTrl="N" original="It is the first compatible version for the dependency, in case last version is blank is will be the only one.">It is the first compatible version for the dependency, in case last version is blank is will be the only one.</value>
   </row>
@@ -838,12 +838,12 @@
     <value column="Help" isTrl="N" original="When launching end year closing entry, include an entry to reverse permanent account balances">When launching end year closing entry, include an entry to reverse permanent account balances</value>
   </row>
   <row id="A82AF471FFCA4A47A1A45284386E384C" trl="N">
-    <value column="Name" isTrl="N" original="Starting Period">Starting Period</value>
+    <value column="Name" isTrl="Y" original="Starting Period">Начальный период</value>
     <value column="Description" isTrl="N" original="First period for the revenue plan.">First period for the revenue plan.</value>
     <value column="Help" isTrl="N" original="Booking starts at last day of selected period and lasts for the selected number of periods.">Booking starts at last day of selected period and lasts for the selected number of periods.</value>
   </row>
   <row id="A908E57D081C6863E040007F01011588" trl="N">
-    <value column="Name" isTrl="N" original="Contact">Contact</value>
+    <value column="Name" isTrl="Y" original="Contact">Контакт</value>
     <value column="Description" isTrl="N" original="An acquaintance to reach for information related to the organization.">An acquaintance to reach for information related to the organization.</value>
     <value column="Help" isTrl="N" original="The User identifies a unique user in the system. This could be an internal user or a business partner/organization contact">The User identifies a unique user in the system. This could be an internal user or a business partner/organization contact</value>
   </row>

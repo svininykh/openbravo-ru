@@ -58,7 +58,7 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="Edit standard data types such as strings, integers, lists as well as custom data types.">Edit standard data types such as strings, integers, lists as well as custom data types.</value>
   </row>
   <row id="102" trl="N">
-    <value column="Name" isTrl="N" original="Windows, Tabs, and Fields">Windows, Tabs, and Fields</value>
+    <value column="Name" isTrl="Y" original="Windows, Tabs, and Fields">Окна, вкладки и поля</value>
     <value column="Description" isTrl="N" original="Create and edit windows, tabs, and fields according to your business preferences.">Create and edit windows, tabs, and fields according to your business preferences.</value>
     <value column="Help" isTrl="N" original="Create and edit windows, tabs, and fields according to your business preferences.">Create and edit windows, tabs, and fields according to your business preferences.</value>
   </row>
@@ -118,7 +118,7 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="Currencies and conversion rates are basic settings to share within Openbravo.">Currencies and conversion rates are basic settings to share within Openbravo.</value>
   </row>
   <row id="116" trl="N">
-    <value column="Name" isTrl="Y" original="Conversion Rates">Курсы обмена</value>
+    <value column="Name" isTrl="Y" original="Conversion Rates">Курсы конвертации</value>
     <value column="Description" isTrl="N" original="Define conversion rates to be used for currencies defined in the application.">Define conversion rates to be used for currencies defined in the application.</value>
     <value column="Help" isTrl="N" original="Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.">Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.</value>
   </row>
@@ -893,7 +893,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
   </row>
   <row id="94EAA455D2644E04AB25D93BE5157B6D" trl="N">
-    <value column="Name" isTrl="Y" original="Financial Account">Финансовый счёт</value>
+    <value column="Name" isTrl="Y" original="Financial Account">Финансовый счет</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="A Financial Account represents an account at a financial institution such as a bank account, a credit card issuer, an electronic payment service, as well as a cash or petty cash register. ">A Financial Account represents an account at a financial institution such as a bank account, a credit card issuer, an electronic payment service, as well as a cash or petty cash register. </value>
   </row>
