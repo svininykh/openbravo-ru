@@ -3241,7 +3241,7 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="438DDB0A996D4ADF91F3C731DDC2146F" trl="N">
-    <value column="MsgText" isTrl="N" original="No data has been found. Please ensure that the selected filter options are correct.">No data has been found. Please ensure that the selected filter options are correct.</value>
+    <value column="MsgText" isTrl="Y" original="No data has been found. Please ensure that the selected filter options are correct.">Данные не найдены. Пожалуйста, убедитесь в корректности указанных параметров выбранного фильтра.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="439" trl="Y">
@@ -3349,7 +3349,7 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="460" trl="N">
-    <value column="MsgText" isTrl="N" original="Record">Record</value>
+    <value column="MsgText" isTrl="Y" original="Record">Запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="461" trl="N">
@@ -7991,7 +7991,7 @@ Press 'Cancel' to go back or 'OK' to discard them and continue with your action.
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE3854B280039" trl="N">
-    <value column="MsgText" isTrl="Y" original="Ignore">Проигнорированны</value>
+    <value column="MsgText" isTrl="Y" original="Ignore">Проигнорировано</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE3857935003C" trl="N">

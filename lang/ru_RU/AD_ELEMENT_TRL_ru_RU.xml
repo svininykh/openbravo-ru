@@ -3808,8 +3808,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1490" trl="N">
-    <value column="Name" isTrl="Y" original="Create Lines From">Создать строки на основании</value>
-    <value column="PrintName" isTrl="Y" original="Create lines from">Создать строки на основании</value>
+    <value column="Name" isTrl="Y" original="Create Lines From">Строки на основании</value>
+    <value column="PrintName" isTrl="Y" original="Create lines from">Строки на основании</value>
     <value column="Description" isTrl="N" original="An addition of statements from pre-existing documents.">An addition of statements from pre-existing documents.</value>
     <value column="Help" isTrl="N" original="A process that allows the user to copy lines (products) from an existing document different from the one being copied into. For example, in case of entering a new Goods Shipment, the user can copy lines (products) from an existing Sales Order or Sales Invoice.">A process that allows the user to copy lines (products) from an existing document different from the one being copied into. For example, in case of entering a new Goods Shipment, the user can copy lines (products) from an existing Sales Order or Sales Invoice.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7920,8 +7920,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="362" trl="N">
-    <value column="Name" isTrl="Y" original="Central Maintenance">Центральный репозитарий</value>
-    <value column="PrintName" isTrl="Y" original="Centrally maintained">Центральный репозитарий</value>
+    <value column="Name" isTrl="N" original="Central Maintenance">Central Maintenance</value>
+    <value column="PrintName" isTrl="N" original="Centrally maintained">Central Maintenance</value>
     <value column="Description" isTrl="N" original="A flag indicating that this label is managed in a central repository.">A flag indicating that this label is managed in a central repository.</value>
     <value column="Help" isTrl="N" original="The Centrally Maintained checkbox indicates if the Name, Description and Help maintained in 'System Element' table  or 'Window' table.">The Centrally Maintained checkbox indicates if the Name, Description and Help maintained in 'System Element' table  or 'Window' table.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8570,7 +8570,7 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="420" trl="N">
-    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
+    <value column="Name" isTrl="Y" original="Translation">Переведено</value>
     <value column="PrintName" isTrl="Y" original="Translated">Переведено</value>
     <value column="Description" isTrl="N" original="An indication that an item is translated.">An indication that an item is translated.</value>
     <value column="Help" isTrl="N" original="The Translated checkbox indicates if this column is translated.">The Translated checkbox indicates if this column is translated.</value>
