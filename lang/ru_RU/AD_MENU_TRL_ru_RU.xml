@@ -233,7 +233,7 @@
     <value column="Description" isTrl="N" original="Create roles with assigned users, and edit roles access to organizations, windows, processes, etc.">Create roles with assigned users, and edit roles access to organizations, windows, processes, etc.</value>
   </row>
   <row id="151" trl="N">
-    <value column="Name" isTrl="N" original="Document Sequence">Document Sequence</value>
+    <value column="Name" isTrl="Y" original="Document Sequence">Нумерация документа</value>
     <value column="Description" isTrl="N" original="Define an auto numbering system to uniquely identify document types.">Define an auto numbering system to uniquely identify document types.</value>
   </row>
   <row id="153" trl="N">
@@ -297,11 +297,11 @@
     <value column="Description" isTrl="N" original="Define banks and the related accounts.">Define banks and the related accounts.</value>
   </row>
   <row id="175" trl="N">
-    <value column="Name" isTrl="Y" original="Enterprise Model">Структура компании</value>
+    <value column="Name" isTrl="Y" original="Enterprise Model">Структура организации</value>
     <value column="Description" isTrl="N" original="Open a folder where you can create and edit enterprise items such as organizations.">Open a folder where you can create and edit enterprise items such as organizations.</value>
   </row>
   <row id="176" trl="N">
-    <value column="Name" isTrl="N" original="Report and Process">Report and Process</value>
+    <value column="Name" isTrl="Y" original="Report and Process">Отчеты и обработки</value>
     <value column="Description" isTrl="N" original="Define and edit reports and processes (database or Java).">Define and edit reports and processes (database or Java).</value>
   </row>
   <row id="178" trl="N">
@@ -621,7 +621,7 @@
     <value column="Description" isTrl="N" original="Report Account Statement Beginning Balance and Transactions">Report Account Statement Beginning Balance and Transactions</value>
   </row>
   <row id="353" trl="N">
-    <value column="Name" isTrl="N" original="Attribute Set">Attribute Set</value>
+    <value column="Name" isTrl="Y" original="Attribute Set">Набор характеристик</value>
     <value column="Description" isTrl="N" original="Define a group of attributes to apply to specific products.">Define a group of attributes to apply to specific products.</value>
   </row>
   <row id="354" trl="N">
@@ -641,11 +641,11 @@
     <value column="Description" isTrl="N" original="Open a folder where you can define product attributes, and create and edit products lots and serial numbers.">Open a folder where you can define product attributes, and create and edit products lots and serial numbers.</value>
   </row>
   <row id="359" trl="N">
-    <value column="Name" isTrl="N" original="Attribute">Attribute</value>
+    <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
   </row>
   <row id="362" trl="N">
-    <value column="Name" isTrl="N" original="Role Access">Role Access</value>
+    <value column="Name" isTrl="Y" original="Role Access">Уровень доступа роли</value>
     <value column="Description" isTrl="N" original="Define access to DB tables and columns for selected roles.">Define access to DB tables and columns for selected roles.</value>
   </row>
   <row id="364" trl="N">
@@ -653,11 +653,11 @@
     <value column="Description" isTrl="N" original="Define projects types with typical phases and tasks to be used in projects.">Define projects types with typical phases and tasks to be used in projects.</value>
   </row>
   <row id="366" trl="N">
-    <value column="Name" isTrl="N" original="Session">Session</value>
+    <value column="Name" isTrl="N" original="Session">Сессия</value>
     <value column="Description" isTrl="N" original="View all login's made in the application.">View all login's made in the application.</value>
   </row>
   <row id="367" trl="N">
-    <value column="Name" isTrl="N" original="Security">Security</value>
+    <value column="Name" isTrl="N" original="Security">Безопасность</value>
     <value column="Description" isTrl="N" original="Open a folder where you can see session logs and monitor modifications made by each user.">Open a folder where you can see session logs and monitor modifications made by each user.</value>
   </row>
   <row id="372" trl="N">
@@ -753,7 +753,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="5DFCDFE962144B12A6279E9A1E9DC0AC" trl="N">
-    <value column="Name" isTrl="N" original="Enterprise module management">Enterprise module management</value>
+    <value column="Name" isTrl="Y" original="Enterprise module management">Управление модулями организации</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="6787A809DB364371B797ECED5E9262BF" trl="N">
@@ -893,8 +893,8 @@
     <value column="Description" isTrl="N" original="Create and edit formats for attached files (.pdf, .html)">Create and edit formats for attached files (.pdf, .html)</value>
   </row>
   <row id="800074" trl="N">
-    <value column="Name" isTrl="N" original="Price List Report">Price List Report</value>
-    <value column="Description" isTrl="N" original="Price List Report">Price List Report</value>
+    <value column="Name" isTrl="Y" original="Price List Report">Отчёт Прейскуранта</value>
+    <value column="Description" isTrl="Y" original="Price List Report">Отчёт Прейскуранта</value>
   </row>
   <row id="800075" trl="N">
     <value column="Name" isTrl="Y" original="Analysis Tools">Аналитика</value>

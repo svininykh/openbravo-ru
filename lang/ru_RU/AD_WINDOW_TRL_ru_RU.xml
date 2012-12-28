@@ -108,7 +108,7 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="The aim of a role is to group user/s depending on what parts of Openbravo they are allowed to access to and therefore to work in.">The aim of a role is to group user/s depending on what parts of Openbravo they are allowed to access to and therefore to work in.</value>
   </row>
   <row id="112" trl="N">
-    <value column="Name" isTrl="N" original="Document Sequence">Document Sequence</value>
+    <value column="Name" isTrl="Y" original="Document Sequence">Нумерация документа</value>
     <value column="Description" isTrl="N" original="Define an auto numbering system to uniquely identify document types.">Define an auto numbering system to uniquely identify document types.</value>
     <value column="Help" isTrl="N" original="Every document in Openbravo can be numbered and therefore linked to a document sequence.">Every document in Openbravo can be numbered and therefore linked to a document sequence.</value>
   </row>
@@ -217,12 +217,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="A tax category allows to group and manage similar product or services tax rates.">A tax category allows to group and manage similar product or services tax rates.</value>
   </row>
   <row id="139" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse and Storage Bins">Warehouse and Storage Bins</value>
+    <value column="Name" isTrl="Y" original="Warehouse and Storage Bins">Склад и места хранения</value>
     <value column="Description" isTrl="N" original="Create warehouses and organize them using storage bins.">Create warehouses and organize them using storage bins.</value>
     <value column="Help" isTrl="N" original="Create warehouses and organize them using storage bins.">Create warehouses and organize them using storage bins.</value>
   </row>
   <row id="140" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="Description" isTrl="N" original="Create products and manage the related costing, purchasing, and pricing setup.">Create products and manage the related costing, purchasing, and pricing setup.</value>
     <value column="Help" isTrl="N" original="Product master data window is the place where you can easily organize and centralize the key data of the items of any type you might manage as part of the organization processes and/or activities.">Product master data window is the place where you can easily organize and centralize the key data of the items of any type you might manage as part of the organization processes and/or activities.</value>
   </row>
@@ -298,7 +298,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Defines the descriptions and images that will be used when a tree is displayed.">Defines the descriptions and images that will be used when a tree is displayed.</value>
   </row>
   <row id="165" trl="N">
-    <value column="Name" isTrl="N" original="Report and Process">Report and Process</value>
+    <value column="Name" isTrl="Y" original="Report and Process">Отчеты и обработки</value>
     <value column="Description" isTrl="N" original="Define and edit reports and processes (database or Java).">Define and edit reports and processes (database or Java).</value>
     <value column="Help" isTrl="N" original="Define and edit reports and processes (database or Java).">Define and edit reports and processes (database or Java).</value>
   </row>
@@ -458,7 +458,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="View internal employee expenses before processing them.">View internal employee expenses before processing them.</value>
   </row>
   <row id="256" trl="N">
-    <value column="Name" isTrl="N" original="Attribute Set">Attribute Set</value>
+    <value column="Name" isTrl="Y" original="Attribute Set">Набор характеристик</value>
     <value column="Description" isTrl="N" original="Define a group of attributes to apply to specific products.">Define a group of attributes to apply to specific products.</value>
     <value column="Help" isTrl="N" original="An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.">An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.</value>
   </row>
@@ -483,17 +483,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest. &#10;</value>
   </row>
   <row id="264" trl="N">
-    <value column="Name" isTrl="N" original="Session">Session</value>
+    <value column="Name" isTrl="Y" original="Session">Сессия</value>
     <value column="Description" isTrl="N" original="View all login's made in the application.">View all login's made in the application.</value>
     <value column="Help" isTrl="N" original="View all login's made in the application.">View all login's made in the application.</value>
   </row>
   <row id="265" trl="N">
-    <value column="Name" isTrl="N" original="Project Type">Project Type</value>
+    <value column="Name" isTrl="Y" original="Project Type">Тип проекта</value>
     <value column="Description" isTrl="N" original="Define projects types with typical phases and tasks to be used in projects.">Define projects types with typical phases and tasks to be used in projects.</value>
     <value column="Help" isTrl="N" original="Define projects types with typical phases and tasks to be used in projects.">Define projects types with typical phases and tasks to be used in projects.</value>
   </row>
   <row id="268" trl="N">
-    <value column="Name" isTrl="N" original="Role Access">Role Access</value>
+    <value column="Name" isTrl="Y" original="Role Access">Уровень доступа роли</value>
     <value column="Description" isTrl="N" original="Define access to DB tables and columns for selected roles.">Define access to DB tables and columns for selected roles.</value>
     <value column="Help" isTrl="N" original="Define access to DB tables and columns for selected roles.">Define access to DB tables and columns for selected roles.</value>
   </row>

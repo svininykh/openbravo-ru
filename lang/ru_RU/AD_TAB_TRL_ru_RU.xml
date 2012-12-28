@@ -1227,7 +1227,7 @@
     <value column="Help" isTrl="N" original="This tab lists and/or allows to add the forms to which a role will have access to.">This tab lists and/or allows to add the forms to which a role will have access to.</value>
   </row>
   <row id="308" trl="N">
-    <value column="Name" isTrl="N" original="Role Access">Role Access</value>
+    <value column="Name" isTrl="Y" original="Role Access">Уровень доступа роли</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit role access to a particular report or process.">Edit role access to a particular report or process.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1683,21 +1683,21 @@
     <value column="Help" isTrl="N" original="Tax rates can be translated to any language required.">Tax rates can be translated to any language required.</value>
   </row>
   <row id="461" trl="N">
-    <value column="Name" isTrl="N" original="Attribute Set">Attribute Set</value>
+    <value column="Name" isTrl="Y" original="Attribute Set">Набор характеристик</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create an attribute set to define products with multiple characteristics.">Create an attribute set to define products with multiple characteristics.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Attribute Set window allows to create as many combination of attributes as required for defining products with few or multiple characteristics.">Attribute Set window allows to create as many combination of attributes as required for defining products with few or multiple characteristics.</value>
   </row>
   <row id="462" trl="N">
-    <value column="Name" isTrl="N" original="Attribute">Attribute</value>
+    <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit attributes to be assigned to attribute sets.">Create and edit attributes to be assigned to attribute sets.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;">Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;</value>
   </row>
   <row id="463" trl="N">
-    <value column="Name" isTrl="N" original="Attribute Value">Attribute Value</value>
+    <value column="Name" isTrl="Y" original="Attribute Value">Значение характеристики</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define individual characteristic values of this attribute.">Define individual characteristic values of this attribute.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1732,14 +1732,14 @@
     <value column="Help" isTrl="N" original="An attribute set can have a single or a set of attributes assigned.">An attribute set can have a single or a set of attributes assigned.</value>
   </row>
   <row id="475" trl="N">
-    <value column="Name" isTrl="N" original="Session">Session</value>
+    <value column="Name" isTrl="Y" original="Session">Сессия</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Show all changes that have been made in the application.">Show all changes that have been made in the application.</value>
     <value column="Filtername" isTrl="N" original="Active sessions">Active sessions</value>
     <value column="Help" isTrl="N" original="Show all changes that have been made in the application.">Show all changes that have been made in the application.</value>
   </row>
   <row id="476" trl="N">
-    <value column="Name" isTrl="N" original="Project Type">Project Type</value>
+    <value column="Name" isTrl="Y" original="Project Type">Тип проекта</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define a project type.">Define a project type.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2342,7 +2342,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create an obligation for accounting to pay for all or part of your invoice amount.">Create an obligation for accounting to pay for all or part of your invoice amount.</value>
   </row>
   <row id="800038" trl="N">
-    <value column="Name" isTrl="N" original="Role Access">Role Access</value>
+    <value column="Name" isTrl="Y" original="Role Access">Уровень доступа роли</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit role access to a particular table.">Edit role access to a particular table.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2965,7 +2965,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add mappings used to call the form through a browser.">Add mappings used to call the form through a browser.</value>
   </row>
   <row id="800198" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in the volume discount.">Add products to be included in the volume discount.</value>
     <value column="Filtername" isTrl="N" original=""/>

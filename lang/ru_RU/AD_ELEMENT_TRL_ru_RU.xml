@@ -4609,8 +4609,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="167" trl="N">
-    <value column="Name" isTrl="N" original="Attribute">Attribute</value>
-    <value column="PrintName" isTrl="N" original="Attribute">Attribute</value>
+    <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
+    <value column="PrintName" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="Description" isTrl="N" original="A defined characteristic of a specific product.">A defined characteristic of a specific product.</value>
     <value column="Help" isTrl="N" original="A defined characteristic of a specific product.">A defined characteristic of a specific product.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6139,8 +6139,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2015" trl="N">
-    <value column="Name" isTrl="N" original="Attribute">Attribute</value>
-    <value column="PrintName" isTrl="N" original="Attribute">Attribute</value>
+    <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
+    <value column="PrintName" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="Description" isTrl="N" original="A defined characteristic of a specific product.">A defined characteristic of a specific product.</value>
     <value column="Help" isTrl="N" original="A defined characteristic of a specific product such as color, size, etc.">A defined characteristic of a specific product such as color, size, etc.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6149,8 +6149,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2017" trl="N">
-    <value column="Name" isTrl="Y" original="Attribute Set">Набора атрибутов</value>
-    <value column="PrintName" isTrl="Y" original="Attribute Set">Набора атрибутов</value>
+    <value column="Name" isTrl="Y" original="Attribute Set">Набор характеристик</value>
+    <value column="PrintName" isTrl="Y" original="Attribute Set">Набор характеристик</value>
     <value column="Description" isTrl="N" original="A group of attributes which are assigned to a selected product.">A group of attributes which are assigned to a selected product.</value>
     <value column="Help" isTrl="N" original="Define Product Attribute Sets to add additional attributes and values to the product. You need to define a Attribute Set if you want to enable Serial and Lot Number tracking.">Define Product Attribute Sets to add additional attributes and values to the product. You need to define a Attribute Set if you want to enable Serial and Lot Number tracking.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6229,8 +6229,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2029" trl="N">
-    <value column="Name" isTrl="N" original="Session">Session</value>
-    <value column="PrintName" isTrl="N" original="Session">Session</value>
+    <value column="Name" isTrl="Y" original="Session">Сессия</value>
+    <value column="PrintName" isTrl="Y" original="Session">Сессия</value>
     <value column="Description" isTrl="N" original="User Session Online or Web">User Session Online or Web</value>
     <value column="Help" isTrl="N" original="Online or Web Session Information">Online or Web Session Information</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6279,8 +6279,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2033" trl="N">
-    <value column="Name" isTrl="N" original="Project Type">Project Type</value>
-    <value column="PrintName" isTrl="N" original="Project Type">Project Type</value>
+    <value column="Name" isTrl="Y" original="Project Type">Тип проекта</value>
+    <value column="PrintName" isTrl="Y" original="Project Type">Тип проекта</value>
     <value column="Description" isTrl="N" original="Project Type is a template of a common project. ">Project Type is a template of a common project. </value>
     <value column="Help" isTrl="N" original="Project Type is a template of a common project. Standard phases and tasks can be entered into this template and then quickly reused on new projects.">Project Type is a template of a common project. Standard phases and tasks can be entered into this template and then quickly reused on new projects.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7380,8 +7380,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="288" trl="N">
-    <value column="Name" isTrl="N" original="Document Sequence">Document Sequence</value>
-    <value column="PrintName" isTrl="N" original="Doc Sequence">Doc Sequence</value>
+    <value column="Name" isTrl="Y" original="Document Sequence">Нумерация документа</value>
+    <value column="PrintName" isTrl="Y" original="Doc Sequence">Нумерация документа</value>
     <value column="Description" isTrl="N" original="Document sequence determines the numbering of documents">Document sequence determines the numbering of documents</value>
     <value column="Help" isTrl="N" original="The Document Sequence indicates the sequencing rule to use for this document type.">The Document Sequence indicates the sequencing rule to use for this document type.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8550,8 +8550,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="417" trl="N">
-    <value column="Name" isTrl="N" original="System Language">System Language</value>
-    <value column="PrintName" isTrl="N" original="System Language">System Language</value>
+    <value column="Name" isTrl="Y" original="System Language">Системный язык</value>
+    <value column="PrintName" isTrl="Y" original="System Language">Системный язык</value>
     <value column="Description" isTrl="N" original="The screens, etc. are maintained in this Language">The screens, etc. are maintained in this Language</value>
     <value column="Help" isTrl="N" original="Select, if you want to have translated screens available in this language.  Please notify your system administrator to run the language maintenance scripts to enable the use of this language.  If the language is not supplied, you can translate the terms yourself.">Select, if you want to have translated screens available in this language.  Please notify your system administrator to run the language maintenance scripts to enable the use of this language.  If the language is not supplied, you can translate the terms yourself.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11262,8 +11262,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="592099DE81AEE192E040007F01010701" trl="N">
-    <value column="Name" isTrl="N" original="RTL Language">RTL Language</value>
-    <value column="PrintName" isTrl="N" original="RTL Language">RTL Language</value>
+    <value column="Name" isTrl="Y" original="RTL Language">Написание справа налево</value>
+    <value column="PrintName" isTrl="Y" original="RTL Language">Написание справа налево</value>
     <value column="Description" isTrl="N" original="Identifies the language as written from right to left.">Identifies the language as written from right to left.</value>
     <value column="Help" isTrl="N" original="Identifies the language as written from right to left.">Identifies the language as written from right to left.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -18241,9 +18241,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800774" trl="N">
-    <value column="Name" isTrl="N" original="Translated by">Translated by</value>
-    <value column="PrintName" isTrl="N" original="Translated By">Translated By</value>
-    <value column="Description" isTrl="N" original="Translated by">Translated by</value>
+    <value column="Name" isTrl="Y" original="Translated by">Автор перевода</value>
+    <value column="PrintName" isTrl="Y" original="Translated By">Автор перевода</value>
+    <value column="Description" isTrl="Y" original="Translated by">Автор перевода</value>
     <value column="Help" isTrl="N" original="This fields shows who has contributed to the translation of this language.">This fields shows who has contributed to the translation of this language.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>

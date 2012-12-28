@@ -110,7 +110,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0C093B834C3948E1B8D84E54FC6B284E" trl="N">
-    <value column="MsgText" isTrl="N" original="Product">Product</value>
+    <value column="MsgText" isTrl="Y" original="Product">Товар</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0C16030DD5DF4F75AB032C4A8B6CF70B" trl="N">
@@ -1044,7 +1044,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Selector">Used for column name translation in Product Selector</value>
   </row>
   <row id="1006400008" trl="N">
-    <value column="MsgText" isTrl="N" original="Limit">Limit</value>
+    <value column="MsgText" isTrl="Y" original="Limit">Лимит</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Selector">Used for column name translation in Product Selector</value>
   </row>
   <row id="1006400009" trl="N">
@@ -1060,15 +1060,15 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Complete Selector">Used for column name translation in Product Complete Selector</value>
   </row>
   <row id="1006400012" trl="N">
-    <value column="MsgText" isTrl="N" original="Quantity on Hand">Quantity on Hand</value>
+    <value column="MsgText" isTrl="Y" original="Quantity on Hand">Количество на руках</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Complete Selector">Used for column name translation in Product Complete Selector</value>
   </row>
   <row id="1006400013" trl="N">
-    <value column="MsgText" isTrl="N" original="Unit">Unit</value>
+    <value column="MsgText" isTrl="Y" original="Unit">Единица</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Complete Selector">Used for column name translation in Product Complete Selector</value>
   </row>
   <row id="1006400014" trl="N">
-    <value column="MsgText" isTrl="N" original="Attribute">Attribute</value>
+    <value column="MsgText" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Complete Selector">Used for column name translation in Product Complete Selector</value>
   </row>
   <row id="1006400015" trl="N">
@@ -1224,35 +1224,35 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Sales Order Selector">Used for column name translation in Sales Order Selector</value>
   </row>
   <row id="1006400053" trl="N">
-    <value column="MsgText" isTrl="N" original="Business Partners">Business Partners</value>
+    <value column="MsgText" isTrl="Y" original="Business Partners">Контрагенты</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Shipment Receipt Line Selector">Used for column name translation in Shipment Receipt Line Selector</value>
   </row>
   <row id="1006400054" trl="N">
-    <value column="MsgText" isTrl="N" original="Date">Date</value>
+    <value column="MsgText" isTrl="Y" original="Date">Дата</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Shipment Receipt Line Selector">Used for column name translation in Shipment Receipt Line Selector</value>
   </row>
   <row id="1006400055" trl="N">
-    <value column="MsgText" isTrl="N" original="Doc No.">Doc No.</value>
+    <value column="MsgText" isTrl="Y" original="Doc No.">№ документа</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Shipment Receipt Line Selector">Used for column name translation in Shipment Receipt Line Selector</value>
   </row>
   <row id="1006400056" trl="N">
-    <value column="MsgText" isTrl="N" original="Sale">Sale</value>
+    <value column="MsgText" isTrl="Y" original="Sale">Продажа</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Shipment Receipt Line Selector">Used for column name translation in Shipment Receipt Line Selector</value>
   </row>
   <row id="1006400057" trl="N">
-    <value column="MsgText" isTrl="N" original="Product">Product</value>
+    <value column="MsgText" isTrl="Y" original="Product">Товар</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Shipment Receipt Line Selector">Used for column name translation in Shipment Receipt Line Selector</value>
   </row>
   <row id="1006400058" trl="N">
-    <value column="MsgText" isTrl="N" original="Quantity">Quantity</value>
+    <value column="MsgText" isTrl="Y" original="Quantity">Количество</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Shipment Receipt Line Selector">Used for column name translation in Shipment Receipt Line Selector</value>
   </row>
   <row id="1006400059" trl="N">
-    <value column="MsgText" isTrl="N" original="Location">Location</value>
+    <value column="MsgText" isTrl="Y" original="Location">Расположение</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Shipment Receipt Line Selector">Used for column name translation in Shipment Receipt Line Selector</value>
   </row>
   <row id="1006400060" trl="N">
-    <value column="MsgText" isTrl="N" original="Attribute">Attribute</value>
+    <value column="MsgText" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Shipment Receipt Line Selector">Used for column name translation in Shipment Receipt Line Selector</value>
   </row>
   <row id="101" trl="N">
@@ -3909,7 +3909,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="563" trl="N">
-    <value column="MsgText" isTrl="N" original="Test">Test</value>
+    <value column="MsgText" isTrl="Y" original="Test">Тест</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="564" trl="N">
@@ -3921,7 +3921,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="566" trl="N">
-    <value column="MsgText" isTrl="N" original="Today">Today</value>
+    <value column="MsgText" isTrl="Y" original="Today">Сегодня</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="567" trl="N">
@@ -3933,11 +3933,11 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="569" trl="N">
-    <value column="MsgText" isTrl="N" original="Trx">Trx</value>
+    <value column="MsgText" isTrl="Y" original="Trx">Транзакция</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="570" trl="N">
-    <value column="MsgText" isTrl="N" original="User Interface Theme">User Interface Theme</value>
+    <value column="MsgText" isTrl="Y" original="User Interface Theme">Тема интерфейса пользователя</value>
     <value column="MsgTip" isTrl="N" original="Window  - Metal">Window  - Metal</value>
   </row>
   <row id="570313CE1FE547F6A9AE028291DD3EE9" trl="N">
@@ -6305,23 +6305,23 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804821" trl="N">
-    <value column="MsgText" isTrl="N" original="For Warehouse">For Warehouse</value>
+    <value column="MsgText" isTrl="Y" original="For Warehouse">Для склада</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804822" trl="N">
-    <value column="MsgText" isTrl="N" original="In region">In region</value>
+    <value column="MsgText" isTrl="Y" original="In region">В регионе</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804823" trl="N">
-    <value column="MsgText" isTrl="N" original="for product category">for product category</value>
+    <value column="MsgText" isTrl="Y" original="for product category">для категории товара</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804824" trl="N">
-    <value column="MsgText" isTrl="N" original="for product">for product</value>
+    <value column="MsgText" isTrl="Y" original="for product">для товара</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804825" trl="N">
-    <value column="MsgText" isTrl="N" original="project type">project type</value>
+    <value column="MsgText" isTrl="Y" original="project type">тип проекта</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804826" trl="N">

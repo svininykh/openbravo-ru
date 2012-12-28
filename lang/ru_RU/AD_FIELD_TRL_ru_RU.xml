@@ -813,12 +813,12 @@
     <value column="Help" isTrl="N" original="String that identifies the Parameter in the java process.">String that identifies the Parameter in the java process.</value>
   </row>
   <row id="877" trl="N">
-    <value column="Name" isTrl="N" original="Attribute">Attribute</value>
+    <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="Description" isTrl="N" original="Name of the preference.">Name of the preference.</value>
     <value column="Help" isTrl="N" original="It is the name of a preference to assign a value. It is a free text name, as opposite as Property which is a selectable value from a list.">It is the name of a preference to assign a value. It is a free text name, as opposite as Property which is a selectable value from a list.</value>
   </row>
   <row id="8B1A2F417A6A4349B2C33E59438920F2" trl="N">
-    <value column="Name" isTrl="N" original="Editable Tab">Editable Tab</value>
+    <value column="Name" isTrl="Y" original="Editable Tab">Редактируемая вкладка</value>
     <value column="Description" isTrl="N" original="An indication that this tab can be edited">An indication that this tab can be edited</value>
     <value column="Help" isTrl="N" original="Sets whether the tab can be edited or is read only for the current role.">Sets whether the tab can be edited or is read only for the current role.</value>
   </row>
