@@ -5,7 +5,7 @@
     <value column="Description" isTrl="Y" original="Module management">Управление модулем</value>
   </row>
   <row id="08B67705E5B44C5DB2196B9A1CD1ABD7" trl="N">
-    <value column="Name" isTrl="N" original="Costing Algorithm">Costing Algorithm</value>
+    <value column="Name" isTrl="Y" original="Costing Algorithm">Алгоритм калькуляции</value>
     <value column="Description" isTrl="N" original="Defines each costing algorithm installed and ready to use">Defines each costing algorithm installed and ready to use</value>
   </row>
   <row id="1000001" trl="N">
@@ -21,23 +21,23 @@
     <value column="Description" isTrl="Y" original="Withholding Rules">Правила удержания</value>
   </row>
   <row id="1002100003" trl="N">
-    <value column="Name" isTrl="N" original="Tax Register Type">Tax Register Type</value>
-    <value column="Description" isTrl="N" original="Tax Register Type">Tax Register Type</value>
+    <value column="Name" isTrl="Y" original="Tax Register Type">Тип налогового регистра</value>
+    <value column="Description" isTrl="Y" original="Tax Register Type">Тип налогового регистра</value>
   </row>
   <row id="1002100004" trl="N">
-    <value column="Name" isTrl="N" original="Tax Payment">Tax Payment</value>
+    <value column="Name" isTrl="Y" original="Tax Payment">Оплата налога</value>
     <value column="Description" isTrl="N" original="Tax Payment/Tax Register">Tax Payment/Tax Register</value>
   </row>
   <row id="1002100006" trl="N">
-    <value column="Name" isTrl="N" original="Withholding Report">Withholding Report</value>
-    <value column="Description" isTrl="N" original="Withholding Report">Withholding Report</value>
+    <value column="Name" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
+    <value column="Description" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
   </row>
   <row id="1003100000" trl="N">
-    <value column="Name" isTrl="N" original="Session Preferences">Session Preferences</value>
+    <value column="Name" isTrl="N" original="Session Preferences">Параметры сессии</value>
     <value column="Description" isTrl="N" original="View session information and set certain system settings.">View session information and set certain system settings.</value>
   </row>
   <row id="1003100001" trl="N">
-    <value column="Name" isTrl="N" original="Session Variables">Session Variables</value>
+    <value column="Name" isTrl="N" original="Session Variables">Переменные сессии</value>
     <value column="Description" isTrl="N" original="View and set session variables.">View and set session variables.</value>
   </row>
   <row id="1004400000" trl="N">
@@ -101,23 +101,23 @@
     <value column="Description" isTrl="N" original="Create and edit general ledger including dimensions and default accounts.">Create and edit general ledger including dimensions and default accounts.</value>
   </row>
   <row id="115" trl="N">
-    <value column="Name" isTrl="N" original="Preference">Preference</value>
+    <value column="Name" isTrl="Y" original="Preference">Привилегии</value>
     <value column="Description" isTrl="N" original="Create and edit extremely restrictive values for a specified user, window, or for the entire application.">Create and edit extremely restrictive values for a specified user, window, or for the entire application.</value>
   </row>
   <row id="116" trl="N">
-    <value column="Name" isTrl="N" original="Multiphase Project">Multiphase Project</value>
+    <value column="Name" isTrl="Y" original="Multiphase Project">Мультифазный проект</value>
     <value column="Description" isTrl="N" original="Create and edit projects and tasks potentially requiring sales invoicing.">Create and edit projects and tasks potentially requiring sales invoicing.</value>
   </row>
   <row id="117" trl="N">
-    <value column="Name" isTrl="N" original="G/L Category">G/L Category</value>
+    <value column="Name" isTrl="Y" original="G/L Category">Г/К Категории</value>
     <value column="Description" isTrl="N" original="Define G/L Categories to be used in the General Ledger.">Define G/L Categories to be used in the General Ledger.</value>
   </row>
   <row id="118" trl="N">
-    <value column="Name" isTrl="N" original="G/L Journal">G/L Journal</value>
+    <value column="Name" isTrl="Y" original="G/L Journal">Г/К Журнал</value>
     <value column="Description" isTrl="N" original="Create and edit manual G/L journal entries.">Create and edit manual G/L journal entries.</value>
   </row>
   <row id="120" trl="N">
-    <value column="Name" isTrl="N" original="ABC Activity">ABC Activity</value>
+    <value column="Name" isTrl="Y" original="ABC Activity">ABC Деятельность</value>
     <value column="Description" isTrl="N" original="Define activities for which you are interested in managing costs.">Define activities for which you are interested in managing costs.</value>
   </row>
   <row id="121" trl="N">
@@ -137,7 +137,7 @@
     <value column="Description" isTrl="N" original="Create tax categories to manage tax rates with similar characteristics or attributes.">Create tax categories to manage tax rates with similar characteristics or attributes.</value>
   </row>
   <row id="125" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse and Storage Bins">Warehouse and Storage Bins</value>
+    <value column="Name" isTrl="Y" original="Warehouse and Storage Bins">Склад и места хранения</value>
     <value column="Description" isTrl="N" original="Create warehouses and organize them using storage bins.">Create warehouses and organize them using storage bins.</value>
   </row>
   <row id="126" trl="N">
@@ -185,15 +185,15 @@
     <value column="Description" isTrl="N" original="Create sales regions to be used in sales operations.">Create sales regions to be used in sales operations.</value>
   </row>
   <row id="138" trl="N">
-    <value column="Name" isTrl="N" original="Element">Element</value>
+    <value column="Name" isTrl="Y" original="Element">Элемент приложения</value>
     <value column="Description" isTrl="N" original="Edit the central repository of application elements to update field name descriptions and help/comments.">Edit the central repository of application elements to update field name descriptions and help/comments.</value>
   </row>
   <row id="139" trl="N">
-    <value column="Name" isTrl="N" original="Tables and Columns">Tables and Columns</value>
+    <value column="Name" isTrl="Y" original="Tables and Columns">Таблицы и столбцы</value>
     <value column="Description" isTrl="N" original="Edit tables and columns so that Openbravo can access the database, as well as control the role access.">Edit tables and columns so that Openbravo can access the database, as well as control the role access.</value>
   </row>
   <row id="140" trl="N">
-    <value column="Name" isTrl="N" original="Reference">Reference</value>
+    <value column="Name" isTrl="N" original="Reference">Тип данных</value>
     <value column="Description" isTrl="N" original="Edit standard data types such as strings, integers, lists as well as custom data types.">Edit standard data types such as strings, integers, lists as well as custom data types.</value>
   </row>
   <row id="141" trl="N">
@@ -205,7 +205,7 @@
     <value column="Description" isTrl="N" original="Create and edit the validation setup to be used for columns of tables.">Create and edit the validation setup to be used for columns of tables.</value>
   </row>
   <row id="143" trl="N">
-    <value column="Name" isTrl="N" original="Message">Message</value>
+    <value column="Name" isTrl="Y" original="Message">Сообщение</value>
     <value column="Description" isTrl="N" original="Create and edit application initiated information and error messages.">Create and edit application initiated information and error messages.</value>
   </row>
   <row id="144" trl="N">
@@ -377,11 +377,11 @@
     <value column="Description" isTrl="N" original="Purchase invoice window allows to register and manage suppliers invoices.">Purchase invoice window allows to register and manage suppliers invoices.</value>
   </row>
   <row id="20C210B5BE7846819385A70F23F5118C" trl="N">
-    <value column="Name" isTrl="N" original="Accounting Process">Accounting Process</value>
+    <value column="Name" isTrl="Y" original="Accounting Process">Обработка проводки</value>
     <value column="Description" isTrl="N" original="Accounting process to be launched at posting time">Accounting process to be launched at posting time</value>
   </row>
   <row id="20FCC3606573406A9242358C3E4A3585" trl="N">
-    <value column="Name" isTrl="N" original="Return Reasons">Return Reasons</value>
+    <value column="Name" isTrl="Y" original="Return Reasons">Основания возврата</value>
     <value column="Description" isTrl="N" original="Here you define the return reason">Here you define the return reason</value>
   </row>
   <row id="210" trl="N">
@@ -833,7 +833,7 @@
     <value column="Description" isTrl="N" original="Create and edit payments with no corresponding document/transaction in the application.">Create and edit payments with no corresponding document/transaction in the application.</value>
   </row>
   <row id="800034" trl="N">
-    <value column="Name" isTrl="N" original="G/L Item">G/L Item</value>
+    <value column="Name" isTrl="Y" original="G/L Item">Г/К Типовая проводка</value>
     <value column="Description" isTrl="N" original="Create and edit accounting items to be used in manual settlements.">Create and edit accounting items to be used in manual settlements.</value>
   </row>
   <row id="800037" trl="N">
@@ -1061,7 +1061,7 @@
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="800159" trl="N">
-    <value column="Name" isTrl="N" original="Activity">Activity</value>
+    <value column="Name" isTrl="Y" original="Activity">Бизнес-процесс</value>
     <value column="Description" isTrl="N" original="Define activities (processes) to be performed as part of a process plan and their characteristics .">Define activities (processes) to be performed as part of a process plan and their characteristics .</value>
   </row>
   <row id="800160" trl="N">
@@ -1085,8 +1085,8 @@
     <value column="Description" isTrl="N" original="Create and edit data collection and measurements related to quality control.  This is done at predefined checkpoints for a produced product.">Create and edit data collection and measurements related to quality control.  This is done at predefined checkpoints for a produced product.</value>
   </row>
   <row id="800177" trl="N">
-    <value column="Name" isTrl="N" original="G/L Items Report">G/L Items Report</value>
-    <value column="Description" isTrl="N" original="G/L Items Report">G/L Items Report</value>
+    <value column="Name" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
+    <value column="Description" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
   </row>
   <row id="800178" trl="N">
     <value column="Name" isTrl="N" original="Performance Scorecard">Performance Scorecard</value>

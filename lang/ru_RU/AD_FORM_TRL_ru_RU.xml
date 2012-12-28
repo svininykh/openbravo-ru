@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_FORM" version="">
   <row id="100" trl="N">
-    <value column="Name" isTrl="N" original="Create Invoices from Orders">Create Invoices from Orders</value>
+    <value column="Name" isTrl="Y" original="Create Invoices from Orders">Создать счёт-фактуры по накладным</value>
     <value column="Description" isTrl="N" original="Create invoices for all processed sales orders/goods shipments that have not been invoiced.">Create invoices for all processed sales orders/goods shipments that have not been invoiced.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1003100000" trl="N">
-    <value column="Name" isTrl="N" original="Session Preferences">Session Preferences</value>
+    <value column="Name" isTrl="Y" original="Session Preferences">Параметры сессии</value>
     <value column="Description" isTrl="N" original="View session information and set certain system settings.">View session information and set certain system settings.</value>
     <value column="Help" isTrl="N" original="Session preferences allow showing or hiding accounting tabs or translation tabs for a given user, role, client and organization.">Session preferences allow showing or hiding accounting tabs or translation tabs for a given user, role, client and organization.</value>
   </row>
   <row id="1003100002" trl="N">
-    <value column="Name" isTrl="N" original="Session Variables">Session Variables</value>
+    <value column="Name" isTrl="Y" original="Session Variables">Переменные сессии</value>
     <value column="Description" isTrl="N" original="View and set session variables.">View and set session variables.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>

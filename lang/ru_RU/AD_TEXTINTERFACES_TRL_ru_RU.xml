@@ -73,10 +73,10 @@
     <value column="Text" isTrl="N" original="Set priority">Set priority</value>
   </row>
   <row id="1000100009" trl="N">
-    <value column="Text" isTrl="N" original="Reinvoicing">Reinvoicing</value>
+    <value column="Text" isTrl="Y" original="Reinvoicing">Перепровести</value>
   </row>
   <row id="1000100010" trl="N">
-    <value column="Text" isTrl="N" original="Show audit">Show audit</value>
+    <value column="Text" isTrl="Y" original="Show audit">Отображать аудит</value>
   </row>
   <row id="1000100012" trl="N">
     <value column="Text" isTrl="N" original="Accounting Report">Accounting Report</value>
@@ -214,10 +214,10 @@
     <value column="Text" isTrl="N" original="is accounting">is accounting</value>
   </row>
   <row id="1000600005" trl="N">
-    <value column="Text" isTrl="N" original="Value">Value</value>
+    <value column="Text" isTrl="Y" original="Value">Значение</value>
   </row>
   <row id="1000600006" trl="N">
-    <value column="Text" isTrl="N" original="Preference">Preference</value>
+    <value column="Text" isTrl="Y" original="Preference">Привилегия</value>
   </row>
   <row id="1000600007" trl="N">
     <value column="Text" isTrl="N" original="Global">Global</value>
@@ -2465,16 +2465,16 @@
     <value column="Text" isTrl="N" original="You can't view frames">You can't view frames</value>
   </row>
   <row id="802115" trl="N">
-    <value column="Text" isTrl="N" original="Cash and bank transactions">Cash and bank transactions</value>
+    <value column="Text" isTrl="Y" original="Cash and bank transactions">Транзакции по банку и кассе</value>
   </row>
   <row id="802158" trl="N">
-    <value column="Text" isTrl="N" original="Show accounting tabs">Show accounting tabs</value>
+    <value column="Text" isTrl="Y" original="Show accounting tabs">Отображать вкладки проводок</value>
   </row>
   <row id="802159" trl="N">
-    <value column="Text" isTrl="N" original="Show translation tabs">Show translation tabs</value>
+    <value column="Text" isTrl="Y" original="Show translation tabs">Отображать вкладки перевода</value>
   </row>
   <row id="802164" trl="N">
-    <value column="Text" isTrl="N" original="Show test">Show test</value>
+    <value column="Text" isTrl="Y" original="Show test">Отображать тест</value>
   </row>
   <row id="802170" trl="N">
     <value column="Text" isTrl="N" original="SQL execution">SQL execution</value>
@@ -3386,16 +3386,16 @@
     <value column="Text" isTrl="N" original="Reception date">Reception date</value>
   </row>
   <row id="806716" trl="N">
-    <value column="Text" isTrl="N" original="Records range">Records range</value>
+    <value column="Text" isTrl="Y" original="Records range">Диапазон записей</value>
   </row>
   <row id="806717" trl="N">
-    <value column="Text" isTrl="N" original="Transaction range">Transaction range</value>
+    <value column="Text" isTrl="Y" original="Transaction range">Диапазон транзакции</value>
   </row>
   <row id="806718" trl="N">
     <value column="Text" isTrl="N" original="Selector registry range">Selector registry range</value>
   </row>
   <row id="806719" trl="N">
-    <value column="Text" isTrl="N" original="Theme">Theme</value>
+    <value column="Text" isTrl="Y" original="Theme">Тема</value>
   </row>
   <row id="806722" trl="N">
     <value column="Text" isTrl="N" original="Format">Format</value>
@@ -3764,10 +3764,10 @@
     <value column="Text" isTrl="N" original="From Reference Date">From Reference Date</value>
   </row>
   <row id="807157" trl="N">
-    <value column="Text" isTrl="Y" original="General Ledger">Главная книга</value>
+    <value column="Text" isTrl="Y" original="General Ledger">Главная Книга</value>
   </row>
   <row id="807158" trl="N">
-    <value column="Text" isTrl="N" original="General Ledger Journal">General Ledger Journal</value>
+    <value column="Text" isTrl="N" original="General Ledger Journal">Журнал Главной Книги</value>
   </row>
   <row id="807159" trl="N">
     <value column="Text" isTrl="N" original="Generate budget excel report">Generate budget excel report</value>
@@ -3956,7 +3956,7 @@
     <value column="Text" isTrl="Y" original="Postal Code">Почтовый индекс</value>
   </row>
   <row id="807244" trl="N">
-    <value column="Text" isTrl="N" original="Preferences">Preferences</value>
+    <value column="Text" isTrl="Y" original="Preferences">Привилегии</value>
   </row>
   <row id="807245" trl="Y">
     <value column="Text" isTrl="Y" original="Previous">Назад</value>

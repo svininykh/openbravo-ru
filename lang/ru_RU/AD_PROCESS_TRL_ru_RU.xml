@@ -36,32 +36,32 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1002100000" trl="N">
-    <value column="Name" isTrl="N" original="Create Vat Registers">Create Vat Registers</value>
-    <value column="Description" isTrl="N" original="Create Vat Registers">Create Vat Registers</value>
-    <value column="Help" isTrl="N" original="Create Vat Registers">Create Vat Registers</value>
+    <value column="Name" isTrl="Y" original="Create Vat Registers">Создать регистры НДС</value>
+    <value column="Description" isTrl="Y" original="Create Vat Registers">Создать регистры НДС</value>
+    <value column="Help" isTrl="Y" original="Create Vat Registers">Создать регистры НДС</value>
   </row>
   <row id="1002100001" trl="N">
-    <value column="Name" isTrl="N" original="Report VAT Register">Report VAT Register</value>
-    <value column="Description" isTrl="N" original="Report VAT Register">Report VAT Register</value>
-    <value column="Help" isTrl="N" original="Report VAT Register">Report VAT Register</value>
+    <value column="Name" isTrl="Y" original="Report VAT Register">Отчёт Регистр НДС</value>
+    <value column="Description" isTrl="Y" original="Report VAT Register">Отчёт Регистр НДС</value>
+    <value column="Help" isTrl="Y" original="Report VAT Register">Отчёт Регистр НДС</value>
   </row>
   <row id="1002100002" trl="N">
-    <value column="Name" isTrl="N" original="Report Tax Payment">Report Tax Payment</value>
-    <value column="Description" isTrl="N" original="Report Tax Payment">Report Tax Payment</value>
-    <value column="Help" isTrl="N" original="Report Tax Payment">Report Tax Payment</value>
+    <value column="Name" isTrl="Y" original="Report Tax Payment">Отчёт Оплата налога</value>
+    <value column="Description" isTrl="Y" original="Report Tax Payment">Отчёт Оплата налога</value>
+    <value column="Help" isTrl="Y" original="Report Tax Payment">Отчёт Оплата налога</value>
   </row>
   <row id="1002100003" trl="N">
-    <value column="Name" isTrl="N" original="Withholding Report">Withholding Report</value>
-    <value column="Description" isTrl="N" original="Withholding Report">Withholding Report</value>
-    <value column="Help" isTrl="N" original="Withholding Report">Withholding Report</value>
+    <value column="Name" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
+    <value column="Description" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
+    <value column="Help" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
   </row>
   <row id="1003900000" trl="N">
-    <value column="Name" isTrl="N" original="TaxPayment Post">TaxPayment Post</value>
-    <value column="Description" isTrl="N" original="TaxPayment Post">TaxPayment Post</value>
-    <value column="Help" isTrl="N" original="Post the TaxPayment">Post the TaxPayment</value>
+    <value column="Name" isTrl="Y" original="TaxPayment Post">Провести оплату налога</value>
+    <value column="Description" isTrl="Y" original="TaxPayment Post">Провести оплату налога</value>
+    <value column="Help" isTrl="Y" original="Post the TaxPayment">Провести оплату налога</value>
   </row>
   <row id="1004400000" trl="N">
-    <value column="Name" isTrl="N" original="Create Purchase Order">Create Purchase Order</value>
+    <value column="Name" isTrl="Y" original="Create Purchase Order">Создать приходную накладную</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="In order to create a Purchase Order from selected Requisition Lines, it is necessary to set some values:&lt;br/&gt;&#10;Order Date: The date of the Purchase Order&lt;br/&gt;&#10;Business Partner, Price List and Organization: If all the selected requisition lines have a common Business Partner, Price List or Organization, then the common value is shown in the appropriate field.&lt;br/&gt;&#10;For other required values the corresponding default values are used.&lt;br/&gt;&#10;Once the Purchase Order is created, it is marked as Completed and its Document Number is shown in the success message.">In order to create a Purchase Order from selected Requisition Lines, it is necessary to set some values:&lt;br/&gt;
 Order Date: The date of the Purchase Order&lt;br/&gt;
@@ -1037,9 +1037,9 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="With this process are planed all the gatherings of the periodic control selected.">With this process are planed all the gatherings of the periodic control selected.</value>
   </row>
   <row id="800123" trl="N">
-    <value column="Name" isTrl="N" original="G/L Items Report">G/L Items Report</value>
-    <value column="Description" isTrl="N" original="G/L Items Report">G/L Items Report</value>
-    <value column="Help" isTrl="N" original="G/L Items Report">G/L Items Report</value>
+    <value column="Name" isTrl="Y" original="G/L Items Report">Отчёт Г/К Проводки</value>
+    <value column="Description" isTrl="Y" original="G/L Items Report">Отчёт Г/К Проводки</value>
+    <value column="Help" isTrl="Y" original="G/L Items Report">Отчёт Г/К Проводки</value>
   </row>
   <row id="800124" trl="N">
     <value column="Name" isTrl="N" original="Performance Scorecard">Performance Scorecard</value>

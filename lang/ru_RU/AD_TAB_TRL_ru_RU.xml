@@ -92,7 +92,7 @@
     <value column="Help" isTrl="N" original="The tax payment window allows to calculate the amount of taxes to be paid to or received from the tax authority within a given period of time. It also allows to generate the corresponding payment to/from the tax authority.">Payment of Tax</value>
   </row>
   <row id="1002100012" trl="N">
-    <value column="Name" isTrl="N" original="Tax Register Header">Tax Register Header</value>
+    <value column="Name" isTrl="Y" original="Tax Register Header">Заглавие налогового регистра</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Tax Register Header">Tax Register Header</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -232,7 +232,7 @@
     <value column="Help" isTrl="N" original="Edit the validation setup used for columns of tables.">Edit the validation setup used for columns of tables.</value>
   </row>
   <row id="109" trl="N">
-    <value column="Name" isTrl="N" original="Message">Message</value>
+    <value column="Name" isTrl="Y" original="Message">Сообщение</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define application initiated information and error messages.">Define application initiated information and error messages.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -421,35 +421,35 @@
     <value column="Help" isTrl="N" original="Currency window allows to visualize or to create and configure the currencies to use in monetary transactions.">Currency window allows to visualize or to create and configure the currencies to use in monetary transactions.</value>
   </row>
   <row id="153" trl="N">
-    <value column="Name" isTrl="N" original="Element">Element</value>
+    <value column="Name" isTrl="Y" original="Element">Бухгалтерский счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create account elements structures to be used in the accounting  schema.">Create account elements structures to be used in the accounting  schema.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The account tree window allows to review and maintain the chart of accounts imported through a chart of accounts module as well as to create new ones from scratch.">The account tree window allows to review and maintain the chart of accounts imported through a chart of accounts module as well as to create new ones from scratch.</value>
   </row>
   <row id="154" trl="N">
-    <value column="Name" isTrl="N" original="Location">Location</value>
+    <value column="Name" isTrl="Y" original="Location">Расположение</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define locations for organizations.">Define locations for organizations.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Define locations for organizations.">Define locations for organizations.</value>
   </row>
   <row id="156" trl="N">
-    <value column="Name" isTrl="N" original="Preference">Preference</value>
+    <value column="Name" isTrl="Y" original="Preference">Привилегия</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a preference.  If this preference is in conflict with any other default in the application, this preference will take priority.">Create a preference.  If this preference is in conflict with any other default in the application, this preference will take priority.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Preference window allow to define and maintain session values which can be visible and therefore applied to different levels such as Client, Organization, User, Role and Window.">Preference window allow to define and maintain session values which can be visible and therefore applied to different levels such as Client, Organization, User, Role and Window.</value>
   </row>
   <row id="157" trl="N">
-    <value column="Name" isTrl="N" original="Multiphase Project">Multiphase Project</value>
+    <value column="Name" isTrl="Y" original="Multiphase Project">Мультифазный проект</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and plan a multiphase project.">Create and plan a multiphase project.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and plan a multiphase project.">Create and plan a multiphase project.</value>
   </row>
   <row id="158" trl="N">
-    <value column="Name" isTrl="N" original="G/L Category">G/L Category</value>
+    <value column="Name" isTrl="Y" original="G/L Category">Г/К Категория</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define G/L Categories to be used in the General Ledger.">Define G/L Categories to be used in the General Ledger.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -533,7 +533,7 @@
     <value column="Help" isTrl="N" original="Tax rate window allows to create as many tax rates as required.">Tax rate window allows to create as many tax rates as required.</value>
   </row>
   <row id="176" trl="N">
-    <value column="Name" isTrl="N" original="Tax Category">Tax Category</value>
+    <value column="Name" isTrl="Y" original="Tax Category">Категория налога</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create tax categories to manage tax rates with similar characteristics or attributes.">Create tax categories to manage tax rates with similar characteristics or attributes.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -694,7 +694,7 @@
     <value column="Help" isTrl="N" original="Define a sales channel to be used in the sales process.">Define a sales channel to be used in the sales process.</value>
   </row>
   <row id="203" trl="N">
-    <value column="Name" isTrl="N" original="Element">Element</value>
+    <value column="Name" isTrl="Y" original="Element">Элемент приложения</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit application elements and their texts.">Create and edit application elements and their texts.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -947,7 +947,7 @@
     <value column="Help" isTrl="N" original="Edit your report or process translations for the predefined languages of your choice.">Edit your report or process translations for the predefined languages of your choice.</value>
   </row>
   <row id="249" trl="N">
-    <value column="Name" isTrl="N" original="Activity">Activity</value>
+    <value column="Name" isTrl="Y" original="Activity">Деятельность</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1157,7 +1157,7 @@
     <value column="Help" isTrl="N" original="Once the goods receipt header has been properly filled in and saved each item received can be listed as a separate goods receipt line.">Once the goods receipt header has been properly filled in and saved each item received can be listed as a separate goods receipt line.</value>
   </row>
   <row id="2AABA620227C4531B9466831C8063F5A" trl="N">
-    <value column="Name" isTrl="N" original="Return Reasons">Return Reasons</value>
+    <value column="Name" isTrl="Y" original="Return Reasons">Основания возврата</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2314,7 +2314,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define the GL item that are going to be used">Define the GL item that are going to be used</value>
   </row>
   <row id="800033" trl="N">
-    <value column="Name" isTrl="N" original="G/L Item">G/L Item</value>
+    <value column="Name" isTrl="N" original="G/L Item">Г/К Типовая проводка</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit accounting items to be used in manual settlements.">Create and edit accounting items to be used in manual settlements.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2566,7 +2566,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add machines to be used in a selected work center.">Add machines to be used in a selected work center.</value>
   </row>
   <row id="800089" trl="N">
-    <value column="Name" isTrl="N" original="Activity">Activity</value>
+    <value column="Name" isTrl="Y" original="Activity">Бизнес-процесс</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View the activity related to a selected work center.">View the activity related to a selected work center.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2678,14 +2678,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add or edit toolsets used to complete a specified part of a work requirement.">Add or edit toolsets used to complete a specified part of a work requirement.</value>
   </row>
   <row id="800119" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add and edit I/O products related to a completed part of a work requirement.">Add and edit I/O products related to a completed part of a work requirement.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add and edit I/O products related to a completed part of a work requirement.">Add and edit I/O products related to a completed part of a work requirement.</value>
   </row>
   <row id="800143" trl="N">
-    <value column="Name" isTrl="N" original="Activity">Activity</value>
+    <value column="Name" isTrl="Y" original="Activity">Бизнес-процесс</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create activities to be used in the production process.">Create activities to be used in the production process.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3539,7 +3539,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="AB9A0625167C4B169E0DAACBF82B1A8B" trl="N">
-    <value column="Name" isTrl="N" original="Accounting process">Accounting process</value>
+    <value column="Name" isTrl="Y" original="Accounting process">Обработка проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Accounting process defined to be executed at posting time">Accounting process defined to be executed at posting time</value>
     <value column="Filtername" isTrl="N" original=""/>

@@ -6,12 +6,12 @@
     <value column="Help" isTrl="N" original="Displays the AD-implementation mappings for web.xml file">Displays the AD-implementation mappings for web.xml file</value>
   </row>
   <row id="0CFFACC0F91C4DFDA429CCF80EBF4BC4" trl="N">
-    <value column="Name" isTrl="N" original="Return Reasons">Return Reasons</value>
+    <value column="Name" isTrl="Y" original="Return Reasons">Основания возврата</value>
     <value column="Description" isTrl="N" original="Here you define the return reason">Here you define the return reason</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="100" trl="N">
-    <value column="Name" isTrl="N" original="Tables and Columns">Tables and Columns</value>
+    <value column="Name" isTrl="Y" original="Tables and Columns">Таблицы и столбцы</value>
     <value column="Description" isTrl="N" original="Edit tables and columns so that Openbravo can access the database, as well as control the role access.">Edit tables and columns so that Openbravo can access the database, as well as control the role access.</value>
     <value column="Help" isTrl="N" original="Edit tables and columns so that Openbravo can access the database, as well as control the role access.">Edit tables and columns so that Openbravo can access the database, as well as control the role access.</value>
   </row>
@@ -21,12 +21,12 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1002100003" trl="N">
-    <value column="Name" isTrl="N" original="Tax Register Type">Tax Register Type</value>
-    <value column="Description" isTrl="N" original="Tax Register Type">Tax Register Type</value>
-    <value column="Help" isTrl="N" original="A tax register type is used to collect all the tax rates of a type to take into account while calculating the total tax amount of a given tax register type within a period of time.">A tax register type is used to collect all the tax rates of a type to take into account while calculating the total tax amount of a given tax register type within a period of time.</value>
+    <value column="Name" isTrl="Y" original="Tax Register Type">Тип налогового регистра</value>
+    <value column="Description" isTrl="Y" original="Tax Register Type">Тип налогового регистра</value>
+    <value column="Help" isTrl="Y" original="A tax register type is used to collect all the tax rates of a type to take into account while calculating the total tax amount of a given tax register type within a period of time.">A tax register type is used to collect all the tax rates of a type to take into account while calculating the total tax amount of a given tax register type within a period of time.</value>
   </row>
   <row id="1002100004" trl="N">
-    <value column="Name" isTrl="N" original="Tax Payment">Tax Payment</value>
+    <value column="Name" isTrl="Y" original="Tax Payment">Оплата налога</value>
     <value column="Description" isTrl="N" original="Tax Payment/Tax Register">Tax Payment/Tax Register</value>
     <value column="Help" isTrl="N" original="The &quot;Tax Payment&quot; process helps to calculate the amount of taxes to be paid to or received from the tax authority.">The &quot;Tax Payment&quot; process helps to calculate the amount of taxes to be paid to or received from the tax authority.</value>
   </row>
@@ -53,7 +53,7 @@ You may deactivate this feature by disabling the “enable heartbeat” box. In 
 By enabling the heartbeat, you consent to the processing of this data and storing of the same in the USA as set out above.</value>
   </row>
   <row id="101" trl="N">
-    <value column="Name" isTrl="N" original="Reference">Reference</value>
+    <value column="Name" isTrl="Y" original="Reference">Тип данных</value>
     <value column="Description" isTrl="N" original="Edit standard data types such as strings, integers, lists as well as custom data types.">Edit standard data types such as strings, integers, lists as well as custom data types.</value>
     <value column="Help" isTrl="N" original="Edit standard data types such as strings, integers, lists as well as custom data types.">Edit standard data types such as strings, integers, lists as well as custom data types.</value>
   </row>
@@ -68,17 +68,17 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="Create and edit the validation setup to be used for columns of tables.">Create and edit the validation setup to be used for columns of tables.</value>
   </row>
   <row id="104" trl="N">
-    <value column="Name" isTrl="N" original="Message">Message</value>
+    <value column="Name" isTrl="Y" original="Message">Сообщение</value>
     <value column="Description" isTrl="N" original="Create and edit application initiated information and error messages.">Create and edit application initiated information and error messages.</value>
     <value column="Help" isTrl="N" original="Create and edit application initiated information and error messages.">Create and edit application initiated information and error messages.</value>
   </row>
   <row id="105" trl="N">
-    <value column="Name" isTrl="N" original="Menu">Menu</value>
+    <value column="Name" isTrl="Y" original="Menu">Меню</value>
     <value column="Description" isTrl="N" original="Edit the application menu tree structure according to your business necessities.">Edit the application menu tree structure according to your business necessities.</value>
     <value column="Help" isTrl="N" original="Edit the application menu tree structure according to your business necessities.">Edit the application menu tree structure according to your business necessities.</value>
   </row>
   <row id="106" trl="N">
-    <value column="Name" isTrl="N" original="Language">Language</value>
+    <value column="Name" isTrl="Y" original="Language">Язык</value>
     <value column="Description" isTrl="N" original="Define multiple languages to be used in the application.">Define multiple languages to be used in the application.</value>
     <value column="Help" isTrl="N" original="Define multiple languages to be used in the application.">Define multiple languages to be used in the application.</value>
   </row>
@@ -138,28 +138,28 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.">An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.</value>
   </row>
   <row id="11E11FE8445B4621A9989DD406C1B374" trl="N">
-    <value column="Name" isTrl="N" original="Organization Type">Organization Type</value>
+    <value column="Name" isTrl="Y" original="Organization Type">Тип организации</value>
     <value column="Description" isTrl="N" original="Defines an organization type which will be available into the system">Defines an organization type which will be available into the system</value>
     <value column="Help" isTrl="N" original="An organization can be a Legal Entity, a Business Unit or neither of both.&#10;You can also select if transactions are allowed or not for this organization type.">An organization can be a Legal Entity, a Business Unit or neither of both.
 You can also select if transactions are allowed or not for this organization type.</value>
   </row>
   <row id="120" trl="N">
-    <value column="Name" isTrl="N" original="Unit of Measure">Unit of Measure</value>
+    <value column="Name" isTrl="Y" original="Unit of Measure">Единицы измерения</value>
     <value column="Description" isTrl="N" original="Create units of measure and conversions rates to be applied to products.">Create units of measure and conversions rates to be applied to products.</value>
     <value column="Help" isTrl="N" original="A unit of measure is a standard unit or combination of units to be used alongside the quantity of a product.">A unit of measure is a standard unit or combination of units to be used alongside the quantity of a product.</value>
   </row>
   <row id="121" trl="N">
-    <value column="Name" isTrl="N" original="Location">Location</value>
+    <value column="Name" isTrl="Y" original="Location">Расположение</value>
     <value column="Description" isTrl="N" original="Define addresses or service points of your organizations.">Define addresses or service points of your organizations.</value>
     <value column="Help" isTrl="N" original="Define addresses or service points of your organizations.">Define addresses or service points of your organizations.</value>
   </row>
   <row id="122" trl="N">
-    <value column="Name" isTrl="N" original="Country and Region">Country and Region</value>
+    <value column="Name" isTrl="Y" original="Country and Region">Страна и регион</value>
     <value column="Description" isTrl="N" original="Define countries with regions to be used in the application.">Define countries with regions to be used in the application.</value>
     <value column="Help" isTrl="N" original="Countries and regions are basic settings to share within Openbravo.">Countries and regions are basic settings to share within Openbravo.</value>
   </row>
   <row id="123" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
     <value column="Description" isTrl="N" original="Create and edit business partner information, templates, and bank accounts.">Create and edit business partner information, templates, and bank accounts.</value>
     <value column="Help" isTrl="N" original="Business partner master data window is the place where you can easily organize and centralize business partner data. ">Business partner master data window is the place where you can easily organize and centralize business partner data. </value>
   </row>
@@ -174,45 +174,45 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="The general ledger configuration drives the way that the organization's financial transactions are going to be posted to the ledger.">The general ledger configuration drives the way that the organization's financial transactions are going to be posted to the ledger.</value>
   </row>
   <row id="129" trl="N">
-    <value column="Name" isTrl="N" original="Preference">Preference</value>
+    <value column="Name" isTrl="Y" original="Preference">Привилегии</value>
     <value column="Description" isTrl="N" original="Create and edit extremely restrictive values for a specified user, window, or for the entire application.">Create and edit extremely restrictive values for a specified user, window, or for the entire application.</value>
     <value column="Help" isTrl="N" original="A preference is a type of session value which can either be an attribute or a property.">A preference is a type of session value which can either be an attribute or a property.</value>
   </row>
   <row id="130" trl="N">
-    <value column="Name" isTrl="N" original="Multiphase Project">Multiphase Project</value>
+    <value column="Name" isTrl="Y" original="Multiphase Project">Мультифазный проект</value>
     <value column="Description" isTrl="N" original="Create and edit projects and tasks potentially requiring sales invoicing.">Create and edit projects and tasks potentially requiring sales invoicing.</value>
     <value column="Help" isTrl="N" original="Create and edit projects and tasks potentially requiring sales invoicing.&#10;">Create and edit projects and tasks potentially requiring sales invoicing.
 </value>
   </row>
   <row id="131" trl="N">
-    <value column="Name" isTrl="N" original="G/L Category">G/L Category</value>
+    <value column="Name" isTrl="Y" original="G/L Category">Г/К Категория</value>
     <value column="Description" isTrl="N" original="Define G/L Categories to be used in the General Ledger.">Define G/L Categories to be used in the General Ledger.</value>
     <value column="Help" isTrl="N" original="Define G/L Categories to be used in the General Ledger.">Define G/L Categories to be used in the General Ledger.</value>
   </row>
   <row id="132" trl="N">
-    <value column="Name" isTrl="N" original="G/L Journal">G/L Journal</value>
+    <value column="Name" isTrl="Y" original="G/L Journal">Г/К Журнал</value>
     <value column="Description" isTrl="N" original="Create and edit manual G/L journal entries.">Create and edit manual G/L journal entries.</value>
     <value column="Help" isTrl="N" original="A G/L (General Ledger) journal allows to post journal entries to the ledger.">A G/L (General Ledger) journal allows to post journal entries to the ledger.</value>
   </row>
   <row id="134" trl="N">
-    <value column="Name" isTrl="N" original="ABC Activity">ABC Activity</value>
+    <value column="Name" isTrl="Y" original="ABC Activity">ABC Деятельность</value>
     <value column="Description" isTrl="N" original="Define activities for which you are interested in managing costs.">Define activities for which you are interested in managing costs.</value>
     <value column="Help" isTrl="N" original="Activity based costing (ABC) is a special costing model that identifies activities in an organization for which managing cost is required.&#10;&#10;">Activity based costing (ABC) is a special costing model that identifies activities in an organization for which managing cost is required.
 
 </value>
   </row>
   <row id="135" trl="N">
-    <value column="Name" isTrl="N" original="Document Type">Document Type</value>
+    <value column="Name" isTrl="Y" original="Document Type">Тип документа</value>
     <value column="Description" isTrl="N" original="Create and manage document types to be used for all application transactions.">Create and manage document types to be used for all application transactions.</value>
     <value column="Help" isTrl="N" original="Each document type in Openbravo refers to a business transactions. Business transactions such as purchase orders, shipments or sales invoices among others.">Each document type in Openbravo refers to a business transactions. Business transactions such as purchase orders, shipments or sales invoices among others.</value>
   </row>
   <row id="137" trl="N">
-    <value column="Name" isTrl="N" original="Tax Rate">Tax Rate</value>
+    <value column="Name" isTrl="Y" original="Tax Rate">Ставка налога</value>
     <value column="Description" isTrl="N" original="Create tax rates to be used in application transactions.">Create tax rates to be used in application transactions.</value>
     <value column="Help" isTrl="N" original="Each tax rate in Openbravo is a combination of different variables such as the tax category, the rate and the business partner tax category among others.&lt;br&gt;If all those variables are properly setup the correct tax rate is automatically filled in every business transaction.">Each tax rate in Openbravo is a combination of different variables such as the tax category, the rate and the business partner tax category among others.&lt;br&gt;If all those variables are properly setup the correct tax rate is automatically filled in every business transaction.</value>
   </row>
   <row id="138" trl="N">
-    <value column="Name" isTrl="N" original="Tax Category">Tax Category</value>
+    <value column="Name" isTrl="Y" original="Tax Category">Категория налога</value>
     <value column="Description" isTrl="N" original="Create tax categories to manage tax rates with similar characteristics or attributes.">Create tax categories to manage tax rates with similar characteristics or attributes.</value>
     <value column="Help" isTrl="N" original="A tax category allows to group and manage similar product or services tax rates.">A tax category allows to group and manage similar product or services tax rates.</value>
   </row>
@@ -263,12 +263,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create specific sales campaigns to be used in sales operations.">Create specific sales campaigns to be used in sales operations.</value>
   </row>
   <row id="150" trl="N">
-    <value column="Name" isTrl="N" original="Sales Channel">Sales Channel</value>
+    <value column="Name" isTrl="Y" original="Sales Channel">Канал продаж</value>
     <value column="Description" isTrl="N" original="Create specific sales channels to be used in sales operations.">Create specific sales channels to be used in sales operations.</value>
     <value column="Help" isTrl="N" original="Create specific sales channels to be used in sales operations.">Create specific sales channels to be used in sales operations.</value>
   </row>
   <row id="151" trl="N">
-    <value column="Name" isTrl="N" original="Element">Element</value>
+    <value column="Name" isTrl="Y" original="Element">Элемент приложения</value>
     <value column="Description" isTrl="N" original="Edit the central repository of application elements to update field name descriptions and help/comments.">Edit the central repository of application elements to update field name descriptions and help/comments.</value>
     <value column="Help" isTrl="N" original="Edit the central repository of application elements to update field name descriptions and help/comments.">Edit the central repository of application elements to update field name descriptions and help/comments.</value>
   </row>
@@ -278,7 +278,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create sales regions to be used in sales operations.">Create sales regions to be used in sales operations.</value>
   </row>
   <row id="153" trl="N">
-    <value column="Name" isTrl="N" original="Account Combination">Account Combination</value>
+    <value column="Name" isTrl="Y" original="Account Combination">Типовые проводки</value>
     <value column="Description" isTrl="N" original="Create accounting combinations to be used in Openbravo's accounting process.">Create accounting combinations to be used in Openbravo's accounting process.</value>
     <value column="Help" isTrl="N" original="An account combination is an Organization's General Ledger account.">An account combination is an Organization's General Ledger account.</value>
   </row>
@@ -583,7 +583,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="6CB90FC76E2E4CD3A6AF472E39C042B6" trl="N">
-    <value column="Name" isTrl="N" original="Costing Algorithm">Costing Algorithm</value>
+    <value column="Name" isTrl="Y" original="Costing Algorithm">Алгоритм калькуляции</value>
     <value column="Description" isTrl="N" original="Defines each costing algorithm installed and ready to use">Defines each costing algorithm installed and ready to use</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -628,7 +628,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit payments with no corresponding document/transaction in the application.">Create and edit payments with no corresponding document/transaction in the application.</value>
   </row>
   <row id="800007" trl="N">
-    <value column="Name" isTrl="N" original="G/L Item">G/L Item</value>
+    <value column="Name" isTrl="Y" original="G/L Item">Г/К Типовая проводка</value>
     <value column="Description" isTrl="N" original="Create and edit accounting items to be used in manual settlements.">Create and edit accounting items to be used in manual settlements.</value>
     <value column="Help" isTrl="N" original="A G/L item is an account item to be used for direct account posting.">A G/L item is an account item to be used for direct account posting.</value>
   </row>
@@ -738,7 +738,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Edit precisely what has been produced from a selected product order.</value>
   </row>
   <row id="800060" trl="N">
-    <value column="Name" isTrl="N" original="Activity">Activity</value>
+    <value column="Name" isTrl="Y" original="Activity">Бизнес-процесс</value>
     <value column="Description" isTrl="N" original="Define activities (processes) to be performed as part of a process plan and their characteristics .">Define activities (processes) to be performed as part of a process plan and their characteristics .</value>
     <value column="Help" isTrl="N" original="Define activities (processes) to be performed as part of a process plan and their characteristics .">Define activities (processes) to be performed as part of a process plan and their characteristics .</value>
   </row>
@@ -908,7 +908,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
   </row>
   <row id="A9FD6A5AED3546EC83DB567882646D2E" trl="N">
-    <value column="Name" isTrl="N" original="Accounting Process">Accounting Process</value>
+    <value column="Name" isTrl="Y" original="Accounting Process">Обработка проводки</value>
     <value column="Description" isTrl="N" original="Accounting process to be launched at posting time">Accounting process to be launched at posting time</value>
     <value column="Help" isTrl="N" original=""/>
   </row>

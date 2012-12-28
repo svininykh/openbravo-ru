@@ -566,10 +566,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1002100011" trl="N">
-    <value column="Name" isTrl="N" original="Tax Register Type">Tax Register Type</value>
-    <value column="PrintName" isTrl="N" original="Type of Tax Register">Type of Tax Register</value>
-    <value column="Description" isTrl="N" original="Type of Tax Register">Type of Tax Register</value>
-    <value column="Help" isTrl="N" original="Type of Tax Register">Type of Tax Register</value>
+    <value column="Name" isTrl="Y" original="Tax Register Type">Тип налогового регистра</value>
+    <value column="PrintName" isTrl="Y" original="Type of Tax Register">Тип налогового регистра</value>
+    <value column="Description" isTrl="Y" original="Type of Tax Register">Тип налогового регистра</value>
+    <value column="Help" isTrl="Y" original="Type of Tax Register">Тип налогового регистра</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -586,9 +586,9 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1002100014" trl="N">
-    <value column="Name" isTrl="N" original="C_Taxregisterline_ID">C_Taxregisterline_ID</value>
-    <value column="PrintName" isTrl="N" original="Tax register line">Tax register line</value>
-    <value column="Description" isTrl="N" original="Tax register line">Tax register line</value>
+    <value column="Name" isTrl="Y" original="C_Taxregisterline_ID">Строка налогового регистра</value>
+    <value column="PrintName" isTrl="Y" original="Tax register line">Строка налогового регистра</value>
+    <value column="Description" isTrl="Y" original="Tax register line">Строка налогового регистра</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -626,10 +626,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1002100019" trl="N">
-    <value column="Name" isTrl="N" original="Tax Register">Tax Register</value>
-    <value column="PrintName" isTrl="N" original="Tax Register">Tax Register</value>
-    <value column="Description" isTrl="N" original="Tax register">Tax register</value>
-    <value column="Help" isTrl="N" original="Tax register">Tax register</value>
+    <value column="Name" isTrl="Y" original="Tax Register">Налоговый регистр</value>
+    <value column="PrintName" isTrl="Y" original="Tax Register">Налоговый регистр</value>
+    <value column="Description" isTrl="Y" original="Tax register">Налоговый регистр</value>
+    <value column="Help" isTrl="Y" original="Tax register">Налоговый регистр</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1782,8 +1782,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="106" trl="N">
-    <value column="Name" isTrl="N" original="Application Element">Application Element</value>
-    <value column="PrintName" isTrl="N" original="Element">Element</value>
+    <value column="Name" isTrl="Y" original="Application Element">Элемент приложения</value>
+    <value column="PrintName" isTrl="Y" original="Element">Элемент приложения</value>
     <value column="Description" isTrl="N" original="An element that consolidates help, descriptions and terms for a database column and allows for a central maintenance.">An element that consolidates help, descriptions and terms for a database column and allows for a central maintenance.</value>
     <value column="Help" isTrl="N" original="The System Element allows for the central maintenance of help, descriptions and terminology for a database column.">The System Element allows for the central maintenance of help, descriptions and terminology for a database column.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2322,8 +2322,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="116" trl="N">
-    <value column="Name" isTrl="N" original="Preference">Preference</value>
-    <value column="PrintName" isTrl="N" original="Preference">Preference</value>
+    <value column="Name" isTrl="Y" original="Preference">Привилегия</value>
+    <value column="PrintName" isTrl="Y" original="Preference">Привилегия</value>
     <value column="Description" isTrl="N" original="Personal Preference">Personal Preference</value>
     <value column="Help" isTrl="N" original="Personal Preference, a default value that will be used by a user.">Personal Preference, a default value that will be used by a user.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5079,8 +5079,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1752" trl="N">
-    <value column="Name" isTrl="N" original="Message">Message</value>
-    <value column="PrintName" isTrl="N" original="Message">Message</value>
+    <value column="Name" isTrl="Y" original="Message">Сообщение</value>
+    <value column="PrintName" isTrl="Y" original="Message">Сообщение</value>
     <value column="Description" isTrl="N" original="The name of the application initiated message.">The name of the application initiated message.</value>
     <value column="Help" isTrl="N" original="Information and Error messages">Information and Error messages</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5469,8 +5469,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="181" trl="N">
-    <value column="Name" isTrl="Y" original="General Ledger">Главная книга</value>
-    <value column="PrintName" isTrl="Y" original="General Ledger">Главная книга</value>
+    <value column="Name" isTrl="Y" original="General Ledger">Главная Книга</value>
+    <value column="PrintName" isTrl="Y" original="General Ledger">Главная Книга</value>
     <value column="Description" isTrl="Y" original="The book containing all financial transactions recorded for the legal entity.">Книга содержит все финансовые операции, записанные для юридического лица.</value>
     <value column="Help" isTrl="N" original="The book containing all financial transactions recorded for the legal entity.">The book containing all financial transactions recorded for the legal entity.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6789,7 +6789,7 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2167" trl="N">
-    <value column="Name" isTrl="Y" original="Sales/Purchase Type">Тип расход/приход</value>
+    <value column="Name" isTrl="Y" original="Sales/Purchase Type">Тип продажи/приобритения</value>
     <value column="PrintName" isTrl="Y" original="SO/PO Type">Тип расх./прих.</value>
     <value column="Description" isTrl="Y" original="Sales Tax applies to sales situations, Purchase Tax to purchase situations">Налог для расходных накладных в случае продажи, или налог для приходных накладных в случае закупки.</value>
     <value column="Help" isTrl="N" original="Sales Tax: charged when selling - examples: Sales Tax, Output VAT (payable)Purchase Tax: tax charged when purchasing - examples: Use Tax, Input VAT (receivable)">Sales Tax: charged when selling - examples: Sales Tax, Output VAT (payable)Purchase Tax: tax charged when purchasing - examples: Use Tax, Input VAT (receivable)</value>
@@ -7570,8 +7570,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="309" trl="N">
-    <value column="Name" isTrl="N" original="G/L Category">G/L Category</value>
-    <value column="PrintName" isTrl="N" original="GL Category">GL Category</value>
+    <value column="Name" isTrl="N" original="G/L Category">Г/К Категория</value>
+    <value column="PrintName" isTrl="N" original="GL Category">Г/К Категория</value>
     <value column="Description" isTrl="N" original="A classification used to group lines in the general ledger.">A classification used to group lines in the general ledger.</value>
     <value column="Help" isTrl="N" original="The General Ledger Category is an optional, user defined method of grouping journal lines.">The General Ledger Category is an optional, user defined method of grouping journal lines.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8701,8 +8701,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="44CBD6E9427241D1B8052EC48012FC6C" trl="N">
-    <value column="Name" isTrl="N" original="Return Reason">Return Reason</value>
-    <value column="PrintName" isTrl="N" original="Return Reason">Return Reason</value>
+    <value column="Name" isTrl="Y" original="Return Reason">Основание возврата</value>
+    <value column="PrintName" isTrl="Y" original="Return Reason">Основание возврата</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9971,8 +9971,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="534" trl="N">
-    <value column="Name" isTrl="Y" original="Rate">Курс</value>
-    <value column="PrintName" isTrl="Y" original="Rate">Курс</value>
+    <value column="Name" isTrl="Y" original="Rate">Ставка</value>
+    <value column="PrintName" isTrl="Y" original="Rate">Ставка</value>
     <value column="Description" isTrl="N" original="The percentage to be multiplied by the source to arrive at the tax or exchange amount.">The percentage to be multiplied by the source to arrive at the tax or exchange amount.</value>
     <value column="Help" isTrl="N" original="The Rate indicates the percentage to be multiplied by the source to arrive at the tax or exchange amount.">The Rate indicates the percentage to be multiplied by the source to arrive at the tax or exchange amount.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13900,31 +13900,31 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="800076" trl="N">
-    <value column="Name" isTrl="N" original="Create file">Create file</value>
-    <value column="PrintName" isTrl="N" original="Create file">Create file</value>
-    <value column="Description" isTrl="N" original="Create file">Create file</value>
-    <value column="Help" isTrl="N" original="Create file">Create file</value>
+  <row id="800076" trl="Y">
+    <value column="Name" isTrl="Y" original="Create file">Создать файл</value>
+    <value column="PrintName" isTrl="Y" original="Create file">Создать файл</value>
+    <value column="Description" isTrl="Y" original="Create file">Создать файл</value>
+    <value column="Help" isTrl="Y" original="Create file">Создать файл</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="800077" trl="N">
-    <value column="Name" isTrl="N" original="Credit Amount">Credit Amount</value>
-    <value column="PrintName" isTrl="N" original="Amount credit">Amount credit</value>
-    <value column="Description" isTrl="N" original="Credit amount">Credit amount</value>
-    <value column="Help" isTrl="N" original="Credit amount">Credit amount</value>
+  <row id="800077" trl="Y">
+    <value column="Name" isTrl="Y" original="Credit Amount">Сумма кредита</value>
+    <value column="PrintName" isTrl="Y" original="Amount credit">Сумма кредита</value>
+    <value column="Description" isTrl="Y" original="Credit amount">Сумма кредита</value>
+    <value column="Help" isTrl="Y" original="Credit amount">Сумма кредита</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="800078" trl="N">
-    <value column="Name" isTrl="N" original="Debit Amount">Debit Amount</value>
-    <value column="PrintName" isTrl="N" original="Amount debit">Amount debit</value>
-    <value column="Description" isTrl="N" original="Debit amount">Debit amount</value>
-    <value column="Help" isTrl="N" original="Debit amount">Debit amount</value>
+  <row id="800078" trl="Y">
+    <value column="Name" isTrl="Y" original="Debit Amount">Сумма дебита</value>
+    <value column="PrintName" isTrl="Y" original="Amount debit">Сумма дебита</value>
+    <value column="Description" isTrl="Y" original="Debit amount">Сумма дебита</value>
+    <value column="Help" isTrl="Y" original="Debit amount">Сумма дебита</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -13941,8 +13941,8 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800080" trl="N">
-    <value column="Name" isTrl="N" original="G/L Item">G/L Item</value>
-    <value column="PrintName" isTrl="N" original="Gl item">Gl item</value>
+    <value column="Name" isTrl="Y" original="G/L Item">Г/К Типовая проводка</value>
+    <value column="PrintName" isTrl="Y" original="Gl item">Г/К Типовая проводка</value>
     <value column="Description" isTrl="N" original="An alias for the Account Combination which can be commonly used in daily operations.">An alias for the Account Combination which can be commonly used in daily operations.</value>
     <value column="Help" isTrl="N" original="General ledger item.">General ledger item.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13950,21 +13950,21 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="800081" trl="N">
-    <value column="Name" isTrl="N" original="Glitem credit acct">Glitem credit acct</value>
-    <value column="PrintName" isTrl="N" original="Glitem credit acct">Glitem credit acct</value>
-    <value column="Description" isTrl="N" original="Glitem credit account">Glitem credit account</value>
-    <value column="Help" isTrl="N" original="Credit account for the general ledger item.">Credit account for the general ledger item.</value>
+  <row id="800081" trl="Y">
+    <value column="Name" isTrl="Y" original="Glitem credit acct">Г/К Кредит счёт</value>
+    <value column="PrintName" isTrl="Y" original="Glitem credit acct">Г/К Кредит счёт</value>
+    <value column="Description" isTrl="Y" original="Glitem credit account">Главная Книга Кредит счёт</value>
+    <value column="Help" isTrl="Y" original="Credit account for the general ledger item.">Кредит счёт для проводки по Главной Книге.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="800082" trl="N">
-    <value column="Name" isTrl="N" original="Glitem debit acct">Glitem debit acct</value>
-    <value column="PrintName" isTrl="N" original="Glitem debit acct">Glitem debit acct</value>
-    <value column="Description" isTrl="N" original="Glitem debit account">Glitem debit account</value>
-    <value column="Help" isTrl="N" original="Debit account for the general ledger item.">Debit account for the general ledger item.</value>
+  <row id="800082" trl="Y">
+    <value column="Name" isTrl="Y" original="Glitem debit acct">Г/К Дебит счёт</value>
+    <value column="PrintName" isTrl="Y" original="Glitem debit acct">Г/К Дебит счёт</value>
+    <value column="Description" isTrl="Y" original="Glitem debit account">Главная Книга Дебит счёт</value>
+    <value column="Help" isTrl="Y" original="Debit account for the general ledger item.">Дебит счёт для проводки по Главной Книге.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -13981,8 +13981,8 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800086" trl="N">
-    <value column="Name" isTrl="N" original="Filter by Organization">Filter by Organization</value>
-    <value column="PrintName" isTrl="N" original="Orgfiltered">Orgfiltered</value>
+    <value column="Name" isTrl="Y" original="Filter by Organization">Фильтр по организации</value>
+    <value column="PrintName" isTrl="Y" original="Orgfiltered">Фильтр по организации</value>
     <value column="Description" isTrl="N" original="Filters by organization. This is used to calculate the document number by document type.">Filters by organization. This is used to calculate the document number by document type.</value>
     <value column="Help" isTrl="N" original="Filters by organization. This is used to calculate the document number by document type.">Filters by organization. This is used to calculate the document number by document type.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14001,7 +14001,7 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800088" trl="N">
-    <value column="Name" isTrl="N" original="Until">Until</value>
+    <value column="Name" isTrl="Y" original="Until">До даты</value>
     <value column="PrintName" isTrl="N" original="To">To</value>
     <value column="Description" isTrl="N" original="End date">End date</value>
     <value column="Help" isTrl="N" original=""/>
@@ -15198,8 +15198,8 @@ For example, if you want to create different invoices for each ship location for
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800296" trl="N">
-    <value column="Name" isTrl="N" original="Activity">Activity</value>
-    <value column="PrintName" isTrl="N" original="Activity">Activity</value>
+    <value column="Name" isTrl="Y" original="Activity">Бизнес-процесс</value>
+    <value column="PrintName" isTrl="Y" original="Activity">Бизнес-процесс</value>
     <value column="Description" isTrl="N" original="A series of actions carried out in sequential order.">A series of actions carried out in sequential order.</value>
     <value column="Help" isTrl="N" original="Indicates a manufacturing process of the enterprise.">Indicates a manufacturing process of the enterprise.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19652,8 +19652,8 @@ The values it can contain are:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8CF76E08562A480D96D45C04F42D095E" trl="N">
-    <value column="Name" isTrl="N" original="Message">Message</value>
-    <value column="PrintName" isTrl="N" original="Message">Message</value>
+    <value column="Name" isTrl="Y" original="Message">Сообщение</value>
+    <value column="PrintName" isTrl="Y" original="Message">Сообщение</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Output message">Output message</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21188,7 +21188,7 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B651D62716A3B629E040007F01004BB7" trl="N">
-    <value column="Name" isTrl="N" original="Costing Algorithm">Costing Algorithm</value>
+    <value column="Name" isTrl="Y" original="Costing Algorithm">Алгоритм калькуляции</value>
     <value column="PrintName" isTrl="N" original="M_Costing_Algorithm_ID">M_Costing_Algorithm_ID</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Identifies a Costing Algorithm. Core distribution includes Average and Standard costing methods. Additional methods can be added using Extension Modules.">Identifies a Costing Algorithm. Core distribution includes Average and Standard costing methods. Additional methods can be added using Extension Modules.</value>

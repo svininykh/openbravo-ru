@@ -285,7 +285,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="1001300000" trl="N">
-    <value column="Name" isTrl="N" original="G/L Item">G/L Item</value>
+    <value column="Name" isTrl="N" original="G/L Item">Г/К Типовая проводка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="1002100000" trl="N">
@@ -2009,7 +2009,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="510" trl="N">
-    <value column="Name" isTrl="N" original="Average Cost">Average Cost</value>
+    <value column="Name" isTrl="Y" original="Average Cost">По средней</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="511" trl="N">
@@ -2285,11 +2285,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="568" trl="N">
-    <value column="Name" isTrl="N" original="Both">Both</value>
+    <value column="Name" isTrl="N" original="Both">Оба</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="569" trl="N">
-    <value column="Name" isTrl="N" original="Sales Tax">Sales Tax</value>
+    <value column="Name" isTrl="N" original="Sales Tax">Налог продаж</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="57" trl="N">
@@ -2313,7 +2313,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="574" trl="N">
-    <value column="Name" isTrl="N" original="Multiphase Project">Multiphase Project</value>
+    <value column="Name" isTrl="Y" original="Multiphase Project">Мультифазный проект</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="575" trl="N">
@@ -3873,7 +3873,7 @@
     <value column="Description" isTrl="N" original="Reverse documents/inventory and allow changes; You need to Complete the transaction after the change. ">Reverse documents/inventory and allow changes; You need to Complete the transaction after the change. </value>
   </row>
   <row id="C25D4CC0A8A6492EBA94B7992DF77F71" trl="N">
-    <value column="Name" isTrl="N" original="Next Month">Next Month</value>
+    <value column="Name" isTrl="Y" original="Next Month">Следующий месяц</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="C293E5B8BA954575B979A1DA586B89D8" trl="N">
@@ -3973,7 +3973,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="D1ED769EC0214ACEABEC82DFB12E4AA0" trl="N">
-    <value column="Name" isTrl="Y" original="Average">Средний</value>
+    <value column="Name" isTrl="Y" original="Average">По средней</value>
     <value column="Description" isTrl="N" original="Average cost">Average cost</value>
   </row>
   <row id="D2434887409C4B62B7B6755FF5F4F119" trl="N">
