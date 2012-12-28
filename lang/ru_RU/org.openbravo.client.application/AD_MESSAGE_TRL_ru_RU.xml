@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MESSAGE" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MESSAGE" version="0.1">
   <row id="00D28B11D6224C649FDC51E822522686" trl="N">
     <value column="MsgText" isTrl="N" original="It seems that another file is being uploaded. If a new file is uploaded, the previous one will be canceled. Are you sure you want to upload a new file?">It seems that another file is being uploaded. If a new file is uploaded, the previous one will be canceled. Are you sure you want to upload a new file?</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -378,7 +378,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DAC8C406FB1D497CAF91619E6B8A5458" trl="N">
-    <value column="MsgText" isTrl="Y" original="Групировать по ${title}">Group by ${title}</value>
+    <value column="MsgText" isTrl="N" original="Group by ${title}">Group by ${title}</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DDD348E58C614475B5207B2A5576F2FD" trl="N">
@@ -482,7 +482,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE38B157A005C" trl="N">
-    <value column="MsgText" isTrl="N" original="Move selected to %0">Переместить выбранное в %0</value>
+    <value column="MsgText" isTrl="Y" original="Move selected to %0">Переместить выбранное в %0</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE38C83950064" trl="N">
@@ -711,7 +711,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131517E5F0131523F2F9000C1" trl="N">
-    <value column="MsgText" isTrl="Y" original="One or more rows could not be saved. Fix the problem or &lt;a href=&quot;#&quot; style=&quot;color: green;&quot; onclick=&quot;window['%0'].undo();&quot;&gt;cancel all pending changes&lt;/a&gt; to return to the last saved state.">Одна или больше строк не могут быть сохранены. Исправьте проблему или &lt;a href=&quot;#&quot; style=&quot;color: green;&quot; onclick=&quot;window['%0'].undo();&quot;&gt;отмените все сделаные изменения&lt;/a&gt; для возврата к сохранённой позиции.</value>
+    <value column="MsgText" isTrl="Y" original="One or more rows could not be saved. Fix the problem or &lt;a href=&quot;#&quot; style=&quot;color: green;&quot; onclick=&quot;window['%0'].undo();&quot;&gt;cancel all pending changes&lt;/a&gt; to return to the last saved state.">Одна или больше строк не могут быть сохранены. Исправьте проблему или &lt;a href="#" style="color: green;" onclick="window['%0'].undo();"&gt;отмените все сделаные изменения&lt;/a&gt; для возврата к сохранённой позиции.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081319427300131943A5EFB0019" trl="N">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_TEXTINTERFACES" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_TEXTINTERFACES" version="0.1">
   <row id="006359C02D074CCE8F3770E59CEC20C5" trl="N">
     <value column="Text" isTrl="N" original=" is the process to install a new minor version of the product (called Maintenance Pack, MP) or newer versions of other modules installed in the instance. Maintenance Packs usually include fixes to product defects or small enhancements and do not require end users to be trained."> is the process to install a new minor version of the product (called Maintenance Pack, MP) or newer versions of other modules installed in the instance. Maintenance Packs usually include fixes to product defects or small enhancements and do not require end users to be trained.</value>
   </row>
@@ -37,7 +37,8 @@
     <value column="Text" isTrl="N" original="Attribute Set Value">Attribute Set Value</value>
   </row>
   <row id="0853D54D853C414990160ADE1E8BF3F4" trl="N">
-    <value column="Text" isTrl="N" original="\n">\n</value>
+    <value column="Text" isTrl="Y" original="\n">
+</value>
   </row>
   <row id="085A3DDF2C8749EFA23842C61B518D9C" trl="N">
     <value column="Text" isTrl="N" original="VO">VO</value>
@@ -751,7 +752,7 @@
     <value column="Text" isTrl="N" original="Later">Later</value>
   </row>
   <row id="1005400011" trl="N">
-    <value column="Text" isTrl="N" original="Heartbeat Configuration">Heartbeat Configuration</value>
+    <value column="Text" isTrl="Y" original="Heartbeat Configuration">Настройки кардиограммы</value>
   </row>
   <row id="1005400018" trl="N">
     <value column="Text" isTrl="N" original="Registration Confirmation">Registration Confirmation</value>
@@ -979,7 +980,7 @@
     <value column="Text" isTrl="N" original="AVERAGE COST">AVERAGE COST</value>
   </row>
   <row id="222BFD8719D647B59942214EACDCC867" trl="N">
-    <value column="Text" isTrl="N" original="General Ledger Report">General Ledger Report</value>
+    <value column="Text" isTrl="Y" original="General Ledger Report">Отчет Главной книги</value>
   </row>
   <row id="25AA0658849611DDB88C001B388C05F0" trl="N">
     <value column="Text" isTrl="Y" original="Totals">Итоги</value>
@@ -1021,7 +1022,7 @@
     <value column="Text" isTrl="Y" original="Stack (y)">Ось (y)</value>
   </row>
   <row id="2A1D06FA18B54BFE9CF2ACB115B588E3" trl="N">
-    <value column="Text" isTrl="N" original="General Ledger Report">General Ledger Report</value>
+    <value column="Text" isTrl="Y" original="General Ledger Report">Отчет Главной книги</value>
   </row>
   <row id="2B21DC35615C450F83BD69A744CA0764" trl="N">
     <value column="Text" isTrl="N" original="Asset Description :">Asset Description :</value>
@@ -1030,7 +1031,8 @@
     <value column="Text" isTrl="N" original="VALUATION">VALUATION</value>
   </row>
   <row id="2C47288DD894410999E75096843A5CE0" trl="N">
-    <value column="Text" isTrl="N" original="\n">\n</value>
+    <value column="Text" isTrl="Y" original="\n">
+</value>
   </row>
   <row id="2C8D7AEBD7E5466D88712CD40716017F" trl="N">
     <value column="Text" isTrl="N" original="Do not use Credit">Do not use Credit</value>
@@ -1150,7 +1152,7 @@
     <value column="Text" isTrl="N" original="Modules are published with different maturity statuses representing the amount of validation that they received. Modules in status ">Modules are published with different maturity statuses representing the amount of validation that they received. Modules in status </value>
   </row>
   <row id="4B1D50A666314B7494E607B737A9D2D0" trl="N">
-    <value column="Text" isTrl="N" original="Heartbeat Configuration">Heartbeat Configuration</value>
+    <value column="Text" isTrl="Y" original="Heartbeat Configuration">Настройки кардиограммы</value>
   </row>
   <row id="4C1176A2D00711DDB300001D09C4A2FE" trl="N">
     <value column="Text" isTrl="N" original="Archive">Archive</value>
@@ -1516,7 +1518,7 @@
     <value column="Text" isTrl="N" original="Please note: The following additional modules are also required to be able to install the selected module(s):">Please note: The following additional modules are also required to be able to install the selected module(s):</value>
   </row>
   <row id="5E3AD9477F164EC0E040007F01004301" trl="N">
-    <value column="Text" isTrl="N" original="Enterprise module management">Управление модулями организации</value>
+    <value column="Text" isTrl="Y" original="Enterprise module management">Управление модулями организации</value>
   </row>
   <row id="5E3AD9477F174EC0E040007F01004301" trl="N">
     <value column="Text" isTrl="Y" original="Select">Выбрано</value>
@@ -1888,7 +1890,7 @@
     <value column="Text" isTrl="N" original="Planned End Date">Planned End Date</value>
   </row>
   <row id="6E0B3322B52914C6E040007F010136CA" trl="N">
-    <value column="Text" isTrl="Y" original="Openbravo ">Openbravo </value>
+    <value column="Text" isTrl="N" original="Openbravo ">Openbravo </value>
   </row>
   <row id="6E0B3322B52A14C6E040007F010136CA" trl="N">
     <value column="Text" isTrl="Y" original="Version number:">Номер версии:</value>
@@ -2162,7 +2164,7 @@
     <value column="Text" isTrl="N" original="Frames not available">Frames not available</value>
   </row>
   <row id="800015" trl="N">
-    <value column="Text" isTrl="N" original="Journal entry:">Запись Журнала:</value>
+    <value column="Text" isTrl="Y" original="Journal entry:">Запись Журнала:</value>
   </row>
   <row id="800104" trl="Y">
     <value column="Text" isTrl="Y" original="Currency">Валюта</value>
@@ -3470,10 +3472,10 @@
     <value column="Text" isTrl="Y" original="Activity">Обороты</value>
   </row>
   <row id="807017" trl="N">
-    <value column="Text" isTrl="N" original="Address">Address</value>
+    <value column="Text" isTrl="Y" original="Address">Адрес</value>
   </row>
   <row id="807018" trl="N">
-    <value column="Text" isTrl="N" original="Alert Management">Alert Management</value>
+    <value column="Text" isTrl="Y" original="Alert Management">Управление предупреждениями</value>
   </row>
   <row id="807019" trl="N">
     <value column="Text" isTrl="N" original="Alias">Alias</value>
@@ -3767,7 +3769,7 @@
     <value column="Text" isTrl="Y" original="General Ledger">Главная Книга</value>
   </row>
   <row id="807158" trl="N">
-    <value column="Text" isTrl="N" original="General Ledger Journal">Журнал Главной Книги</value>
+    <value column="Text" isTrl="Y" original="General Ledger Journal">Журнал Главной Книги</value>
   </row>
   <row id="807159" trl="N">
     <value column="Text" isTrl="N" original="Generate budget excel report">Generate budget excel report</value>
@@ -4334,7 +4336,7 @@
     <value column="Text" isTrl="N" original="Tax Report">Tax Report</value>
   </row>
   <row id="807459" trl="N">
-    <value column="Text" isTrl="N" original="General Ledger Report">General Ledger Report</value>
+    <value column="Text" isTrl="Y" original="General Ledger Report">Отчет Главной книги</value>
   </row>
   <row id="807508" trl="N">
     <value column="Text" isTrl="N" original="Alert">Alert</value>
@@ -4598,13 +4600,13 @@
     <value column="Text" isTrl="N" original="Gross margin">Gross margin</value>
   </row>
   <row id="808602" trl="N">
-    <value column="Text" isTrl="N" original="INVOICE">INVOICE</value>
+    <value column="Text" isTrl="Y" original="INVOICE">СЧЁТ-ФАКТУРА</value>
   </row>
   <row id="808604" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Number">Invoice Number</value>
+    <value column="Text" isTrl="Y" original="Invoice Number">№ счёт-фактуры</value>
   </row>
   <row id="808630" trl="N">
-    <value column="Text" isTrl="N" original="Purchase Order Report">Purchase Order Report</value>
+    <value column="Text" isTrl="Y" original="Purchase Order Report">Отчет Приходные накладные</value>
   </row>
   <row id="808632" trl="N">
     <value column="Text" isTrl="N" original="Product Cat.">Product Cat.</value>
@@ -5009,19 +5011,19 @@
     <value column="Text" isTrl="N" original="Do you want to continue?">Do you want to continue?</value>
   </row>
   <row id="8A67F1404BF665AAE040007F01015A1A" trl="N">
-    <value column="Text" isTrl="N" original="Module Management">Управление модулями</value>
+    <value column="Text" isTrl="Y" original="Module Management">Управление модулями</value>
   </row>
   <row id="8A67F1404BF865AAE040007F01015A1A" trl="N">
-    <value column="Text" isTrl="N" original="Module Manager">Менеджер модулей</value>
+    <value column="Text" isTrl="Y" original="Module Manager">Менеджер модулей</value>
   </row>
   <row id="8A67F1404BFA65AAE040007F01015A1A" trl="N">
-    <value column="Text" isTrl="N" original="Installed Modules">Установленные модули</value>
+    <value column="Text" isTrl="Y" original="Installed Modules">Установленные модули</value>
   </row>
   <row id="8A67F1404BFC65AAE040007F01015A1A" trl="N">
-    <value column="Text" isTrl="N" original="Add Modules">Добавить модули</value>
+    <value column="Text" isTrl="Y" original="Add Modules">Добавить модули</value>
   </row>
   <row id="8A67F1404BFE65AAE040007F01015A1A" trl="N">
-    <value column="Text" isTrl="N" original="Installation History">История установки</value>
+    <value column="Text" isTrl="Y" original="Installation History">История установки</value>
   </row>
   <row id="8A67F1404C0065AAE040007F01015A1A" trl="N">
     <value column="Text" isTrl="N" original="Settings">Settings</value>
@@ -5516,7 +5518,8 @@
     <value column="Text" isTrl="Y" original="VOIDED">ОТМЕНЕНО</value>
   </row>
   <row id="B1AFEA6B61BBFE94E040007F01006F96" trl="N">
-    <value column="Text" isTrl="N" original="\n">\n</value>
+    <value column="Text" isTrl="Y" original="\n">
+</value>
   </row>
   <row id="B2030B98466B87F0E040007F010055DC" trl="N">
     <value column="Text" isTrl="N" original="Order No">Order No</value>
@@ -5697,7 +5700,7 @@
     <value column="Text" isTrl="N" original="Dependency problems.">Dependency problems.</value>
   </row>
   <row id="DBAD2FD2624549FB94F0B9EDC8B7BE3D" trl="N">
-    <value column="Text" isTrl="N" original="Business Partner Category">Business Partner Category</value>
+    <value column="Text" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
   </row>
   <row id="DC56329107544464ADCEA111AA534C17" trl="N">
     <value column="Text" isTrl="Y" original="Process">Обработать</value>
@@ -5724,19 +5727,19 @@
     <value column="Text" isTrl="N" original="Asset Description">Asset Description</value>
   </row>
   <row id="E338C20A995D11DDABB6001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Module Management">Управление модулями</value>
+    <value column="Text" isTrl="Y" original="Module Management">Управление модулями</value>
   </row>
   <row id="E33AED1E995D11DD8123001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Module Manager">Менеджер модулей</value>
+    <value column="Text" isTrl="Y" original="Module Manager">Менеджер модулей</value>
   </row>
   <row id="E33CDC5A995D11DD8F45001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Installed Modules">Установленные модули</value>
+    <value column="Text" isTrl="Y" original="Installed Modules">Установленные модули</value>
   </row>
   <row id="E33E5EEA995D11DD9078001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Add Modules">Добавить модули</value>
+    <value column="Text" isTrl="Y" original="Add Modules">Добавить модули</value>
   </row>
   <row id="E33FEC38995D11DD8940001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Installation History">История установки</value>
+    <value column="Text" isTrl="Y" original="Installation History">История установки</value>
   </row>
   <row id="E447A26C82EC4442A557AA56CD8FCE79" trl="N">
     <value column="Text" isTrl="N" original="Date of latest modification">Date of latest modification</value>
@@ -5802,13 +5805,13 @@
     <value column="Text" isTrl="N" original="Total Amount Incoming-Payments">Total Amount Incoming-Payments</value>
   </row>
   <row id="F4B6387C83DB41B2B42EDDB0BFD2240E" trl="N">
-    <value column="Text" isTrl="N" original="Database update">Обновление базы данных</value>
+    <value column="Text" isTrl="Y" original="Database update">Обновление базы данных</value>
   </row>
   <row id="F5EAFA2F130549CDBAEE22407DFD97ED" trl="N">
     <value column="Text" isTrl="N" original="http://www.openbravo.com/legal/license.html">http://www.openbravo.com/legal/license.html</value>
   </row>
   <row id="F687E9EDC80047CC875C8C603238DF8B" trl="N">
-    <value column="Text" isTrl="N" original="Credit&amp;nbsp">Credit&amp;nbsp</value>
+    <value column="Text" isTrl="Y" original="Credit&amp;nbsp">Кредит&amp;nbsp</value>
   </row>
   <row id="F6978464C70E4A7DB4B28CD1CCCC25DA" trl="N">
     <value column="Text" isTrl="Y" original="learn more">узнать больше</value>

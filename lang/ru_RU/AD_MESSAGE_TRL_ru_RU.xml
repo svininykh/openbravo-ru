@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MESSAGE" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MESSAGE" version="0.1">
   <row id="000000002F5DEF28012F5DFDF05A000A" trl="N">
     <value column="MsgText" isTrl="N" original="The following columns are not audited: @excludeauditcolumns@">The following columns are not audited: @excludeauditcolumns@</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -1344,7 +1344,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="116" trl="N">
-    <value column="MsgText" isTrl="N" original="You cannot update this record">Вы не можете обновить эту запись</value>
+    <value column="MsgText" isTrl="Y" original="You cannot update this record">Вы не можете обновить эту запись</value>
     <value column="MsgTip" isTrl="N" original="You don't have the privileges">You don't have the privileges</value>
   </row>
   <row id="116AB3D795544212B785D0243B70B21F" trl="N">
@@ -2477,7 +2477,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="300" trl="N">
-    <value column="MsgText" isTrl="N" original="Business Partner Info">Business Partner Info</value>
+    <value column="MsgText" isTrl="Y" original="Business Partner Info">Описание контрагента</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="301" trl="N">
@@ -2993,7 +2993,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3A499712A0D54CE984A2A2AEB4121A46" trl="N">
-    <value column="MsgText" isTrl="N" original="Previous">Предыдущий</value>
+    <value column="MsgText" isTrl="Y" original="Previous">Предыдущий</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3A8FC95E36F0423C94804D84B3A932C0" trl="N">
@@ -3153,27 +3153,27 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="418" trl="N">
-    <value column="MsgText" isTrl="N" original="Preference">Привилегия</value>
+    <value column="MsgText" isTrl="Y" original="Preference">Привилегия</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="419" trl="N">
-    <value column="MsgText" isTrl="N" original="Preferences">Привилегии</value>
+    <value column="MsgText" isTrl="Y" original="Preferences">Привилегии</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="420" trl="N">
-    <value column="MsgText" isTrl="N" original="Previous record">Предыдущая запись</value>
+    <value column="MsgText" isTrl="Y" original="Previous record">Предыдущая запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="421" trl="N">
-    <value column="MsgText" isTrl="N" original="Previous Page">Предыдущая страница</value>
+    <value column="MsgText" isTrl="Y" original="Previous Page">Предыдущая страница</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="422" trl="N">
-    <value column="MsgText" isTrl="N" original="Price History">История цены</value>
+    <value column="MsgText" isTrl="Y" original="Price History">История цены</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="423" trl="N">
-    <value column="MsgText" isTrl="N" original="Pricelist Version">Pricelist Version</value>
+    <value column="MsgText" isTrl="Y" original="Pricelist Version">Версия прейскуранта</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="424" trl="N">
@@ -3877,11 +3877,11 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="557" trl="N">
-    <value column="MsgText" isTrl="N" original="System">System</value>
+    <value column="MsgText" isTrl="Y" original="System">Система</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="558" trl="N">
-    <value column="MsgText" isTrl="N" original="Tab">Tab</value>
+    <value column="MsgText" isTrl="Y" original="Tab">Вкладка</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5580236E4F454F1AAD136F9B53D0D0A3" trl="N">
@@ -3953,7 +3953,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="572" trl="N">
-    <value column="MsgText" isTrl="N" original="Update">Обновить</value>
+    <value column="MsgText" isTrl="Y" original="Update">Обновить</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="573" trl="N">
@@ -4057,7 +4057,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="593" trl="N">
-    <value column="MsgText" isTrl="N" original="Value Preference">Значение привилегии</value>
+    <value column="MsgText" isTrl="Y" original="Value Preference">Значение привилегии</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="594" trl="N">

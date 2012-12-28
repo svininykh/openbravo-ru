@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REF_LIST" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REF_LIST" version="0.1">
   <row id="01079D7A39BD4306A217A811388D500A" trl="N">
     <value column="Name" isTrl="Y" original="Close">Закрыть</value>
     <value column="Description" isTrl="Y" original="Close">Закрыть</value>
@@ -285,7 +285,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="1001300000" trl="N">
-    <value column="Name" isTrl="N" original="G/L Item">Г/К Типовая проводка</value>
+    <value column="Name" isTrl="Y" original="G/L Item">Г/К Типовая проводка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="1002100000" trl="N">
@@ -369,7 +369,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="10816E85CF604A58AD15E89D91DDD485" trl="N">
-    <value column="Name" isTrl="N" original="Column">Столбец</value>
+    <value column="Name" isTrl="Y" original="Column">Столбец</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="109" trl="N">
@@ -2285,11 +2285,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="568" trl="N">
-    <value column="Name" isTrl="N" original="Both">Оба</value>
+    <value column="Name" isTrl="Y" original="Both">Оба</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="569" trl="N">
-    <value column="Name" isTrl="N" original="Sales Tax">Налог продаж</value>
+    <value column="Name" isTrl="Y" original="Sales Tax">Налог c продаж</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="57" trl="N">
@@ -2465,7 +2465,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="72151210D6094442A6048D88EF75BDAF" trl="N">
-    <value column="Name" isTrl="N" original="Table">Таблица</value>
+    <value column="Name" isTrl="Y" original="Table">Таблица</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="748DF1663F76484993DE25043E4D0F04" trl="N">
@@ -3593,7 +3593,7 @@
     <value column="Description" isTrl="N" original="Table Validation">Table Validation</value>
   </row>
   <row id="93C287CC60FB46C0A3CD331952E04FBB" trl="N">
-    <value column="Name" isTrl="N" original="Sales Order">Sales Order</value>
+    <value column="Name" isTrl="Y" original="Sales Order">Расходная накладная</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="93CDB0B07AC64DB7B0C92CB3C173C1D5" trl="N">

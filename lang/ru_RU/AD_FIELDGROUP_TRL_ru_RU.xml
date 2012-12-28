@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_FIELDGROUP" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_FIELDGROUP" version="0.1">
   <row id="0595CF7C85754F72B393E766F9CF327C" trl="Y">
     <value column="Name" isTrl="Y" original="List Price">Цена прейскуранта</value>
   </row>
@@ -130,7 +130,7 @@
     <value column="Name" isTrl="Y" original="Filter Options">Параметры фильтра</value>
   </row>
   <row id="392B1D87375D422F920E4DA159A86385" trl="N">
-    <value column="Name" isTrl="N" original="Step 2: Deposit / Withdrawal">Шаг 2: Поступление / Выплата</value>
+    <value column="Name" isTrl="Y" original="Step 2: Deposit / Withdrawal">Шаг 2: Поступление / Выплата</value>
   </row>
   <row id="3EE1956EA4C4430A8666E6197EB4D074" trl="N">
     <value column="Name" isTrl="Y" original="Scheduling">Планировать</value>
@@ -157,7 +157,7 @@
     <value column="Name" isTrl="Y" original="Logos settings">Настройка логотипов</value>
   </row>
   <row id="7D71A54EFD94439F94C531270E362823" trl="N">
-    <value column="Name" isTrl="N" original="Defaults Payment IN">По-умолчанию ПРИНЯТО</value>
+    <value column="Name" isTrl="Y" original="Defaults Payment IN">По-умолчанию ПРИНЯТО</value>
   </row>
   <row id="7EF34AE738BF40D498254FFC03BB31ED" trl="N">
     <value column="Name" isTrl="N" original="Revenue Plan">Revenue Plan</value>
@@ -190,7 +190,7 @@
     <value column="Name" isTrl="N" original="Visibility">Visibility</value>
   </row>
   <row id="E891D258B7B7454EB9CE80F45F4EB10E" trl="N">
-    <value column="Name" isTrl="N" original="Payment OUT">ВЫПЛАЧЕНО</value>
+    <value column="Name" isTrl="Y" original="Payment OUT">ВЫПЛАЧЕНО</value>
   </row>
   <row id="F6B170DDB43E461DB53FF37F53307766" trl="N">
     <value column="Name" isTrl="N" original="Limit Price">Limit Price</value>

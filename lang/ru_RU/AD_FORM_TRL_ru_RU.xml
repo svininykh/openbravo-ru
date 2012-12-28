@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_FORM" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_FORM" version="0.1">
   <row id="100" trl="N">
     <value column="Name" isTrl="Y" original="Create Invoices from Orders">Создать счёт-фактуры по накладным</value>
     <value column="Description" isTrl="N" original="Create invoices for all processed sales orders/goods shipments that have not been invoiced.">Create invoices for all processed sales orders/goods shipments that have not been invoiced.</value>
@@ -72,7 +72,7 @@ Use Module Management to browse the currently installed modules, to check for up
   <row id="800003" trl="N">
     <value column="Name" isTrl="N" original="GL Posting by DB Tables">GL Posting by DB Tables</value>
     <value column="Description" isTrl="N" original="Recreate accounting information and add transactions for the General Ledger, grouped by defined database tables.">Recreate accounting information and add transactions for the General Ledger, grouped by defined database tables.</value>
-    <value column="Help" isTrl="N" original="The G/L Posting by DB Table allows to massively post the transactions related to a given transactional table or to all of them.">The GL Posting by DB Table feature allows to massive post the transactions related to a given table defined to generate accountng.</value>
+    <value column="Help" isTrl="N" original="The G/L Posting by DB Table allows to massively post the transactions related to a given transactional table or to all of them.">The G/L Posting by DB Table allows to massively post the transactions related to a given transactional table or to all of them.</value>
   </row>
   <row id="800007" trl="N">
     <value column="Name" isTrl="N" original="Background Process">Background Process</value>
@@ -100,7 +100,7 @@ Use Module Management to browse the currently installed modules, to check for up
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800016" trl="N">
-    <value column="Name" isTrl="N" original="Alert Management">Alert Management</value>
+    <value column="Name" isTrl="Y" original="Alert Management">Управление предупреждениями</value>
     <value column="Description" isTrl="N" original="Edit predefined alerts made by the user.">Edit predefined alerts made by the user.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="0.1">
   <row id="0131585AC1F246DBAF6B84E53534F5FA" trl="N">
     <value column="Name" isTrl="N" original="Accounting Schema Currency Credit">Accounting Schema Currency Credit</value>
     <value column="PrintName" isTrl="N" original="Accounting Schema Currency Credit">Accounting Schema Currency Credit</value>
@@ -5629,8 +5629,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1901" trl="N">
-    <value column="Name" isTrl="N" original="System">System</value>
-    <value column="PrintName" isTrl="N" original="System">System</value>
+    <value column="Name" isTrl="Y" original="System">Система</value>
+    <value column="PrintName" isTrl="Y" original="System">Система</value>
     <value column="Description" isTrl="N" original="System Definition">System Definition</value>
     <value column="Help" isTrl="N" original="Common System Definition">Common System Definition</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5719,8 +5719,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1929" trl="N">
-    <value column="Name" isTrl="N" original="Asset Category">Asset Category</value>
-    <value column="PrintName" isTrl="N" original="Asset Group">Asset Group</value>
+    <value column="Name" isTrl="Y" original="Asset Category">Группа основных средств</value>
+    <value column="PrintName" isTrl="Y" original="Asset Group">Группа основных средств</value>
     <value column="Description" isTrl="N" original="A classification of assets based on similar characteristics.">A classification of assets based on similar characteristics.</value>
     <value column="Help" isTrl="N" original="The group of assets determines default accounts.  If an asset group is selected in the product category, assets are created when delivering the asset.">The group of assets determines default accounts.  If an asset group is selected in the product category, assets are created when delivering the asset.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7570,8 +7570,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="309" trl="N">
-    <value column="Name" isTrl="N" original="G/L Category">Г/К Категория</value>
-    <value column="PrintName" isTrl="N" original="GL Category">Г/К Категория</value>
+    <value column="Name" isTrl="Y" original="G/L Category">Г/К Категория</value>
+    <value column="PrintName" isTrl="Y" original="GL Category">Г/К Категория</value>
     <value column="Description" isTrl="N" original="A classification used to group lines in the general ledger.">A classification used to group lines in the general ledger.</value>
     <value column="Help" isTrl="N" original="The General Ledger Category is an optional, user defined method of grouping journal lines.">The General Ledger Category is an optional, user defined method of grouping journal lines.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7921,7 +7921,7 @@ You find the current status in the Document Status field. The options are listed
   </row>
   <row id="362" trl="N">
     <value column="Name" isTrl="N" original="Central Maintenance">Central Maintenance</value>
-    <value column="PrintName" isTrl="N" original="Centrally maintained">Central Maintenance</value>
+    <value column="PrintName" isTrl="N" original="Centrally maintained">Centrally maintained</value>
     <value column="Description" isTrl="N" original="A flag indicating that this label is managed in a central repository.">A flag indicating that this label is managed in a central repository.</value>
     <value column="Help" isTrl="N" original="The Centrally Maintained checkbox indicates if the Name, Description and Help maintained in 'System Element' table  or 'Window' table.">The Centrally Maintained checkbox indicates if the Name, Description and Help maintained in 'System Element' table  or 'Window' table.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10137,8 +10137,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="Help" isTrl="N" original="Unique identifier and a reference to a Sales Order originating from the document sequence defined for this document type.">Unique identifier and a reference to a Sales Order originating from the document sequence defined for this document type.</value>
     <value column="PO_Description" isTrl="Y" original="A unique and often automatically generated identifier for a purchase order.">Уникальный и чаще всего автоматически генерированный идентификатор расходной накладной.</value>
     <value column="PO_Help" isTrl="N" original="Unique identifier and a reference to a Purchase Order originating from the document sequence defined for this document type.">Unique identifier and a reference to a Purchase Order originating from the document sequence defined for this document type.</value>
-    <value column="PO_Name" isTrl="Y" original="Purchase Order">Расходная накладная</value>
-    <value column="PO_PrintName" isTrl="Y" original="Purchase Order">Расходная накладная</value>
+    <value column="PO_Name" isTrl="Y" original="Purchase Order">Приходная накладная</value>
+    <value column="PO_PrintName" isTrl="Y" original="Purchase Order">Приходная накладная</value>
   </row>
   <row id="559" trl="N">
     <value column="Name" isTrl="Y" original="Invoice Terms">Условия счёта</value>
@@ -18391,8 +18391,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800809" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Tax Category">Business Partner Tax Category</value>
-    <value column="PrintName" isTrl="N" original="BP Tax Category">BP Tax Category</value>
+    <value column="Name" isTrl="Y" original="Business Partner Tax Category">Налоговая категория контрагента</value>
+    <value column="PrintName" isTrl="Y" original="BP Tax Category">Налоговая категория контрагента</value>
     <value column="Description" isTrl="N" original="Bussines Partner Tax Category as a Vendor">Bussines Partner Tax Category as a Vendor</value>
     <value column="Help" isTrl="N" original="Bussines Partner Tax Category is a category defined for applying default taxes to procurement transactions.">Bussines Partner Tax Category is a category defined for applying default taxes to procurement transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_TAB" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_TAB" version="0.1">
   <row id="01F5E95D71544D428E1B9004B05D0298" trl="N">
     <value column="Name" isTrl="Y" original="Payment Method">Способ оплаты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Shows all payment methods related to the given financial account.">Shows all payment methods related to the given financial account.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="This tab lists all the payment methods assigned to the financial account. A payment can either be deposited in or withdrawn from the financial account if the payment method used is assigned to the financial account.">Shows all payment methods related to the financial account as well as their configuration in terms of payment in/out management and accounting.</value>
+    <value column="Help" isTrl="N" original="This tab lists all the payment methods assigned to the financial account. A payment can either be deposited in or withdrawn from the financial account if the payment method used is assigned to the financial account.">This tab lists all the payment methods assigned to the financial account. A payment can either be deposited in or withdrawn from the financial account if the payment method used is assigned to the financial account.</value>
   </row>
   <row id="0675F934EA9E40C799826AABC47CD837" trl="N">
     <value column="Name" isTrl="Y" original="Payments">Платежи</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Shows all the payments that belong to a payment run.">Shows all the payments that belong to a payment run.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The payment tab list the payments executed in a payment run.">Shows all the payments that belong to a payment run.</value>
+    <value column="Help" isTrl="N" original="The payment tab list the payments executed in a payment run.">The payment tab list the payments executed in a payment run.</value>
   </row>
   <row id="07F009753DA647C2AF38697BA9F1B1A0" trl="N">
     <value column="Name" isTrl="Y" original="Lines">Строки</value>
@@ -75,21 +75,21 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Header of Tax Register Type">Header of Tax Register Type</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The tax register type window allows to create tax register types.">Header of Tax Register Type</value>
+    <value column="Help" isTrl="N" original="The tax register type window allows to create tax register types.">The tax register type window allows to create tax register types.</value>
   </row>
   <row id="1002100010" trl="N">
     <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Lines of Type of Tax Register">Lines of Type of Tax Register</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The lines tab allows to associate tax rates to the tax register type.">Lines of Type of Tax Register</value>
+    <value column="Help" isTrl="N" original="The lines tab allows to associate tax rates to the tax register type.">The lines tab allows to associate tax rates to the tax register type.</value>
   </row>
   <row id="1002100011" trl="N">
     <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Payment of Tax">Payment of Tax</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The tax payment window allows to calculate the amount of taxes to be paid to or received from the tax authority within a given period of time. It also allows to generate the corresponding payment to/from the tax authority.">Payment of Tax</value>
+    <value column="Help" isTrl="N" original="The tax payment window allows to calculate the amount of taxes to be paid to or received from the tax authority within a given period of time. It also allows to generate the corresponding payment to/from the tax authority.">The tax payment window allows to calculate the amount of taxes to be paid to or received from the tax authority within a given period of time. It also allows to generate the corresponding payment to/from the tax authority.</value>
   </row>
   <row id="1002100012" trl="N">
     <value column="Name" isTrl="Y" original="Tax Register Header">Заглавие налогового регистра</value>
@@ -103,7 +103,7 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Tax Register Lines">Tax Register Lines</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The lines tab is a read-only tab which lists all the tax transactions related to the tax rates configured as part of a &quot;Tax Register Type&quot;.">Tax Register Lines</value>
+    <value column="Help" isTrl="N" original="The lines tab is a read-only tab which lists all the tax transactions related to the tax rates configured as part of a &quot;Tax Register Type&quot;.">The lines tab is a read-only tab which lists all the tax transactions related to the tax rates configured as part of a &quot;Tax Register Type&quot;.</value>
   </row>
   <row id="1004400000" trl="N">
     <value column="Name" isTrl="N" original="Matched PO Lines">Matched PO Lines</value>
@@ -141,7 +141,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1005400005" trl="N">
-    <value column="Name" isTrl="N" original="Heartbeat Configuration">Heartbeat Configuration</value>
+    <value column="Name" isTrl="Y" original="Heartbeat Configuration">Настройки кардиограммы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Enable or disable the heartbeat process and configure internet connection proxy information">Enable or disable the heartbeat process and configure internet connection proxy information</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -327,21 +327,21 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars to be used by one or all your organizations.">Create multiple fiscal calendars to be used by one or all your organizations.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The fiscal calendar window allows to create and maintain the organization's fiscal calendar.">Calendar window allows to create and maintain as many fiscal calendars as required.</value>
+    <value column="Help" isTrl="N" original="The fiscal calendar window allows to create and maintain the organization's fiscal calendar.">The fiscal calendar window allows to create and maintain the organization's fiscal calendar.</value>
   </row>
   <row id="129" trl="N">
     <value column="Name" isTrl="Y" original="Year">Год</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create fiscal years with the possibility of automatically adding fiscal periods.">Create fiscal years with the possibility of automatically adding fiscal periods.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Year tab allows to create as many fiscal years as required within a fiscal calendar. ">Year tab allows to create as many fiscal years as required within a calendar. </value>
+    <value column="Help" isTrl="N" original="Year tab allows to create as many fiscal years as required within a fiscal calendar. ">Year tab allows to create as many fiscal years as required within a fiscal calendar. </value>
   </row>
   <row id="130" trl="N">
     <value column="Name" isTrl="Y" original="Period">Период</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit fiscal periods according to your needs, as well as open/close selected periods.">Create and edit fiscal periods according to your needs, as well as open/close selected periods.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The period tab lists all the periods of a year.">The accounting periods belonging to a year can be created manually and/or automatically by running the process "Create Periods".</value>
+    <value column="Help" isTrl="N" original="The period tab lists all the periods of a year.">The period tab lists all the periods of a year.</value>
   </row>
   <row id="131" trl="N">
     <value column="Name" isTrl="Y" original="Non Business Day">Нерабочие дни</value>
@@ -460,21 +460,21 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create G/L Journal batches in order to group journals of similar characteristics.. Each batch may have many journals.">Create G/L Journal batches in order to group journals of similar characteristics.. Each batch may have many journals.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="A G/L journal batch allows to group G/L journals of similar characteristics which can all be processed at the same time.">A General Ledger journal batch can group journals of similar characteristics which can all be processed at the same time.</value>
+    <value column="Help" isTrl="N" original="A G/L journal batch allows to group G/L journals of similar characteristics which can all be processed at the same time.">A G/L journal batch allows to group G/L journals of similar characteristics which can all be processed at the same time.</value>
   </row>
   <row id="160" trl="N">
     <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create G/L Journals for specified fiscal periods.">Create G/L Journals for specified fiscal periods.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="A G/L journal header can include journals which can contain several journal lines.">A General Ledger journal header can include several journals which can contain several journal lines.</value>
+    <value column="Help" isTrl="N" original="A G/L journal header can include journals which can contain several journal lines.">A G/L journal header can include journals which can contain several journal lines.</value>
   </row>
   <row id="161" trl="N">
     <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add G/L Journal lines. Each line corresponds to one G/L Journal entry.">Add G/L Journal lines. Each line corresponds to one G/L Journal entry.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The lines tab allows to enter the journal entries of a G/L journal.">General Ledger journal lines tab allows to enter as many ledger entries as required for a given General Ledger journal.</value>
+    <value column="Help" isTrl="N" original="The lines tab allows to enter the journal entries of a G/L journal.">The lines tab allows to enter the journal entries of a G/L journal.</value>
   </row>
   <row id="167" trl="N">
     <value column="Name" isTrl="N" original="Document Definition">Document Definition</value>
@@ -607,14 +607,14 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a sales order and process it when ready.">Create a sales order and process it when ready.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The sales order header allows to create a sales order and process it when ready.">Create a sales order and process it when ready.</value>
+    <value column="Help" isTrl="N" original="The sales order header allows to create a sales order and process it when ready.">The sales order header allows to create a sales order and process it when ready.</value>
   </row>
   <row id="187" trl="N">
     <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be included in your sales order.  Each product is added by creating a line.">Add products to be included in your sales order.  Each product is added by creating a line.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Lines tab allows to add the products to be included in your sales order.  Each product is added by creating a line.">Add products to be included in your sales order.  Each product is added by creating a line.</value>
+    <value column="Help" isTrl="N" original="Lines tab allows to add the products to be included in your sales order.  Each product is added by creating a line.">Lines tab allows to add the products to be included in your sales order.  Each product is added by creating a line.</value>
   </row>
   <row id="189" trl="N">
     <value column="Name" isTrl="Y" original="Product Category">Категория товара</value>
@@ -656,7 +656,7 @@
     <value column="CommitWarning" isTrl="N" original="For changes to become effective, you must re-login and re-start the Application Server.">For changes to become effective, you must re-login and re-start the Application Server.</value>
     <value column="Description" isTrl="N" original="Create multiple general ledger">Create multiple general ledger</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The General Ledger Configuration window allows to review and maintain defaulted general ledger configurations and to create new ones if needed.">General Ledger window allows to review and maintain imported accounting schemas and to create new ones if needed.</value>
+    <value column="Help" isTrl="N" original="The General Ledger Configuration window allows to review and maintain defaulted general ledger configurations and to create new ones if needed.">The General Ledger Configuration window allows to review and maintain defaulted general ledger configurations and to create new ones if needed.</value>
   </row>
   <row id="1ACDA2572EAB4D84A59265DC256F07AD" trl="N">
     <value column="Name" isTrl="N" original="Results">Results</value>
@@ -726,7 +726,7 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit customized accounts to be used for reporting purposes.">Create and edit customized accounts to be used for reporting purposes.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The Account Combination window allows to review the Organization's General Ledger accounts.">The Account Combination window allows to review the accounts of an accounting schema. </value>
+    <value column="Help" isTrl="N" original="The Account Combination window allows to review the Organization's General Ledger accounts.">The Account Combination window allows to review the Organization's General Ledger accounts.</value>
   </row>
   <row id="209" trl="N">
     <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
@@ -740,7 +740,7 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected product.">Create and edit G/L accounts to be used in transactions including a selected product.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Accounting tab allows to configure the ledger accounts to be used while posting product related transactions such as product purchase or sales to the general ledger.">Accounting tab allows to configure the ledger accounts to be used while posting product related transactions such as product purchase or sales. </value>
+    <value column="Help" isTrl="N" original="Accounting tab allows to configure the ledger accounts to be used while posting product related transactions such as product purchase or sales to the general ledger.">Accounting tab allows to configure the ledger accounts to be used while posting product related transactions such as product purchase or sales to the general ledger.</value>
   </row>
   <row id="211" trl="N">
     <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
@@ -754,14 +754,14 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected customer.">Create and edit G/L accounts to be used in transactions including a selected customer.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Customer accounting tab allows you to configure the ledger accounts to be used while posting customer related transactions such as customer receivables and customer advances to the general ledger.">Customer accounting tab allows you to configure the ledger accounts to be used while posting customer related transactions such as customer receivables and customer advances.</value>
+    <value column="Help" isTrl="N" original="Customer accounting tab allows you to configure the ledger accounts to be used while posting customer related transactions such as customer receivables and customer advances to the general ledger.">Customer accounting tab allows you to configure the ledger accounts to be used while posting customer related transactions such as customer receivables and customer advances to the general ledger.</value>
   </row>
   <row id="213" trl="N">
     <value column="Name" isTrl="Y" original="Vendor Accounting">Проводки поставщика</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions including a selected vendor.">Create and edit G/L accounts to be used in transactions including a selected vendor.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Vendor accounting tab allows you to configure the ledger accounts to be used while posting vendor related transactions such as vendor liabilities and vendor advanced payments to the general ledger.">Vendor accounting tab allows you to configure the ledger accounts to be used while posting vendor related transactions such as vendor liabilities and vendor advanced payments.</value>
+    <value column="Help" isTrl="N" original="Vendor accounting tab allows you to configure the ledger accounts to be used while posting vendor related transactions such as vendor liabilities and vendor advanced payments to the general ledger.">Vendor accounting tab allows you to configure the ledger accounts to be used while posting vendor related transactions such as vendor liabilities and vendor advanced payments to the general ledger.</value>
   </row>
   <row id="214" trl="N">
     <value column="Name" isTrl="Y" original="Employee Accounting">Проводки работника</value>
@@ -779,10 +779,10 @@
   </row>
   <row id="217" trl="N">
     <value column="Name" isTrl="Y" original="Dimension">Субконто</value>
-    <value column="CommitWarning" isTrl="N" original="ATTENTION: ANY CHANGES here will effect the structure of your chart of accounts!&#10;For changes to become effective, you must re-login and re-start the Application Server."/>
+    <value column="CommitWarning" isTrl="N" original="ATTENTION: ANY CHANGES here will effect the structure of your chart of accounts!&#10;For changes to become effective, you must re-login and re-start the Application Server.">ATTENTION: ANY CHANGES here will effect the structure of your chart of accounts!&#10;For changes to become effective, you must re-login and re-start the Application Server.</value>
     <value column="Description" isTrl="N" original="Holds the list of dimensions enabled by this ledger.">Holds the list of dimensions enabled by this ledger.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Dimension tab allows to configure the general ledger dimensions. There are two mandatory dimensions by default: the Organization and the Account.  Any other dimension such as Project or Sales Region can be as well enabled here so that they appear in transactional windows.">Definition of dimensions to be used by the system. There are two mandatory dimensions by default: Organization and Account. Any other dimension can be as well enabled here so that they appear in transactional windows.</value>
+    <value column="Help" isTrl="N" original="Dimension tab allows to configure the general ledger dimensions. There are two mandatory dimensions by default: the Organization and the Account.  Any other dimension such as Project or Sales Region can be as well enabled here so that they appear in transactional windows.">Dimension tab allows to configure the general ledger dimensions. There are two mandatory dimensions by default: the Organization and the Account.  Any other dimension such as Project or Sales Region can be as well enabled here so that they appear in transactional windows.</value>
   </row>
   <row id="220" trl="N">
     <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
@@ -909,7 +909,7 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View detailed general ledger entries for a specified time period.">View detailed general ledger entries for a specified time period.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="This report list every transaction posted to the ledger by showing every accounting dimension specified.">Accounting transaction details report is a view of every accounting transaction posted in Openbravo. This view shows the accounting dimension values of every accounting transaction.</value>
+    <value column="Help" isTrl="N" original="This report list every transaction posted to the ledger by showing every accounting dimension specified.">This report list every transaction posted to the ledger by showing every accounting dimension specified.</value>
   </row>
   <row id="243" trl="N">
     <value column="Name" isTrl="Y" original="Tree">Схема</value>
@@ -1000,7 +1000,7 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Order Line Tax">Order Line Tax</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="For each sales order line, Openbravo automatically populates the line tax related information in this tab. ">Taxes related to the order line.</value>
+    <value column="Help" isTrl="N" original="For each sales order line, Openbravo automatically populates the line tax related information in this tab. ">For each sales order line, Openbravo automatically populates the line tax related information in this tab. </value>
   </row>
   <row id="260" trl="N">
     <value column="Name" isTrl="Y" original="Lines">Строки</value>
@@ -1276,7 +1276,7 @@
     <value column="Help" isTrl="N" original="Create and edit the products that are going to be used in the production">Create and edit the products that are going to be used in the production</value>
   </row>
   <row id="322" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Category">Business Partner Category</value>
+    <value column="Name" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a business partner category.">Create a business partner category.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1641,7 +1641,7 @@
     <value column="Help" isTrl="N" original="View each expense line to be included in the sales invoice.">View each expense line to be included in the sales invoice.</value>
   </row>
   <row id="440" trl="N">
-    <value column="Name" isTrl="N" original="System">System</value>
+    <value column="Name" isTrl="Y" original="System">Система</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="System Definition">System Definition</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2314,7 +2314,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define the GL item that are going to be used">Define the GL item that are going to be used</value>
   </row>
   <row id="800033" trl="N">
-    <value column="Name" isTrl="N" original="G/L Item">Г/К Типовая проводка</value>
+    <value column="Name" isTrl="Y" original="G/L Item">Г/К Типовая проводка</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit accounting items to be used in manual settlements.">Create and edit accounting items to be used in manual settlements.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2325,7 +2325,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create an account number for the G/L item in order to manage the General Ledger Accounting.">Create an account number for the G/L item in order to manage the General Ledger Accounting.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Account items are directly related to the debit and credit accounts to be used while posting them.">Account items are directly related to the debit and credit accounts to be used while posting.</value>
+    <value column="Help" isTrl="N" original="Account items are directly related to the debit and credit accounts to be used while posting them.">Account items are directly related to the debit and credit accounts to be used while posting them.</value>
   </row>
   <row id="800035" trl="N">
     <value column="Name" isTrl="N" original="Proposal List">Proposal List</value>
@@ -2498,7 +2498,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="800079" trl="N">
     <value column="Name" isTrl="Y" original="Discounts and Promotions">Скидки и акции</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Definition of Discounts and Promotions">Definition of Discounts and Promotions</value>
+    <value column="Description" isTrl="Y" original="Definition of Discounts and Promotions">Установка скидок и назначение акций</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Defines the Discounts and Promotions main characteristics such as Discount Type, how it is filtered and actual discount information based on type.">Defines the Discounts and Promotions main characteristics such as Discount Type, how it is filtered and actual discount information based on type.</value>
   </row>
@@ -2510,7 +2510,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add business partners in order to include or exclude them from a selected Promotion/Discount..">Add business partners in order to include or exclude them from a selected Promotion/Discount..</value>
   </row>
   <row id="800081" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Category">Business Partner Category</value>
+    <value column="Name" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add business partner categories in order to include or exclude them from a selected Promotion/Discount..">Add business partner categories in order to include or exclude them from a selected Promotion/Discount..</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3070,21 +3070,21 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit remittance lines. Each line corresponds to one payment.">Edit remittance lines. Each line corresponds to one payment.</value>
   </row>
   <row id="800215" trl="N">
-    <value column="Name" isTrl="N" original="External Point of Sales">External Point of Sales</value>
+    <value column="Name" isTrl="Y" original="External Point of Sales">Внешняя торговая точка</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define points of sales and their associated attributes.">Define points of sales and their associated attributes.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Define points of sales and their associated attributes.">Define points of sales and their associated attributes.</value>
   </row>
   <row id="800216" trl="N">
-    <value column="Name" isTrl="N" original="Product Categories">Product Categories</value>
+    <value column="Name" isTrl="Y" original="Product Categories">Категории товара</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add product categories to be transferred to the point of sales.">Add product categories to be transferred to the point of sales.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add product categories to be transferred to the point of sales.">Add product categories to be transferred to the point of sales.</value>
   </row>
   <row id="800217" trl="N">
-    <value column="Name" isTrl="N" original="Products">Products</value>
+    <value column="Name" isTrl="Y" original="Products">Товары</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to be transferred to the point of sales.">Add products to be transferred to the point of sales.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3182,7 +3182,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit values for this indirect cost.">Create and edit values for this indirect cost.</value>
   </row>
   <row id="800231" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Tax Category">Business Partner Tax Category</value>
+    <value column="Name" isTrl="Y" original="Business Partner Tax Category">Налоговая категория контрагента</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create tax categories to be applied to one or a group of business partners.">Create tax categories to be applied to one or a group of business partners.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3448,11 +3448,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="8652BB9E40664869A5132CEB8A907B9B" trl="N">
-    <value column="Name" isTrl="N" original="System Info">System Info</value>
+    <value column="Name" isTrl="Y" original="System Info">Системная информация</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="System Info">System Info</value>
+    <value column="Description" isTrl="Y" original="System Info">Системная информация</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="System Info">System Info</value>
+    <value column="Help" isTrl="Y" original="System Info">Системная информация</value>
   </row>
   <row id="8723B0D2464B4AF8B63EDD3E541B883D" trl="N">
     <value column="Name" isTrl="N" original="Payment">Payment</value>

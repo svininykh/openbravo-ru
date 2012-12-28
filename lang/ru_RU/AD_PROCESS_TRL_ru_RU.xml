@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_PROCESS" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_PROCESS" version="0.1">
   <row id="0515E6559C31478E92703A3D10E6783B" trl="N">
     <value column="Name" isTrl="Y" original="Schedule Process">Планировать обработку</value>
     <value column="Description" isTrl="N" original="Request a process to be run in the background or scheduled.">Request a process to be run in the background or scheduled.</value>
@@ -42,7 +42,7 @@
   </row>
   <row id="1002100001" trl="N">
     <value column="Name" isTrl="Y" original="Report VAT Register">Отчёт Регистр НДС</value>
-    <value column="Description" isTrl="Y" original="Report VAT Register">Отчёт Регис�р НДС</value>
+    <value column="Description" isTrl="Y" original="Report VAT Register">Отчёт Регис��р НДС</value>
     <value column="Help" isTrl="Y" original="Report VAT Register">Отчёт Регистр НДС</value>
   </row>
   <row id="1002100002" trl="N">
@@ -393,7 +393,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
   <row id="176" trl="N">
     <value column="Name" isTrl="N" original="Reset Accounting">Reset Accounting</value>
     <value column="Description" isTrl="N" original="Reset Accounting Entries">Reset Accounting Entries</value>
-    <value column="Help" isTrl="N" original="The reset accounting process allows to totally or partially remove the ledger entries of an organization. The ledger entries can be massively re-created again by using the &quot;Accounting Server Process&quot; or the &quot;G/L Posting by DB Tables&quot; process. ">The reset accounting process allows to totally or partially delete the accounting of an organization. The organization's accounting can be later on re-created by using the "Accounting Server Process" or the "GL Posting by DB Tables" massive posting.  </value>
+    <value column="Help" isTrl="N" original="The reset accounting process allows to totally or partially remove the ledger entries of an organization. The ledger entries can be massively re-created again by using the &quot;Accounting Server Process&quot; or the &quot;G/L Posting by DB Tables&quot; process. ">The reset accounting process allows to totally or partially remove the ledger entries of an organization. The ledger entries can be massively re-created again by using the &quot;Accounting Server Process&quot; or the &quot;G/L Posting by DB Tables&quot; process. </value>
   </row>
   <row id="179" trl="N">
     <value column="Name" isTrl="Y" original="Verify Languages">Проверить языки</value>
@@ -431,8 +431,8 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Create AP Invoices from Expenses to be paid to employees">Create AP Invoices from Expenses to be paid to employees</value>
   </row>
   <row id="188" trl="N">
-    <value column="Name" isTrl="N" original="Process Batch old">Process Batch</value>
-    <value column="Description" isTrl="N" original="Process Batch old. Do not use this one">Process Batch</value>
+    <value column="Name" isTrl="N" original="Process Batch old">Process Batch old</value>
+    <value column="Description" isTrl="N" original="Process Batch old. Do not use this one">Process Batch old. Do not use this one</value>
     <value column="Help" isTrl="N" original="Process Batch">Process Batch</value>
   </row>
   <row id="189" trl="N">
@@ -452,7 +452,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
   </row>
   <row id="193" trl="N">
     <value column="Name" isTrl="Y" original="Generate PO from Sales Order">Приходная на основании расходной накладной</value>
-    <value column="Description" isTrl="N" original="Create Purchase Order from Sales Orders">Create Purchase Order from Sales Orders</value>
+    <value column="Description" isTrl="Y" original="Create Purchase Order from Sales Orders">Создать приходную по расходных накладных</value>
     <value column="Help" isTrl="N" original="After completing sales orders, you can create one or more purchase orders for each sales order. A purchase order references always only one sales order (i.e. no consolidation of sales orders).||POs are created for all sales order lines where the product h">After completing sales orders, you can create one or more purchase orders for each sales order. A purchase order references always only one sales order (i.e. no consolidation of sales orders).||POs are created for all sales order lines where the product h</value>
   </row>
   <row id="198" trl="N">
@@ -486,7 +486,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Select a Period (current period if empty) or enter a Account Date Range">Select a Period (current period if empty) or enter a Account Date Range</value>
   </row>
   <row id="205" trl="N">
-    <value column="Name" isTrl="N" original="Cache Reset">Cache Reset</value>
+    <value column="Name" isTrl="Y" original="Cache Reset">Очистить кэш</value>
     <value column="Description" isTrl="N" original="Reset Cache of the System ** Close all Windows before proceeding **">Reset Cache of the System ** Close all Windows before proceeding **</value>
     <value column="Help" isTrl="N" original="To increase performance, Openbravo caches repeatedly used data. This process clears the local cache.">To increase performance, Openbravo caches repeatedly used data. This process clears the local cache.</value>
   </row>
@@ -694,13 +694,13 @@ This process:&lt;br/&gt;
     <value column="Help" isTrl="N" original="Creates standard module for customizations">Creates standard module for customizations</value>
   </row>
   <row id="800000" trl="N">
-    <value column="Name" isTrl="N" original="Journal Entries Report">Journal Entries Report</value>
-    <value column="Description" isTrl="N" original="Journal Entries Report">Journal Entries Report</value>
+    <value column="Name" isTrl="Y" original="Journal Entries Report">Отчет Журнала проводок</value>
+    <value column="Description" isTrl="Y" original="Journal Entries Report">Отчет Журнала проводок</value>
     <value column="Help" isTrl="N" original="The journal entries report is a list of all the journal vouchers of an organization and general ledger shown in a chronological order.">The journal entries report is a list of all the journal vouchers of an organization and general ledger shown in a chronological order.</value>
   </row>
   <row id="800001" trl="N">
-    <value column="Name" isTrl="N" original="General Ledger Report">General Ledger Report</value>
-    <value column="Description" isTrl="N" original="Report general ledger">Report general ledger</value>
+    <value column="Name" isTrl="Y" original="General Ledger Report">Отчет Главной книги</value>
+    <value column="Description" isTrl="Y" original="Report general ledger">Отчет Главной книги</value>
     <value column="Help" isTrl="N" original="The General Ledger report lists every ledger &quot;subaccount&quot; and its debit and credit ledger entries within a given period of time.">The General Ledger report lists every ledger "subaccount" and its debit and credit ledger entries within a given period of time.</value>
   </row>
   <row id="800002" trl="N">
@@ -756,7 +756,7 @@ This process:&lt;br/&gt;
   <row id="800023" trl="N">
     <value column="Name" isTrl="N" original="Invoice Taxes Report">Invoice Taxes Report</value>
     <value column="Description" isTrl="N" original="Report Tax Invoice">Report Tax Invoice</value>
-    <value column="Help" isTrl="N" original="The invoice taxes report provides invoice tax related information per each tax rate.">Report Tax Invoice</value>
+    <value column="Help" isTrl="N" original="The invoice taxes report provides invoice tax related information per each tax rate.">The invoice taxes report provides invoice tax related information per each tax rate.</value>
   </row>
   <row id="800024" trl="N">
     <value column="Name" isTrl="N" original="Change Debt Payment">Change Debt Payment</value>
@@ -964,8 +964,8 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Help" isTrl="N" original="** special **">** special **</value>
   </row>
   <row id="800100" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Contract">Business Partner Contract</value>
-    <value column="Description" isTrl="N" original="Creates business partner contract">Creates business partner contract</value>
+    <value column="Name" isTrl="Y" original="Business Partner Contract">Договор контрагента</value>
+    <value column="Description" isTrl="Y" original="Creates business partner contract">Создать договора с контрагентом</value>
     <value column="Help" isTrl="N" original="Creates a PDF report containing the business partner name, address,... And the price list for the customer.">Creates a PDF report containing the business partner name, address,... And the price list for the customer.</value>
   </row>
   <row id="800101" trl="N">
@@ -1037,9 +1037,9 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="With this process are planed all the gatherings of the periodic control selected.">With this process are planed all the gatherings of the periodic control selected.</value>
   </row>
   <row id="800123" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Items Report">Отчёт Г/К Проводки</value>
-    <value column="Description" isTrl="Y" original="G/L Items Report">Отчёт Г/К Проводки</value>
-    <value column="Help" isTrl="Y" original="G/L Items Report">Отчёт Г/К Проводки</value>
+    <value column="Name" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
+    <value column="Description" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
+    <value column="Help" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
   </row>
   <row id="800124" trl="N">
     <value column="Name" isTrl="N" original="Performance Scorecard">Performance Scorecard</value>
@@ -1234,8 +1234,8 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="AlertProcess">AlertProcess</value>
   </row>
   <row id="800171" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Order Report">Purchase Order Report</value>
-    <value column="Description" isTrl="N" original="Purchase Order Report">Purchase Order Report</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Report">Отчет Приходные накладные</value>
+    <value column="Description" isTrl="Y" original="Purchase Order Report">Отчёт по приходным накладным</value>
     <value column="Help" isTrl="N" original="This report displays a detailed list of the purchase orders issued to the suppliers.">This report displays a detailed list of the purchase orders issued to the suppliers.</value>
   </row>
   <row id="800172" trl="N">
@@ -1259,8 +1259,8 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Customer Invoice Report JR">Customer Invoice Report JR</value>
   </row>
   <row id="800176" trl="N">
-    <value column="Name" isTrl="N" original="Sales Order Report">Sales Order Report</value>
-    <value column="Description" isTrl="N" original="Sales Order Report">Sales Order Report</value>
+    <value column="Name" isTrl="Y" original="Sales Order Report">Отчет Расходные накладные</value>
+    <value column="Description" isTrl="Y" original="Sales Order Report">Отчёт по расходным накладным</value>
     <value column="Help" isTrl="N" original="Sales Order Report JR">Sales Order Report JR</value>
   </row>
   <row id="800177" trl="N">

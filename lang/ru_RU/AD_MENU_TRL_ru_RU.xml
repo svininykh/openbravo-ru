@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MENU" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MENU" version="0.1">
   <row id="04B49FB13913462C8ACE2E3906440E3F" trl="N">
-    <value column="Name" isTrl="Y" original="Module">Модуль</value>
-    <value column="Description" isTrl="Y" original="Module management">Управление модулем</value>
+    <value column="Name" isTrl="Y" original="Module">Управление модулями</value>
+    <value column="Description" isTrl="Y" original="Module management">Управление модулями</value>
   </row>
   <row id="08B67705E5B44C5DB2196B9A1CD1ABD7" trl="N">
     <value column="Name" isTrl="Y" original="Costing Algorithm">Алгоритм калькуляции</value>
@@ -33,11 +33,11 @@
     <value column="Description" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
   </row>
   <row id="1003100000" trl="N">
-    <value column="Name" isTrl="N" original="Session Preferences">Параметры сессии</value>
+    <value column="Name" isTrl="Y" original="Session Preferences">Параметры сессии</value>
     <value column="Description" isTrl="N" original="View session information and set certain system settings.">View session information and set certain system settings.</value>
   </row>
   <row id="1003100001" trl="N">
-    <value column="Name" isTrl="N" original="Session Variables">Переменные сессии</value>
+    <value column="Name" isTrl="Y" original="Session Variables">Переменные сессии</value>
     <value column="Description" isTrl="N" original="View and set session variables.">View and set session variables.</value>
   </row>
   <row id="1004400000" trl="N">
@@ -109,7 +109,7 @@
     <value column="Description" isTrl="N" original="Create and edit projects and tasks potentially requiring sales invoicing.">Create and edit projects and tasks potentially requiring sales invoicing.</value>
   </row>
   <row id="117" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Category">Г/К Категории</value>
+    <value column="Name" isTrl="Y" original="G/L Category">Г/К Категория</value>
     <value column="Description" isTrl="N" original="Define G/L Categories to be used in the General Ledger.">Define G/L Categories to be used in the General Ledger.</value>
   </row>
   <row id="118" trl="N">
@@ -193,7 +193,7 @@
     <value column="Description" isTrl="N" original="Edit tables and columns so that Openbravo can access the database, as well as control the role access.">Edit tables and columns so that Openbravo can access the database, as well as control the role access.</value>
   </row>
   <row id="140" trl="N">
-    <value column="Name" isTrl="N" original="Reference">Тип данных</value>
+    <value column="Name" isTrl="Y" original="Reference">Тип данных</value>
     <value column="Description" isTrl="N" original="Edit standard data types such as strings, integers, lists as well as custom data types.">Edit standard data types such as strings, integers, lists as well as custom data types.</value>
   </row>
   <row id="141" trl="N">
@@ -413,7 +413,7 @@
     <value column="Description" isTrl="N" original="Create and edit forms (manual windows) to be used in the application.">Create and edit forms (manual windows) to be used in the application.</value>
   </row>
   <row id="217" trl="N">
-    <value column="Name" isTrl="N" original="Create Invoices from Orders">Create Invoices from Orders</value>
+    <value column="Name" isTrl="Y" original="Create Invoices from Orders">Создать счёт-фактуры по накладным</value>
     <value column="Description" isTrl="N" original="Create invoices for all processed sales orders/goods shipments that have not been invoiced.">Create invoices for all processed sales orders/goods shipments that have not been invoiced.</value>
   </row>
   <row id="218" trl="N">
@@ -609,8 +609,8 @@
     <value column="Description" isTrl="N" original="Create shipments for all processed sales orders that fit the criteria and the parameters specified.">Create shipments for all processed sales orders that fit the criteria and the parameters specified.</value>
   </row>
   <row id="347" trl="N">
-    <value column="Name" isTrl="Y" original="Print Invoices">Печать счетов</value>
-    <value column="Description" isTrl="Y" original="Print Invoices to paper or send PDF">Печать счетов на принтере или экспорт в PDF.</value>
+    <value column="Name" isTrl="N" original="Print Invoices">Print Invoices</value>
+    <value column="Description" isTrl="N" original="Print Invoices to paper or send PDF">Print Invoices to paper or send PDF</value>
   </row>
   <row id="349" trl="N">
     <value column="Name" isTrl="N" original="Employee Expenses">Employee Expenses</value>
@@ -637,7 +637,7 @@
     <value column="Description" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
   </row>
   <row id="357" trl="N">
-    <value column="Name" isTrl="N" original="Product Attributes">Product Attributes</value>
+    <value column="Name" isTrl="Y" original="Product Attributes">Характеристики товара</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define product attributes, and create and edit products lots and serial numbers.">Open a folder where you can define product attributes, and create and edit products lots and serial numbers.</value>
   </row>
   <row id="359" trl="N">
@@ -653,11 +653,11 @@
     <value column="Description" isTrl="N" original="Define projects types with typical phases and tasks to be used in projects.">Define projects types with typical phases and tasks to be used in projects.</value>
   </row>
   <row id="366" trl="N">
-    <value column="Name" isTrl="N" original="Session">Сессия</value>
+    <value column="Name" isTrl="Y" original="Session">Сессия</value>
     <value column="Description" isTrl="N" original="View all login's made in the application.">View all login's made in the application.</value>
   </row>
   <row id="367" trl="N">
-    <value column="Name" isTrl="N" original="Security">Безопасность</value>
+    <value column="Name" isTrl="Y" original="Security">Безопасность</value>
     <value column="Description" isTrl="N" original="Open a folder where you can see session logs and monitor modifications made by each user.">Open a folder where you can see session logs and monitor modifications made by each user.</value>
   </row>
   <row id="372" trl="N">
@@ -693,7 +693,7 @@
     <value column="Description" isTrl="N" original="Update Daily Accounting Balances">Update Daily Accounting Balances</value>
   </row>
   <row id="394" trl="Y">
-    <value column="Name" isTrl="Y" original="Business Partner Info">Информация по контрагенту</value>
+    <value column="Name" isTrl="Y" original="Business Partner Info">Описание контрагента</value>
     <value column="Description" isTrl="Y" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">Просмотреть информацию по накладным, отгрузке, счетам и активам контрагента.</value>
   </row>
   <row id="3942B34C83C74EFF8A9CC51AC3B003D3" trl="N">
@@ -770,7 +770,7 @@
   </row>
   <row id="800006" trl="N">
     <value column="Name" isTrl="Y" original="General Ledger Report">Отчет Главной книги</value>
-    <value column="Description" isTrl="N" original="Report general ledger">Report general ledger</value>
+    <value column="Description" isTrl="Y" original="Report general ledger">Отчет Главной книги</value>
   </row>
   <row id="800007" trl="N">
     <value column="Name" isTrl="N" original="Service Project">Service Project</value>
@@ -1253,7 +1253,7 @@
     <value column="Description" isTrl="N" original="Create and edit alerts that will inform you about any critical or important situation in the application.">Create and edit alerts that will inform you about any critical or important situation in the application.</value>
   </row>
   <row id="800229" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order Report">Отчет приходные накладные</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Report">Отчет Приходные накладные</value>
     <value column="Description" isTrl="Y" original="Purchase Order Report">Отчёт по приходным накладным</value>
   </row>
   <row id="800230" trl="N">
@@ -1361,7 +1361,7 @@
     <value column="Description" isTrl="N" original="Customer Invoice Report">Customer Invoice Report</value>
   </row>
   <row id="800261" trl="N">
-    <value column="Name" isTrl="Y" original="Sales Order Report">Отчет расходные накладные</value>
+    <value column="Name" isTrl="Y" original="Sales Order Report">Отчет Расходные накладные</value>
     <value column="Description" isTrl="Y" original="Sales Order Report">Отчёт по расходным накладным</value>
   </row>
   <row id="800262" trl="N">

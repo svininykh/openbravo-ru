@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_WINDOW" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_WINDOW" version="0.1">
   <row id="08F09D2A7C774585B014C06C0F44F591" trl="N">
     <value column="Name" isTrl="N" original="AD Implementation Mapping">AD Implementation Mapping</value>
     <value column="Description" isTrl="N" original="Displays the AD-implementation mappings">Displays the AD-implementation mappings</value>
@@ -23,12 +23,12 @@
   <row id="1002100003" trl="N">
     <value column="Name" isTrl="Y" original="Tax Register Type">Тип налогового регистра</value>
     <value column="Description" isTrl="Y" original="Tax Register Type">Тип налогового регистра</value>
-    <value column="Help" isTrl="Y" original="A tax register type is used to collect all the tax rates of a type to take into account while calculating the total tax amount of a given tax register type within a period of time.">A tax register type is used to collect all the tax rates of a type to take into account while calculating the total tax amount of a given tax register type within a period of time.</value>
+    <value column="Help" isTrl="N" original="A tax register type is used to collect all the tax rates of a type to take into account while calculating the total tax amount of a given tax register type within a period of time.">A tax register type is used to collect all the tax rates of a type to take into account while calculating the total tax amount of a given tax register type within a period of time.</value>
   </row>
   <row id="1002100004" trl="N">
     <value column="Name" isTrl="Y" original="Tax Payment">Оплата налога</value>
     <value column="Description" isTrl="N" original="Tax Payment/Tax Register">Tax Payment/Tax Register</value>
-    <value column="Help" isTrl="N" original="The &quot;Tax Payment&quot; process helps to calculate the amount of taxes to be paid to or received from the tax authority.">The &quot;Tax Payment&quot; process helps to calculate the amount of taxes to be paid to or received from the tax authority.</value>
+    <value column="Help" isTrl="N" original="The &quot;Tax Payment&quot; process helps to calculate the amount of taxes to be paid to or received from the tax authority.">The "Tax Payment" process helps to calculate the amount of taxes to be paid to or received from the tax authority.</value>
   </row>
   <row id="1004400000" trl="N">
     <value column="Name" isTrl="N" original="Manage Requisitions">Manage Requisitions</value>
@@ -36,7 +36,7 @@
     <value column="Help" isTrl="N" original="Manage Requisition window is intended to be used by the procurement team as it provides an overall picture of the items needed.&lt;br&gt;At the end of the day the procurement team is the one to decide what to do with the requisitions created by other members of the organization or business unit. ">Manage Requisition window is intended to be used by the procurement team as it provides an overall picture of the items needed.&lt;br&gt;At the end of the day the procurement team is the one to decide what to do with the requisitions created by other members of the organization or business unit. </value>
   </row>
   <row id="1005400002" trl="N">
-    <value column="Name" isTrl="N" original="Heartbeat Configuration">Heartbeat Configuration</value>
+    <value column="Name" isTrl="Y" original="Heartbeat Configuration">Настройки кардиограммы</value>
     <value column="Description" isTrl="N" original="Enable or disable the heartbeat process and configure internet connection proxy information ">Enable or disable the heartbeat process and configure internet connection proxy information </value>
     <value column="Help" isTrl="N" original="During heartbeat processing, some of the data that is collected. See the complete list of gathered data in http://wiki.openbravo.com/wiki/ERP/2.50/User_Manual/HeartBeat&#10;&#10;The Heartbeat server might return several queries to be executed locally. Consult the following link for the historic list of custom queries: http://wiki.openbravo.com/wiki/Projects/Heartbeat/Custom_Queries&#10;&#10;The heartbeat data is stored in a file controlled by Openbravo S.L.U. It is collected solely to gather and send data about your Openbravo product installation back to a service on Openbravo SLU's infrastructure to assist managing your Openbravo product installation. As a benefit to you, with this information, Openbravo SLU can offer you system configuration and component update information, sent automatically to you. Available updates may include, for example, Operating System updates, Database updates and Openbravo code. This data will be used on an aggregated and anonymous basis to generate reports identifying where and how the Openbravo product is being utilized.&#10;&#10;For further information, please consult http://wiki.openbravo.com/wiki/ERP/2.50/User_Manual/HeartBeat&#10;&#10;Openbravo stores this information on servers in the USA and implements security measures in accordance with applicable legislation to maintain the confidentiality of this data. This data is not used for commercial purposes other than as set out above. It is not communicated or transferred to any third party&#10;&#10;You may deactivate this feature by disabling the “enable heartbeat” box. In addition, you may exercise your right to access, rectify, oppose and cancel the data by writing to Openbravo, S.L.U. PO Box 5117, 31010 Pamplona, Navarra, Spain, or by email to privacy@openbravo.com.&#10;&#10;By enabling the heartbeat, you consent to the processing of this data and storing of the same in the USA as set out above.">During heartbeat processing, some of the data that is collected. See the complete list of gathered data in http://wiki.openbravo.com/wiki/ERP/2.50/User_Manual/HeartBeat
 
@@ -237,7 +237,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create shipping companies and define freight costs to be used in products logistics.">Create shipping companies and define freight costs to be used in products logistics.</value>
   </row>
   <row id="143" trl="N">
-    <value column="Name" isTrl="N" original="Sales Order">Sales Order</value>
+    <value column="Name" isTrl="Y" original="Sales Order">Расходная накладная</value>
     <value column="Description" isTrl="N" original="Create orders tracking product sales to customers.">Create orders tracking product sales to customers.</value>
     <value column="Help" isTrl="N" original="A sales order is a document that specifies products and/or services ordered by a specific business partner (customer), as well as the price and terms and conditions. ">A sales order is a document that specifies products and/or services ordered by a specific business partner (customer), as well as the price and terms and conditions. </value>
   </row>
@@ -353,7 +353,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and run production processes using the previously defined bills of materials.">Create and run production processes using the previously defined bills of materials.</value>
   </row>
   <row id="192" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Category">Business Partner Category</value>
+    <value column="Name" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
     <value column="Description" isTrl="N" original="Create and edit information related to similar business partners at one time by grouping them.">Create and edit information related to similar business partners at one time by grouping them.</value>
     <value column="Help" isTrl="N" original="Business partners can be grouped into different categories which must be created with the aim of helping their management and analysis.">Business partners can be grouped into different categories which must be created with the aim of helping their management and analysis.</value>
   </row>
@@ -438,7 +438,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="View expenses before invoicing them to customers.">View expenses before invoicing them to customers.</value>
   </row>
   <row id="246" trl="N">
-    <value column="Name" isTrl="N" original="System">System</value>
+    <value column="Name" isTrl="Y" original="System">Система</value>
     <value column="Description" isTrl="N" original="System Definition">System Definition</value>
     <value column="Help" isTrl="N" original="System Definition">System Definition</value>
   </row>
@@ -448,7 +448,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Some payments types require an additional activity to be executed upon completion of the payment.">Some payments types require an additional activity to be executed upon completion of the payment.</value>
   </row>
   <row id="252" trl="N">
-    <value column="Name" isTrl="N" original="Asset Group">Asset Group</value>
+    <value column="Name" isTrl="Y" original="Asset Group">Группа основных средств</value>
     <value column="Description" isTrl="N" original="Create and edit categories to group assets with similar characteristics together.">Create and edit categories to group assets with similar characteristics together.</value>
     <value column="Help" isTrl="N" original="Create and edit categories to group assets with similar characteristics together.">Create and edit categories to group assets with similar characteristics together.</value>
   </row>
@@ -478,7 +478,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="A product attribute can be a serial number.">A product attribute can be a serial number.</value>
   </row>
   <row id="260" trl="N">
-    <value column="Name" isTrl="N" original="Attribute">Attribute</value>
+    <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
     <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest. &#10;</value>
   </row>
@@ -517,10 +517,10 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
     <value column="Help" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
   </row>
-  <row id="291" trl="N">
+  <row id="291" trl="Y">
     <value column="Name" isTrl="Y" original="Business Partner Info">Описание контрагента</value>
-    <value column="Description" isTrl="N" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">View information related to business partner orders, receipts/shipments, invoices, and assets.</value>
-    <value column="Help" isTrl="N" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">View information related to business partner orders, receipts/shipments, invoices, and assets.</value>
+    <value column="Description" isTrl="Y" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">Просмотреть информацию по накладным, отгрузке, счетам и активам контрагента.</value>
+    <value column="Help" isTrl="Y" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">Просмотреть информацию по накладным, отгрузке, счетам и активам контрагента.</value>
   </row>
   <row id="2CC1DC1EDEA2454F987E7F2BBF48A4AE" trl="N">
     <value column="Name" isTrl="Y" original="Dataset">Набор данных</value>
@@ -568,9 +568,9 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Openbravo allows to import a bank statement file on an organization's financial account if a bank file format is confgured for the organization.">Openbravo allows to import a bank statement file on an organization's financial account if a bank file format is confgured for the organization.</value>
   </row>
   <row id="578DD45CF2BF4D3CA27E4C0EEEF5E5E6" trl="N">
-    <value column="Name" isTrl="N" original="System Info">System Info</value>
-    <value column="Description" isTrl="N" original="System Info">System Info</value>
-    <value column="Help" isTrl="N" original="System Info">System Info</value>
+    <value column="Name" isTrl="Y" original="System Info">Системная информация</value>
+    <value column="Description" isTrl="Y" original="System Info">Системная информация</value>
+    <value column="Help" isTrl="Y" original="System Info">Системная информация</value>
   </row>
   <row id="6AA84F4BDAA44477808F0E7A86AB4961" trl="N">
     <value column="Name" isTrl="N" original="Prereservation Pick and Edit">Prereservation Pick and Edit</value>
@@ -588,7 +588,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="6F8F913FA60F4CBD93DC1D3AA696E76E" trl="N">
-    <value column="Name" isTrl="N" original="Payment Out">Выплаченные платежи</value>
+    <value column="Name" isTrl="Y" original="Payment Out">Выплаченные платежи</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Supplier's payments and prepayments can be made and manage in the payment out window.">Supplier's payments and prepayments can be made and manage in the payment out window.</value>
   </row>
@@ -679,17 +679,17 @@ You can also select if transactions are allowed or not for this organization typ
   </row>
   <row id="800026" trl="N">
     <value column="Name" isTrl="Y" original="Amortization">Амортизация</value>
-    <value column="Description" isTrl="N" original="Create and edit amortization for a selected year.">Create and edit amortization for a selected year.</value>
-    <value column="Help" isTrl="N" original="Create and edit amortization for a selected year.">Create and edit amortization for a selected year.</value>
+    <value column="Description" isTrl="Y" original="Create and edit amortization for a selected year.">Создать и редактирвоать амортизацию для выбранного года.</value>
+    <value column="Help" isTrl="Y" original="Create and edit amortization for a selected year.">Создать и редактирвоать амортизацию для выбранного года.</value>
   </row>
   <row id="800027" trl="N">
     <value column="Name" isTrl="Y" original="Assets">Основные средства</value>
-    <value column="Description" isTrl="N" original="Define amortization characteristics for assets owned by your company.">Define amortization characteristics for assets owned by your company.</value>
-    <value column="Help" isTrl="N" original="Define amortization characteristics for assets owned by your company.">Define amortization characteristics for assets owned by your company.</value>
+    <value column="Description" isTrl="Y" original="Define amortization characteristics for assets owned by your company.">Установить параметры амортизации для основных средств компании.</value>
+    <value column="Help" isTrl="Y" original="Define amortization characteristics for assets owned by your company.">Установить параметры амортизации для основных средств компании.</value>
   </row>
   <row id="800028" trl="N">
     <value column="Name" isTrl="Y" original="Discounts and Promotions">Скидки и акции</value>
-    <value column="Description" isTrl="N" original="Definition of Discounts and Promotions">Definition of Discounts and Promotions</value>
+    <value column="Description" isTrl="Y" original="Definition of Discounts and Promotions">Установка скидок и назначение акций</value>
     <value column="Help" isTrl="N" original="Discounts and Promotions is a mechanism that allows to adjust prices based on different rules. External modules can extend this definition by providing additional rules (Discount Types) implementations.">Discounts and Promotions is a mechanism that allows to adjust prices based on different rules. External modules can extend this definition by providing additional rules (Discount Types) implementations.</value>
   </row>
   <row id="800029" trl="N">
@@ -823,7 +823,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit payments by using remittances to cancel or return them.">Edit payments by using remittances to cancel or return them.</value>
   </row>
   <row id="800083" trl="N">
-    <value column="Name" isTrl="N" original="External Point of Sales">External Point of Sales</value>
+    <value column="Name" isTrl="Y" original="External Point of Sales">Внешняя торговая точка</value>
     <value column="Description" isTrl="N" original="Define and synchonize Openbravo to your points of sales and their respective attributes.">Define and synchonize Openbravo to your points of sales and their respective attributes.</value>
     <value column="Help" isTrl="N" original="Define and synchonize Openbravo to your points of sales and their respective attributes.">Define and synchonize Openbravo to your points of sales and their respective attributes.</value>
   </row>
@@ -838,7 +838,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit indirect costs to be used in production.">Create and edit indirect costs to be used in production.</value>
   </row>
   <row id="800086" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Tax Category">Business Partner Tax Category</value>
+    <value column="Name" isTrl="Y" original="Business Partner Tax Category">Налоговая категория контрагента</value>
     <value column="Description" isTrl="N" original="Create a tax category to be added to each business partner.">Create a tax category to be added to each business partner.</value>
     <value column="Help" isTrl="N" original="A business partner tax category allows to group and manage similar business partners tax rates.">A business partner tax category allows to group and manage similar business partners tax rates.</value>
   </row>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MENU" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MENU" version="0.1">
   <row id="1005400002" trl="N">
     <value column="Name" isTrl="N" original="Register">Register</value>
     <value column="Description" isTrl="N" original="Register your installation of Openbravo ERP in order to receive development and commercial updates and information">Register your installation of Openbravo ERP in order to receive development and commercial updates and information</value>
@@ -13,7 +13,7 @@
     <value column="Description" isTrl="N" original="A view is shown in the main user interface, the view implementation defines the javaclass responsible for generating the client-side javascript.">A view is shown in the main user interface, the view implementation defines the javaclass responsible for generating the client-side javascript.</value>
   </row>
   <row id="FF8080812EB90459012EBA72B4E7004D" trl="N">
-    <value column="Name" isTrl="Y" original="Alert Management">Управление предепрждениями</value>
+    <value column="Name" isTrl="Y" original="Alert Management">Управление предупреждениями</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FF8081813157AED2013157C149F40039" trl="N">
