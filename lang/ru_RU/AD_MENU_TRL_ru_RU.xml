@@ -325,7 +325,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="190" trl="N">
-    <value column="Name" isTrl="N" original="Title">Title</value>
+    <value column="Name" isTrl="Y" original="Title">Обращение</value>
     <value column="Description" isTrl="N" original="Define titles to be used to address a business partner.">Define titles to be used to address a business partner.</value>
   </row>
   <row id="192" trl="N">
@@ -353,7 +353,7 @@
     <value column="Description" isTrl="N" original="Open or close periods for the allowed organizations">Open or close periods for the allowed organizations</value>
   </row>
   <row id="1E5FB50EFD5D43BDA4AB1879707D9003" trl="N">
-    <value column="Name" isTrl="N" original="Import Client">Import Client</value>
+    <value column="Name" isTrl="Y" original="Import Client">Импортировать подключение</value>
     <value column="Description" isTrl="N" original="Import a client from xml">Import a client from xml</value>
   </row>
   <row id="202" trl="N">
@@ -1457,15 +1457,15 @@
     <value column="Description" isTrl="N" original="Manage current instance">Manage current instance</value>
   </row>
   <row id="B73A1BE38C6F4F4BB17A3B6FA8C3293E" trl="N">
-    <value column="Name" isTrl="N" original="Module Management">Module Management</value>
+    <value column="Name" isTrl="Y" original="Module Management">Управление модулями</value>
     <value column="Description" isTrl="N" original="Mangament for installed modules">Mangament for installed modules</value>
   </row>
   <row id="B902D95D3F654C7096C428F50381E38A" trl="N">
-    <value column="Name" isTrl="N" original="Process Monitor">Process Monitor</value>
+    <value column="Name" isTrl="Y" original="Process Monitor">Монитор обработки</value>
     <value column="Description" isTrl="N" original="Monitor the results, run time, start and finish times of execution of process requests.">Monitor the results, run time, start and finish times of execution of process requests.</value>
   </row>
   <row id="BC399BACA2F34B968C54555D79ED66A7" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse Rules">Warehouse Rules</value>
+    <value column="Name" isTrl="Y" original="Warehouse Rules">Правила хранения</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="BE86736DF4AB4568A316A3922E6D6B7B" trl="N">

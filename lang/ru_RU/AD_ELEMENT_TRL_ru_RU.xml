@@ -1219,8 +1219,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400043" trl="N">
-    <value column="Name" isTrl="N" original="Code Revision">Code Revision</value>
-    <value column="PrintName" isTrl="N" original="Code Revision">Code Revision</value>
+    <value column="Name" isTrl="Y" original="Code Revision">Ревизия кода</value>
+    <value column="PrintName" isTrl="Y" original="Code Revision">Ревизия кода</value>
     <value column="Description" isTrl="N" original="The code revision of the installed system">The code revision of the installed system</value>
     <value column="Help" isTrl="N" original="The code revision of the installed system">The code revision of the installed system</value>
     <value column="PO_Description" isTrl="N" original=""/>

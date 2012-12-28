@@ -1147,7 +1147,7 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Remittance printed">Remittance printed</value>
   </row>
   <row id="800147" trl="N">
-    <value column="Name" isTrl="N" original="Delete Client">Delete Client</value>
+    <value column="Name" isTrl="Y" original="Delete Client">Удалить подключение</value>
     <value column="Description" isTrl="N" original="This process deletes a client">This process deletes a client</value>
     <value column="Help" isTrl="N" original="This process deletes a client and all of its data. This operation cannot be undone so please exercise caution.&#10;Under certain circumstances, this process fails to complete successfully, leaving the system in an inconsistent state that prevents it from working correctly. We strongly advise to backup your system before initiating this operation.&#10;This operation can take a long time to complete.">This process deletes a client and all of its data. This operation cannot be undone so please exercise caution.
 Under certain circumstances, this process fails to complete successfully, leaving the system in an inconsistent state that prevents it from working correctly. We strongly advise to backup your system before initiating this operation.
@@ -1400,7 +1400,7 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Generate Cash Flow Statement">Generate Cash Flow Statement</value>
   </row>
   <row id="970EAD9B846648A7AB1F0CCA5058356C" trl="N">
-    <value column="Name" isTrl="N" original="Import Client">Import Client</value>
+    <value column="Name" isTrl="Y" original="Import Client">Импортировать подключение</value>
     <value column="Description" isTrl="N" original="Import a client from xml">Import a client from xml</value>
     <value column="Help" isTrl="N" original="Import a client and its data from a xml file">Import a client and its data from a xml file</value>
   </row>
@@ -1410,12 +1410,12 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Updates a Org specific column of the product depending on the Pareto distribution">Updates a Org specific column of the product depending on the Pareto distribution</value>
   </row>
   <row id="9DB4D30BFC5144B9B431CB49DDE9270D" trl="N">
-    <value column="Name" isTrl="N" original="Kill Session">Kill Session</value>
+    <value column="Name" isTrl="Y" original="Kill Session">Разорвать сессию</value>
     <value column="Description" isTrl="N" original="Kill the selected session">Kill the selected session</value>
     <value column="Help" isTrl="N" original="Kills the selected session and logs the user out.">Kills the selected session and logs the user out.</value>
   </row>
   <row id="9EB2228A60684C0DBEC12D5CD8D85218" trl="N">
-    <value column="Name" isTrl="N" original="Calculate Promotions">Calculate Promotions</value>
+    <value column="Name" isTrl="Y" original="Calculate Promotions">Рассчитать промо-акцию</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Calculates and applies the promotions that can valid for the current document modifying final prices if any of them is applicable.">Calculates and applies the promotions that can valid for the current document modifying final prices if any of them is applicable.</value>
   </row>
@@ -1430,7 +1430,7 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="A3FE1F9892394386A49FB707AA50A0FA" trl="N">
-    <value column="Name" isTrl="N" original="Create Order">Create Order</value>
+    <value column="Name" isTrl="Y" original="Create Order">Создать накладную</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity.  If the firm quote check box is deselected and the price list is modified after quotation, prices will be reflect these changes in the sales order or invoice">A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity.  If the firm quote check box is deselected and the price list is modified after quotation, prices will be reflect these changes in the sales order or invoice</value>
   </row>
@@ -1450,7 +1450,7 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="BDB3B6FCA0AB453DB4E83503BAB82470" trl="N">
-    <value column="Name" isTrl="N" original="Apply Modules">Apply Modules</value>
+    <value column="Name" isTrl="Y" original="Apply Modules">Применить модули</value>
     <value column="Description" isTrl="N" original="This process apply all the installed modules">This process apply all the installed modules</value>
     <value column="Help" isTrl="N" original="This process applies all the installed modules. It loads the module definition in the database and generate and compiles the corresponding code.">This process applies all the installed modules. It loads the module definition in the database and generate and compiles the corresponding code.</value>
   </row>
@@ -1485,17 +1485,17 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FB740AB61B0E42B198D2C88D3A0D0CE6" trl="N">
-    <value column="Name" isTrl="N" original="Update Payment Plan">Update Payment Plan</value>
+    <value column="Name" isTrl="Y" original="Update Payment Plan">Обновить график платежей</value>
     <value column="Description" isTrl="N" original="This process will update some details of the payment plan.">This process will update some details of the payment plan.</value>
     <value column="Help" isTrl="N" original="This process will update some details of the payment plan.">This process will update some details of the payment plan.</value>
   </row>
   <row id="FF80808133362F6A013336781FCE0066" trl="N">
-    <value column="Name" isTrl="N" original="Create Invoice">Create Invoice</value>
+    <value column="Name" isTrl="Y" original="Create Invoice">Создать счёт-фактуру</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FF8081813219E68E013219ECFE930004" trl="N">
-    <value column="Name" isTrl="N" original="Create Product Copy">Create Product Copy</value>
+    <value column="Name" isTrl="Y" original="Create Product Copy">Создать копию товара</value>
     <value column="Description" isTrl="N" original="Create a product copied from the line product and insert a new line in the sequence using this new product created">Create a product copied from the line product and insert a new line in the sequence using this new product created</value>
     <value column="Help" isTrl="N" original="Create a product copied from the line product and insert a new line in the sequence using this new product created">Create a product copied from the line product and insert a new line in the sequence using this new product created</value>
   </row>
@@ -1510,7 +1510,7 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Process to validate the work effort in Production Run Window. With this process the work effort is closed. Stocks are actualized and average costs are calculated">Process to validate the work effort in Production Run Window. With this process the work effort is closed. Stocks are actualized and average costs are calculated</value>
   </row>
   <row id="FF80818132A4F6AD0132A573DD7A0021" trl="N">
-    <value column="Name" isTrl="N" original="Create Standards">Create Standards</value>
+    <value column="Name" isTrl="Y" original="Create Standards">Создать стандарты</value>
     <value column="Description" isTrl="N" original="Inserts the standard values for the selected Work Requirement Phase and Cost Center version">Inserts the standard values for the selected Work Requirement Phase and Cost Center version</value>
     <value column="Help" isTrl="N" original="With this process the products involved on the selected work requirement phase will be inserted. If the phase is of global use all the used products (P-) will go to the global use tab and if it is of no quantity all the quantities will be zero.&#10;This process also inserts the correspondent machines, salary categories and indirect costs of the selected Cost Center version.&#10;If the Activity of the Work Requirement Phase uses toolsets they are also inserted.&#10;Depending on the configuration of the Cost Center the process will also calculate the Cost Center use.">With this process the products involved on the selected work requirement phase will be inserted. If the phase is of global use all the used products (P-) will go to the global use tab and if it is of no quantity all the quantities will be zero.
 This process also inserts the correspondent machines, salary categories and indirect costs of the selected Cost Center version.
@@ -1518,7 +1518,7 @@ If the Activity of the Work Requirement Phase uses toolsets they are also insert
 Depending on the configuration of the Cost Center the process will also calculate the Cost Center use.</value>
   </row>
   <row id="FF80818132C964E30132C9747257002E" trl="N">
-    <value column="Name" isTrl="N" original="Get Stock">Get Stock</value>
+    <value column="Name" isTrl="Y" original="Get Stock">Получить остатки</value>
     <value column="Description" isTrl="N" original="Insert the available stock prioritized by user defined rules into M_Stock_Proposed table.">Insert the available stock prioritized by user defined rules into M_Stock_Proposed table.</value>
     <value column="Help" isTrl="N" original="Insert the available stock prioritized by user defined rules into M_Stock_Proposed table.">Insert the available stock prioritized by user defined rules into M_Stock_Proposed table.</value>
   </row>

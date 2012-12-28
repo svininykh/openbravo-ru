@@ -323,7 +323,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit internal inventory movements among warehouses and storage bins.">Create and edit internal inventory movements among warehouses and storage bins.</value>
   </row>
   <row id="178" trl="N">
-    <value column="Name" isTrl="N" original="Title">Title</value>
+    <value column="Name" isTrl="Y" original="Title">Обращение</value>
     <value column="Description" isTrl="N" original="Define titles to be used to address a business partner.">Define titles to be used to address a business partner.</value>
     <value column="Help" isTrl="N" original="Title window allows to setup business partner titles such as Mr or Madame to be used while contacting business partners.">Title window allows to setup business partner titles such as Mr or Madame to be used while contacting business partners.</value>
   </row>
@@ -968,12 +968,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Open/Close Period Control allows to open, close or permanently close the accounting period/s of a year.  This process is enabled to Organizations for which &quot;Period Control&quot; feature is enabled.">Open/Close Period Control allows to open, close or permanently close the accounting period/s of a year.  This process is enabled to Organizations for which "Period Control" feature is enabled.</value>
   </row>
   <row id="EF3E837705944F4DBF398D683D36ACE0" trl="N">
-    <value column="Name" isTrl="N" original="Process Monitor">Process Monitor</value>
+    <value column="Name" isTrl="Y" original="Process Monitor">Монитор обработки</value>
     <value column="Description" isTrl="N" original="Monitor the results, run time, start and finish times of execution of process requests.">Monitor the results, run time, start and finish times of execution of process requests.</value>
     <value column="Help" isTrl="N" original="Process monitor feature allows to review the status of processes executed by a user as well as the ones scheduled in the process request window.">Process monitor feature allows to review the status of processes executed by a user as well as the ones scheduled in the process request window.</value>
   </row>
   <row id="FC404D2406A9491CBD905D0D38F04846" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse Rules">Warehouse Rules</value>
+    <value column="Name" isTrl="Y" original="Warehouse Rules">Правила хранения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Warehouse Rules definition">Warehouse Rules definition</value>
   </row>
