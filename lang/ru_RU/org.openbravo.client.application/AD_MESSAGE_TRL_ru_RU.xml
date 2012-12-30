@@ -9,7 +9,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="03A1537560E14203A0FE2C2CF9DB3D97" trl="N">
-    <value column="MsgText" isTrl="N" original="By 10000">By 10000</value>
+    <value column="MsgText" isTrl="Y" original="By 10000">По 10000</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="03E29095BED24FDDA971405ABA990CAD" trl="N">
@@ -129,7 +129,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="48A6793A3C364216B184A33117EF7ED1" trl="N">
-    <value column="MsgText" isTrl="N" original="By 0.1">By 0.1</value>
+    <value column="MsgText" isTrl="Y" original="By 0.1">По 0.1</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="49C1D2F7A3F9442482B27EBD450BBA40" trl="N">
@@ -161,7 +161,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5B1FB06A4EBA4654A9A93695434C72AE" trl="N">
-    <value column="MsgText" isTrl="N" original="Delete the current (selected) record(s) from the database.">Delete the current (selected) record(s) from the database.</value>
+    <value column="MsgText" isTrl="Y" original="Delete the current (selected) record(s) from the database.">Удалить текущую (выбранную) запись(и) из базы данных.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5DE5F76ED5B4497FACDC438893037484" trl="N">
@@ -229,7 +229,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7E8A12D43C0D404F868CE36DB349C9FC" trl="N">
-    <value column="MsgText" isTrl="N" original="Save your changes in the database">Save your changes in the database</value>
+    <value column="MsgText" isTrl="N" original="Save your changes in the database">Сохранить ваши изменения в базе данных</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="80A295E6A2EE4213BD9D975158749977" trl="N">
@@ -314,11 +314,11 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B151C652F8204C8B896AB76BED5A273D" trl="N">
-    <value column="MsgText" isTrl="N" original="By 10">By 10</value>
+    <value column="MsgText" isTrl="Y" original="By 10">По 10</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B355D5A55A734B61B57A6AEBF3B96863" trl="N">
-    <value column="MsgText" isTrl="N" original="By 100000">By 100000</value>
+    <value column="MsgText" isTrl="Y" original="By 100000">По 100000</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B5B5ECA6E070496D8A773F264B200208" trl="N">
@@ -358,7 +358,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CB466C1E6F3A404387166106D9975BE9" trl="N">
-    <value column="MsgText" isTrl="N" original="By 1000">By 1000</value>
+    <value column="MsgText" isTrl="Y" original="By 1000">По 1000</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CBB8D95E3D4B471EBA06A7AD57065098" trl="N">
@@ -366,7 +366,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CE3E9A8711D54E719F02630BE8D5E2FB" trl="N">
-    <value column="MsgText" isTrl="N" original="By 1">By 1</value>
+    <value column="MsgText" isTrl="Y" original="By 1">По 1</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D109B6F7D8BF4F5C9D84463CD36BF434" trl="N">
@@ -434,11 +434,11 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EF03C1B05A0548288B31E1B624730A6D" trl="N">
-    <value column="MsgText" isTrl="N" original="Cancel changes and return to last saved state">Cancel changes and return to last saved state</value>
+    <value column="MsgText" isTrl="Y" original="Cancel changes and return to last saved state">Отменить изменения и вернутся к последнему сохранённому состоянию</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F1608458F2A84B81812F0A5C8B3E8633" trl="N">
-    <value column="MsgText" isTrl="N" original="Delete Note">Delete Note</value>
+    <value column="MsgText" isTrl="Y" original="Delete Note">Удалить заметку</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FBA2F11416C4413F8E2D554119461964" trl="N">
@@ -446,7 +446,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF1B52D0AF694B0EB3F220D65E3BD28F" trl="N">
-    <value column="MsgText" isTrl="N" original="By 100">By 100</value>
+    <value column="MsgText" isTrl="Y" original="By 100">По 100</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812DDB247F012DDB685F940080" trl="N">
@@ -454,27 +454,27 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812DDB247F012DDCF7D6060189" trl="N">
-    <value column="MsgText" isTrl="N" original="Go to previous record">Go to previous record</value>
+    <value column="MsgText" isTrl="Y" original="Go to previous record">Перейти к предыдущей записи</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812DDB247F012DDCF82BFF018B" trl="N">
-    <value column="MsgText" isTrl="N" original="Go to next record">Go to next record</value>
+    <value column="MsgText" isTrl="Y" original="Go to next record">Перейти к следующей записи</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812DDB247F012DDCF92A140198" trl="N">
-    <value column="MsgText" isTrl="N" original="Close the current record and return to grid view">Close the current record and return to grid view</value>
+    <value column="MsgText" isTrl="Y" original="Close the current record and return to grid view">Закрыть текущую запись и вернутся к списку</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812DDB247F012DDCFA2B1B019E" trl="N">
-    <value column="MsgText" isTrl="N" original="Maximize the current tab">Maximize the current tab</value>
+    <value column="MsgText" isTrl="Y" original="Maximize the current tab">Развернуть текущую вкладку</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812DDB247F012DDCFAB5EC01A4" trl="N">
-    <value column="MsgText" isTrl="N" original="Restore the tab to previous size">Restore the tab to previous size</value>
+    <value column="MsgText" isTrl="Y" original="Restore the tab to previous size">Вернуть вкладку к предыдущему размеру</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812E8126B7012E8134F22F0013" trl="N">
-    <value column="MsgText" isTrl="N" original="Export to Spreadsheet">Export to Spreadsheet</value>
+    <value column="MsgText" isTrl="Y" original="Export to Spreadsheet">Экспортировать в таблицу</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EDE8228012EE38964E00054" trl="N">
@@ -542,7 +542,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F062060012F062A78FE0010" trl="N">
-    <value column="MsgText" isTrl="N" original="by">by</value>
+    <value column="MsgText" isTrl="Y" original="by">по</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F062060012F063D35C20026" trl="N">
@@ -791,7 +791,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA54F20012DA70AEBC9006B" trl="N">
-    <value column="MsgText" isTrl="N" original="The applied filter resulted in 0 results.">The applied filter resulted in 0 results.</value>
+    <value column="MsgText" isTrl="Y" original="The applied filter resulted in 0 results.">Применение фильтра дало 0 результат.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA54F20012DA70BBB56006F" trl="N">
@@ -1031,11 +1031,11 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E99943C012E99C8B0500050" trl="N">
-    <value column="MsgText" isTrl="N" original="Document Link">Document Link</value>
+    <value column="MsgText" isTrl="N" original="Document Link">Ссылка на документ</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E99943C012E99C9668A0055" trl="N">
-    <value column="MsgText" isTrl="N" original="Get a direct link to this view or record">Get a direct link to this view or record</value>
+    <value column="MsgText" isTrl="N" original="Get a direct link to this view or record">Получить короткую ссылку на этот вид или запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812EB3E4F7012EB3EBFDC6000A" trl="N">
@@ -1051,15 +1051,15 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812EC49C0E012EC4AED10C001E" trl="N">
-    <value column="MsgText" isTrl="N" original="With your current role this action is not allowed.">With your current role this action is not allowed.</value>
+    <value column="MsgText" isTrl="Y" original="With your current role this action is not allowed.">Ваша текущая роль не допускает данное действие.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812ECF6CFE012ECF7AB485001C" trl="N">
-    <value column="MsgText" isTrl="N" original="You are editing this record.">You are editing this record.</value>
+    <value column="MsgText" isTrl="Y" original="You are editing this record.">Вы редактируете эту запись.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812F2504B8012F258A4398004B" trl="N">
-    <value column="MsgText" isTrl="N" original="by">by</value>
+    <value column="MsgText" isTrl="Y" original="by">по</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812F2504B8012F258AB0B9004F" trl="N">

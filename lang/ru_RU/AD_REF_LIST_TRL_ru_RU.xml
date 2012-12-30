@@ -385,7 +385,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="112" trl="N">
-    <value column="Name" isTrl="N" original="Transaction">Transaction</value>
+    <value column="Name" isTrl="Y" original="Transaction">Транзакция</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="113" trl="N">
@@ -473,7 +473,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="133" trl="N">
-    <value column="Name" isTrl="N" original="Regional Office">Regional Office</value>
+    <value column="Name" isTrl="Y" original="Regional Office">Региональный филиал</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="134" trl="N">
@@ -1269,19 +1269,19 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="332" trl="N">
-    <value column="Name" isTrl="N" original="Cash">Cash</value>
+    <value column="Name" isTrl="Y" original="Cash">Наличные</value>
     <value column="Description" isTrl="N" original="Cash payments that generate an automatic accounting line.">Cash payments that generate an automatic accounting line.</value>
   </row>
   <row id="333" trl="N">
-    <value column="Name" isTrl="N" original="Credit Card">Credit Card</value>
+    <value column="Name" isTrl="Y" original="Credit Card">Кредитная карта</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="334" trl="N">
-    <value column="Name" isTrl="N" original="Transfer (ACH)">Transfer (ACH)</value>
+    <value column="Name" isTrl="Y" original="Transfer (ACH)">Перевод (ACH)</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="337" trl="N">
-    <value column="Name" isTrl="N" original="On Credit">On Credit</value>
+    <value column="Name" isTrl="Y" original="On Credit">В кредит</value>
     <value column="Description" isTrl="N" original="Cash payments that do not generate an automatic accounting line. Its is not an automatic cash entry.">Cash payments that do not generate an automatic accounting line. Its is not an automatic cash entry.</value>
   </row>
   <row id="338" trl="N">
@@ -1445,7 +1445,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="3727BD5195584BCB8C6D95DB515DBEB9" trl="N">
-    <value column="Name" isTrl="N" original="Bank">Bank</value>
+    <value column="Name" isTrl="Y" original="Bank">Банк</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="373" trl="N">
@@ -2145,7 +2145,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="539" trl="N">
-    <value column="Name" isTrl="N" original="Item">Item</value>
+    <value column="Name" isTrl="Y" original="Item">Предмет</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="54" trl="N">
@@ -2153,15 +2153,15 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="540" trl="N">
-    <value column="Name" isTrl="N" original="Service">Service</value>
+    <value column="Name" isTrl="N" original="Service">Услуга</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="541" trl="N">
-    <value column="Name" isTrl="N" original="Resource">Resource</value>
+    <value column="Name" isTrl="N" original="Resource">Ресурс</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="542" trl="N">
-    <value column="Name" isTrl="N" original="Expense type">Expense type</value>
+    <value column="Name" isTrl="N" original="Expense type">Тип затрат</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="543" trl="N">
@@ -2421,7 +2421,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="66FA85D393714BECABDC3B2B9CB85930" trl="N">
-    <value column="Name" isTrl="N" original="Cash">Cash</value>
+    <value column="Name" isTrl="Y" original="Cash">Касса</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="67DBE8572B63495B94918D02D9CFDEAC" trl="N">

@@ -582,7 +582,7 @@
     <value column="Help" isTrl="N" original="Define substitute products to be used if this product becomes unavailable.">Define substitute products to be used if this product becomes unavailable.</value>
   </row>
   <row id="183" trl="N">
-    <value column="Name" isTrl="N" original="Price">Price</value>
+    <value column="Name" isTrl="Y" original="Price">Цена</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define prices which will be used to buy or sell this product.">Define prices which will be used to buy or sell this product.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1599,14 +1599,14 @@
     <value column="Help" isTrl="N" original="Create an account number for the expense type in order to manage the General Ledger Accounting.">Create an account number for the expense type in order to manage the General Ledger Accounting.</value>
   </row>
   <row id="420" trl="N">
-    <value column="Name" isTrl="N" original="Price">Price</value>
+    <value column="Name" isTrl="Y" original="Price">Цена</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Expense Type Pricing">Expense Type Pricing</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Expense Type Pricing">Expense Type Pricing</value>
   </row>
   <row id="421" trl="N">
-    <value column="Name" isTrl="N" original="Price">Price</value>
+    <value column="Name" isTrl="Y" original="Price">Цена</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Resource Pricing">Resource Pricing</value>
     <value column="Filtername" isTrl="N" original=""/>

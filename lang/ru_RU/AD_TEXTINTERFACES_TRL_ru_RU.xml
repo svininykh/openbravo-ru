@@ -68,10 +68,10 @@
     <value column="Text" isTrl="N" original="Date of First Deletion">Date of First Deletion</value>
   </row>
   <row id="0F9B9D3FE71C4172B53EBC5D49E1D00D" trl="N">
-    <value column="Text" isTrl="N" original="Tree View">Tree View</value>
+    <value column="Text" isTrl="Y" original="Tree View">Схема</value>
   </row>
   <row id="1000100007" trl="N">
-    <value column="Text" isTrl="N" original="Set priority">Set priority</value>
+    <value column="Text" isTrl="Y" original="Set priority">Установить приоритет</value>
   </row>
   <row id="1000100009" trl="N">
     <value column="Text" isTrl="Y" original="Reinvoicing">Перепровести</value>
@@ -803,7 +803,7 @@
     <value column="Text" isTrl="N" original="Actual">Actual</value>
   </row>
   <row id="1005500024" trl="N">
-    <value column="Text" isTrl="Y" original="AccountSchema">План счетов</value>
+    <value column="Text" isTrl="Y" original="AccountSchema">Схема плана счетов</value>
   </row>
   <row id="1005500025" trl="N">
     <value column="Text" isTrl="Y" original="Account Element">Бухгалтерский счёт</value>
@@ -2185,10 +2185,10 @@
     <value column="Text" isTrl="N" original="New address entrance">New address entrance</value>
   </row>
   <row id="800117" trl="N">
-    <value column="Text" isTrl="N" original="1st line">1st line</value>
+    <value column="Text" isTrl="Y" original="1st line">1-ая строка</value>
   </row>
   <row id="800118" trl="N">
-    <value column="Text" isTrl="N" original="2nd line">2nd line</value>
+    <value column="Text" isTrl="Y" original="2nd line">2-ая строка</value>
   </row>
   <row id="800142" trl="N">
     <value column="Text" isTrl="N" original="Results">Results</value>
@@ -4102,10 +4102,10 @@
     <value column="Text" isTrl="N" original="Required qty.">Required qty.</value>
   </row>
   <row id="807309" trl="N">
-    <value column="Text" isTrl="N" original="Response">Response</value>
+    <value column="Text" isTrl="Y" original="Response">Ответ</value>
   </row>
   <row id="807311" trl="N">
-    <value column="Text" isTrl="N" original="Result">Result</value>
+    <value column="Text" isTrl="Y" original="Result">Результат</value>
   </row>
   <row id="807312" trl="N">
     <value column="Text" isTrl="Y" original="Role">Роль</value>
@@ -4888,10 +4888,10 @@
     <value column="Text" isTrl="N" original="Lock Tree">Lock Tree</value>
   </row>
   <row id="810045" trl="N">
-    <value column="Text" isTrl="N" original="Expand all">Expand all</value>
+    <value column="Text" isTrl="Y" original="Expand all">Развернуть все</value>
   </row>
   <row id="810046" trl="N">
-    <value column="Text" isTrl="N" original="Collapse all">Collapse all</value>
+    <value column="Text" isTrl="Y" original="Collapse all">Свернуть все</value>
   </row>
   <row id="810047" trl="N">
     <value column="Text" isTrl="Y" original="Close">Закрыть</value>
@@ -5275,7 +5275,7 @@
     <value column="Text" isTrl="N" original="\n">\n</value>
   </row>
   <row id="942B0971FC6C2A70E040007F0100247A" trl="N">
-    <value column="Text" isTrl="N" original="Payment Method:">Payment Method:</value>
+    <value column="Text" isTrl="Y" original="Payment Method:">Способ оплаты:</value>
   </row>
   <row id="942B0971FC6F2A70E040007F0100247A" trl="N">
     <value column="Text" isTrl="N" original="Receipt">Receipt</value>
