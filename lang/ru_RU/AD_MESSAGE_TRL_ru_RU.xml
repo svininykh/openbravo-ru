@@ -166,7 +166,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0FC7B0C6F4FC4F04BEAD06F30E895516" trl="N">
-    <value column="MsgText" isTrl="N" original="Professional or Basic Edition">Professional or Basic Edition</value>
+    <value column="MsgText" isTrl="Y" original="Professional or Basic Edition">Профессиональная или Базовая редакция</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0FF0EC6915A04F4EA5FB2FD09DA82F14" trl="N">
@@ -426,7 +426,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600005" trl="N">
-    <value column="MsgText" isTrl="Y" original="Create client process completed successfully">Процесс создания клиента прошёл успешно</value>
+    <value column="MsgText" isTrl="Y" original="Create client process completed successfully">Процесс создания подключения прошёл успешно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600006" trl="N">
@@ -2185,11 +2185,11 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="256" trl="N">
-    <value column="MsgText" isTrl="Y" original="HTML file">Файл HTML file</value>
+    <value column="MsgText" isTrl="Y" original="HTML file">Файл HTML</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="257" trl="N">
-    <value column="MsgText" isTrl="N" original="Import File Loader">Import File Loader</value>
+    <value column="MsgText" isTrl="Y" original="Import File Loader">Загрузчик файлов импорта</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="258" trl="N">
@@ -2197,43 +2197,43 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="259" trl="N">
-    <value column="MsgText" isTrl="N" original="Select the file to load matching the Import Format">Select the file to load matching the Import Format</value>
+    <value column="MsgText" isTrl="Y" original="Select the file to load matching the Import Format">Выбрать файл для загрузки доступного формата импорта</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="260" trl="N">
-    <value column="MsgText" isTrl="N" original="Select a Import Format">Select a Import Format</value>
+    <value column="MsgText" isTrl="Y" original="Select a Import Format">Выберите формат импорта</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="261" trl="N">
-    <value column="MsgText" isTrl="N" original="Rows in file / loaded and ready to import:">Rows in file / loaded and ready to import:</value>
+    <value column="MsgText" isTrl="Y" original="Rows in file / loaded and ready to import:">Строки файла загружены и готовы для импорта:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="262" trl="N">
-    <value column="MsgText" isTrl="N" original="Invalid File Extension">Invalid File Extension</value>
+    <value column="MsgText" isTrl="Y" original="Invalid File Extension">Неверное расширение файла</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="263" trl="N">
-    <value column="MsgText" isTrl="N" original="Acrobat PDF file">Acrobat PDF file</value>
+    <value column="MsgText" isTrl="Y" original="Acrobat PDF file">Файл Acrobat PDF</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="264" trl="N">
-    <value column="MsgText" isTrl="N" original="Postscript PS file">Postscript PS file</value>
+    <value column="MsgText" isTrl="Y" original="Postscript PS file">Файл Postscript PS</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="265" trl="N">
-    <value column="MsgText" isTrl="N" original="RTF file">RTF file</value>
+    <value column="MsgText" isTrl="Y" original="RTF file">Файл RTF</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="266" trl="N">
-    <value column="MsgText" isTrl="N" original="Text file">Text file</value>
+    <value column="MsgText" isTrl="Y" original="Text file">Файл текстовой</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="267" trl="N">
-    <value column="MsgText" isTrl="N" original="Error writing file">Error writing file</value>
+    <value column="MsgText" isTrl="Y" original="Error writing file">Ошибка записи файла</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="268" trl="N">
-    <value column="MsgText" isTrl="N" original="XML file">XML file</value>
+    <value column="MsgText" isTrl="Y" original="XML file">Файл XML</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="269" trl="N">
@@ -2241,11 +2241,11 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="270" trl="N">
-    <value column="MsgText" isTrl="N" original="Find a Record">Find a Record</value>
+    <value column="MsgText" isTrl="Y" original="Find a Record">Найти запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="271" trl="N">
-    <value column="MsgText" isTrl="N" original="Available Columns">Available Columns</value>
+    <value column="MsgText" isTrl="Y" original="Available Columns">Доступно столбцов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="272" trl="N">
@@ -2265,15 +2265,15 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="273" trl="N">
-    <value column="MsgText" isTrl="N" original="Selected Columns">Selected Columns</value>
+    <value column="MsgText" isTrl="Y" original="Selected Columns">Выбрано столбцов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="274" trl="N">
-    <value column="MsgText" isTrl="N" original="Customize Find">Customize Find</value>
+    <value column="MsgText" isTrl="Y" original="Customize Find">Настройка поиска</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="275" trl="N">
-    <value column="MsgText" isTrl="N" original="Select a row or enter search criteria">Select a row or enter search criteria</value>
+    <value column="MsgText" isTrl="Y" original="Select a row or enter search criteria">Выберите строку или введите критерий поиска</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="276" trl="N">
@@ -2281,19 +2281,19 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="277" trl="N">
-    <value column="MsgText" isTrl="N" original="No Records found">No Records found</value>
+    <value column="MsgText" isTrl="Y" original="No Records found">Не найдено записей</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="278" trl="N">
-    <value column="MsgText" isTrl="N" original="First record">First record</value>
+    <value column="MsgText" isTrl="Y" original="First record">Первая запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="279" trl="N">
-    <value column="MsgText" isTrl="N" original="First Page">First Page</value>
+    <value column="MsgText" isTrl="Y" original="First Page">Первая страница</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="27D70A51233E44C9B1319F3BE1453507" trl="N">
-    <value column="MsgText" isTrl="N" original="Instance purpose is unknown.">Instance purpose is unknown.</value>
+    <value column="MsgText" isTrl="Y" original="Instance purpose is unknown.">Цель экземпляра Openbravo неизвестена.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="280" trl="N">
@@ -2877,7 +2877,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="378" trl="N">
-    <value column="MsgText" isTrl="N" original="Org">Org</value>
+    <value column="MsgText" isTrl="Y" original="Org">Организация</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="379" trl="N">
@@ -4085,7 +4085,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="59A653928EC7415C9B375F69451E19B2" trl="N">
-    <value column="MsgText" isTrl="N" original="License Edition">License Edition</value>
+    <value column="MsgText" isTrl="Y" original="License Edition">Редакция лицензии</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="59C16C36470044EE880792CB03F18A13" trl="N">
@@ -4547,7 +4547,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6775556A78264AB192CAD83F25E37E7B" trl="N">
-    <value column="MsgText" isTrl="N" original="Instance Purpose">Instance Purpose</value>
+    <value column="MsgText" isTrl="N" original="Instance Purpose">Экземпляр Openbravo</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="678" trl="N">
@@ -5035,19 +5035,19 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800048" trl="N">
-    <value column="MsgText" isTrl="N" original="E-mail address required.">E-mail address required.</value>
+    <value column="MsgText" isTrl="N" original="E-mail address required.">Необходим адрес электронной почты.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800049" trl="N">
-    <value column="MsgText" isTrl="N" original="User name required.">User name required.</value>
+    <value column="MsgText" isTrl="Y" original="User name required.">Необходимо имя пользователя.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800050" trl="N">
-    <value column="MsgText" isTrl="N" original="Password required.">Password required.</value>
+    <value column="MsgText" isTrl="N" original="Password required.">Необходим пароль.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800051" trl="N">
-    <value column="MsgText" isTrl="N" original="Role information">Role information</value>
+    <value column="MsgText" isTrl="N" original="Role information">Описаение роли</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800052" trl="N">
@@ -7287,7 +7287,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BDB7F0E3A28C4A01AA85BEEFB2B8DF28" trl="N">
-    <value column="MsgText" isTrl="N" original="Instance Purpose Configuration">Instance Purpose Configuration</value>
+    <value column="MsgText" isTrl="N" original="Instance Purpose Configuration">Настройка цели экземпляра Openbravo</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BDBAEDC585EA4D06BACC9E2469003E4F" trl="N">
@@ -7399,11 +7399,11 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C7FA1BFBD6BE4872BEAF1B1C0C4D5D91" trl="N">
-    <value column="MsgText" isTrl="N" original="Price not found for current partner and product.">Price not found for current partner and product.</value>
+    <value column="MsgText" isTrl="Y" original="Price not found for current partner and product.">Цена не найдена для текущего контрагента и товара.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C81E2E9A9B754A65B30F245DF36BCE36" trl="N">
-    <value column="MsgText" isTrl="N" original="Community Edition">Community Edition</value>
+    <value column="MsgText" isTrl="Y" original="Community Edition">Коммьюнити редакция</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C8433C64354D44C6A76F2A09CAF85907" trl="N">
@@ -7411,7 +7411,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C908626CE5A44AA0966E71C20ED3ECC1" trl="N">
-    <value column="MsgText" isTrl="N" original="Organization can not be null.">Organization can not be null.</value>
+    <value column="MsgText" isTrl="Y" original="Organization can not be null.">Организация не может быть нулевой.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C9AF9653D48445A581C89DF31253198B" trl="N">
@@ -7572,7 +7572,7 @@ Ask System Administrator to unlock it.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D73ABE1272844C34A5A5E353BD57FBF3" trl="N">
-    <value column="MsgText" isTrl="N" original="We have detected that this Community instance is a clone of another environment. Please specify the purpose of this instance.">We have detected that this Community instance is a clone of another environment. Please specify the purpose of this instance.</value>
+    <value column="MsgText" isTrl="N" original="We have detected that this Community instance is a clone of another environment. Please specify the purpose of this instance.">Обнаружено, что данный экземпляр Коммьюнити версии Openbravo является клоном другой среды. Пожалуйста, сформулируйте цель развёртывания данного экземпляра среды Openbravo.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D797EF78993647C2AD25D0969824E768" trl="N">

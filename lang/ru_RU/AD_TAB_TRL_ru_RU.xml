@@ -1402,7 +1402,7 @@
     <value column="Help" isTrl="N" original="Edit individual sales order lines that yielded a selected commission.">Edit individual sales order lines that yielded a selected commission.</value>
   </row>
   <row id="364" trl="N">
-    <value column="Name" isTrl="N" original="Used in Columns">Used in Columns</value>
+    <value column="Name" isTrl="Y" original="Used in Columns">Используется в столбцах</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View tables and columns that a particular application element applies to.">View tables and columns that a particular application element applies to.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1788,7 +1788,7 @@
     <value column="Help" isTrl="N" original="Create or edit access to DB tables for a selected role.">Create or edit access to DB tables for a selected role.</value>
   </row>
   <row id="485" trl="N">
-    <value column="Name" isTrl="Y" original="Role">Профиль</value>
+    <value column="Name" isTrl="Y" original="Role">Роль</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit a role for which you want to give or withhold tables and columns tables.">Edit a role for which you want to give or withhold tables and columns tables.</value>
     <value column="Filtername" isTrl="N" original=""/>
