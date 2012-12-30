@@ -510,15 +510,15 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F05D96C012F061C68C1002A" trl="N">
-    <value column="MsgText" isTrl="N" original="Download attachments">Download attachments</value>
+    <value column="MsgText" isTrl="Y" original="Download attachments">Скачать вложения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F05D96C012F061D1E150035" trl="N">
-    <value column="MsgText" isTrl="N" original="Upload new attachment">Upload new attachment</value>
+    <value column="MsgText" isTrl="Y" original="Upload new attachment">Загрузить новое вложение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F05D96C012F061D5EC20039" trl="N">
-    <value column="MsgText" isTrl="Y" original="Attachments">Вложение</value>
+    <value column="MsgText" isTrl="Y" original="Attachments">Вложения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F05D96C012F061E0100003D" trl="N">
@@ -554,7 +554,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F24EB26012F2555232E005C" trl="N">
-    <value column="MsgText" isTrl="Y" original="Uploading...">Выгрузка...</value>
+    <value column="MsgText" isTrl="Y" original="Uploading...">Загрузка...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F2690B3012F2699D15D000E" trl="N">
@@ -691,7 +691,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131509CDA013150B6FDC80016" trl="N">
-    <value column="MsgText" isTrl="N" original="Upload image">Upload image</value>
+    <value column="MsgText" isTrl="N" original="Upload image">Загрузка изображения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131509CDA013150B7DBF30021" trl="N">
@@ -703,7 +703,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131509CDA013150B8CC730027" trl="N">
-    <value column="MsgText" isTrl="N" original="Upload">Upload</value>
+    <value column="MsgText" isTrl="N" original="Upload">Загрузить</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131509CDA013150BA6C5C002E" trl="N">
