@@ -2362,8 +2362,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1173" trl="N">
-    <value column="Name" isTrl="N" original="Only Print First Name">Only Print First Name</value>
-    <value column="PrintName" isTrl="N" original="First name only">First name only</value>
+    <value column="Name" isTrl="Y" original="Only Print First Name">Печать только имени</value>
+    <value column="PrintName" isTrl="Y" original="First name only">Печать только имени</value>
     <value column="Description" isTrl="N" original="Print only the first name in greetings">Print only the first name in greetings</value>
     <value column="Help" isTrl="N" original="The First Name Only checkbox indicates that only the first name of this contact should print in greetings.">The First Name Only checkbox indicates that only the first name of this contact should print in greetings.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13571,20 +13571,20 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800035" trl="N">
-    <value column="Name" isTrl="N" original="First Name">First Name</value>
-    <value column="PrintName" isTrl="N" original="First name">First name</value>
-    <value column="Description" isTrl="N" original="Name of the contact">Name of the contact</value>
-    <value column="Help" isTrl="N" original="First Name of the contact">First Name of the contact</value>
+    <value column="Name" isTrl="Y" original="First Name">Имя</value>
+    <value column="PrintName" isTrl="Y" original="First name">Имя</value>
+    <value column="Description" isTrl="Y" original="Name of the contact">Имя контакта</value>
+    <value column="Help" isTrl="Y" original="First Name of the contact">Имя контакта</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800036" trl="N">
-    <value column="Name" isTrl="N" original="Last Name">Last Name</value>
-    <value column="PrintName" isTrl="N" original="Last name">Last name</value>
-    <value column="Description" isTrl="N" original="Last name of the contact">Last name of the contact</value>
-    <value column="Help" isTrl="N" original="Last name of the contact">Last name of the contact</value>
+    <value column="Name" isTrl="Y" original="Last Name">Фамилия</value>
+    <value column="PrintName" isTrl="Y" original="Last name">Фамилия</value>
+    <value column="Description" isTrl="Y" original="Last name of the contact">Фамилия контакта</value>
+    <value column="Help" isTrl="Y" original="Last name of the contact">Фамилия контакта</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -18441,9 +18441,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800814" trl="N">
-    <value column="Name" isTrl="N" original="Default Client">Default Client</value>
-    <value column="PrintName" isTrl="N" original="Default Client">Default Client</value>
-    <value column="Description" isTrl="N" original="Default Session Client">Default Session Client</value>
+    <value column="Name" isTrl="Y" original="Default Client">Подключение по-умолчанию</value>
+    <value column="PrintName" isTrl="Y" original="Default Client">Подключение по-умолчанию</value>
+    <value column="Description" isTrl="Y" original="Default Session Client">Подключение по-умолчанию</value>
     <value column="Help" isTrl="N" original="Client that user will use by default when is logged">Client that user will use by default when is logged</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
