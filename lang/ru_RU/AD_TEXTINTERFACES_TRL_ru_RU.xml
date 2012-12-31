@@ -68,10 +68,10 @@
     <value column="Text" isTrl="N" original="Date of First Deletion">Date of First Deletion</value>
   </row>
   <row id="0F9B9D3FE71C4172B53EBC5D49E1D00D" trl="N">
-    <value column="Text" isTrl="N" original="Tree View">Tree View</value>
+    <value column="Text" isTrl="Y" original="Tree View">Схема</value>
   </row>
   <row id="1000100007" trl="N">
-    <value column="Text" isTrl="N" original="Set priority">Set priority</value>
+    <value column="Text" isTrl="Y" original="Set priority">Установить приоритет</value>
   </row>
   <row id="1000100009" trl="N">
     <value column="Text" isTrl="Y" original="Reinvoicing">Перепровести</value>
@@ -803,7 +803,7 @@
     <value column="Text" isTrl="N" original="Actual">Actual</value>
   </row>
   <row id="1005500024" trl="N">
-    <value column="Text" isTrl="Y" original="AccountSchema">План счетов</value>
+    <value column="Text" isTrl="Y" original="AccountSchema">Схема плана счетов</value>
   </row>
   <row id="1005500025" trl="N">
     <value column="Text" isTrl="Y" original="Account Element">Бухгалтерский счёт</value>
@@ -1920,19 +1920,19 @@
     <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="6E59421C5B3CAB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Activate Instance">Activate Instance</value>
+    <value column="Text" isTrl="Y" original="Activate Instance">Активировать экземпляр</value>
   </row>
   <row id="6E59421C5B3DAB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Refresh Instance">Refresh Instance</value>
+    <value column="Text" isTrl="Y" original="Refresh Instance">Обновить экземпляр</value>
   </row>
   <row id="6E59421C5B3EAB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="N" original="Renew Activation">Renew Activation</value>
   </row>
-  <row id="6E59421C5B3FAB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Instance Purpose:">Instance Purpose:</value>
+  <row id="6E59421C5B3FAB25E040007F01016FD1" trl="Y">
+    <value column="Text" isTrl="Y" original="Instance Purpose:">Цели экземпляра Openbravo:</value>
   </row>
-  <row id="6E59421C5B40AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="License Type:">License Type:</value>
+  <row id="6E59421C5B40AB25E040007F01016FD1" trl="Y">
+    <value column="Text" isTrl="Y" original="License Type:">Тип лицензии:</value>
   </row>
   <row id="6E59421C5B41AB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="N" original="Learn more about subscription types">Learn more about subscription types</value>
@@ -2185,10 +2185,10 @@
     <value column="Text" isTrl="N" original="New address entrance">New address entrance</value>
   </row>
   <row id="800117" trl="N">
-    <value column="Text" isTrl="N" original="1st line">1st line</value>
+    <value column="Text" isTrl="Y" original="1st line">1-ая строка</value>
   </row>
   <row id="800118" trl="N">
-    <value column="Text" isTrl="N" original="2nd line">2nd line</value>
+    <value column="Text" isTrl="Y" original="2nd line">2-ая строка</value>
   </row>
   <row id="800142" trl="N">
     <value column="Text" isTrl="N" original="Results">Results</value>
@@ -4102,10 +4102,10 @@
     <value column="Text" isTrl="N" original="Required qty.">Required qty.</value>
   </row>
   <row id="807309" trl="N">
-    <value column="Text" isTrl="N" original="Response">Response</value>
+    <value column="Text" isTrl="Y" original="Response">Ответ</value>
   </row>
   <row id="807311" trl="N">
-    <value column="Text" isTrl="N" original="Result">Result</value>
+    <value column="Text" isTrl="Y" original="Result">Результат</value>
   </row>
   <row id="807312" trl="N">
     <value column="Text" isTrl="Y" original="Role">Роль</value>
@@ -4318,10 +4318,10 @@
     <value column="Text" isTrl="N" original="Show Session - Preferences">Show Session - Preferences</value>
   </row>
   <row id="807445" trl="N">
-    <value column="Text" isTrl="N" original="Save Preferences">Save Preferences</value>
+    <value column="Text" isTrl="Y" original="Save Preferences">Сохранить параметры</value>
   </row>
   <row id="807449" trl="N">
-    <value column="Text" isTrl="N" original="Set Priority">Set Priority</value>
+    <value column="Text" isTrl="Y" original="Set Priority">Установить приоритеты</value>
   </row>
   <row id="807454" trl="N">
     <value column="Text" isTrl="N" original="Generate Excel">Generate Excel</value>
@@ -4330,7 +4330,7 @@
     <value column="Text" isTrl="N" original="Connections pool">Connections pool</value>
   </row>
   <row id="807457" trl="N">
-    <value column="Text" isTrl="N" original="Change Logs">Change Logs</value>
+    <value column="Text" isTrl="Y" original="Change Logs">Изменить логи</value>
   </row>
   <row id="807458" trl="N">
     <value column="Text" isTrl="N" original="Tax Report">Tax Report</value>
@@ -4339,7 +4339,7 @@
     <value column="Text" isTrl="Y" original="General Ledger Report">Отчет Главной книги</value>
   </row>
   <row id="807508" trl="N">
-    <value column="Text" isTrl="N" original="Alert">Alert</value>
+    <value column="Text" isTrl="Y" original="Alert">Предупреждение</value>
   </row>
   <row id="807517" trl="N">
     <value column="Text" isTrl="N" original="Edit help">Edit help</value>
@@ -4888,10 +4888,10 @@
     <value column="Text" isTrl="N" original="Lock Tree">Lock Tree</value>
   </row>
   <row id="810045" trl="N">
-    <value column="Text" isTrl="N" original="Expand all">Expand all</value>
+    <value column="Text" isTrl="Y" original="Expand all">Развернуть все</value>
   </row>
   <row id="810046" trl="N">
-    <value column="Text" isTrl="N" original="Collapse all">Collapse all</value>
+    <value column="Text" isTrl="Y" original="Collapse all">Свернуть все</value>
   </row>
   <row id="810047" trl="N">
     <value column="Text" isTrl="Y" original="Close">Закрыть</value>
@@ -5155,25 +5155,25 @@
     <value column="Text" isTrl="N" original="Date To">Date To</value>
   </row>
   <row id="91C8B575671B7107E040007F0100283A" trl="N">
-    <value column="Text" isTrl="N" original="Instance Purpose Configuration">Instance Purpose Configuration</value>
+    <value column="Text" isTrl="Y" original="Instance Purpose Configuration">Настройка цели экземпляра</value>
   </row>
   <row id="91C8B575671D7107E040007F0100283A" trl="N">
-    <value column="Text" isTrl="N" original="What is the purpose of this Openbravo ERP instance?">What is the purpose of this Openbravo ERP instance?</value>
+    <value column="Text" isTrl="Y" original="What is the purpose of this Openbravo ERP instance?">Какая цель развёртывания этого экземпляра Openbravo ERP?</value>
   </row>
   <row id="91C8B57567277107E040007F0100283A" trl="N">
     <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="91DB21C639AD0140E040007F01005B7A" trl="N">
-    <value column="Text" isTrl="N" original="--please select--">--please select--</value>
+    <value column="Text" isTrl="Y" original="--please select--">--выберите вариант--</value>
   </row>
   <row id="91EFCD58CF1C21D7E040007F0100314C" trl="N">
-    <value column="Text" isTrl="N" original="Proceed">Proceed</value>
+    <value column="Text" isTrl="Y" original="Proceed">Продолжить</value>
   </row>
   <row id="91EFCD58CF1E21D7E040007F0100314C" trl="N">
-    <value column="Text" isTrl="N" original="Decline">Decline</value>
+    <value column="Text" isTrl="Y" original="Decline">Отказаться</value>
   </row>
   <row id="91EFCD58CF2021D7E040007F0100314C" trl="N">
-    <value column="Text" isTrl="N" original="Later">Later</value>
+    <value column="Text" isTrl="Y" original="Later">Отложить</value>
   </row>
   <row id="9249205697BC413FB680A90F9784D501" trl="N">
     <value column="Text" isTrl="N" original="Total Amount Incoming">Total Amount Incoming</value>
@@ -5227,16 +5227,16 @@
     <value column="Text" isTrl="N" original="You canceled your Professional/Basic Edition subscription and you are no longer entitled to update or install commercial modules. You cannot update or install the following module(s) which are released under a commercial license: ">You canceled your Professional/Basic Edition subscription and you are no longer entitled to update or install commercial modules. You cannot update or install the following module(s) which are released under a commercial license: </value>
   </row>
   <row id="92F8938BA8DFD098E040007F01002E3E" trl="N">
-    <value column="Text" isTrl="N" original="Subscribe to Basic Edition">Subscribe to Basic Edition</value>
+    <value column="Text" isTrl="Y" original="Subscribe to Basic Edition">Подписаться на Базовую редакцию</value>
   </row>
   <row id="92F8938BA8E2D098E040007F01002E3E" trl="N">
-    <value column="Text" isTrl="N" original="Subscribe to Professional Edition">Subscribe to Professional Edition</value>
+    <value column="Text" isTrl="Y" original="Subscribe to Professional Edition">Подписаться на Профессиональную редакцию</value>
   </row>
   <row id="92F8938BA8E5D098E040007F01002E3E" trl="N">
-    <value column="Text" isTrl="N" original="Upgrade your Basic Edition subscription to Professional Edition">Upgrade your Basic Edition subscription to Professional Edition</value>
+    <value column="Text" isTrl="Y" original="Upgrade your Basic Edition subscription to Professional Edition">Обновить вашу подписку с Базовой до Профессиональной редакций</value>
   </row>
   <row id="9335551AAB095FBAE040007F01000454" trl="N">
-    <value column="Text" isTrl="N" original="Openbravo Professional/Basic Edition subscription">Openbravo Professional/Basic Edition subscription</value>
+    <value column="Text" isTrl="Y" original="Openbravo Professional/Basic Edition subscription">Подписка Openbravo Профессиональная/Базовая редакция</value>
   </row>
   <row id="9335C6A4F2B811DD9667001D09C4A2FE" trl="N">
     <value column="Text" isTrl="N" original="This will attach the document to the record.">This will attach the document to the record.</value>
@@ -5275,7 +5275,7 @@
     <value column="Text" isTrl="N" original="\n">\n</value>
   </row>
   <row id="942B0971FC6C2A70E040007F0100247A" trl="N">
-    <value column="Text" isTrl="N" original="Payment Method:">Payment Method:</value>
+    <value column="Text" isTrl="Y" original="Payment Method:">Способ оплаты:</value>
   </row>
   <row id="942B0971FC6F2A70E040007F0100247A" trl="N">
     <value column="Text" isTrl="N" original="Receipt">Receipt</value>
@@ -5688,7 +5688,7 @@
     <value column="Text" isTrl="Y" original="Group By">Сгруппировать по</value>
   </row>
   <row id="D69AA41C4E364F7385E8A4CC0C7E470F" trl="N">
-    <value column="Text" isTrl="N" original="Upload">Upload</value>
+    <value column="Text" isTrl="Y" original="Upload">Загрузить</value>
   </row>
   <row id="D9E52AB5AEAF4D2995B9852E4C8C8F8F" trl="N">
     <value column="Text" isTrl="Y" original="Due Date">Дата погашения</value>

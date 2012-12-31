@@ -370,13 +370,13 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="156" trl="N">
-    <value column="Name" isTrl="N" original="C_Country">C_Country</value>
-    <value column="Description" isTrl="N" original="Country selection">Country selection</value>
+    <value column="Name" isTrl="Y" original="C_Country">Выбор страны</value>
+    <value column="Description" isTrl="Y" original="Country selection">Выбор страны</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="157" trl="N">
-    <value column="Name" isTrl="N" original="C_Region">C_Region</value>
-    <value column="Description" isTrl="N" original="Region selection">Region selection</value>
+    <value column="Name" isTrl="Y" original="C_Region">Выбор региона</value>
+    <value column="Description" isTrl="Y" original="Region selection">Выбор региона</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="158" trl="N">
@@ -385,17 +385,17 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="159" trl="N">
-    <value column="Name" isTrl="N" original="C_BPartner Location">C_BPartner Location</value>
-    <value column="Description" isTrl="N" original="Locations of a Business Partner">Locations of a Business Partner</value>
+    <value column="Name" isTrl="Y" original="C_BPartner Location">Расположение контрагента</value>
+    <value column="Description" isTrl="Y" original="Locations of a Business Partner">Расположение контрагента</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="16" trl="N">
-    <value column="Name" isTrl="N" original="DateTime">DateTime</value>
-    <value column="Description" isTrl="N" original="Date with time">Date with time</value>
+    <value column="Name" isTrl="Y" original="DateTime">Дата и время</value>
+    <value column="Description" isTrl="Y" original="Date with time">Дата и время</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="161" trl="N">
-    <value column="Name" isTrl="N" original="M_Product Parent">M_Product Parent</value>
+    <value column="Name" isTrl="Y" original="M_Product Parent">Родительский товар</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1797,7 +1797,7 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800103" trl="N">
-    <value column="Name" isTrl="N" original="Development Status">Development Status</value>
+    <value column="Name" isTrl="Y" original="Development Status">Статус разработки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

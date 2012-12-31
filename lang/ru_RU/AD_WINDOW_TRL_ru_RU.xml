@@ -133,7 +133,7 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization's accounting practice.&#10;&#10;">&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization's accounting practice.&#10;&#10;</value>
   </row>
   <row id="118" trl="N">
-    <value column="Name" isTrl="Y" original="Account Tree">План счетов</value>
+    <value column="Name" isTrl="Y" original="Account Tree">Схема плана счетов</value>
     <value column="Description" isTrl="N" original="Create and edit account elements and add them to your defined chart of accounts or account trees.">Create and edit account elements and add them to your defined chart of accounts or account trees.</value>
     <value column="Help" isTrl="N" original="An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.">An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.</value>
   </row>
@@ -278,7 +278,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create sales regions to be used in sales operations.">Create sales regions to be used in sales operations.</value>
   </row>
   <row id="153" trl="N">
-    <value column="Name" isTrl="Y" original="Account Combination">Типовые проводки</value>
+    <value column="Name" isTrl="Y" original="Account Combination">План счетов</value>
     <value column="Description" isTrl="N" original="Create accounting combinations to be used in Openbravo's accounting process.">Create accounting combinations to be used in Openbravo's accounting process.</value>
     <value column="Help" isTrl="N" original="An account combination is an Organization's General Ledger account.">An account combination is an Organization's General Ledger account.</value>
   </row>
@@ -538,7 +538,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="3CAAC7D54593489384452416ACF356DD" trl="N">
-    <value column="Name" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="Name" isTrl="Y" original="Payment Method">Способ оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -975,7 +975,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="FC404D2406A9491CBD905D0D38F04846" trl="N">
     <value column="Name" isTrl="Y" original="Warehouse Rules">Правила хранения</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Warehouse Rules definition">Warehouse Rules definition</value>
+    <value column="Help" isTrl="Y" original="Warehouse Rules definition">Определение правил хранения на складе</value>
   </row>
   <row id="FEB8679CAA0D47E5978F10E22566FCEA" trl="N">
     <value column="Name" isTrl="N" original="Audit Trail">Audit Trail</value>

@@ -89,15 +89,15 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="52D6F041A4064A20BDCC913848552117" trl="N">
-    <value column="MsgText" isTrl="N" original="Note">Note</value>
+    <value column="MsgText" isTrl="N" original="Note">Заметка</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5898B1563C034910B55147D9AE1F7A13" trl="N">
-    <value column="MsgText" isTrl="N" original="Value is not a valid (decimal) number">Value is not a valid (decimal) number</value>
+    <value column="MsgText" isTrl="Y" original="Value is not a valid (decimal) number">Неверное значение (дробного) числа</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5A5DC8F15AB14E7B9043E936E5241E03" trl="N">
-    <value column="MsgText" isTrl="N" original="Question">Question</value>
+    <value column="MsgText" isTrl="Y" original="Question">Вопрос</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5AB1CFD1DB644950A7F157FB1B9B25E7" trl="N">
@@ -109,7 +109,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5FDAA729EDA2494B9270C18410F608FF" trl="N">
-    <value column="MsgText" isTrl="N" original="Value is not a valid date.">Value is not a valid date.</value>
+    <value column="MsgText" isTrl="Y" original="Value is not a valid date.">Неверное значение даты.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6705566F90C340CDA154E3BCF279D1A5" trl="N">
@@ -133,7 +133,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6FD9F6D26B1D433AB63F24D071F2A8E9" trl="N">
-    <value column="MsgText" isTrl="N" original="Value is not a valid string">Value is not a valid string</value>
+    <value column="MsgText" isTrl="Y" original="Value is not a valid string">Неверное значение строки</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="719B677EDFC64A1E8A261053A345A931" trl="N">
@@ -221,7 +221,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C7B99E0D8B6C4312AF378E9A6AEEF402" trl="N">
-    <value column="MsgText" isTrl="N" original="Value is not a valid (integer) number">Value is not a valid (integer) number</value>
+    <value column="MsgText" isTrl="Y" original="Value is not a valid (integer) number">Неверное значение (целого) числа</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CB4306989274411AA97A8F0949A07A87" trl="N">
@@ -229,7 +229,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CDC513581B754BECAC3A2A42A78289D8" trl="N">
-    <value column="MsgText" isTrl="N" original="Field is required, please enter/select a value.">Field is required, please enter/select a value.</value>
+    <value column="MsgText" isTrl="Y" original="Field is required, please enter/select a value.">Поле обязательное, введите или выберите значение.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D0FBC82DC0C0440184A5083DB0282DCA" trl="N">
@@ -253,11 +253,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D50AFA642836488C83B9B876F499FE82" trl="N">
-    <value column="MsgText" isTrl="N" original="Value is not a valid date">Value is not a valid date</value>
+    <value column="MsgText" isTrl="Y" original="Value is not a valid date">Неверное значение даты</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D686B8A32ADC411F9EA3E61C3ECCBE6E" trl="N">
-    <value column="MsgText" isTrl="N" original="Note">Note</value>
+    <value column="MsgText" isTrl="N" original="Note">Заметка</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D6FC3718D50D463DAE7E7A7B67D348C0" trl="N">
@@ -297,11 +297,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F6A6EED1F1BE49F583DAD4989B4C7F56" trl="N">
-    <value column="MsgText" isTrl="N" original="Identifier">Identifier</value>
+    <value column="MsgText" isTrl="Y" original="Identifier">Идентификатор</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FCFAF4A3EDF7430899E7EA7AC7C90D4F" trl="N">
-    <value column="MsgText" isTrl="N" original="Value is not a valid boolean">Value is not a valid boolean</value>
+    <value column="MsgText" isTrl="Y" original="Value is not a valid boolean">Неверное логическое значение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808130D566F90130D57A27990003" trl="N">

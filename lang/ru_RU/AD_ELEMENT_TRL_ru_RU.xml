@@ -989,8 +989,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400009" trl="N">
-    <value column="Name" isTrl="N" original="Proxy Required">Proxy Required</value>
-    <value column="PrintName" isTrl="N" original="Proxy Required">Proxy Required</value>
+    <value column="Name" isTrl="Y" original="Proxy Required">Необходим прокси</value>
+    <value column="PrintName" isTrl="Y" original="Proxy Required">Необходим прокси</value>
     <value column="Description" isTrl="N" original="Proxy configuration required to access internet.">Proxy configuration required to access internet.</value>
     <value column="Help" isTrl="N" original="Proxy configuration required to access internet.">Proxy configuration required to access internet.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1049,8 +1049,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400018" trl="N">
-    <value column="Name" isTrl="N" original="Servlet Container Version">Servlet Container Version</value>
-    <value column="PrintName" isTrl="N" original="Servlet Containe Version">Servlet Containe Version</value>
+    <value column="Name" isTrl="Y" original="Servlet Container Version">Версия контейнера сервлетов</value>
+    <value column="PrintName" isTrl="Y" original="Servlet Containe Version">Версия контейнера сервлетов</value>
     <value column="Description" isTrl="N" original="The version of Servlet Container Openbravo runs in.">The version of Servlet Container Openbravo runs in.</value>
     <value column="Help" isTrl="N" original="The version of Servlet Container Openbravo runs in.">The version of Servlet Container Openbravo runs in.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1089,8 +1089,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400025" trl="N">
-    <value column="Name" isTrl="N" original="Servlet Container">Servlet Container</value>
-    <value column="PrintName" isTrl="N" original="Servlet Container">Servlet Container</value>
+    <value column="Name" isTrl="Y" original="Servlet Container">Контейнер сервлетов</value>
+    <value column="PrintName" isTrl="Y" original="Servlet Container">Контейнер сервлетов</value>
     <value column="Description" isTrl="N" original="The type of servlet container Openbravo runs in.">The type of servlet container Openbravo runs in.</value>
     <value column="Help" isTrl="N" original="The type of servlet container Openbravo runs in.">The type of servlet container Openbravo runs in.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1179,8 +1179,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400039" trl="N">
-    <value column="Name" isTrl="N" original="Web Server">Web Server</value>
-    <value column="PrintName" isTrl="N" original="Web Server">Web Server</value>
+    <value column="Name" isTrl="Y" original="Web Server">Веб сервер</value>
+    <value column="PrintName" isTrl="Y" original="Web Server">Веб сервер</value>
     <value column="Description" isTrl="N" original="The Web Server being used by Openbravo">The Web Server being used by Openbravo</value>
     <value column="Help" isTrl="N" original="The Web Server being used by Openbravo">The Web Server being used by Openbravo</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1199,8 +1199,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400041" trl="N">
-    <value column="Name" isTrl="N" original="Web Server Version">Web Server Version</value>
-    <value column="PrintName" isTrl="N" original="Web Server Version">Web Server Version</value>
+    <value column="Name" isTrl="Y" original="Web Server Version">Версия веб сервера</value>
+    <value column="PrintName" isTrl="Y" original="Web Server Version">Версия веб сервера</value>
     <value column="Description" isTrl="N" original="The version of Web Server">The version of Web Server</value>
     <value column="Help" isTrl="N" original="The version of Web Server">The version of Web Server</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4508,8 +4508,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1639" trl="N">
-    <value column="Name" isTrl="N" original="Image">Image</value>
-    <value column="PrintName" isTrl="N" original="Image">Image</value>
+    <value column="Name" isTrl="Y" original="Image">Изображение</value>
+    <value column="PrintName" isTrl="Y" original="Image">Изображение</value>
     <value column="Description" isTrl="N" original="A visual picture used to describe an item.">A visual picture used to describe an item.</value>
     <value column="Help" isTrl="N" original="Defines a system image">Defines a system image</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4589,8 +4589,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1663" trl="N">
-    <value column="Name" isTrl="N" original="Read Only Logic">Read Only Logic</value>
-    <value column="PrintName" isTrl="N" original="Read Only Logic">Read Only Logic</value>
+    <value column="Name" isTrl="Y" original="Read Only Logic">Логика только чтение</value>
+    <value column="PrintName" isTrl="Y" original="Read Only Logic">Логика только чтение</value>
     <value column="Description" isTrl="N" original="Logic to determine if field is read only (applies only when field is read-write)">Logic to determine if field is read only (applies only when field is read-write)</value>
     <value column="Help" isTrl="N" original="Logic to determine if field is read only (applies only when field is read-write)">Logic to determine if field is read only (applies only when field is read-write)</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4929,8 +4929,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1720" trl="N">
-    <value column="Name" isTrl="N" original="Image URL">Image URL</value>
-    <value column="PrintName" isTrl="N" original="Image URL">Image URL</value>
+    <value column="Name" isTrl="Y" original="Image URL">URL изображения</value>
+    <value column="PrintName" isTrl="Y" original="Image URL">URL изображения</value>
     <value column="Description" isTrl="N" original="An address for the product image which can be accessed via internet.">An address for the product image which can be accessed via internet.</value>
     <value column="Help" isTrl="N" original="URL of image; The image is not stored in the database, but retrieved at runtime. The image can be a gif, jpeg or png.">URL of image; The image is not stored in the database, but retrieved at runtime. The image can be a gif, jpeg or png.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5069,8 +5069,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="17485BBD94A447C2A0C823181EF0F066" trl="N">
-    <value column="Name" isTrl="N" original="Your Company Document Image">Your Company Document Image</value>
-    <value column="PrintName" isTrl="N" original="Your Company Document Image">Your Company Document Image</value>
+    <value column="Name" isTrl="Y" original="Your Company Document Image">Логотип вашей фирмы на документах</value>
+    <value column="PrintName" isTrl="Y" original="Your Company Document Image">Логотип вашей фирмы на документах</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5489,10 +5489,10 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1829" trl="N">
-    <value column="Name" isTrl="N" original="Area Code">Area Code</value>
-    <value column="PrintName" isTrl="N" original="Area Code">Area Code</value>
-    <value column="Description" isTrl="N" original="Phone Area Code">Phone Area Code</value>
-    <value column="Help" isTrl="N" original="Phone Area Code">Phone Area Code</value>
+    <value column="Name" isTrl="Y" original="Area Code">Код места</value>
+    <value column="PrintName" isTrl="Y" original="Area Code">Код места</value>
+    <value column="Description" isTrl="Y" original="Phone Area Code">Телефонный код места</value>
+    <value column="Help" isTrl="Y" original="Phone Area Code">Телефонный код места</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -5689,8 +5689,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="192" trl="N">
-    <value column="Name" isTrl="N" original="Country">Country</value>
-    <value column="PrintName" isTrl="N" original="Country">Country</value>
+    <value column="Name" isTrl="Y" original="Country">Страна</value>
+    <value column="PrintName" isTrl="Y" original="Country">Страна</value>
     <value column="Description" isTrl="N" original="A state or a nation.">A state or a nation.</value>
     <value column="Help" isTrl="N" original="The Country defines a Country.  Each Country must be defined before it can be used in any document.">The Country defines a Country.  Each Country must be defined before it can be used in any document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5979,9 +5979,9 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1988" trl="N">
-    <value column="Name" isTrl="N" original="Country Name">Country Name</value>
-    <value column="PrintName" isTrl="N" original="Country Name">Country Name</value>
-    <value column="Description" isTrl="N" original="Country Name">Country Name</value>
+    <value column="Name" isTrl="Y" original="Country Name">Название страны</value>
+    <value column="PrintName" isTrl="Y" original="Country Name">Название страны</value>
+    <value column="Description" isTrl="Y" original="Country Name">Название страны</value>
     <value column="Help" isTrl="N" original="Account Country Name">Account Country Name</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -5989,7 +5989,7 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="199" trl="N">
-    <value column="Name" isTrl="Y" original="Account Tree">План счетов</value>
+    <value column="Name" isTrl="Y" original="Account Tree">Схема плана счетов</value>
     <value column="PrintName" isTrl="N" original="Element">Element</value>
     <value column="Description" isTrl="N" original="A unique identifier of the Account Tree.">A unique identifier of the Account Tree.</value>
     <value column="Help" isTrl="N" original="The Account Tree uniquely identifies the Account Tree, also known as Chart of Accounts, linked to the Accounting Schema.">The Account Tree uniquely identifies the Account Tree, also known as Chart of Accounts, linked to the Accounting Schema.</value>
@@ -7520,8 +7520,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="301" trl="N">
-    <value column="Name" isTrl="N" original="Fax">Fax</value>
-    <value column="PrintName" isTrl="N" original="Fax">Fax</value>
+    <value column="Name" isTrl="Y" original="Fax">Факс</value>
+    <value column="PrintName" isTrl="Y" original="Fax">Факс</value>
     <value column="Description" isTrl="N" original="A fax number for a specified business partner.">A fax number for a specified business partner.</value>
     <value column="Help" isTrl="N" original="The Fax identifies a facsimile number for this Business Partner or  Location">The Fax identifies a facsimile number for this Business Partner or  Location</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7690,8 +7690,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="326" trl="N">
-    <value column="Name" isTrl="N" original="Help/Comment">Help/Comment</value>
-    <value column="PrintName" isTrl="N" original="Help">Help</value>
+    <value column="Name" isTrl="Y" original="Help/Comment">Помощь/Комментарий</value>
+    <value column="PrintName" isTrl="Y" original="Help">Помощь</value>
     <value column="Description" isTrl="N" original="A comment that adds additional information to help users work with fields.">A comment that adds additional information to help users work with fields.</value>
     <value column="Help" isTrl="N" original="The Help field contains a hint, comment or help about the use of this item.">The Help field contains a hint, comment or help about the use of this item.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8200,8 +8200,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="3C45DFEEC7B8494F8A8F2043D43DBED4" trl="N">
-    <value column="Name" isTrl="N" original="Glossary">Glossary</value>
-    <value column="PrintName" isTrl="N" original="Glossary">Glossary</value>
+    <value column="Name" isTrl="Y" original="Glossary">Словарь</value>
+    <value column="PrintName" isTrl="Y" original="Glossary">Словарь</value>
     <value column="Description" isTrl="N" original="Part of gloassary">Part of gloassary</value>
     <value column="Help" isTrl="N" original="This element is part of the glossary in wiki documentation.&#10;&#10;Glossary orphan elements are preserved when running Synchronize Terminology process.">This element is part of the glossary in wiki documentation.&#10;&#10;Glossary orphan elements are preserved when running Synchronize Terminology process.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8210,8 +8210,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="3C8963BA09134DA48BF3B762216A6FFB" trl="N">
-    <value column="Name" isTrl="Y" original="List Price">Цена без налога</value>
-    <value column="PrintName" isTrl="Y" original="List Price">Цена без налога</value>
+    <value column="Name" isTrl="Y" original="List Price">Официальная цена</value>
+    <value column="PrintName" isTrl="Y" original="List Price">Официальная цена</value>
     <value column="Description" isTrl="N" original="The official price of a product in a specified currency.">The official price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The List Price is the official price stated by the selected pricelist and the currency of the document.">The List Price is the official price stated by the selected pricelist and the currency of the document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8610,8 +8610,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="4275E22E56264665A5036996A8045C8D" trl="N">
-    <value column="Name" isTrl="N" original="Create Adjustment Period">Create Adjustment Period</value>
-    <value column="PrintName" isTrl="N" original="Create Adjustment Period">Create Adjustment Period</value>
+    <value column="Name" isTrl="Y" original="Create Adjustment Period">Создать период для корректировок</value>
+    <value column="PrintName" isTrl="Y" original="Create Adjustment Period">Создать период для корректировок</value>
     <value column="Description" isTrl="N" original="Add 13th period for adjustment entries">Add 13th period for adjustment entries</value>
     <value column="Help" isTrl="N" original="When flagged process creates 13th period to include manual accounting entries for adjustment purposes.">When flagged process creates 13th period to include manual accounting entries for adjustment purposes.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9101,8 +9101,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="4E7F89ADF12B48DBB1B2F965550410DD" trl="N">
-    <value column="Name" isTrl="N" original="Image Height">Image Height</value>
-    <value column="PrintName" isTrl="N" original="Image Height">Image Height</value>
+    <value column="Name" isTrl="Y" original="Image Height">Высота изображения</value>
+    <value column="PrintName" isTrl="Y" original="Image Height">Высота изображения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Height used in the &quot;Image Size Values Action&quot; field. If it is empty, it will not be taked into account.">Height used in the "Image Size Values Action" field. If it is empty, it will not be taked into account.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9171,8 +9171,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="505" trl="N">
-    <value column="Name" isTrl="N" original="Phone">Phone</value>
-    <value column="PrintName" isTrl="N" original="Phone">Phone</value>
+    <value column="Name" isTrl="N" original="Phone">Телефон</value>
+    <value column="PrintName" isTrl="N" original="Phone">Телефон</value>
     <value column="Description" isTrl="N" original="A telephone number for a specified business partner.">A telephone number for a specified business partner.</value>
     <value column="Help" isTrl="N" original="The Phone field identifies a telephone number">The Phone field identifies a telephone number</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9191,8 +9191,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="506" trl="N">
-    <value column="Name" isTrl="N" original="Alternative Phone">Alternative Phone</value>
-    <value column="PrintName" isTrl="N" original="2nd Phone">2nd Phone</value>
+    <value column="Name" isTrl="Y" original="Alternative Phone">Дополнительный телефон</value>
+    <value column="PrintName" isTrl="Y" original="2nd Phone">2-ой телефон</value>
     <value column="Description" isTrl="N" original="A second contact telephone number for a business partner.">A second contact telephone number for a business partner.</value>
     <value column="Help" isTrl="N" original="The 2nd Phone field identifies an alternate telephone number.">The 2nd Phone field identifies an alternate telephone number.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9341,14 +9341,14 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="520" trl="N">
-    <value column="Name" isTrl="Y" original="List Price">Цена без налога</value>
-    <value column="PrintName" isTrl="Y" original="List Price">Цена без налога</value>
+    <value column="Name" isTrl="Y" original="List Price">Официальная цена без налога</value>
+    <value column="PrintName" isTrl="Y" original="List Price">Официальная цена без налога</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
-    <value column="PO_Name" isTrl="Y" original="List Price">Цена без налога</value>
-    <value column="PO_PrintName" isTrl="Y" original="List Price">Цена без налога</value>
+    <value column="PO_Name" isTrl="Y" original="List Price">Официальная цена без налога</value>
+    <value column="PO_PrintName" isTrl="Y" original="List Price">Официальная цена без налога</value>
   </row>
   <row id="521EA21E6E7777ABE040007F010016C0" trl="N">
     <value column="Name" isTrl="N" original="Table Access">Table Access</value>
@@ -9851,8 +9851,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEFC52DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Country Translation">Country Translation</value>
-    <value column="PrintName" isTrl="N" original="Country Translation">Country Translation</value>
+    <value column="Name" isTrl="Y" original="Country Translation">Перевод для страны</value>
+    <value column="PrintName" isTrl="Y" original="Country Translation">Перевод для страны</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10031,8 +10031,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="541" trl="N">
-    <value column="Name" isTrl="N" original="Region Name">Region Name</value>
-    <value column="PrintName" isTrl="N" original="Region Name">Region Name</value>
+    <value column="Name" isTrl="Y" original="Region Name">Название региона</value>
+    <value column="PrintName" isTrl="Y" original="Region Name">Название региона</value>
     <value column="Description" isTrl="N" original="The name of an area in a specific country.">The name of an area in a specific country.</value>
     <value column="Help" isTrl="N" original="The Region Name defines the name that will print when this region is used in a document.">The Region Name defines the name that will print when this region is used in a document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10071,8 +10071,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5491745132934260A5F00EF178EBC04B" trl="N">
-    <value column="Name" isTrl="N" original="1st Dimension">1st Dimension</value>
-    <value column="PrintName" isTrl="N" original="1st Dimension">1st Dimension</value>
+    <value column="Name" isTrl="Y" original="1st Dimension">1-ое субконто</value>
+    <value column="PrintName" isTrl="Y" original="1st Dimension">1-ое субконто</value>
     <value column="Description" isTrl="N" original="A display of optional elements that are previously defined for this account combination.">A display of optional elements that are previously defined for this account combination.</value>
     <value column="Help" isTrl="N" original="The user defined element displays the optional elements that have been defined for this account combination.">The user defined element displays the optional elements that have been defined for this account combination.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11944,9 +11944,9 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="629" trl="N">
-    <value column="Name" isTrl="N" original="Weight">Weight</value>
-    <value column="PrintName" isTrl="N" original="Weight">Weight</value>
-    <value column="Description" isTrl="N" original="Weight of a product">Weight of a product</value>
+    <value column="Name" isTrl="Y" original="Weight">Вес</value>
+    <value column="PrintName" isTrl="Y" original="Weight">Вес</value>
+    <value column="Description" isTrl="Y" original="Weight of a product">Вес товара</value>
     <value column="Help" isTrl="N" original="The Weight indicates the weight  of the product in the Weight UOM of the Client">The Weight indicates the weight  of the product in the Weight UOM of the Client</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -12667,8 +12667,8 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="77B01E1B009F4870924FB7E73CCCC585" trl="N">
-    <value column="Name" isTrl="N" original="Image Width">Image Width</value>
-    <value column="PrintName" isTrl="N" original="Image Width">Image Width</value>
+    <value column="Name" isTrl="Y" original="Image Width">Ширина изображения</value>
+    <value column="PrintName" isTrl="Y" original="Image Width">Ширина изображения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Width used in the &quot;Image Size Values Action&quot; field. If it is empty, it will not be taked into account.">Width used in the "Image Size Values Action" field. If it is empty, it will not be taked into account.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -12907,10 +12907,10 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7C152B5C9EBC4E74B75C469A8A473D34" trl="N">
-    <value column="Name" isTrl="N" original="Default Your Company Login Image">Default Your Company Login Image</value>
-    <value column="PrintName" isTrl="N" original="your default Company Login image">your default Company Login image</value>
+    <value column="Name" isTrl="Y" original="Default Your Company Login Image">Изображение логотипа вашей фирмы по-умолчанию</value>
+    <value column="PrintName" isTrl="Y" original="your default Company Login image">Изображение логотипа вашей фирмы по-умолчанию</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Default Company Login image">Default Company Login image</value>
+    <value column="Help" isTrl="Y" original="Default Company Login image">Изображение логотипа фирмы</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -17241,9 +17241,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800663" trl="N">
-    <value column="Name" isTrl="Y" original="Consumption Days">Потребность в днях</value>
-    <value column="PrintName" isTrl="Y" original="Consumption Days">Потребность в днях</value>
-    <value column="Description" isTrl="Y" original="Consumption Days">Потребность в днях</value>
+    <value column="Name" isTrl="Y" original="Consumption Days">Потребность за последнии дни</value>
+    <value column="PrintName" isTrl="Y" original="Consumption Days">Потребность за последнии дни</value>
+    <value column="Description" isTrl="Y" original="Consumption Days">Потребность за последнии дни</value>
     <value column="Help" isTrl="N" original="This field is used Copy Lines From in Order tab to specify the consumptions made in the last n days.">This field is used Copy Lines From in Order tab to specify the consumptions made in the last n days.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -18361,9 +18361,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800806" trl="N">
-    <value column="Name" isTrl="N" original="Development Status">Development Status</value>
-    <value column="PrintName" isTrl="N" original="Development Status">Development Status</value>
-    <value column="Description" isTrl="N" original="Development Status">Development Status</value>
+    <value column="Name" isTrl="Y" original="Development Status">Статус разработки</value>
+    <value column="PrintName" isTrl="Y" original="Development Status">Статус разработки</value>
+    <value column="Description" isTrl="Y" original="Development Status">Статус разработки</value>
     <value column="Help" isTrl="N" original="Development Status defines the status of a table or a column. Ready means that this object is in use, Not Implemented Yet indicates that currently it is not in use but it is planned to be implemented and Deprecated are the objects that are going to be removed from the application in future versions.">Development Status defines the status of a table or a column. Ready means that this object is in use, Not Implemented Yet indicates that currently it is not in use but it is planned to be implemented and Deprecated are the objects that are going to be removed from the application in future versions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -19853,8 +19853,8 @@ If the payment does not have a generated credit amount is the amount of credit u
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="9150A393672FD51CE040007F01006877" trl="N">
-    <value column="Name" isTrl="N" original="Instance Purpose">Instance Purpose</value>
-    <value column="PrintName" isTrl="N" original="Instance Purpose">Instance Purpose</value>
+    <value column="Name" isTrl="Y" original="Instance Purpose">Цель экземпляра Openbravo</value>
+    <value column="PrintName" isTrl="Y" original="Instance Purpose">Цель экземпляра Openbravo</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Determines which is the purpose of the Openbravo ERP instance">Determines which is the purpose of the Openbravo ERP instance</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20004,8 +20004,8 @@ If the Heartbeat is also enabled the number of requests per module on the last 3
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="91F5945648D88B53E040007F01005143" trl="N">
-    <value column="Name" isTrl="N" original="Change Instance Purpose">Change Instance Purpose</value>
-    <value column="PrintName" isTrl="N" original="Change Instance Purpose">Change Instance Purpose</value>
+    <value column="Name" isTrl="Y" original="Change Instance Purpose">Изменить цель экземпляра Openbravo</value>
+    <value column="PrintName" isTrl="Y" original="Change Instance Purpose">Изменить цель экземпляра Openbravo</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Button to change the purpose of Community Edition instances.">Button to change the purpose of Community Edition instances.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20134,8 +20134,8 @@ If the Heartbeat is also enabled the number of requests per module on the last 3
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="92960702F3C3E1DAE040007F010046D0" trl="N">
-    <value column="Name" isTrl="N" original="Production Banner Image">Production Banner Image</value>
-    <value column="PrintName" isTrl="N" original="Production Banner Image">Production Banner Image</value>
+    <value column="Name" isTrl="Y" original="Production Banner Image">Изображение бунера внедрения</value>
+    <value column="PrintName" isTrl="Y" original="Production Banner Image">Изображение бунера внедрения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Image used to be shown on instances with Production purpose.&#10;&#10;There is an example image on the Login folder of the Default skin.">Image used to be shown on instances with Production purpose.
 
@@ -20276,9 +20276,9 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="949DE0539399B12AE040A8C0BD0626B6" trl="N">
-    <value column="Name" isTrl="N" original="Your Company URL">Your Company URL</value>
-    <value column="PrintName" isTrl="N" original="Your Company URL">Your Company URL</value>
-    <value column="Description" isTrl="N" original="URL of your Comapany.">URL of your Comapany.</value>
+    <value column="Name" isTrl="Y" original="Your Company URL">URL вашей фирмы</value>
+    <value column="PrintName" isTrl="Y" original="Your Company URL">URL вашей фирмы</value>
+    <value column="Description" isTrl="Y" original="URL of your Comapany.">URL вашей фирмы.</value>
     <value column="Help" isTrl="N" original="URL of your Comapany. This info is used to make linkable the Comapany logo in the login page.">URL of your Comapany. This info is used to make linkable the Comapany logo in the login page.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -20506,8 +20506,8 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="998" trl="N">
-    <value column="Name" isTrl="N" original="Procedure">Procedure</value>
-    <value column="PrintName" isTrl="N" original="Procedure">Procedure</value>
+    <value column="Name" isTrl="Y" original="Procedure">Процедура</value>
+    <value column="PrintName" isTrl="Y" original="Procedure">Процедура</value>
     <value column="Description" isTrl="N" original="Name of the Database Procedure">Name of the Database Procedure</value>
     <value column="Help" isTrl="N" original="The Procedure indicates the name of the database procedure called by this report or process.">The Procedure indicates the name of the database procedure called by this report or process.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21238,8 +21238,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B7E8DC4F085C46F3842E1AF96300D78B" trl="N">
-    <value column="Name" isTrl="N" original="Your Company Document Image">Your Company Document Image</value>
-    <value column="PrintName" isTrl="N" original="Your Company Document Image">Your Company Document Image</value>
+    <value column="Name" isTrl="Y" original="Your Company Document Image">Логотип вашей фирмы на документах</value>
+    <value column="PrintName" isTrl="Y" original="Your Company Document Image">Логотип вашей фирмы на документах</value>
     <value column="Description" isTrl="N" original="The image that is shown in printed documents">The image that is shown in printed documents</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21459,8 +21459,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BDC51EB4B3284866A2919ED98022A14F" trl="N">
-    <value column="Name" isTrl="N" original="2nd Dimension">2nd Dimension</value>
-    <value column="PrintName" isTrl="N" original="2nd Dimension">2nd Dimension</value>
+    <value column="Name" isTrl="Y" original="2nd Dimension">2-ое субконто</value>
+    <value column="PrintName" isTrl="Y" original="2nd Dimension">2-ое субконто</value>
     <value column="Description" isTrl="N" original="A display of optional elements that are previously defined for this account combination.">A display of optional elements that are previously defined for this account combination.</value>
     <value column="Help" isTrl="N" original="The user defined element displays the optional elements that have been defined for this account combination.">The user defined element displays the optional elements that have been defined for this account combination.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21759,8 +21759,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CB8AD3FC3535A9FCE040007F01002CB2" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse Rule">Warehouse Rule</value>
-    <value column="PrintName" isTrl="N" original="Warehouse Rule">Warehouse Rule</value>
+    <value column="Name" isTrl="Y" original="Warehouse Rule">Правило хранения</value>
+    <value column="PrintName" isTrl="Y" original="Warehouse Rule">Правило хранения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Definition of a Warehouse Rule to be applied when getting stock from the warehouse.">Definition of a Warehouse Rule to be applied when getting stock from the warehouse.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22399,8 +22399,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="EB58AFE2D52942FEA4B7DA407282DC1D" trl="N">
-    <value column="Name" isTrl="N" original="Return Bin">Return Bin</value>
-    <value column="PrintName" isTrl="N" original="Return Bin">Return Bin</value>
+    <value column="Name" isTrl="Y" original="Return Bin">Место хранения возвратов</value>
+    <value column="PrintName" isTrl="Y" original="Return Bin">Место хранения возвратов</value>
     <value column="Description" isTrl="N" original="Bin designated for returns.">Bin designated for returns.</value>
     <value column="Help" isTrl="N" original="Bin designated for returns.">Bin designated for returns.</value>
     <value column="PO_Description" isTrl="N" original=""/>
