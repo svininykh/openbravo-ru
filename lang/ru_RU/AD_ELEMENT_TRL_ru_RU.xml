@@ -1570,8 +1570,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1032" trl="N">
-    <value column="Name" isTrl="N" original="Production">Production</value>
-    <value column="PrintName" isTrl="N" original="Production">Production</value>
+    <value column="Name" isTrl="Y" original="Production">Производиться</value>
+    <value column="PrintName" isTrl="Y" original="Production">Производиться</value>
     <value column="Description" isTrl="N" original="An indication that an item is being used in production.">An indication that an item is being used in production.</value>
     <value column="Help" isTrl="N" original="The Production uniquely identifies a Production Plan">The Production uniquely identifies a Production Plan</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7359,7 +7359,7 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="286" trl="N">
-    <value column="Name" isTrl="N" original="Divide Rate By">Divide Rate By</value>
+    <value column="Name" isTrl="Y" original="Divide Rate By">Разделить на</value>
     <value column="PrintName" isTrl="N" original="Divide Rate">Divide Rate</value>
     <value column="Description" isTrl="N" original="The rate by which the base unit will be divided by to create the converted unit.">The rate by which the base unit will be divided by to create the converted unit.</value>
     <value column="Help" isTrl="N" original="To convert Source number to Target number, the Source is divided by the divide rate.  If you enter a Divide Rate, the Multiply Rate will be automatically calculated.">To convert Source number to Target number, the Source is divided by the divide rate.  If you enter a Divide Rate, the Multiply Rate will be automatically calculated.</value>
@@ -7450,7 +7450,7 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2D2C180E4B004B76AA0CE7C2ABA651A3" trl="N">
-    <value column="Name" isTrl="N" original="Product Deferred Expense">Product Deferred Expense</value>
+    <value column="Name" isTrl="Y" original="Product Deferred Expense">Отложенные расходы по товару</value>
     <value column="PrintName" isTrl="N" original="Deferred Expense Account">Deferred Expense Account</value>
     <value column="Description" isTrl="N" original="Used when expense is deferred from a purchased product.">Used when expense is deferred from a purchased product.</value>
     <value column="Help" isTrl="N" original="Used when expense is deferred from a purchased product.">Used when expense is deferred from a purchased product.</value>
@@ -8410,8 +8410,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="403" trl="N">
-    <value column="Name" isTrl="N" original="Purchase">Purchase</value>
-    <value column="PrintName" isTrl="N" original="Purchased">Purchased</value>
+    <value column="Name" isTrl="Y" original="Purchase">Закупается</value>
+    <value column="PrintName" isTrl="Y" original="Purchased">Закупается</value>
     <value column="Description" isTrl="N" original="An indication that an item may be purchased by a business partner.">An indication that an item may be purchased by a business partner.</value>
     <value column="Help" isTrl="N" original="The Purchased check box indicates if this product is purchased by this organization.">The Purchased check box indicates if this product is purchased by this organization.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8520,8 +8520,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="414" trl="N">
-    <value column="Name" isTrl="N" original="Sale">Sale</value>
-    <value column="PrintName" isTrl="N" original="Sold">Sold</value>
+    <value column="Name" isTrl="Y" original="Sale">Продаётся</value>
+    <value column="PrintName" isTrl="Y" original="Sold">Продаётся</value>
     <value column="Description" isTrl="N" original="An indication that an item may be sold by a business partner.">An indication that an item may be sold by a business partner.</value>
     <value column="Help" isTrl="N" original="The Sold check box indicates if this product is sold by this organization.">The Sold check box indicates if this product is sold by this organization.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8530,8 +8530,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="415" trl="N">
-    <value column="Name" isTrl="N" original="Stocked">Stocked</value>
-    <value column="PrintName" isTrl="N" original="Stocked">Stocked</value>
+    <value column="Name" isTrl="Y" original="Stocked">Храниться</value>
+    <value column="PrintName" isTrl="Y" original="Stocked">Храниться</value>
     <value column="Description" isTrl="N" original="Organization stocks this product">Organization stocks this product</value>
     <value column="Help" isTrl="N" original="The Stocked check box indicates if this product is stocked by this Organization.">The Stocked check box indicates if this product is stocked by this Organization.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8821,7 +8821,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="466" trl="N">
-    <value column="Name" isTrl="N" original="Multiple Rate By">Multiple Rate By</value>
+    <value column="Name" isTrl="Y" original="Multiple Rate By">Умножить на</value>
     <value column="PrintName" isTrl="N" original="Multiply Rate">Multiply Rate</value>
     <value column="Description" isTrl="N" original="The rate by which the base unit will be mutiplied by to create the converted unit.">The rate by which the base unit will be mutiplied by to create the converted unit.</value>
     <value column="Help" isTrl="N" original="To convert Source number to Target number, the Source is multiplied by the multiply rate.  If the Multiply Rate is entered, then the Divide Rate will be automatically calculated.">To convert Source number to Target number, the Source is multiplied by the multiply rate.  If the Multiply Rate is entered, then the Divide Rate will be automatically calculated.</value>
@@ -11512,7 +11512,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5AFB22E6D5924B6DBE8F5C4FE839A5AE" trl="N">
-    <value column="Name" isTrl="N" original="Product Deferred Revenue">Product Deferred Revenue</value>
+    <value column="Name" isTrl="Y" original="Product Deferred Revenue">Отложенные доходы по товару</value>
     <value column="PrintName" isTrl="N" original="Deferred Revenue Account">Deferred Revenue Account</value>
     <value column="Description" isTrl="N" original="Used to defer revenue for a sold product">Used to defer revenue for a sold product</value>
     <value column="Help" isTrl="N" original="Used when revenue is deferred fro a sold product.">Used when revenue is deferred fro a sold product.</value>
@@ -11832,8 +11832,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="618" trl="N">
-    <value column="Name" isTrl="N" original="Valid To Date">Valid To Date</value>
-    <value column="PrintName" isTrl="N" original="Valid to">Valid to</value>
+    <value column="Name" isTrl="Y" original="Valid To Date">Действительно до даты</value>
+    <value column="PrintName" isTrl="Y" original="Valid to">Действительно до</value>
     <value column="Description" isTrl="N" original="A parameter stating the ending time of a specified request.">A parameter stating the ending time of a specified request.</value>
     <value column="Help" isTrl="N" original="The Valid To date indicates the last day of a date range">The Valid To date indicates the last day of a date range</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -15578,8 +15578,8 @@ For example, if you want to create different invoices for each ship location for
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800449" trl="N">
-    <value column="Name" isTrl="N" original="Production">Production</value>
-    <value column="PrintName" isTrl="N" original="Production">Production</value>
+    <value column="Name" isTrl="Y" original="Production">Производиться</value>
+    <value column="PrintName" isTrl="Y" original="Production">Производиться</value>
     <value column="Description" isTrl="N" original="An indication that an item is being used in production.">An indication that an item is being used in production.</value>
     <value column="Help" isTrl="N" original="A product that is used for production plans">A product that is used for production plans</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17411,8 +17411,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800686" trl="N">
-    <value column="Name" isTrl="N" original="Production">Production</value>
-    <value column="PrintName" isTrl="N" original="Production">Production</value>
+    <value column="Name" isTrl="Y" original="Production">Производиться</value>
+    <value column="PrintName" isTrl="Y" original="Production">Производиться</value>
     <value column="Description" isTrl="N" original="An indication that an item is being used in production.">An indication that an item is being used in production.</value>
     <value column="Help" isTrl="N" original="Sets the record_id for production.">Sets the record_id for production.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17871,8 +17871,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800736" trl="N">
-    <value column="Name" isTrl="N" original="Purchase">Purchase</value>
-    <value column="PrintName" isTrl="N" original="Purchase">Purchase</value>
+    <value column="Name" isTrl="Y" original="Purchase">Закупается</value>
+    <value column="PrintName" isTrl="Y" original="Purchase">Закупается</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Sets the record_id for purchase.">Sets the record_id for purchase.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21318,14 +21318,14 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BA2DE109A6E04344BD6F8010BD904EA7" trl="N">
-    <value column="Name" isTrl="N" original="Deferred Expense">Deferred Expense</value>
-    <value column="PrintName" isTrl="N" original="Deferred Expense">Deferred Expense</value>
+    <value column="Name" isTrl="Y" original="Deferred Expense">Отложенные расходы</value>
+    <value column="PrintName" isTrl="Y" original="Deferred Expense">Отложенные расходы</value>
     <value column="Description" isTrl="N" original="When flagged expense of the product will be deferred using the plan and the number of periods">When flagged expense of the product will be deferred using the plan and the number of periods</value>
     <value column="Help" isTrl="N" original="When flagged expense of the product will be deferred using the plan and the number of periods">When flagged expense of the product will be deferred using the plan and the number of periods</value>
     <value column="PO_Description" isTrl="N" original="When flagged expense of the product will be deferred using the plan and the number of periods">When flagged expense of the product will be deferred using the plan and the number of periods</value>
     <value column="PO_Help" isTrl="N" original="When flagged expense of the product will be deferred using the plan and the number of periods">When flagged expense of the product will be deferred using the plan and the number of periods</value>
-    <value column="PO_Name" isTrl="N" original="Deferred Expense">Deferred Expense</value>
-    <value column="PO_PrintName" isTrl="N" original="Deferred Expense">Deferred Expense</value>
+    <value column="PO_Name" isTrl="Y" original="Deferred Expense">Отложенные расходы</value>
+    <value column="PO_PrintName" isTrl="Y" original="Deferred Expense">Отложенные расходы</value>
   </row>
   <row id="BA3FDC0C32A890E0E040007F01005DCC" trl="N">
     <value column="Name" isTrl="N" original="Validated">Validated</value>
@@ -21899,14 +21899,14 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CDE9CE875E4B4AD0AE82EDC9EFA0EE0B" trl="N">
-    <value column="Name" isTrl="N" original="Deferred Revenue">Deferred Revenue</value>
-    <value column="PrintName" isTrl="N" original="Deferred Revenue">Deferred Revenue</value>
+    <value column="Name" isTrl="Y" original="Deferred Revenue">Отложенные доходы</value>
+    <value column="PrintName" isTrl="Y" original="Deferred Revenue">Отложенные доходы</value>
     <value column="Description" isTrl="N" original="When flagged revenue of the product will be deferred using the plan and the number of periods">When flagged revenue of the product will be deferred using the plan and the number of periods</value>
     <value column="Help" isTrl="N" original="When flagged revenue of the product will be deferred using the plan and the number of periods">When flagged revenue of the product will be deferred using the plan and the number of periods</value>
     <value column="PO_Description" isTrl="N" original="When flagged expense of the product will be deferred using the plan and the number of periods">When flagged expense of the product will be deferred using the plan and the number of periods</value>
     <value column="PO_Help" isTrl="N" original="When flagged expense of the product will be deferred using the plan and the number of periods">When flagged expense of the product will be deferred using the plan and the number of periods</value>
-    <value column="PO_Name" isTrl="N" original="Deferred Expense">Deferred Expense</value>
-    <value column="PO_PrintName" isTrl="N" original="Deferred Expense">Deferred Expense</value>
+    <value column="PO_Name" isTrl="Y" original="Deferred Expense">Отложенные доходы</value>
+    <value column="PO_PrintName" isTrl="Y" original="Deferred Expense">Отложенные доходы</value>
   </row>
   <row id="CE0CE91E4BFD17FDE040007F0100600C" trl="N">
     <value column="Name" isTrl="N" original="Create Reservations">Create Reservations</value>

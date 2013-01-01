@@ -2501,11 +2501,11 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="305" trl="N">
-    <value column="MsgText" isTrl="N" original="Product Info">Product Info</value>
+    <value column="MsgText" isTrl="Y" original="Product Info">Описание товара</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="306" trl="N">
-    <value column="MsgText" isTrl="N" original="Inserted">Inserted</value>
+    <value column="MsgText" isTrl="Y" original="Inserted">Добавлено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="307" trl="N">
