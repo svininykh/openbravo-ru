@@ -5639,9 +5639,9 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1903" trl="N">
-    <value column="Name" isTrl="N" original="Username">Username</value>
-    <value column="PrintName" isTrl="N" original="User Name">User Name</value>
-    <value column="Description" isTrl="N" original="User Name">User Name</value>
+    <value column="Name" isTrl="Y" original="Username">Пользователь</value>
+    <value column="PrintName" isTrl="Y" original="User Name">Имя пользователя</value>
+    <value column="Description" isTrl="Y" original="User Name">Имя пользователя</value>
     <value column="Help" isTrl="N" original="Name that identifies the user in the System">Name that identifies the user in the System</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
