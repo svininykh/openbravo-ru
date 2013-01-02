@@ -2308,13 +2308,13 @@
     <value column="Text" isTrl="Y" original="Add">Добавить</value>
   </row>
   <row id="800427" trl="N">
-    <value column="Text" isTrl="N" original="Delete selected elements">Delete selected elements</value>
+    <value column="Text" isTrl="Y" original="Delete selected elements">Удалить выделенные элементы</value>
   </row>
   <row id="800428" trl="N">
-    <value column="Text" isTrl="N" original="Delete all elements">Delete all elements</value>
+    <value column="Text" isTrl="Y" original="Delete all elements">Удалить все элементы</value>
   </row>
   <row id="800430" trl="N">
-    <value column="Text" isTrl="N" original="Article">Article</value>
+    <value column="Text" isTrl="Y" original="Article">Номенклатура</value>
   </row>
   <row id="800432" trl="N">
     <value column="Text" isTrl="Y" original="Unit">Единиц</value>
@@ -2404,16 +2404,16 @@
     <value column="Text" isTrl="N" original="Inventory Move">Inventory Move</value>
   </row>
   <row id="801173" trl="N">
-    <value column="Text" isTrl="N" original="Category">Category</value>
+    <value column="Text" isTrl="Y" original="Category">Категория</value>
   </row>
   <row id="801176" trl="N">
     <value column="Text" isTrl="N" original="Applicable price">Applicable price</value>
   </row>
   <row id="801177" trl="N">
-    <value column="Text" isTrl="N" original="Limit price">Limit price</value>
+    <value column="Text" isTrl="Y" original="Limit price">Лимит цены</value>
   </row>
   <row id="801233" trl="N">
-    <value column="Text" isTrl="N" original="No.">No.</value>
+    <value column="Text" isTrl="Y" original="No.">№</value>
   </row>
   <row id="801747" trl="N">
     <value column="Text" isTrl="N" original="Observations">Observations</value>
@@ -2440,7 +2440,7 @@
     <value column="Text" isTrl="N" original="Accounting type">Accounting type</value>
   </row>
   <row id="802037" trl="N">
-    <value column="Text" isTrl="N" original="Document date">Document date</value>
+    <value column="Text" isTrl="Y" original="Document date">Дата документа</value>
   </row>
   <row id="802039" trl="N">
     <value column="Text" isTrl="N" original="Control qty.">Control qty.</value>

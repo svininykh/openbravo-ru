@@ -666,10 +666,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1002100023" trl="N">
-    <value column="Name" isTrl="N" original="Page No.">Page No.</value>
-    <value column="PrintName" isTrl="N" original="Page number">Page number</value>
-    <value column="Description" isTrl="N" original="Page number">Page number</value>
-    <value column="Help" isTrl="N" original="Page number">Page number</value>
+    <value column="Name" isTrl="Y" original="Page No.">Номер страницы</value>
+    <value column="PrintName" isTrl="Y" original="Page number">Страница №</value>
+    <value column="Description" isTrl="Y" original="Page number">Номер страницы</value>
+    <value column="Help" isTrl="Y" original="Page number">Номер страницы</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -8030,8 +8030,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="380" trl="N">
-    <value column="Name" isTrl="N" original="Generated">Generated</value>
-    <value column="PrintName" isTrl="N" original="Generated">Generated</value>
+    <value column="Name" isTrl="Y" original="Generated">Создано</value>
+    <value column="PrintName" isTrl="Y" original="Generated">Создано</value>
     <value column="Description" isTrl="N" original="This Line is generated">This Line is generated</value>
     <value column="Help" isTrl="N" original="The Generated checkbox identifies a journal line that was generated from a source document.  Lines could also be entered manually or imported.">The Generated checkbox identifies a journal line that was generated from a source document.  Lines could also be entered manually or imported.</value>
     <value column="PO_Description" isTrl="N" original=""/>
