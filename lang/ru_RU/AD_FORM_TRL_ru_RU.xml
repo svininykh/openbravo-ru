@@ -85,7 +85,7 @@ Use Module Management to browse the currently installed modules, to check for up
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800011" trl="N">
-    <value column="Name" isTrl="N" original="SQL Query">SQL Query</value>
+    <value column="Name" isTrl="Y" original="SQL Query">SQL запрос</value>
     <value column="Description" isTrl="N" original="Execute SQL query and view results within the Openbravo application.">Execute SQL query and view results within the Openbravo application.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -95,7 +95,7 @@ Use Module Management to browse the currently installed modules, to check for up
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800015" trl="N">
-    <value column="Name" isTrl="N" original="About">About</value>
+    <value column="Name" isTrl="Y" original="About">Описание</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
