@@ -191,14 +191,14 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="0FF8F04EC4204CA3AC8F003F38C0502A" trl="N">
-    <value column="Name" isTrl="N" original="Movement Date">Movement Date</value>
-    <value column="PrintName" isTrl="N" original="Movement Date">Movement Date</value>
+    <value column="Name" isTrl="Y" original="Movement Date">Дата инвентаризации</value>
+    <value column="PrintName" isTrl="Y" original="Movement Date">Дата инвентаризации</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original="Movement Date">Movement Date</value>
-    <value column="PO_PrintName" isTrl="N" original="Movement Date">Movement Date</value>
+    <value column="PO_Name" isTrl="Y" original="Movement Date">Дата инвентаризации</value>
+    <value column="PO_PrintName" isTrl="Y" original="Movement Date">Дата инвентаризации</value>
   </row>
   <row id="1000" trl="N">
     <value column="Name" isTrl="N" original="User can start process">User can start process</value>
@@ -1600,8 +1600,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1037" trl="N">
-    <value column="Name" isTrl="N" original="Movement Date">Movement Date</value>
-    <value column="PrintName" isTrl="N" original="Movement Date">Movement Date</value>
+    <value column="Name" isTrl="N" original="Movement Date">Дата перемещения</value>
+    <value column="PrintName" isTrl="N" original="Movement Date">Дата перемещения</value>
     <value column="Description" isTrl="N" original="The date that a certain item is moved from one location to another.">The date that a certain item is moved from one location to another.</value>
     <value column="Help" isTrl="N" original="The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.">The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1610,8 +1610,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1038" trl="N">
-    <value column="Name" isTrl="N" original="Movement Quantity">Movement Quantity</value>
-    <value column="PrintName" isTrl="N" original="Qty">Qty</value>
+    <value column="Name" isTrl="Y" original="Movement Quantity">Перемещённое количество</value>
+    <value column="PrintName" isTrl="Y" original="Qty">Кол-во</value>
     <value column="Description" isTrl="N" original="The number of items being moved from one location to another.">The number of items being moved from one location to another.</value>
     <value column="Help" isTrl="N" original="The Movement Quantity indicates the quantity of a product that has been moved.">The Movement Quantity indicates the quantity of a product that has been moved.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1620,8 +1620,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1039" trl="N">
-    <value column="Name" isTrl="N" original="Movement Type">Movement Type</value>
-    <value column="PrintName" isTrl="N" original="Movement Type">Movement Type</value>
+    <value column="Name" isTrl="Y" original="Movement Type">Тип перемещения</value>
+    <value column="PrintName" isTrl="Y" original="Movement Type">Тип перемещения</value>
     <value column="Description" isTrl="N" original="The type of a certain item being moved from one location to another.">The type of a certain item being moved from one location to another.</value>
     <value column="Help" isTrl="N" original="The Movement Type indicates the type of movement (in, out, to production, etc)">The Movement Type indicates the type of movement (in, out, to production, etc)</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1712,8 +1712,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1048" trl="N">
-    <value column="Name" isTrl="N" original="Book Quantity">Book Quantity</value>
-    <value column="PrintName" isTrl="N" original="Qty book">Qty book</value>
+    <value column="Name" isTrl="Y" original="Book Quantity">Количество по бухгалтерии</value>
+    <value column="PrintName" isTrl="Y" original="Qty book">Бух. кол-во</value>
     <value column="Description" isTrl="N" original="Book Quantity">Book Quantity</value>
     <value column="Help" isTrl="N" original="The Quantity Book indicates the line count stored in the system for a product in inventory">The Quantity Book indicates the line count stored in the system for a product in inventory</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1722,8 +1722,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1049" trl="N">
-    <value column="Name" isTrl="N" original="Quantity count">Quantity count</value>
-    <value column="PrintName" isTrl="N" original="Qty count">Qty count</value>
+    <value column="Name" isTrl="Y" original="Quantity count">Количество по факту</value>
+    <value column="PrintName" isTrl="Y" original="Qty count">Факт. кол-во</value>
     <value column="Description" isTrl="N" original="Counted Quantity">Counted Quantity</value>
     <value column="Help" isTrl="N" original="The Quantity Count indicates the actual inventory count taken for a product in inventory">The Quantity Count indicates the actual inventory count taken for a product in inventory</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8680,8 +8680,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="448" trl="N">
-    <value column="Name" isTrl="N" original="Storage Bin">Storage Bin</value>
-    <value column="PrintName" isTrl="N" original="Locator">Locator</value>
+    <value column="Name" isTrl="Y" original="Storage Bin">Место хранения</value>
+    <value column="PrintName" isTrl="Y" original="Locator">Место хранения</value>
     <value column="Description" isTrl="N" original="A set of coordinates (x, y, z) which help locate an item in a warehouse.">A set of coordinates (x, y, z) which help locate an item in a warehouse.</value>
     <value column="Help" isTrl="N" original="The Locator ID indicates where in a Warehouse a product is located.">The Locator ID indicates where in a Warehouse a product is located.</value>
     <value column="PO_Description" isTrl="N" original=""/>

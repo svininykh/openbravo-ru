@@ -95,7 +95,7 @@
     <value column="Text" isTrl="N" original="Subject: Certification of compensation subject to withholding">Subject: Certification of compensation subject to withholding</value>
   </row>
   <row id="1000200007" trl="N">
-    <value column="Text" isTrl="N" original="Order Number">Order Number</value>
+    <value column="Text" isTrl="Y" original="Order Number">Номер накладной</value>
   </row>
   <row id="1000400000" trl="N">
     <value column="Text" isTrl="N" original="Complete and Process Sales Orders automatically">Complete and Process Sales Orders automatically</value>
@@ -1857,7 +1857,7 @@
     <value column="Text" isTrl="N" original="Restart servlet container now  ">Restart servlet container now  </value>
   </row>
   <row id="6AA980867E27428AB6ED0C47F4437B5D" trl="N">
-    <value column="Text" isTrl="N" original="Storage Bin">Storage Bin</value>
+    <value column="Text" isTrl="Y" original="Storage Bin">Место хранения</value>
   </row>
   <row id="6B6C30BED8E34F9F883D3AEBFB1D86E8" trl="N">
     <value column="Text" isTrl="N" original="Openbravo documentation">Openbravo documentation</value>
@@ -3877,13 +3877,13 @@
     <value column="Text" isTrl="Y" original="Module">Модуль</value>
   </row>
   <row id="807211" trl="N">
-    <value column="Text" isTrl="N" original="Movement">Movement</value>
+    <value column="Text" isTrl="Y" original="Movement">Перемещение</value>
   </row>
   <row id="807212" trl="N">
-    <value column="Text" isTrl="N" original="Movement date">Movement date</value>
+    <value column="Text" isTrl="Y" original="Movement date">Дата перемещения</value>
   </row>
   <row id="807213" trl="N">
-    <value column="Text" isTrl="N" original="Movement type">Movement type</value>
+    <value column="Text" isTrl="Y" original="Movement type">Тип перемещения</value>
   </row>
   <row id="807214" trl="N">
     <value column="Text" isTrl="Y" original="NAME">НАЗВАНИЕ</value>
@@ -4771,13 +4771,13 @@
     <value column="Text" isTrl="N" original="Global consume:">Global consume:</value>
   </row>
   <row id="809928" trl="N">
-    <value column="Text" isTrl="N" original="ORDER NO.">ORDER NO.</value>
+    <value column="Text" isTrl="Y" original="ORDER NO.">НАКЛАДНАЯ №</value>
   </row>
   <row id="809930" trl="N">
-    <value column="Text" isTrl="N" original="% Tax">% Tax</value>
+    <value column="Text" isTrl="Y" original="% Tax">% налога</value>
   </row>
   <row id="809938" trl="N">
-    <value column="Text" isTrl="N" original="Movement Date">Movement Date</value>
+    <value column="Text" isTrl="Y" original="Movement Date">Дата перемещения</value>
   </row>
   <row id="809939" trl="N">
     <value column="Text" isTrl="N" original="Production Plan">Production Plan</value>
