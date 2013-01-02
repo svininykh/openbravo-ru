@@ -96,14 +96,14 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Tax Register Header">Tax Register Header</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Tax Register Header tab allows to see the calculated tax amount per each configured &quot;Tax Register Type&quot;.">Tax Register Header tab allows to see the calculated tax amount per each configured &quot;Tax Register Type&quot;.</value>
+    <value column="Help" isTrl="N" original="Tax Register Header tab allows to see the calculated tax amount per each configured &quot;Tax Register Type&quot;.">Tax Register Header tab allows to see the calculated tax amount per each configured "Tax Register Type".</value>
   </row>
   <row id="1002100013" trl="N">
     <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Tax Register Lines">Tax Register Lines</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The lines tab is a read-only tab which lists all the tax transactions related to the tax rates configured as part of a &quot;Tax Register Type&quot;.">The lines tab is a read-only tab which lists all the tax transactions related to the tax rates configured as part of a &quot;Tax Register Type&quot;.</value>
+    <value column="Help" isTrl="N" original="The lines tab is a read-only tab which lists all the tax transactions related to the tax rates configured as part of a &quot;Tax Register Type&quot;.">The lines tab is a read-only tab which lists all the tax transactions related to the tax rates configured as part of a "Tax Register Type".</value>
   </row>
   <row id="1004400000" trl="N">
     <value column="Name" isTrl="N" original="Matched PO Lines">Matched PO Lines</value>
@@ -779,7 +779,8 @@
   </row>
   <row id="217" trl="N">
     <value column="Name" isTrl="Y" original="Dimension">Субконто</value>
-    <value column="CommitWarning" isTrl="N" original="ATTENTION: ANY CHANGES here will effect the structure of your chart of accounts!&#10;For changes to become effective, you must re-login and re-start the Application Server.">ATTENTION: ANY CHANGES here will effect the structure of your chart of accounts!&#10;For changes to become effective, you must re-login and re-start the Application Server.</value>
+    <value column="CommitWarning" isTrl="N" original="ATTENTION: ANY CHANGES here will effect the structure of your chart of accounts!&#10;For changes to become effective, you must re-login and re-start the Application Server.">ATTENTION: ANY CHANGES here will effect the structure of your chart of accounts!
+For changes to become effective, you must re-login and re-start the Application Server.</value>
     <value column="Description" isTrl="N" original="Holds the list of dimensions enabled by this ledger.">Holds the list of dimensions enabled by this ledger.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Dimension tab allows to configure the general ledger dimensions. There are two mandatory dimensions by default: the Organization and the Account.  Any other dimension such as Project or Sales Region can be as well enabled here so that they appear in transactional windows.">Dimension tab allows to configure the general ledger dimensions. There are two mandatory dimensions by default: the Organization and the Account.  Any other dimension such as Project or Sales Region can be as well enabled here so that they appear in transactional windows.</value>
@@ -1105,7 +1106,13 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Java Package">Java Package</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The Data Package is a grouping mechanism for tables within a module. Openbravo has a java business object for each Table. The java package of the java business object is defined in the Data Package. For example: a module for a crm package with the name: org.crm has packages:&#10;- org.crm.order&#10;- org.crm.customer&#10;&#10;The corresponding tables have then the following setting:&#10;- Customer, in the org.crm.customer package, resulting in the java class: org.crm.customer.Customer&#10;- SalesOrder, in the org.crm.order package, resulting in the java class: org.crm.order.SalesOrder">The Data Package is a grouping mechanism for tables within a module. Openbravo has a java business object for each Table. The java package of the java business object is defined in the Data Package. For example: a module for a crm package with the name: org.crm has packages:&#10;- org.crm.order&#10;- org.crm.customer&#10;&#10;The corresponding tables have then the following setting:&#10;- Customer, in the org.crm.customer package, resulting in the java class: org.crm.customer.Customer&#10;- SalesOrder, in the org.crm.order package, resulting in the java class: org.crm.order.SalesOrder</value>
+    <value column="Help" isTrl="N" original="The Data Package is a grouping mechanism for tables within a module. Openbravo has a java business object for each Table. The java package of the java business object is defined in the Data Package. For example: a module for a crm package with the name: org.crm has packages:&#10;- org.crm.order&#10;- org.crm.customer&#10;&#10;The corresponding tables have then the following setting:&#10;- Customer, in the org.crm.customer package, resulting in the java class: org.crm.customer.Customer&#10;- SalesOrder, in the org.crm.order package, resulting in the java class: org.crm.order.SalesOrder">The Data Package is a grouping mechanism for tables within a module. Openbravo has a java business object for each Table. The java package of the java business object is defined in the Data Package. For example: a module for a crm package with the name: org.crm has packages:
+- org.crm.order
+- org.crm.customer
+
+The corresponding tables have then the following setting:
+- Customer, in the org.crm.customer package, resulting in the java class: org.crm.customer.Customer
+- SalesOrder, in the org.crm.order package, resulting in the java class: org.crm.order.SalesOrder</value>
   </row>
   <row id="291" trl="N">
     <value column="Name" isTrl="Y" original="Lines">Строки</value>

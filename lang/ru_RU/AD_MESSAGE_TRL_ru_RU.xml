@@ -410,19 +410,19 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600001" trl="N">
-    <value column="MsgText" isTrl="N" original="Starting create client">Начато создание подключения</value>
+    <value column="MsgText" isTrl="Y" original="Starting create client">Начато создание подключения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600002" trl="N">
-    <value column="MsgText" isTrl="N" original="Starting create accounting">Начато создание плана счетов</value>
+    <value column="MsgText" isTrl="Y" original="Starting create accounting">Начато создание плана счетов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600003" trl="N">
-    <value column="MsgText" isTrl="N" original="Starting create document types">Начато создание типов документов</value>
+    <value column="MsgText" isTrl="Y" original="Starting create document types">Начато создание типов документов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600004" trl="N">
-    <value column="MsgText" isTrl="N" original="Starting create master data">Начато создание справочника</value>
+    <value column="MsgText" isTrl="Y" original="Starting create master data">Начато создание справочника</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600005" trl="N">
@@ -438,23 +438,23 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600008" trl="N">
-    <value column="MsgText" isTrl="N" original="Create master data process completed successfully">Процесс создания справочника прошёл успешно</value>
+    <value column="MsgText" isTrl="Y" original="Create master data process completed successfully">Процесс создания справочника прошёл успешно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600009" trl="N">
-    <value column="MsgText" isTrl="N" original="Create client process failed">Создание подключения не выполнено</value>
+    <value column="MsgText" isTrl="Y" original="Create client process failed">Создание подключения не выполнено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600010" trl="N">
-    <value column="MsgText" isTrl="N" original="Create accounting process failed">Создание плана счетов не выполнено</value>
+    <value column="MsgText" isTrl="Y" original="Create accounting process failed">Создание плана счетов не выполнено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600011" trl="N">
-    <value column="MsgText" isTrl="N" original="Create document types process failed">Создание типов документов не выполнено</value>
+    <value column="MsgText" isTrl="Y" original="Create document types process failed">Создание типов документов не выполнено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600012" trl="N">
-    <value column="MsgText" isTrl="N" original="Create master data process failed">Создание справочника не выполнено</value>
+    <value column="MsgText" isTrl="Y" original="Create master data process failed">Создание справочника не выполнено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000600013" trl="N">
@@ -2105,7 +2105,7 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="240" trl="N">
-    <value column="MsgText" isTrl="N" original="Error:">Ошибка:</value>
+    <value column="MsgText" isTrl="Y" original="Error:">Ошибка:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="241" trl="N">
@@ -4547,7 +4547,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6775556A78264AB192CAD83F25E37E7B" trl="N">
-    <value column="MsgText" isTrl="N" original="Instance Purpose">Экземпляр Openbravo</value>
+    <value column="MsgText" isTrl="Y" original="Instance Purpose">Экземпляр Openbravo</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="678" trl="N">
@@ -5035,7 +5035,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800048" trl="N">
-    <value column="MsgText" isTrl="N" original="E-mail address required.">Необходим адрес электронной почты.</value>
+    <value column="MsgText" isTrl="Y" original="E-mail address required.">Необходим адрес электронной почты.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800049" trl="N">
@@ -5043,11 +5043,11 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800050" trl="N">
-    <value column="MsgText" isTrl="N" original="Password required.">Необходим пароль.</value>
+    <value column="MsgText" isTrl="Y" original="Password required.">Необходим пароль.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800051" trl="N">
-    <value column="MsgText" isTrl="N" original="Role information">Описаение роли</value>
+    <value column="MsgText" isTrl="Y" original="Role information">Описание роли</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800052" trl="N">
@@ -7287,7 +7287,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BDB7F0E3A28C4A01AA85BEEFB2B8DF28" trl="N">
-    <value column="MsgText" isTrl="N" original="Instance Purpose Configuration">Настройка цели экземпляра Openbravo</value>
+    <value column="MsgText" isTrl="Y" original="Instance Purpose Configuration">Настройка цели экземпляра Openbravo</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BDBAEDC585EA4D06BACC9E2469003E4F" trl="N">
@@ -7572,7 +7572,7 @@ Ask System Administrator to unlock it.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D73ABE1272844C34A5A5E353BD57FBF3" trl="N">
-    <value column="MsgText" isTrl="N" original="We have detected that this Community instance is a clone of another environment. Please specify the purpose of this instance.">Обнаружено, что данный экземпляр Коммьюнити версии Openbravo является клоном другой среды. Пожалуйста, сформулируйте цель развёртывания данного экземпляра среды Openbravo.</value>
+    <value column="MsgText" isTrl="Y" original="We have detected that this Community instance is a clone of another environment. Please specify the purpose of this instance.">Обнаружено, что данный экземпляр Коммьюнити версии Openbravo является клоном другой среды. Пожалуйста, сформулируйте цель развёртывания данного экземпляра среды Openbravo.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D797EF78993647C2AD25D0969824E768" trl="N">

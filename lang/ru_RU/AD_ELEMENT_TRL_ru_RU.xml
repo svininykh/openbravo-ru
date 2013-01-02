@@ -369,7 +369,13 @@
     <value column="Name" isTrl="N" original="Body">Body</value>
     <value column="PrintName" isTrl="N" original="Body">Body</value>
     <value column="Description" isTrl="N" original="The body side of the email">The body side of the email</value>
-    <value column="Help" isTrl="N" original="As in the subject some tags are available &#10;References will be replaced by values:&#10;    * @cus_ref@: The document reference of the customer&#10;    * @our_ref@: The reference of the document&#10;    * @cus_nam@: The name of the customer&#10;    * @sal_nam@: The name of the sales rep.&#10;">As in the subject some tags are available &#10;References will be replaced by values:&#10;    * @cus_ref@: The document reference of the customer&#10;    * @our_ref@: The reference of the document&#10;    * @cus_nam@: The name of the customer&#10;    * @sal_nam@: The name of the sales rep.&#10;</value>
+    <value column="Help" isTrl="N" original="As in the subject some tags are available &#10;References will be replaced by values:&#10;    * @cus_ref@: The document reference of the customer&#10;    * @our_ref@: The reference of the document&#10;    * @cus_nam@: The name of the customer&#10;    * @sal_nam@: The name of the sales rep.&#10;">As in the subject some tags are available
+References will be replaced by values:
+    * @cus_ref@: The document reference of the customer
+    * @our_ref@: The reference of the document
+    * @cus_nam@: The name of the customer
+    * @sal_nam@: The name of the sales rep.
+</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -769,7 +775,11 @@
     <value column="Name" isTrl="N" original="Requisition line status">Requisition line status</value>
     <value column="PrintName" isTrl="N" original="Requisition line status">Requisition line status</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Each product demand has its own status different than the status of the requisition. The statuses of the demands are:&#10;Open: The demand hasn't been yet fulfilled.&#10;Closed: Has been ordered enough products.&#10;Cancelled: The demand has been closed without ordering any product.&#10;Planned: The demand has been included in a Purchase Plan of the MRP module.">Each product demand has its own status different than the status of the requisition. The statuses of the demands are:&#10;Open: The demand hasn't been yet fulfilled.&#10;Closed: Has been ordered enough products.&#10;Cancelled: The demand has been closed without ordering any product.&#10;Planned: The demand has been included in a Purchase Plan of the MRP module.</value>
+    <value column="Help" isTrl="N" original="Each product demand has its own status different than the status of the requisition. The statuses of the demands are:&#10;Open: The demand hasn't been yet fulfilled.&#10;Closed: Has been ordered enough products.&#10;Cancelled: The demand has been closed without ordering any product.&#10;Planned: The demand has been included in a Purchase Plan of the MRP module.">Each product demand has its own status different than the status of the requisition. The statuses of the demands are:
+Open: The demand hasn't been yet fulfilled.
+Closed: Has been ordered enough products.
+Cancelled: The demand has been closed without ordering any product.
+Planned: The demand has been included in a Purchase Plan of the MRP module.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1600,8 +1610,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1037" trl="N">
-    <value column="Name" isTrl="N" original="Movement Date">Дата перемещения</value>
-    <value column="PrintName" isTrl="N" original="Movement Date">Дата перемещения</value>
+    <value column="Name" isTrl="Y" original="Movement Date">Дата перемещения</value>
+    <value column="PrintName" isTrl="Y" original="Movement Date">Дата перемещения</value>
     <value column="Description" isTrl="N" original="The date that a certain item is moved from one location to another.">The date that a certain item is moved from one location to another.</value>
     <value column="Help" isTrl="N" original="The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.">The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5612,7 +5622,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="Name" isTrl="Y" original="Product Type">Тип товара</value>
     <value column="PrintName" isTrl="Y" original="Product Type">Тип товара</value>
     <value column="Description" isTrl="N" original="An important classification used to determine the accounting and management of a product.">An important classification used to determine the accounting and management of a product.</value>
-    <value column="Help" isTrl="N" original="There are four types of products available. Item type can be used to configure any product such as raw materials or finished products ready to be sold. An item can be flagged as Socked or not, can be part of a production process and/or can be a bill of materials. Item type is the only one for which a cost type calculation can be configured.  Service type can be used to configure consultancy, transport or insurance services. Service type can be purchased or sold but can not be stocked. A service can be a bill of materials. Finally Resource and Expense are product types which can be used to distinguish between different types of products which can be purchased or sold but make not sense to stock. Expense type can be used to configure travel expenses fto be used while reporting Employee Expenses.&#10;The fact of using a given product type does not mean a different accounting. All product types account same way while being purchased, stocked or sold. All of them use the ledger accounts defined in the Accounting tab of the Product window.">There are four types of products available. Item type can be used to configure any product such as raw materials or finished products ready to be sold. An item can be flagged as Socked or not, can be part of a production process and/or can be a bill of materials. Item type is the only one for which a cost type calculation can be configured.  Service type can be used to configure consultancy, transport or insurance services. Service type can be purchased or sold but can not be stocked. A service can be a bill of materials. Finally Resource and Expense are product types which can be used to distinguish between different types of products which can be purchased or sold but make not sense to stock. Expense type can be used to configure travel expenses fto be used while reporting Employee Expenses.&#10;The fact of using a given product type does not mean a different accounting. All product types account same way while being purchased, stocked or sold. All of them use the ledger accounts defined in the Accounting tab of the Product window.</value>
+    <value column="Help" isTrl="N" original="There are four types of products available. Item type can be used to configure any product such as raw materials or finished products ready to be sold. An item can be flagged as Socked or not, can be part of a production process and/or can be a bill of materials. Item type is the only one for which a cost type calculation can be configured.  Service type can be used to configure consultancy, transport or insurance services. Service type can be purchased or sold but can not be stocked. A service can be a bill of materials. Finally Resource and Expense are product types which can be used to distinguish between different types of products which can be purchased or sold but make not sense to stock. Expense type can be used to configure travel expenses fto be used while reporting Employee Expenses.&#10;The fact of using a given product type does not mean a different accounting. All product types account same way while being purchased, stocked or sold. All of them use the ledger accounts defined in the Accounting tab of the Product window.">There are four types of products available. Item type can be used to configure any product such as raw materials or finished products ready to be sold. An item can be flagged as Socked or not, can be part of a production process and/or can be a bill of materials. Item type is the only one for which a cost type calculation can be configured.  Service type can be used to configure consultancy, transport or insurance services. Service type can be purchased or sold but can not be stocked. A service can be a bill of materials. Finally Resource and Expense are product types which can be used to distinguish between different types of products which can be purchased or sold but make not sense to stock. Expense type can be used to configure travel expenses fto be used while reporting Employee Expenses.
+The fact of using a given product type does not mean a different accounting. All product types account same way while being purchased, stocked or sold. All of them use the ledger accounts defined in the Accounting tab of the Product window.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -7813,7 +7824,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="Name" isTrl="Y" original="Active">Активно</value>
     <value column="PrintName" isTrl="Y" original="Active">Активно</value>
     <value column="Description" isTrl="Y" original="A flag indicating whether this record is available for use or de-activated.">Флаг, указывающий что эта запись доступна для использования или неактивна.</value>
-    <value column="Help" isTrl="N" original="There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.">There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.</value>
+    <value column="Help" isTrl="N" original="There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.">There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records:
+(1) The system requires the record for auditing purposes.
+(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -8203,7 +8216,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="Name" isTrl="Y" original="Glossary">Словарь</value>
     <value column="PrintName" isTrl="Y" original="Glossary">Словарь</value>
     <value column="Description" isTrl="N" original="Part of gloassary">Part of gloassary</value>
-    <value column="Help" isTrl="N" original="This element is part of the glossary in wiki documentation.&#10;&#10;Glossary orphan elements are preserved when running Synchronize Terminology process.">This element is part of the glossary in wiki documentation.&#10;&#10;Glossary orphan elements are preserved when running Synchronize Terminology process.</value>
+    <value column="Help" isTrl="N" original="This element is part of the glossary in wiki documentation.&#10;&#10;Glossary orphan elements are preserved when running Synchronize Terminology process.">This element is part of the glossary in wiki documentation.
+
+Glossary orphan elements are preserved when running Synchronize Terminology process.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -9171,8 +9186,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="505" trl="N">
-    <value column="Name" isTrl="N" original="Phone">Телефон</value>
-    <value column="PrintName" isTrl="N" original="Phone">Телефон</value>
+    <value column="Name" isTrl="Y" original="Phone">Телефон</value>
+    <value column="PrintName" isTrl="Y" original="Phone">Телефон</value>
     <value column="Description" isTrl="N" original="A telephone number for a specified business partner.">A telephone number for a specified business partner.</value>
     <value column="Help" isTrl="N" original="The Phone field identifies a telephone number">The Phone field identifies a telephone number</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -12137,9 +12152,11 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="Name" isTrl="N" original="Payment Priority">Payment Priority</value>
     <value column="PrintName" isTrl="N" original="Payment Priority">Payment Priority</value>
     <value column="Description" isTrl="N" original="Sets the priority of the payment plans generated when processing the invoice or order.">Sets the priority of the payment plans generated when processing the invoice or order.</value>
-    <value column="Help" isTrl="N" original="Sets the priority of the payment plans generated when processing the invoice or order.&#10;The distribution algorithm will be driven by this priority. The pending payments for order or payments will be displayed ordered by the payment priority first and then by the due date.">Sets the priority of the payment plans generated when processing the invoice or order.&#10;The distribution algorithm will be driven by this priority. The pending payments for order or payments will be displayed ordered by the payment priority first and then by the due date.</value>
+    <value column="Help" isTrl="N" original="Sets the priority of the payment plans generated when processing the invoice or order.&#10;The distribution algorithm will be driven by this priority. The pending payments for order or payments will be displayed ordered by the payment priority first and then by the due date.">Sets the priority of the payment plans generated when processing the invoice or order.
+The distribution algorithm will be driven by this priority. The pending payments for order or payments will be displayed ordered by the payment priority first and then by the due date.</value>
     <value column="PO_Description" isTrl="N" original="Sets the priority of the payment plans generated when processing the invoice or order.">Sets the priority of the payment plans generated when processing the invoice or order.</value>
-    <value column="PO_Help" isTrl="N" original="Sets the priority of the payment plans generated when processing the invoice or order.&#10;The distribution algorithm will be driven by this priority. The pending payments for order or payments will be displayed ordered by the payment priority first and then by the due date.">Sets the priority of the payment plans generated when processing the invoice or order.&#10;The distribution algorithm will be driven by this priority. The pending payments for order or payments will be displayed ordered by the payment priority first and then by the due date.</value>
+    <value column="PO_Help" isTrl="N" original="Sets the priority of the payment plans generated when processing the invoice or order.&#10;The distribution algorithm will be driven by this priority. The pending payments for order or payments will be displayed ordered by the payment priority first and then by the due date.">Sets the priority of the payment plans generated when processing the invoice or order.
+The distribution algorithm will be driven by this priority. The pending payments for order or payments will be displayed ordered by the payment priority first and then by the due date.</value>
     <value column="PO_Name" isTrl="N" original="Payment Priority">Payment Priority</value>
     <value column="PO_PrintName" isTrl="N" original="Payment Priority">Payment Priority</value>
   </row>
@@ -18974,7 +18991,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="Name" isTrl="N" original="Property">Property</value>
     <value column="PrintName" isTrl="N" original="Property">Property</value>
     <value column="Description" isTrl="N" original="Configuration Property to assign value">Configuration Property to assign value</value>
-    <value column="Help" isTrl="N" original="It is the &quot;Configuration Property&quot; this record sets value to. &#10;&#10;Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.">It is the &quot;Configuration Property&quot; this record sets value to. &#10;&#10;Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.</value>
+    <value column="Help" isTrl="N" original="It is the &quot;Configuration Property&quot; this record sets value to. &#10;&#10;Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.">It is the "Configuration Property" this record sets value to.
+
+Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -20519,7 +20538,9 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="Name" isTrl="N" original="Apply Configuration Script">Apply Configuration Script</value>
     <value column="PrintName" isTrl="N" original="Apply Configuration Script">Apply Configuration Script</value>
     <value column="Description" isTrl="N" original="Apply the configuration script when building the application">Apply the configuration script when building the application</value>
-    <value column="Help" isTrl="N" original="This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. &#10;&#10;Note that this information is kept only in the instance but not it is not exported to the module.">This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. &#10;&#10;Note that this information is kept only in the instance but not it is not exported to the module.</value>
+    <value column="Help" isTrl="N" original="This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. &#10;&#10;Note that this information is kept only in the instance but not it is not exported to the module.">This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built.
+
+Note that this information is kept only in the instance but not it is not exported to the module.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -21018,8 +21039,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B151560F62703082E040007F01002081" trl="N">
-    <value column="Name" isTrl="N" original="Available Qty">Остаток кол-во</value>
-    <value column="PrintName" isTrl="N" original="Available Qty">Остаток кол-во</value>
+    <value column="Name" isTrl="Y" original="Available Qty">Остаток кол-во</value>
+    <value column="PrintName" isTrl="Y" original="Available Qty">Остаток кол-во</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Quantity available of the product in the storage bin">Quantity available of the product in the storage bin</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22182,7 +22203,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="Name" isTrl="N" original="Basis Amount">Basis Amount</value>
     <value column="PrintName" isTrl="N" original="Basis Amount">Basis Amount</value>
     <value column="Description" isTrl="N" original="The amount  that will take into account to calculate the commission: net amount or margin.   If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin.   If margin is selected, only the invoices that have shipments will take into account.</value>
-    <value column="Help" isTrl="N" original="The amount  that will take into account to calculate the commission: net amount or margin. &#10; If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin. &#10; If margin is selected, only the invoices that have shipments will take into account.</value>
+    <value column="Help" isTrl="N" original="The amount  that will take into account to calculate the commission: net amount or margin. &#10; If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin.
+ If margin is selected, only the invoices that have shipments will take into account.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
