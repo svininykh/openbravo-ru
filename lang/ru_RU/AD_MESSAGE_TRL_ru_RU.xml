@@ -1316,16 +1316,16 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="111" trl="N">
-    <value column="MsgText" isTrl="N" original="About">About</value>
+    <value column="MsgText" isTrl="Y" original="About">Описание</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="112" trl="N">
-    <value column="MsgText" isTrl="N" original="Access">Access</value>
+    <value column="MsgText" isTrl="Y" original="Access">Доступ</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="113" trl="N">
-    <value column="MsgText" isTrl="N" original="You cannot change the record">You cannot change the record</value>
-    <value column="MsgTip" isTrl="N" original="You don't have the privileges">You don't have the privileges</value>
+    <value column="MsgText" isTrl="Y" original="You cannot change the record">Вы не можете изменить запись</value>
+    <value column="MsgTip" isTrl="Y" original="You don't have the privileges">У вас недостаточно привилегий</value>
   </row>
   <row id="11314163807C4401B2964F93256597EA" trl="N">
     <value column="MsgText" isTrl="Y" original="Previous">Предыдущий</value>
@@ -1333,11 +1333,11 @@ Do you want to enable the Heartbeat?</value>
   </row>
   <row id="114" trl="N">
     <value column="MsgText" isTrl="Y" original="You cannot delete this record">Вы не можете удалить эту запись</value>
-    <value column="MsgTip" isTrl="N" original="You don't have the privileges">You don't have the privileges</value>
+    <value column="MsgTip" isTrl="Y" original="You don't have the privileges">У вас недостаточно привилегий</value>
   </row>
   <row id="115" trl="N">
     <value column="MsgText" isTrl="Y" original="You cannot insert a record">Вы не можете вставить эту запись</value>
-    <value column="MsgTip" isTrl="N" original="You don't have the privileges">You don't have the privileges</value>
+    <value column="MsgTip" isTrl="Y" original="You don't have the privileges">У вас недостаточно привилегий</value>
   </row>
   <row id="11509F0E2D6E4D4A96518FECB69A5B8F" trl="N">
     <value column="MsgText" isTrl="N" original="&lt;a href='http://www.openbravo.com/product/erp/get-basic' target='_blank'&gt;Learn how to&lt;/a&gt; activate your instance.">&lt;a href='http://www.openbravo.com/product/erp/get-basic' target='_blank'&gt;Learn how to&lt;/a&gt; activate your instance.</value>
@@ -1345,14 +1345,14 @@ Do you want to enable the Heartbeat?</value>
   </row>
   <row id="116" trl="N">
     <value column="MsgText" isTrl="Y" original="You cannot update this record">Вы не можете обновить эту запись</value>
-    <value column="MsgTip" isTrl="N" original="You don't have the privileges">You don't have the privileges</value>
+    <value column="MsgTip" isTrl="Y" original="You don't have the privileges">У вас недостаточно привилегий</value>
   </row>
   <row id="116AB3D795544212B785D0243B70B21F" trl="N">
     <value column="MsgText" isTrl="N" original="Record history for @elementname@: &quot;@recordidentifier@&quot;">Record history for @elementname@: "@recordidentifier@"</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="117" trl="N">
-    <value column="MsgText" isTrl="N" original="Client &amp; Organization Data">Client &amp; Organization Data</value>
+    <value column="MsgText" isTrl="Y" original="Client &amp; Organization Data">Данные Подключение &amp; Организация</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="118" trl="N">
@@ -1360,7 +1360,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="If not a transaction, you can deactivate the record with deselecting the 'Active' flag">If not a transaction, you can deactivate the record with deselecting the 'Active' flag</value>
   </row>
   <row id="119" trl="N">
-    <value column="MsgText" isTrl="N" original="Organization Data">Organization Data</value>
+    <value column="MsgText" isTrl="Y" original="Organization Data">Данные организации</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="120" trl="N">
