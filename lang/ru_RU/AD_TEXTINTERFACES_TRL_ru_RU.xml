@@ -278,10 +278,10 @@
     <value column="Text" isTrl="Y" original="Loading...">Загрузка...</value>
   </row>
   <row id="1000600026" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Selector">Invoice Selector</value>
+    <value column="Text" isTrl="Y" original="Invoice Selector">Подбор счёт-фактуры</value>
   </row>
   <row id="1000600027" trl="N">
-    <value column="Text" isTrl="N" original="Date of First Sale">Date of First Sale</value>
+    <value column="Text" isTrl="Y" original="Date of First Sale">Дата первой продажи</value>
   </row>
   <row id="1000600028" trl="N">
     <value column="Text" isTrl="N" original="Cal1 No.">Cal1 No.</value>
@@ -356,10 +356,10 @@
     <value column="Text" isTrl="Y" original="Loading...">Загрузка...</value>
   </row>
   <row id="1000600052" trl="N">
-    <value column="Text" isTrl="N" original="Order Selector">Order Selector</value>
+    <value column="Text" isTrl="Y" original="Order Selector">Подбор накладной</value>
   </row>
   <row id="1000600053" trl="N">
-    <value column="Text" isTrl="N" original="Date of First Sale">Date of First Sale</value>
+    <value column="Text" isTrl="Y" original="Date of First Sale">Дата первой продажи</value>
   </row>
   <row id="1000600054" trl="N">
     <value column="Text" isTrl="N" original="Share">Share</value>
@@ -371,10 +371,10 @@
     <value column="Text" isTrl="Y" original="Loading...">Загрузка...</value>
   </row>
   <row id="1000600057" trl="N">
-    <value column="Text" isTrl="N" original="Order Line selector">Order Line selector</value>
+    <value column="Text" isTrl="Y" original="Order Line selector">Подбор строки накладной</value>
   </row>
   <row id="1000600058" trl="N">
-    <value column="Text" isTrl="N" original="Date of First Sale">Date of First Sale</value>
+    <value column="Text" isTrl="Y" original="Date of First Sale">Дата первой продажи</value>
   </row>
   <row id="1000600059" trl="N">
     <value column="Text" isTrl="N" original="Share">Share</value>
@@ -2098,7 +2098,7 @@
     <value column="Text" isTrl="N" original="Project multiple selector">Project multiple selector</value>
   </row>
   <row id="7999A9481A39BDF6E040007F010054CB" trl="N">
-    <value column="Text" isTrl="N" original="Project Selector">Project Selector</value>
+    <value column="Text" isTrl="Y" original="Project Selector">Подбор проекта</value>
   </row>
   <row id="7999A9481A3ABDF6E040007F010054CB" trl="N">
     <value column="Text" isTrl="N" original="DataGrid">DataGrid</value>
@@ -2221,7 +2221,7 @@
     <value column="Text" isTrl="Y" original="Amount">Объём</value>
   </row>
   <row id="800199" trl="N">
-    <value column="Text" isTrl="N" original="Business Partner selector">Business Partner selector</value>
+    <value column="Text" isTrl="Y" original="Business Partner selector">Подбор контрагента</value>
   </row>
   <row id="800200" trl="N">
     <value column="Text" isTrl="Y" original="Name">Название</value>
@@ -3229,7 +3229,7 @@
     <value column="Text" isTrl="Y" original="Sales Order - Order Line">Расходная накладная - Строка накладной</value>
   </row>
   <row id="806048" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Line Selector">Invoice Line Selector</value>
+    <value column="Text" isTrl="Y" original="Invoice Line Selector">Подбор строки счёт-фактуры</value>
   </row>
   <row id="806124" trl="N">
     <value column="Text" isTrl="N" original="Shipment Receipt Selector">Shipment Receipt Selector</value>
@@ -3511,10 +3511,10 @@
     <value column="Text" isTrl="N" original="Attached to">Attached to</value>
   </row>
   <row id="807033" trl="N">
-    <value column="Text" isTrl="N" original="Attachment">Attachment</value>
+    <value column="Text" isTrl="Y" original="Attachment">Вложение</value>
   </row>
   <row id="807034" trl="N">
-    <value column="Text" isTrl="N" original="Attribute selector">Attribute selector</value>
+    <value column="Text" isTrl="Y" original="Attribute selector">Подбор характеристики</value>
   </row>
   <row id="807035" trl="N">
     <value column="Text" isTrl="Y" original="BALANCE">БАЛАНС</value>
@@ -3799,10 +3799,10 @@
     <value column="Text" isTrl="Y" original="HTML Format">HTML формат</value>
   </row>
   <row id="807170" trl="N">
-    <value column="Text" isTrl="N" original="Image Selector">Image Selector</value>
+    <value column="Text" isTrl="Y" original="Image Selector">Подбор изображения</value>
   </row>
   <row id="807171" trl="N">
-    <value column="Text" isTrl="N" original="Image selector">Image selector</value>
+    <value column="Text" isTrl="Y" original="Image selector">Подбор изображения</value>
   </row>
   <row id="807174" trl="N">
     <value column="Text" isTrl="N" original="Income">Income</value>
@@ -3811,10 +3811,10 @@
     <value column="Text" isTrl="N" original="Info">Info</value>
   </row>
   <row id="807183" trl="N">
-    <value column="Text" isTrl="N" original="Invoice No.">Invoice No.</value>
+    <value column="Text" isTrl="Y" original="Invoice No.">Счёт-фактура №</value>
   </row>
   <row id="807184" trl="N">
-    <value column="Text" isTrl="N" original="Invoice selector">Invoice selector</value>
+    <value column="Text" isTrl="Y" original="Invoice selector">Подбор изображения</value>
   </row>
   <row id="807185" trl="N">
     <value column="Text" isTrl="N" original="Invoiced sale orders report">Invoiced sale orders report</value>
@@ -3847,7 +3847,7 @@
     <value column="Text" isTrl="Y" original="Location">Расположение</value>
   </row>
   <row id="807198" trl="N">
-    <value column="Text" isTrl="N" original="Location selector">Location selector</value>
+    <value column="Text" isTrl="Y" original="Location selector">Подбор расположения</value>
   </row>
   <row id="807199" trl="N">
     <value column="Text" isTrl="N" original="Locator">Locator</value>
@@ -3907,13 +3907,13 @@
     <value column="Text" isTrl="Y" original="Order">Накладная</value>
   </row>
   <row id="807224" trl="N">
-    <value column="Text" isTrl="N" original="Order line selector">Order line selector</value>
+    <value column="Text" isTrl="Y" original="Order line selector">Подбор строки накладной</value>
   </row>
   <row id="807226" trl="N">
-    <value column="Text" isTrl="N" original="Order No.">Order No.</value>
+    <value column="Text" isTrl="Y" original="Order No.">Накладная №</value>
   </row>
   <row id="807227" trl="N">
-    <value column="Text" isTrl="N" original="Order selector">Order selector</value>
+    <value column="Text" isTrl="Y" original="Order selector">Подбор накладной</value>
   </row>
   <row id="807228" trl="N">
     <value column="Text" isTrl="N" original="Other units">Other units</value>
@@ -3979,19 +3979,19 @@
     <value column="Text" isTrl="Y" original="PRODUCT:">ТОВАР:</value>
   </row>
   <row id="807254" trl="N">
-    <value column="Text" isTrl="N" original="Product cat.">Product cat.</value>
+    <value column="Text" isTrl="Y" original="Product cat.">Категория товара</value>
   </row>
   <row id="807255" trl="Y">
     <value column="Text" isTrl="Y" original="Product Category">Категория товара</value>
   </row>
   <row id="807257" trl="N">
-    <value column="Text" isTrl="N" original="Product Group">Product Group</value>
+    <value column="Text" isTrl="Y" original="Product Group">Группа товара</value>
   </row>
   <row id="807260" trl="N">
-    <value column="Text" isTrl="N" original="Product Selector">Product Selector</value>
+    <value column="Text" isTrl="Y" original="Product Selector">Подбор товара</value>
   </row>
   <row id="807261" trl="N">
-    <value column="Text" isTrl="N" original="Product selector">Product selector</value>
+    <value column="Text" isTrl="Y" original="Product selector">Подбор товара</value>
   </row>
   <row id="807264" trl="Y">
     <value column="Text" isTrl="Y" original="Products">Товары</value>
@@ -4003,7 +4003,7 @@
     <value column="Text" isTrl="N" original="Project Profitability Report">Project Profitability Report</value>
   </row>
   <row id="807268" trl="N">
-    <value column="Text" isTrl="N" original="Project selector">Project selector</value>
+    <value column="Text" isTrl="Y" original="Project selector">Подбор проекта</value>
   </row>
   <row id="807272" trl="N">
     <value column="Text" isTrl="N" original="Providers">Providers</value>

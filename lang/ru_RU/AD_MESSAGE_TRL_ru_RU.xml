@@ -2789,7 +2789,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="362" trl="N">
-    <value column="MsgText" isTrl="N" original="* Not found *">* Not found *</value>
+    <value column="MsgText" isTrl="Y" original="* Not found *">* Не найден *</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="36291177ACFC462B9C745DB27CAF52D4" trl="N">
@@ -2809,11 +2809,11 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="364" trl="N">
-    <value column="MsgText" isTrl="N" original="Not Unique:">Not Unique:</value>
+    <value column="MsgText" isTrl="Y" original="Not Unique:">Не уникальный:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="364AD59665444A4AAF450F5FB59287FA" trl="N">
-    <value column="MsgText" isTrl="N" original="Enter your username and password.">Enter your username and password.</value>
+    <value column="MsgText" isTrl="Y" original="Enter your username and password.">Введите имя пользователя и пароль.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="365" trl="N">

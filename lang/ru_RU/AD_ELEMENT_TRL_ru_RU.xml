@@ -6830,9 +6830,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2179" trl="N">
-    <value column="Name" isTrl="N" original="Project Category">Project Category</value>
-    <value column="PrintName" isTrl="N" original="Project Category">Project Category</value>
-    <value column="Description" isTrl="N" original="Project Category">Project Category</value>
+    <value column="Name" isTrl="Y" original="Project Category">Категория проекта</value>
+    <value column="PrintName" isTrl="Y" original="Project Category">Категория проекта</value>
+    <value column="Description" isTrl="Y" original="Project Category">Категория проекта</value>
     <value column="Help" isTrl="N" original="The Project Category determines the behavior of the project:General - no special accounting, e.g. for Presales or general trackingService - no special accounting, e.g. for Service/Charge projectsWork Order - creates Project/Job WIP transactions - abili">The Project Category determines the behavior of the project:General - no special accounting, e.g. for Presales or general trackingService - no special accounting, e.g. for Service/Charge projectsWork Order - creates Project/Job WIP transactions - abili</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -6840,8 +6840,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="218" trl="N">
-    <value column="Name" isTrl="N" original="UOM for Length">UOM for Length</value>
-    <value column="PrintName" isTrl="N" original="UOM for Length">UOM for Length</value>
+    <value column="Name" isTrl="Y" original="UOM for Length">Ед. изм. длины</value>
+    <value column="PrintName" isTrl="Y" original="UOM for Length">Ед. изм. длины</value>
     <value column="Description" isTrl="N" original="Standard Unit of Measure for Length">Standard Unit of Measure for Length</value>
     <value column="Help" isTrl="N" original="The Standard UOM for Length indicates the UOM to use for products referenced by length in a document.">The Standard UOM for Length indicates the UOM to use for products referenced by length in a document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6850,10 +6850,10 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2180" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Order">Purchase Order</value>
-    <value column="PrintName" isTrl="N" original="Purchase Order">Purchase Order</value>
+    <value column="Name" isTrl="Y" original="Purchase Order">Приходная накладная</value>
+    <value column="PrintName" isTrl="Y" original="Purchase Order">Приходная накладная</value>
     <value column="Description" isTrl="N" original="An often automatically generated unique identifier for a purchase order.">An often automatically generated unique identifier for a purchase order.</value>
-    <value column="Help" isTrl="N" original="Purchase order">Purchase order</value>
+    <value column="Help" isTrl="Y" original="Purchase order">Приходная накладная</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -21970,8 +21970,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CE883E359962707CE040007F01002B1E" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Order Line">Purchase Order Line</value>
-    <value column="PrintName" isTrl="N" original="Purchase Order Line">Purchase Order Line</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Line">Строка приходной накладной</value>
+    <value column="PrintName" isTrl="Y" original="Purchase Order Line">Строка приходной накладной</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Identifies a Purchase Order Line">Identifies a Purchase Order Line</value>
     <value column="PO_Description" isTrl="N" original=""/>
