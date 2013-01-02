@@ -648,7 +648,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
   </row>
   <row id="800015" trl="N">
-    <value column="Name" isTrl="N" original="Data File Type">Data File Type</value>
+    <value column="Name" isTrl="Y" original="Data File Type">Формат файла данных</value>
     <value column="Description" isTrl="N" original="Create and edit formats for attached files (.pdf, .html)">Create and edit formats for attached files (.pdf, .html)</value>
     <value column="Help" isTrl="N" original="Create and edit formats for attached files (.pdf, .html)">Create and edit formats for attached files (.pdf, .html)</value>
   </row>
