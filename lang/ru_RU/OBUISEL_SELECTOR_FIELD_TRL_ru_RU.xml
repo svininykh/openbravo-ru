@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="OBUISEL_SELECTOR_FIELD" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="OBUISEL_SELECTOR_FIELD" version="0.2">
   <row id="082C760C3435477B9A20B9990749F6C7" trl="N">
-    <value column="Name" isTrl="N" original="Location">Location</value>
+    <value column="Name" isTrl="Y" original="Location">Расположение</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -11,12 +11,12 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1A3CADEA9ED94D039A6667599E0E63C0" trl="N">
-    <value column="Name" isTrl="N" original="Vendor">Vendor</value>
+    <value column="Name" isTrl="Y" original="Vendor">Поставщик</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1E2A8D7793C64421814CAD979FFBB1FB" trl="N">
-    <value column="Name" isTrl="N" original="Unit Price">Unit Price</value>
+    <value column="Name" isTrl="Y" original="Unit Price">Цена единицы</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -26,12 +26,12 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="32244F2B9B414FD4B3AB8607DC91EA3A" trl="N">
-    <value column="Name" isTrl="N" original="List Price">List Price</value>
+    <value column="Name" isTrl="Y" original="List Price">Цена прейскуранта</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="348E946313BF4336ABDA800BA68829CF" trl="N">
-    <value column="Name" isTrl="N" original="Category">Category</value>
+    <value column="Name" isTrl="Y" original="Category">Категория</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -51,12 +51,12 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="3E910632234C4C42AF49DCE8CC95A12B" trl="N">
-    <value column="Name" isTrl="N" original="Search Key">Search Key</value>
+    <value column="Name" isTrl="Y" original="Search Key">Код поиска</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4028E61131FB4B1B0131FB53BDDB0012" trl="N">
-    <value column="Name" isTrl="N" original="Contact">Contact</value>
+    <value column="Name" isTrl="Y" original="Contact">Контакт</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -81,17 +81,17 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4028E61131FB4B1B0131FB55C5640030" trl="N">
-    <value column="Name" isTrl="N" original="Customer Balance">Customer Balance</value>
+    <value column="Name" isTrl="Y" original="Customer Balance">Баланс клиента</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4028E61131FB4B1B0131FB5625760036" trl="N">
-    <value column="Name" isTrl="N" original="Name">Name</value>
+    <value column="Name" isTrl="Y" original="Name">Название</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4028E61131FB4B1B0131FB569247003C" trl="N">
-    <value column="Name" isTrl="N" original="Customer">Customer</value>
+    <value column="Name" isTrl="Y" original="Customer">Клиент</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -101,12 +101,12 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4028E61131FB4B1B0131FB5774570048" trl="N">
-    <value column="Name" isTrl="N" original="Location">Location</value>
+    <value column="Name" isTrl="Y" original="Location">Расположение</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4028E61131FB4B1B0131FB57E44B004E" trl="N">
-    <value column="Name" isTrl="N" original="Vendor">Vendor</value>
+    <value column="Name" isTrl="Y" original="Vendor">Поставщик</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -131,7 +131,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="5C49AEF18F02402180E472E45E58C776" trl="N">
-    <value column="Name" isTrl="N" original="Price Limit">Price Limit</value>
+    <value column="Name" isTrl="Y" original="Price Limit">Лимит цены</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -141,7 +141,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="681AD87159544997B999B254DD4F97EC" trl="N">
-    <value column="Name" isTrl="N" original="UOM">UOM</value>
+    <value column="Name" isTrl="Y" original="UOM">Ед.изм.</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -151,12 +151,12 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="797E2E6C7A6D4A349491B85A1C1ACB7D" trl="N">
-    <value column="Name" isTrl="N" original="Name">Name</value>
+    <value column="Name" isTrl="Y" original="Name">Название</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="7CA7330BA4864D2FB1FED44CDB88A622" trl="N">
-    <value column="Name" isTrl="N" original="Name">Name</value>
+    <value column="Name" isTrl="Y" original="Name">Название</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -166,17 +166,17 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="8AB5D5043894438B8AFDBC8491C8F692" trl="N">
-    <value column="Name" isTrl="N" original="Customer Balance">Customer Balance</value>
+    <value column="Name" isTrl="Y" original="Customer Balance">Баланс клиента</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="8E80548AE96B4932A482852994C13D4A" trl="N">
-    <value column="Name" isTrl="N" original="Customer Balance">Customer Balance</value>
+    <value column="Name" isTrl="Y" original="Customer Balance">Баланс клиента</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="9835921A3AA54B8D8D0126B3696F8354" trl="N">
-    <value column="Name" isTrl="N" original="Name">Name</value>
+    <value column="Name" isTrl="Y" original="Name">Название</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -191,7 +191,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="A246D4AC538E42BE9F0CD8182A558712" trl="N">
-    <value column="Name" isTrl="N" original="Customer">Customer</value>
+    <value column="Name" isTrl="Y" original="Customer">Клиент</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -201,7 +201,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="AF04AEFE8D914932819A7FE9DF0D8656" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse Qty.">Warehouse Qty.</value>
+    <value column="Name" isTrl="Y" original="Warehouse Qty.">Кол-во склада</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -221,22 +221,22 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="CA8DF8BBBDA34D5AB299E14E86320BC6" trl="N">
-    <value column="Name" isTrl="N" original="Customer">Customer</value>
+    <value column="Name" isTrl="Y" original="Customer">Покупатель</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="D56CFF8036B04B60BFC564E21856FB3D" trl="N">
-    <value column="Name" isTrl="N" original="Ordered Qty.">Ordered Qty.</value>
+    <value column="Name" isTrl="Y" original="Ordered Qty.">Кол-во заказа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="D5CD42F686A14DFA949052B99900D679" trl="N">
-    <value column="Name" isTrl="N" original="Product id">Product id</value>
+    <value column="Name" isTrl="Y" original="Product id">Код товара</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="D7DF368232B34336ACC82DB829649720" trl="N">
-    <value column="Name" isTrl="N" original="name">name</value>
+    <value column="Name" isTrl="Y" original="name">имя</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -246,22 +246,22 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="E2614E6C77B74F888D0D7C26DFAEDA1F" trl="N">
-    <value column="Name" isTrl="N" original="Currency">Currency</value>
+    <value column="Name" isTrl="Y" original="Currency">Валюта</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="E357F858B44C4203BFB7CF0B14B89626" trl="N">
-    <value column="Name" isTrl="N" original="Order UOM">Order UOM</value>
+    <value column="Name" isTrl="Y" original="Order UOM">Ед.изм. накладной</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="E6B0D69F192E4DEA88BFB260858C0F00" trl="N">
-    <value column="Name" isTrl="N" original="Unit Price">Unit Price</value>
+    <value column="Name" isTrl="Y" original="Unit Price">Цена единицы</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="EDADAD64A1634FDEA50343CE1AAAF1FB" trl="N">
-    <value column="Name" isTrl="N" original="ProductID">ProductID</value>
+    <value column="Name" isTrl="Y" original="ProductID">Код товара</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -271,27 +271,27 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="F476021BCB7E486AB4EF83C0E6936CFD" trl="N">
-    <value column="Name" isTrl="N" original="List Price">List Price</value>
+    <value column="Name" isTrl="Y" original="List Price">Цена прейскуранта</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="F91FD25B57A74BD587AEDB091A0FD53D" trl="N">
-    <value column="Name" isTrl="N" original="Vendor">Vendor</value>
+    <value column="Name" isTrl="Y" original="Vendor">Поставщик</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="F9AE747C37D1488C8683771629B6BD9E" trl="N">
-    <value column="Name" isTrl="N" original="Sales Price List">Sales Price List</value>
+    <value column="Name" isTrl="Y" original="Sales Price List">Прейскурант продаж</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FB43216FCC1A473AA41E051E567D9490" trl="N">
-    <value column="Name" isTrl="N" original="Contact">Contact</value>
+    <value column="Name" isTrl="Y" original="Contact">Контакт</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FEC924F6B1894D2092859C85342FF705" trl="N">
-    <value column="Name" isTrl="N" original="Price List Version">Price List Version</value>
+    <value column="Name" isTrl="Y" original="Price List Version">Версия прейскуранта</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

@@ -2812,7 +2812,7 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1270" trl="N">
-    <value column="Name" isTrl="N" original="Comments">Comments</value>
+    <value column="Name" isTrl="Y" original="Comments">Комментарии</value>
     <value column="PrintName" isTrl="N" original="Info">Info</value>
     <value column="Description" isTrl="N" original="A space to write additional related information.">A space to write additional related information.</value>
     <value column="Help" isTrl="N" original="The Information displays data from the source document line.">The Information displays data from the source document line.</value>
@@ -5169,7 +5169,7 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1762" trl="N">
-    <value column="Name" isTrl="N" original="Available">Available</value>
+    <value column="Name" isTrl="Y" original="Available">Доступен</value>
     <value column="PrintName" isTrl="N" original="Available">Available</value>
     <value column="Description" isTrl="N" original="Resource is available">Resource is available</value>
     <value column="Help" isTrl="N" original="Resource is available for assignments">Resource is available for assignments</value>
@@ -5219,8 +5219,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1769" trl="N">
-    <value column="Name" isTrl="N" original="Friday">Friday</value>
-    <value column="PrintName" isTrl="N" original="Fr">Fr</value>
+    <value column="Name" isTrl="Y" original="Friday">Пятница</value>
+    <value column="PrintName" isTrl="Y" original="Fr">Пт</value>
     <value column="Description" isTrl="N" original="Available on Fridays">Available on Fridays</value>
     <value column="Help" isTrl="N" original="Available on Fridays">Available on Fridays</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5239,8 +5239,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1770" trl="N">
-    <value column="Name" isTrl="N" original="Monday">Monday</value>
-    <value column="PrintName" isTrl="N" original="Mo">Mo</value>
+    <value column="Name" isTrl="Y" original="Monday">Понедельник</value>
+    <value column="PrintName" isTrl="Y" original="Mo">Пн</value>
     <value column="Description" isTrl="N" original="Available on Mondays">Available on Mondays</value>
     <value column="Help" isTrl="N" original="Available on Mondays">Available on Mondays</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5249,8 +5249,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1771" trl="N">
-    <value column="Name" isTrl="N" original="Saturday">Saturday</value>
-    <value column="PrintName" isTrl="N" original="Sa">Sa</value>
+    <value column="Name" isTrl="Y" original="Saturday">Суббота</value>
+    <value column="PrintName" isTrl="Y" original="Sa">Сб</value>
     <value column="Description" isTrl="N" original="Available on Saturday">Available on Saturday</value>
     <value column="Help" isTrl="N" original="Available on Saturday">Available on Saturday</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5259,8 +5259,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1772" trl="N">
-    <value column="Name" isTrl="N" original="Sunday">Sunday</value>
-    <value column="PrintName" isTrl="N" original="Su">Su</value>
+    <value column="Name" isTrl="Y" original="Sunday">Воскресенье</value>
+    <value column="PrintName" isTrl="Y" original="Su">Вс</value>
     <value column="Description" isTrl="N" original="Available on Sundays">Available on Sundays</value>
     <value column="Help" isTrl="N" original="Available on Sundays">Available on Sundays</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5269,8 +5269,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1773" trl="N">
-    <value column="Name" isTrl="N" original="Thursday">Thursday</value>
-    <value column="PrintName" isTrl="N" original="Th">Th</value>
+    <value column="Name" isTrl="Y" original="Thursday">Четверг</value>
+    <value column="PrintName" isTrl="Y" original="Th">Чт</value>
     <value column="Description" isTrl="N" original="Available on Thursdays">Available on Thursdays</value>
     <value column="Help" isTrl="N" original="Available on Thursdays">Available on Thursdays</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5279,8 +5279,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1774" trl="N">
-    <value column="Name" isTrl="N" original="Tuesday">Tuesday</value>
-    <value column="PrintName" isTrl="N" original="Tu">Tu</value>
+    <value column="Name" isTrl="Y" original="Tuesday">Вторник</value>
+    <value column="PrintName" isTrl="Y" original="Tu">Вт</value>
     <value column="Description" isTrl="N" original="Available on Tuesdays">Available on Tuesdays</value>
     <value column="Help" isTrl="N" original="Available on Tuesdays">Available on Tuesdays</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5289,8 +5289,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1775" trl="N">
-    <value column="Name" isTrl="N" original="Wednesday">Wednesday</value>
-    <value column="PrintName" isTrl="N" original="We">We</value>
+    <value column="Name" isTrl="Y" original="Wednesday">Среда</value>
+    <value column="PrintName" isTrl="Y" original="We">Ср</value>
     <value column="Description" isTrl="N" original="Available on Wednesdays">Available on Wednesdays</value>
     <value column="Help" isTrl="N" original="Available on Wednesdays">Available on Wednesdays</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7019,8 +7019,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="230" trl="N">
-    <value column="Name" isTrl="N" original="Comments">Comments</value>
-    <value column="PrintName" isTrl="N" original="Comments">Comments</value>
+    <value column="Name" isTrl="Y" original="Comments">Комментарии</value>
+    <value column="PrintName" isTrl="Y" original="Comments">Комментарии</value>
     <value column="Description" isTrl="N" original="A space to write additional related information.">A space to write additional related information.</value>
     <value column="Help" isTrl="N" original="The Comments field allows for free form entry of additional information.">The Comments field allows for free form entry of additional information.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -15961,7 +15961,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800506" trl="N">
-    <value column="Name" isTrl="N" original="Comments">Comments</value>
+    <value column="Name" isTrl="Y" original="Comments">Комментарии</value>
     <value column="PrintName" isTrl="N" original="Observation">Observation</value>
     <value column="Description" isTrl="N" original="A space to write additional related information.">A space to write additional related information.</value>
     <value column="Help" isTrl="N" original="Observations occurred during the process or operation.">Observations occurred during the process or operation.</value>
@@ -20578,8 +20578,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="9BAF826C681D1754E040007F0100241B" trl="N">
-    <value column="Name" isTrl="N" original="Available">Available</value>
-    <value column="PrintName" isTrl="N" original="Available">Available</value>
+    <value column="Name" isTrl="Y" original="Available">Остаток кол-во</value>
+    <value column="PrintName" isTrl="Y" original="Available">Остаток кол-во</value>
     <value column="Description" isTrl="N" original="Quantity of products available">Quantity of products available</value>
     <value column="Help" isTrl="N" original="Available quantity of products">Available quantity of products</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20638,8 +20638,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="9F815073C39E4506A1C74BB3667C6B57" trl="N">
-    <value column="Name" isTrl="N" original="Unit Price">Unit Price</value>
-    <value column="PrintName" isTrl="N" original="Unit Price">Unit Price</value>
+    <value column="Name" isTrl="Y" original="Unit Price">Цена за единицу</value>
+    <value column="PrintName" isTrl="Y" original="Unit Price">Цена за единицу</value>
     <value column="Description" isTrl="N" original="The price that will be paid for a specified item.">The price that will be paid for a specified item.</value>
     <value column="Help" isTrl="N" original="The actual price indicates the price for a product in source currency.">The actual price indicates the price for a product in source currency.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21018,8 +21018,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B151560F62703082E040007F01002081" trl="N">
-    <value column="Name" isTrl="N" original="Available Qty">Available Qty</value>
-    <value column="PrintName" isTrl="N" original="Available Qty">Available Qty</value>
+    <value column="Name" isTrl="N" original="Available Qty">Остаток кол-во</value>
+    <value column="PrintName" isTrl="N" original="Available Qty">Остаток кол-во</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Quantity available of the product in the storage bin">Quantity available of the product in the storage bin</value>
     <value column="PO_Description" isTrl="N" original=""/>

@@ -845,7 +845,7 @@
     <value column="Text" isTrl="N" original="To Project Ending Date">To Project Ending Date</value>
   </row>
   <row id="1005900016" trl="N">
-    <value column="Text" isTrl="N" original="Comments:">Comments:</value>
+    <value column="Text" isTrl="Y" original="Comments:">Комментарии:</value>
   </row>
   <row id="1005900017" trl="N">
     <value column="Text" isTrl="N" original="Reference Date:">Reference Date:</value>
@@ -887,7 +887,7 @@
     <value column="Text" isTrl="N" original="Opening Entry Amount to Initial Balance">Opening Entry Amount to Initial Balance</value>
   </row>
   <row id="11BB4C748D6A43B5A8C64950A2730ED6" trl="N">
-    <value column="Text" isTrl="N" original="[ Show More Fields ]">[ Show More Fields ]</value>
+    <value column="Text" isTrl="Y" original="[ Show More Fields ]">[ Показать больше полей ]</value>
   </row>
   <row id="1239DDC8CC1D46DFA50936AB7B448DC5" trl="N">
     <value column="Text" isTrl="N" original="docName">docName</value>
@@ -4084,7 +4084,7 @@
     <value column="Text" isTrl="N" original="Refunds">Refunds</value>
   </row>
   <row id="807302" trl="N">
-    <value column="Text" isTrl="N" original="Region">Region</value>
+    <value column="Text" isTrl="Y" original="Region">Регион</value>
   </row>
   <row id="807303" trl="N">
     <value column="Text" isTrl="N" original="Report Pending Production">Report Pending Production</value>
@@ -4447,7 +4447,7 @@
     <value column="Text" isTrl="N" original="Done:">Done:</value>
   </row>
   <row id="807980" trl="N">
-    <value column="Text" isTrl="N" original="Available">Available</value>
+    <value column="Text" isTrl="N" original="Available">Доступно</value>
   </row>
   <row id="807981" trl="N">
     <value column="Text" isTrl="N" original="Required">Required</value>
@@ -5395,7 +5395,7 @@
     <value column="Text" isTrl="N" original="Product hours:">Product hours:</value>
   </row>
   <row id="A5A7EADED6854E2A917BF8763DC0F950" trl="N">
-    <value column="Text" isTrl="N" original="Available credit">Available credit</value>
+    <value column="Text" isTrl="Y" original="Available credit">Наличие кредита</value>
   </row>
   <row id="A5DF7BC1C6C440048652EE5AEE8E55D2" trl="N">
     <value column="Text" isTrl="N" original="A. %">A. %</value>

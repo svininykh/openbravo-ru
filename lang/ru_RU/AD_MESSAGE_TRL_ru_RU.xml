@@ -1724,7 +1724,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="183" trl="N">
-    <value column="MsgText" isTrl="N" original="Contact">Contact</value>
+    <value column="MsgText" isTrl="Y" original="Contact">Контакт</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="184" trl="N">
@@ -3289,11 +3289,11 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="448" trl="N">
-    <value column="MsgText" isTrl="N" original="Available">Available</value>
+    <value column="MsgText" isTrl="Y" original="Available">Доступно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="449" trl="N">
-    <value column="MsgText" isTrl="N" original="Quantity">Quantity</value>
+    <value column="MsgText" isTrl="Y" original="Quantity">Кол-во</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="450" trl="N">
