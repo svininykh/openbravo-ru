@@ -1259,8 +1259,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005500005" trl="N">
-    <value column="Name" isTrl="N" original="IBAN Code">IBAN Code</value>
-    <value column="PrintName" isTrl="N" original="IBAN Code">IBAN Code</value>
+    <value column="Name" isTrl="Y" original="IBAN Code">IBAN код</value>
+    <value column="PrintName" isTrl="Y" original="IBAN Code">IBAN код</value>
     <value column="Description" isTrl="N" original="Country Code asigned to a country in the IBAN structure.">Country Code asigned to a country in the IBAN structure.</value>
     <value column="Help" isTrl="N" original="Then International Bank Account Number structure stablish that the first two digits will belong to the country. This country code is the one associated to a country of the application in this field.">Then International Bank Account Number structure stablish that the first two digits will belong to the country. This country code is the one associated to a country of the application in this field.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1269,8 +1269,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005500006" trl="N">
-    <value column="Name" isTrl="N" original="IBAN Length">IBAN Length</value>
-    <value column="PrintName" isTrl="N" original="IBAN Code Length">IBAN Code Length</value>
+    <value column="Name" isTrl="Y" original="IBAN Length">Разрядность IBAN</value>
+    <value column="PrintName" isTrl="Y" original="IBAN Code Length">Разрядность IBAN</value>
     <value column="Description" isTrl="N" original="The length of the IBAN code of a bank account is variable, depending on the country.">The length of the IBAN code of a bank account is variable, depending on the country.</value>
     <value column="Help" isTrl="N" original="Then International Bank Account Number structure do not stablish a specific length: it depends on the country. This field will define the length of the IBAN codes for that country.">Then International Bank Account Number structure do not stablish a specific length: it depends on the country. This field will define the length of the IBAN codes for that country.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7080,8 +7080,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="242" trl="N">
-    <value column="Name" isTrl="N" original="Costing Precision">Costing Precision</value>
-    <value column="PrintName" isTrl="N" original="Costing Precision">Costing Precision</value>
+    <value column="Name" isTrl="Y" original="Costing Precision">Десятичная точка в себестоимости</value>
+    <value column="PrintName" isTrl="Y" original="Costing Precision">Десятичная точка в себестоимости</value>
     <value column="Description" isTrl="N" original="Rounding used costing calculations">Rounding used costing calculations</value>
     <value column="Help" isTrl="N" original="The Costing Precision defines the number of decimal places that amounts will be rounded to when performing costing calculations.">The Costing Precision defines the number of decimal places that amounts will be rounded to when performing costing calculations.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7360,8 +7360,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="285" trl="N">
-    <value column="Name" isTrl="N" original="Address Print Format">Address Print Format</value>
-    <value column="PrintName" isTrl="N" original="Address Print Format">Address Print Format</value>
+    <value column="Name" isTrl="Y" original="Address Print Format">Формат печати адреса</value>
+    <value column="PrintName" isTrl="Y" original="Address Print Format">Формат печати адреса</value>
     <value column="Description" isTrl="N" original="Format for printing this Address">Format for printing this Address</value>
     <value column="Help" isTrl="N" original="The Address Print format defines the format to be used when this address prints.  The following notations are used: @C@=City  @P@=Postal  @A@=PostalAdd  @R@=Region">The Address Print format defines the format to be used when this address prints.  The following notations are used: @C@=City  @P@=Postal  @A@=PostalAdd  @R@=Region</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7441,20 +7441,20 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="298" trl="N">
-    <value column="Name" isTrl="N" original="Phone No. Format">Phone No. Format</value>
-    <value column="PrintName" isTrl="N" original="Phone Format">Phone Format</value>
-    <value column="Description" isTrl="N" original="Phone Format">Phone Format</value>
-    <value column="Help" isTrl="N" original="Phone Format">Phone Format</value>
+    <value column="Name" isTrl="Y" original="Phone No. Format">Формат телефонного номера</value>
+    <value column="PrintName" isTrl="Y" original="Phone Format">Формат телефонного номера</value>
+    <value column="Description" isTrl="Y" original="Phone Format">Формат телефонного номера</value>
+    <value column="Help" isTrl="Y" original="Phone Format">Формат телефонного номера</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="299" trl="N">
-    <value column="Name" isTrl="N" original="Postal Code Format">Postal Code Format</value>
-    <value column="PrintName" isTrl="N" original="Postal code Format">Postal code Format</value>
-    <value column="Description" isTrl="N" original="Postal code Format">Postal code Format</value>
-    <value column="Help" isTrl="N" original="Postal code Format">Postal code Format</value>
+    <value column="Name" isTrl="Y" original="Postal Code Format">Формат почтового индекса</value>
+    <value column="PrintName" isTrl="Y" original="Postal code Format">Формат почтового индекса</value>
+    <value column="Description" isTrl="Y" original="Postal code Format">Формат почтового индекса</value>
+    <value column="Help" isTrl="Y" original="Postal code Format">Формат почтового индекса</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -7521,10 +7521,10 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="300" trl="N">
-    <value column="Name" isTrl="N" original="Additional Postal Format">Additional Postal Format</value>
-    <value column="PrintName" isTrl="N" original="Additional Postal Format">Additional Postal Format</value>
-    <value column="Description" isTrl="N" original="Additional Postal Format">Additional Postal Format</value>
-    <value column="Help" isTrl="N" original="Additional Postal Format">Additional Postal Format</value>
+    <value column="Name" isTrl="Y" original="Additional Postal Format">Формат дополнительного индекса</value>
+    <value column="PrintName" isTrl="Y" original="Additional Postal Format">Формат дополнительного индекса</value>
+    <value column="Description" isTrl="Y" original="Additional Postal Format">Формат дополнительного индекса</value>
+    <value column="Help" isTrl="Y" original="Additional Postal Format">Формат дополнительного индекса</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -7671,8 +7671,8 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original="Payment Out Run Status">Payment Out Run Status</value>
   </row>
   <row id="323" trl="N">
-    <value column="Name" isTrl="N" original="Additional Postal Code">Additional Postal Code</value>
-    <value column="PrintName" isTrl="N" original="Additional Postal code">Additional Postal code</value>
+    <value column="Name" isTrl="Y" original="Additional Postal Code">Дополнительный почтовый индекс</value>
+    <value column="PrintName" isTrl="Y" original="Additional Postal code">Дополнительный почтовый индекс</value>
     <value column="Description" isTrl="N" original="Has Additional Postal Code">Has Additional Postal Code</value>
     <value column="Help" isTrl="N" original="The Additional Postal Code checkbox indicates if this address uses an additional Postal Code.  If it is selected an additional field displays for entry of the additional Postal Code.">The Additional Postal Code checkbox indicates if this address uses an additional Postal Code.  If it is selected an additional field displays for entry of the additional Postal Code.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7681,9 +7681,9 @@ You find the current status in the Document Status field. The options are listed
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="324" trl="N">
-    <value column="Name" isTrl="N" original="Has Regions">Has Regions</value>
-    <value column="PrintName" isTrl="N" original="Country has Region">Country has Region</value>
-    <value column="Description" isTrl="N" original="Country contains Regions">Country contains Regions</value>
+    <value column="Name" isTrl="Y" original="Has Regions">Есть регионы</value>
+    <value column="PrintName" isTrl="Y" original="Country has Region">Страна имеет регионы</value>
+    <value column="Description" isTrl="Y" original="Country contains Regions">Страна имеет регионы</value>
     <value column="Help" isTrl="N" original="The Country has Region checkbox is selected if the Country being defined is divided into regions.  If this checkbox is selected, the Region Tab is accessible.">The Country has Region checkbox is selected if the Country being defined is divided into regions.  If this checkbox is selected, the Region Tab is accessible.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10176,8 +10176,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="560E22375F1DFE66E040007F01002367" trl="N">
-    <value column="Name" isTrl="N" original="Currency symbol at the right">Currency symbol at the right</value>
-    <value column="PrintName" isTrl="N" original="Currency symbol at the right">Currency symbol at the right</value>
+    <value column="Name" isTrl="Y" original="Currency symbol at the right">Символ валюты справа</value>
+    <value column="PrintName" isTrl="Y" original="Currency symbol at the right">Символ валюты справа</value>
     <value column="Description" isTrl="N" original="Indicates if the currency symbol is at the right side of the amount">Indicates if the currency symbol is at the right side of the amount</value>
     <value column="Help" isTrl="N" original="A mean to indicate if the currency symbol ($, €, ¥, ...) is placed at the right side of the amount or not. Its default value is 'No'.">A mean to indicate if the currency symbol ($, €, ¥, ...) is placed at the right side of the amount or not. Its default value is 'No'.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10737,8 +10737,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="577" trl="N">
-    <value column="Name" isTrl="N" original="Standard Precision">Standard Precision</value>
-    <value column="PrintName" isTrl="N" original="Standard Precision">Standard Precision</value>
+    <value column="Name" isTrl="Y" original="Standard Precision">Десятичная точка стандартно</value>
+    <value column="PrintName" isTrl="Y" original="Standard Precision">Десятичная точка стандартно</value>
     <value column="Description" isTrl="N" original="Rule for rounding  calculated amounts">Rule for rounding  calculated amounts</value>
     <value column="Help" isTrl="N" original="The Standard Precision defines the number of decimal places that amounts will be rounded to for accounting transactions and documents.">The Standard Precision defines the number of decimal places that amounts will be rounded to for accounting transactions and documents.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13708,9 +13708,9 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800050" trl="N">
-    <value column="Name" isTrl="N" original="Price Precision">Price Precision</value>
-    <value column="PrintName" isTrl="N" original="Price precision">Price precision</value>
-    <value column="Description" isTrl="N" original="Price precision">Price precision</value>
+    <value column="Name" isTrl="N" original="Price Precision">Десятичная точка в цене</value>
+    <value column="PrintName" isTrl="N" original="Price precision">Десятичная точка в цене</value>
+    <value column="Description" isTrl="N" original="Price precision">Десятичная точка в цене</value>
     <value column="Help" isTrl="N" original="Defines the number of decimal positions that the prices are displayed with.">Defines the number of decimal positions that the prices are displayed with.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>

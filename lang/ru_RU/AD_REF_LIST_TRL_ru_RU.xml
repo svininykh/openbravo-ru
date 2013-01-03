@@ -2165,11 +2165,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="543" trl="N">
-    <value column="Name" isTrl="N" original="Online">Online</value>
+    <value column="Name" isTrl="Y" original="Online">На линии</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="544" trl="N">
-    <value column="Name" isTrl="N" original="Currency Precision">Currency Precision</value>
+    <value column="Name" isTrl="Y" original="Currency Precision">Десятичная точка валюты</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="545" trl="N">
@@ -2181,7 +2181,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="547" trl="N">
-    <value column="Name" isTrl="N" original="Year Balance">Year Balance</value>
+    <value column="Name" isTrl="Y" original="Year Balance">Годовой баланс</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="548" trl="N">
