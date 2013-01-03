@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_PROCESS" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_PROCESS" version="0.2">
   <row id="12016E2EDE0245B5A36B84CBA144DBDF" trl="N">
     <value column="Name" isTrl="N" original="Add Details">Add Details</value>
     <value column="Description" isTrl="N" original=""/>
@@ -76,8 +76,8 @@
     <value column="Help" isTrl="N" original="Java class to process the Payment Proposals">Java class to process the Payment Proposals</value>
   </row>
   <row id="D5B90B539C254B959045EDCA1DC99BDF" trl="N">
-    <value column="Name" isTrl="N" original="Payment Monitor">Payment Monitor</value>
-    <value column="Description" isTrl="N" original="Payment Monitor">Payment Monitor</value>
+    <value column="Name" isTrl="Y" original="Payment Monitor">Отслеживание платежа</value>
+    <value column="Description" isTrl="Y" original="Payment Monitor">Отслеживание платежа</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="DC23BB9234174E52879E4B21C8CD1F4B" trl="N">
