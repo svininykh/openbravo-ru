@@ -12492,9 +12492,9 @@ Commercial modules can have a fee to be payed before they can be installed.</val
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7399CFDCF5BB2DD0E040007F0101239A" trl="N">
-    <value column="Name" isTrl="N" original="Reversed Invoice">Reversed Invoice</value>
-    <value column="PrintName" isTrl="N" original="Reversed Invoice">Reversed Invoice</value>
-    <value column="Description" isTrl="N" original="Reversed Invoice">Reversed Invoice</value>
+    <value column="Name" isTrl="Y" original="Reversed Invoice">Возвратная счёт-фактура</value>
+    <value column="PrintName" isTrl="Y" original="Reversed Invoice">Возвратная счёт-фактура</value>
+    <value column="Description" isTrl="Y" original="Reversed Invoice">Возвратная счёт-фактура</value>
     <value column="Help" isTrl="N" original="Reversed Invoice is always associated with another invoice">Reversed Invoice is always associated with another invoice</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -12502,10 +12502,10 @@ Commercial modules can have a fee to be payed before they can be installed.</val
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7399EE9782487B10E040007F0101315C" trl="N">
-    <value column="Name" isTrl="N" original="Reversed Invoice">Reversed Invoice</value>
-    <value column="PrintName" isTrl="N" original="Reversed Invoice">Reversed Invoice</value>
-    <value column="Description" isTrl="N" original="Reversed Invoice">Reversed Invoice</value>
-    <value column="Help" isTrl="N" original="Reversed Invoice">Reversed Invoice</value>
+    <value column="Name" isTrl="Y" original="Reversed Invoice">Возвратная счёт-фактура</value>
+    <value column="PrintName" isTrl="Y" original="Reversed Invoice">Возвратная счёт-фактура</value>
+    <value column="Description" isTrl="Y" original="Reversed Invoice">Возвратная счёт-фактура</value>
+    <value column="Help" isTrl="Y" original="Reversed Invoice">Возвратная счёт-фактура</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -13134,18 +13134,18 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7FF22347490A844FE040007F01003861" trl="N">
-    <value column="Name" isTrl="N" original="Payment No.">Payment No.</value>
-    <value column="PrintName" isTrl="N" original="Payment No.">Payment No.</value>
+    <value column="Name" isTrl="Y" original="Payment No.">Платёж №</value>
+    <value column="PrintName" isTrl="Y" original="Payment No.">Платёж №</value>
     <value column="Description" isTrl="N" original="Payment Number">Payment Number</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original="Payment Number">Payment Number</value>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original="Payment No.">Payment No.</value>
-    <value column="PO_PrintName" isTrl="N" original="Payment No.">Payment No.</value>
+    <value column="PO_Name" isTrl="Y" original="Payment No.">Платёж №</value>
+    <value column="PO_PrintName" isTrl="Y" original="Payment No.">Платёж №</value>
   </row>
   <row id="7FF22347490B844FE040007F01003861" trl="N">
-    <value column="Name" isTrl="N" original="Invoice No.">Invoice No.</value>
-    <value column="PrintName" isTrl="N" original="Invoice No.">Invoice No.</value>
+    <value column="Name" isTrl="N" original="Invoice No.">Cчёт-фактура №</value>
+    <value column="PrintName" isTrl="N" original="Invoice No.">Cчёт-фактура №</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13154,14 +13154,14 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7FF22347490C844FE040007F01003861" trl="N">
-    <value column="Name" isTrl="N" original="Order No.">Order No.</value>
-    <value column="PrintName" isTrl="N" original="Order No.">Order No.</value>
+    <value column="Name" isTrl="Y" original="Order No.">Накладная №</value>
+    <value column="PrintName" isTrl="Y" original="Order No.">Накладная №</value>
     <value column="Description" isTrl="N" original="Order Number">Order Number</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original="Order Number">Order Number</value>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original="Order No.">Order No.</value>
-    <value column="PO_PrintName" isTrl="N" original="Order No.">Order No.</value>
+    <value column="PO_Name" isTrl="Y" original="Order No.">Накладная №</value>
+    <value column="PO_PrintName" isTrl="Y" original="Order No.">Накладная №</value>
   </row>
   <row id="7FF2C24C5675E74CE040007F010060F2" trl="N">
     <value column="Name" isTrl="N" original="Payment Schedule Detail">Payment Schedule Detail</value>
