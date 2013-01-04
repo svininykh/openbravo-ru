@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_FORM" version="0.1">
   <row id="100" trl="N">
-    <value column="Name" isTrl="Y" original="Create Invoices from Orders">Создать счёт-фактуры по накладным</value>
+    <value column="Name" isTrl="Y" original="Create Invoices from Orders">Создать счёт-фактуры по заказам</value>
     <value column="Description" isTrl="N" original="Create invoices for all processed sales orders/goods shipments that have not been invoiced.">Create invoices for all processed sales orders/goods shipments that have not been invoiced.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>

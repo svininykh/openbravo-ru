@@ -181,8 +181,8 @@
     <value column="Help" isTrl="N" original="Supplier invoice number associated with the payment, i.e., which of the supplier’s invoices you are paying">Supplier invoice number associated with the payment, i.e., which of the supplier’s invoices you are paying</value>
   </row>
   <row id="3363" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order Line">Строка приходной накладной</value>
-    <value column="Description" isTrl="Y" original="Purchase Order Line">Строка приходной накладной</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Line">Строка заказа поставщику</value>
+    <value column="Description" isTrl="Y" original="Purchase Order Line">Строка заказа поставщику</value>
     <value column="Help" isTrl="N" original="The Purchase Order Line is a unique identifier for a line in an order.">The Purchase Order Line is a unique identifier for a line in an order.</value>
   </row>
   <row id="3395" trl="N">
@@ -196,8 +196,8 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="3521" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order Line">Строка приходной накладной</value>
-    <value column="Description" isTrl="Y" original="Purchase Order Line">Строка приходной накладной</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Line">Строка заказа поставщику</value>
+    <value column="Description" isTrl="Y" original="Purchase Order Line">Строка заказа поставщику</value>
     <value column="Help" isTrl="N" original="The Purchase Order Line is a unique identifier for a line in an order.">The Purchase Order Line is a unique identifier for a line in an order.</value>
   </row>
   <row id="3742" trl="N">
@@ -651,7 +651,7 @@
     <value column="Help" isTrl="N" original="The Payment Rule indicates the method of purchase payment.">The Payment Rule indicates the method of purchase payment.</value>
   </row>
   <row id="801507" trl="N">
-    <value column="Name" isTrl="Y" original="PO Payment Term">Условия оплаты приходной накладной</value>
+    <value column="Name" isTrl="Y" original="PO Payment Term">Условия оплаты заказа поставщику</value>
     <value column="Description" isTrl="N" original="Payment rules for a purchase order">Payment rules for a purchase order</value>
     <value column="Help" isTrl="N" original="The PO Payment Term indicates the payment term that will be used when this purchase order becomes an invoice.">The PO Payment Term indicates the payment term that will be used when this purchase order becomes an invoice.</value>
   </row>
@@ -1024,7 +1024,7 @@
   </row>
   <row id="DF28D00022F846ADA026758669AA1841" trl="N">
     <value column="Name" isTrl="Y" original="Return to Vendor line">Строка возврата поставщику</value>
-    <value column="Description" isTrl="Y" original="Purchase Order Line">Строка приходной накладной для возврата поставщику.</value>
+    <value column="Description" isTrl="Y" original="Purchase Order Line">Строка заказа поставщика для возврата.</value>
     <value column="Help" isTrl="N" original="The Purchase Order Line is a unique identifier for a line in an order.">The Purchase Order Line is a unique identifier for a line in an order.</value>
   </row>
   <row id="E28A115E25D44BB181D8D34CB55E0A1B" trl="N">

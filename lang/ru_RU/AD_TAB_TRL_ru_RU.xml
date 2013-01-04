@@ -122,7 +122,7 @@
   <row id="1004400002" trl="N">
     <value column="Name" isTrl="Y" original="Lines">Строки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="Y" original="Add products to be included in your requisition.  Each product is added by creating a line.">Добавить товары для вашей расходной накладной. Каждый товар добавляется в созданную строку.</value>
+    <value column="Description" isTrl="Y" original="Add products to be included in your requisition.  Each product is added by creating a line.">Добавить товары для заказа клиента. Каждый товар добавляется в созданную строку.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Procurement team can perform a set of actions regarding requisitions lines. It is possible for them to either create lines or product demands or to cancel them.">Procurement team can perform a set of actions regarding requisitions lines. It is possible for them to either create lines or product demands or to cancel them.</value>
   </row>

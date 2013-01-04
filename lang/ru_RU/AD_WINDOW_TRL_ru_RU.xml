@@ -237,7 +237,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create shipping companies and define freight costs to be used in products logistics.">Create shipping companies and define freight costs to be used in products logistics.</value>
   </row>
   <row id="143" trl="N">
-    <value column="Name" isTrl="Y" original="Sales Order">Расходная накладная</value>
+    <value column="Name" isTrl="Y" original="Sales Order">Заказ клиента</value>
     <value column="Description" isTrl="N" original="Create orders tracking product sales to customers.">Create orders tracking product sales to customers.</value>
     <value column="Help" isTrl="N" original="A sales order is a document that specifies products and/or services ordered by a specific business partner (customer), as well as the price and terms and conditions. ">A sales order is a document that specifies products and/or services ordered by a specific business partner (customer), as well as the price and terms and conditions. </value>
   </row>
@@ -328,7 +328,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Title window allows to setup business partner titles such as Mr or Madame to be used while contacting business partners.">Title window allows to setup business partner titles such as Mr or Madame to be used while contacting business partners.</value>
   </row>
   <row id="181" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order">Приходная накладная</value>
+    <value column="Name" isTrl="Y" original="Purchase Order">Заказ поставщику</value>
     <value column="Description" isTrl="N" original="Create and edit orders to buy products from suppliers.">Create and edit orders to buy products from suppliers.</value>
     <value column="Help" isTrl="N" original="Purchase Order window allows the procurement team to create and manage orders which once booked will be sent to the external suppliers.">Purchase Order window allows the procurement team to create and manage orders which once booked will be sent to the external suppliers.</value>
   </row>
@@ -519,8 +519,8 @@ You can also select if transactions are allowed or not for this organization typ
   </row>
   <row id="291" trl="Y">
     <value column="Name" isTrl="Y" original="Business Partner Info">Описание контрагента</value>
-    <value column="Description" isTrl="Y" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">Просмотреть информацию по накладным, отгрузке, счетам и активам контрагента.</value>
-    <value column="Help" isTrl="Y" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">Просмотреть информацию по накладным, отгрузке, счетам и активам контрагента.</value>
+    <value column="Description" isTrl="Y" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">Просмотреть информацию по заказам, накладным, отгрузке, счетам и активам контрагента.</value>
+    <value column="Help" isTrl="Y" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">Просмотреть информацию по заказам, накладным, отгрузке, счетам и активам контрагента.</value>
   </row>
   <row id="2CC1DC1EDEA2454F987E7F2BBF48A4AE" trl="N">
     <value column="Name" isTrl="Y" original="Dataset">Набор данных</value>
