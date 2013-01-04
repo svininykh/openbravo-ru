@@ -2297,7 +2297,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="280" trl="N">
-    <value column="MsgText" isTrl="N" original="From">From</value>
+    <value column="MsgText" isTrl="Y" original="From">По</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="281" trl="N">
@@ -3917,7 +3917,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="565" trl="N">
-    <value column="MsgText" isTrl="N" original="To">To</value>
+    <value column="MsgText" isTrl="N" original="To">По</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="566" trl="N">

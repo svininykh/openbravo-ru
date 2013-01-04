@@ -37,11 +37,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="090A37D22DDB1C89012DDB2430980020" trl="N">
-    <value column="MsgText" isTrl="N" original="Linked Items Category">Linked Items Category</value>
+    <value column="MsgText" isTrl="Y" original="Linked Items Category">Категории связанных записей</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="090A37D22E478023012E47868551001A" trl="N">
-    <value column="MsgText" isTrl="N" original="This section shows notes added to this record.">This section shows notes added to this record.</value>
+    <value column="MsgText" isTrl="Y" original="This section shows notes added to this record.">В этой секции отображаются заметки добавленные для данной записи.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="090A37D22E478023012E4787BAF90023" trl="N">
@@ -65,7 +65,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="14E32CCB062B43E78CA7CC6DEBE3CDF8" trl="N">
-    <value column="MsgText" isTrl="N" original="The value entered is not valid.">The value entered is not valid.</value>
+    <value column="MsgText" isTrl="Y" original="The value entered is not valid.">Введено неверное значение.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="165D4AB1311A477C8F95184C0A9F4B2F" trl="N">
@@ -73,7 +73,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1B783EC678E644E385778D2D7D25A97B" trl="N">
-    <value column="MsgText" isTrl="N" original="Ungroup">Ungroup</value>
+    <value column="MsgText" isTrl="Y" original="Ungroup">Разгруппировать</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1C8D1970AE9A46319D42430A0D0AAF09" trl="N">
@@ -871,11 +871,11 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E7BA4E8012E7BADC6FE0028" trl="N">
-    <value column="MsgText" isTrl="N" original="New record in form">New record in form</value>
+    <value column="MsgText" isTrl="Y" original="New record in form">Новая запись в форме</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E7BEED8012E7BFA9EC0000D" trl="N">
-    <value column="MsgText" isTrl="N" original="Save and close form view ">Save and close form view </value>
+    <value column="MsgText" isTrl="Y" original="Save and close form view ">Сохранить и закрыть форму </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E867351012E867555F90008" trl="N">
@@ -887,143 +887,143 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E91319A280016" trl="N">
-    <value column="MsgText" isTrl="N" original="Select Date Range">Select Date Range</value>
+    <value column="MsgText" isTrl="Y" original="Select Date Range">Задать диапазон дат</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E91322DF70019" trl="N">
-    <value column="MsgText" isTrl="N" original="Since">Since</value>
+    <value column="MsgText" isTrl="Y" original="Since">Позже</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E91326D8E001B" trl="N">
-    <value column="MsgText" isTrl="N" original="Before">Before</value>
+    <value column="MsgText" isTrl="Y" original="Before">Раньше</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E91329CBF001D" trl="N">
-    <value column="MsgText" isTrl="N" original="Show Date Chooser">Show Date Chooser</value>
+    <value column="MsgText" isTrl="Y" original="Show Date Chooser">Показать выбор даты</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E9134734B0026" trl="N">
-    <value column="MsgText" isTrl="N" original="Yesterday">Yesterday</value>
+    <value column="MsgText" isTrl="Y" original="Yesterday">Вчера</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913494000028" trl="N">
-    <value column="MsgText" isTrl="N" original="Tomorrow">Tomorrow</value>
+    <value column="MsgText" isTrl="Y" original="Tomorrow">Завтра</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E9135478A002A" trl="N">
-    <value column="MsgText" isTrl="N" original="Current day of last week">Current day of last week</value>
+    <value column="MsgText" isTrl="Y" original="Current day of last week">Текущий день предыдущей недели</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E91359A27002C" trl="N">
-    <value column="MsgText" isTrl="N" original="Current day of next week">Current day of next week</value>
+    <value column="MsgText" isTrl="Y" original="Current day of next week">Текущий день следующей недели</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E91360278002E" trl="N">
-    <value column="MsgText" isTrl="N" original="Current day of last month">Current day of last month</value>
+    <value column="MsgText" isTrl="Y" original="Current day of last month">Текущий день предыдущего месяца</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913666110030" trl="N">
-    <value column="MsgText" isTrl="N" original="Current day of next month">Current day of next month</value>
+    <value column="MsgText" isTrl="Y" original="Current day of next month">Текущий день следующего месяца</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E91383CE40032" trl="N">
-    <value column="MsgText" isTrl="N" original="N milliseconds ago">N milliseconds ago</value>
+    <value column="MsgText" isTrl="Y" original="N milliseconds ago">N миллисекунд назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913893820034" trl="N">
-    <value column="MsgText" isTrl="N" original="N seconds ago">N seconds ago</value>
+    <value column="MsgText" isTrl="Y" original="N seconds ago">N секунд назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E9139884E0041" trl="N">
-    <value column="MsgText" isTrl="N" original="N minutes ago">N minutes ago</value>
+    <value column="MsgText" isTrl="Y" original="N minutes ago">N минут назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E9139884E0043" trl="N">
-    <value column="MsgText" isTrl="N" original="%0 minutes ago">%0 minutes ago</value>
+    <value column="MsgText" isTrl="Y" original="%0 minutes ago">%0 минут назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E9139884E0045" trl="N">
-    <value column="MsgText" isTrl="N" original="%0 hours ago">%0 hours ago</value>
+    <value column="MsgText" isTrl="Y" original="%0 hours ago">%0 часов назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E9139884E0046" trl="N">
-    <value column="MsgText" isTrl="N" original="%0 days ago">%0 days ago</value>
+    <value column="MsgText" isTrl="Y" original="%0 days ago">%0 дней назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E9139884E0047" trl="N">
-    <value column="MsgText" isTrl="N" original="%0 months ago">%0 months ago</value>
+    <value column="MsgText" isTrl="Y" original="%0 months ago">%0 месяцев назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E9139884E0050" trl="N">
-    <value column="MsgText" isTrl="N" original="%0 weeks ago">%0 weeks ago</value>
+    <value column="MsgText" isTrl="Y" original="%0 weeks ago">%0 недель назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E9139D3780046" trl="N">
-    <value column="MsgText" isTrl="N" original="N hours ago">N hours ago</value>
+    <value column="MsgText" isTrl="Y" original="N hours ago">N часов назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913A2E79004C" trl="N">
-    <value column="MsgText" isTrl="N" original="N days ago">N days ago</value>
+    <value column="MsgText" isTrl="Y" original="N days ago">N дней назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913A6F6A0051" trl="N">
-    <value column="MsgText" isTrl="N" original="N weeks ago">N weeks ago</value>
+    <value column="MsgText" isTrl="Y" original="N weeks ago">N недель назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913AA71D0054" trl="N">
-    <value column="MsgText" isTrl="N" original="N months ago">N months ago</value>
+    <value column="MsgText" isTrl="Y" original="N months ago">N месяцев назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913AF51C005B" trl="N">
-    <value column="MsgText" isTrl="N" original="N quarters ago">N quarters ago</value>
+    <value column="MsgText" isTrl="Y" original="N quarters ago">N кварталов назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913B27C3005E" trl="N">
-    <value column="MsgText" isTrl="N" original="N years ago">N years ago</value>
+    <value column="MsgText" isTrl="Y" original="N years ago">N лет назад</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913C5DE60064" trl="N">
-    <value column="MsgText" isTrl="N" original="N milliseconds from now">N milliseconds from now</value>
+    <value column="MsgText" isTrl="Y" original="N milliseconds from now">N миллисекунд до этого момента</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913D01A6006E" trl="N">
-    <value column="MsgText" isTrl="N" original="N seconds from now">N seconds from now</value>
+    <value column="MsgText" isTrl="Y" original="N seconds from now">N секунд до этого момента</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913D3F4D0071" trl="N">
-    <value column="MsgText" isTrl="N" original="N minutes from now">N minutes from now</value>
+    <value column="MsgText" isTrl="Y" original="N minutes from now">N минут до этого момента</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913D7F9B0076" trl="N">
-    <value column="MsgText" isTrl="N" original="N hours from now">N hours from now</value>
+    <value column="MsgText" isTrl="Y" original="N hours from now">N часов до этого момента</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913DDC70007B" trl="N">
-    <value column="MsgText" isTrl="N" original="N days from now">N days from now</value>
+    <value column="MsgText" isTrl="Y" original="N days from now">N дней до этого момента</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913E2624007E" trl="N">
-    <value column="MsgText" isTrl="N" original="N weeks from now">N weeks from now</value>
+    <value column="MsgText" isTrl="Y" original="N weeks from now">N недель до этого момента</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913E65190081" trl="N">
-    <value column="MsgText" isTrl="N" original="N months from now">N months from now</value>
+    <value column="MsgText" isTrl="Y" original="N months from now">N месяцев до этого момента</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913EAA910084" trl="N">
-    <value column="MsgText" isTrl="N" original="N quarters from now">N quarters from now</value>
+    <value column="MsgText" isTrl="Y" original="N quarters from now">N кварталов до этого момента</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E913EDED20087" trl="N">
-    <value column="MsgText" isTrl="N" original="N years from now">N years from now</value>
+    <value column="MsgText" isTrl="Y" original="N years from now">N лет до этого момента</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E914469EE009A" trl="N">
-    <value column="MsgText" isTrl="N" original="To">To</value>
+    <value column="MsgText" isTrl="Y" original="To">С</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E912BB3012E9144BF08009F" trl="N">
-    <value column="MsgText" isTrl="N" original="From">From</value>
+    <value column="MsgText" isTrl="Y" original="From">По</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E99943C012E99C86806004D" trl="N">

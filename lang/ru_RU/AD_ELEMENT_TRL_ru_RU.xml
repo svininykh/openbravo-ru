@@ -11327,7 +11327,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="594" trl="N">
-    <value column="Name" isTrl="N" original="Destination Country">Destination Country</value>
+    <value column="Name" isTrl="Y" original="Destination Country">Страна назначения</value>
     <value column="PrintName" isTrl="N" original="To">To</value>
     <value column="Description" isTrl="N" original="The country receiving a shipment">The country receiving a shipment</value>
     <value column="Help" isTrl="N" original="The To Country indicates the receiving country on a document">The To Country indicates the receiving country on a document</value>
@@ -11337,7 +11337,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="595" trl="N">
-    <value column="Name" isTrl="N" original="Destination Region">Destination Region</value>
+    <value column="Name" isTrl="Y" original="Destination Region">Регион назначения</value>
     <value column="PrintName" isTrl="N" original="To">To</value>
     <value column="Description" isTrl="N" original="The state/province inside of a country receiving the shipment.">The state/province inside of a country receiving the shipment.</value>
     <value column="Help" isTrl="N" original="The To Region indicates the receiving region on a document">The To Region indicates the receiving region on a document</value>
@@ -14008,8 +14008,8 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800087" trl="N">
-    <value column="Name" isTrl="N" original="From">From</value>
-    <value column="PrintName" isTrl="N" original="From">From</value>
+    <value column="Name" isTrl="Y" original="From">С даты</value>
+    <value column="PrintName" isTrl="Y" original="From">С</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14018,8 +14018,8 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800088" trl="N">
-    <value column="Name" isTrl="Y" original="Until">До даты</value>
-    <value column="PrintName" isTrl="N" original="To">To</value>
+    <value column="Name" isTrl="Y" original="Until">По дату</value>
+    <value column="PrintName" isTrl="Y" original="To">По</value>
     <value column="Description" isTrl="N" original="End date">End date</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16998,9 +16998,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800637" trl="N">
-    <value column="Name" isTrl="N" original="Min. Quantity">Min. Quantity</value>
-    <value column="PrintName" isTrl="N" original="Qty from">Qty from</value>
-    <value column="Description" isTrl="N" original="Qty from">Qty from</value>
+    <value column="Name" isTrl="Y" original="Min. Quantity">Мин. кол-во</value>
+    <value column="PrintName" isTrl="Y" original="Qty from">Кол-во с</value>
+    <value column="Description" isTrl="Y" original="Qty from">Кол-во с</value>
     <value column="Help" isTrl="N" original="Lowest quantity">Lowest quantity</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -17008,8 +17008,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800638" trl="N">
-    <value column="Name" isTrl="N" original="Max. Quanity">Max. Quanity</value>
-    <value column="PrintName" isTrl="N" original="To">To</value>
+    <value column="Name" isTrl="Y" original="Max. Quanity">Макс. кол-во</value>
+    <value column="PrintName" isTrl="Y" original="To">По</value>
     <value column="Description" isTrl="N" original="A parameter stating the highest possible quantity of a specified request.">A parameter stating the highest possible quantity of a specified request.</value>
     <value column="Help" isTrl="N" original="Highest quantity">Highest quantity</value>
     <value column="PO_Description" isTrl="N" original=""/>
