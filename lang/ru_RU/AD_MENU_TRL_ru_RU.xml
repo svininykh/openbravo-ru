@@ -313,7 +313,7 @@
     <value column="Description" isTrl="N" original="Create and edit inventory counts and update your stock quantities.">Create and edit inventory counts and update your stock quantities.</value>
   </row>
   <row id="180" trl="N">
-    <value column="Name" isTrl="N" original="Goods Shipment">Goods Shipment</value>
+    <value column="Name" isTrl="Y" original="Goods Shipment">Расходная накладная</value>
     <value column="Description" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
   </row>
   <row id="181" trl="N">
@@ -365,7 +365,7 @@
     <value column="Description" isTrl="N" original="Procurement Management supports the management of the orders, goods receipts and purchase invoices as well as the analysis of purchase related data.">Procurement Management supports the management of the orders, goods receipts and purchase invoices as well as the analysis of purchase related data.</value>
   </row>
   <row id="204" trl="N">
-    <value column="Name" isTrl="N" original="Goods Receipt">Goods Receipt</value>
+    <value column="Name" isTrl="Y" original="Goods Receipt">Приходная накладная</value>
     <value column="Description" isTrl="N" original="Create and edit goods receipts from your vendors and create invoices from these receipts.">Create and edit goods receipts from your vendors and create invoices from these receipts.</value>
   </row>
   <row id="205" trl="N">
@@ -409,7 +409,7 @@
     <value column="Description" isTrl="N" original="Weekly Invoice">Weekly Invoice</value>
   </row>
   <row id="216" trl="N">
-    <value column="Name" isTrl="N" original="Form">Form</value>
+    <value column="Name" isTrl="Y" original="Form">Форма</value>
     <value column="Description" isTrl="N" original="Create and edit forms (manual windows) to be used in the application.">Create and edit forms (manual windows) to be used in the application.</value>
   </row>
   <row id="217" trl="N">
@@ -869,11 +869,11 @@
     <value column="Description" isTrl="N" original="Sales Invoice Dimensional Report">Sales Invoice Dimensional Report</value>
   </row>
   <row id="800062" trl="N">
-    <value column="Name" isTrl="N" original="Incoming Shipment">Incoming Shipment</value>
+    <value column="Name" isTrl="N" original="Incoming Shipment">Поступления</value>
     <value column="Description" isTrl="N" original="Create and manage goods shipments from our vendors">Create and manage goods shipments from our vendors</value>
   </row>
   <row id="800063" trl="N">
-    <value column="Name" isTrl="N" original="Outgoing Shipment">Outgoing Shipment</value>
+    <value column="Name" isTrl="N" original="Outgoing Shipment">Выбытия</value>
     <value column="Description" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
   </row>
   <row id="800067" trl="N">

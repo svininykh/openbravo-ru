@@ -1510,14 +1510,14 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1025" trl="N">
-    <value column="Name" isTrl="N" original="Goods Shipment">Goods Shipment</value>
-    <value column="PrintName" isTrl="N" original="Goods Shipment">Goods Shipment</value>
+    <value column="Name" isTrl="N" original="Goods Shipment">Расходная накладная</value>
+    <value column="PrintName" isTrl="N" original="Goods Shipment">Расходная накладная</value>
     <value column="Description" isTrl="N" original="The document number for identifying an act of sending goods.">The document number for identifying an act of sending goods.</value>
     <value column="Help" isTrl="N" original="The Shipment ID indicates the unique document for this shipment.">The Shipment ID indicates the unique document for this shipment.</value>
     <value column="PO_Description" isTrl="N" original="The document number for identifying an act of receiving goods.">The document number for identifying an act of receiving goods.</value>
     <value column="PO_Help" isTrl="N" original="The Receipt ID indicates the unique document for this receipt.">The Receipt ID indicates the unique document for this receipt.</value>
-    <value column="PO_Name" isTrl="N" original="Goods Receipt">Goods Receipt</value>
-    <value column="PO_PrintName" isTrl="N" original="Goods Receipt">Goods Receipt</value>
+    <value column="PO_Name" isTrl="N" original="Goods Receipt">Приходная накладная</value>
+    <value column="PO_PrintName" isTrl="N" original="Goods Receipt">Приходная накладная</value>
   </row>
   <row id="1026" trl="N">
     <value column="Name" isTrl="N" original="Goods Shipment Line">Goods Shipment Line</value>

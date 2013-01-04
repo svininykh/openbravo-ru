@@ -1189,19 +1189,19 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="312" trl="N">
-    <value column="Name" isTrl="N" original="Customer Shipment">Customer Shipment</value>
+    <value column="Name" isTrl="Y" original="Customer Shipment">Накладная клиента</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="313" trl="N">
-    <value column="Name" isTrl="N" original="Customer Returns">Customer Returns</value>
+    <value column="Name" isTrl="Y" original="Customer Returns">Возвраты клиента</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="314" trl="N">
-    <value column="Name" isTrl="N" original="Vendor Receipts">Vendor Receipts</value>
+    <value column="Name" isTrl="Y" original="Vendor Receipts">Накладные поставщика</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="315" trl="N">
-    <value column="Name" isTrl="N" original="Vendor Returns">Vendor Returns</value>
+    <value column="Name" isTrl="Y" original="Vendor Returns">Возвраты поставщику</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="316" trl="N">
