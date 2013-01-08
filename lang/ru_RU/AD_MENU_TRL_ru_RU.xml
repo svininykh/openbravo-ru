@@ -153,7 +153,7 @@
     <value column="Description" isTrl="N" original="Create shipping companies and define freight costs to be used in products logistics.">Create shipping companies and define freight costs to be used in products logistics.</value>
   </row>
   <row id="129" trl="N">
-    <value column="Name" isTrl="Y" original="Sales Order">Заказ клиента</value>
+    <value column="Name" isTrl="Y" original="Sales Order">Ордер клиента</value>
     <value column="Description" isTrl="N" original="Create orders tracking product sales to customers.">Create orders tracking product sales to customers.</value>
   </row>
   <row id="130" trl="N">
@@ -369,7 +369,7 @@
     <value column="Description" isTrl="N" original="Create and edit goods receipts from your vendors and create invoices from these receipts.">Create and edit goods receipts from your vendors and create invoices from these receipts.</value>
   </row>
   <row id="205" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order">Заказ поставщику</value>
+    <value column="Name" isTrl="Y" original="Purchase Order">Ордер поставщика</value>
     <value column="Description" isTrl="N" original="Create and edit orders to buy products from suppliers.">Create and edit orders to buy products from suppliers.</value>
   </row>
   <row id="206" trl="N">
@@ -413,7 +413,7 @@
     <value column="Description" isTrl="N" original="Create and edit forms (manual windows) to be used in the application.">Create and edit forms (manual windows) to be used in the application.</value>
   </row>
   <row id="217" trl="N">
-    <value column="Name" isTrl="Y" original="Create Invoices from Orders">Создать счет-фактуры по заказам</value>
+    <value column="Name" isTrl="Y" original="Create Invoices from Orders">Создать счет-фактуры по ордерам</value>
     <value column="Description" isTrl="N" original="Create invoices for all processed sales orders/goods shipments that have not been invoiced.">Create invoices for all processed sales orders/goods shipments that have not been invoiced.</value>
   </row>
   <row id="218" trl="N">
@@ -593,8 +593,8 @@
     <value column="Description" isTrl="Y" original="System Definition">Параметры системы</value>
   </row>
   <row id="335" trl="Y">
-    <value column="Name" isTrl="Y" original="Generate PO from Sales Order">Заказ поставщику по заказу клиента</value>
-    <value column="Description" isTrl="Y" original="Create Purchase Order from Sales Orders">Создать заказ поставщику по заказам клиента</value>
+    <value column="Name" isTrl="Y" original="Generate PO from Sales Order">Ордер поставщика по ордеру клиента</value>
+    <value column="Description" isTrl="Y" original="Create Purchase Order from Sales Orders">Создать ордер поставщика по ордеру клиента</value>
   </row>
   <row id="343" trl="N">
     <value column="Name" isTrl="Y" original="Asset Group">Группа основных средств</value>
@@ -694,7 +694,7 @@
   </row>
   <row id="394" trl="Y">
     <value column="Name" isTrl="Y" original="Business Partner Info">Описание контрагента</value>
-    <value column="Description" isTrl="Y" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">Просмотреть информацию по заказам, накладным, отгрузке, счетам и активам контрагента.</value>
+    <value column="Description" isTrl="Y" original="View information related to business partner orders, receipts/shipments, invoices, and assets.">Просмотреть информацию по ордерам, накладным, отгрузке, счетам и активам контрагента.</value>
   </row>
   <row id="3942B34C83C74EFF8A9CC51AC3B003D3" trl="N">
     <value column="Name" isTrl="N" original="Costing Migration Process">Costing Migration Process</value>
@@ -1253,8 +1253,8 @@
     <value column="Description" isTrl="N" original="Create and edit alerts that will inform you about any critical or important situation in the application.">Create and edit alerts that will inform you about any critical or important situation in the application.</value>
   </row>
   <row id="800229" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order Report">Отчет Заказы поставщикам</value>
-    <value column="Description" isTrl="Y" original="Purchase Order Report">Отчёт по заказам поставщикам</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Report">Отчет Ордеры поставщиков</value>
+    <value column="Description" isTrl="Y" original="Purchase Order Report">Отчёт по ордерам поставщиков</value>
   </row>
   <row id="800230" trl="N">
     <value column="Name" isTrl="Y" original="Alert Management">Управление предупреждениями</value>
@@ -1361,8 +1361,8 @@
     <value column="Description" isTrl="N" original="Customer Invoice Report">Customer Invoice Report</value>
   </row>
   <row id="800261" trl="N">
-    <value column="Name" isTrl="Y" original="Sales Order Report">Отчет Заказы клиентов</value>
-    <value column="Description" isTrl="Y" original="Sales Order Report">Отчёт по заказам клиентов</value>
+    <value column="Name" isTrl="Y" original="Sales Order Report">Отчет Ордеры клиентов</value>
+    <value column="Description" isTrl="Y" original="Sales Order Report">Отчёт по ордерам клиентов</value>
   </row>
   <row id="800262" trl="N">
     <value column="Name" isTrl="N" original="Pending Work Requirement">Pending Work Requirement</value>

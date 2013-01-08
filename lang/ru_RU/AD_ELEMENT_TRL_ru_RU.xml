@@ -796,8 +796,8 @@ Planned: The demand has been included in a Purchase Plan of the MRP module.</val
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1004400004" trl="N">
-    <value column="Name" isTrl="Y" original="Create PO">Создать заказ поставщику</value>
-    <value column="PrintName" isTrl="Y" original="Create PO">Создать заказ поставщику</value>
+    <value column="Name" isTrl="Y" original="Create PO">Создать ордер поставщика</value>
+    <value column="PrintName" isTrl="Y" original="Create PO">Создать ордер поставщика</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Button to generate the corresponding purchase orders to fulfill the products demand.">Button to generate the corresponding purchase orders to fulfill the products demand.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -806,8 +806,8 @@ Planned: The demand has been included in a Purchase Plan of the MRP module.</val
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1004400005" trl="N">
-    <value column="Name" isTrl="Y" original="Matched PO Qty">Наличие количества по заказу поставщика</value>
-    <value column="PrintName" isTrl="Y" original="Matched PO Qty">Наличие кол-ва по зак. пост.</value>
+    <value column="Name" isTrl="Y" original="Matched PO Qty">Наличие количества по ордеру поставщика</value>
+    <value column="PrintName" isTrl="Y" original="Matched PO Qty">Наличие кол-ва по ордеру пост.</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Indicates the already ordered quantity to fulfill the demand.">Indicates the already ordered quantity to fulfill the demand.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1450,9 +1450,9 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1018" trl="N">
-    <value column="Name" isTrl="Y" original="SO Sub Type">Подтип заказа клиента</value>
-    <value column="PrintName" isTrl="Y" original="SO Sub Type">Подтип зак. кл.</value>
-    <value column="Description" isTrl="Y" original="Sales Order Sub Type">Подтип заказа клиента</value>
+    <value column="Name" isTrl="Y" original="SO Sub Type">Подтип ордера клиента</value>
+    <value column="PrintName" isTrl="Y" original="SO Sub Type">Подтип ордера кл.</value>
+    <value column="Description" isTrl="Y" original="Sales Order Sub Type">Подтип ордера клиента</value>
     <value column="Help" isTrl="N" original="The SO Sub Type indicates the type of sales order this document refers to.  This field only appears when the Document Base Type is Sales Order.  The selection made here will determine which documents will be generated when an order is processed and which documents must be generated manually or in batches.  &lt;BR&gt;The following outlines this process.&lt;BR&gt;SO Sub Type of &lt;b&gt;Standard Order&lt;/b&gt; will generate just the &lt;b&gt;Order&lt;/b&gt; document when the order is processed.  &lt;BR&gt;The &lt;b&gt;Delivery Note&lt;/b&gt;, &lt;b&gt;Invoice&lt;/b&gt; and &lt;b&gt;Receipt&lt;/b&gt; must be generated via other processes.  &lt;BR&gt;SO Sub Type of &lt;b&gt;Warehouse Order&lt;/b&gt; will generate the &lt;b&gt;Order&lt;/b&gt; and &lt;b&gt;Delivery Note&lt;/b&gt;. &lt;BR&gt; The &lt;b&gt;Invoice&lt;/b&gt; and &lt;b&gt;Receipt&lt;/b&gt; must be generated via other processes.&lt;BR&gt;SO Sub Type of &lt;b&gt;Credit Order&lt;/b&gt; will generate the &lt;b&gt;Order&lt;/b&gt;, &lt;b&gt;Delivery Note&lt;/b&gt; and &lt;b&gt;Invoice&lt;/b&gt;. &lt;BR&gt; The &lt;b&gt;Reciept&lt;/b&gt; must be generated via other processes.&lt;BR&gt;SO Sub Type of &lt;b&gt;POS&lt;/b&gt; (Point of Sale) will generate all document">The SO Sub Type indicates the type of sales order this document refers to.  This field only appears when the Document Base Type is Sales Order.  The selection made here will determine which documents will be generated when an order is processed and which documents must be generated manually or in batches.  &lt;BR&gt;The following outlines this process.&lt;BR&gt;SO Sub Type of &lt;b&gt;Standard Order&lt;/b&gt; will generate just the &lt;b&gt;Order&lt;/b&gt; document when the order is processed.  &lt;BR&gt;The &lt;b&gt;Delivery Note&lt;/b&gt;, &lt;b&gt;Invoice&lt;/b&gt; and &lt;b&gt;Receipt&lt;/b&gt; must be generated via other processes.  &lt;BR&gt;SO Sub Type of &lt;b&gt;Warehouse Order&lt;/b&gt; will generate the &lt;b&gt;Order&lt;/b&gt; and &lt;b&gt;Delivery Note&lt;/b&gt;. &lt;BR&gt; The &lt;b&gt;Invoice&lt;/b&gt; and &lt;b&gt;Receipt&lt;/b&gt; must be generated via other processes.&lt;BR&gt;SO Sub Type of &lt;b&gt;Credit Order&lt;/b&gt; will generate the &lt;b&gt;Order&lt;/b&gt;, &lt;b&gt;Delivery Note&lt;/b&gt; and &lt;b&gt;Invoice&lt;/b&gt;. &lt;BR&gt; The &lt;b&gt;Reciept&lt;/b&gt; must be generated via other processes.&lt;BR&gt;SO Sub Type of &lt;b&gt;POS&lt;/b&gt; (Point of Sale) will generate all document</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2202,8 +2202,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1124" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order Price">Цена заказа поставщика</value>
-    <value column="PrintName" isTrl="Y" original="PO Price">Цена зак. пост.</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Price">Цена ордера поставщика</value>
+    <value column="PrintName" isTrl="Y" original="PO Price">Цена ордера пост.</value>
     <value column="Description" isTrl="N" original="The price charged to purchase a specific item.">The price charged to purchase a specific item.</value>
     <value column="Help" isTrl="N" original="The PO Price indicates the price for a product per the purchase order.">The PO Price indicates the price for a product per the purchase order.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2732,9 +2732,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1244" trl="N">
-    <value column="Name" isTrl="Y" original="Order Description">Описание для заказа</value>
+    <value column="Name" isTrl="Y" original="Order Description">Описание для ордера</value>
     <value column="PrintName" isTrl="N" original="Order Description">Order Description</value>
-    <value column="Description" isTrl="Y" original="Description to be used on orders">Описание, которое подставляется в заказы</value>
+    <value column="Description" isTrl="Y" original="Description to be used on orders">Описание, которое подставляется в ордеры клиента</value>
     <value column="Help" isTrl="N" original="The Order Description identifies the standard description to use on orders for this Customer.">The Order Description identifies the standard description to use on orders for this Customer.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -4308,8 +4308,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1576" trl="N">
-    <value column="Name" isTrl="Y" original="PO Payment Terms">Условия оплаты заказа поставщику</value>
-    <value column="PrintName" isTrl="Y" original="PO Payment Term">Условия оплаты зак. пост.</value>
+    <value column="Name" isTrl="Y" original="PO Payment Terms">Условия оплаты ордера поставщику</value>
+    <value column="PrintName" isTrl="Y" original="PO Payment Term">Условия оплаты ордера пост.</value>
     <value column="Description" isTrl="N" original="The setup and timing defined to complete a specified payment.">The setup and timing defined to complete a specified payment.</value>
     <value column="Help" isTrl="N" original="The PO Payment Term indicates the payment term that will be used when this purchase order becomes an invoice.">The PO Payment Term indicates the payment term that will be used when this purchase order becomes an invoice.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4559,8 +4559,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1659" trl="N">
-    <value column="Name" isTrl="Y" original="Description in Purchase Windows">Описание заказов поставщика</value>
-    <value column="PrintName" isTrl="Y" original="PO Description">Описание зак. пост.</value>
+    <value column="Name" isTrl="Y" original="Description in Purchase Windows">Описание ордеров поставщика</value>
+    <value column="PrintName" isTrl="Y" original="PO Description">Описание ордеров пост.</value>
     <value column="Description" isTrl="N" original="A space to write additional related information for a order windows.">A space to write additional related information for a order windows.</value>
     <value column="Help" isTrl="N" original="Description in Purchase Windows">Description in Purchase Windows</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4569,8 +4569,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1660" trl="N">
-    <value column="Name" isTrl="Y" original="Help in Purchase Windows">Справка по заказам поставщику</value>
-    <value column="PrintName" isTrl="Y" original="PO Help">Справка зак. пост.</value>
+    <value column="Name" isTrl="Y" original="Help in Purchase Windows">Справка по ордеру поставщика</value>
+    <value column="PrintName" isTrl="Y" original="PO Help">Справка по ордеру пост.</value>
     <value column="Description" isTrl="N" original="A comment that adds additional information to help users work with fields within a purchase window.">A comment that adds additional information to help users work with fields within a purchase window.</value>
     <value column="Help" isTrl="N" original="Help in Purchase Windows">Help in Purchase Windows</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4579,8 +4579,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1661" trl="N">
-    <value column="Name" isTrl="Y" original="Name in Purchase Windows">Название заказов поставщику</value>
-    <value column="PrintName" isTrl="Y" original="PO Name">Название зак. пост.</value>
+    <value column="Name" isTrl="Y" original="Name in Purchase Windows">Название ордеров поставщика</value>
+    <value column="PrintName" isTrl="Y" original="PO Name">Название ордеров пост.</value>
     <value column="Description" isTrl="N" original="A identifier for a document which can be used as a search tool for a purchase window.">A identifier for a document which can be used as a search tool for a purchase window.</value>
     <value column="Help" isTrl="N" original="Name in Purchase Windows">Name in Purchase Windows</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4589,8 +4589,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1662" trl="N">
-    <value column="Name" isTrl="Y" original="Print Name on Purchase Window">Название для печати в заказах поставщику</value>
-    <value column="PrintName" isTrl="Y" original="PO Print">Печать зак. пост.</value>
+    <value column="Name" isTrl="Y" original="Print Name on Purchase Window">Название для печати в ордерах поставщика</value>
+    <value column="PrintName" isTrl="Y" original="PO Print">Печать в ордерах пост.</value>
     <value column="Description" isTrl="N" original="A option to print the name given in the purchase order document.">A option to print the name given in the purchase order document.</value>
     <value column="Help" isTrl="N" original="Print name on Purchase Screens/Reports">Print name on Purchase Screens/Reports</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5660,8 +5660,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1905" trl="N">
-    <value column="Name" isTrl="Y" original="SO/PO Reference">Ссылка на заказы поставщикам/клиентов</value>
-    <value column="PrintName" isTrl="Y" original="SO/PO Reference">Ссылка на зак. пост./кл.</value>
+    <value column="Name" isTrl="Y" original="SO/PO Reference">Ссылка на ордеры поставщиков/клиентов</value>
+    <value column="PrintName" isTrl="Y" original="SO/PO Reference">Ссылка на ордеры пост./кл.</value>
     <value column="Description" isTrl="N" original="Reference to corresponding Sales/Purchase Order">Reference to corresponding Sales/Purchase Order</value>
     <value column="Help" isTrl="N" original="Reference of the Sales Order Line to the corresponding Purchase Order Line or vice versa.">Reference of the Sales Order Line to the corresponding Purchase Order Line or vice versa.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6750,9 +6750,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2136" trl="N">
-    <value column="Name" isTrl="Y" original="PO Window">Окно заказов поставщикам</value>
-    <value column="PrintName" isTrl="Y" original="PO Window">Окно заказов поставщикам</value>
-    <value column="Description" isTrl="Y" original="Purchase Order Window">Окно заказов поставщикам</value>
+    <value column="Name" isTrl="Y" original="PO Window">Окно ордеров поставщиков</value>
+    <value column="PrintName" isTrl="Y" original="PO Window">Окно ордеров поставщиков</value>
+    <value column="Description" isTrl="Y" original="Purchase Order Window">Окно ордеров поставщиков</value>
     <value column="Help" isTrl="N" original="Window for Purchase Order (AP) Zooms">Window for Purchase Order (AP) Zooms</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -6802,7 +6802,7 @@ The fact of using a given product type does not mean a different accounting. All
   <row id="2167" trl="N">
     <value column="Name" isTrl="Y" original="Sales/Purchase Type">Тип продажи/приобритения</value>
     <value column="PrintName" isTrl="Y" original="SO/PO Type">Тип расх./прих.</value>
-    <value column="Description" isTrl="Y" original="Sales Tax applies to sales situations, Purchase Tax to purchase situations">Налог для заказов клиентов в случае продажи, или налог для заказов поставщикам в случае закупки.</value>
+    <value column="Description" isTrl="Y" original="Sales Tax applies to sales situations, Purchase Tax to purchase situations">Налог для ордеров клиентов в случае продажи, или налог для ордеров поставщиков в случае закупки.</value>
     <value column="Help" isTrl="N" original="Sales Tax: charged when selling - examples: Sales Tax, Output VAT (payable)Purchase Tax: tax charged when purchasing - examples: Use Tax, Input VAT (receivable)">Sales Tax: charged when selling - examples: Sales Tax, Output VAT (payable)Purchase Tax: tax charged when purchasing - examples: Use Tax, Input VAT (receivable)</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -6850,10 +6850,10 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2180" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order">Заказ поставщику</value>
-    <value column="PrintName" isTrl="Y" original="Purchase Order">Заказ поставщику</value>
+    <value column="Name" isTrl="Y" original="Purchase Order">Ордер поставщика</value>
+    <value column="PrintName" isTrl="Y" original="Purchase Order">Ордер поставщика</value>
     <value column="Description" isTrl="N" original="An often automatically generated unique identifier for a purchase order.">An often automatically generated unique identifier for a purchase order.</value>
-    <value column="Help" isTrl="Y" original="Purchase order">Заказ поставщику</value>
+    <value column="Help" isTrl="Y" original="Purchase order">Ордер поставщика</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -7250,9 +7250,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="268" trl="N">
-    <value column="Name" isTrl="Y" original="Order Date">Дата заказа</value>
-    <value column="PrintName" isTrl="Y" original="Date Ordered">Дата заказа</value>
-    <value column="Description" isTrl="Y" original="The time listed on the order.">Дата указываемая в заказе.</value>
+    <value column="Name" isTrl="Y" original="Order Date">Дата ордера</value>
+    <value column="PrintName" isTrl="Y" original="Date Ordered">Дата ордера</value>
+    <value column="Description" isTrl="Y" original="The time listed on the order.">Дата указываемая в ордере.</value>
     <value column="Help" isTrl="N" original="Indicates the Date an item was ordered.">Indicates the Date an item was ordered.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10146,14 +10146,14 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="558" trl="N">
-    <value column="Name" isTrl="Y" original="Sales Order">Заказ клиента</value>
-    <value column="PrintName" isTrl="Y" original="Sales Order">Заказ клиента</value>
-    <value column="Description" isTrl="Y" original="A unique and often automatically generated identifier for a sales order.">Уникальный и чаще всего автоматически генерированный идентификатор заказов клиента.</value>
+    <value column="Name" isTrl="Y" original="Sales Order">Ордер клиента</value>
+    <value column="PrintName" isTrl="Y" original="Sales Order">Ордер клиента</value>
+    <value column="Description" isTrl="Y" original="A unique and often automatically generated identifier for a sales order.">Уникальный и чаще всего автоматически генерированный идентификатор ордеров клиента.</value>
     <value column="Help" isTrl="N" original="Unique identifier and a reference to a Sales Order originating from the document sequence defined for this document type.">Unique identifier and a reference to a Sales Order originating from the document sequence defined for this document type.</value>
-    <value column="PO_Description" isTrl="Y" original="A unique and often automatically generated identifier for a purchase order.">Уникальный и чаще всего автоматически генерированный идентификатор заказов поставщику.</value>
+    <value column="PO_Description" isTrl="Y" original="A unique and often automatically generated identifier for a purchase order.">Уникальный и чаще всего автоматически генерированный идентификатор ордеров поставщика.</value>
     <value column="PO_Help" isTrl="N" original="Unique identifier and a reference to a Purchase Order originating from the document sequence defined for this document type.">Unique identifier and a reference to a Purchase Order originating from the document sequence defined for this document type.</value>
-    <value column="PO_Name" isTrl="Y" original="Purchase Order">Заказ поставщику</value>
-    <value column="PO_PrintName" isTrl="Y" original="Purchase Order">Заказ поставщику</value>
+    <value column="PO_Name" isTrl="Y" original="Purchase Order">Ордер поставщика</value>
+    <value column="PO_PrintName" isTrl="Y" original="Purchase Order">Ордер поставщика</value>
   </row>
   <row id="559" trl="N">
     <value column="Name" isTrl="Y" original="Invoice Terms">Условия счёта</value>
@@ -10186,14 +10186,14 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="561" trl="N">
-    <value column="Name" isTrl="Y" original="Sales Order Line">Строка заказа клиента</value>
-    <value column="PrintName" isTrl="Y" original="Order Line">Строка зак. кл.</value>
+    <value column="Name" isTrl="Y" original="Sales Order Line">Строка ордера клиента</value>
+    <value column="PrintName" isTrl="Y" original="Order Line">Строка ордера кл.</value>
     <value column="Description" isTrl="N" original="A unique and often automatically generated identifier for a sales order line.">A unique and often automatically generated identifier for a sales order line.</value>
     <value column="Help" isTrl="N" original="A unique identifier and a reference to a sales order line (product).">A unique identifier and a reference to a sales order line (product).</value>
     <value column="PO_Description" isTrl="N" original="A unique and often automatically generated identifier for a purchase order line.">A unique and often automatically generated identifier for a purchase order line.</value>
     <value column="PO_Help" isTrl="N" original="A unique identifier and a reference to a purchase order line (product).">A unique identifier and a reference to a purchase order line (product).</value>
-    <value column="PO_Name" isTrl="Y" original="Purchase Order Line">Строка заказа поставщику</value>
-    <value column="PO_PrintName" isTrl="Y" original="Order Line">Строка зак. пост.</value>
+    <value column="PO_Name" isTrl="Y" original="Purchase Order Line">Строка ордера поставщика</value>
+    <value column="PO_PrintName" isTrl="Y" original="Order Line">Строка ордера пост.</value>
   </row>
   <row id="563" trl="N">
     <value column="Name" isTrl="Y" original="Volume of Sales">Объём продаж</value>
@@ -12934,8 +12934,8 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7C3B1415D4AF4EA09F8687E13D692A5D" trl="Y">
-    <value column="Name" isTrl="Y" original="Incoterms ( PO )">Инкотермс (заказа поставщику)</value>
-    <value column="PrintName" isTrl="Y" original="Incoterms ( PO )">Инкотермс (зак. пост.)</value>
+    <value column="Name" isTrl="Y" original="Incoterms ( PO )">Инкотермс (ордер поставщика)</value>
+    <value column="PrintName" isTrl="Y" original="Incoterms ( PO )">Инкотермс (ордер пост.)</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13154,14 +13154,14 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7FF22347490C844FE040007F01003861" trl="N">
-    <value column="Name" isTrl="Y" original="Order No.">Заказ №</value>
-    <value column="PrintName" isTrl="Y" original="Order No.">Заказ №</value>
-    <value column="Description" isTrl="N" original="Order Number">Номер заказа</value>
+    <value column="Name" isTrl="Y" original="Order No.">Ордер №</value>
+    <value column="PrintName" isTrl="Y" original="Order No.">Ордер №</value>
+    <value column="Description" isTrl="N" original="Order Number">Номер ордера клиента</value>
     <value column="Help" isTrl="N" original=""/>
-    <value column="PO_Description" isTrl="N" original="Order Number">Номер заказа</value>
+    <value column="PO_Description" isTrl="N" original="Order Number">Номер ордера поставщика</value>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="Y" original="Order No.">Заказ №</value>
-    <value column="PO_PrintName" isTrl="Y" original="Order No.">Заказ №</value>
+    <value column="PO_Name" isTrl="Y" original="Order No.">Ордер №</value>
+    <value column="PO_PrintName" isTrl="Y" original="Order No.">Ордер №</value>
   </row>
   <row id="7FF2C24C5675E74CE040007F010060F2" trl="N">
     <value column="Name" isTrl="N" original="Payment Schedule Detail">Payment Schedule Detail</value>
@@ -13264,8 +13264,8 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800002" trl="N">
-    <value column="Name" isTrl="Y" original="Order Quantity">Количество в заказе</value>
-    <value column="PrintName" isTrl="Y" original="Quantity order">Количество в заказе</value>
+    <value column="Name" isTrl="Y" original="Order Quantity">Количество в ордере</value>
+    <value column="PrintName" isTrl="Y" original="Quantity order">Количество в ордере</value>
     <value column="Description" isTrl="Y" original="The number of a certain item involved in the transaction, shown in units which differ from the standard UOM.">Количество товарных позиций указанных в единицах измерения отличных от стандартных.</value>
     <value column="Help" isTrl="N" original="&#10;Product quantity in the order uom.">
 Product quantity in the order uom.</value>
@@ -13275,9 +13275,9 @@ Product quantity in the order uom.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800003" trl="N">
-    <value column="Name" isTrl="Y" original="Order UOM">Единицы измерения в заказе</value>
-    <value column="PrintName" isTrl="Y" original="UOM order">Единицы измерения в заказе</value>
-    <value column="Description" isTrl="Y" original="The unit of measure being used for the request.">Какие единицы измерения используются в заказе.</value>
+    <value column="Name" isTrl="Y" original="Order UOM">Единицы измерения в ордере</value>
+    <value column="PrintName" isTrl="Y" original="UOM order">Единицы измерения в ордере</value>
+    <value column="Description" isTrl="Y" original="The unit of measure being used for the request.">Какие единицы измерения используются в ордере.</value>
     <value column="Help" isTrl="N" original="Alternative order UOM for the product.">Alternative order UOM for the product.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -17488,9 +17488,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800692" trl="N">
-    <value column="Name" isTrl="Y" original="Tax Category">Налоговая категория в заказе поставщику</value>
-    <value column="PrintName" isTrl="Y" original="PO BP Tax Category">Налог. кат. контр. в зак. пост.</value>
-    <value column="Description" isTrl="Y" original="Bussines Partner Tax Category as a Vendor">Налоговая категория контрагента(поставщика) в заказе</value>
+    <value column="Name" isTrl="Y" original="Tax Category">Налоговая категория в ордере поставщика</value>
+    <value column="PrintName" isTrl="Y" original="PO BP Tax Category">Налог. кат. контр. в ордере пост.</value>
+    <value column="Description" isTrl="Y" original="Bussines Partner Tax Category as a Vendor">Налоговая категория контрагента(поставщика) в ордере</value>
     <value column="Help" isTrl="N" original="PO Bussines Partner Tax Category is a category defined for apply default taxes for procurement transactions.">PO Bussines Partner Tax Category is a category defined for apply default taxes for procurement transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -18198,7 +18198,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800768" trl="N">
-    <value column="Name" isTrl="Y" original="Create Purchase Order">Создать заказ поставщику</value>
+    <value column="Name" isTrl="Y" original="Create Purchase Order">Создать ордер поставщика</value>
     <value column="PrintName" isTrl="N" original="Launchpo">Launchpo</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Process to generate purchase orders.">Process to generate purchase orders.</value>
@@ -18398,9 +18398,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800808" trl="N">
-    <value column="Name" isTrl="Y" original="SO BP Tax Category">Налоговая категория в заказе клиента</value>
-    <value column="PrintName" isTrl="Y" original="SO BP Tax Category">Налог. кат. контр. в зак. кл.</value>
-    <value column="Description" isTrl="Y" original="SO BP Tax Category">Налоговая категория контрагента(клиента) в заказе</value>
+    <value column="Name" isTrl="Y" original="SO BP Tax Category">Налоговая категория в ордере клиента</value>
+    <value column="PrintName" isTrl="Y" original="SO BP Tax Category">Налог. кат. контр. в ордере кл.</value>
+    <value column="Description" isTrl="Y" original="SO BP Tax Category">Налоговая категория контрагента(клиента) в ордере</value>
     <value column="Help" isTrl="N" original="Bussines Partner Tax Category is a category defined for apply default taxes for sales transactions.">Bussines Partner Tax Category is a category defined for apply default taxes for sales transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -18498,10 +18498,10 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800818" trl="Y">
-    <value column="Name" isTrl="Y" original="Copy from PO">Копировать из заказа поставщику</value>
-    <value column="PrintName" isTrl="Y" original="Copy from PO">Копировать из заказа поставщику</value>
-    <value column="Description" isTrl="Y" original="Copy lines from orders">Копировать строки из заказов поставщику</value>
-    <value column="Help" isTrl="Y" original="Copy lines from orders">Копировать строки из заказов поставщику</value>
+    <value column="Name" isTrl="Y" original="Copy from PO">Копировать из ордера поставщика</value>
+    <value column="PrintName" isTrl="Y" original="Copy from PO">Копировать из ордера поставщика</value>
+    <value column="Description" isTrl="Y" original="Copy lines from orders">Копировать строки из ордеров поставщика</value>
+    <value column="Help" isTrl="Y" original="Copy lines from orders">Копировать строки из ордеров поставщика</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -18868,8 +18868,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="828EE0AE80315FA1E040007F010067C7" trl="Y">
-    <value column="Name" isTrl="Y" original="PO Payment Method">Способ оплаты заказа поставщику</value>
-    <value column="PrintName" isTrl="Y" original="PO Payment Method">Способ оплаты зак. пост.</value>
+    <value column="Name" isTrl="Y" original="PO Payment Method">Способ оплаты ордера поставщика</value>
+    <value column="PrintName" isTrl="Y" original="PO Payment Method">Способ оплаты ордера пост.</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -18878,8 +18878,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="828EE0AE80325FA1E040007F010067C7" trl="Y">
-    <value column="Name" isTrl="Y" original="PO Financial Account">Финансовый счёт для заказа поставщику</value>
-    <value column="PrintName" isTrl="Y" original="PO Financial Account">Счёт для зак. пост.</value>
+    <value column="Name" isTrl="Y" original="PO Financial Account">Финансовый счёт для ордера поставщика</value>
+    <value column="PrintName" isTrl="Y" original="PO Financial Account">Счёт для ордера пост.</value>
     <value column="Description" isTrl="Y" original="Financial account used to deposit / withdrawal money such as bank accounts or petty cash">Счёт по движению капиталов(финансов) в балансе используется для отражения поступлений/выдачи денежных средств с банковских счетов или кассы.</value>
     <value column="Help" isTrl="Y" original="Financial account used to deposit / withdrawal money such as bank accounts or petty cash">Счёт по движению капиталов(финансов) в балансе используется для отражения поступлений/выдачи денежных средств с банковских счетов или кассы.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20345,8 +20345,8 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="950" trl="N">
-    <value column="Name" isTrl="Y" original="PO Form of Payment">Форма оплаты заказа поставщику</value>
-    <value column="PrintName" isTrl="Y" original="PO Form of Payment">Форма оплаты зак. пост.</value>
+    <value column="Name" isTrl="Y" original="PO Form of Payment">Форма оплаты ордера поставщика</value>
+    <value column="PrintName" isTrl="Y" original="PO Form of Payment">Форма оплаты ордера пост.</value>
     <value column="Description" isTrl="Y" original="The method used to pay the request.">Форма оплаты закупки.</value>
     <value column="Help" isTrl="N" original="The Payment Rule indicates the method of purchase payment.">The Payment Rule indicates the method of purchase payment.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20375,9 +20375,9 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="952" trl="N">
-    <value column="Name" isTrl="Y" original="Order Reference">Ссылка на заказ</value>
-    <value column="PrintName" isTrl="Y" original="Order Reference">Ссылка на заказ</value>
-    <value column="Description" isTrl="Y" original="A reference or document order number as listed in business partner application.">Ссылку или порядковый номер документа указанный в системе контрагента.</value>
+    <value column="Name" isTrl="Y" original="Order Reference">Ссылка на ордер</value>
+    <value column="PrintName" isTrl="Y" original="Order Reference">Ссылка на ордер</value>
+    <value column="Description" isTrl="Y" original="A reference or document order number as listed in business partner application.">Ссылку или порядковый номер документа ордера указанный в системе контрагента.</value>
     <value column="Help" isTrl="N" original="This can be used to input a reference for this specific transaction. For example, a Purchase Order number can be input on a Sales Order for easier reference.">This can be used to input a reference for this specific transaction. For example, a Purchase Order number can be input on a Sales Order for easier reference.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -20505,8 +20505,8 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="9834B278E78E4BAD9ACD0266E3253F09" trl="N">
-    <value column="Name" isTrl="Y" original="Create Order">Создать заказ</value>
-    <value column="PrintName" isTrl="Y" original="Create Order">Создать заказ</value>
+    <value column="Name" isTrl="Y" original="Create Order">Создать ордер</value>
+    <value column="PrintName" isTrl="Y" original="Create Order">Создать ордер</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21970,8 +21970,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CE883E359962707CE040007F01002B1E" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order Line">Строка заказа поставщику</value>
-    <value column="PrintName" isTrl="Y" original="Purchase Order Line">Строка заказа поставщику</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Line">Строка ордера поставщика</value>
+    <value column="PrintName" isTrl="Y" original="Purchase Order Line">Строка ордера поставщика</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Identifies a Purchase Order Line">Identifies a Purchase Order Line</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22221,8 +22221,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="DBADCCC197DA42558F8CD6CE68530A20" trl="Y">
-    <value column="Name" isTrl="Y" original="Incoterms ( SO )">Инкотермс (Заказа клиента)</value>
-    <value column="PrintName" isTrl="Y" original="Incoterms ( SO )">Инкотермс (Зак. кл.)</value>
+    <value column="Name" isTrl="Y" original="Incoterms ( SO )">Инкотермс (Ордера клиента)</value>
+    <value column="PrintName" isTrl="Y" original="Incoterms ( SO )">Инкотермс ((Ордера кл.)</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

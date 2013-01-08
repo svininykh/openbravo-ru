@@ -61,7 +61,7 @@
     <value column="Help" isTrl="Y" original="Post the TaxPayment">Провести оплату налога</value>
   </row>
   <row id="1004400000" trl="N">
-    <value column="Name" isTrl="Y" original="Create Purchase Order">Создать заказ поставщику</value>
+    <value column="Name" isTrl="Y" original="Create Purchase Order">Создать ордер поставщика</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="In order to create a Purchase Order from selected Requisition Lines, it is necessary to set some values:&lt;br/&gt;&#10;Order Date: The date of the Purchase Order&lt;br/&gt;&#10;Business Partner, Price List and Organization: If all the selected requisition lines have a common Business Partner, Price List or Organization, then the common value is shown in the appropriate field.&lt;br/&gt;&#10;For other required values the corresponding default values are used.&lt;br/&gt;&#10;Once the Purchase Order is created, it is marked as Completed and its Document Number is shown in the success message.">In order to create a Purchase Order from selected Requisition Lines, it is necessary to set some values:&lt;br/&gt;
 Order Date: The date of the Purchase Order&lt;br/&gt;
@@ -120,9 +120,9 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Help" isTrl="N" original="Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.">Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.</value>
   </row>
   <row id="104" trl="Y">
-    <value column="Name" isTrl="Y" original="Process Order">Обработать заказ</value>
-    <value column="Description" isTrl="Y" original="Process Order">Обработать заказ</value>
-    <value column="Help" isTrl="Y" original="Process Order">Обработать заказ</value>
+    <value column="Name" isTrl="Y" original="Process Order">Обработать ордер</value>
+    <value column="Description" isTrl="Y" original="Process Order">Обработать ордер</value>
+    <value column="Help" isTrl="Y" original="Process Order">Обработать ордер</value>
   </row>
   <row id="105" trl="N">
     <value column="Name" isTrl="N" original="Create Inventory Count List">Create Inventory Count List</value>
@@ -451,8 +451,8 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Select either a table to create a print format [creates initial rough layout]|OR a print format to copy into the current print format [copies layout].">Select either a table to create a print format [creates initial rough layout]|OR a print format to copy into the current print format [copies layout].</value>
   </row>
   <row id="193" trl="N">
-    <value column="Name" isTrl="Y" original="Generate PO from Sales Order">Заказ поставщику по заказу клиента</value>
-    <value column="Description" isTrl="Y" original="Create Purchase Order from Sales Orders">Создать заказ поставщику на основании заказов клиента</value>
+    <value column="Name" isTrl="Y" original="Generate PO from Sales Order">Ордер поставщика по ордеру клиента</value>
+    <value column="Description" isTrl="Y" original="Create Purchase Order from Sales Orders">Создать ордер поставщика на основании ордера клиента</value>
     <value column="Help" isTrl="N" original="After completing sales orders, you can create one or more purchase orders for each sales order. A purchase order references always only one sales order (i.e. no consolidation of sales orders).||POs are created for all sales order lines where the product h">After completing sales orders, you can create one or more purchase orders for each sales order. A purchase order references always only one sales order (i.e. no consolidation of sales orders).||POs are created for all sales order lines where the product h</value>
   </row>
   <row id="198" trl="N">
@@ -750,7 +750,7 @@ This process:&lt;br/&gt;
   </row>
   <row id="800022" trl="N">
     <value column="Name" isTrl="Y" original="Copy Product Template">Копировать шаблон товара</value>
-    <value column="Description" isTrl="Y" original="Copy products from the business partner's template of that sales order.">Копировать товары для данного контрагента из шаблона этого заказа клиента.</value>
+    <value column="Description" isTrl="Y" original="Copy products from the business partner's template of that sales order.">Копировать товары для данного контрагента из шаблона этого ордера клиента.</value>
     <value column="Help" isTrl="N" original="Copy products from the business partner's template of that sales order.">Copy products from the business partner's template of that sales order.</value>
   </row>
   <row id="800023" trl="N">
@@ -1214,9 +1214,9 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Process Purchase Plan">Process Purchase Plan</value>
   </row>
   <row id="800165" trl="Y">
-    <value column="Name" isTrl="Y" original="Copy from Order">Копировать из заказа</value>
-    <value column="Description" isTrl="Y" original="Copy From Order">Копировать из заказа</value>
-    <value column="Help" isTrl="Y" original="Copies lines from Order">Копировать строки из заказа</value>
+    <value column="Name" isTrl="Y" original="Copy from Order">Копировать из ордера</value>
+    <value column="Description" isTrl="Y" original="Copy From Order">Копировать из ордера</value>
+    <value column="Help" isTrl="Y" original="Copies lines from Order">Копировать строки из ордера</value>
   </row>
   <row id="800168" trl="N">
     <value column="Name" isTrl="N" original="Not Posted Transaction Report">Not Posted Transaction Report</value>
@@ -1234,8 +1234,8 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="AlertProcess">AlertProcess</value>
   </row>
   <row id="800171" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order Report">Отчет Заказы поставщику</value>
-    <value column="Description" isTrl="Y" original="Purchase Order Report">Отчёт по заказам поставщику</value>
+    <value column="Name" isTrl="Y" original="Purchase Order Report">Отчет Ордеры поставщика</value>
+    <value column="Description" isTrl="Y" original="Purchase Order Report">Отчёт по ордерам поставщика</value>
     <value column="Help" isTrl="N" original="This report displays a detailed list of the purchase orders issued to the suppliers.">This report displays a detailed list of the purchase orders issued to the suppliers.</value>
   </row>
   <row id="800172" trl="N">
@@ -1259,8 +1259,8 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Customer Invoice Report JR">Customer Invoice Report JR</value>
   </row>
   <row id="800176" trl="N">
-    <value column="Name" isTrl="Y" original="Sales Order Report">Отчет Заказы клиента</value>
-    <value column="Description" isTrl="Y" original="Sales Order Report">Отчёт по заказам клиента</value>
+    <value column="Name" isTrl="Y" original="Sales Order Report">Отчет Ордеры клиента</value>
+    <value column="Description" isTrl="Y" original="Sales Order Report">Отчёт по ордерам клиента</value>
     <value column="Help" isTrl="N" original="Sales Order Report JR">Sales Order Report JR</value>
   </row>
   <row id="800177" trl="N">
@@ -1430,7 +1430,7 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="A3FE1F9892394386A49FB707AA50A0FA" trl="N">
-    <value column="Name" isTrl="Y" original="Create Order">Создать заказ</value>
+    <value column="Name" isTrl="Y" original="Create Order">Создать ордер</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity.  If the firm quote check box is deselected and the price list is modified after quotation, prices will be reflect these changes in the sales order or invoice">A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity.  If the firm quote check box is deselected and the price list is modified after quotation, prices will be reflect these changes in the sales order or invoice</value>
   </row>

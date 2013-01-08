@@ -95,7 +95,7 @@
     <value column="Text" isTrl="N" original="Subject: Certification of compensation subject to withholding">Subject: Certification of compensation subject to withholding</value>
   </row>
   <row id="1000200007" trl="N">
-    <value column="Text" isTrl="Y" original="Order Number">Номер заказа</value>
+    <value column="Text" isTrl="Y" original="Order Number">Номер ордера</value>
   </row>
   <row id="1000400000" trl="N">
     <value column="Text" isTrl="N" original="Complete and Process Sales Orders automatically">Complete and Process Sales Orders automatically</value>
@@ -356,7 +356,7 @@
     <value column="Text" isTrl="Y" original="Loading...">Загрузка...</value>
   </row>
   <row id="1000600052" trl="N">
-    <value column="Text" isTrl="Y" original="Order Selector">Подбор заказа</value>
+    <value column="Text" isTrl="Y" original="Order Selector">Подбор ордера</value>
   </row>
   <row id="1000600053" trl="N">
     <value column="Text" isTrl="Y" original="Date of First Sale">Дата первой продажи</value>
@@ -371,7 +371,7 @@
     <value column="Text" isTrl="Y" original="Loading...">Загрузка...</value>
   </row>
   <row id="1000600057" trl="N">
-    <value column="Text" isTrl="Y" original="Order Line selector">Подбор строки заказа</value>
+    <value column="Text" isTrl="Y" original="Order Line selector">Подбор строки ордера</value>
   </row>
   <row id="1000600058" trl="N">
     <value column="Text" isTrl="Y" original="Date of First Sale">Дата первой продажи</value>
@@ -539,7 +539,7 @@
     <value column="Text" isTrl="Y" original="Loading">Загрузка</value>
   </row>
   <row id="1001600000" trl="N">
-    <value column="Text" isTrl="Y" original="Copy lines from order">Копировать строки из заказа</value>
+    <value column="Text" isTrl="Y" original="Copy lines from order">Копировать строки из ордера</value>
   </row>
   <row id="1002100139" trl="N">
     <value column="Text" isTrl="N" original="Annual Certification">Annual Certification</value>
@@ -635,7 +635,7 @@
     <value column="Text" isTrl="N" original="Total Client:">Total Client:</value>
   </row>
   <row id="1003900029" trl="N">
-    <value column="Text" isTrl="Y" original="Order Date:">Дата заказа:</value>
+    <value column="Text" isTrl="Y" original="Order Date:">Дата ордера:</value>
   </row>
   <row id="1003900032" trl="N">
     <value column="Text" isTrl="N" original="Client:">Client:</value>
@@ -674,7 +674,7 @@
     <value column="Text" isTrl="N" original="Ref.">Ref.</value>
   </row>
   <row id="1004400015" trl="N">
-    <value column="Text" isTrl="Y" original="Requisition to Order">Заказ по заявке</value>
+    <value column="Text" isTrl="Y" original="Requisition to Order">Ордер по заявке</value>
   </row>
   <row id="1004400020" trl="N">
     <value column="Text" isTrl="Y" original="Requester">Заявитель</value>
@@ -701,7 +701,7 @@
     <value column="Text" isTrl="Y" original="Matched">Наличие</value>
   </row>
   <row id="1004400039" trl="N">
-    <value column="Text" isTrl="Y" original="Create Purchase Order">Создать заказ поставщику</value>
+    <value column="Text" isTrl="Y" original="Create Purchase Order">Создать ордер поставщика</value>
   </row>
   <row id="1004400040" trl="N">
     <value column="Text" isTrl="Y" original="Vendor">Поставщик</value>
@@ -1188,7 +1188,7 @@
     <value column="Text" isTrl="N" original="Value">Value</value>
   </row>
   <row id="4EEFB2221A1611DEAEA3001EEC1F37D2" trl="N">
-    <value column="Text" isTrl="Y" original="Ordered Date">Дата заказа</value>
+    <value column="Text" isTrl="Y" original="Ordered Date">Дата ордера</value>
   </row>
   <row id="4EF9B9F21A1611DEAC7A001EEC1F37D2" trl="N">
     <value column="Text" isTrl="Y" original="Promised Date">Дата оговорённая</value>
@@ -2980,7 +2980,7 @@
     <value column="Text" isTrl="N" original="Change Project Status">Change Project Status</value>
   </row>
   <row id="805006" trl="N">
-    <value column="Text" isTrl="Y" original="Sales Order">Заказ клиента</value>
+    <value column="Text" isTrl="Y" original="Sales Order">Ордер клиента</value>
   </row>
   <row id="805010" trl="N">
     <value column="Text" isTrl="N" original="Edit Control Point Measures">Edit Control Point Measures</value>
@@ -3226,7 +3226,7 @@
     <value column="Text" isTrl="Y" original="Items lineked to">Объекты ссылаются на</value>
   </row>
   <row id="806047" trl="N">
-    <value column="Text" isTrl="Y" original="Sales Order - Order Line">Заказ клиента - Строка заказа</value>
+    <value column="Text" isTrl="Y" original="Sales Order - Order Line">Ордер клиента - Строка ордера</value>
   </row>
   <row id="806048" trl="N">
     <value column="Text" isTrl="Y" original="Invoice Line Selector">Подбор строки счёт-фактуры</value>
@@ -3364,10 +3364,10 @@
     <value column="Text" isTrl="Y" original="Month">Месяц</value>
   </row>
   <row id="806668" trl="N">
-    <value column="Text" isTrl="Y" original="Order Date">Дата заказа</value>
+    <value column="Text" isTrl="Y" original="Order Date">Дата ордера</value>
   </row>
   <row id="806669" trl="N">
-    <value column="Text" isTrl="N" original="Shipment Date">Shipment Date</value>
+    <value column="Text" isTrl="Y" original="Shipment Date">Дата расходной накладной</value>
   </row>
   <row id="806670" trl="N">
     <value column="Text" isTrl="Y" original="Delivery Date">Дата доставки</value>
@@ -3598,7 +3598,7 @@
     <value column="Text" isTrl="Y" original="Contact">Контакт</value>
   </row>
   <row id="807078" trl="N">
-    <value column="Text" isTrl="Y" original="Copy From Order">Копировать из заказа</value>
+    <value column="Text" isTrl="Y" original="Copy From Order">Копировать из ордера</value>
   </row>
   <row id="807080" trl="N">
     <value column="Text" isTrl="N" original="Cost">Cost</value>
@@ -3904,16 +3904,16 @@
     <value column="Text" isTrl="N" original="Open debt payments">Open debt payments</value>
   </row>
   <row id="807221" trl="N">
-    <value column="Text" isTrl="Y" original="Order">Заказ</value>
+    <value column="Text" isTrl="Y" original="Order">Ордер</value>
   </row>
   <row id="807224" trl="N">
-    <value column="Text" isTrl="Y" original="Order line selector">Подбор строки заказа</value>
+    <value column="Text" isTrl="Y" original="Order line selector">Подбор строки ордера</value>
   </row>
   <row id="807226" trl="N">
-    <value column="Text" isTrl="Y" original="Order No.">Заказ №</value>
+    <value column="Text" isTrl="Y" original="Order No.">Ордер №</value>
   </row>
   <row id="807227" trl="N">
-    <value column="Text" isTrl="Y" original="Order selector">Подбор заказа</value>
+    <value column="Text" isTrl="Y" original="Order selector">Подбор ордера</value>
   </row>
   <row id="807228" trl="N">
     <value column="Text" isTrl="N" original="Other units">Other units</value>
@@ -4021,10 +4021,10 @@
     <value column="Text" isTrl="Y" original="Purchase invoices report">Отчёт по приходным счетам-фактуры</value>
   </row>
   <row id="807277" trl="N">
-    <value column="Text" isTrl="Y" original="Purchase order">Заказ поставщику</value>
+    <value column="Text" isTrl="Y" original="Purchase order">Ордер поставщика</value>
   </row>
   <row id="807278" trl="N">
-    <value column="Text" isTrl="Y" original="Purchase orders report">Отчет по заказам поставщику</value>
+    <value column="Text" isTrl="Y" original="Purchase orders report">Отчёт по ордерам поставщика</value>
   </row>
   <row id="807279" trl="N">
     <value column="Text" isTrl="Y" original="Purchase transaction">Приходная транзакция</value>
@@ -4606,10 +4606,10 @@
     <value column="Text" isTrl="Y" original="Invoice Number">Номер счёт-фактуры</value>
   </row>
   <row id="808630" trl="N">
-    <value column="Text" isTrl="Y" original="Purchase Order Report">Отчет Заказ поставщику</value>
+    <value column="Text" isTrl="Y" original="Purchase Order Report">Отчет Ордеры поставщика</value>
   </row>
   <row id="808632" trl="N">
-    <value column="Text" isTrl="N" original="Product Cat.">Product Cat.</value>
+    <value column="Text" isTrl="Y" original="Product Cat.">Категория товара</value>
   </row>
   <row id="808637" trl="N">
     <value column="Text" isTrl="Y" original="Invoice Date:">Дата выставления:</value>
@@ -4621,7 +4621,7 @@
     <value column="Text" isTrl="N" original="Pending Qty">Pending Qty</value>
   </row>
   <row id="808677" trl="N">
-    <value column="Text" isTrl="Y" original="Order Number">Номер заказа</value>
+    <value column="Text" isTrl="Y" original="Order Number">Номер ордера</value>
   </row>
   <row id="808700" trl="N">
     <value column="Text" isTrl="N" original="Refunded Sales Orders Report">Refunded Sales Orders Report</value>
@@ -4702,10 +4702,10 @@
     <value column="Text" isTrl="Y" original="PARTNER NAME">НАЗВАНИЕ КОНТРАГЕНТА</value>
   </row>
   <row id="809889" trl="Y">
-    <value column="Text" isTrl="Y" original="ORDER">ЗАКАЗ</value>
+    <value column="Text" isTrl="Y" original="ORDER">ОРДЕР</value>
   </row>
   <row id="809890" trl="Y">
-    <value column="Text" isTrl="Y" original="ORDER DATE">ДАТА ЗАКАЗА</value>
+    <value column="Text" isTrl="Y" original="ORDER DATE">ДАТА ОРДЕРА</value>
   </row>
   <row id="809892" trl="Y">
     <value column="Text" isTrl="Y" original="TYPE">ТИП</value>
@@ -4771,7 +4771,7 @@
     <value column="Text" isTrl="N" original="Global consume:">Global consume:</value>
   </row>
   <row id="809928" trl="N">
-    <value column="Text" isTrl="Y" original="ORDER NO.">ЗАКАЗ №</value>
+    <value column="Text" isTrl="Y" original="ORDER NO.">ОРДЕР №</value>
   </row>
   <row id="809930" trl="N">
     <value column="Text" isTrl="Y" original="% Tax">% налога</value>
@@ -5470,16 +5470,16 @@
     <value column="Text" isTrl="N" original=" is the process to install a new major version of the product (eg. from version 2.50 to 3.0). Major versions include broad set of new features and usually require to train end users before deploying it into the production environment."> is the process to install a new major version of the product (eg. from version 2.50 to 3.0). Major versions include broad set of new features and usually require to train end users before deploying it into the production environment.</value>
   </row>
   <row id="AF4DC8EC6A654F469E25D9C768923CFF" trl="N">
-    <value column="Text" isTrl="Y" original="PURCHASE ORDER">ЗАКАЗ ПОСТАВЩИКУ</value>
+    <value column="Text" isTrl="Y" original="PURCHASE ORDER">ОРДЕР ПОСТАВЩИКА</value>
   </row>
   <row id="AFCD145A40ED45F5B9A8FD87CC7DF6FF" trl="N">
     <value column="Text" isTrl="Y" original="Balance As Of">Сальдо баланса</value>
   </row>
   <row id="B0310282628911DE8D8512313C002DE1" trl="N">
-    <value column="Text" isTrl="Y" original="PURCHASE ORDER">ЗАКАЗ ПОСТАВЩИКУ</value>
+    <value column="Text" isTrl="Y" original="PURCHASE ORDER">ОРДЕР ПОСТАВЩИКА</value>
   </row>
   <row id="B043CE30628911DEABA612313C002DE1" trl="N">
-    <value column="Text" isTrl="Y" original="SALES ORDER">ЗАКАЗ КЛИЕНТА</value>
+    <value column="Text" isTrl="Y" original="SALES ORDER">ОРДЕР КЛИЕНТА</value>
   </row>
   <row id="B128718462344DF0B232A5CF1CB220BF" trl="N">
     <value column="Text" isTrl="N" original="[ Remove ]">[ Remove ]</value>

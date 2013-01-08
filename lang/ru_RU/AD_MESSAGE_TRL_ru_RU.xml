@@ -936,7 +936,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300038" trl="N">
-    <value column="MsgText" isTrl="Y" original="Order">Заказ</value>
+    <value column="MsgText" isTrl="Y" original="Order">Ордер</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300039" trl="N">
@@ -952,7 +952,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300042" trl="N">
-    <value column="MsgText" isTrl="Y" original="Order">Заказ</value>
+    <value column="MsgText" isTrl="Y" original="Order">Ордер</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300043" trl="N">
@@ -5941,11 +5941,11 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804721" trl="N">
-    <value column="MsgText" isTrl="Y" original="Order No.">Заказ №</value>
+    <value column="MsgText" isTrl="Y" original="Order No.">Ордер №</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804722" trl="N">
-    <value column="MsgText" isTrl="N" original="Shipment No.">Shipment No.</value>
+    <value column="MsgText" isTrl="Y" original="Shipment No.">Расходная накладная №</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804724" trl="N">
