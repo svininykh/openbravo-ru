@@ -653,64 +653,64 @@
     <value column="Text" isTrl="N" original="Process:">Process:</value>
   </row>
   <row id="1004400008" trl="N">
-    <value column="Text" isTrl="N" original="Qty.">Qty.</value>
+    <value column="Text" isTrl="Y" original="Qty.">Кол-во</value>
   </row>
   <row id="1004400009" trl="N">
-    <value column="Text" isTrl="N" original="Need by">Need by</value>
+    <value column="Text" isTrl="Y" original="Need by">Необходимо</value>
   </row>
   <row id="1004400010" trl="N">
-    <value column="Text" isTrl="N" original="REQUISITION">REQUISITION</value>
+    <value column="Text" isTrl="Y" original="REQUISITION">ЗАЯВКА</value>
   </row>
   <row id="1004400011" trl="N">
-    <value column="Text" isTrl="N" original="Requisition Number">Requisition Number</value>
+    <value column="Text" isTrl="Y" original="Requisition Number">Номер заявки</value>
   </row>
   <row id="1004400012" trl="N">
-    <value column="Text" isTrl="N" original="Requester">Requester</value>
+    <value column="Text" isTrl="Y" original="Requester">Заявитель</value>
   </row>
   <row id="1004400013" trl="N">
-    <value column="Text" isTrl="N" original="PAGE:">PAGE:</value>
+    <value column="Text" isTrl="Y" original="PAGE:">СТРАНИЦА:</value>
   </row>
   <row id="1004400014" trl="N">
     <value column="Text" isTrl="N" original="Ref.">Ref.</value>
   </row>
   <row id="1004400015" trl="N">
-    <value column="Text" isTrl="N" original="Requisition to Order">Requisition to Order</value>
+    <value column="Text" isTrl="Y" original="Requisition to Order">Заказ по заявке</value>
   </row>
   <row id="1004400020" trl="N">
-    <value column="Text" isTrl="N" original="Requester">Requester</value>
+    <value column="Text" isTrl="Y" original="Requester">Заявитель</value>
   </row>
   <row id="1004400021" trl="N">
-    <value column="Text" isTrl="N" original="Vendor">Vendor</value>
+    <value column="Text" isTrl="Y" original="Vendor">Поставщик</value>
   </row>
   <row id="1004400023" trl="N">
-    <value column="Text" isTrl="N" original="Need by date">Need by date</value>
+    <value column="Text" isTrl="Y" original="Need by date">Необходимо до даты</value>
   </row>
   <row id="1004400024" trl="N">
-    <value column="Text" isTrl="N" original="Vendor - PriceList">Vendor - PriceList</value>
+    <value column="Text" isTrl="Y" original="Vendor - PriceList">Поставщик - Прейскурант</value>
   </row>
   <row id="1004400025" trl="N">
-    <value column="Text" isTrl="N" original="Remove">Remove</value>
+    <value column="Text" isTrl="Y" original="Remove">Удалить</value>
   </row>
   <row id="1004400026" trl="N">
-    <value column="Text" isTrl="N" original="NeedByDate">NeedByDate</value>
+    <value column="Text" isTrl="Y" original="NeedByDate">Необходимо до даты</value>
   </row>
   <row id="1004400027" trl="N">
-    <value column="Text" isTrl="N" original="Req. Qty">Req. Qty</value>
+    <value column="Text" isTrl="Y" original="Req. Qty">Заяв. кол-во</value>
   </row>
   <row id="1004400028" trl="N">
-    <value column="Text" isTrl="N" original="Matched">Matched</value>
+    <value column="Text" isTrl="Y" original="Matched">Наличие</value>
   </row>
   <row id="1004400039" trl="N">
-    <value column="Text" isTrl="N" original="Create Purchase Order">Create Purchase Order</value>
+    <value column="Text" isTrl="Y" original="Create Purchase Order">Создать заказ поставщику</value>
   </row>
   <row id="1004400040" trl="N">
-    <value column="Text" isTrl="N" original="Vendor">Vendor</value>
+    <value column="Text" isTrl="Y" original="Vendor">Поставщик</value>
   </row>
   <row id="1004400044" trl="N">
-    <value column="Text" isTrl="N" original="Create">Create</value>
+    <value column="Text" isTrl="Y" original="Create">Создать</value>
   </row>
   <row id="1004400045" trl="N">
-    <value column="Text" isTrl="N" original="Add lines without Vendor">Add lines without Vendor</value>
+    <value column="Text" isTrl="Y" original="Add lines without Vendor">Добавить строки без поставщика</value>
   </row>
   <row id="1005300010" trl="N">
     <value column="Text" isTrl="Y" original="The login form is being loaded. If it doesn't succeed, press the button below.">Форма входа загружается. Если это не удастся сделать, нажмите на кнопку ниже.</value>
@@ -1050,13 +1050,13 @@
     <value column="Text" isTrl="N" original="Install upgrade now">Install upgrade now</value>
   </row>
   <row id="332430557CCF4B2680A237E7453CBA7D" trl="N">
-    <value column="Text" isTrl="N" original="Ready to invoice">Ready to invoice</value>
+    <value column="Text" isTrl="N" original="Ready to invoice">Готово к выставлению</value>
   </row>
   <row id="3333C7C7CF284439A7142661581802D8" trl="N">
     <value column="Text" isTrl="N" original=" are the least mature while those in status  "> are the least mature while those in status  </value>
   </row>
   <row id="3422742A16694F0C8D6EBEE41CA92F7F" trl="N">
-    <value column="Text" isTrl="N" original="SALES QUOTATION">SALES QUOTATION</value>
+    <value column="Text" isTrl="Y" original="SALES QUOTATION">ПРЕДЛОЖЕНИЕ КЛИЕНТУ</value>
   </row>
   <row id="355D9844DE1648C28836A59F77C4E6DD" trl="N">
     <value column="Text" isTrl="N" original="You must either fix the problems or uninstall these modules before you can install this upgrade.">You must either fix the problems or uninstall these modules before you can install this upgrade.</value>
@@ -1089,7 +1089,7 @@
     <value column="Text" isTrl="N" original="VO">VO</value>
   </row>
   <row id="3A7050A72ED04D4394F64EEE10309EBE" trl="N">
-    <value column="Text" isTrl="N" original="Dimensions         ">Dimensions         </value>
+    <value column="Text" isTrl="Y" original="Dimensions         ">Субконто         </value>
   </row>
   <row id="3CC1A847C2DF43629F56C6B6EB9F7A0D" trl="N">
     <value column="Text" isTrl="N" original="Credit line limit">Credit line limit</value>
@@ -1494,7 +1494,7 @@
     <value column="Text" isTrl="Y" original="File name">Имя файла</value>
   </row>
   <row id="5E3AD9477F0E4EC0E040007F01004301" trl="N">
-    <value column="Text" isTrl="Y" original="Organization type">Тип организации</value>
+    <value column="Text" isTrl="Y" original="Organization type">Вид организации</value>
   </row>
   <row id="5E3AD9477F0F4EC0E040007F01004301" trl="N">
     <value column="Text" isTrl="Y" original="Parent organization">Головная организация</value>

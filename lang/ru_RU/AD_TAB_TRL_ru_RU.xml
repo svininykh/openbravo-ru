@@ -3301,7 +3301,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add products to be included in your MRP forecast.  Each product is added by creating a line.">Add products to be included in your MRP forecast.  Each product is added by creating a line.</value>
   </row>
   <row id="800249" trl="N">
-    <value column="Name" isTrl="N" original="Requisition">Requisition</value>
+    <value column="Name" isTrl="Y" original="Requisition">Заявка</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create requests for the procurement department to buy necessary items based on your defined plan.">Create requests for the procurement department to buy necessary items based on your defined plan.</value>
     <value column="Filtername" isTrl="N" original=""/>

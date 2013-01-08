@@ -9076,8 +9076,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="4B4FE5FD9E234FC3A704B77C67C8ECFB" trl="Y">
-    <value column="Name" isTrl="Y" original="Quotation">По заказу клиента</value>
-    <value column="PrintName" isTrl="Y" original="Quotation">По заказу клиента</value>
+    <value column="Name" isTrl="Y" original="Quotation">По предложению</value>
+    <value column="PrintName" isTrl="Y" original="Quotation">По предложению</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11857,8 +11857,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="619" trl="N">
-    <value column="Name" isTrl="N" original="Validation Type">Validation Type</value>
-    <value column="PrintName" isTrl="N" original="Validation type">Validation type</value>
+    <value column="Name" isTrl="Y" original="Validation Type">Тип проверки даты</value>
+    <value column="PrintName" isTrl="Y" original="Validation type">Тип проверки даты</value>
     <value column="Description" isTrl="N" original="Different method of validating data">Different method of validating data</value>
     <value column="Help" isTrl="N" original="The Validation Type indicates the validation method to use.  These include list, table or data type validation.">The Validation Type indicates the validation method to use.  These include list, table or data type validation.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11867,8 +11867,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="61A0316BE9F43875E040007F01005314" trl="N">
-    <value column="Name" isTrl="N" original="Last Build">Last Build</value>
-    <value column="PrintName" isTrl="N" original="Last Build">Last Build</value>
+    <value column="Name" isTrl="Y" original="Last Build">Последняя сборка</value>
+    <value column="PrintName" isTrl="Y" original="Last Build">Последняя сборка</value>
     <value column="Description" isTrl="N" original="Last time the system was built">Last time the system was built</value>
     <value column="Help" isTrl="N" original="Indicates the last time the system was built, its purpose is to add the ability of knowing which are the modifications done since that time in order to determinate the objects that need to be re-created.">Indicates the last time the system was built, its purpose is to add the ability of knowing which are the modifications done since that time in order to determinate the objects that need to be re-created.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11909,8 +11909,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="622" trl="N">
-    <value column="Name" isTrl="N" original="Vendor Category">Vendor Category</value>
-    <value column="PrintName" isTrl="N" original="Vendor category">Vendor category</value>
+    <value column="Name" isTrl="Y" original="Vendor Category">Категория товара у поставщика</value>
+    <value column="PrintName" isTrl="Y" original="Vendor category">Категория товара у поставщика</value>
     <value column="Description" isTrl="N" original="A classification of vendors based on similar characteristics or attributes.">A classification of vendors based on similar characteristics or attributes.</value>
     <value column="Help" isTrl="N" original="The Vendor Category identifies the category used by the vendor for this product.">The Vendor Category identifies the category used by the vendor for this product.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11919,8 +11919,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="623" trl="N">
-    <value column="Name" isTrl="N" original="Vendor Product No.">Vendor Product No.</value>
-    <value column="PrintName" isTrl="N" original="Vendor Product No">Vendor Product No</value>
+    <value column="Name" isTrl="Y" original="Vendor Product No.">Код товара у поставщика</value>
+    <value column="PrintName" isTrl="Y" original="Vendor Product No">Код товара у поставщика</value>
     <value column="Description" isTrl="N" original="The identifier used by a vendor to indentify a product being purchased by their business partners.">The identifier used by a vendor to indentify a product being purchased by their business partners.</value>
     <value column="Help" isTrl="N" original="The Vendor Product Number identifies the number used by the vendor for this product.">The Vendor Product Number identifies the number used by the vendor for this product.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11929,8 +11929,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="623FEEB84687C86EE040007F0101639E" trl="N">
-    <value column="Name" isTrl="N" original="Legal Entity with accounting">Legal Entity with accounting</value>
-    <value column="PrintName" isTrl="N" original="Legal Entity with accounting">Legal Entity with accounting</value>
+    <value column="Name" isTrl="Y" original="Legal Entity with accounting">Юридическое лицо с бухалтерским учётом</value>
+    <value column="PrintName" isTrl="Y" original="Legal Entity with accounting">Юр. лицо с бух. учётом</value>
     <value column="Description" isTrl="N" original="Defines if the Legal Entity has accounting">Defines if the Legal Entity has accounting</value>
     <value column="Help" isTrl="N" original="A Legal Entity can be defined to have accounting or not. A Legal Entity without accounting is useful when the installation does not have the accounting configured (i.e., fiscal calendar, periods, accounting schemas...)">A Legal Entity can be defined to have accounting or not. A Legal Entity without accounting is useful when the installation does not have the accounting configured (i.e., fiscal calendar, periods, accounting schemas...)</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -12099,8 +12099,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="64ADC1DFBF8641A79C9911445253DA0D" trl="N">
-    <value column="Name" isTrl="N" original="Valid Until">Valid Until</value>
-    <value column="PrintName" isTrl="N" original="Valid Until">Valid Until</value>
+    <value column="Name" isTrl="Y" original="Valid Until">Действительно до</value>
+    <value column="PrintName" isTrl="Y" original="Valid Until">Действительно до</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -12129,8 +12129,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="64F864C280D511DD91661FA657CE0B73" trl="N">
-    <value column="Name" isTrl="N" original="Legal Entity">Legal Entity</value>
-    <value column="PrintName" isTrl="N" original="Legal Entity">Legal Entity</value>
+    <value column="Name" isTrl="Y" original="Legal Entity">Юридическое лицо</value>
+    <value column="PrintName" isTrl="Y" original="Legal Entity">Юридическое лицо</value>
     <value column="Description" isTrl="N" original="An organization which is a legal corporation.">An organization which is a legal corporation.</value>
     <value column="Help" isTrl="N" original="An organization which is a legal corporation.">An organization which is a legal corporation.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17918,8 +17918,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800739" trl="N">
-    <value column="Name" isTrl="N" original="Requisition">Requisition</value>
-    <value column="PrintName" isTrl="N" original="Requisition">Requisition</value>
+    <value column="Name" isTrl="Y" original="Requisition">Заявка поставщику</value>
+    <value column="PrintName" isTrl="Y" original="Requisition">Заявка поставщику</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The ID identifies a unique requisition">The ID identifies a unique requisition</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22190,7 +22190,7 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original="Order Payment Out Plan">Order Payment Out Plan</value>
   </row>
   <row id="D8661BD24C804C14A1B869383CFED3ED" trl="N">
-    <value column="Name" isTrl="N" original="Quotation Line">Quotation Line</value>
+    <value column="Name" isTrl="Y" original="Quotation Line">Строка предложения</value>
     <value column="PrintName" isTrl="N" original="Qutoationline_ID">Qutoationline_ID</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>

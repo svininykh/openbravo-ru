@@ -599,7 +599,7 @@ The Warehouse is the warehouse used by the Purchase Orders.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400019" trl="N">
-    <value column="MsgText" isTrl="N" original="Created requisition">Created requisition</value>
+    <value column="MsgText" isTrl="N" original="Created requisition">Создана заявка</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1005200000" trl="N">
@@ -6813,7 +6813,7 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="93C32F538F1B46FE828624B1AD63F01E" trl="N">
-    <value column="MsgText" isTrl="N" original="Legal Entity">Legal Entity</value>
+    <value column="MsgText" isTrl="Y" original="Legal Entity">Юридическое лицо</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="94381D627E23402C9A1C80F254AFA741" trl="N">
@@ -7231,7 +7231,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B8AB7082A7DD4CF6B836E2A8DBC39564" trl="N">
-    <value column="MsgText" isTrl="N" original="Quotation:">Quotation:</value>
+    <value column="MsgText" isTrl="Y" original="Quotation:">Предложение:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B90DAD98BE6B409FA4D10CD01397A735" trl="N">

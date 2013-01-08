@@ -138,7 +138,7 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.">An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.</value>
   </row>
   <row id="11E11FE8445B4621A9989DD406C1B374" trl="N">
-    <value column="Name" isTrl="Y" original="Organization Type">Тип организации</value>
+    <value column="Name" isTrl="Y" original="Organization Type">Вид организации</value>
     <value column="Description" isTrl="N" original="Defines an organization type which will be available into the system">Defines an organization type which will be available into the system</value>
     <value column="Help" isTrl="N" original="An organization can be a Legal Entity, a Business Unit or neither of both.&#10;You can also select if transactions are allowed or not for this organization type.">An organization can be a Legal Entity, a Business Unit or neither of both.
 You can also select if transactions are allowed or not for this organization type.</value>
@@ -578,7 +578,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="6CB5B67ED33F47DFA334079D3EA2340E" trl="N">
-    <value column="Name" isTrl="N" original="Sales Quotation">Sales Quotation</value>
+    <value column="Name" isTrl="Y" original="Sales Quotation">Предложение клиенту</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -853,7 +853,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.">Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.</value>
   </row>
   <row id="800092" trl="N">
-    <value column="Name" isTrl="N" original="Requisition">Requisition</value>
+    <value column="Name" isTrl="Y" original="Requisition">Заявка поставщику</value>
     <value column="Description" isTrl="N" original="Create requests for the procurement department to buy necessary items based on your defined plan.">Create requests for the procurement department to buy necessary items based on your defined plan.</value>
     <value column="Help" isTrl="N" original="A requisition is a formal request of something needed by the organization or business unit.&lt;br&gt;Each requisition includes the item/s needed and could have a preferred vendor and/or Price List.">A requisition is a formal request of something needed by the organization or business unit.&lt;br&gt;Each requisition includes the item/s needed and could have a preferred vendor and/or Price List.</value>
   </row>

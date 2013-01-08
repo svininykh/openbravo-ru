@@ -173,7 +173,7 @@
     <value column="Description" isTrl="N" original="Create specific sales campaigns to be used in sales operations.">Create specific sales campaigns to be used in sales operations.</value>
   </row>
   <row id="134C41C58C8945FAB0C18D88B33C08FE" trl="N">
-    <value column="Name" isTrl="Y" original="Organization Type">Тип организации</value>
+    <value column="Name" isTrl="Y" original="Organization Type">Вид организации</value>
     <value column="Description" isTrl="N" original="Defines an organization type which will be available into the system">Defines an organization type which will be available into the system</value>
   </row>
   <row id="136" trl="N">
@@ -1217,7 +1217,7 @@
     <value column="Description" isTrl="N" original="Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.">Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.</value>
   </row>
   <row id="800216" trl="N">
-    <value column="Name" isTrl="N" original="Requisition">Requisition</value>
+    <value column="Name" isTrl="Y" original="Requisition">Заявка поставщику</value>
     <value column="Description" isTrl="N" original="Create requests for the procurement department to buy necessary items based on your defined plan.">Create requests for the procurement department to buy necessary items based on your defined plan.</value>
   </row>
   <row id="800218" trl="N">
@@ -1497,7 +1497,7 @@
     <value column="Description" isTrl="Y" original="System Info">Системная информация</value>
   </row>
   <row id="EFC616EE0EA04A9ABB47E793A0D8F671" trl="N">
-    <value column="Name" isTrl="N" original="Sales Quotation">Sales Quotation</value>
+    <value column="Name" isTrl="N" original="Sales Quotation">Предложение клиенту</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="F2F2F35AF85A456A98B59EAD137C1DB6" trl="N">

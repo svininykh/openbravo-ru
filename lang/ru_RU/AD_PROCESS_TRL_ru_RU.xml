@@ -70,27 +70,27 @@ For other required values the corresponding default values are used.&lt;br/&gt;
 Once the Purchase Order is created, it is marked as Completed and its Document Number is shown in the success message.</value>
   </row>
   <row id="1004400002" trl="N">
-    <value column="Name" isTrl="N" original="Change status">Change status</value>
+    <value column="Name" isTrl="Y" original="Change status">Изменить статус</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="This process changes the status of the requisition. If it is open an has purchase order lines assigned it is set to closed, in case it hasn't any purchase order it is set as canceled. When the requisition is closed or canceled the process set it as open.">This process changes the status of the requisition. If it is open an has purchase order lines assigned it is set to closed, in case it hasn't any purchase order it is set as canceled. When the requisition is closed or canceled the process set it as open.</value>
   </row>
   <row id="1004400003" trl="N">
-    <value column="Name" isTrl="N" original="Post Requisition">Post Requisition</value>
+    <value column="Name" isTrl="Y" original="Post Requisition">Опубликовать заявку</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1004400004" trl="N">
-    <value column="Name" isTrl="N" original="Print Requisition">Print Requisition</value>
+    <value column="Name" isTrl="Y" original="Print Requisition">Печать заявки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1005400001" trl="N">
-    <value column="Name" isTrl="N" original="TestHeartbeat">TestHeartbeat</value>
+    <value column="Name" isTrl="Y" original="TestHeartbeat">Тестировать кардиограмму</value>
     <value column="Description" isTrl="N" original="Test the Heartbeat Configuration">Test the Heartbeat Configuration</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1005400002" trl="N">
-    <value column="Name" isTrl="N" original="Update Registration">Update Registration</value>
+    <value column="Name" isTrl="Y" original="Update Registration">Обновить регистрацию</value>
     <value column="Description" isTrl="N" original="Register with Openbravo">Register with Openbravo</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
