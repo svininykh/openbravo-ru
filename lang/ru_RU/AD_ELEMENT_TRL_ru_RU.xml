@@ -191,14 +191,14 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="0FF8F04EC4204CA3AC8F003F38C0502A" trl="N">
-    <value column="Name" isTrl="Y" original="Movement Date">Дата инвентаризации</value>
-    <value column="PrintName" isTrl="Y" original="Movement Date">Дата инвентаризации</value>
+    <value column="Name" isTrl="Y" original="Movement Date">Дата перемещения</value>
+    <value column="PrintName" isTrl="Y" original="Movement Date">Дата перемещения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="Y" original="Movement Date">Дата инвентаризации</value>
-    <value column="PO_PrintName" isTrl="Y" original="Movement Date">Дата инвентаризации</value>
+    <value column="PO_Name" isTrl="Y" original="Movement Date">Дата перемещения</value>
+    <value column="PO_PrintName" isTrl="Y" original="Movement Date">Дата перемещения</value>
   </row>
   <row id="1000" trl="N">
     <value column="Name" isTrl="N" original="User can start process">User can start process</value>
@@ -1520,14 +1520,14 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original="Goods Receipt">Приходная накладная</value>
   </row>
   <row id="1026" trl="N">
-    <value column="Name" isTrl="N" original="Goods Shipment Line">Goods Shipment Line</value>
-    <value column="PrintName" isTrl="N" original="Goods Shipment Line">Goods Shipment Line</value>
+    <value column="Name" isTrl="Y" original="Goods Shipment Line">Строка расходной накладной</value>
+    <value column="PrintName" isTrl="Y" original="Goods Shipment Line">Строка расходной накладной</value>
     <value column="Description" isTrl="N" original="A statement displaying one item, charge, or movement in a shipment.">A statement displaying one item, charge, or movement in a shipment.</value>
     <value column="Help" isTrl="N" original="The Goods Shipment Line indicates a unique line in a Shipment document">The Goods Shipment Line indicates a unique line in a Shipment document</value>
     <value column="PO_Description" isTrl="N" original="A statement displaying one item, charge, or movement in a receipt.">A statement displaying one item, charge, or movement in a receipt.</value>
     <value column="PO_Help" isTrl="N" original="The Goods Receipt Line indicates a unique line in a Receipt document">The Goods Receipt Line indicates a unique line in a Receipt document</value>
-    <value column="PO_Name" isTrl="N" original="Goods Receipt Line">Goods Receipt Line</value>
-    <value column="PO_PrintName" isTrl="N" original="Goods Receipt Line">Goods Receipt Line</value>
+    <value column="PO_Name" isTrl="Y" original="Goods Receipt Line">Строка приходной накладной</value>
+    <value column="PO_PrintName" isTrl="Y" original="Goods Receipt Line">Строка приходной накладной</value>
   </row>
   <row id="1027" trl="N">
     <value column="Name" isTrl="N" original="Phys.Inventory">Phys.Inventory</value>
@@ -1560,8 +1560,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1030" trl="N">
-    <value column="Name" isTrl="N" original="Movement">Movement</value>
-    <value column="PrintName" isTrl="N" original="Movement">Movement</value>
+    <value column="Name" isTrl="Y" original="Movement">Перемещение</value>
+    <value column="PrintName" isTrl="Y" original="Movement">Перемещение</value>
     <value column="Description" isTrl="N" original="Movement of Inventory">Movement of Inventory</value>
     <value column="Help" isTrl="N" original="The Inventory Movement uniquely identifies a group of movement lines.">The Inventory Movement uniquely identifies a group of movement lines.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1570,8 +1570,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1031" trl="N">
-    <value column="Name" isTrl="N" original="Movement Line">Movement Line</value>
-    <value column="PrintName" isTrl="N" original="Movement Line">Movement Line</value>
+    <value column="Name" isTrl="Y" original="Movement Line">Строка перемещения</value>
+    <value column="PrintName" isTrl="Y" original="Movement Line">Строка перемещения</value>
     <value column="Description" isTrl="N" original="An often automatically generated identifier for a movement line.">An often automatically generated identifier for a movement line.</value>
     <value column="Help" isTrl="N" original="The Movement Line indicates the inventory movement document line (if applicable) for this transaction">The Movement Line indicates the inventory movement document line (if applicable) for this transaction</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14108,28 +14108,28 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800105" trl="N">
-    <value column="Name" isTrl="N" original="C_File_ID">C_File_ID</value>
-    <value column="PrintName" isTrl="N" original="C_File_ID">C_File_ID</value>
-    <value column="Description" isTrl="N" original="Attached file">Attached file</value>
-    <value column="Help" isTrl="N" original="Attached file">Attached file</value>
+    <value column="Name" isTrl="Y" original="C_File_ID">Прикреплён файл</value>
+    <value column="PrintName" isTrl="Y" original="C_File_ID">Прикреплён файл</value>
+    <value column="Description" isTrl="Y" original="Attached file">Прикреплён файл</value>
+    <value column="Help" isTrl="Y" original="Attached file">Прикреплён файл</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800115" trl="N">
-    <value column="Name" isTrl="N" original="Allow Negative Stock">Allow Negative Stock</value>
-    <value column="PrintName" isTrl="N" original="Allow negative stock">Allow negative stock</value>
-    <value column="Description" isTrl="N" original="Allow negative stock">Allow negative stock</value>
-    <value column="Help" isTrl="N" original="Allow negative stock">Allow negative stock</value>
+    <value column="Name" isTrl="Y" original="Allow Negative Stock">Допускает отрицательный остаток</value>
+    <value column="PrintName" isTrl="Y" original="Allow negative stock">Допускает отрицательный остаток</value>
+    <value column="Description" isTrl="Y" original="Allow negative stock">Допускает отрицательный остаток</value>
+    <value column="Help" isTrl="Y" original="Allow negative stock">Допускает отрицательный остаток</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800116" trl="N">
-    <value column="Name" isTrl="N" original="Move between locators">Move between locators</value>
-    <value column="PrintName" isTrl="N" original="Move between locators">Move between locators</value>
+    <value column="Name" isTrl="Y" original="Move between locators">Переместить между местами хранения</value>
+    <value column="PrintName" isTrl="Y" original="Move between locators">Переместить между местами хранения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Move all the products there are in a locator to another">Move all the products there are in a locator to another</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14138,8 +14138,8 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800117" trl="N">
-    <value column="Name" isTrl="N" original="Locator from">Locator from</value>
-    <value column="PrintName" isTrl="N" original="Storage Bin from">Storage Bin from</value>
+    <value column="Name" isTrl="Y" original="Locator from">Место хранения отправления</value>
+    <value column="PrintName" isTrl="Y" original="Storage Bin from">Место хранения отправления</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14148,8 +14148,8 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800118" trl="N">
-    <value column="Name" isTrl="N" original="Locator to">Locator to</value>
-    <value column="PrintName" isTrl="N" original="Storage Bin to">Storage Bin to</value>
+    <value column="Name" isTrl="Y" original="Locator to">Место хранения назначения</value>
+    <value column="PrintName" isTrl="Y" original="Storage Bin to">Место хранения назначения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14158,8 +14158,8 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800122" trl="N">
-    <value column="Name" isTrl="N" original="Prices Shown in Order">Prices Shown in Order</value>
-    <value column="PrintName" isTrl="N" original="Show price in order">Show price in order</value>
+    <value column="Name" isTrl="Y" original="Prices Shown in Order">Цены отображены в ордере</value>
+    <value column="PrintName" isTrl="Y" original="Show price in order">Цены отображены в ордере</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="When not checked prices are not shown (left blank) in the printed order document">When not checked prices are not shown (left blank) in the printed order document</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14168,8 +14168,8 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800130" trl="N">
-    <value column="Name" isTrl="N" original="Logistic">Logistic</value>
-    <value column="PrintName" isTrl="N" original="Logistic">Logistic</value>
+    <value column="Name" isTrl="Y" original="Logistic">Логистика</value>
+    <value column="PrintName" isTrl="Y" original="Logistic">Логистика</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="If is logistic it won't be invoiced. It uses for companies that rent locators or incoming materials that we don't want to invoice">If is logistic it won't be invoiced. It uses for companies that rent locators or incoming materials that we don't want to invoice</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14258,9 +14258,9 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800139" trl="N">
-    <value column="Name" isTrl="N" original="Format">Format</value>
-    <value column="PrintName" isTrl="N" original="Format">Format</value>
-    <value column="Description" isTrl="N" original="Format">Format</value>
+    <value column="Name" isTrl="Y" original="Format">Формат даты</value>
+    <value column="PrintName" isTrl="Y" original="Format">Формат даты</value>
+    <value column="Description" isTrl="Y" original="Format">Формат даты</value>
     <value column="Help" isTrl="N" original="Format is the description of the data type for the attachable files.">Format is the description of the data type for the attachable files.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -14368,10 +14368,10 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800152" trl="N">
-    <value column="Name" isTrl="N" original="Weekday">Weekday</value>
-    <value column="PrintName" isTrl="N" original="Week Day">Week Day</value>
+    <value column="Name" isTrl="Y" original="Weekday">День недели</value>
+    <value column="PrintName" isTrl="Y" original="Week Day">День недели</value>
     <value column="Description" isTrl="N" original="Any day of the week excluding Saturday and Sunday.">Any day of the week excluding Saturday and Sunday.</value>
-    <value column="Help" isTrl="N" original="Day of the week">Day of the week</value>
+    <value column="Help" isTrl="Y" original="Day of the week">День недели</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>

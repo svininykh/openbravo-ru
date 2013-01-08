@@ -1430,7 +1430,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Audit Trail view displays  read-only infromation about all the recorded data changes done in the tables for which the audit trail feature has been enabled.">Audit Trail view displays  read-only infromation about all the recorded data changes done in the tables for which the audit trail feature has been enabled.</value>
   </row>
   <row id="384" trl="N">
-    <value column="Name" isTrl="N" original="Goods Transaction">Goods Transaction</value>
+    <value column="Name" isTrl="Y" original="Goods Transaction">Транзакции по товару</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1451,7 +1451,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="391" trl="N">
-    <value column="Name" isTrl="N" original="Application Image">Application Image</value>
+    <value column="Name" isTrl="Y" original="Application Image">Изображения приложения</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add images to be used in the application.">Add images to be used in the application.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1634,7 +1634,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Define field sequence (layout or order) within a tab.">Define field sequence (layout or order) within a tab.</value>
   </row>
   <row id="431" trl="N">
-    <value column="Name" isTrl="N" original="Customer">Customer</value>
+    <value column="Name" isTrl="Y" original="Customer">Клиент</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Select the customer who will be receiving the sales invoice.">Select the customer who will be receiving the sales invoice.</value>
     <value column="Filtername" isTrl="N" original=""/>

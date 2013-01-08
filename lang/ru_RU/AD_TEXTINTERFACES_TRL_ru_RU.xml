@@ -971,7 +971,7 @@
     <value column="Text" isTrl="N" original="VO">VO</value>
   </row>
   <row id="2077C79A41574E0AAA82EDE1895E2D0C" trl="N">
-    <value column="Text" isTrl="N" original="GOODS RECEIPT">GOODS RECEIPT</value>
+    <value column="Text" isTrl="Y" original="GOODS RECEIPT">ПРИХОДНАЯ НАКЛАДНАЯ</value>
   </row>
   <row id="21444EAA2E5211DE95D5ABB0C6CBBF57" trl="N">
     <value column="Text" isTrl="Y" original="PREVIOUS">НА НАЧАЛО</value>
@@ -992,16 +992,16 @@
     <value column="Text" isTrl="N" original="Do you want to archive this document after printing?">Do you want to archive this document after printing?</value>
   </row>
   <row id="2783F652A1F411DDA89BDF610A666E97" trl="N">
-    <value column="Text" isTrl="N" original="Print and Archive">Print and Archive</value>
+    <value column="Text" isTrl="Y" original="Print and Archive">Печать и архивация</value>
   </row>
   <row id="2789FDAEA1F411DD92BB17615869AC3A" trl="N">
-    <value column="Text" isTrl="N" original="Yes">Yes</value>
+    <value column="Text" isTrl="Y" original="Yes">Да</value>
   </row>
   <row id="278D38DEA1F411DDB135639D6DC47DC0" trl="N">
-    <value column="Text" isTrl="N" original="Print">Print</value>
+    <value column="Text" isTrl="Y" original="Print">Печать</value>
   </row>
   <row id="27919C80A1F411DDABEB7FC45987362E" trl="N">
-    <value column="Text" isTrl="N" original="No, just print it">No, just print it</value>
+    <value column="Text" isTrl="Y" original="No, just print it">Нет, только печать</value>
   </row>
   <row id="27944750A1F411DDA75C1361F37DC434" trl="N">
     <value column="Text" isTrl="N" original="Email options">Email options</value>
@@ -2722,7 +2722,7 @@
     <value column="Text" isTrl="N" original="IN-OUT MOVEMENTS">IN-OUT MOVEMENTS</value>
   </row>
   <row id="803378" trl="N">
-    <value column="Text" isTrl="N" original="MOVEMENT NO: ">MOVEMENT NO: </value>
+    <value column="Text" isTrl="N" original="MOVEMENT NO: ">ПЕРЕМЕЩНИЕ №: </value>
   </row>
   <row id="803379" trl="N">
     <value column="Text" isTrl="N" original="DELIVERY DATE: ">DELIVERY DATE: </value>
@@ -2731,16 +2731,16 @@
     <value column="Text" isTrl="N" original="Units">Units</value>
   </row>
   <row id="803384" trl="N">
-    <value column="Text" isTrl="N" original="Subtotal ">Subtotal </value>
+    <value column="Text" isTrl="Y" original="Subtotal ">Всего </value>
   </row>
   <row id="803385" trl="N">
-    <value column="Text" isTrl="N" original="TOTAL  ">TOTAL  </value>
+    <value column="Text" isTrl="Y" original="TOTAL  ">ИТОГО  </value>
   </row>
   <row id="803386" trl="N">
-    <value column="Text" isTrl="N" original="SENDER:">SENDER:</value>
+    <value column="Text" isTrl="Y" original="SENDER:">ОТПРАВИТЕЛЬ:</value>
   </row>
   <row id="803387" trl="N">
-    <value column="Text" isTrl="N" original="SHIPPER:">SHIPPER:</value>
+    <value column="Text" isTrl="Y" original="SHIPPER:">ПОКУПАТЕЛЬ:</value>
   </row>
   <row id="803388" trl="N">
     <value column="Text" isTrl="N" original="CONSIGNEE:">CONSIGNEE:</value>
@@ -5634,7 +5634,7 @@
     <value column="Text" isTrl="N" original="Resources">Resources</value>
   </row>
   <row id="CAFC3EC2602E40D7829CE3A2D980DC16" trl="N">
-    <value column="Text" isTrl="N" original="GOODS SHIPMENT">GOODS SHIPMENT</value>
+    <value column="Text" isTrl="N" original="GOODS SHIPMENT">РАСХОДНАЯ НАКЛАДНАЯ</value>
   </row>
   <row id="CB6FB14EF7274C7C9F47EE1AF48917F7" trl="N">
     <value column="Text" isTrl="N" original="Expected">Expected</value>

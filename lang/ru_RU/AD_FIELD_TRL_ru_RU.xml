@@ -171,7 +171,7 @@
     <value column="Help" isTrl="N" original="The Direct Print checkbox indicates that the report will print without displaying the print dialog box.">The Direct Print checkbox indicates that the report will print without displaying the print dialog box.</value>
   </row>
   <row id="3305" trl="N">
-    <value column="Name" isTrl="N" original="Goods Shipment/Receipt Line">Goods Shipment/Receipt Line</value>
+    <value column="Name" isTrl="Y" original="Goods Shipment/Receipt Line">Строка расходной/приходной накладной</value>
     <value column="Description" isTrl="N" original="A statement displaying one item, charge, or movement in a shipment or receipt">A statement displaying one item, charge, or movement in a shipment or receipt</value>
     <value column="Help" isTrl="N" original="The Shipment/Receipt indicates a unique line in a Shipment/Receipt document">The Shipment/Receipt indicates a unique line in a Shipment/Receipt document</value>
   </row>
@@ -591,7 +591,7 @@
     <value column="Help" isTrl="N" original="This process deletes selected debt payments on cancel tab and generates the debt payments of &quot;generate&quot; tab. To run this process is mandatory to be the same the quantity of the cancel amount and the generated.">This process deletes selected debt payments on cancel tab and generates the debt payments of "generate" tab. To run this process is mandatory to be the same the quantity of the cancel amount and the generated.</value>
   </row>
   <row id="801022" trl="N">
-    <value column="Name" isTrl="N" original="Goods Receipt Line">Goods Receipt Line</value>
+    <value column="Name" isTrl="Y" original="Goods Receipt Line">Строка приходной накладной</value>
     <value column="Description" isTrl="N" original="A statement displaying one item, charge, or movement in a receipt.">A statement displaying one item, charge, or movement in a receipt.</value>
     <value column="Help" isTrl="N" original="The Goods Receipt Line indicates a unique line in a Receipt document">The Goods Receipt Line indicates a unique line in a Receipt document</value>
   </row>
@@ -696,12 +696,12 @@
     <value column="Help" isTrl="N" original="By running this process the operations (activities) and products will be inserted automatically according to the selected process plan. Quantities will be multiplied according to the number of final products (Process Units) required. If the process plan selected does not have the &quot;explodePhases&quot; checked off, products from previously existing phases will be inserted only.">By running this process the operations (activities) and products will be inserted automatically according to the selected process plan. Quantities will be multiplied according to the number of final products (Process Units) required. If the process plan selected does not have the "explodePhases" checked off, products from previously existing phases will be inserted only.</value>
   </row>
   <row id="801991" trl="N">
-    <value column="Name" isTrl="N" original="Processed">Processed</value>
+    <value column="Name" isTrl="Y" original="Processed">Обработано</value>
     <value column="Description" isTrl="N" original="The document has been processed">The document has been processed</value>
     <value column="Help" isTrl="N" original="The Processed checkbox indicates that a document has been processed.">The Processed checkbox indicates that a document has been processed.</value>
   </row>
   <row id="801E3D9BC2A74C7F9E48D8BE9B272510" trl="N">
-    <value column="Name" isTrl="N" original="Customer">Customer</value>
+    <value column="Name" isTrl="Y" original="Customer">Клиент</value>
     <value column="Description" isTrl="N" original="Anyone who takes part in daily business operations by acting as a customer, employee, etc.">Anyone who takes part in daily business operations by acting as a customer, employee, etc.</value>
     <value column="Help" isTrl="N" original="A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.">A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.</value>
   </row>
