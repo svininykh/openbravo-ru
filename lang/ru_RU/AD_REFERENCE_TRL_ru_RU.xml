@@ -81,7 +81,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1004400000" trl="N">
-    <value column="Name" isTrl="N" original="Requisition status">Requisition status</value>
+    <value column="Name" isTrl="Y" original="Requisition status">Статус заказа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="List of the possible statuses of a requisition:&#10;-O: Open&#10;-P: Planned&#10;-C: Closed&#10;-D: Cancelled">List of the possible statuses of a requisition:
 -O: Open

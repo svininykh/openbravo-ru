@@ -75,12 +75,12 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Help" isTrl="N" original="This process changes the status of the requisition. If it is open an has purchase order lines assigned it is set to closed, in case it hasn't any purchase order it is set as canceled. When the requisition is closed or canceled the process set it as open.">This process changes the status of the requisition. If it is open an has purchase order lines assigned it is set to closed, in case it hasn't any purchase order it is set as canceled. When the requisition is closed or canceled the process set it as open.</value>
   </row>
   <row id="1004400003" trl="N">
-    <value column="Name" isTrl="Y" original="Post Requisition">Опубликовать заявку</value>
+    <value column="Name" isTrl="Y" original="Post Requisition">Опубликовать заказ</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1004400004" trl="N">
-    <value column="Name" isTrl="Y" original="Print Requisition">Печать заявки</value>
+    <value column="Name" isTrl="Y" original="Print Requisition">Печать заказа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1184,9 +1184,9 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="**Special**">**Special**</value>
   </row>
   <row id="800159" trl="N">
-    <value column="Name" isTrl="N" original="Generate Material Requisitions">Generate Material Requisitions</value>
-    <value column="Description" isTrl="N" original="Generate Material Requisitions">Generate Material Requisitions</value>
-    <value column="Help" isTrl="N" original="Generate Material Requisitions">Generate Material Requisitions</value>
+    <value column="Name" isTrl="Y" original="Generate Material Requisitions">Создать заявки на материалы</value>
+    <value column="Description" isTrl="Y" original="Generate Material Requisitions">Создать заявки на материалы</value>
+    <value column="Help" isTrl="Y" original="Generate Material Requisitions">Создать заявки на материалы</value>
   </row>
   <row id="800160" trl="N">
     <value column="Name" isTrl="N" original="Generate Work Requirements">Generate Work Requirements</value>

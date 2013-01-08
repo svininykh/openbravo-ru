@@ -659,13 +659,13 @@
     <value column="Text" isTrl="Y" original="Need by">Необходимо</value>
   </row>
   <row id="1004400010" trl="N">
-    <value column="Text" isTrl="Y" original="REQUISITION">ЗАЯВКА</value>
+    <value column="Text" isTrl="Y" original="REQUISITION">ЗАКАЗ</value>
   </row>
   <row id="1004400011" trl="N">
-    <value column="Text" isTrl="Y" original="Requisition Number">Номер заявки</value>
+    <value column="Text" isTrl="Y" original="Requisition Number">Номер заказа</value>
   </row>
   <row id="1004400012" trl="N">
-    <value column="Text" isTrl="Y" original="Requester">Заявитель</value>
+    <value column="Text" isTrl="Y" original="Requester">Заказчик</value>
   </row>
   <row id="1004400013" trl="N">
     <value column="Text" isTrl="Y" original="PAGE:">СТРАНИЦА:</value>
@@ -674,10 +674,10 @@
     <value column="Text" isTrl="N" original="Ref.">Ref.</value>
   </row>
   <row id="1004400015" trl="N">
-    <value column="Text" isTrl="Y" original="Requisition to Order">Ордер по заявке</value>
+    <value column="Text" isTrl="Y" original="Requisition to Order">Ордер по заказу</value>
   </row>
   <row id="1004400020" trl="N">
-    <value column="Text" isTrl="Y" original="Requester">Заявитель</value>
+    <value column="Text" isTrl="Y" original="Requester">Заказчик</value>
   </row>
   <row id="1004400021" trl="N">
     <value column="Text" isTrl="Y" original="Vendor">Поставщик</value>
@@ -695,7 +695,7 @@
     <value column="Text" isTrl="Y" original="NeedByDate">Необходимо до даты</value>
   </row>
   <row id="1004400027" trl="N">
-    <value column="Text" isTrl="Y" original="Req. Qty">Заяв. кол-во</value>
+    <value column="Text" isTrl="Y" original="Req. Qty">Заказ кол-во</value>
   </row>
   <row id="1004400028" trl="N">
     <value column="Text" isTrl="Y" original="Matched">Наличие</value>

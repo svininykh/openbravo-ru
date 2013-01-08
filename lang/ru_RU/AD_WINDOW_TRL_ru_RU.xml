@@ -31,7 +31,7 @@
     <value column="Help" isTrl="N" original="The &quot;Tax Payment&quot; process helps to calculate the amount of taxes to be paid to or received from the tax authority.">The "Tax Payment" process helps to calculate the amount of taxes to be paid to or received from the tax authority.</value>
   </row>
   <row id="1004400000" trl="N">
-    <value column="Name" isTrl="N" original="Manage Requisitions">Manage Requisitions</value>
+    <value column="Name" isTrl="Y" original="Manage Requisitions">Управление заказами</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Manage Requisition window is intended to be used by the procurement team as it provides an overall picture of the items needed.&lt;br&gt;At the end of the day the procurement team is the one to decide what to do with the requisitions created by other members of the organization or business unit. ">Manage Requisition window is intended to be used by the procurement team as it provides an overall picture of the items needed.&lt;br&gt;At the end of the day the procurement team is the one to decide what to do with the requisitions created by other members of the organization or business unit. </value>
   </row>
@@ -853,7 +853,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.">Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.</value>
   </row>
   <row id="800092" trl="N">
-    <value column="Name" isTrl="Y" original="Requisition">Заявка поставщику</value>
+    <value column="Name" isTrl="Y" original="Requisition">Заказ поставщику</value>
     <value column="Description" isTrl="N" original="Create requests for the procurement department to buy necessary items based on your defined plan.">Create requests for the procurement department to buy necessary items based on your defined plan.</value>
     <value column="Help" isTrl="N" original="A requisition is a formal request of something needed by the organization or business unit.&lt;br&gt;Each requisition includes the item/s needed and could have a preferred vendor and/or Price List.">A requisition is a formal request of something needed by the organization or business unit.&lt;br&gt;Each requisition includes the item/s needed and could have a preferred vendor and/or Price List.</value>
   </row>

@@ -772,8 +772,8 @@ References will be replaced by values:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1004400001" trl="N">
-    <value column="Name" isTrl="N" original="Requisition line status">Requisition line status</value>
-    <value column="PrintName" isTrl="N" original="Requisition line status">Requisition line status</value>
+    <value column="Name" isTrl="Y" original="Requisition line status">Статус строки заказа</value>
+    <value column="PrintName" isTrl="Y" original="Requisition line status">Статус строки заказа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Each product demand has its own status different than the status of the requisition. The statuses of the demands are:&#10;Open: The demand hasn't been yet fulfilled.&#10;Closed: Has been ordered enough products.&#10;Cancelled: The demand has been closed without ordering any product.&#10;Planned: The demand has been included in a Purchase Plan of the MRP module.">Each product demand has its own status different than the status of the requisition. The statuses of the demands are:
 Open: The demand hasn't been yet fulfilled.
@@ -17918,8 +17918,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800739" trl="N">
-    <value column="Name" isTrl="Y" original="Requisition">Заявка поставщику</value>
-    <value column="PrintName" isTrl="Y" original="Requisition">Заявка поставщику</value>
+    <value column="Name" isTrl="Y" original="Requisition">Заказ поставщику</value>
+    <value column="PrintName" isTrl="Y" original="Requisition">Заказ поставщику</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The ID identifies a unique requisition">The ID identifies a unique requisition</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17928,8 +17928,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800740" trl="N">
-    <value column="Name" isTrl="N" original="Requisition Line">Requisition Line</value>
-    <value column="PrintName" isTrl="N" original="Requisition line">Requisition line</value>
+    <value column="Name" isTrl="Y" original="Requisition Line">Строка заказа</value>
+    <value column="PrintName" isTrl="Y" original="Requisition line">Строка заказа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Identifies each product demand of a requisition.">Identifies each product demand of a requisition.</value>
     <value column="PO_Description" isTrl="N" original=""/>
