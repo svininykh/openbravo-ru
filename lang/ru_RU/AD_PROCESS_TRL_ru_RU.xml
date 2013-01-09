@@ -200,18 +200,18 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Help" isTrl="N" original="Generate Invoices">Generate Invoices</value>
   </row>
   <row id="120" trl="N">
-    <value column="Name" isTrl="N" original="Order Transactions">Order Transactions</value>
-    <value column="Description" isTrl="N" original="Sales Order Transaction Report">Sales Order Transaction Report</value>
-    <value column="Help" isTrl="N" original="Sales Order Transaction Report">Sales Order Transaction Report</value>
+    <value column="Name" isTrl="Y" original="Order Transactions">Транзакции ордера</value>
+    <value column="Description" isTrl="Y" original="Sales Order Transaction Report">Отчёт по транзакциям ордера клиента</value>
+    <value column="Help" isTrl="Y" original="Sales Order Transaction Report">Отчёт по транзакциям ордера клиента</value>
   </row>
   <row id="121" trl="N">
-    <value column="Name" isTrl="N" original="Open Orders">Open Orders</value>
-    <value column="Description" isTrl="N" original="Open Orders">Open Orders</value>
-    <value column="Help" isTrl="N" original="Open Orders">Open Orders</value>
+    <value column="Name" isTrl="Y" original="Open Orders">Открыть ордера</value>
+    <value column="Description" isTrl="Y" original="Open Orders">Открыть ордера</value>
+    <value column="Help" isTrl="Y" original="Open Orders">Открыть ордера</value>
   </row>
   <row id="122" trl="N">
-    <value column="Name" isTrl="N" original="Process Movements">Process Movements</value>
-    <value column="Description" isTrl="N" original="Process Inventory Movements">Process Inventory Movements</value>
+    <value column="Name" isTrl="Y" original="Process Movements">Обработать перемещения</value>
+    <value column="Description" isTrl="Y" original="Process Inventory Movements">Обработать складские перемещения</value>
     <value column="Help" isTrl="N" original="Process Inventory Movements will update inventory quantities based on the defined movements between warehouses or locations.">Process Inventory Movements will update inventory quantities based on the defined movements between warehouses or locations.</value>
   </row>
   <row id="123" trl="N">
@@ -571,9 +571,9 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Project Detail Accounting Report">Project Detail Accounting Report</value>
   </row>
   <row id="227" trl="N">
-    <value column="Name" isTrl="N" original="Close Project">Close Project</value>
-    <value column="Description" isTrl="N" original="Close Project">Close Project</value>
-    <value column="Help" isTrl="N" original="Close Project">Close Project</value>
+    <value column="Name" isTrl="Y" original="Close Project">Закрыть проект</value>
+    <value column="Description" isTrl="Y" original="Close Project">Закрыть проект</value>
+    <value column="Help" isTrl="Y" original="Close Project">Закрыть проект</value>
   </row>
   <row id="228" trl="N">
     <value column="Name" isTrl="N" original="Project Lines not Issued">Project Lines not Issued</value>

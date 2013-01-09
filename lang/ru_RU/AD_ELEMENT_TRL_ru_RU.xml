@@ -846,8 +846,8 @@ Planned: The demand has been included in a Purchase Plan of the MRP module.</val
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1004400009" trl="N">
-    <value column="Name" isTrl="N" original="Need by date">Need by date</value>
-    <value column="PrintName" isTrl="N" original="Need by date">Need by date</value>
+    <value column="Name" isTrl="Y" original="Need by date">Необходимо до даты</value>
+    <value column="PrintName" isTrl="Y" original="Need by date">Необходимо до даты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The date by when the demand needs to be fulfilled.">The date by when the demand needs to be fulfilled.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -856,8 +856,8 @@ Planned: The demand has been included in a Purchase Plan of the MRP module.</val
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1004400010" trl="N">
-    <value column="Name" isTrl="N" original="Lock qty">Lock qty</value>
-    <value column="PrintName" isTrl="N" original="Lock qty">Lock qty</value>
+    <value column="Name" isTrl="Y" original="Lock qty">Заблокировано количество</value>
+    <value column="PrintName" isTrl="Y" original="Lock qty">Заблокировано количество</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="&#10;Quantity set to be used when the record is processed.">
 Quantity set to be used when the record is processed.</value>
@@ -867,8 +867,8 @@ Quantity set to be used when the record is processed.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1004400011" trl="N">
-    <value column="Name" isTrl="N" original="Locked by">Locked by</value>
-    <value column="PrintName" isTrl="N" original="Locked by">Locked by</value>
+    <value column="Name" isTrl="Y" original="Locked by">Заблокировал</value>
+    <value column="PrintName" isTrl="Y" original="Locked by">Заблокировал</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Indicates the user that is locking the record.">Indicates the user that is locking the record.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -877,8 +877,8 @@ Quantity set to be used when the record is processed.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1004400012" trl="N">
-    <value column="Name" isTrl="N" original="Lock price">Lock price</value>
-    <value column="PrintName" isTrl="N" original="Lock price">Lock price</value>
+    <value column="Name" isTrl="Y" original="Lock price">Заблокирована цена</value>
+    <value column="PrintName" isTrl="Y" original="Lock price">Заблокирована цена</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="&#10;Price set to be used when the record is processed.">
 Price set to be used when the record is processed.</value>
@@ -888,8 +888,8 @@ Price set to be used when the record is processed.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1004400013" trl="N">
-    <value column="Name" isTrl="N" original="Lock date">Lock date</value>
-    <value column="PrintName" isTrl="N" original="Lock date">Lock date</value>
+    <value column="Name" isTrl="Y" original="Lock date">Дата блокировки</value>
+    <value column="PrintName" isTrl="Y" original="Lock date">Дата блокировки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Indicates the date when the record was locked. Id the lock it is more than 3 days old it is considered as unlocked.">Indicates the date when the record was locked. Id the lock it is more than 3 days old it is considered as unlocked.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -898,8 +898,8 @@ Price set to be used when the record is processed.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1004400014" trl="N">
-    <value column="Name" isTrl="N" original="Lock cause">Lock cause</value>
-    <value column="PrintName" isTrl="N" original="Lock cause">Lock cause</value>
+    <value column="Name" isTrl="Y" original="Lock cause">Основание блокировки</value>
+    <value column="PrintName" isTrl="Y" original="Lock cause">Основание блокировки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Indicate the reason to be locked the requisition line. The demands are locked when are being used in processes that will generate Purchase Orders to fulfill the demand. The lock is removed when those processes finish or if the lock is 3 days old.&#10;The causes are The Requisition to Order window or the inclusion of the demand in a MRP process. ">Indicate the reason to be locked the requisition line. The demands are locked when are being used in processes that will generate Purchase Orders to fulfill the demand. The lock is removed when those processes finish or if the lock is 3 days old.
 The causes are The Requisition to Order window or the inclusion of the demand in a MRP process. </value>
@@ -4128,8 +4128,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1556" trl="N">
-    <value column="Name" isTrl="N" original="Planned End Date">Planned End Date</value>
-    <value column="PrintName" isTrl="N" original="Planned End Date">Planned End Date</value>
+    <value column="Name" isTrl="Y" original="Planned End Date">Планируемая дата окончания</value>
+    <value column="PrintName" isTrl="Y" original="Planned End Date">Планируемая дата окончания</value>
     <value column="Description" isTrl="N" original="The planned end data is when a contract is registered into the application.">The planned end data is when a contract is registered into the application.</value>
     <value column="Help" isTrl="N" original="The planned end date is used to determine when the document becomes effective. This is usually the contract date.  The planned end date is used in reports and report parameters.">The planned end date is used to determine when the document becomes effective. This is usually the contract date.  The planned end date is used in reports and report parameters.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4188,8 +4188,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1564" trl="N">
-    <value column="Name" isTrl="N" original="Planned Amount">Planned Amount</value>
-    <value column="PrintName" isTrl="N" original="Planned Amt">Planned Amt</value>
+    <value column="Name" isTrl="Y" original="Planned Amount">Планируемая сумма</value>
+    <value column="PrintName" isTrl="Y" original="Planned Amt">Планируемая сумма</value>
     <value column="Description" isTrl="N" original="The monetary sum expected to be involved for a transaction line.">The monetary sum expected to be involved for a transaction line.</value>
     <value column="Help" isTrl="N" original="The Planned Amount indicates the anticipated amount for this project or project line.">The Planned Amount indicates the anticipated amount for this project or project line.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4218,8 +4218,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1567" trl="N">
-    <value column="Name" isTrl="N" original="Planned Price">Planned Price</value>
-    <value column="PrintName" isTrl="N" original="Planned Price">Planned Price</value>
+    <value column="Name" isTrl="Y" original="Planned Price">Планируемая цена</value>
+    <value column="PrintName" isTrl="Y" original="Planned Price">Планируемая цена</value>
     <value column="Description" isTrl="N" original="Planned price for this project line">Planned price for this project line</value>
     <value column="Help" isTrl="N" original="The Planned Price indicates the anticipated price for this project line.">The Planned Price indicates the anticipated price for this project line.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4228,8 +4228,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1568" trl="N">
-    <value column="Name" isTrl="N" original="Planned Quantity">Planned Quantity</value>
-    <value column="PrintName" isTrl="N" original="Planned Qty">Planned Qty</value>
+    <value column="Name" isTrl="Y" original="Planned Quantity">Планируемое количество</value>
+    <value column="PrintName" isTrl="Y" original="Planned Qty">Планируемое кол-во</value>
     <value column="Description" isTrl="N" original="The expected or provisional quantity to be involved for a transaction line.">The expected or provisional quantity to be involved for a transaction line.</value>
     <value column="Help" isTrl="N" original="The Planned Quantity indicates the anticipated quantity for this project or project line">The Planned Quantity indicates the anticipated quantity for this project or project line</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8788,7 +8788,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
   <row id="45D99A3B01114FF6A7E21268362338A1" trl="N">
     <value column="Name" isTrl="Y" original="Line Gross Amount">Всего</value>
     <value column="PrintName" isTrl="Y" original="Line Gross Amount">Всего</value>
-    <value column="Description" isTrl="Y" original="Gross Amount for a line"> Всего сумма по строке включая налоги.</value>
+    <value column="Description" isTrl="Y" original="Gross Amount for a line">Всего сумма по строке включая налоги.</value>
     <value column="Help" isTrl="N" original="This is the total amount against a line ( i.e product price * quantity + taxes ) ">This is the total amount against a line ( i.e product price * quantity + taxes ) </value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -9906,8 +9906,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="526" trl="N">
-    <value column="Name" isTrl="N" original="Quantity">Quantity</value>
-    <value column="PrintName" isTrl="N" original="Qty">Qty</value>
+    <value column="Name" isTrl="Y" original="Quantity">Количество</value>
+    <value column="PrintName" isTrl="Y" original="Qty">Кол-во</value>
     <value column="Description" isTrl="N" original="The number of a certain item.">The number of a certain item.</value>
     <value column="Help" isTrl="N" original="The Quantity indicates the number of a specific product or item for this document.">The Quantity indicates the number of a specific product or item for this document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9937,7 +9937,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
   </row>
   <row id="529" trl="N">
     <value column="Name" isTrl="Y" original="Invoiced Quantity">Количество в счёте</value>
-    <value column="PrintName" isTrl="Y" original="Invoiced">Количество в счёте</value>
+    <value column="PrintName" isTrl="Y" original="Invoiced">Кол-во в счёте</value>
     <value column="Description" isTrl="Y" original="The total number of a product included in an invoice to a business partner.">Общее количества товара включённого в счёт контрагента.</value>
     <value column="Help" isTrl="N" original="The Invoiced Quantity indicates the quantity of a product that have been invoiced.">The Invoiced Quantity indicates the quantity of a product that have been invoiced.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9946,9 +9946,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="530" trl="N">
-    <value column="Name" isTrl="N" original="Quantity on Hand">Quantity on Hand</value>
-    <value column="PrintName" isTrl="N" original="On Hand Qty">On Hand Qty</value>
-    <value column="Description" isTrl="N" original="On Hand Quantity">On Hand Quantity</value>
+    <value column="Name" isTrl="Y" original="Quantity on Hand">Количество на руках</value>
+    <value column="PrintName" isTrl="Y" original="On Hand Qty">Кол-во на руках</value>
+    <value column="Description" isTrl="Y" original="On Hand Quantity">Количество на руках</value>
     <value column="Help" isTrl="N" original="The On Hand Quantity indicates the quantity of a product that is on hand in a warehouse.">The On Hand Quantity indicates the quantity of a product that is on hand in a warehouse.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -13415,8 +13415,8 @@ Product quantity in the order uom.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800018" trl="N">
-    <value column="Name" isTrl="N" original="Planned Purchase Price">Planned Purchase Price</value>
-    <value column="PrintName" isTrl="N" original="Plannedpoprice">Plannedpoprice</value>
+    <value column="Name" isTrl="Y" original="Planned Purchase Price">Планируемая цена ордера поставщика</value>
+    <value column="PrintName" isTrl="Y" original="Plannedpoprice">Планируемая цена ордера поставщика</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Indicates the planned price for the purchase order">Indicates the planned price for the purchase order</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14668,10 +14668,10 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800189" trl="N">
-    <value column="Name" isTrl="N" original="Planned po Amount">Planned po Amount</value>
-    <value column="PrintName" isTrl="N" original="Planned po Amt">Planned po Amt</value>
+    <value column="Name" isTrl="Y" original="Planned po Amount">Планируемая сумма ордера поставщика</value>
+    <value column="PrintName" isTrl="Y" original="Planned po Amt">Планируемая сумма ордера поставщика</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Planned amount for the purchase order">Planned amount for the purchase order</value>
+    <value column="Help" isTrl="Y" original="Planned amount for the purchase order">Планируемая сумма ордера поставщика</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -14965,10 +14965,10 @@ For example, if you want to create different invoices for each ship location for
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800264" trl="N">
-    <value column="Name" isTrl="N" original="Cancellation Date">Cancellation Date</value>
-    <value column="PrintName" isTrl="N" original="Datecancelled">Datecancelled</value>
-    <value column="Description" isTrl="N" original="Cancellation date">Cancellation date</value>
-    <value column="Help" isTrl="N" original="Cancellation date">Cancellation date</value>
+    <value column="Name" isTrl="Y" original="Cancellation Date">Дата отмены</value>
+    <value column="PrintName" isTrl="Y" original="Datecancelled">Дата отмены</value>
+    <value column="Description" isTrl="Y" original="Cancellation date">Дата отмены</value>
+    <value column="Help" isTrl="Y" original="Cancellation date">Дата отмены</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -15325,8 +15325,8 @@ For example, if you want to create different invoices for each ship location for
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800315" trl="N">
-    <value column="Name" isTrl="N" original="Quantity">Quantity</value>
-    <value column="PrintName" isTrl="N" original="Quantity">Quantity</value>
+    <value column="Name" isTrl="Y" original="Quantity">Количество</value>
+    <value column="PrintName" isTrl="Y" original="Quantity">Кол-во</value>
     <value column="Description" isTrl="N" original="The number of a certain item.">The number of a certain item.</value>
     <value column="Help" isTrl="N" original="Indicates the quantity of product needed to process one time the sequence.">Indicates the quantity of product needed to process one time the sequence.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16578,8 +16578,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800572" trl="N">
-    <value column="Name" isTrl="N" original="Planned Time (Hours)">Planned Time (Hours)</value>
-    <value column="PrintName" isTrl="N" original="Planned Time (Hours)">Planned Time (Hours)</value>
+    <value column="Name" isTrl="Y" original="Planned Time (Hours)">Планируемое время (Часы)</value>
+    <value column="PrintName" isTrl="Y" original="Planned Time (Hours)">Планируемое время (Часы)</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Estimated time in hours for the operation.">Estimated time in hours for the operation.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16588,10 +16588,10 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800573" trl="N">
-    <value column="Name" isTrl="N" original="Planned Date">Planned Date</value>
-    <value column="PrintName" isTrl="N" original="Scheduled Date">Scheduled Date</value>
+    <value column="Name" isTrl="Y" original="Planned Date">Планируемая дата</value>
+    <value column="PrintName" isTrl="Y" original="Scheduled Date">Планируемая дата</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Scheduled date.">Scheduled date.</value>
+    <value column="Help" isTrl="Y" original="Scheduled date.">Планируемая дата.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -17578,9 +17578,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800701" trl="N">
-    <value column="Name" isTrl="N" original="Min. Quantity">Min. Quantity</value>
-    <value column="PrintName" isTrl="N" original="Qty From">Qty From</value>
-    <value column="Description" isTrl="N" original="Quantity From">Quantity From</value>
+    <value column="Name" isTrl="Y" original="Min. Quantity">Минимальное количество</value>
+    <value column="PrintName" isTrl="Y" original="Qty From">Мин. кол-во</value>
+    <value column="Description" isTrl="Y" original="Quantity From">Минимальное количество</value>
     <value column="Help" isTrl="N" original="Quantity From is the minimum amount that the offer will be applied from.">Quantity From is the minimum amount that the offer will be applied from.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -17588,9 +17588,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800702" trl="N">
-    <value column="Name" isTrl="N" original="Max. Quantity">Max. Quantity</value>
-    <value column="PrintName" isTrl="N" original="Qty To">Qty To</value>
-    <value column="Description" isTrl="N" original="Quantity to">Quantity to</value>
+    <value column="Name" isTrl="Y" original="Max. Quantity">Максимальное количество</value>
+    <value column="PrintName" isTrl="Y" original="Qty To">Макс. кол-во</value>
+    <value column="Description" isTrl="Y" original="Quantity to">Максимальное количество</value>
     <value column="Help" isTrl="N" original="Quantity to is the maximum amount to apply the offer.">Quantity to is the maximum amount to apply the offer.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -18008,10 +18008,10 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800749" trl="N">
-    <value column="Name" isTrl="N" original="Standard Quantity">Standard Quantity</value>
-    <value column="PrintName" isTrl="N" original="Qty. Std">Qty. Std</value>
-    <value column="Description" isTrl="N" original="Quantity Standard">Quantity Standard</value>
-    <value column="Help" isTrl="N" original="Quantity Standard">Quantity Standard</value>
+    <value column="Name" isTrl="Y" original="Standard Quantity">Стандартное количество</value>
+    <value column="PrintName" isTrl="Y" original="Qty. Std">Станд. кол-во</value>
+    <value column="Description" isTrl="Y" original="Quantity Standard">Стандартное количество</value>
+    <value column="Help" isTrl="Y" original="Quantity Standard">Стандартное количество</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -18028,10 +18028,10 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800751" trl="N">
-    <value column="Name" isTrl="N" original="Max. Quantity">Max. Quantity</value>
-    <value column="PrintName" isTrl="N" original="Maximum Quantity">Maximum Quantity</value>
-    <value column="Description" isTrl="N" original="Maximum Quantity">Maximum Quantity</value>
-    <value column="Help" isTrl="N" original="Maximum Quantity">Maximum Quantity</value>
+    <value column="Name" isTrl="Y" original="Max. Quantity">Максимальное количество</value>
+    <value column="PrintName" isTrl="Y" original="Maximum Quantity">Макс. кол-во</value>
+    <value column="Description" isTrl="Y" original="Maximum Quantity">Максимальное количество</value>
+    <value column="Help" isTrl="Y" original="Maximum Quantity">Максимальное количество</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -18058,10 +18058,10 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800754" trl="N">
-    <value column="Name" isTrl="N" original="Min. Quantity">Min. Quantity</value>
-    <value column="PrintName" isTrl="N" original="Minumun Quantity.">Minumun Quantity.</value>
-    <value column="Description" isTrl="N" original="Minumun Quantity.">Minumun Quantity.</value>
-    <value column="Help" isTrl="N" original="Minumun Quantity.">Minumun Quantity.</value>
+    <value column="Name" isTrl="Y" original="Min. Quantity">Минимальное количество</value>
+    <value column="PrintName" isTrl="Y" original="Minumun Quantity.">Мин. кол-во</value>
+    <value column="Description" isTrl="Y" original="Minumun Quantity.">Минимальное количество</value>
+    <value column="Help" isTrl="Y" original="Minumun Quantity.">Минимальное количество</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -18098,20 +18098,20 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800758" trl="N">
-    <value column="Name" isTrl="N" original="Required Quantity">Required Quantity</value>
-    <value column="PrintName" isTrl="N" original="Needed qty.">Needed qty.</value>
+    <value column="Name" isTrl="Y" original="Required Quantity">Требуемое количество</value>
+    <value column="PrintName" isTrl="Y" original="Needed qty.">Требуемое кол-во</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Quantity needed">Quantity needed</value>
+    <value column="Help" isTrl="Y" original="Quantity needed">Требуемое количество</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800759" trl="N">
-    <value column="Name" isTrl="N" original="Planned Date">Planned Date</value>
-    <value column="PrintName" isTrl="N" original="Planned date">Planned date</value>
+    <value column="Name" isTrl="Y" original="Planned Date">Планируемая дата</value>
+    <value column="PrintName" isTrl="Y" original="Planned date">Планируемая дата</value>
     <value column="Description" isTrl="N" original="The date when a transaction will occur.">The date when a transaction will occur.</value>
-    <value column="Help" isTrl="N" original="Planned date of the transaction.">Planned date of the transaction.</value>
+    <value column="Help" isTrl="N" original="Planned date of the transaction.">Планируемая дата транзакции.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -18208,8 +18208,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800769" trl="N">
-    <value column="Name" isTrl="N" original="Planned">Planned</value>
-    <value column="PrintName" isTrl="N" original="Planned">Planned</value>
+    <value column="Name" isTrl="Y" original="Planned">Запланировано</value>
+    <value column="PrintName" isTrl="Y" original="Planned">Запланировано</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Is planned.">Is planned.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -18228,8 +18228,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800771" trl="N">
-    <value column="Name" isTrl="N" original="Planned Order Date">Planned Order Date</value>
-    <value column="PrintName" isTrl="N" original="Planned order date">Planned order date</value>
+    <value column="Name" isTrl="Y" original="Planned Order Date">Планируемая дата ордера</value>
+    <value column="PrintName" isTrl="Y" original="Planned order date">Планируемая дата ордера</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Planned date to order the transaction.">Planned date to order the transaction.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -18248,8 +18248,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800773" trl="N">
-    <value column="Name" isTrl="N" original="Pixel Size">Pixel Size</value>
-    <value column="PrintName" isTrl="N" original="Pixelsize">Pixelsize</value>
+    <value column="Name" isTrl="Y" original="Pixel Size">Размер пикселей</value>
+    <value column="PrintName" isTrl="Y" original="Pixelsize">Размер пикселей</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -18388,8 +18388,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800807" trl="N">
-    <value column="Name" isTrl="N" original="Planned Date">Planned Date</value>
-    <value column="PrintName" isTrl="N" original="Planned date">Planned date</value>
+    <value column="Name" isTrl="Y" original="Planned Date">Планируемая дата</value>
+    <value column="PrintName" isTrl="Y" original="Planned date">Планируемая дата</value>
     <value column="Description" isTrl="N" original="The expected or provisional date when a transaction will occur.">The expected or provisional date when a transaction will occur.</value>
     <value column="Help" isTrl="N" original="Expected date of the transaction.">Expected date of the transaction.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21690,8 +21690,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C958F9CA64A6AD2DE040007F01004595" trl="N">
-    <value column="Name" isTrl="N" original="Gross Amount">Gross Amount</value>
-    <value column="PrintName" isTrl="N" original="Gross Amount">Gross Amount</value>
+    <value column="Name" isTrl="Y" original="Gross Amount">Всего</value>
+    <value column="PrintName" isTrl="Y" original="Gross Amount">Всего</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21700,9 +21700,9 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C9626ADBB0154295BE43B3E47A75D7AB" trl="N">
-    <value column="Name" isTrl="N" original="Process Time">Process Time</value>
-    <value column="PrintName" isTrl="N" original="Process Time">Process Time</value>
-    <value column="Description" isTrl="N" original="Process Time">Process Time</value>
+    <value column="Name" isTrl="Y" original="Process Time">Время обработки</value>
+    <value column="PrintName" isTrl="Y" original="Process Time">Время обработки</value>
+    <value column="Description" isTrl="Y" original="Process Time">Время обработки</value>
     <value column="Help" isTrl="N" original="Amount of time in milliseconds the process took to execute.">Amount of time in milliseconds the process took to execute.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -21750,8 +21750,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CABF113EC59AA4EFE040007F010017BB" trl="N">
-    <value column="Name" isTrl="N" original="Reserved Qty">Reserved Qty</value>
-    <value column="PrintName" isTrl="N" original="Reserved Qty">Reserved Qty</value>
+    <value column="Name" isTrl="Y" original="Reserved Qty">Зарезервировано количество</value>
+    <value column="PrintName" isTrl="Y" original="Reserved Qty">Зарез. кол-во</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Represents the total quantity reserved to fulfill the reservation. It cannot be higher than the pending quantity.">Represents the total quantity reserved to fulfill the reservation. It cannot be higher than the pending quantity.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21760,8 +21760,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CB273E1D40847ADAE040007F010023DB" trl="N">
-    <value column="Name" isTrl="N" original="Organization Warehouse">Organization Warehouse</value>
-    <value column="PrintName" isTrl="N" original="Organization Warehouse">Organization Warehouse</value>
+    <value column="Name" isTrl="Y" original="Organization Warehouse">Склад организации</value>
+    <value column="PrintName" isTrl="Y" original="Organization Warehouse">Склад организации</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Identifies a on hand warehouse of an Organization.">Identifies a on hand warehouse of an Organization.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21890,18 +21890,18 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CD35A5791D6E06E5E040007F01001839" trl="N">
-    <value column="Name" isTrl="N" original="Manage Stock">Manage Stock</value>
-    <value column="PrintName" isTrl="N" original="Manage Stock">Manage Stock</value>
+    <value column="Name" isTrl="Y" original="Manage Stock">Управление остатком</value>
+    <value column="PrintName" isTrl="Y" original="Manage Stock">Управление остатком</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Manage Stock">Manage Stock</value>
+    <value column="Help" isTrl="Y" original="Manage Stock">Управление остатком</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CD57A1DBADD440EC9551AE6BC51E8643" trl="N">
-    <value column="Name" isTrl="N" original="Standard Price">Standard Price</value>
-    <value column="PrintName" isTrl="N" original="Std Price">Std Price</value>
+    <value column="Name" isTrl="Y" original="Standard Price">Стандартная цена</value>
+    <value column="PrintName" isTrl="Y" original="Std Price">Станд. цена</value>
     <value column="Description" isTrl="N" original="The regular or normal price of a product in the respective price list.">The regular or normal price of a product in the respective price list.</value>
     <value column="Help" isTrl="N" original="The Standard Price indicates the standard or normal price for a product on this price list">The Standard Price indicates the standard or normal price for a product on this price list</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21950,8 +21950,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CE626BBC5E958638E040007F01001502" trl="N">
-    <value column="Name" isTrl="N" original="Sales Order Line">Sales Order Line</value>
-    <value column="PrintName" isTrl="N" original="Sales Order Line">Sales Order Line</value>
+    <value column="Name" isTrl="Y" original="Sales Order Line">Строка ордера клиента</value>
+    <value column="PrintName" isTrl="Y" original="Sales Order Line">Строка ордера клиента</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22000,8 +22000,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CE8AFA26FC3EFDA3E040007F010070A1" trl="N">
-    <value column="Name" isTrl="N" original="Other Reserved Qty">Other Reserved Qty</value>
-    <value column="PrintName" isTrl="N" original="Other Reserved Qty">Other Reserved Qty</value>
+    <value column="Name" isTrl="Y" original="Other Reserved Qty">Прочее зарезервировано количество</value>
+    <value column="PrintName" isTrl="Y" original="Other Reserved Qty">Прочее зарез. кол-во</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22020,8 +22020,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CE8BC64B7174E90FE040007F01007EB7" trl="N">
-    <value column="Name" isTrl="N" original="Purchased Qty">Purchased Qty</value>
-    <value column="PrintName" isTrl="N" original="Purchased Qty">Purchased Qty</value>
+    <value column="Name" isTrl="Y" original="Purchased Qty">Поставлено количество</value>
+    <value column="PrintName" isTrl="Y" original="Purchased Qty">Поставлено кол-во</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

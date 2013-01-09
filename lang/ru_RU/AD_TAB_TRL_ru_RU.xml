@@ -106,7 +106,7 @@
     <value column="Help" isTrl="N" original="The lines tab is a read-only tab which lists all the tax transactions related to the tax rates configured as part of a &quot;Tax Register Type&quot;.">The lines tab is a read-only tab which lists all the tax transactions related to the tax rates configured as part of a "Tax Register Type".</value>
   </row>
   <row id="1004400000" trl="N">
-    <value column="Name" isTrl="N" original="Matched PO Lines">Matched PO Lines</value>
+    <value column="Name" isTrl="Y" original="Matched PO Lines">Связанные строки ордера поставщика</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -127,7 +127,7 @@
     <value column="Help" isTrl="N" original="Procurement team can perform a set of actions regarding requisitions lines. It is possible for them to either create lines or product demands or to cancel them.">Procurement team can perform a set of actions regarding requisitions lines. It is possible for them to either create lines or product demands or to cancel them.</value>
   </row>
   <row id="1004400003" trl="N">
-    <value column="Name" isTrl="N" original="Matched PO Lines">Matched PO Lines</value>
+    <value column="Name" isTrl="Y" original="Matched PO Lines">Связанные строки ордера поставщика</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1522,14 +1522,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Assigned products is a view of the all the products which belong to a product category.">Assigned products is a view of the all the products which belong to a product category.</value>
   </row>
   <row id="408" trl="N">
-    <value column="Name" isTrl="N" original="Matched Invoice">Matched Invoice</value>
+    <value column="Name" isTrl="Y" original="Matched Invoice">Связанные счёт-фактуры</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View which invoice line is related to which shipment line.">View which invoice line is related to which shipment line.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Matched invoice tab lists each invoice line posted linked to the corresponding goods receipt lines, which could also be posted or not.">Matched invoice tab lists each invoice line posted linked to the corresponding goods receipt lines, which could also be posted or not.</value>
   </row>
   <row id="409" trl="N">
-    <value column="Name" isTrl="N" original="Matched Purchase Order">Matched Purchase Order</value>
+    <value column="Name" isTrl="Y" original="Matched Purchase Order">Связанные ордеры поставщика</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View which purchase order line is related to which shipment line.">View which purchase order line is related to which shipment line.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2279,7 +2279,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create settlements for selected payments.">Create settlements for selected payments.</value>
   </row>
   <row id="800026" trl="N">
-    <value column="Name" isTrl="N" original="Cancelled Payments">Cancelled Payments</value>
+    <value column="Name" isTrl="Y" original="Cancelled Payments">Отменены платежи</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View cancelled payments.">View cancelled payments.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3280,7 +3280,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define indirect costs related to a specified process.">Define indirect costs related to a specified process.</value>
   </row>
   <row id="800245" trl="N">
-    <value column="Name" isTrl="N" original="Planner">Planner</value>
+    <value column="Name" isTrl="Y" original="Planner">Планирование</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define the planner in charge of managing the purchase or production of specific products.">Define the planner in charge of managing the purchase or production of specific products.</value>
     <value column="Filtername" isTrl="N" original=""/>

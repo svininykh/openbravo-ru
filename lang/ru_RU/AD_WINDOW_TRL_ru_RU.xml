@@ -83,7 +83,7 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="Define multiple languages to be used in the application.">Define multiple languages to be used in the application.</value>
   </row>
   <row id="107" trl="N">
-    <value column="Name" isTrl="N" original="Matched Invoices">Matched Invoices</value>
+    <value column="Name" isTrl="Y" original="Matched Invoices">Связанные счет-фактуры</value>
     <value column="Description" isTrl="N" original="Track matching between purchase invoice lines and the corresponding shipment/receipt lines.">Track matching between purchase invoice lines and the corresponding shipment/receipt lines.</value>
     <value column="Help" isTrl="N" original="This window helps you to post the discrepancies between inventory and financial accounting of those items for which the corresponding goods receipts were posted.">This window helps you to post the discrepancies between inventory and financial accounting of those items for which the corresponding goods receipts were posted.</value>
   </row>
@@ -403,7 +403,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit images that later will be used in other windows.">Create and edit images that later will be used in other windows.</value>
   </row>
   <row id="228" trl="N">
-    <value column="Name" isTrl="N" original="Matched Purchase Orders">Matched Purchase Orders</value>
+    <value column="Name" isTrl="Y" original="Matched Purchase Orders">Связанные ордеры поставщика</value>
     <value column="Description" isTrl="N" original="Track matching between purchase order lines and the corresponding shipment/receipt or invoice lines. ">Track matching between purchase order lines and the corresponding shipment/receipt or invoice lines. </value>
     <value column="Help" isTrl="N" original="This window informs about the matching between each purchase order, goods receipt and invoice line.">This window informs about the matching between each purchase order, goods receipt and invoice line.</value>
   </row>
@@ -843,7 +843,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="A business partner tax category allows to group and manage similar business partners tax rates.">A business partner tax category allows to group and manage similar business partners tax rates.</value>
   </row>
   <row id="800088" trl="N">
-    <value column="Name" isTrl="N" original="Planner">Planner</value>
+    <value column="Name" isTrl="Y" original="Planner">Планирование</value>
     <value column="Description" isTrl="N" original="Define the entity in charge of managing the purchase or production of specific products.">Define the entity in charge of managing the purchase or production of specific products.</value>
     <value column="Help" isTrl="N" original="Define the entity in charge of managing the purchase or production of specific products.">Define the entity in charge of managing the purchase or production of specific products.</value>
   </row>
@@ -858,17 +858,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="A requisition is a formal request of something needed by the organization or business unit.&lt;br&gt;Each requisition includes the item/s needed and could have a preferred vendor and/or Price List.">A requisition is a formal request of something needed by the organization or business unit.&lt;br&gt;Each requisition includes the item/s needed and could have a preferred vendor and/or Price List.</value>
   </row>
   <row id="800094" trl="N">
-    <value column="Name" isTrl="N" original="Planning Method">Planning Method</value>
+    <value column="Name" isTrl="Y" original="Planning Method">Метод планирования</value>
     <value column="Description" isTrl="N" original="Define how transaction types will be dealt with in the application.">Define how transaction types will be dealt with in the application.</value>
     <value column="Help" isTrl="N" original="Define how transaction types will be dealt with in the application.">Define how transaction types will be dealt with in the application.</value>
   </row>
   <row id="800096" trl="N">
-    <value column="Name" isTrl="N" original="Manufacturing Plan">Manufacturing Plan</value>
+    <value column="Name" isTrl="Y" original="Manufacturing Plan">План производства</value>
     <value column="Description" isTrl="N" original="Create a comprehensive work requirement in order to request materials over a specified time period.">Create a comprehensive work requirement in order to request materials over a specified time period.</value>
     <value column="Help" isTrl="N" original="Create a comprehensive work requirement in order to request materials over a specified time period.">Create a comprehensive work requirement in order to request materials over a specified time period.</value>
   </row>
   <row id="800097" trl="N">
-    <value column="Name" isTrl="N" original="Purchasing Plan">Purchasing Plan</value>
+    <value column="Name" isTrl="Y" original="Purchasing Plan">План снабжения</value>
     <value column="Description" isTrl="N" original="Create a comprehensive and organized plan to request purchases over a specified time period.">Create a comprehensive and organized plan to request purchases over a specified time period.</value>
     <value column="Help" isTrl="N" original="Create a comprehensive and organized plan to request purchases over a specified time period.">Create a comprehensive and organized plan to request purchases over a specified time period.</value>
   </row>

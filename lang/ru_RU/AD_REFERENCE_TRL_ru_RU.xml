@@ -41,8 +41,8 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="10" trl="N">
-    <value column="Name" isTrl="N" original="String">String</value>
-    <value column="Description" isTrl="N" original="Character String">Character String</value>
+    <value column="Name" isTrl="Y" original="String">Строка символов</value>
+    <value column="Description" isTrl="Y" original="Character String">Строка символов</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="100" trl="N">
@@ -56,17 +56,17 @@
     <value column="Help" isTrl="N" original="Type of an Alert Rule. Data driven (check for a valid SQL clause) or External (do not check the SQL clause).">Type of an Alert Rule. Data driven (check for a valid SQL clause) or External (do not check the SQL clause).</value>
   </row>
   <row id="1000300001" trl="N">
-    <value column="Name" isTrl="N" original="Number of Employees">Number of Employees</value>
+    <value column="Name" isTrl="Y" original="Number of Employees">Число работников</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1000300002" trl="N">
-    <value column="Name" isTrl="N" original="Countries">Countries</value>
+    <value column="Name" isTrl="Y" original="Countries">Страны</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1000300003" trl="N">
-    <value column="Name" isTrl="N" original="Type of Business">Type of Business</value>
+    <value column="Name" isTrl="Y" original="Type of Business">Вид деятельности</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -83,14 +83,10 @@
   <row id="1004400000" trl="N">
     <value column="Name" isTrl="Y" original="Requisition status">Статус заказа</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="List of the possible statuses of a requisition:&#10;-O: Open&#10;-P: Planned&#10;-C: Closed&#10;-D: Cancelled">List of the possible statuses of a requisition:
--O: Open
--P: Planned
--C: Closed
--D: Cancelled</value>
+    <value column="Help" isTrl="N" original="List of the possible statuses of a requisition:&#10;-O: Open&#10;-P: Planned&#10;-C: Closed&#10;-D: Cancelled">Список доступных статусов заказа:&#10;-O: Открыт&#10;-P: Запланирован&#10;-C: Закрыт&#10;-D: Отменён</value>
   </row>
   <row id="1004400001" trl="N">
-    <value column="Name" isTrl="N" original="Requisition lock cause">Requisition lock cause</value>
+    <value column="Name" isTrl="Y" original="Requisition lock cause">Основание блокировки заказа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1085,13 +1081,13 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="29" trl="N">
-    <value column="Name" isTrl="N" original="Quantity">Quantity</value>
-    <value column="Description" isTrl="N" original="Quantity data type">Quantity data type</value>
+    <value column="Name" isTrl="Y" original="Quantity">Количество</value>
+    <value column="Description" isTrl="Y" original="Quantity data type">Тип данных количества</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="290" trl="N">
-    <value column="Name" isTrl="N" original="C_Order Purchase">C_Order Purchase</value>
-    <value column="Description" isTrl="N" original="Purchase orders">Purchase orders</value>
+    <value column="Name" isTrl="Y" original="C_Order Purchase">Ордеры поставщика</value>
+    <value column="Description" isTrl="Y" original="Purchase orders">Ордеры поставщика</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="295DC3D3A3D14DFB84739181DDE941A2" trl="N">
@@ -1777,7 +1773,7 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800099" trl="N">
-    <value column="Name" isTrl="N" original="Quantity type">Quantity type</value>
+    <value column="Name" isTrl="Y" original="Quantity type">Тип количества</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

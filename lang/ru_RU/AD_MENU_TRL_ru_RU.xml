@@ -541,11 +541,11 @@
     <value column="Description" isTrl="N" original="Define a Price List Schema to be assigned to business partners.">Define a Price List Schema to be assigned to business partners.</value>
   </row>
   <row id="315" trl="N">
-    <value column="Name" isTrl="N" original="Matched Invoices">Matched Invoices</value>
+    <value column="Name" isTrl="Y" original="Matched Invoices">Связанные счет-фактуры</value>
     <value column="Description" isTrl="N" original="Track matching between purchase invoice lines and the corresponding shipment/receipt lines.">Track matching between purchase invoice lines and the corresponding shipment/receipt lines.</value>
   </row>
   <row id="316" trl="N">
-    <value column="Name" isTrl="N" original="Matched Purchase Orders">Matched Purchase Orders</value>
+    <value column="Name" isTrl="Y" original="Matched Purchase Orders">Связанные ордеры поставщика</value>
     <value column="Description" isTrl="N" original="Track matching between purchase order lines and the corresponding shipment/receipt or invoice lines. ">Track matching between purchase order lines and the corresponding shipment/receipt or invoice lines. </value>
   </row>
   <row id="317" trl="N">
@@ -1209,7 +1209,7 @@
     <value column="Description" isTrl="N" original="MRP provides the tools to plan and monitor purchase and production planning by tracking several inputs such as sales forecast and current stock levels.">MRP provides the tools to plan and monitor purchase and production planning by tracking several inputs such as sales forecast and current stock levels.</value>
   </row>
   <row id="800213" trl="N">
-    <value column="Name" isTrl="N" original="Planner">Planner</value>
+    <value column="Name" isTrl="N" original="Planner">Планирование</value>
     <value column="Description" isTrl="N" original="Define the entity in charge of managing the purchase or production of specific products.">Define the entity in charge of managing the purchase or production of specific products.</value>
   </row>
   <row id="800214" trl="N">
@@ -1221,15 +1221,15 @@
     <value column="Description" isTrl="N" original="Create requests for the procurement department to buy necessary items based on your defined plan.">Create requests for the procurement department to buy necessary items based on your defined plan.</value>
   </row>
   <row id="800218" trl="N">
-    <value column="Name" isTrl="N" original="Planning Method">Planning Method</value>
+    <value column="Name" isTrl="Y" original="Planning Method">Метод планирования</value>
     <value column="Description" isTrl="N" original="Define how transaction types will be dealt with in the application.">Define how transaction types will be dealt with in the application.</value>
   </row>
   <row id="800220" trl="N">
-    <value column="Name" isTrl="N" original="Manufacturing Plan">Manufacturing Plan</value>
+    <value column="Name" isTrl="Y" original="Manufacturing Plan">План производства</value>
     <value column="Description" isTrl="N" original="Create a comprehensive work requirement in order to request materials over a specified time period.">Create a comprehensive work requirement in order to request materials over a specified time period.</value>
   </row>
   <row id="800221" trl="N">
-    <value column="Name" isTrl="N" original="Purchasing Plan">Purchasing Plan</value>
+    <value column="Name" isTrl="Y" original="Purchasing Plan">План снабжения</value>
     <value column="Description" isTrl="N" original="Create a comprehensive and organized plan to request purchases over a specified time period.">Create a comprehensive and organized plan to request purchases over a specified time period.</value>
   </row>
   <row id="800224" trl="N">

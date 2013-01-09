@@ -36,12 +36,12 @@
     <value column="Help" isTrl="Y" original="Total amount due">Сумма текущей задолженности</value>
   </row>
   <row id="1004400028" trl="N">
-    <value column="Name" isTrl="N" original="Requester">Requester</value>
+    <value column="Name" isTrl="Y" original="Requester">Заказчик</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1004400043" trl="N">
-    <value column="Name" isTrl="N" original="Requester">Requester</value>
+    <value column="Name" isTrl="Y" original="Requester">Заказчик</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -226,7 +226,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4457" trl="N">
-    <value column="Name" isTrl="N" original="Planned Quantity">Planned Quantity</value>
+    <value column="Name" isTrl="Y" original="Planned Quantity">Планируемое количество</value>
     <value column="Description" isTrl="N" original="The expected or provisional quantity to be involved for a transaction line.">The expected or provisional quantity to be involved for a transaction line.</value>
     <value column="Help" isTrl="N" original="The Planned Quantity indicates the anticipated quantity for this project or project line">The Planned Quantity indicates the anticipated quantity for this project or project line</value>
   </row>
@@ -501,22 +501,22 @@
     <value column="Help" isTrl="N" original="A public or private enterprise. This are the most typical initiatives">A public or private enterprise. This are the most typical initiatives</value>
   </row>
   <row id="800061" trl="N">
-    <value column="Name" isTrl="N" original="Planned Quantity">Planned Quantity</value>
+    <value column="Name" isTrl="Y" original="Planned Quantity">Планируемое количество</value>
     <value column="Description" isTrl="N" original="The expected or provisional quantity to be involved for a transaction line.">The expected or provisional quantity to be involved for a transaction line.</value>
     <value column="Help" isTrl="N" original="The Planned Quantity indicates the anticipated quantity for this project or project line">The Planned Quantity indicates the anticipated quantity for this project or project line</value>
   </row>
   <row id="800067" trl="N">
-    <value column="Name" isTrl="N" original="Contract Quantity">Contract Quantity</value>
+    <value column="Name" isTrl="Y" original="Contract Quantity">Оговоренное количество</value>
     <value column="Description" isTrl="N" original="The maximum legal quantity for a project.">The maximum legal quantity for a project.</value>
     <value column="Help" isTrl="N" original="The commitment amount is independent from the planned amount. You would use the planned amount for your realistic estimation, which might be higher or lower than the commitment amount.">The commitment amount is independent from the planned amount. You would use the planned amount for your realistic estimation, which might be higher or lower than the commitment amount.</value>
   </row>
   <row id="800068" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Quantity">Invoice Quantity</value>
+    <value column="Name" isTrl="Y" original="Invoice Quantity">Выставленное количество</value>
     <value column="Description" isTrl="N" original="The total number of a product included in an invoice to a business partner.">The total number of a product included in an invoice to a business partner.</value>
     <value column="Help" isTrl="N" original="The Quantity Invoiced">The Quantity Invoiced</value>
   </row>
   <row id="800071" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Amount">Invoice Amount</value>
+    <value column="Name" isTrl="Y" original="Invoice Amount">Выставленная сумма</value>
     <value column="Description" isTrl="N" original="The monetary sum that is invoiced for a specified item or service.">The monetary sum that is invoiced for a specified item or service.</value>
     <value column="Help" isTrl="N" original="The amount invoiced">The amount invoiced</value>
   </row>
@@ -531,7 +531,7 @@
     <value column="Help" isTrl="N" original="Indicates the planned price for the purchase order">Indicates the planned price for the purchase order</value>
   </row>
   <row id="800082" trl="N">
-    <value column="Name" isTrl="N" original="Planned Quantity">Planned Quantity</value>
+    <value column="Name" isTrl="Y" original="Planned Quantity">Планируемое количество</value>
     <value column="Description" isTrl="N" original="The expected or provisional quantity to be involved for a transaction line.">The expected or provisional quantity to be involved for a transaction line.</value>
     <value column="Help" isTrl="N" original="The Planned Quantity indicates the anticipated quantity for this project or project line">The Planned Quantity indicates the anticipated quantity for this project or project line</value>
   </row>
@@ -581,7 +581,7 @@
     <value column="Help" isTrl="N" original="Unprocesses the processed settlement and enables to make changes on it.">Unprocesses the processed settlement and enables to make changes on it.</value>
   </row>
   <row id="800731" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
     <value column="Description" isTrl="N" original="Identifies a Business Partner">Identifies a Business Partner</value>
     <value column="Help" isTrl="N" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson</value>
   </row>
@@ -671,12 +671,12 @@
     <value column="Help" isTrl="N" original="Indicates if the work requirement is completely done or if we don't want to continue with it.">Indicates if the work requirement is completely done or if we don't want to continue with it.</value>
   </row>
   <row id="801775" trl="N">
-    <value column="Name" isTrl="N" original="Quantity">Quantity</value>
+    <value column="Name" isTrl="Y" original="Quantity">Количество</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Indicates the number of times the process plan needs to be executed.">Indicates the number of times the process plan needs to be executed.</value>
   </row>
   <row id="801788" trl="N">
-    <value column="Name" isTrl="N" original="Quantity">Quantity</value>
+    <value column="Name" isTrl="Y" original="Quantity">Количество</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Indicates the number of times that the work requirement phase must be processed.">Indicates the number of times that the work requirement phase must be processed.</value>
   </row>
@@ -686,7 +686,7 @@
     <value column="Help" isTrl="N" original="Indicates how many times has been processed the work requirement phase.">Indicates how many times has been processed the work requirement phase.</value>
   </row>
   <row id="801844" trl="N">
-    <value column="Name" isTrl="N" original="Quantity">Quantity</value>
+    <value column="Name" isTrl="Y" original="Quantity">Количество</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Indicates how many times has been processed the work requirement phase.">Indicates how many times has been processed the work requirement phase.</value>
   </row>
@@ -828,7 +828,7 @@
     <value column="Help" isTrl="N" original="Account used for in transit status of outgoing payments">Account used for in transit status of outgoing payments</value>
   </row>
   <row id="90AEAED4A45C458591CFDEF0CD554A1C" trl="N">
-    <value column="Name" isTrl="N" original="Quantity">Quantity</value>
+    <value column="Name" isTrl="Y" original="Quantity">Количество</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Indicates how many times has been processed the work requirement phase.">Indicates how many times has been processed the work requirement phase.</value>
   </row>
