@@ -265,12 +265,12 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Help" isTrl="N" original="This process generates invoices from completed sales shipments. It also has filter utilities">This process generates invoices from completed sales shipments. It also has filter utilities</value>
   </row>
   <row id="136" trl="N">
-    <value column="Name" isTrl="N" original="Verify BOM">Verify BOM</value>
+    <value column="Name" isTrl="Y" original="Verify BOM">Проверить спецификацию</value>
     <value column="Description" isTrl="N" original="Verify BOM Structure">Verify BOM Structure</value>
     <value column="Help" isTrl="N" original="The Verify BOM Structure checks the elements and steps which comprise a Bill of Materials.">The Verify BOM Structure checks the elements and steps which comprise a Bill of Materials.</value>
   </row>
   <row id="137" trl="N">
-    <value column="Name" isTrl="N" original="Create/Process Production">Create/Process Production</value>
+    <value column="Name" isTrl="Y" original="Create/Process Production">Создать/Обработать производство</value>
     <value column="Description" isTrl="N" original="Create production lines, if not created - otherwise process the production">Create production lines, if not created - otherwise process the production</value>
     <value column="Help" isTrl="N" original="Create/Post Production will generate the production lines and process the production.  If the production lines already exists, the production will be processed">Create/Post Production will generate the production lines and process the production.  If the production lines already exists, the production will be processed</value>
   </row>

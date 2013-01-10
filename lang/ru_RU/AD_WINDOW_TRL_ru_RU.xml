@@ -348,7 +348,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit forms (manual windows) to be used in the application.">Create and edit forms (manual windows) to be used in the application.</value>
   </row>
   <row id="191" trl="N">
-    <value column="Name" isTrl="N" original="Bill of Materials Production">Bill of Materials Production</value>
+    <value column="Name" isTrl="Y" original="Bill of Materials Production">Производство по спецификации</value>
     <value column="Description" isTrl="N" original="Create and run production processes using the previously defined bills of materials.">Create and run production processes using the previously defined bills of materials.</value>
     <value column="Help" isTrl="N" original="Create and run production processes using the previously defined bills of materials.">Create and run production processes using the previously defined bills of materials.</value>
   </row>

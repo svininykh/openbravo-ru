@@ -2962,8 +2962,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1323" trl="N">
-    <value column="Name" isTrl="N" original="BOM Quantity">BOM Quantity</value>
-    <value column="PrintName" isTrl="N" original="Qty">Qty</value>
+    <value column="Name" isTrl="Y" original="BOM Quantity">Количество для производства</value>
+    <value column="PrintName" isTrl="Y" original="Qty">Кол-во для производства</value>
     <value column="Description" isTrl="N" original="Bill of Materials Quantity">Bill of Materials Quantity</value>
     <value column="Help" isTrl="N" original="The BOM Quantity indicates the quantity of the product in its Unit of Measure (multiplication)">The BOM Quantity indicates the quantity of the product in its Unit of Measure (multiplication)</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2972,9 +2972,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1326" trl="N">
-    <value column="Name" isTrl="N" original="Bill of Materials">Bill of Materials</value>
-    <value column="PrintName" isTrl="N" original="BOM">BOM</value>
-    <value column="Description" isTrl="N" original="Bill of Materials">Bill of Materials</value>
+    <value column="Name" isTrl="Y" original="Bill of Materials">Производиться</value>
+    <value column="PrintName" isTrl="Y" original="BOM">Производиться</value>
+    <value column="Description" isTrl="Y" original="Bill of Materials">Производиться</value>
     <value column="Help" isTrl="N" original="The Bill of Materials check box indicates if this product consists of a bill of materials.">The Bill of Materials check box indicates if this product consists of a bill of materials.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2982,8 +2982,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1329" trl="N">
-    <value column="Name" isTrl="N" original="BOM Product">BOM Product</value>
-    <value column="PrintName" isTrl="N" original="BOM Product">BOM Product</value>
+    <value column="Name" isTrl="Y" original="BOM Product">Товар для производства</value>
+    <value column="PrintName" isTrl="Y" original="BOM Product">Товар для производства</value>
     <value column="Description" isTrl="N" original="Bill of Material Product">Bill of Material Product</value>
     <value column="Help" isTrl="N" original="The BOM Product identifies an element that is part of this Bill of Materials.">The BOM Product identifies an element that is part of this Bill of Materials.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3002,18 +3002,18 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="134" trl="N">
-    <value column="Name" isTrl="N" original="Primary Tree Organization">Primary Tree Organization</value>
-    <value column="PrintName" isTrl="N" original="Primary Tree Organization">Primary Tree Organization</value>
-    <value column="Description" isTrl="N" original="Organization Tree">Organization Tree</value>
-    <value column="Help" isTrl="N" original="Organization Tree">Organization Tree</value>
+    <value column="Name" isTrl="Y" original="Primary Tree Organization">Первичная схема организации</value>
+    <value column="PrintName" isTrl="Y" original="Primary Tree Organization">Первичная схема организации</value>
+    <value column="Description" isTrl="Y" original="Organization Tree">Схема организации</value>
+    <value column="Help" isTrl="Y" original="Organization Tree">Схема организации</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1341" trl="N">
-    <value column="Name" isTrl="N" original="Records Created">Records Created</value>
-    <value column="PrintName" isTrl="N" original="Records created">Records created</value>
+    <value column="Name" isTrl="Y" original="Records Created">Созданые записи</value>
+    <value column="PrintName" isTrl="Y" original="Records created">Созданые записи</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Check to indicate that the records has been created and the production is ready to be processed.">Check to indicate that the records has been created and the production is ready to be processed.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3022,8 +3022,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1342" trl="N">
-    <value column="Name" isTrl="N" original="Production Plan">Production Plan</value>
-    <value column="PrintName" isTrl="N" original="Production Plan">Production Plan</value>
+    <value column="Name" isTrl="Y" original="Production Plan">Производственный план</value>
+    <value column="PrintName" isTrl="Y" original="Production Plan">Производственный план</value>
     <value column="Description" isTrl="N" original="The proposal for a how production will be carried out.">The proposal for a how production will be carried out.</value>
     <value column="Help" isTrl="N" original="The Production Plan identifies the items and steps in generating a product.">The Production Plan identifies the items and steps in generating a product.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3032,8 +3032,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1343" trl="N">
-    <value column="Name" isTrl="N" original="Production Quantity">Production Quantity</value>
-    <value column="PrintName" isTrl="N" original="Production Qty">Production Qty</value>
+    <value column="Name" isTrl="Y" original="Production Quantity">Произведённое количество</value>
+    <value column="PrintName" isTrl="Y" original="Production Qty">Произведённое количество</value>
     <value column="Description" isTrl="N" original="Quantity of products to produce">Quantity of products to produce</value>
     <value column="Help" isTrl="N" original="The Production Quantity identifies the number of products to produce">The Production Quantity identifies the number of products to produce</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3043,7 +3043,7 @@ Advanced features are only granted to the automatic roles defined as advanced.</
   </row>
   <row id="1347" trl="N">
     <value column="Name" isTrl="Y" original="Vendor">Поставщик</value>
-    <value column="PrintName" isTrl="N" original="Vendor">Vendor</value>
+    <value column="PrintName" isTrl="Y" original="Vendor">Поставщик</value>
     <value column="Description" isTrl="Y" original="A business partner who sells products or services.">Индикатор того, что контрагент является для вас поставщиком товаров или услуг.</value>
     <value column="Help" isTrl="N" original="Identifies a business partner that is a vendor.">Identifies a business partner that is a vendor.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3052,10 +3052,10 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="135" trl="N">
-    <value column="Name" isTrl="N" original="Primary Tree Product">Primary Tree Product</value>
-    <value column="PrintName" isTrl="N" original="Primary Tree Product">Primary Tree Product</value>
-    <value column="Description" isTrl="N" original="Product Tree">Product Tree</value>
-    <value column="Help" isTrl="N" original="Product Tree">Product Tree</value>
+    <value column="Name" isTrl="Y" original="Primary Tree Product">Первичная схема товара</value>
+    <value column="PrintName" isTrl="Y" original="Primary Tree Product">Первичная схема товара</value>
+    <value column="Description" isTrl="Y" original="Product Tree">Схема товара</value>
+    <value column="Help" isTrl="Y" original="Product Tree">Схема товара</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -3142,18 +3142,18 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="136" trl="N">
-    <value column="Name" isTrl="N" original="Primary Tree Project">Primary Tree Project</value>
-    <value column="PrintName" isTrl="N" original="Primary Tree Project">Primary Tree Project</value>
-    <value column="Description" isTrl="N" original="Project Tree">Project Tree</value>
-    <value column="Help" isTrl="N" original="Project Tree">Project Tree</value>
+    <value column="Name" isTrl="Y" original="Primary Tree Project">Первичная схема проекта</value>
+    <value column="PrintName" isTrl="Y" original="Primary Tree Project">Первичная схема проекта</value>
+    <value column="Description" isTrl="Y" original="Project Tree">Схема проекта</value>
+    <value column="Help" isTrl="Y" original="Project Tree">Схема проекта</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1367" trl="N">
-    <value column="Name" isTrl="N" original="Amount">Amount</value>
-    <value column="PrintName" isTrl="N" original="Amt">Amt</value>
+    <value column="Name" isTrl="Y" original="Amount">Сумма</value>
+    <value column="PrintName" isTrl="Y" original="Amt">Сумма</value>
     <value column="Description" isTrl="N" original="A monetary total.">A monetary total.</value>
     <value column="Help" isTrl="N" original="The Amount indicates the amount for this document line.">The Amount indicates the amount for this document line.</value>
     <value column="PO_Description" isTrl="N" original=""/>

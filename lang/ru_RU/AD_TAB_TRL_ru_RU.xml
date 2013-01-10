@@ -1255,28 +1255,28 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Edit role access to a window.">Edit role access to a window.</value>
   </row>
   <row id="317" trl="N">
-    <value column="Name" isTrl="N" original="Bill of Materials">Bill of Materials</value>
+    <value column="Name" isTrl="Y" original="Bill of Materials">Спецификация</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit the bill of materials components the selected product consists of.">Edit the bill of materials components the selected product consists of.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Edit the bill of materials components the selected product consists of.">Edit the bill of materials components the selected product consists of.</value>
   </row>
   <row id="319" trl="N">
-    <value column="Name" isTrl="N" original="BOM Production">BOM Production</value>
+    <value column="Name" isTrl="Y" original="BOM Production">Производство по спецификации</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create production processes to run using the previously defined bills of materials.">Create production processes to run using the previously defined bills of materials.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create production processes to run using the previously defined bills of materials.">Create production processes to run using the previously defined bills of materials.</value>
   </row>
   <row id="320" trl="N">
-    <value column="Name" isTrl="N" original="Production Plan">Production Plan</value>
+    <value column="Name" isTrl="Y" original="Production Plan">План производства</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add bills of materials to be produced in a specified production plan.">Add bills of materials to be produced in a specified production plan.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add bills of materials to be produced in a specified production plan.">Add bills of materials to be produced in a specified production plan.</value>
   </row>
   <row id="321" trl="N">
-    <value column="Name" isTrl="N" original="I/O Products">I/O Products</value>
+    <value column="Name" isTrl="Y" original="I/O Products">Поступление/Выбытие товаров</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit the products that are going to be used in the production">Create and edit the products that are going to be used in the production</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1515,7 +1515,7 @@ The corresponding tables have then the following setting:
 </value>
   </row>
   <row id="407" trl="N">
-    <value column="Name" isTrl="N" original="Assigned Products">Assigned Products</value>
+    <value column="Name" isTrl="Y" original="Assigned Products">Связанные товары</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products to your product category.">Add products to your product category.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2622,7 +2622,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add processes to be performed for a specified process plan.">Add processes to be performed for a specified process plan.</value>
   </row>
   <row id="800110" trl="N">
-    <value column="Name" isTrl="N" original="I/O Products">I/O Products</value>
+    <value column="Name" isTrl="Y" original="I/O Products">Поступление/Выбытие товаров</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define input and output products taking part in a specified process.">Define input and output products taking part in a specified process.</value>
     <value column="Filtername" isTrl="N" original=""/>
