@@ -709,7 +709,7 @@
     <value column="Description" isTrl="N" original="Report Customer Assets with Delivery Count">Report Customer Assets with Delivery Count</value>
   </row>
   <row id="3BADF832BEAE46DBAE7A2C370353050D" trl="N">
-    <value column="Name" isTrl="N" original="Audit Trail">Audit Trail</value>
+    <value column="Name" isTrl="Y" original="Audit Trail">Метки аудита</value>
     <value column="Description" isTrl="N" original="Display historical information about data changes of record via the audit trail system">Display historical information about data changes of record via the audit trail system</value>
   </row>
   <row id="3CC69F84B2524A69B53D1BD90FC7D0B9" trl="N">
@@ -1449,8 +1449,8 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A5A76D4C0D084A80AFB9A2A8F4A0A8AE" trl="N">
-    <value column="Name" isTrl="N" original="Return to Vendor Shipment">Return to Vendor Shipment</value>
-    <value column="Description" isTrl="N" original="Return to vendor shipment">Return to vendor shipment</value>
+    <value column="Name" isTrl="Y" original="Return to Vendor Shipment">Возврат поставщику по накладной</value>
+    <value column="Description" isTrl="Y" original="Return to vendor shipment">Возврат поставщику по накладной</value>
   </row>
   <row id="AA912A0ED1EB4967B6A220291C7C118A" trl="N">
     <value column="Name" isTrl="N" original="Instance Activation">Instance Activation</value>
@@ -1505,7 +1505,7 @@
     <value column="Description" isTrl="N" original="Tracks the cost of running a company. ">Tracks the cost of running a company. </value>
   </row>
   <row id="F5C274DEAE9048DCAD48473D2F622CEC" trl="N">
-    <value column="Name" isTrl="N" original="Return to Vendor">Return to Vendor</value>
+    <value column="Name" isTrl="Y" original="Return to Vendor">Возврат поставщику по ордеру</value>
     <value column="Description" isTrl="N" original="Return to vendor (RTV). Here you enter the goods you want to return to the vendor">Return to vendor (RTV). Here you enter the goods you want to return to the vendor</value>
   </row>
   <row id="FC127CE8582944C0AA664A35C890AAD5" trl="N">
@@ -1513,11 +1513,11 @@
     <value column="Description" isTrl="N" original="Displays the AD-implementation mappings">Displays the AD-implementation mappings</value>
   </row>
   <row id="FF8080813302598D0133026072770003" trl="N">
-    <value column="Name" isTrl="N" original="Return from Customer">Return from Customer</value>
+    <value column="Name" isTrl="Y" original="Return from Customer">Возврат клиенту</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FF808181323E504701323E5E20F10063" trl="N">
-    <value column="Name" isTrl="N" original="Production Run">Production Run</value>
+    <value column="Name" isTrl="Y" original="Production Run">Запуск в производство</value>
     <value column="Description" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Edit precisely what has been produced from a selected product order.</value>
   </row>
 </compiereTrl>

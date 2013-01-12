@@ -868,7 +868,7 @@
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
   </row>
   <row id="AF4090093D5A1431E040007F010048A5" trl="N">
-    <value column="Name" isTrl="N" original="Returned Quantity">Returned Quantity</value>
+    <value column="Name" isTrl="Y" original="Returned Quantity">Возвращено количество</value>
     <value column="Description" isTrl="N" original="The number of an item involved in a transaction, given in standard units.  It is used to determine price per unit.">The number of an item involved in a transaction, given in standard units.  It is used to determine price per unit.</value>
     <value column="Help" isTrl="N" original="The quantity returned by the customer.">The quantity returned by the customer.</value>
   </row>
@@ -973,7 +973,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B81C25DF8140423D9477F0A12FE96DBF" trl="N">
-    <value column="Name" isTrl="N" original="Return from Customer line">Return from Customer line</value>
+    <value column="Name" isTrl="Y" original="Return from Customer line">Строка возврата от клиента</value>
     <value column="Description" isTrl="N" original="A unique and often automatically generated identifier for a sales order line.">A unique and often automatically generated identifier for a sales order line.</value>
     <value column="Help" isTrl="N" original="A unique identifier and a reference to a sales order line (product).">A unique identifier and a reference to a sales order line (product).</value>
   </row>

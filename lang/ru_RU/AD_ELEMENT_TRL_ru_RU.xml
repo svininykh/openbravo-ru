@@ -111,7 +111,7 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="083F09FC1A694ECEA7AD008B2FDF900E" trl="N">
-    <value column="Name" isTrl="N" original="Return to vendor">Return to vendor</value>
+    <value column="Name" isTrl="Y" original="Return to vendor">Возврат поставщику</value>
     <value column="PrintName" isTrl="N" original="Isrtv">Isrtv</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
@@ -11637,8 +11637,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5E2808ED15CD4614AAB39540A853847D" trl="N">
-    <value column="Name" isTrl="N" original="Return from customer">Return from customer</value>
-    <value column="PrintName" isTrl="N" original="Return from customer">Return from customer</value>
+    <value column="Name" isTrl="Y" original="Return from customer">Возврат от клиента</value>
+    <value column="PrintName" isTrl="Y" original="Return from customer">Возврат от клиента</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17158,9 +17158,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800653" trl="N">
-    <value column="Name" isTrl="N" original="Returned">Returned</value>
-    <value column="PrintName" isTrl="N" original="Returned">Returned</value>
-    <value column="Description" isTrl="N" original="Returned">Returned</value>
+    <value column="Name" isTrl="Y" original="Returned">Возвращено</value>
+    <value column="PrintName" isTrl="Y" original="Returned">Возвращено</value>
+    <value column="Description" isTrl="Y" original="Returned">Возвращено</value>
     <value column="Help" isTrl="N" original="If it is checked means that the debt/payment has been returned by the bank.">If it is checked means that the debt/payment has been returned by the bank.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -17208,9 +17208,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800658" trl="N">
-    <value column="Name" isTrl="N" original="Returned Status">Returned Status</value>
-    <value column="PrintName" isTrl="N" original="Returned Status">Returned Status</value>
-    <value column="Description" isTrl="N" original="Returned Status">Returned Status</value>
+    <value column="Name" isTrl="Y" original="Returned Status">Статус возврата</value>
+    <value column="PrintName" isTrl="Y" original="Returned Status">Статус возврата</value>
+    <value column="Description" isTrl="Y" original="Returned Status">Статус возврата</value>
     <value column="Help" isTrl="N" original="The returned status is the status that will be taken by the debt/payment when it is returned.">The returned status is the status that will be taken by the debt/payment when it is returned.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -20919,8 +20919,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B04AF439C0EBCC90E040007F010032CD" trl="N">
-    <value column="Name" isTrl="N" original="Returnorderid">Returnorderid</value>
-    <value column="PrintName" isTrl="N" original="Returnorderid">Returnorderid</value>
+    <value column="Name" isTrl="Y" original="Returnorderid">ID возвратного ордера</value>
+    <value column="PrintName" isTrl="Y" original="Returnorderid">ID возвратного ордера</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

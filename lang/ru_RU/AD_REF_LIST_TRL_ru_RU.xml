@@ -3041,7 +3041,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800154" trl="N">
-    <value column="Name" isTrl="N" original="Round up">Round up</value>
+    <value column="Name" isTrl="Y" original="Round up">Округлить в большую</value>
     <value column="Description" isTrl="N" original="If the # is greater than 1.00, round up to the next whole #, in this case 2">If the # is greater than 1.00, round up to the next whole #, in this case 2</value>
   </row>
   <row id="800155" trl="N">
@@ -3049,7 +3049,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800158" trl="N">
-    <value column="Name" isTrl="N" original="Round">Round</value>
+    <value column="Name" isTrl="Y" original="Round">Округлить</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800159" trl="N">
@@ -3057,15 +3057,15 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800160" trl="N">
-    <value column="Name" isTrl="N" original="Returned">Returned</value>
+    <value column="Name" isTrl="Y" original="Returned">Возвращено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800161" trl="N">
-    <value column="Name" isTrl="N" original="Monthly">Monthly</value>
+    <value column="Name" isTrl="Y" original="Monthly">Месячно</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800162" trl="N">
-    <value column="Name" isTrl="N" original="Quarterly">Quarterly</value>
+    <value column="Name" isTrl="Y" original="Quarterly">Квартально</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800163" trl="N">
@@ -3109,7 +3109,7 @@
     <value column="Description" isTrl="N" original="Delivered and invoiced, not paid">Delivered and invoiced, not paid</value>
   </row>
   <row id="800173" trl="N">
-    <value column="Name" isTrl="N" original="Finished">Finished</value>
+    <value column="Name" isTrl="Y" original="Finished">Завершено</value>
     <value column="Description" isTrl="N" original="Delivered, invoiced and paid">Delivered, invoiced and paid</value>
   </row>
   <row id="800174" trl="N">

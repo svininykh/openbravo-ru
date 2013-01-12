@@ -1416,14 +1416,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="View tables and columns that a particular application element applies to.">View tables and columns that a particular application element applies to.</value>
   </row>
   <row id="365" trl="N">
-    <value column="Name" isTrl="N" original="Details">Details</value>
+    <value column="Name" isTrl="Y" original="Details">Детали</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit the calculation and invoicing of sales commission.">Create and edit the calculation and invoicing of sales commission.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit the calculation and invoicing of sales commission.">Create and edit the calculation and invoicing of sales commission.</value>
   </row>
   <row id="3690EB6BA1614375A6F058BBA61B19BC" trl="N">
-    <value column="Name" isTrl="N" original="Audit Trail">Audit Trail</value>
+    <value column="Name" isTrl="Y" original="Audit Trail">Метки аудита</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Display historical information about data changes of record via the audit trail system">Display historical information about data changes of record via the audit trail system</value>
     <value column="Filtername" isTrl="N" original=""/>

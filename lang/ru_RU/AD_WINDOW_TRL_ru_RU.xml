@@ -498,8 +498,8 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define access to DB tables and columns for selected roles.">Define access to DB tables and columns for selected roles.</value>
   </row>
   <row id="273673D2ED914C399A6C51DB758BE0F9" trl="N">
-    <value column="Name" isTrl="N" original="Return to Vendor Shipment">Return to Vendor Shipment</value>
-    <value column="Description" isTrl="N" original="Return to vendor shipment">Return to vendor shipment</value>
+    <value column="Name" isTrl="Y" original="Return to Vendor Shipment">Возврат поставщику по накладной</value>
+    <value column="Description" isTrl="Y" original="Return to vendor shipment">Возврат поставщику по накладной</value>
     <value column="Help" isTrl="N" original="From this window you deliver the returned goods to the vendor">From this window you deliver the returned goods to the vendor</value>
   </row>
   <row id="276" trl="N">
@@ -933,7 +933,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="C50A8AEE6F044825B5EF54FAAE76826F" trl="N">
-    <value column="Name" isTrl="N" original="Return to Vendor">Return to Vendor</value>
+    <value column="Name" isTrl="Y" original="Return to Vendor">Возврат поставщику по ордеру</value>
     <value column="Description" isTrl="N" original="Return to vendor (RTV). Here you enter the goods you want to return to the vendor">Return to vendor (RTV). Here you enter the goods you want to return to the vendor</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -978,17 +978,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="Y" original="Warehouse Rules definition">Определение правил хранения на складе</value>
   </row>
   <row id="FEB8679CAA0D47E5978F10E22566FCEA" trl="N">
-    <value column="Name" isTrl="N" original="Audit Trail">Audit Trail</value>
+    <value column="Name" isTrl="Y" original="Audit Trail">Метки аудита</value>
     <value column="Description" isTrl="N" original="Display historical information about data changes of record via the audit trail system">Display historical information about data changes of record via the audit trail system</value>
     <value column="Help" isTrl="N" original="Audit Trail allows to monitor every data change done in any table or entity through the user interface.">Audit Trail allows to monitor every data change done in any table or entity through the user interface.</value>
   </row>
   <row id="FF808081330213E60133021822E40007" trl="N">
-    <value column="Name" isTrl="N" original="Return from Customer">Return from Customer</value>
+    <value column="Name" isTrl="Y" original="Return from Customer">Возврат от клиента</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FF808181323E504701323E57E08D0017" trl="N">
-    <value column="Name" isTrl="N" original="Production Run">Production Run</value>
+    <value column="Name" isTrl="Y" original="Production Run">Запуск в производство</value>
     <value column="Description" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Edit precisely what has been produced from a selected product order.</value>
     <value column="Help" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Edit precisely what has been produced from a selected product order.</value>
   </row>
