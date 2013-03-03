@@ -12213,8 +12213,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6393DB0FCE8A4528A39135C54581DD88" trl="N">
-    <value column="Name" isTrl="N" original="Status">Status</value>
-    <value column="PrintName" isTrl="N" original="Status">Status</value>
+    <value column="Name" isTrl="Y" original="Status">Статус</value>
+    <value column="PrintName" isTrl="Y" original="Status">Статус</value>
     <value column="Description" isTrl="N" original="Identifies the Status of the document">Identifies the Status of the document</value>
     <value column="Help" isTrl="N" original="Identifies the Status of the document">Identifies the Status of the document</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17112,9 +17112,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800628" trl="N">
-    <value column="Name" isTrl="N" original="Current Status">Current Status</value>
-    <value column="PrintName" isTrl="N" original="Status From">Status From</value>
-    <value column="Description" isTrl="N" original="Status From">Status From</value>
+    <value column="Name" isTrl="Y" original="Current Status">Текущий статус</value>
+    <value column="PrintName" isTrl="Y" original="Status From">Текущий статус</value>
+    <value column="Description" isTrl="Y" original="Status From">Текущий статус</value>
     <value column="Help" isTrl="N" original="Initial status of the debt payment.">Initial status of the debt payment.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -17122,9 +17122,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800629" trl="N">
-    <value column="Name" isTrl="N" original="Final Status">Final Status</value>
-    <value column="PrintName" isTrl="N" original="Status To">Status To</value>
-    <value column="Description" isTrl="N" original="Status to">Status to</value>
+    <value column="Name" isTrl="Y" original="Final Status">Финальный статус</value>
+    <value column="PrintName" isTrl="Y" original="Status To">Финальный статус</value>
+    <value column="Description" isTrl="Y" original="Status to">Финальный статус</value>
     <value column="Help" isTrl="N" original="Is the status that debt payment has taken.">Is the status that debt payment has taken.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -17132,8 +17132,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800630" trl="N">
-    <value column="Name" isTrl="N" original="Status">Status</value>
-    <value column="PrintName" isTrl="N" original="Status">Status</value>
+    <value column="Name" isTrl="Y" original="Status">Статус</value>
+    <value column="PrintName" isTrl="Y" original="Status">Статус</value>
     <value column="Description" isTrl="N" original="A defined state or position of a payment.">A defined state or position of a payment.</value>
     <value column="Help" isTrl="N" original="Status for the debt payment">Status for the debt payment</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17142,8 +17142,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800632" trl="N">
-    <value column="Name" isTrl="N" original="Status">Status</value>
-    <value column="PrintName" isTrl="N" original="Status">Status</value>
+    <value column="Name" isTrl="Y" original="Status">Статус</value>
+    <value column="PrintName" isTrl="Y" original="Status">Статус</value>
     <value column="Description" isTrl="N" original="A defined state or position of a payment.">A defined state or position of a payment.</value>
     <value column="Help" isTrl="N" original="Current status of a debt/payment.">Current status of a debt/payment.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22080,10 +22080,10 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CC2F9E8FD66FD7CDE040007F01002E21" trl="N">
-    <value column="Name" isTrl="N" original="Status">Status</value>
-    <value column="PrintName" isTrl="N" original="Status">Status</value>
+    <value column="Name" isTrl="Y" original="Status">Статус</value>
+    <value column="PrintName" isTrl="Y" original="Status">Статус</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Status of the reservation">Status of the reservation</value>
+    <value column="Help" isTrl="Y" original="Status of the reservation">Статус резервирования</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>

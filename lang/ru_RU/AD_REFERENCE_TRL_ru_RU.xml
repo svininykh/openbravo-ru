@@ -1361,9 +1361,9 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="725CD8C6882C40AFB4D1C27B1AEF8BB4" trl="N">
-    <value column="Name" isTrl="N" original="Module status">Module status</value>
-    <value column="Description" isTrl="N" original="Status for modules">Status for modules</value>
-    <value column="Help" isTrl="N" original="Status for modules">Status for modules</value>
+    <value column="Name" isTrl="Y" original="Module status">Статус модуля</value>
+    <value column="Description" isTrl="Y" original="Status for modules">Статус для модулей</value>
+    <value column="Help" isTrl="Y" original="Status for modules">Статус для модулей</value>
   </row>
   <row id="73625A8F22EF4CD7808603156BA606D7" trl="N">
     <value column="Name" isTrl="N" original="Accruals and Deferrals Plan Types">Accruals and Deferrals Plan Types</value>
@@ -1853,9 +1853,9 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original="This selector shows all the available products">This selector shows all the available products</value>
   </row>
   <row id="86086D70DDBC42B09E2BEB51D25C159F" trl="N">
-    <value column="Name" isTrl="N" original="Session Login Status">Session Login Status</value>
-    <value column="Description" isTrl="N" original="Session Login Status">Session Login Status</value>
-    <value column="Help" isTrl="N" original="Status of the session login.">Status of the session login.</value>
+    <value column="Name" isTrl="Y" original="Session Login Status">Статус подключения сессии</value>
+    <value column="Description" isTrl="Y" original="Session Login Status">Статус подключения сессии</value>
+    <value column="Help" isTrl="Y" original="Status of the session login.">Статус подключения сессии</value>
   </row>
   <row id="865D46B9A1C148D1A119F2F0F7F55589" trl="N">
     <value column="Name" isTrl="N" original="AD_System System Status">AD_System System Status</value>
