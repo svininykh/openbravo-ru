@@ -764,6 +764,10 @@
     <value column="Name" isTrl="Y" original="Net amount">Без налога</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="1F8332DFC321449A91F08FDA0930CB7B" trl="N">
+    <value column="Name" isTrl="N" original="Never">Never</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="1F9D4FF0BA794C33A67EA8B14565FF1A" trl="N">
     <value column="Name" isTrl="N" original="Fully paid documents">Fully paid documents</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1059,6 +1063,10 @@
   <row id="272" trl="N">
     <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="Description" isTrl="N" original="Owning Organization">Owning Organization</value>
+  </row>
+  <row id="2726618D177C401C8D764380FD6DA765" trl="N">
+    <value column="Name" isTrl="N" original="All available roles restricted">All available roles restricted</value>
+    <value column="Description" isTrl="N" original="User doesn't have non-restricted roles">User doesn't have non-restricted roles</value>
   </row>
   <row id="273" trl="N">
     <value column="Name" isTrl="N" original="Account">Account</value>
@@ -1667,6 +1675,10 @@
   <row id="427088D82ABA49D484FC3B90AD82F59F" trl="N">
     <value column="Name" isTrl="N" original="Write-off limit">Write-off limit</value>
     <value column="Description" isTrl="N" original="Write-off limit">Write-off limit</value>
+  </row>
+  <row id="42AAAC5E8DF04DBFB74127A1753833B9" trl="N">
+    <value column="Name" isTrl="N" original=".">.</value>
+    <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="433A48943CF34C978A7E5759A35B4D88" trl="N">
     <value column="Name" isTrl="N" original="Read Only">Read Only</value>
@@ -2454,6 +2466,10 @@
   </row>
   <row id="6D58DF036C134A799BB7229004F8163F" trl="N">
     <value column="Name" isTrl="N" original="Financial Account Transaction">Financial Account Transaction</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="6FA37FCB15CF4653BED8A897301EA0C5" trl="N">
+    <value column="Name" isTrl="N" original="Manual">Manual</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="6FAB6C5F138E4314B32DD534A569F2B0" trl="N">
@@ -3432,6 +3448,14 @@
     <value column="Name" isTrl="N" original="Tax report">Tax report</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="80232AF7863C463B992997F51529A17F" trl="N">
+    <value column="Name" isTrl="N" original="Doubtful Debt">Doubtful Debt</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="80CA414D7C0C443C9079249D5E46FA3E" trl="N">
+    <value column="Name" isTrl="N" original="When Positive">When Positive</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="81A2313EDAE84E3B8CF6755D13370623" trl="N">
     <value column="Name" isTrl="N" original="Material Movement">Material Movement</value>
     <value column="Description" isTrl="N" original=""/>
@@ -3516,6 +3540,10 @@
     <value column="Name" isTrl="N" original="Periodic">Periodic</value>
     <value column="Description" isTrl="N" original="This type does not need an opening entry">This type does not need an opening entry</value>
   </row>
+  <row id="8B008202EB3C436E84C2826261E76804" trl="N">
+    <value column="Name" isTrl="N" original="Local Timezone ID">Local Timezone ID</value>
+    <value column="Description" isTrl="N" original="To check the list of all available timezone ids, see http://www.java2s.com/Tutorial/Java/0120__Development/GettingallthetimezonesIDs.htm">To check the list of all available timezone ids, see http://www.java2s.com/Tutorial/Java/0120__Development/GettingallthetimezonesIDs.htm</value>
+  </row>
   <row id="8B5ED1D5D3DB41FF81300205E2AC9475" trl="N">
     <value column="Name" isTrl="Y" original="Testing">Тестирование</value>
     <value column="Description" isTrl="N" original=""/>
@@ -3544,6 +3572,14 @@
     <value column="Name" isTrl="N" original="Cleared Payment Account">Cleared Payment Account</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="8DE76CF570B942F49F18CBAB0A5C65D9" trl="N">
+    <value column="Name" isTrl="N" original="Temporal">Temporal</value>
+    <value column="Description" isTrl="N" original="A temporal invoice is not available (not visible) in the system. This kind of invoices are ignored by standard processes.">A temporal invoice is not available (not visible) in the system. This kind of invoices are ignored by standard processes.</value>
+  </row>
+  <row id="8E2E3976B54A46D58752619DDA78E35E" trl="N">
+    <value column="Name" isTrl="N" original="Doubtful Debt">Doubtful Debt</value>
+    <value column="Description" isTrl="N" original="Doubtful Debt">Doubtful Debt</value>
+  </row>
   <row id="8F3A063A37CA4FFD8CD13D9CEE135085" trl="N">
     <value column="Name" isTrl="N" original="Implements customer Credit Used calculation">Implements customer Credit Used calculation</value>
     <value column="Description" isTrl="N" original="Avoid the C_BP_SOCREDITUSED_REFRESH function calculation.">Avoid the C_BP_SOCREDITUSED_REFRESH function calculation.</value>
@@ -3559,6 +3595,10 @@
   <row id="90CD0AB2B9944AE2B91466FC3C371056" trl="N">
     <value column="Name" isTrl="N" original="Post: Document Disabled">Post: Document Disabled</value>
     <value column="Description" isTrl="N" original="Document disabled for accounting">Document disabled for accounting</value>
+  </row>
+  <row id="90F2802402A54AECACBCBC2A0C8550C3" trl="N">
+    <value column="Name" isTrl="N" original="When Negative">When Negative</value>
+    <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="91" trl="N">
     <value column="Name" isTrl="N" original="List Validation">List Validation</value>
@@ -3872,6 +3912,10 @@
     <value column="Name" isTrl="Y" original="Reactivate">Открыть</value>
     <value column="Description" isTrl="N" original="Reverse documents/inventory and allow changes; You need to Complete the transaction after the change. ">Reverse documents/inventory and allow changes; You need to Complete the transaction after the change. </value>
   </row>
+  <row id="C1168BDB1F1D44FC91A20F13888B237A" trl="N">
+    <value column="Name" isTrl="N" original=",">,</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="C25D4CC0A8A6492EBA94B7992DF77F71" trl="N">
     <value column="Name" isTrl="Y" original="Next Month">Следующий месяц</value>
     <value column="Description" isTrl="N" original=""/>
@@ -3898,6 +3942,10 @@
   </row>
   <row id="C680888DFFC9463C937526B22B1A7F7A" trl="N">
     <value column="Name" isTrl="Y" original="Error">Ошибка</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="C6D68EC29EC24E5E9C3080576AE30C0E" trl="N">
+    <value column="Name" isTrl="N" original="-Credit">-Credit</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="C713A2EF3AC943E9ABE0BEA4550F6DC3" trl="N">
@@ -4040,6 +4088,10 @@
     <value column="Name" isTrl="N" original="HQL Query">HQL Query</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="DD0F27071A3645A687431A4669A9AE86" trl="N">
+    <value column="Name" isTrl="N" original="-Debit">-Debit</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="DDB179FA9EDE41E0B30BBF8AD59ADA16" trl="N">
     <value column="Name" isTrl="N" original="Filter">Filter</value>
     <value column="Description" isTrl="N" original=""/>
@@ -4167,6 +4219,10 @@
   <row id="F84EE22453E144D4B33948B0A512AAF4" trl="N">
     <value column="Name" isTrl="N" original="Update">Update</value>
     <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="F8BA0C30CEEB423EA74B3D793C199AFD" trl="N">
+    <value column="Name" isTrl="N" original="Standard">Standard</value>
+    <value column="Description" isTrl="N" original="Not implemented">Not implemented</value>
   </row>
   <row id="F8F8FECE6A7B4290B9646B3FDD991929" trl="N">
     <value column="Name" isTrl="N" original="Resource">Resource</value>

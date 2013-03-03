@@ -411,9 +411,9 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="For Standard Costing you can|- update the future cost price|- set the standard cost price to the future cost price">For Standard Costing you can|- update the future cost price|- set the standard cost price to the future cost price</value>
   </row>
   <row id="184" trl="N">
-    <value column="Name" isTrl="N" original="Process Expenses">Process Expenses</value>
-    <value column="Description" isTrl="N" original="Process Expenses">Process Expenses</value>
-    <value column="Help" isTrl="N" original="Process expense sheet.">Process expense sheet.</value>
+    <value column="Name" isTrl="N" original="Process/Unprocess Expenses">Process/Unprocess Expenses</value>
+    <value column="Description" isTrl="N" original="Process/Unprocess Expenses">Process/Unprocess Expenses</value>
+    <value column="Help" isTrl="N" original="Process/Unprocess expense sheet.">Process/Unprocess expense sheet.</value>
   </row>
   <row id="185" trl="N">
     <value column="Name" isTrl="N" original="Recompile DB Objects">Recompile DB Objects</value>
@@ -620,6 +620,11 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="49DEE812BF0545269781FCEBF2235924" trl="N">
+    <value column="Name" isTrl="N" original="Process Shipment Java">Process Shipment Java</value>
+    <value column="Description" isTrl="N" original="Process Shipment (Update Inventory)">Process Shipment (Update Inventory)</value>
+    <value column="Help" isTrl="N" original="Process Shipment will move products out of inventory and mark line items as shipped.">Process Shipment will move products out of inventory and mark line items as shipped.</value>
+  </row>
   <row id="53863D4359114ADE92133F772135AEEB" trl="N">
     <value column="Name" isTrl="Y" original="Set as Ready">Установить готовность</value>
     <value column="Description" isTrl="N" original="Set an organization as ready">Set an organization as ready</value>
@@ -646,12 +651,7 @@ This process:&lt;br/&gt;
   <row id="64B3FF29AC174F4B94538BD0A3CE1CD3" trl="N">
     <value column="Name" isTrl="N" original="Costing Migration Process">Costing Migration Process</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The costing migration process initializes the costing engine creating a new costing rule using the average algorithm for each legal entity of the instance. The migration is done in 3 steps:&#10;&lt;br&gt;1st. Closing and Opening inventories are created for each organization and warehouse with stocked products. The opening inventories are left in draft status. The unit cost is set based on the legacy costs.&#10;&lt;br&gt;2nd. Users review the opening inventories to set proper quantities and cost and process the inventories.&#10;&lt;br&gt;3rd. Once all the opening inventories are processed the migration process is launched again to validate all the costing rules.&#10;&#10;&lt;br&gt;&lt;br&gt;When the process is finished it is recommended to schedule the Costing Background process to automatically calculate the cost of all material transactions.">The costing migration process initializes the costing engine creating a new costing rule using the average algorithm for each legal entity of the instance. The migration is done in 3 steps:
-&lt;br&gt;1st. Closing and Opening inventories are created for each organization and warehouse with stocked products. The opening inventories are left in draft status. The unit cost is set based on the legacy costs.
-&lt;br&gt;2nd. Users review the opening inventories to set proper quantities and cost and process the inventories.
-&lt;br&gt;3rd. Once all the opening inventories are processed the migration process is launched again to validate all the costing rules.
-
-&lt;br&gt;&lt;br&gt;When the process is finished it is recommended to schedule the Costing Background process to automatically calculate the cost of all material transactions.</value>
+    <value column="Help" isTrl="N" original="The costing migration process initializes the new costing engine.&lt;br&gt;&lt;br&gt;&#10;This process creates a costing rule which uses the &quot;Average&quot; costing algorithm for each legal entity of the instance. &lt;br&gt;&lt;br&gt;&#10;The costing migration process is done in three steps:&lt;br&gt;&#10;&#10;1st step:&lt;br&gt;&#10;this process generates the closing and the opening balances of the inventory per each organization and warehouse with stocked products. The opening inventory balances are left in draft status therefore can be reviewed and the unit costs set are based on the &quot;legacy&quot; costs.&lt;br&gt;&lt;br&gt;&#10;&#10;2nd step:&lt;br&gt;&#10;the user can review the opening inventories to set up the proper stock and cost if needed. Once done the opening inventories can be processed.&lt;br&gt;&lt;br&gt;&#10;&#10;3rd step:&lt;br&gt;&#10;the migration process is launched once again to validate all the costing rules set once all the opening inventories have been processed.&lt;br&gt;&lt;br&gt;&#10;When the process is finished it is recommended to schedule the &quot;Costing Background&quot; process to automatically calculate the cost of all material transactions.">The costing migration process initializes the new costing engine.&lt;br&gt;&lt;br&gt;&#10;This process creates a costing rule which uses the &quot;Average&quot; costing algorithm for each legal entity of the instance. &lt;br&gt;&lt;br&gt;&#10;The costing migration process is done in three steps:&lt;br&gt;&#10;&#10;1st step:&lt;br&gt;&#10;this process generates the closing and the opening balances of the inventory per each organization and warehouse with stocked products. The opening inventory balances are left in draft status therefore can be reviewed and the unit costs set are based on the &quot;legacy&quot; costs.&lt;br&gt;&lt;br&gt;&#10;&#10;2nd step:&lt;br&gt;&#10;the user can review the opening inventories to set up the proper stock and cost if needed. Once done the opening inventories can be processed.&lt;br&gt;&lt;br&gt;&#10;&#10;3rd step:&lt;br&gt;&#10;the migration process is launched once again to validate all the costing rules set once all the opening inventories have been processed.&lt;br&gt;&lt;br&gt;&#10;When the process is finished it is recommended to schedule the &quot;Costing Background&quot; process to automatically calculate the cost of all material transactions.</value>
   </row>
   <row id="65D1E895C7FD47B48F3D18BC9E28BE9F" trl="N">
     <value column="Name" isTrl="N" original="Update Audit Trail Infrastructure (PL)">Update Audit Trail Infrastructure (PL)</value>
@@ -1432,7 +1432,7 @@ This operation can take a long time to complete.</value>
   <row id="A3FE1F9892394386A49FB707AA50A0FA" trl="N">
     <value column="Name" isTrl="Y" original="Create Order">Создать ордер</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity.  If the firm quote check box is deselected and the price list is modified after quotation, prices will be reflect these changes in the sales order or invoice">A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity.  If the firm quote check box is deselected and the price list is modified after quotation, prices will be reflect these changes in the sales order or invoice</value>
+    <value column="Help" isTrl="N" original="A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity. If the firm quote check box is not selected and the price list is modified after the quotation then the new prices will be reflected in the sales order or invoice">A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity. If the firm quote check box is not selected and the price list is modified after the quotation then the new prices will be reflected in the sales order or invoice</value>
   </row>
   <row id="ABDFC8131D964936AD2EF7E0CED97FD9" trl="N">
     <value column="Name" isTrl="N" original="Update Actuals">Update Actuals</value>
@@ -1472,7 +1472,7 @@ This operation can take a long time to complete.</value>
   <row id="E5BE98DCF4514A18B571F21183B397DD" trl="N">
     <value column="Name" isTrl="N" original="Valued Stock Report">Valued Stock Report</value>
     <value column="Description" isTrl="N" original="Valued Stock Report">Valued Stock Report</value>
-    <value column="Help" isTrl="N" original="Valued Stock Report">Valued Stock Report</value>
+    <value column="Help" isTrl="N" original="Valued Stock Report shows the stock for a particular warehouse as well as the value of the stock.">Valued Stock Report shows the stock for a particular warehouse as well as the value of the stock.</value>
   </row>
   <row id="F9DFC02162B0473B9676870117DF61FE" trl="N">
     <value column="Name" isTrl="N" original="ApplyModulesCallServlet">ApplyModulesCallServlet</value>

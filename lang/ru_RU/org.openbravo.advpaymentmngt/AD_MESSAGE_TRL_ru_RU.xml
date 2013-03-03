@@ -4,6 +4,10 @@
     <value column="MsgText" isTrl="N" original="Not possible to split the selected bank statement line because is already matched with a transaction.">Not possible to split the selected bank statement line because is already matched with a transaction.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="02E1AA15BFCB420C8F618A14ED80F33E" trl="N">
+    <value column="MsgText" isTrl="N" original="A zero amount Payment cannot be left as an underpayment.">A zero amount Payment cannot be left as an underpayment.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="0AF37AC554DE441DB213BA944147E82C" trl="N">
     <value column="MsgText" isTrl="N" original="Payment No.">Payment No.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -18,6 +22,14 @@
   </row>
   <row id="14AEEC4ACF9C48A1B39D7A58D057B296" trl="N">
     <value column="MsgText" isTrl="N" original="Document Type not defined">Document Type not defined</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="14EBC11B38634D229D542AAFCEAF4186" trl="N">
+    <value column="MsgText" isTrl="N" original="The invoice has related doubtful debt.">The invoice has related doubtful debt.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="167679F2C257479E9129C3C51B8F426D" trl="N">
+    <value column="MsgText" isTrl="N" original="There is no doubtful debt to be processed.">There is no doubtful debt to be processed.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="19D77522B7A4470FBA505D39A6AA051C" trl="N">
@@ -103,6 +115,10 @@
   <row id="58385E335EB24A97A89B88910210FDE5" trl="N">
     <value column="MsgText" isTrl="N" original="Reconciliation already posted. Not possible to split a bank statement line.&#10;Please, unpost the reconciliation if you wan to split a bank statement line.">Reconciliation already posted. Not possible to split a bank statement line.
 Please, unpost the reconciliation if you wan to split a bank statement line.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="58BED27A9BE64676A4965BC726890E09" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to recognize more doubtful debt than the outstanding.">It is not possible to recognize more doubtful debt than the outstanding.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D2453C087D74A48A6CED9210BD7300F" trl="N">
@@ -193,6 +209,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="N" original="%s row/s inserted.&lt;br/&gt;%s row/s not inserted because credit and debit amount were 0.">%s row/s inserted.&lt;br/&gt;%s row/s not inserted because credit and debit amount were 0.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="8EF25E4AD4EF46E4BCE4E0FACAFC717F" trl="N">
+    <value column="MsgText" isTrl="N" original="Bank statement line with wrong date. Cannot process lines previous to ">Bank statement line with wrong date. Cannot process lines previous to </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="92EC1935A8B947BA83EF82DBD169CA8B" trl="N">
     <value column="MsgText" isTrl="N" original="For credit generation and/or credit consumption payment currency should map business partner currency: %s">For credit generation and/or credit consumption payment currency should map business partner currency: %s</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -202,7 +222,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="939FCFA14C69435EB3A88457933160B6" trl="N">
-    <value column="MsgText" isTrl="N" original="Add Payment">Добавить платёж</value>
+    <value column="MsgText" isTrl="Y" original="Add Payment">Добавить платёж</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="962525CB12714F8EA3C06FAD8A3FAB4A" trl="N">
@@ -281,6 +301,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="N" original="The financial account does not have a matching algorithm defined.">The financial account does not have a matching algorithm defined.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="BE7AE60244C34C8AB03616F5A70B45D2" trl="N">
+    <value column="MsgText" isTrl="N" original="Doubtful Debt @documentNo@ could not be processed. Payment already exists.">Doubtful Debt @documentNo@ could not be processed. Payment already exists.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="C36865A47B99485980CC8B56AAF59057" trl="N">
     <value column="MsgText" isTrl="N" original="The payment has some or all the generated credit already used on other payments.">The payment has some or all the generated credit already used on other payments.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -289,8 +313,16 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="N" original="Making Payments in other currencies is not allowed for the Payment Mehod">Making Payments in other currencies is not allowed for the Payment Mehod</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="CAB70EC8598D40E0BFFD7F0FB8538080" trl="N">
+    <value column="MsgText" isTrl="N" original="Check the lines with Line No.:">Check the lines with Line No.:</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="CCA38D3048F04C1FA6F05AD56CF81B5D" trl="N">
     <value column="MsgText" isTrl="N" original="It does not exist any Financial Account defined for this payment method and currency">It does not exist any Financial Account defined for this payment method and currency</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="D2585EEAC94945C7B3CF79C209FD7650" trl="N">
+    <value column="MsgText" isTrl="N" original="Document Type not defined for Doubtful Debts.">Document Type not defined for Doubtful Debts.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D304C035EC724B6A874E574BE59BC7BF" trl="N">

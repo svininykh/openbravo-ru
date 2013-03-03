@@ -30,6 +30,11 @@
     <value column="Description" isTrl="N" original="Types of beats">Types of beats</value>
     <value column="Help" isTrl="N" original="Types of beats: When enabling, disabling the process, a scheduled beat, or unknown (old beats)">Types of beats: When enabling, disabling the process, a scheduled beat, or unknown (old beats)</value>
   </row>
+  <row id="0B1E56A8135D43D39C55452EDC1C9200" trl="N">
+    <value column="Name" isTrl="N" original="Product filtered by Product Category">Product filtered by Product Category</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="0E0D1661E18E4E05A118785A7CF146B8" trl="N">
     <value column="Name" isTrl="N" original="User Dimension 1 Selector">User Dimension 1 Selector</value>
     <value column="Description" isTrl="N" original="User Dimension 1 Selector">User Dimension 1 Selector</value>
@@ -83,7 +88,7 @@
   <row id="1004400000" trl="N">
     <value column="Name" isTrl="Y" original="Requisition status">Статус заказа</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="List of the possible statuses of a requisition:&#10;-O: Open&#10;-P: Planned&#10;-C: Closed&#10;-D: Cancelled">Список доступных статусов заказа:&#10;-O: Открыт&#10;-P: Запланирован&#10;-C: Закрыт&#10;-D: Отменён</value>
+    <value column="Help" isTrl="Y" original="List of the possible statuses of a requisition:&#10;-O: Open&#10;-P: Planned&#10;-C: Closed&#10;-D: Cancelled">Список доступных статусов заказа:&#10;-O: Открыт&#10;-P: Запланирован&#10;-C: Закрыт&#10;-D: Отменён</value>
   </row>
   <row id="1004400001" trl="N">
     <value column="Name" isTrl="Y" original="Requisition lock cause">Основание блокировки заказа</value>
@@ -1025,6 +1030,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="279F05C514AB40868B83484C11DD4A01" trl="N">
+    <value column="Name" isTrl="N" original="Decimal Separator">Decimal Separator</value>
+    <value column="Description" isTrl="N" original="Decimal separator values">Decimal separator values</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="27A729423DEE4023B8B799377CB19D11" trl="N">
     <value column="Name" isTrl="N" original="C_poc_doctype_template HeaderMargin">C_poc_doctype_template HeaderMargin</value>
     <value column="Description" isTrl="N" original="List indicating types of space">List indicating types of space</value>
@@ -1185,6 +1195,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="439F775E24BF48EDA51A7AE2535F0DCE" trl="N">
+    <value column="Name" isTrl="N" original="DateTime_To (Date)">DateTime_To (Date)</value>
+    <value column="Description" isTrl="N" original="Date Time Field To Date">Date Time Field To Date</value>
+    <value column="Help" isTrl="N" original="It has the value of the next day of the selected date at 00:00:00">It has the value of the next day of the selected date at 00:00:00</value>
+  </row>
   <row id="440DDA64A43F4799AAFF48BC86DC8F78" trl="N">
     <value column="Name" isTrl="N" original="Reservation Actions">Reservation Actions</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1205,10 +1220,20 @@
     <value column="Description" isTrl="N" original="Used for search box values yes/no and empty (for any)">Used for search box values yes/no and empty (for any)</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="487AE3E73E8542538CDC4A9EED5F6434" trl="N">
+    <value column="Name" isTrl="N" original="DateTime_From (Date)">DateTime_From (Date)</value>
+    <value column="Description" isTrl="N" original="Date Time Field From Date">Date Time Field From Date</value>
+    <value column="Help" isTrl="N" original="It has the value of the current selected date at 00:00:00">It has the value of the current selected date at 00:00:00</value>
+  </row>
   <row id="4AA6C3BE9D3B4D84A3B80489505A23E5" trl="N">
     <value column="Name" isTrl="N" original="Image BLOB">Image BLOB</value>
     <value column="Description" isTrl="N" original="Contains a link to a BLOB image in AD_Image table">Contains a link to a BLOB image in AD_Image table</value>
     <value column="Help" isTrl="N" original="Contains a link to a BLOB image in AD_Image table, this reference replaces the old Image reference">Contains a link to a BLOB image in AD_Image table, this reference replaces the old Image reference</value>
+  </row>
+  <row id="4BEF5D0691664A939E8710FA9EB0BAF5" trl="N">
+    <value column="Name" isTrl="N" original="Payment Selector">Payment Selector</value>
+    <value column="Description" isTrl="N" original="Payment Selector">Payment Selector</value>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4C36DC179A5F40DC80B3F3798E121152" trl="N">
     <value column="Name" isTrl="N" original="Audit Actions">Audit Actions</value>
@@ -1347,6 +1372,11 @@
   </row>
   <row id="772B5918358B443A83F82F81A9A4BFB6" trl="N">
     <value column="Name" isTrl="N" original="C_Commission BasisAmt">C_Commission BasisAmt</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="7957E48BE5074984A4EB79D646A7ABAB" trl="N">
+    <value column="Name" isTrl="N" original="Process Definition UIPattern">Process Definition UIPattern</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1753,7 +1783,7 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800095" trl="N">
-    <value column="Name" isTrl="N" original="Shipment/Receipt">Накладная расходная/приходная</value>
+    <value column="Name" isTrl="Y" original="Shipment/Receipt">Накладная расходная/приходная</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1816,6 +1846,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Name" isTrl="N" original="RM Receipt Pick Edit Lines">RM Receipt Pick Edit Lines</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="84BD487714B04B838A8D562A30E8792C" trl="N">
+    <value column="Name" isTrl="N" original="Products">Products</value>
+    <value column="Description" isTrl="N" original="Generic Product Selector">Generic Product Selector</value>
+    <value column="Help" isTrl="N" original="This selector shows all the available products">This selector shows all the available products</value>
   </row>
   <row id="86086D70DDBC42B09E2BEB51D25C159F" trl="N">
     <value column="Name" isTrl="N" original="Session Login Status">Session Login Status</value>
@@ -1897,6 +1932,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original="Account Element Value">Account Element Value</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="AADA51C554014A2DA108BA393706AD1D" trl="N">
+    <value column="Name" isTrl="N" original="Doubtful Debt Pick and Edit Reference">Doubtful Debt Pick and Edit Reference</value>
+    <value column="Description" isTrl="N" original="Doubtful Debt Pick and Edit Reference">Doubtful Debt Pick and Edit Reference</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="ABD8815EDEDB412C820FB94532952721" trl="N">
     <value column="Name" isTrl="N" original="Process Timing Option">Process Timing Option</value>
     <value column="Description" isTrl="N" original="Timing option used to schedule a process.">Timing option used to schedule a process.</value>
@@ -1946,6 +1986,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Name" isTrl="N" original="Password (not decryptable)">Password (not decryptable)</value>
     <value column="Description" isTrl="N" original="A password which is shown with * in the UI; the cleartext value cannot be recovered as only a hashed value is stored">A password which is shown with * in the UI; the cleartext value cannot be recovered as only a hashed value is stored</value>
     <value column="Help" isTrl="N" original="Fro this type of passwords only a hashed value is stored in the database. It is possible to verify if the same value was entered (to implement a password check), however it is not possible to recover the cleartext value again.">Fro this type of passwords only a hashed value is stored in the database. It is possible to verify if the same value was entered (to implement a password check), however it is not possible to recover the cleartext value again.</value>
+  </row>
+  <row id="CE467008C64E436C979B3CAB4EFF2BC2" trl="N">
+    <value column="Name" isTrl="N" original="FinancialMgmtAccountingRpt Consider Zero Condition">FinancialMgmtAccountingRpt Consider Zero Condition</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="D15C950D445D408E8CC8135E530C246B" trl="N">
     <value column="Name" isTrl="N" original="Tab UI Pattern">Tab UI Pattern</value>

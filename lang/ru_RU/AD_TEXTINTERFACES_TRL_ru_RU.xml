@@ -36,6 +36,9 @@
   <row id="06E61B009FC911DDB11B0FCE2FEEA29F" trl="N">
     <value column="Text" isTrl="N" original="Attribute Set Value">Attribute Set Value</value>
   </row>
+  <row id="0809C264871442C18AD9A3C4E744AC9B" trl="N">
+    <value column="Text" isTrl="N" original="Void Accounting Date">Void Accounting Date</value>
+  </row>
   <row id="0853D54D853C414990160ADE1E8BF3F4" trl="N">
     <value column="Text" isTrl="Y" original="\n">
 </value>
@@ -923,7 +926,7 @@
     <value column="Text" isTrl="N" original="DataGrid">DataGrid</value>
   </row>
   <row id="1BCDD9C85DD94DE292929E976321DAEA" trl="N">
-    <value column="Text" isTrl="N" original="Primary Filters    ">Основные фильтры    </value>
+    <value column="Text" isTrl="Y" original="Primary Filters    ">Основные фильтры    </value>
   </row>
   <row id="1BEAE65AAECB48588F5372E2B08F3F32" trl="N">
     <value column="Text" isTrl="N" original="Date From">Date From</value>
@@ -931,14 +934,8 @@
   <row id="1CC23F4A0231499EA8FD214B77FB458E" trl="N">
     <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
-  <row id="1CE525A686D9493ABC0A1B6D9E369DBF" trl="N">
-    <value column="Text" isTrl="Y" original="Copyright © Openbravo, S.L.U. 2001-2012">Все права защищены © Openbravo, S.L.U. 2001-2012</value>
-  </row>
   <row id="1DD1E6B9C4E147AEB3080250328E7EE5" trl="N">
     <value column="Text" isTrl="N" original="VO">VO</value>
-  </row>
-  <row id="1E527E8B8BA247C08D5CF82F169C1B22" trl="N">
-    <value column="Text" isTrl="Y" original="Copyright Openbravo 2001-2012">Все права защищены Openbravo 2001-2012</value>
   </row>
   <row id="1F324F1B623C45A2B1BCD538A663C5AB" trl="N">
     <value column="Text" isTrl="Y" original="Planned Project Duration:">Планируемая продолжительность проекта:</value>
@@ -1050,7 +1047,7 @@
     <value column="Text" isTrl="N" original="Install upgrade now">Install upgrade now</value>
   </row>
   <row id="332430557CCF4B2680A237E7453CBA7D" trl="N">
-    <value column="Text" isTrl="N" original="Ready to invoice">Готово к выставлению</value>
+    <value column="Text" isTrl="Y" original="Ready to invoice">Готово к выставлению</value>
   </row>
   <row id="3333C7C7CF284439A7142661581802D8" trl="N">
     <value column="Text" isTrl="N" original=" are the least mature while those in status  "> are the least mature while those in status  </value>
@@ -1187,6 +1184,9 @@
   <row id="4E80DAAC37BB49D09A8EF2737160FEF5" trl="N">
     <value column="Text" isTrl="N" original="Value">Value</value>
   </row>
+  <row id="4EA18E958B6E49F8835C09CC56AB0F8A" trl="N">
+    <value column="Text" isTrl="N" original="Copyright Openbravo 2001-2013">Copyright Openbravo 2001-2013</value>
+  </row>
   <row id="4EEFB2221A1611DEAEA3001EEC1F37D2" trl="N">
     <value column="Text" isTrl="Y" original="Ordered Date">Дата ордера</value>
   </row>
@@ -1216,6 +1216,9 @@
   </row>
   <row id="53275D35722A4AE28B74C04938BF33B7" trl="N">
     <value column="Text" isTrl="Y" original="UNIT">ЕДИНИЦ</value>
+  </row>
+  <row id="5450D2BE7B8748A8811C4D0964DDE38A" trl="N">
+    <value column="Text" isTrl="N" original="XLS Format">XLS Format</value>
   </row>
   <row id="54C1E7A930E347E7B3AD261B80B599C5" trl="N">
     <value column="Text" isTrl="Y" original="WARNING">ВНИМАНИЕ</value>
@@ -1651,6 +1654,9 @@
   </row>
   <row id="5F4C1DE27F6B495ABD4F549040FF5F5A" trl="N">
     <value column="Text" isTrl="Y" original="Payment Method">Способ оплаты</value>
+  </row>
+  <row id="5F62980B18264A78A6F5A43E86256DE5" trl="N">
+    <value column="Text" isTrl="N" original="Export Results to XLS Format">Export Results to XLS Format</value>
   </row>
   <row id="60131D0676FF409BAD9EF1084CA6A6A3" trl="N">
     <value column="Text" isTrl="Y" original="VOIDED">ОТМЕНЕНО</value>
@@ -2722,7 +2728,7 @@
     <value column="Text" isTrl="N" original="IN-OUT MOVEMENTS">IN-OUT MOVEMENTS</value>
   </row>
   <row id="803378" trl="N">
-    <value column="Text" isTrl="N" original="MOVEMENT NO: ">ПЕРЕМЕЩНИЕ №: </value>
+    <value column="Text" isTrl="Y" original="MOVEMENT NO: ">ПЕРЕМЕЩНИЕ №: </value>
   </row>
   <row id="803379" trl="N">
     <value column="Text" isTrl="N" original="DELIVERY DATE: ">DELIVERY DATE: </value>
@@ -5564,6 +5570,9 @@
     <value column="Text" isTrl="Y" original="\n">
 </value>
   </row>
+  <row id="BBA79016E74C46918EDEFAE0F8170697" trl="N">
+    <value column="Text" isTrl="N" original="Copyright © Openbravo, S.L.U. 2001-2013">Copyright © Openbravo, S.L.U. 2001-2013</value>
+  </row>
   <row id="BBC5F7E262C34BCF8FA7AA40A98589EA" trl="N">
     <value column="Text" isTrl="N" original="Payment Report">Payment Report</value>
   </row>
@@ -5600,6 +5609,9 @@
   <row id="C78656AD3E214640B3AF6ECA1A4BEEA1" trl="N">
     <value column="Text" isTrl="N" original="Open Items">Open Items</value>
   </row>
+  <row id="C7C0790D0CD54FCDAF7C5B591F97DEFF" trl="N">
+    <value column="Text" isTrl="N" original="Void Date">Void Date</value>
+  </row>
   <row id="C7C7FE93699B41469F0EB8429BD1897B" trl="N">
     <value column="Text" isTrl="N" original="M. %">M. %</value>
   </row>
@@ -5634,7 +5646,7 @@
     <value column="Text" isTrl="N" original="Resources">Resources</value>
   </row>
   <row id="CAFC3EC2602E40D7829CE3A2D980DC16" trl="N">
-    <value column="Text" isTrl="N" original="GOODS SHIPMENT">РАСХОДНАЯ НАКЛАДНАЯ</value>
+    <value column="Text" isTrl="Y" original="GOODS SHIPMENT">РАСХОДНАЯ НАКЛАДНАЯ</value>
   </row>
   <row id="CB6FB14EF7274C7C9F47EE1AF48917F7" trl="N">
     <value column="Text" isTrl="N" original="Expected">Expected</value>
@@ -5671,6 +5683,12 @@
   </row>
   <row id="D07ED53714914E0696C37AC75E8572D3" trl="N">
     <value column="Text" isTrl="N" original="Decline">Decline</value>
+  </row>
+  <row id="D131F5AFD7DF3E6AE040007F0100124F" trl="N">
+    <value column="Text" isTrl="N" original="Export Results to XLS Format">Export Results to XLS Format</value>
+  </row>
+  <row id="D131F5AFD7E13E6AE040007F0100124F" trl="N">
+    <value column="Text" isTrl="N" original="XLS Format">XLS Format</value>
   </row>
   <row id="D149927F9A4A44A5A4E3818F97B3D460" trl="N">
     <value column="Text" isTrl="N" original="ASSET REPORT - DEPRECIATION SCHEDULE">ASSET REPORT - DEPRECIATION SCHEDULE</value>

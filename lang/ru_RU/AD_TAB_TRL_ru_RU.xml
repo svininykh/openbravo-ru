@@ -236,7 +236,7 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define application initiated information and error messages.">Define application initiated information and error messages.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Define application initiated information and error messages.">Define application initiated information and error messages.</value>
+    <value column="Help" isTrl="N" original="&#10;&#10;Define application initiated information and error messages.&#10;&#10;">&#10;&#10;Define application initiated information and error messages.&#10;&#10;</value>
   </row>
   <row id="110" trl="N">
     <value column="Name" isTrl="N" original="Menu">Menu</value>
@@ -465,7 +465,7 @@
   <row id="160" trl="N">
     <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Create G/L Journals for specified fiscal periods.">Create G/L Journals for specified fiscal periods.</value>
+    <value column="Description" isTrl="N" original="A G/L journal header can include journals which can contain several journal lines and even G/L item payment related information.">A G/L journal header can include journals which can contain several journal lines and even G/L item payment related information.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="A G/L journal header can include journals which can contain several journal lines.">A G/L journal header can include journals which can contain several journal lines.</value>
   </row>
@@ -474,7 +474,7 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add G/L Journal lines. Each line corresponds to one G/L Journal entry.">Add G/L Journal lines. Each line corresponds to one G/L Journal entry.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The lines tab allows to enter the journal entries of a G/L journal.">The lines tab allows to enter the journal entries of a G/L journal.</value>
+    <value column="Help" isTrl="N" original="The lines tab allows to enter the journal entries of a G/L journal as well as G/L item payment related information.">The lines tab allows to enter the journal entries of a G/L journal as well as G/L item payment related information.</value>
   </row>
   <row id="167" trl="N">
     <value column="Name" isTrl="N" original="Document Definition">Document Definition</value>
@@ -665,6 +665,13 @@
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Results of the executed custom queries">Results of the executed custom queries</value>
   </row>
+  <row id="1B49A74CF8314D02B7F41B6595A169D4" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the GL Journal">Accounting information related to the GL Journal</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the GL Journal">Accounting information related to the GL Journal</value>
+  </row>
   <row id="1EB39A39CFDB402FBDA86AB8BAF2EDB4" trl="N">
     <value column="Name" isTrl="Y" original="Organization">Организация</value>
     <value column="CommitWarning" isTrl="N" original=""/>
@@ -777,13 +784,20 @@
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The Cities Tab defines Cities within a Country or Region.  Cities entered here are not referenced when entering the address.">The Cities Tab defines Cities within a Country or Region.  Cities entered here are not referenced when entering the address.</value>
   </row>
+  <row id="21587C5E538E48758ED0C59B621DA91B" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the goods movements">Accounting information related to the goods movements</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the goods movements">Accounting information related to the goods movements</value>
+  </row>
   <row id="217" trl="N">
     <value column="Name" isTrl="Y" original="Dimension">Субконто</value>
     <value column="CommitWarning" isTrl="N" original="ATTENTION: ANY CHANGES here will effect the structure of your chart of accounts!&#10;For changes to become effective, you must re-login and re-start the Application Server.">ATTENTION: ANY CHANGES here will effect the structure of your chart of accounts!
 For changes to become effective, you must re-login and re-start the Application Server.</value>
     <value column="Description" isTrl="N" original="Holds the list of dimensions enabled by this ledger.">Holds the list of dimensions enabled by this ledger.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Dimension tab allows to configure the general ledger dimensions. There are two mandatory dimensions by default: the Organization and the Account.  Any other dimension such as Project or Sales Region can be as well enabled here so that they appear in transactional windows.">Dimension tab allows to configure the general ledger dimensions. There are two mandatory dimensions by default: the Organization and the Account.  Any other dimension such as Project or Sales Region can be as well enabled here so that they appear in transactional windows.</value>
+    <value column="Help" isTrl="Y" original="Dimension tab allows to configure the organization's general ledger dimensions or to add additional accounting dimensions do not centrally maintained in the client.">Dimension tab allows to configure the general ledger dimensions. There are two mandatory dimensions by default: the Organization and the Account.  Any other dimension such as Project or Sales Region can be as well enabled here so that they appear in transactional windows.</value>
   </row>
   <row id="220" trl="N">
     <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
@@ -994,7 +1008,7 @@ For changes to become effective, you must re-login and re-start the Application 
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit inventory internal movements.">Create and edit inventory internal movements.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Create and edit inventory internal movements.">Create and edit inventory internal movements.</value>
+    <value column="Help" isTrl="N" original="Internal inventory movements can be created by adding products to the lines tab or by moving all items at once.">Internal inventory movements can be created by adding products to the lines tab or by moving all items at once.</value>
   </row>
   <row id="25C70617A7964B479BDA71197E7E88E9" trl="N">
     <value column="Name" isTrl="Y" original="Line Tax">Налог по строке</value>
@@ -1008,7 +1022,7 @@ For changes to become effective, you must re-login and re-start the Application 
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products and quantities for a specific goods movement. Each line represents one particular product.">Add products and quantities for a specific goods movement. Each line represents one particular product.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Add products and quantities for a specific goods movement. Each line represents one particular product.">Add products and quantities for a specific goods movement. Each line represents one particular product.</value>
+    <value column="Help" isTrl="Y" original="Lines tab is a list of the products moved between warehouses and storage bins.">Add products and quantities for a specific goods movement. Each line represents one particular product.</value>
   </row>
   <row id="262" trl="N">
     <value column="Name" isTrl="N" original="Product Transactions">Product Transactions</value>
@@ -1085,7 +1099,7 @@ For changes to become effective, you must re-login and re-start the Application 
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View all transactions related to this product.">View all transactions related to this product.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Transaction tab is a summarized view of all the transactions of a product. ">Transaction tab is a summarized view of all the transactions of a product. </value>
+    <value column="Help" isTrl="N" original="The transaction tab is a summarized view of all the transactions of a product. ">The transaction tab is a summarized view of all the transactions of a product. </value>
   </row>
   <row id="28D602B576DF417AB289B4EC94BE2C17" trl="N">
     <value column="Name" isTrl="Y" original="Reversed Invoices">Возвратные счёт-фактуры</value>
@@ -1180,9 +1194,9 @@ The corresponding tables have then the following setting:
   <row id="2DBFD0E6ACF444D0BDAA29269B80E455" trl="N">
     <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Tracks the costs that does not produce direct profit and adds to the cost of running a company. ">Tracks the costs that does not produce direct profit and adds to the cost of running a company. </value>
+    <value column="Description" isTrl="N" original="The Cost Center window allows to create organization's cost centers.">The Cost Center window allows to create organization's cost centers.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Tracks the costs that does not produce direct profit and adds to the cost of running a company. ">Tracks the costs that does not produce direct profit and adds to the cost of running a company. </value>
+    <value column="Help" isTrl="N" original="The Cost Center window allows to create organization's cost centers.">The Cost Center window allows to create organization's cost centers.</value>
   </row>
   <row id="2DD6F1E2CAE0456AA9797A1D627BFF5E" trl="N">
     <value column="Name" isTrl="Y" original="Header">Заглавие</value>
@@ -1259,7 +1273,7 @@ The corresponding tables have then the following setting:
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit the bill of materials components the selected product consists of.">Edit the bill of materials components the selected product consists of.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Edit the bill of materials components the selected product consists of.">Edit the bill of materials components the selected product consists of.</value>
+    <value column="Help" isTrl="N" original="This tab allows to edit the bill of materials components the selected product consists of.">This tab allows to edit the bill of materials components the selected product consists of.</value>
   </row>
   <row id="319" trl="N">
     <value column="Name" isTrl="Y" original="BOM Production">Производство по спецификации</value>
@@ -1443,12 +1457,19 @@ The corresponding tables have then the following setting:
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add products to be included in your purchase order.  Each product is added by creating a line.">Add products to be included in your purchase order.  Each product is added by creating a line.</value>
   </row>
+  <row id="38A56E62067242B39D3815E434D5BC48" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the payment out">Accounting information related to the payment out</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the payment out">Accounting information related to the payment out</value>
+  </row>
   <row id="38D83B9AB72D42F1BFED48911E49F6CD" trl="N">
     <value column="Name" isTrl="N" original="Reserved Stock">Reserved Stock</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Relation of reserved stock and prereserved purchase orders related to the Sales Order Line">Relation of reserved stock and prereserved purchase orders related to the Sales Order Line</value>
   </row>
   <row id="391" trl="N">
     <value column="Name" isTrl="Y" original="Application Image">Изображения приложения</value>
@@ -1481,9 +1502,9 @@ The corresponding tables have then the following setting:
   <row id="3ECCC73F8CC6446E9B11350534813289" trl="N">
     <value column="Name" isTrl="N" original="Dimensions Mapping">Dimensions Mapping</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Define the accounting dimensions that are mandatory for each document category, table and level.">Define the accounting dimensions that are mandatory for each document category, table and level.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Dimensions mapping window allows to create new records for new document categories or new tables.">Dimensions mapping window allows to create new records for new document categories or new tables.</value>
   </row>
   <row id="3ED38B380CD849B38F0AC1B52F992C34" trl="N">
     <value column="Name" isTrl="N" original="Reversed Invoices">Reversed Invoices</value>
@@ -1701,14 +1722,14 @@ The corresponding tables have then the following setting:
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit attributes to be assigned to attribute sets.">Create and edit attributes to be assigned to attribute sets.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;">Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;</value>
+    <value column="Help" isTrl="N" original="Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;">Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets.</value>
   </row>
   <row id="463" trl="N">
     <value column="Name" isTrl="Y" original="Attribute Value">Значение характеристики</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define individual characteristic values of this attribute.">Define individual characteristic values of this attribute.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;">An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;</value>
+    <value column="Help" isTrl="N" original="An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;">An attribute can have several values or individual characteristics to be detailed for each attribute.</value>
   </row>
   <row id="464" trl="N">
     <value column="Name" isTrl="N" original="Lot">Lot</value>
@@ -1841,7 +1862,7 @@ The corresponding tables have then the following setting:
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="It allows to open or close periods for the allowed organizations">It allows to open or close periods for the allowed organizations</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Accounting periods can be opened, closed or permanently closed.">Accounting periods can be opened, closed or permanently closed.</value>
+    <value column="Help" isTrl="N" original="The periods of a year can be opened, closed and permanently closed.">The periods of a year can be opened, closed and permanently closed.</value>
   </row>
   <row id="4F9E1C27F7F040C58C5CA2E6FD5B26CB" trl="N">
     <value column="Name" isTrl="N" original="Process">Process</value>
@@ -2038,21 +2059,21 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Relation of Reservations where the Purchase Order line has been used as prereservation.">Relation of Reservations where the Purchase Order line has been used as prereservation.</value>
   </row>
   <row id="671B313575F54538990EC8834C0C4A2B" trl="N">
     <value column="Name" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
+    <value column="Description" isTrl="N" original="The User Defined Dimension 1 window allows to create the values of the user defined accounting dimension.">The User Defined Dimension 1 window allows to create the values of the user defined accounting dimension.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
+    <value column="Help" isTrl="N" original="The User Defined Dimension 1 window allows to create the values of the user defined accounting dimension.">The User Defined Dimension 1 window allows to create the values of the user defined accounting dimension.</value>
   </row>
   <row id="681796AC383440BA8212EC80431E89E9" trl="N">
     <value column="Name" isTrl="N" original="Costing Rule">Costing Rule</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="All costing rules that apply to the product.">All costing rules that apply to the product.</value>
+    <value column="Help" isTrl="N" original="Costing rule tab allows to review the costing rules that apply to the product within a given date range.">Costing rule tab allows to review the costing rules that apply to the product within a given date range.</value>
   </row>
   <row id="6868B706DA8340158DE353A6C252A564" trl="N">
     <value column="Name" isTrl="N" original="Costing Rule">Costing Rule</value>
@@ -2078,9 +2099,16 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="6D5D646ABCF64F15A78ECA2C4EA1EA9D" trl="N">
     <value column="Name" isTrl="N" original="Dimensions">Dimensions</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Define the dimensions that are required for header and lines in each document">Define the dimensions that are required for header and lines in each document</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Dimensions tab allows to configure whether a given accounting dimension is going to be available in the header and/or in the lines of a given document category or not.">Dimensions tab allows to configure whether a given accounting dimension is going to be available in the header and/or in the lines of a given document category or not.</value>
+  </row>
+  <row id="6EE02C9681A74406A129F1D96D022BA4" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the purchase invoice">Accounting information related to the purchase invoice</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the purchase invoice">Accounting information related to the purchase invoice</value>
   </row>
   <row id="719D6C8507CA4B27886C0D8A7859B543" trl="N">
     <value column="Name" isTrl="N" original="Execution History">Execution History</value>
@@ -2095,6 +2123,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original="Create and edit a goods receipt.">Create and edit a goods receipt.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit a goods receipt.">Create and edit a goods receipt.</value>
+  </row>
+  <row id="7309F57E84264F6BB8F2A5E4A976ED93" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the payment in">Accounting information related to the payment in</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the payment in">Accounting information related to the payment in</value>
   </row>
   <row id="73D6D0CBB55B434E98EB10767ADD74AC" trl="N">
     <value column="Name" isTrl="N" original="Payment Priority">Payment Priority</value>
@@ -2111,7 +2146,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="7580F9AE37704571BB0D3935252CAC5A" trl="N">
-    <value column="Name" isTrl="N" original="Org Schema">Org Schema</value>
+    <value column="Name" isTrl="N" original="General Ledgers">General Ledgers</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="It is used for configuring the accounting schemas attached to the organization">It is used for configuring the accounting schemas attached to the organization</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2416,7 +2451,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define cost information for this specific product.">Define cost information for this specific product.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Costing tab collects and summarize item cost related information as a result of items movements. The costs are valid during a fixed date range, it is used by Average and Standard algorithms.">Costing tab collects and summarize item cost related information as a result of items movements. The costs are valid during a fixed date range, it is used by Average and Standard algorithms.</value>
+    <value column="Help" isTrl="N" original="Costing tab collects and summarize product cost related information as a result of every product transaction. Product's costs are valid during a fixed date range and can be calculated either by using an Average or a Standard costing algorithm.">Costing tab collects and summarize product cost related information as a result of every product transaction. Product's costs are valid during a fixed date range and can be calculated either by using an Average or a Standard costing algorithm.</value>
   </row>
   <row id="800058" trl="N">
     <value column="Name" isTrl="Y" original="Basic Discount">Скидка базовая</value>
@@ -3417,7 +3452,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Close and Initialization Physical Inventories for each Organization and Warehouse">Close and Initialization Physical Inventories for each Organization and Warehouse</value>
+    <value column="Help" isTrl="N" original="The initialization tab is a read-only tab which allows to review the &quot;Closing&quot; / &quot;Opening&quot; physical inventory created to validate a costing rule. Every time that a costing rule is validated a new record is created for each Organization and Warehouse. This record contains links to the physical inventories created.">The initialization tab is a read-only tab which allows to review the &quot;Closing&quot; / &quot;Opening&quot; physical inventory created to validate a costing rule. Every time that a costing rule is validated a new record is created for each Organization and Warehouse. This record contains links to the physical inventories created.</value>
   </row>
   <row id="81F3CB82FABC4208BA76DEBB3728A14B" trl="N">
     <value column="Name" isTrl="N" original="Templates">Templates</value>
@@ -3468,19 +3503,26 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create an obligation for accounting to expect to receive all or part of your sales order amount in advance.">Create an obligation for accounting to expect to receive all or part of your sales order amount in advance.</value>
   </row>
+  <row id="89F074E609E841A7ACD0D4A19B6AF476" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the amortization">Accounting information related to the amortization</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the amortization">Accounting information related to the amortization</value>
+  </row>
   <row id="8A7BC392A4D548E1B97E11548E20E5F2" trl="N">
     <value column="Name" isTrl="N" original="Rule">Rule</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="New warehouse rules can only by applied by extension modules which must include a dataset with the definition of the rule and a procedure that implements it.">New warehouse rules can only by applied by extension modules which must include a dataset with the definition of the rule and a procedure that implements it.</value>
   </row>
   <row id="8BAC66D939B344C2A6702725D75FB079" trl="N">
     <value column="Name" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
+    <value column="Description" isTrl="Y" original="The User Defined Dimension 2 window allows to create the values of the user defined accounting dimension.">User Defined Dimension 2</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
+    <value column="Help" isTrl="Y" original="The User Defined Dimension 2 window allows to create the values of the user defined accounting dimension.">User Defined Dimension 2</value>
   </row>
   <row id="8E5972CF3664486D9D887BDEDA88627D" trl="N">
     <value column="Name" isTrl="N" original="Process Execution">Process Execution</value>
@@ -3495,6 +3537,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="93787F9E92BD433EA7FD0E61227BC126" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the physical inventory">Accounting information related to the physical inventory</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the physical inventory">Accounting information related to the physical inventory</value>
   </row>
   <row id="99DCADEC674D4ECCB158CA5F3DDBFF83" trl="N">
     <value column="Name" isTrl="Y" original="Column">Столбец</value>
@@ -3523,6 +3572,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="A399D7976DD74832A0D56586E46D149A" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the sales invoice">Accounting information related to the sales invoice</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the sales invoice">Accounting information related to the sales invoice</value>
   </row>
   <row id="A4A463FA34F946BFA3F687DC8754ED93" trl="N">
     <value column="Name" isTrl="Y" original="Payment Method">Способ оплаты</value>
@@ -3569,9 +3625,9 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="AC5EA97A85F14F28B417421F69963FDF" trl="N">
     <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="The main feature of a costing algorithm is the java class which includes all what's required to implement it.">The main feature of a costing algorithm is the java class which includes all what's required to implement it.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Algorithms have to set up the java class that implements them.">Algorithms have to set up the java class that implements them.</value>
+    <value column="Help" isTrl="N" original="The main feature of a costing algorithm is the java class which includes all what's required to implement it.">The main feature of a costing algorithm is the java class which includes all what's required to implement it.</value>
   </row>
   <row id="ADBD1719BFA14C97A32C7B6E8452D14F" trl="N">
     <value column="Name" isTrl="Y" original="Line Tax">Налог по строке</value>
@@ -3651,6 +3707,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Mappings for objects">Mappings for objects</value>
   </row>
+  <row id="B67386FF3EA94579BA9BA22353B5B897" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the material receipt">Accounting information related to the material receipt</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the material receipt">Accounting information related to the material receipt</value>
+  </row>
   <row id="B703EDAB4FC5495AA1624CB0333A5D58" trl="N">
     <value column="Name" isTrl="N" original="Price Adjustment">Price Adjustment</value>
     <value column="CommitWarning" isTrl="N" original=""/>
@@ -3668,9 +3731,9 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="C4B6506838E14A349D6717D6856F1B56" trl="N">
     <value column="Name" isTrl="Y" original="Header">Заглавие</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Add new customer payment into the system.">Add new customer payment into the system.</value>
+    <value column="Description" isTrl="Y" original="The payment in window allows to record and manage customer's payments received against different types of documents issued by the organization such as orders and invoices. This window also allows to manage the customer's payments already recorded in the s">Add new customer payment into the system.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The payment in window allows to record and manage customer's payments received against different types of documents issued by the organization such as orders and invoices. This window also allows to manage the customer's payments already recorded in the sales invoice window.">The payment in window allows to record and manage customer's payments received against different types of documents issued by the organization such as orders and invoices. This window also allows to manage the customer's payments already recorded in the sales invoice window.</value>
+    <value column="Help" isTrl="Y" original="The payment in window allows to record and manage customer's payments received against different types of documents issued by the organization such as orders and invoices. This window also allows to manage the customer's payments already recorded in the sales invoice window same way as the G/L item payments received in a G/L Journal.">The payment in window allows to record and manage customer's payments received against different types of documents issued by the organization such as orders and invoices. This window also allows to manage the customer's payments already recorded in the sales invoice window.</value>
   </row>
   <row id="C53967BA96E64FC6B2E4166A7C945168" trl="N">
     <value column="Name" isTrl="Y" original="Dataset">Набор данных</value>
@@ -3692,6 +3755,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original="This tab shows all the group of payments executed together.">This tab shows all the group of payments executed together.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The execution date and the execution status of each payment run is shown in this window among other relevant data such as the source of the execution.">The execution date and the execution status of each payment run is shown in this window among other relevant data such as the source of the execution.</value>
+  </row>
+  <row id="C68533256F40484C89006BF00F669CD5" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the material shipment">Accounting information related to the material shipment</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the material shipment">Accounting information related to the material shipment</value>
   </row>
   <row id="C9B5394DBA8C465C9CE26A361696B06E" trl="N">
     <value column="Name" isTrl="N" original="Production Run">Production Run</value>
@@ -3763,6 +3833,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="In the main tab is defined the desired product to be reserved.">In the main tab is defined the desired product to be reserved.</value>
   </row>
+  <row id="D7B93F8414E643DD8C1103D6FEF0B568" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to bill of materials production">Accounting information related to bill of materials production</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to bill of materials production">Accounting information related to bill of materials production</value>
+  </row>
   <row id="D88DE0446AFD4A55BF850C5B75CD7974" trl="N">
     <value column="Name" isTrl="N" original="Procedures">Procedures</value>
     <value column="CommitWarning" isTrl="N" original=""/>
@@ -3831,7 +3908,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The payment out window allows to make and manage supplier's payments done to settle different types of documents such as orders and invoices. This window also allows to manage the supplier's payments already made in the purchase invoice window.">The payment out window allows to make and manage supplier's payments done to settle different types of documents such as orders and invoices. This window also allows to manage the supplier's payments already made in the purchase invoice window.</value>
+    <value column="Help" isTrl="N" original="The payment out window allows to make and manage supplier's payments done to settle different types of documents such as orders and invoices. This window also allows to manage the supplier's payments already made in the purchase invoice window same way as the G/L item payments made in a G/L Journal.">The payment out window allows to make and manage supplier's payments done to settle different types of documents such as orders and invoices. This window also allows to manage the supplier's payments already made in the purchase invoice window same way as the G/L item payments made in a G/L Journal.</value>
   </row>
   <row id="F87F1EB7EB404F1F916EBAFAD1A0A334" trl="N">
     <value column="Name" isTrl="Y" original="Header">Заглавие</value>
@@ -3972,6 +4049,6 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The exceptions tab allows to specify text to exclude while matching therefore it is not taken into account while matching. ">The exceptions tab allows to specify text to exclude while matching therefore it is not taken into account while matching. </value>
+    <value column="Help" isTrl="N" original="Exceptions can be added to a bank file import format therefore are not taken by the import process.">Exceptions can be added to a bank file import format therefore are not taken by the import process.</value>
   </row>
 </compiereTrl>

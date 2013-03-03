@@ -605,6 +605,11 @@
     <value column="Description" isTrl="N" original="A distinct cost characteristic used for processes.">A distinct cost characteristic used for processes.</value>
     <value column="Help" isTrl="N" original="Different types of cost used by the legacy cost engine. To configure costs use Costing Rules.">Different types of cost used by the legacy cost engine. To configure costs use Costing Rules.</value>
   </row>
+  <row id="801031" trl="N">
+    <value column="Name" isTrl="N" original="Legacy Standard Cost">Legacy Standard Cost</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="The value of the standard cost used by the legacy engine">The value of the standard cost used by the legacy engine</value>
+  </row>
   <row id="801095" trl="N">
     <value column="Name" isTrl="Y" original="Line No">№ строки</value>
     <value column="Description" isTrl="N" original="Unique line for this document">Unique line for this document</value>
@@ -724,6 +729,11 @@
     <value column="Name" isTrl="N" original="Invoice Product">Invoice Product</value>
     <value column="Description" isTrl="N" original="Product, Service, Item">Product, Service, Item</value>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="803316" trl="N">
+    <value column="Name" isTrl="N" original="Account Element">Account Element</value>
+    <value column="Description" isTrl="N" original="The identification code used for accounting.">The identification code used for accounting.</value>
+    <value column="Help" isTrl="N" original="The (natural) account used">The (natural) account used</value>
   </row>
   <row id="803566" trl="N">
     <value column="Name" isTrl="N" original="Current Salary Category">Current Salary Category</value>

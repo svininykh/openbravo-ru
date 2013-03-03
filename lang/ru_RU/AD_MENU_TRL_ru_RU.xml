@@ -6,7 +6,7 @@
   </row>
   <row id="08B67705E5B44C5DB2196B9A1CD1ABD7" trl="N">
     <value column="Name" isTrl="Y" original="Costing Algorithm">Алгоритм калькуляции</value>
-    <value column="Description" isTrl="N" original="Defines each costing algorithm installed and ready to use">Defines each costing algorithm installed and ready to use</value>
+    <value column="Description" isTrl="N" original="A costing algorithm defines the method to use to calculate the cost of the transactions.">A costing algorithm defines the method to use to calculate the cost of the transactions.</value>
   </row>
   <row id="1000001" trl="N">
     <value column="Name" isTrl="N" original="Openbravo ERP">Openbravo ERP</value>
@@ -590,7 +590,7 @@
   </row>
   <row id="334" trl="Y">
     <value column="Name" isTrl="Y" original="System">Система</value>
-    <value column="Description" isTrl="Y" original="System Definition">Параметры системы</value>
+    <value column="Description" isTrl="N" original="System Definition">System Definition</value>
   </row>
   <row id="335" trl="Y">
     <value column="Name" isTrl="Y" original="Generate PO from Sales Order">Ордер поставщика по ордеру клиента</value>
@@ -677,7 +677,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="384" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting Dimension">Субконто по счетам</value>
+    <value column="Name" isTrl="Y" original="Accounting Dimension">План счетов по субконто</value>
     <value column="Description" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
   </row>
   <row id="392" trl="N">
@@ -714,7 +714,7 @@
   </row>
   <row id="3CC69F84B2524A69B53D1BD90FC7D0B9" trl="N">
     <value column="Name" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
-    <value column="Description" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
+    <value column="Description" isTrl="N" original="User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
   </row>
   <row id="400" trl="N">
     <value column="Name" isTrl="N" original="Asset Delivery">Asset Delivery</value>
@@ -742,7 +742,7 @@
   </row>
   <row id="4ACC59DA7DAB48FFAEB9128B7D803A15" trl="N">
     <value column="Name" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
-    <value column="Description" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
+    <value column="Description" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
   </row>
   <row id="53C26F9057764F6DA861E00B14758E53" trl="N">
     <value column="Name" isTrl="N" original="Return Material Receipt">Return Material Receipt</value>
@@ -750,7 +750,7 @@
   </row>
   <row id="564E152A45684CFC82BFB5B132C8F828" trl="N">
     <value column="Name" isTrl="N" original="Dimensions Mapping">Dimensions Mapping</value>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. ">This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. </value>
   </row>
   <row id="5DFCDFE962144B12A6279E9A1E9DC0AC" trl="N">
     <value column="Name" isTrl="Y" original="Enterprise module management">Управление модулями организации</value>
@@ -869,11 +869,11 @@
     <value column="Description" isTrl="N" original="Sales Invoice Dimensional Report">Sales Invoice Dimensional Report</value>
   </row>
   <row id="800062" trl="N">
-    <value column="Name" isTrl="N" original="Incoming Shipment">Поступления</value>
+    <value column="Name" isTrl="Y" original="Incoming Shipment">Поступления</value>
     <value column="Description" isTrl="N" original="Create and manage goods shipments from our vendors">Create and manage goods shipments from our vendors</value>
   </row>
   <row id="800063" trl="N">
-    <value column="Name" isTrl="N" original="Outgoing Shipment">Выбытия</value>
+    <value column="Name" isTrl="Y" original="Outgoing Shipment">Выбытия</value>
     <value column="Description" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
   </row>
   <row id="800067" trl="N">
@@ -1209,7 +1209,7 @@
     <value column="Description" isTrl="N" original="MRP provides the tools to plan and monitor purchase and production planning by tracking several inputs such as sales forecast and current stock levels.">MRP provides the tools to plan and monitor purchase and production planning by tracking several inputs such as sales forecast and current stock levels.</value>
   </row>
   <row id="800213" trl="N">
-    <value column="Name" isTrl="N" original="Planner">Планирование</value>
+    <value column="Name" isTrl="Y" original="Planner">Планирование</value>
     <value column="Description" isTrl="N" original="Define the entity in charge of managing the purchase or production of specific products.">Define the entity in charge of managing the purchase or production of specific products.</value>
   </row>
   <row id="800214" trl="N">
@@ -1446,7 +1446,7 @@
   </row>
   <row id="A519EEB1C1994CCF8208E5B73B5A04C6" trl="N">
     <value column="Name" isTrl="N" original="Costing Rules">Costing Rules</value>
-    <value column="Description" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account ">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account </value>
   </row>
   <row id="A5A76D4C0D084A80AFB9A2A8F4A0A8AE" trl="N">
     <value column="Name" isTrl="Y" original="Return to Vendor Shipment">Возврат поставщику по накладной</value>
@@ -1461,7 +1461,7 @@
     <value column="Description" isTrl="N" original="Mangament for installed modules">Mangament for installed modules</value>
   </row>
   <row id="B902D95D3F654C7096C428F50381E38A" trl="N">
-    <value column="Name" isTrl="Y" original="Process Monitor">Монитор обработки</value>
+    <value column="Name" isTrl="Y" original="Process Monitor">Отслеживание обработки</value>
     <value column="Description" isTrl="N" original="Monitor the results, run time, start and finish times of execution of process requests.">Monitor the results, run time, start and finish times of execution of process requests.</value>
   </row>
   <row id="BC399BACA2F34B968C54555D79ED66A7" trl="N">
@@ -1497,12 +1497,12 @@
     <value column="Description" isTrl="Y" original="System Info">Системная информация</value>
   </row>
   <row id="EFC616EE0EA04A9ABB47E793A0D8F671" trl="N">
-    <value column="Name" isTrl="N" original="Sales Quotation">Предложение клиенту</value>
+    <value column="Name" isTrl="Y" original="Sales Quotation">Предложение клиенту</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="F2F2F35AF85A456A98B59EAD137C1DB6" trl="N">
     <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
-    <value column="Description" isTrl="N" original="Tracks the cost of running a company. ">Tracks the cost of running a company. </value>
+    <value column="Description" isTrl="N" original="Cost Center is an accounting dimension which can be used while posting documents to the ledger.">Cost Center is an accounting dimension which can be used while posting documents to the ledger.</value>
   </row>
   <row id="F5C274DEAE9048DCAD48473D2F622CEC" trl="N">
     <value column="Name" isTrl="Y" original="Return to Vendor">Возврат поставщику по ордеру</value>
@@ -1513,7 +1513,7 @@
     <value column="Description" isTrl="N" original="Displays the AD-implementation mappings">Displays the AD-implementation mappings</value>
   </row>
   <row id="FF8080813302598D0133026072770003" trl="N">
-    <value column="Name" isTrl="Y" original="Return from Customer">Возврат клиенту</value>
+    <value column="Name" isTrl="Y" original="Return from Customer">Возврат от клиента</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FF808181323E504701323E5E20F10063" trl="N">

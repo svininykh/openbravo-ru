@@ -8,6 +8,10 @@
     <value column="MsgText" isTrl="Y" original="Client">Подключение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="02772C1929104B7B888B022AF37E47FA" trl="N">
+    <value column="MsgText" isTrl="N" original="If the personalization type is 'Form' then the Tab field is mandatory and cannot be left empty.">If the personalization type is 'Form' then the Tab field is mandatory and cannot be left empty.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="03A1537560E14203A0FE2C2CF9DB3D97" trl="N">
     <value column="MsgText" isTrl="Y" original="By 10000">По 10000</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -22,6 +26,10 @@
   </row>
   <row id="04A912EBB5154048961E21EF15380D4A" trl="N">
     <value column="MsgText" isTrl="N" original="There are more than %0 records, grouping is disabled for larger datasets.">There are more than %0 records, grouping is disabled for larger datasets.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="04E5DFD5293748308CF3ED2848CE8AE4" trl="N">
+    <value column="MsgText" isTrl="N" original="Print">Print</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="07272FCDEEA64054AF2F983D9814EE00" trl="N">
@@ -72,6 +80,10 @@
     <value column="MsgText" isTrl="Y" original="New password">Новый пароль</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="16EF30EF95D94CB2A93129015A363315" trl="N">
+    <value column="MsgText" isTrl="N" original="%0 [executing]">%0 [executing]</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="1B783EC678E644E385778D2D7D25A97B" trl="N">
     <value column="MsgText" isTrl="Y" original="Ungroup">Разгруппировать</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -88,8 +100,16 @@
     <value column="MsgText" isTrl="Y" original="Edit in grid ">Редактировать в списке</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="20EBBDD0DE864992AD7B8090D1126A06" trl="N">
+    <value column="MsgText" isTrl="N" original="This user doesn't have access to the backend. To be able to access Openbravo, a user needs a role with access to the backend.">This user doesn't have access to the backend. To be able to access Openbravo, a user needs a role with access to the backend.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="2C8A8843F1E04317AD38623A3C52F978" trl="N">
     <value column="MsgText" isTrl="N" original="You current role does not give you access to this functionality.">You current role does not give you access to this functionality.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="30FA0328C0F34F1BB050B8FC962CDC60" trl="N">
+    <value column="MsgText" isTrl="N" original="Processing...">Processing...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3137ECD8CD0D4656BEDC1FE87DBA8838" trl="N">
@@ -164,6 +184,10 @@
     <value column="MsgText" isTrl="Y" original="Delete the current (selected) record(s) from the database.">Удалить текущую (выбранную) запись(и) из базы данных.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="5C1ABC0CDF284B85A9D99E84993E1451" trl="N">
+    <value column="MsgText" isTrl="N" original="%0 [done]">%0 [done]</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="5DE5F76ED5B4497FACDC438893037484" trl="N">
     <value column="MsgText" isTrl="N" original="Set the summary function which is used to compute/show a separate summary row.">Set the summary function which is used to compute/show a separate summary row.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -180,8 +204,16 @@
     <value column="MsgText" isTrl="N" original="The grid is filtered for the last document viewed. Due to high volumes, clearing this filter can take up to a 30 seconds delay.">The grid is filtered for the last document viewed. Due to high volumes, clearing this filter can take up to a 30 seconds delay.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="66D4232BC6894DCEB71DAB06F9757BB3" trl="N">
+    <value column="MsgText" isTrl="N" original="Make Selection Bold">Make Selection Bold</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="675524506E80458799E39F8CC309CBFD" trl="N">
     <value column="MsgText" isTrl="N" original="Openbravo ERP">Openbravo ERP</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="67995E233DA64EDE9029395E900C21ED" trl="N">
+    <value column="MsgText" isTrl="N" original="Make Selection Italic">Make Selection Italic</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6831E84EB2124F08B3FCEF6F50CF8AD1" trl="N">
@@ -228,6 +260,10 @@
     <value column="MsgText" isTrl="Y" original="Save">Сохранить</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="7E82DFE4E6964861B0B9A8AA968E5AC7" trl="N">
+    <value column="MsgText" isTrl="N" original="Set Font Size">Set Font Size</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="7E8A12D43C0D404F868CE36DB349C9FC" trl="N">
     <value column="MsgText" isTrl="Y" original="Save your changes in the database">Сохранить ваши изменения в базе данных</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -243,6 +279,10 @@
   <row id="822D5C3E1A014738B4D39BF2BF568C7C" trl="N">
     <value column="MsgText" isTrl="N" original="Cannot find class for process in window %0&lt;br/&gt;&lt;br/&gt;&#10;All modules in this window must be &quot;in development&quot;.">Cannot find class for process in window %0&lt;br/&gt;&lt;br/&gt;
 All modules in this window must be "in development".</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="839DDEEC373B4151BC1C721AB90FB5AC" trl="N">
+    <value column="MsgText" isTrl="N" original="Set Font">Set Font</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="888D0AF770AE4037B85120FB775FE038" trl="N">
@@ -277,6 +317,10 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="Y" original="Workspace">Рабочий стол</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="97C3B9B67A83464FAE16F629D86280BF" trl="N">
+    <value column="MsgText" isTrl="N" original="year,years,Year,Years,month,months,Month,Months,week,weeks,Week,Weeks,d,day,days,D,Day,Days,h,hr,hrs,hour,hours,H,Hr,Hrs,Hour,Hours,m,min,mins,minute,minutes,M,Min,Mins,Minute,Minutes,s,sec,secs,second,seconds,S,Sec,Secs,Second,Seconds">year,years,Year,Years,month,months,Month,Months,week,weeks,Week,Weeks,d,day,days,D,Day,Days,h,hr,hrs,hour,hours,H,Hr,Hrs,Hour,Hours,m,min,mins,minute,minutes,M,Min,Mins,Minute,Minutes,s,sec,secs,second,seconds,S,Sec,Secs,Second,Seconds</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="9A2BB372D26D47A8B63BC87CB08B270C" trl="N">
     <value column="MsgText" isTrl="Y" original="Confirm password">Подтвердить пароль</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -301,6 +345,10 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="N" original="Ship Qty exceeds the Available Qty. Please enter a valid range: 0 - %0.">Ship Qty exceeds the Available Qty. Please enter a valid range: 0 - %0.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="A62959A6990A43089EEBDF89CE8FCC48" trl="N">
+    <value column="MsgText" isTrl="N" original="Make Selection Underlined">Make Selection Underlined</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="ABFDBB83F58841EA9545D9ED8637513B" trl="N">
     <value column="MsgText" isTrl="N" original="Evaluation expression result:">Evaluation expression result:</value>
     <value column="MsgTip" isTrl="N" original="Message used for prompting the result of evaluating a JavaScript expression in: Default and Filter expressions">Message used for prompting the result of evaluating a JavaScript expression in: Default and Filter expressions</value>
@@ -319,6 +367,10 @@ All modules in this window must be "in development".</value>
   </row>
   <row id="B355D5A55A734B61B57A6AEBF3B96863" trl="N">
     <value column="MsgText" isTrl="Y" original="By 100000">По 100000</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="B378B800C798460590A117DFC76498F4" trl="N">
+    <value column="MsgText" isTrl="N" original="If the personalization type is 'Window' then the Window field is mandatory and cannot be left empty.">If the personalization type is 'Window' then the Window field is mandatory and cannot be left empty.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B5B5ECA6E070496D8A773F264B200208" trl="N">
@@ -369,12 +421,20 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="Y" original="By 1">По 1</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="CF668C49E43D4FA799A43191EA10C17A" trl="N">
+    <value column="MsgText" isTrl="N" original="Set Hyperlink URL">Set Hyperlink URL</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="D109B6F7D8BF4F5C9D84463CD36BF434" trl="N">
     <value column="MsgText" isTrl="N" original="Reserved quantity exceeds the available quantity (%0) considering the quantity reserved in other reservations (%1). Please, enter a valid number.">Reserved quantity exceeds the available quantity (%0) considering the quantity reserved in other reservations (%1). Please, enter a valid number.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D514BC49ED374B7288B215D94DAC3177" trl="N">
     <value column="MsgText" isTrl="N" original="Property not found">Property not found</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="D71BBF4693BD45329F17355A907B9D39" trl="N">
+    <value column="MsgText" isTrl="N" original="Access Restricted">Access Restricted</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DAC8C406FB1D497CAF91619E6B8A5458" trl="N">
@@ -395,6 +455,10 @@ All modules in this window must be "in development".</value>
   </row>
   <row id="E20A23145D554996A09BC927B847F3BB" trl="N">
     <value column="MsgText" isTrl="Y" original="End Session">Завершить сессию</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="E25F7BC6017747E08BDBAD4DD01DD316" trl="N">
+    <value column="MsgText" isTrl="N" original="Strike Through Selection">Strike Through Selection</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E4446D7FB74A4C57A9C715B4DDACC3E9" trl="N">

@@ -20,6 +20,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="31DCDECE67A34C418930D50405D8057D" trl="N">
+    <value column="Name" isTrl="N" original="Start in New Line">Start in New Line</value>
+    <value column="PrintName" isTrl="N" original="Startinnewline">Startinnewline</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="3C899452C68646A7A3E35A0CDCA8CA7A" trl="N">
     <value column="Name" isTrl="N" original="Summary Function">Summary Function</value>
     <value column="PrintName" isTrl="N" original="Summary Function">Summary Function</value>
@@ -284,9 +294,7 @@
     <value column="Name" isTrl="N" original="Process Definition">Process Definition</value>
     <value column="PrintName" isTrl="N" original="Process Definition">Process Definition</value>
     <value column="Description" isTrl="N" original="Process to be executed by the button">Process to be executed by the button</value>
-    <value column="Help" isTrl="N" original="Process to be executed by the button. There are 2 kind of processes:&#10;*&quot;Process&quot;: Implements the 2.50 style processes with a sevlet.&#10;*&quot;Process Definition&quot;: Implements 3.0 processes with a pure SmartClient UI.">Process to be executed by the button. There are 2 kind of processes:
-*"Process": Implements the 2.50 style processes with a sevlet.
-*"Process Definition": Implements 3.0 processes with a pure SmartClient UI.</value>
+    <value column="Help" isTrl="N" original="Process to be executed by the button. There are 2 kinds of processes:&#10;*&quot;Process&quot;: Implements the 2.50 style processes with a Servlet.&#10;*&quot;Process Definition&quot;: Implements 3.0 processes with a pure SmartClient UI.">Process to be executed by the button. There are 2 kinds of processes:&#10;*&quot;Process&quot;: Implements the 2.50 style processes with a Servlet.&#10;*&quot;Process Definition&quot;: Implements 3.0 processes with a pure SmartClient UI.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>

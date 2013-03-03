@@ -95,7 +95,7 @@ By enabling the heartbeat, you consent to the processing of this data and storin
   <row id="109" trl="N">
     <value column="Name" isTrl="Y" original="Client">Подключение</value>
     <value column="Description" isTrl="N" original="Define client characteristics, additional information, and defaults.">Define client characteristics, additional information, and defaults.</value>
-    <value column="Help" isTrl="N" original="A client is an independent entity composed of at least an enterprise or organization.  A client includes and manages the master data to share among all the organizations which belong to it and groups the transactional data booked in any of the organizations which belong to it.">A client is an independent entity composed of at least an enterprise or organization.  A client includes and manages the master data to share among all the organizations which belong to it and groups the transactional data booked in any of the organizations which belong to it.</value>
+    <value column="Help" isTrl="N" original="A client is an independent entity composed of at least an organization.  A client can include and manage master data such as users, customers and vendors. That master data is then shared among all the organizations which belong to that client.">A client is an independent entity composed of at least an organization.  A client can include and manage master data such as users, customers and vendors. That master data is then shared among all the organizations which belong to that client.</value>
   </row>
   <row id="110" trl="N">
     <value column="Name" isTrl="Y" original="Organization">Организация</value>
@@ -124,13 +124,13 @@ By enabling the heartbeat, you consent to the processing of this data and storin
   </row>
   <row id="1163E0338E154F41BE0BA413D49821CF" trl="N">
     <value column="Name" isTrl="N" original="Dimensions Mapping">Dimensions Mapping</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. ">This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. </value>
+    <value column="Help" isTrl="N" original="This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. ">This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. </value>
   </row>
   <row id="117" trl="N">
     <value column="Name" isTrl="Y" original="Fiscal Calendar">Фискальный календарь</value>
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars and periods for accounting purposes.">Create multiple fiscal calendars and periods for accounting purposes.</value>
-    <value column="Help" isTrl="N" original="&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization's accounting practice.&#10;&#10;">&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the accounting periods of each year required to get an accurate organization's accounting practice.&#10;&#10;</value>
+    <value column="Help" isTrl="N" original="&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the periods of each year required to get an accurate organization's accounting practice.&#10;&#10;">&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the periods of each year required to get an accurate organization's accounting practice.&#10;&#10;</value>
   </row>
   <row id="118" trl="N">
     <value column="Name" isTrl="Y" original="Account Tree">Схема плана счетов</value>
@@ -192,7 +192,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="132" trl="N">
     <value column="Name" isTrl="Y" original="G/L Journal">Г/К Журнал</value>
     <value column="Description" isTrl="N" original="Create and edit manual G/L journal entries.">Create and edit manual G/L journal entries.</value>
-    <value column="Help" isTrl="N" original="A G/L (General Ledger) journal allows to post journal entries to the ledger.">A G/L (General Ledger) journal allows to post journal entries to the ledger.</value>
+    <value column="Help" isTrl="N" original="A G/L (General Ledger) journal allows to post journal entries to the ledger and create G/L item payments.">A G/L (General Ledger) journal allows to post journal entries to the ledger and create G/L item payments.</value>
   </row>
   <row id="134" trl="N">
     <value column="Name" isTrl="Y" original="ABC Activity">ABC Деятельность</value>
@@ -320,7 +320,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="170" trl="N">
     <value column="Name" isTrl="Y" original="Goods Movements">Перемещение товаров</value>
     <value column="Description" isTrl="N" original="Create and edit internal inventory movements among warehouses and storage bins.">Create and edit internal inventory movements among warehouses and storage bins.</value>
-    <value column="Help" isTrl="N" original="Create and edit internal inventory movements among warehouses and storage bins.">Create and edit internal inventory movements among warehouses and storage bins.</value>
+    <value column="Help" isTrl="N" original="Goods Movements window allows to create internal inventory movements among warehouses and storage bins.">Goods Movements window allows to create internal inventory movements among warehouses and storage bins.</value>
   </row>
   <row id="178" trl="N">
     <value column="Name" isTrl="Y" original="Title">Обращение</value>
@@ -480,7 +480,8 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="260" trl="N">
     <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
-    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest. &#10;</value>
+    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest.
+</value>
   </row>
   <row id="264" trl="N">
     <value column="Name" isTrl="Y" original="Session">Сессия</value>
@@ -544,8 +545,8 @@ You can also select if transactions are allowed or not for this organization typ
   </row>
   <row id="3E945A9102144C16BD211D211089C2DF" trl="N">
     <value column="Name" isTrl="N" original="Costing Rules">Costing Rules</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="A costing rule is applied during cost calculation. Each rule needs to have a costing algorithm and a valid from date. Costing rules can also be defined in a way that the costs are calculated by warehouse.">A costing rule is applied during cost calculation. Each rule needs to have a costing algorithm and a valid from date. Costing rules can also be defined in a way that the costs are calculated by warehouse.</value>
+    <value column="Description" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account ">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account </value>
+    <value column="Help" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account while calculating costs.">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account while calculating costs.</value>
   </row>
   <row id="442FA34D72E5423B8DDBD65DBF0ED4B6" trl="N">
     <value column="Name" isTrl="N" original="Reservation Pick and Edit">Reservation Pick and Edit</value>
@@ -584,18 +585,18 @@ You can also select if transactions are allowed or not for this organization typ
   </row>
   <row id="6CB90FC76E2E4CD3A6AF472E39C042B6" trl="N">
     <value column="Name" isTrl="Y" original="Costing Algorithm">Алгоритм калькуляции</value>
-    <value column="Description" isTrl="N" original="Defines each costing algorithm installed and ready to use">Defines each costing algorithm installed and ready to use</value>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="A costing algorithm defines the method to use to calculate the cost of the transactions.">A costing algorithm defines the method to use to calculate the cost of the transactions.</value>
+    <value column="Help" isTrl="N" original="A costing algorithm defines the method to use to calculate the cost of the transactions.">A costing algorithm defines the method to use to calculate the cost of the transactions.</value>
   </row>
   <row id="6F8F913FA60F4CBD93DC1D3AA696E76E" trl="N">
     <value column="Name" isTrl="Y" original="Payment Out">Выплаченные платежи</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Supplier's payments and prepayments can be made and manage in the payment out window.">Supplier's payments and prepayments can be made and manage in the payment out window.</value>
+    <value column="Help" isTrl="N" original="Supplier's payments and prepayments can be made and managed in the payment out window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.">Supplier's payments and prepayments can be made and managed in the payment out window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.</value>
   </row>
   <row id="79FC23AB84F04384B4B7CCCADCDD2942" trl="N">
     <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
-    <value column="Description" isTrl="N" original="Tracks the cost of running a company. ">Tracks the cost of running a company. </value>
-    <value column="Help" isTrl="N" original="Tracks the costs that does not produce direct profit and adds to the cost of running a company. ">Tracks the costs that does not produce direct profit and adds to the cost of running a company. </value>
+    <value column="Description" isTrl="N" original="Cost Center is an accounting dimension which can be used while posting documents to the ledger.">Cost Center is an accounting dimension which can be used while posting documents to the ledger.</value>
+    <value column="Help" isTrl="N" original="Cost Center is an accounting dimension which can be used while posting documents to the ledger.">Cost Center is an accounting dimension which can be used while posting documents to the ledger.</value>
   </row>
   <row id="800000" trl="N">
     <value column="Name" isTrl="N" original="Auxiliary Input">Auxiliary Input</value>
@@ -889,8 +890,8 @@ You can also select if transactions are allowed or not for this organization typ
   </row>
   <row id="929DA14E43E94D4E97863133D930D769" trl="N">
     <value column="Name" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
-    <value column="Description" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
-    <value column="Help" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
+    <value column="Description" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
+    <value column="Help" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
   </row>
   <row id="94EAA455D2644E04AB25D93BE5157B6D" trl="N">
     <value column="Name" isTrl="Y" original="Financial Account">Финансовый счет</value>
@@ -904,8 +905,8 @@ You can also select if transactions are allowed or not for this organization typ
   </row>
   <row id="9F13F7F5BA604C01911589C7E44FAD82" trl="N">
     <value column="Name" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
-    <value column="Description" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
-    <value column="Help" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
+    <value column="Description" isTrl="N" original="User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
+    <value column="Help" isTrl="N" original="User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
   </row>
   <row id="A9FD6A5AED3546EC83DB567882646D2E" trl="N">
     <value column="Name" isTrl="Y" original="Accounting Process">Обработка проводки</value>
@@ -959,13 +960,13 @@ You can also select if transactions are allowed or not for this organization typ
   </row>
   <row id="E547CE89D4C04429B6340FFA44E70716" trl="N">
     <value column="Name" isTrl="Y" original="Payment In">Принятые платежи</value>
-    <value column="Description" isTrl="N" original="Window to manage the payments done by customers ">Window to manage the payments done by customers </value>
-    <value column="Help" isTrl="N" original="Customer's payments and prepayments received can be recorded and managed in the payment in window.">Customer's payments and prepayments received can be recorded and managed in the payment in window.</value>
+    <value column="Description" isTrl="N" original="Customer's payments and prepayments received can be recorded and managed in the payment in window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.">Customer's payments and prepayments received can be recorded and managed in the payment in window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.</value>
+    <value column="Help" isTrl="N" original="Customer's payments and prepayments received can be recorded and managed in the payment in window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.">Customer's payments and prepayments received can be recorded and managed in the payment in window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.</value>
   </row>
   <row id="E56E701CCBA14B8BA480CBDE37C50D7A" trl="N">
     <value column="Name" isTrl="Y" original="Open/Close Period Control">Контроль открытия/закрытия периода</value>
     <value column="Description" isTrl="N" original="Open or close periods for the allowed organizations">Open or close periods for the allowed organizations</value>
-    <value column="Help" isTrl="N" original="Open/Close Period Control allows to open, close or permanently close the accounting period/s of a year.  This process is enabled to Organizations for which &quot;Period Control&quot; feature is enabled.">Open/Close Period Control allows to open, close or permanently close the accounting period/s of a year.  This process is enabled to Organizations for which "Period Control" feature is enabled.</value>
+    <value column="Help" isTrl="N" original="Open/Close Period Control feature manage the periods of an organization. This feature applies to organizations for which the &quot;Period Control&quot; feature is enabled.">Open/Close Period Control feature manage the periods of an organization. This feature applies to organizations for which the &quot;Period Control&quot; feature is enabled.</value>
   </row>
   <row id="EF3E837705944F4DBF398D683D36ACE0" trl="N">
     <value column="Name" isTrl="Y" original="Process Monitor">Отслеживание обработки</value>
@@ -975,7 +976,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="FC404D2406A9491CBD905D0D38F04846" trl="N">
     <value column="Name" isTrl="Y" original="Warehouse Rules">Правила хранения</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="Y" original="Warehouse Rules definition">Определение правил хранения на складе</value>
+    <value column="Help" isTrl="N" original="Warehouse rules window allows to review the warehouse rules available.">Warehouse rules window allows to review the warehouse rules available.</value>
   </row>
   <row id="FEB8679CAA0D47E5978F10E22566FCEA" trl="N">
     <value column="Name" isTrl="Y" original="Audit Trail">Метки аудита</value>
