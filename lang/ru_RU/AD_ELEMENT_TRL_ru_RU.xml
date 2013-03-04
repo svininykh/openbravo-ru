@@ -963,8 +963,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005100000" trl="N">
-    <value column="Name" isTrl="N" original="Salary Category">Salary Category</value>
-    <value column="PrintName" isTrl="N" original="Salary Category">Salary Category</value>
+    <value column="Name" isTrl="N" original="Salary Category">Категория зарплаты</value>
+    <value column="PrintName" isTrl="N" original="Salary Category">Категория зарплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6954,8 +6954,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="222" trl="N">
-    <value column="Name" isTrl="N" original="Accounting Combination">Accounting Combination</value>
-    <value column="PrintName" isTrl="N" original="Combination">Combination</value>
+    <value column="Name" isTrl="N" original="Accounting Combination">Бухгалтерская проводка</value>
+    <value column="PrintName" isTrl="N" original="Combination">Проводка</value>
     <value column="Description" isTrl="N" original="An identification code comprised of an individual account number and additional dimensions such organization, product, and business partner.">An identification code comprised of an individual account number and additional dimensions such organization, product, and business partner.</value>
     <value column="Help" isTrl="N" original="The Combination identifies a valid combination of element which represent a GL account.">The Combination identifies a valid combination of element which represent a GL account.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6984,8 +6984,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="225" trl="N">
-    <value column="Name" isTrl="N" original="City Name">City Name</value>
-    <value column="PrintName" isTrl="N" original="City Name">City Name</value>
+    <value column="Name" isTrl="N" original="City Name">Название города</value>
+    <value column="PrintName" isTrl="N" original="City Name">Название города</value>
     <value column="Description" isTrl="N" original="A populated defined area located within a larger area such as a state, province, or country.">A populated defined area located within a larger area such as a state, province, or country.</value>
     <value column="Help" isTrl="N" original="The City identifies a unique City for this Country or Region.">The City identifies a unique City for this Country or Region.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16042,7 +16042,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800484" trl="N">
-    <value column="Name" isTrl="N" original="Operator">Operator</value>
+    <value column="Name" isTrl="Y" original="Operator">Оператор</value>
     <value column="PrintName" isTrl="N" original="Isworker">Isworker</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
@@ -17562,8 +17562,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800680" trl="N">
-    <value column="Name" isTrl="N" original="Salary Category Cost">Salary Category Cost</value>
-    <value column="PrintName" isTrl="N" original="Salary Category Cost">Salary Category Cost</value>
+    <value column="Name" isTrl="N" original="Salary Category Cost">Расходы на категорию зарплаты</value>
+    <value column="PrintName" isTrl="N" original="Salary Category Cost">Расходы на категорию зарплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Identifies a cost of a salary category during a time period.">Identifies a cost of a salary category during a time period.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17572,8 +17572,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800681" trl="N">
-    <value column="Name" isTrl="N" original="Salary Category">Salary Category</value>
-    <value column="PrintName" isTrl="N" original="Salary Category">Salary Category</value>
+    <value column="Name" isTrl="N" original="Salary Category">Категория зарплаты</value>
+    <value column="PrintName" isTrl="N" original="Salary Category">Категория зарплаты</value>
     <value column="Description" isTrl="N" original="A classification of salaries based on similar characteristics or attributes.">A classification of salaries based on similar characteristics or attributes.</value>
     <value column="Help" isTrl="N" original="Indicates a salary category">Indicates a salary category</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17642,7 +17642,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800688" trl="N">
-    <value column="Name" isTrl="N" original="Indirect Cost Cost">Indirect Cost Cost</value>
+    <value column="Name" isTrl="N" original="Indirect Cost Cost">Расходы на косвенные затраты</value>
     <value column="PrintName" isTrl="N" original="MA_Costcenter_Ic_ID">MA_Costcenter_Ic_ID</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
@@ -17652,8 +17652,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800689" trl="N">
-    <value column="Name" isTrl="N" original="Indirect Cost">Indirect Cost</value>
-    <value column="PrintName" isTrl="N" original="Indirect Cost">Indirect Cost</value>
+    <value column="Name" isTrl="N" original="Indirect Cost">Косвенные затраты</value>
+    <value column="PrintName" isTrl="N" original="Indirect Cost">Косвенные затраты</value>
     <value column="Description" isTrl="N" original="Any charge of doing business which cannot be directly allocated to production.">Any charge of doing business which cannot be directly allocated to production.</value>
     <value column="Help" isTrl="N" original="Indicates an indirect cost.">Indicates an indirect cost.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17662,7 +17662,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800690" trl="N">
-    <value column="Name" isTrl="N" original="Indirect Cost Amount Cost">Indirect Cost Amount Cost</value>
+    <value column="Name" isTrl="N" original="Indirect Cost Amount Cost">Сумма косвенных затрат</value>
     <value column="PrintName" isTrl="N" original="MA_Indirect_Cost_Value_ID">MA_Indirect_Cost_Value_ID</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
@@ -19534,8 +19534,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="877E302527921536E040007F010060E9" trl="N">
-    <value column="Name" isTrl="N" original="Execution Type">Execution Type</value>
-    <value column="PrintName" isTrl="N" original="Execution Type">Execution Type</value>
+    <value column="Name" isTrl="N" original="Execution Type">Тип выполнения</value>
+    <value column="PrintName" isTrl="N" original="Execution Type">Тип выполнения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Type of Payment Execution for Payment Out flow.">Type of Payment Execution for Payment Out flow.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19604,8 +19604,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="877E302527991536E040007F010060E9" trl="N">
-    <value column="Name" isTrl="N" original="Execution Type">Execution Type</value>
-    <value column="PrintName" isTrl="N" original="Execution Type">Execution Type</value>
+    <value column="Name" isTrl="N" original="Execution Type">Тип выполнения</value>
+    <value column="PrintName" isTrl="N" original="Execution Type">Тип выполнения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Type of Payment Execution for Payment In flow.">Type of Payment Execution for Payment In flow.</value>
     <value column="PO_Description" isTrl="N" original=""/>

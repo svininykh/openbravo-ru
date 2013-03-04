@@ -21,7 +21,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="040345BC5EEE4998936537D8474BEDF0" trl="N">
-    <value column="MsgText" isTrl="N" original="Max">Max</value>
+    <value column="MsgText" isTrl="Y" original="Max">Максимум</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="04A912EBB5154048961E21EF15380D4A" trl="N">
@@ -29,7 +29,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="04E5DFD5293748308CF3ED2848CE8AE4" trl="N">
-    <value column="MsgText" isTrl="N" original="Print">Print</value>
+    <value column="MsgText" isTrl="Y" original="Print">Печать</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="07272FCDEEA64054AF2F983D9814EE00" trl="N">
@@ -41,7 +41,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="090A37D22DDB1C89012DDB23CDB80019" trl="N">
-    <value column="MsgText" isTrl="N" original="No linked items, click on a category on the left to show the linked items for that category">No linked items, click on a category on the left to show the linked items for that category</value>
+    <value column="MsgText" isTrl="Y" original="No linked items, click on a category on the left to show the linked items for that category">Нет связанных записей, нажмите на категорию слева для отображения связанных записей для этой категории.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="090A37D22DDB1C89012DDB2430980020" trl="N">
@@ -201,7 +201,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6504DF0738A142D599C824644653BA88" trl="N">
-    <value column="MsgText" isTrl="N" original="The grid is filtered for the last document viewed. Due to high volumes, clearing this filter can take up to a 30 seconds delay.">The grid is filtered for the last document viewed. Due to high volumes, clearing this filter can take up to a 30 seconds delay.</value>
+    <value column="MsgText" isTrl="Y" original="The grid is filtered for the last document viewed. Due to high volumes, clearing this filter can take up to a 30 seconds delay.">Список фильтруется по последнему просмотреному документу. Из-за большого объёма данных, отмена этого фильтра может привести 30 секундной задержки.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="66D4232BC6894DCEB71DAB06F9757BB3" trl="N">
@@ -807,15 +807,15 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812D6D076E012D6D1C41770036" trl="N">
-    <value column="MsgText" isTrl="N" original="Automatic save of your changes is not possible. Do you want to continue?">Automatic save of your changes is not possible. Do you want to continue?</value>
+    <value column="MsgText" isTrl="Y" original="Automatic save of your changes is not possible. Do you want to continue?">Невозможно автоматически сохранить ваши изменения. Вы хотите продолжить?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812D6D076E012D6EADF5FD00E1" trl="N">
-    <value column="MsgText" isTrl="N" original="You are creating a new record.">You are creating a new record.</value>
+    <value column="MsgText" isTrl="Y" original="You are creating a new record.">Вы создали новую запись.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812D6D076E012D6EAFD7A600E4" trl="N">
-    <value column="MsgText" isTrl="N" original="Click here to clear the field value">Click here to clear the field value</value>
+    <value column="MsgText" isTrl="N" original="Click here to clear the field value">Нажмите для очистке значения поля</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812D7A8BBA012D7A8D9F450024" trl="N">
@@ -827,7 +827,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812D949EEF012D94A1A9060024" trl="N">
-    <value column="MsgText" isTrl="N" original="Explicit (user) filters applied. Click to clear.">Explicit (user) filters applied. Click to clear.</value>
+    <value column="MsgText" isTrl="N" original="Explicit (user) filters applied. Click to clear.">Явные (пользовательские) фильтры применены. Нажмите для отмены.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA32652012DA353DBCA004D" trl="N">
@@ -1159,7 +1159,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813008185F0130086C20B6001F" trl="Y">
-    <value column="MsgText" isTrl="Y" original="This grid is filtered using">Этот список отфильтрован по</value>
+    <value column="MsgText" isTrl="Y" original="This grid is filtered using">Этот список сформирован по</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813008185F01300873148A0027" trl="N">
@@ -1238,7 +1238,7 @@ Please &lt;b&gt;logout&lt;/b&gt; from the application unless your access is auth
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813157C86B01315A092B6C0062" trl="N">
-    <value column="MsgText" isTrl="N" original="Form Personalization">Form Personalization</value>
+    <value column="MsgText" isTrl="Y" original="Form Personalization">Настройка форм</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813176E1B0013176E637C30010" trl="N">
@@ -1378,51 +1378,51 @@ Please &lt;b&gt;logout&lt;/b&gt; from the application unless your access is auth
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813216F38A013217412A0A000A" trl="N">
-    <value column="MsgText" isTrl="N" original="Save View">Save View</value>
+    <value column="MsgText" isTrl="N" original="Save View">Сохранить вид</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813216F38A01321741598A000F" trl="N">
-    <value column="MsgText" isTrl="N" original="Delete View">Delete View</value>
+    <value column="MsgText" isTrl="N" original="Delete View">Удалить вид</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813216F38A01321742648D0013" trl="N">
-    <value column="MsgText" isTrl="N" original="Save View">Save View</value>
+    <value column="MsgText" isTrl="N" original="Save View">Сохранить вид</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181321A7CAB01321A8A6E670013" trl="N">
-    <value column="MsgText" isTrl="N" original="View">View</value>
+    <value column="MsgText" isTrl="N" original="View">Вид</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181321AE53401321B10CCA5000F" trl="N">
-    <value column="MsgText" isTrl="N" original="Level">Level</value>
+    <value column="MsgText" isTrl="N" original="Level">Уровень</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181321AE53401321B10FEE00014" trl="N">
-    <value column="MsgText" isTrl="N" original="Value">Value</value>
+    <value column="MsgText" isTrl="N" original="Value">Значение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181321E629B01321E67A6720009" trl="N">
-    <value column="MsgText" isTrl="N" original="The view state has been saved.">The view state has been saved.</value>
+    <value column="MsgText" isTrl="N" original="The view state has been saved.">Текущий вид сохранён.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181321E629B01321E67D704000E" trl="N">
-    <value column="MsgText" isTrl="N" original="The view has been deleted.">The view has been deleted.</value>
+    <value column="MsgText" isTrl="N" original="The view has been deleted.">Текущий вид удалён.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818132443EBA01324442C9E2000C" trl="N">
-    <value column="MsgText" isTrl="N" original="Set Default View">Set Default View</value>
-    <value column="MsgTip" isTrl="N" original="Set Default View">Set Default View</value>
+    <value column="MsgText" isTrl="N" original="Set Default View">Установить вид по-умолчанию</value>
+    <value column="MsgTip" isTrl="N" original="Set Default View">Установить вид по-умолчанию</value>
   </row>
   <row id="FF80818132443EBA0132444357CE0011" trl="N">
-    <value column="MsgText" isTrl="N" original="Set as Default">Set as Default</value>
-    <value column="MsgTip" isTrl="N" original="Set as Default">Set as Default</value>
+    <value column="MsgText" isTrl="N" original="Set as Default">Установить по-умолчанию</value>
+    <value column="MsgTip" isTrl="N" original="Set as Default">Установить по-умолчанию</value>
   </row>
   <row id="FF80818132AE40480132AED3676C0126" trl="N">
-    <value column="MsgText" isTrl="N" original="Save as">Save as</value>
+    <value column="MsgText" isTrl="N" original="Save as">Сохранить как</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818132D5240F0132D856F3D20023" trl="N">
-    <value column="MsgText" isTrl="N" original="&lt;a href=&quot;http://wiki.openbravo.com/wiki/User_Manual/Window_Personalization#Saved_and_Named_Views&quot; target=&quot;_blank&quot;&gt;Window Personalization&lt;/a&gt; is a Premium Feature">&lt;a href="http://wiki.openbravo.com/wiki/User_Manual/Window_Personalization#Saved_and_Named_Views" target="_blank"&gt;Window Personalization&lt;/a&gt; is a Premium Feature</value>
+    <value column="MsgText" isTrl="N" original="&lt;a href=&quot;http://wiki.openbravo.com/wiki/User_Manual/Window_Personalization#Saved_and_Named_Views&quot; target=&quot;_blank&quot;&gt;Window Personalization&lt;/a&gt; is a Premium Feature">&lt;a href="http://wiki.openbravo.com/wiki/User_Manual/Window_Personalization#Saved_and_Named_Views" target="_blank"&gt;Персональная настройка окон&lt;/a&gt; это премиальная возможность</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818132D550210132D55993840016" trl="N">
@@ -1507,7 +1507,7 @@ Do you want to continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181331AD90C01331ADA2E15000C" trl="N">
-    <value column="MsgText" isTrl="N" original="Save">Save</value>
+    <value column="MsgText" isTrl="N" original="Save">Сохранить</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
 </compiereTrl>
