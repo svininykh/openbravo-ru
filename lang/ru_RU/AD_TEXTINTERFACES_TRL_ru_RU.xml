@@ -149,31 +149,31 @@
     <value column="Text" isTrl="N" original="Expense Report">Expense Report</value>
   </row>
   <row id="1000400059" trl="N">
-    <value column="Text" isTrl="N" original="Customer:">Customer:</value>
+    <value column="Text" isTrl="Y" original="Customer:">Клиент:</value>
   </row>
   <row id="1000400060" trl="N">
-    <value column="Text" isTrl="N" original="Project: ">Project: </value>
+    <value column="Text" isTrl="Y" original="Project: ">Проект: </value>
   </row>
   <row id="1000400061" trl="N">
-    <value column="Text" isTrl="N" original="Employees hours: ">Employees hours: </value>
+    <value column="Text" isTrl="Y" original="Employees hours: ">Часов сотрудников: </value>
   </row>
   <row id="1000400062" trl="N">
     <value column="Text" isTrl="N" original="Total amount: ">Total amount: </value>
   </row>
   <row id="1000400063" trl="N">
-    <value column="Text" isTrl="N" original="Employee: ">Employee: </value>
+    <value column="Text" isTrl="Y" original="Employee: ">Сотрудник: </value>
   </row>
   <row id="1000400064" trl="N">
-    <value column="Text" isTrl="N" original="Employee hours: ">Employee hours: </value>
+    <value column="Text" isTrl="Y" original="Employee hours: ">Часов сотрудника: </value>
   </row>
   <row id="1000400065" trl="N">
-    <value column="Text" isTrl="N" original="Product hours: ">Product hours: </value>
+    <value column="Text" isTrl="Y" original="Product hours: ">Часов товара: </value>
   </row>
   <row id="1000400066" trl="N">
     <value column="Text" isTrl="N" original="Total amount:">Total amount:</value>
   </row>
   <row id="1000400067" trl="N">
-    <value column="Text" isTrl="N" original="Hours">Hours</value>
+    <value column="Text" isTrl="Y" original="Hours">Часы</value>
   </row>
   <row id="1000500000" trl="N">
     <value column="Text" isTrl="N" original="Account schema ">Account schema </value>
@@ -182,7 +182,7 @@
     <value column="Text" isTrl="N" original="Balance Sheet">Balance Sheet</value>
   </row>
   <row id="1000500017" trl="N">
-    <value column="Text" isTrl="N" original="Pareto Report for Products">Pareto Report for Products</value>
+    <value column="Text" isTrl="N" original="Pareto Report for Products">Отчёт Парето по товарам</value>
   </row>
   <row id="1000500018" trl="N">
     <value column="Text" isTrl="Y" original="Search Key">Код поиска</value>
@@ -434,7 +434,7 @@
     <value column="Text" isTrl="N" original="Tax ID :">Tax ID :</value>
   </row>
   <row id="1000600103" trl="N">
-    <value column="Text" isTrl="N" original="Signature">Signature</value>
+    <value column="Text" isTrl="Y" original="Signature">Подпись</value>
   </row>
   <row id="1000600119" trl="N">
     <value column="Text" isTrl="N" original="On :">On :</value>
@@ -500,7 +500,7 @@
     <value column="Text" isTrl="N" original="Invoice Doc No">Invoice Doc No</value>
   </row>
   <row id="1000600140" trl="N">
-    <value column="Text" isTrl="N" original="B. Partner">B. Partner</value>
+    <value column="Text" isTrl="Y" original="B. Partner">Контрагент</value>
   </row>
   <row id="1000600141" trl="N">
     <value column="Text" isTrl="N" original="Tot. Amount">Tot. Amount</value>
