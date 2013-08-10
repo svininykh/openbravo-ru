@@ -10430,8 +10430,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="569E6FC0F94B0180E040007F01002FC1" trl="N">
-    <value column="Name" isTrl="N" original="Isused">Isused</value>
-    <value column="PrintName" isTrl="N" original="Isused">Isused</value>
+    <value column="Name" isTrl="Y" original="Isused">Используется</value>
+    <value column="PrintName" isTrl="Y" original="Isused">Используется</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10821,8 +10821,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="573D452F0505243FE040007F01012792" trl="N">
-    <value column="Name" isTrl="N" original="Timing">Timing</value>
-    <value column="PrintName" isTrl="N" original="Timing">Timing</value>
+    <value column="Name" isTrl="Y" original="Timing">Время запуска</value>
+    <value column="PrintName" isTrl="Y" original="Timing">Время запуска</value>
     <value column="Description" isTrl="N" original="When to run a Process Request - either immediately, at a later date or on a recurring basis.">When to run a Process Request - either immediately, at a later date or on a recurring basis.</value>
     <value column="Help" isTrl="N" original="When to run a Process Request - either immediately, at a later date or on a recurring basis.">When to run a Process Request - either immediately, at a later date or on a recurring basis.</value>
     <value column="PO_Description" isTrl="N" original=""/>

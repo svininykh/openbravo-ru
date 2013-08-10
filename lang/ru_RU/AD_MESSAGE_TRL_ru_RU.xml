@@ -3890,7 +3890,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="54034A3A704740A5A1A22245348DF06B" trl="N">
-    <value column="MsgText" isTrl="N" original="No reference data was selected by the user: skipping reference data creation">No reference data was selected by the user: skipping reference data creation</value>
+    <value column="MsgText" isTrl="Y" original="No reference data was selected by the user: skipping reference data creation">Нет справочных данных выбранных пользователем: пропущено создание справочных данных</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="541" trl="N">
@@ -4198,27 +4198,27 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5A28BAA7FC0406FAE040007F01000F92" trl="N">
-    <value column="MsgText" isTrl="N" original="Starting create organization">Starting create organization</value>
+    <value column="MsgText" isTrl="Y" original="Starting create organization">Начато создание организации</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5A28BAA7FC0506FAE040007F01000F92" trl="N">
-    <value column="MsgText" isTrl="N" original="Create organization process completed successfully">Create organization process completed successfully</value>
+    <value column="MsgText" isTrl="Y" original="Create organization process completed successfully">Процесс создания организации прошёл успешно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5A28BAA7FC0606FAE040007F01000F92" trl="N">
-    <value column="MsgText" isTrl="N" original="Create organization process failed">Create organization process failed</value>
+    <value column="MsgText" isTrl="Y" original="Create organization process failed">Создание организации не выполнено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5A28BAA7FC0706FAE040007F01000F92" trl="N">
-    <value column="MsgText" isTrl="N" original="Starting create reference data">Starting create reference data</value>
+    <value column="MsgText" isTrl="Y" original="Starting create reference data">Начато создание справочных данных</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5A28BAA7FC0806FAE040007F01000F92" trl="N">
-    <value column="MsgText" isTrl="N" original="Create reference data process completed successfully">Create reference data process completed successfully</value>
+    <value column="MsgText" isTrl="Y" original="Create reference data process completed successfully">Процесс создания справочных данных прошёл успешно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5A28BAA7FC0906FAE040007F01000F92" trl="N">
-    <value column="MsgText" isTrl="N" original="Create reference data process failed">Create reference data process failed</value>
+    <value column="MsgText" isTrl="Y" original="Create reference data process failed">Создание справочных данных не выполнено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5A28BAA7FC0A06FAE040007F01000F92" trl="N">
@@ -4234,7 +4234,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D3624FE019649CCB3B5900F32E59E17" trl="N">
-    <value column="MsgText" isTrl="N" original="Please try again.">Please try again.</value>
+    <value column="MsgText" isTrl="Y" original="Please try again.">Пожалуйста повторите снова.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D3624FE019649CCB3B5900F32E59E18" trl="N">
@@ -4246,7 +4246,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D3624FE019649CCB3B5900F32E59E20" trl="N">
-    <value column="MsgText" isTrl="N" original="or higher">or higher</value>
+    <value column="MsgText" isTrl="Y" original="or higher">или выше</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D3624FE019649CCB3B5900F32E59E21" trl="N">
@@ -5516,7 +5516,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800133" trl="N">
-    <value column="MsgText" isTrl="N" original="You are going to delete a Client. Do you want to proceed?">You are going to delete a Client. Do you want to proceed?</value>
+    <value column="MsgText" isTrl="Y" original="You are going to delete a Client. Do you want to proceed?">Вами будет удалено Подключение. Вы хотите продолжить?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800134" trl="N">
@@ -5692,7 +5692,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800179" trl="N">
-    <value column="MsgText" isTrl="N" original="This field is needed and it cannot be blank">This field is needed and it cannot be blank</value>
+    <value column="MsgText" isTrl="Y" original="This field is needed and it cannot be blank">Данное поле обязательно и не может быть не заполнено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800180" trl="N">

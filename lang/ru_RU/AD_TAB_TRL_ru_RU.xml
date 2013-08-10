@@ -2853,11 +2853,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add asset amortizations for a selected asset.">Add asset amortizations for a selected asset.</value>
   </row>
   <row id="800167" trl="N">
-    <value column="Name" isTrl="N" original="Text Interface">Text Interface</value>
+    <value column="Name" isTrl="Y" original="Text Interface">Текст интерфейса</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Edit labels of forms and reports.">Edit labels of forms and reports.</value>
+    <value column="Description" isTrl="Y" original="Edit labels of forms and reports.">Редактировать надписи форм и отчётов.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Edit labels of forms and reports.">Edit labels of forms and reports.</value>
+    <value column="Help" isTrl="Y" original="Edit labels of forms and reports.">Редактировать надписи форм и отчётов.</value>
   </row>
   <row id="800168" trl="N">
     <value column="Name" isTrl="Y" original="Translation">Перевод</value>

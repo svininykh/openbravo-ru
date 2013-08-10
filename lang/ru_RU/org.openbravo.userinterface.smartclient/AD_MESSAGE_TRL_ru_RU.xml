@@ -261,7 +261,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D6FC3718D50D463DAE7E7A7B67D348C0" trl="N">
-    <value column="MsgText" isTrl="N" original="Unfreeze ${viewer.getSummaryTitle(field)}">Unfreeze ${viewer.getSummaryTitle(field)}</value>
+    <value column="MsgText" isTrl="Y" original="Unfreeze ${viewer.getSummaryTitle(field)}">Не фиксировать ${viewer.getSummaryTitle(field)}</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D9055AD1F1034064AE5FFA7272072A39" trl="N">
@@ -273,7 +273,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E93E72E829124C699B64401EEA1F4884" trl="N">
-    <value column="MsgText" isTrl="N" original="Freeze ${viewer.getSummaryTitle(field)}">Freeze ${viewer.getSummaryTitle(field)}</value>
+    <value column="MsgText" isTrl="Y" original="Freeze ${viewer.getSummaryTitle(field)}">Фиксировать ${viewer.getSummaryTitle(field)}</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EFBFFE22B06E45F4A02843C135971358" trl="N">
