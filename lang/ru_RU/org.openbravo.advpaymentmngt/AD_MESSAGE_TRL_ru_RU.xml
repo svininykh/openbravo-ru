@@ -8,6 +8,10 @@
     <value column="MsgText" isTrl="N" original="A zero amount Payment cannot be left as an underpayment.">A zero amount Payment cannot be left as an underpayment.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="065AAE5951154185AC73E7D9A688C43C" trl="N">
+    <value column="MsgText" isTrl="N" original="Payment can not be reactivated as it is a reverse payment.">Payment can not be reactivated as it is a reverse payment.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="0AF37AC554DE441DB213BA944147E82C" trl="N">
     <value column="MsgText" isTrl="N" original="Payment No.">Payment No.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -93,7 +97,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="48898A3B7F9141C0B9BFBDD9AE5FCF8F" trl="N">
-    <value column="MsgText" isTrl="N" original="The period of the cleared item (%s) is not open or available.">The period of the cleared item (%s) is not open or available.</value>
+    <value column="MsgText" isTrl="N" original="The reconciliation cannot be completed because it contains one or more items in a closed period.&lt;BR&gt;The period of the cleared item (%s) is not open or available.">The reconciliation cannot be completed because it contains one or more items in a closed period.&lt;BR&gt;The period of the cleared item (%s) is not open or available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="49C16126D1A141C398175B0632C08F95" trl="N">
@@ -105,7 +109,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="53ED8846C7984389AF83AC1DE983859E" trl="N">
-    <value column="MsgText" isTrl="N" original="Value is not a valid number">Значение недопустимое число</value>
+    <value column="MsgText" isTrl="Y" original="Value is not a valid number">Значение недопустимое число</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="573263F299C743FAAA82D7750DC21B06" trl="N">
@@ -383,6 +387,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
   </row>
   <row id="F579E42461DC472AA4F21B14DD3D680B" trl="N">
     <value column="MsgText" isTrl="N" original="GL Item">GL Item</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="FC953B2C0069441DB85EB9BECDF9B7A8" trl="N">
+    <value column="MsgText" isTrl="N" original="Could not load the statement. Please check the file because it could contain invalid values or there are missing values.">Could not load the statement. Please check the file because it could contain invalid values or there are missing values.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FCDC2F10EAAD46A5A24BCEC2BF017A05" trl="N">

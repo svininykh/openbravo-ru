@@ -10,6 +10,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="13CA3020FEB644D9AA51B4797181BB29" trl="N">
+    <value column="Name" isTrl="N" original="id">id</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="190E45B61635477BBC0799229F889FD6" trl="N">
     <value column="Name" isTrl="N" original="orgid">orgid</value>
     <value column="Description" isTrl="N" original=""/>
@@ -46,7 +51,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="36B5DC1CD166494D8221B493042D7CCF" trl="N">
-    <value column="Name" isTrl="N" original="Credit Line available">Кредитный лимит доступен</value>
+    <value column="Name" isTrl="Y" original="Credit Line available">Кредитный лимит доступен</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -71,12 +76,12 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4028E61131FB4B1B0131FB542B790018" trl="N">
-    <value column="Name" isTrl="N" original="Value">Значение</value>
+    <value column="Name" isTrl="Y" original="Value">Значение</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4028E61131FB4B1B0131FB54A1B0001E" trl="N">
-    <value column="Name" isTrl="N" original="Credit Line available">Кредитный лимит доступен</value>
+    <value column="Name" isTrl="Y" original="Credit Line available">Кредитный лимит доступен</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -131,7 +136,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="5545248A63EC4FB1833AB17C07C5542C" trl="N">
-    <value column="Name" isTrl="N" original="Value">Значение</value>
+    <value column="Name" isTrl="Y" original="Value">Значение</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -146,7 +151,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="63507B832CF94D8BB30286ED4369E55B" trl="N">
-    <value column="Name" isTrl="N" original="Credit Line available">Кредитный лимит доступен</value>
+    <value column="Name" isTrl="Y" original="Credit Line available">Кредитный лимит доступен</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -206,7 +211,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="9D9998D878F2442BB240A5872C8D6A8E" trl="N">
-    <value column="Name" isTrl="N" original="Value">Значение</value>
+    <value column="Name" isTrl="Y" original="Value">Значение</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -217,6 +222,11 @@
   </row>
   <row id="A70124FC61904F7BAD6F8BDF436931B4" trl="N">
     <value column="Name" isTrl="N" original="contact identifier">contact identifier</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="A7AE694B7ACF4F568C845BBA3E234C94" trl="N">
+    <value column="Name" isTrl="N" original="name">name</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

@@ -349,8 +349,8 @@
     <value column="Description" isTrl="N" original="Product Transaction Summary">Product Transaction Summary</value>
   </row>
   <row id="1C00140BAFA946E3A63F1AD557A35F45" trl="N">
-    <value column="Name" isTrl="Y" original="Open/Close Period Control">Контроль открытия/закрытия периода</value>
-    <value column="Description" isTrl="N" original="Open or close periods for the allowed organizations">Open or close periods for the allowed organizations</value>
+    <value column="Name" isTrl="Y" original="Period Control Log">Журнал контроля периода</value>
+    <value column="Description" isTrl="N" original="This windows shows the log for period control. ">This windows shows the log for period control. </value>
   </row>
   <row id="1E5FB50EFD5D43BDA4AB1879707D9003" trl="N">
     <value column="Name" isTrl="Y" original="Import Client">Импортировать подключение</value>
@@ -442,7 +442,7 @@
   </row>
   <row id="232" trl="N">
     <value column="Name" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
-    <value column="Description" isTrl="N" original="Create and edit information related to similar business partners at one time by grouping them.">Create and edit information related to similar business partners at one time by grouping them.</value>
+    <value column="Description" isTrl="N" original="Business partners can be grouped into different categories with the aim of helping their management and analysis.">Business partners can be grouped into different categories with the aim of helping their management and analysis.</value>
   </row>
   <row id="234" trl="N">
     <value column="Name" isTrl="N" original="Bank Statement">Bank Statement</value>
@@ -533,7 +533,7 @@
     <value column="Description" isTrl="N" original="Resubmit posting of documents with posting errors">Resubmit posting of documents with posting errors</value>
   </row>
   <row id="307" trl="N">
-    <value column="Name" isTrl="N" original="Reset Accounting">Reset Accounting</value>
+    <value column="Name" isTrl="N" original="Reset Accounting Old">Reset Accounting Old</value>
     <value column="Description" isTrl="N" original="Reset Accounting Entries">Reset Accounting Entries</value>
   </row>
   <row id="310" trl="N">
@@ -598,7 +598,7 @@
   </row>
   <row id="343" trl="N">
     <value column="Name" isTrl="Y" original="Asset Group">Группа основных средств</value>
-    <value column="Description" isTrl="N" original="Create and edit categories to group assets with similar characteristics together.">Create and edit categories to group assets with similar characteristics together.</value>
+    <value column="Description" isTrl="N" original="Assets can be grouped into different categories with the aim of helping their depreciation management and analysis.">Assets can be grouped into different categories with the aim of helping their depreciation management and analysis.</value>
   </row>
   <row id="345" trl="N">
     <value column="Name" isTrl="Y" original="Assets">Основные средства</value>
@@ -759,6 +759,10 @@
   <row id="6787A809DB364371B797ECED5E9262BF" trl="N">
     <value column="Name" isTrl="N" original="Reject Reason">Reject Reason</value>
     <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="75B726735EA7497C9DB06E35B1CBFD86" trl="N">
+    <value column="Name" isTrl="N" original="Open/Close Period Control">Open/Close Period Control</value>
+    <value column="Description" isTrl="N" original="Open/Close Period Control for the allowed organizations">Open/Close Period Control for the allowed organizations</value>
   </row>
   <row id="800002" trl="N">
     <value column="Name" isTrl="N" original="Auxiliary Input">Auxiliary Input</value>
@@ -1177,11 +1181,11 @@
     <value column="Description" isTrl="N" original="Offers Report">Offers Report</value>
   </row>
   <row id="800203" trl="N">
-    <value column="Name" isTrl="N" original="Salary Category">Категория зарплаты</value>
+    <value column="Name" isTrl="Y" original="Salary Category">Категория зарплаты</value>
     <value column="Description" isTrl="N" original="Create salary categories to be applied to your employees/workers.">Create salary categories to be applied to your employees/workers.</value>
   </row>
   <row id="800204" trl="N">
-    <value column="Name" isTrl="N" original="Indirect Cost">Косвенные затраты</value>
+    <value column="Name" isTrl="Y" original="Indirect Cost">Косвенные затраты</value>
     <value column="Description" isTrl="N" original="Create and edit indirect costs to be used in production.">Create and edit indirect costs to be used in production.</value>
   </row>
   <row id="800205" trl="N">
@@ -1353,8 +1357,8 @@
     <value column="Description" isTrl="N" original="Production Run Status Report">Production Run Status Report</value>
   </row>
   <row id="800259" trl="N">
-    <value column="Name" isTrl="N" original="Production Report">Production Report</value>
-    <value column="Description" isTrl="N" original="Report Production">Report Production</value>
+    <value column="Name" isTrl="N" original="BOM Production Report">BOM Production Report</value>
+    <value column="Description" isTrl="N" original="BOM Report Production">BOM Report Production</value>
   </row>
   <row id="800260" trl="N">
     <value column="Name" isTrl="N" original="Customer Invoice Report">Customer Invoice Report</value>
@@ -1464,6 +1468,10 @@
     <value column="Name" isTrl="Y" original="Process Monitor">Отслеживание обработки</value>
     <value column="Description" isTrl="N" original="Monitor the results, run time, start and finish times of execution of process requests.">Monitor the results, run time, start and finish times of execution of process requests.</value>
   </row>
+  <row id="B98CC98DABEE409DB43A0A224CA140EA" trl="N">
+    <value column="Name" isTrl="N" original="End Year Close">End Year Close</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="BC399BACA2F34B968C54555D79ED66A7" trl="N">
     <value column="Name" isTrl="Y" original="Warehouse Rules">Правила хранения</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1472,6 +1480,10 @@
     <value column="Name" isTrl="N" original="Process Request">Process Request</value>
     <value column="Description" isTrl="N" original="Request processes and reports to be scheduled and executed in the background.">Request processes and reports to be scheduled and executed in the background.</value>
   </row>
+  <row id="C073633F0AFF4A93B17C13F239DE9613" trl="N">
+    <value column="Name" isTrl="N" original="Customer Statement">Customer Statement</value>
+    <value column="Description" isTrl="N" original="Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period">Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period</value>
+  </row>
   <row id="C14426B2503546788BE2BAEBA2BE81DC" trl="N">
     <value column="Name" isTrl="N" original="Accounting templates">Accounting templates</value>
     <value column="Description" isTrl="N" original="Accounting templates to overwrite default accounting behavior">Accounting templates to overwrite default accounting behavior</value>
@@ -1479,6 +1491,10 @@
   <row id="C62EBC52C8DF463B9B720D52F250A8CF" trl="N">
     <value column="Name" isTrl="N" original="Condition of the goods">Condition of the goods</value>
     <value column="Description" isTrl="N" original="Condition of the goods to be used in window RM receipt">Condition of the goods to be used in window RM receipt</value>
+  </row>
+  <row id="CC8E287A0B0743D69C53D8F678F9AD41" trl="N">
+    <value column="Name" isTrl="N" original="Reset Accounting">Reset Accounting</value>
+    <value column="Description" isTrl="N" original="Reset Accounting Entries">Reset Accounting Entries</value>
   </row>
   <row id="D13B4DBDCBF747BB9A91B17CBC6D1AA5" trl="N">
     <value column="Name" isTrl="Y" original="Process Scheduling">Планирование обработки</value>

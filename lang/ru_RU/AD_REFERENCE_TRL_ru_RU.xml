@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REFERENCE" version="0.1">
+  <row id="00037F8CF0644AF7A1987E7BF6DF68A4" trl="N">
+    <value column="Name" isTrl="N" original="Element Value Selector">Element Value Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="001BC3A319184B40ACB36A3C9B994904" trl="N">
     <value column="Name" isTrl="N" original="Receive Payment Action">Receive Payment Action</value>
     <value column="Description" isTrl="N" original="This reference used in Receive Payment ">This reference used in Receive Payment </value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="005073F7D540413B98E1D2E245CBC039" trl="N">
+    <value column="Name" isTrl="N" original="AD_User Selector">AD_User Selector</value>
+    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="01303128416E4CFC92E3A71D793F6EFF" trl="N">
@@ -110,6 +120,11 @@
     <value column="Description" isTrl="N" original="Validation Rule Type list">Validation Rule Type list</value>
     <value column="Help" isTrl="N" original="e.g. S - SQL">e.g. S - SQL</value>
   </row>
+  <row id="101787D75B4E4D7280C75D9802FE5FB6" trl="N">
+    <value column="Name" isTrl="N" original="Product UOM Selector">Product UOM Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="102" trl="N">
     <value column="Name" isTrl="N" original="AD_Message">AD_Message</value>
     <value column="Description" isTrl="N" original="Message selection">Message selection</value>
@@ -139,6 +154,11 @@
     <value column="Name" isTrl="N" original="AD_Window Types">AD_Window Types</value>
     <value column="Description" isTrl="N" original="Window Type list">Window Type list</value>
     <value column="Help" isTrl="N" original="e.g. M = Multi/Single (one uppercase character)">e.g. M = Multi/Single (one uppercase character)</value>
+  </row>
+  <row id="10DF247CCCB346FE931028AA98E569F0" trl="N">
+    <value column="Name" isTrl="N" original="AD_User no combo">AD_User no combo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="11" trl="N">
     <value column="Name" isTrl="N" original="Integer">Integer</value>
@@ -333,6 +353,11 @@
   <row id="149" trl="N">
     <value column="Name" isTrl="N" original="C_Payment CreditCard Type">C_Payment CreditCard Type</value>
     <value column="Description" isTrl="N" original="C_Payment Credit Card Type list">C_Payment Credit Card Type list</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="14A9BE1555CF4616BDC2E0C8E5EB6542" trl="N">
+    <value column="Name" isTrl="N" original="AD_Process_Request">AD_Process_Request</value>
+    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="15" trl="N">
@@ -610,6 +635,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="1DBAAD6ABF2E4FE7A4654DDE387B89C9" trl="N">
+    <value column="Name" isTrl="N" original="TableBasedTableSelector">TableBasedTableSelector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="1F603F334B704F53928B8DB908611657" trl="N">
     <value column="Name" isTrl="N" original="M_Product">M_Product</value>
     <value column="Description" isTrl="N" original=""/>
@@ -737,6 +767,11 @@
   </row>
   <row id="224" trl="N">
     <value column="Name" isTrl="N" original="C_Commission DocBasis">C_Commission DocBasis</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="224C53E343404771A44494C2AD51DAF3" trl="N">
+    <value column="Name" isTrl="N" original="M_InOutLine no combo">M_InOutLine no combo</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -910,6 +945,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="25400A74C902418B815D70EFDCD29153" trl="N">
+    <value column="Name" isTrl="N" original="C_BPartner Vendors no combo">C_BPartner Vendors no combo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="255" trl="N">
     <value column="Name" isTrl="N" original="AD_Print Format Type">AD_Print Format Type</value>
     <value column="Description" isTrl="N" original=""/>
@@ -952,6 +992,11 @@
   </row>
   <row id="263" trl="N">
     <value column="Name" isTrl="N" original="AD_PrintFormat Shipment">AD_PrintFormat Shipment</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="263693E51C7847BF90C897ADB830E2BB" trl="N">
+    <value column="Name" isTrl="N" original="On hand warehouse">On hand warehouse</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1110,6 +1155,11 @@
     <value column="Description" isTrl="N" original="All amounts available to be taken as tax base amount for tax calculation.">All amounts available to be taken as tax base amount for tax calculation.</value>
     <value column="Help" isTrl="N" original="All amounts available to be taken as tax base amount for tax calculation.">All amounts available to be taken as tax base amount for tax calculation.</value>
   </row>
+  <row id="2F18FEBF939D4F6DA5D5AEED73AE11D0" trl="N">
+    <value column="Name" isTrl="N" original="Orderline selector">Orderline selector</value>
+    <value column="Description" isTrl="N" original="Orderline selector">Orderline selector</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="2F57E5B5EBF44E0A9D45492DECBD3CC1" trl="N">
     <value column="Name" isTrl="N" original="C_GLItem Ordered by Organization">C_GLItem Ordered by Organization</value>
     <value column="Description" isTrl="N" original="It is a general ledger item.">It is a general ledger item.</value>
@@ -1190,6 +1240,11 @@
     <value column="Description" isTrl="N" original="Subreference">Subreference</value>
     <value column="Help" isTrl="N" original="(not DataType and Independent)">(not DataType and Independent)</value>
   </row>
+  <row id="401065C7CE134B019476EFAA057635FF" trl="N">
+    <value column="Name" isTrl="N" original="DatasourceSelectorForTables">DatasourceSelectorForTables</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="4028E61131FB4B1B0131FB5226C90008" trl="N">
     <value column="Name" isTrl="N" original="Business Partner not filtered by default by customer/vendor">Business Partner not filtered by default by customer/vendor</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1215,9 +1270,19 @@
     <value column="Description" isTrl="N" original="Tiers for commercial modules">Tiers for commercial modules</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="467CA50808444F9890E23536FDE10405" trl="N">
+    <value column="Name" isTrl="N" original="Portal Role Selector">Portal Role Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="47209D76F3EE4B6D84222C5BDF170AA2" trl="N">
     <value column="Name" isTrl="N" original="Yes/No search box">Yes/No search box</value>
     <value column="Description" isTrl="N" original="Used for search box values yes/no and empty (for any)">Used for search box values yes/no and empty (for any)</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="482FE0CA9E0F438BBE576E612111BF31" trl="N">
+    <value column="Name" isTrl="N" original="Physical Inventory line selector">Physical Inventory line selector</value>
+    <value column="Description" isTrl="N" original="Physical Inventory line selector">Physical Inventory line selector</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="487AE3E73E8542538CDC4A9EED5F6434" trl="N">
@@ -1315,6 +1380,11 @@
     <value column="Description" isTrl="N" original="Purpose for the instance">Purpose for the instance</value>
     <value column="Help" isTrl="N" original="Determines which is the purpose for an Openbravo ERP instance">Determines which is the purpose for an Openbravo ERP instance</value>
   </row>
+  <row id="64522A2F925244F282036B827E8FA3D0" trl="N">
+    <value column="Name" isTrl="N" original="Invoice Selector">Invoice Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="65447418FD4D428CA025AC9AF26ADA21" trl="N">
     <value column="Name" isTrl="N" original="PeriodNo">PeriodNo</value>
     <value column="Description" isTrl="N" original="Periods for the selected year">Periods for the selected year</value>
@@ -1345,6 +1415,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="6BBBF18412CE4454B7C2F45E5FC1F6A3" trl="N">
+    <value column="Name" isTrl="N" original="Tab Access Selector">Tab Access Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="6C11958E975D4DF8A38E7F4A119A3077" trl="N">
     <value column="Name" isTrl="N" original="Process Month Option">Process Month Option</value>
     <value column="Description" isTrl="N" original="The first, second, third, fourth specified day in a month.">The first, second, third, fourth specified day in a month.</value>
@@ -1353,6 +1428,11 @@
   <row id="7039147A5B49457DA3D13F807EC8E01F" trl="N">
     <value column="Name" isTrl="N" original="Process Finish">Process Finish</value>
     <value column="Description" isTrl="N" original="How  a Process trigger will finish">How  a Process trigger will finish</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="70608617261A474EBAD0E8D56345FC68" trl="N">
+    <value column="Name" isTrl="N" original="Reservation Stock Selector">Reservation Stock Selector</value>
+    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="712D9821BE8246AC95E6C16D8BEEBE5E" trl="N">
@@ -1367,6 +1447,11 @@
   </row>
   <row id="73625A8F22EF4CD7808603156BA606D7" trl="N">
     <value column="Name" isTrl="N" original="Accruals and Deferrals Plan Types">Accruals and Deferrals Plan Types</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="746C95F41182419C921254B6CB4D8F8A" trl="N">
+    <value column="Name" isTrl="N" original="Reservation Selector">Reservation Selector</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1912,6 +1997,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="A253A91D78324DC4A1661E96B390D888" trl="N">
+    <value column="Name" isTrl="N" original="C_OrderLine no combo">C_OrderLine no combo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="A26BA480E2014707B47257024C3CBFF7" trl="N">
     <value column="Name" isTrl="N" original="Property Configuration">Property Configuration</value>
     <value column="Description" isTrl="N" original="Defines Properties that can be configured by other modules">Defines Properties that can be configured by other modules</value>
@@ -1945,6 +2035,11 @@ For example, if you want to create different invoices for each ship location for
   <row id="AD93286C917A4A74BE5898FD0158100A" trl="N">
     <value column="Name" isTrl="N" original="AD_Heartbeat - Status">AD_Heartbeat - Status</value>
     <value column="Description" isTrl="N" original="Heartbeat status">Heartbeat status</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="AE201981DDC0467FB59F64CA978C749F" trl="N">
+    <value column="Name" isTrl="N" original="Data Origin Type">Data Origin Type</value>
+    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B7E66794F4BA46C3ADB2CBD013252AA6" trl="N">
@@ -1987,6 +2082,16 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original="A password which is shown with * in the UI; the cleartext value cannot be recovered as only a hashed value is stored">A password which is shown with * in the UI; the cleartext value cannot be recovered as only a hashed value is stored</value>
     <value column="Help" isTrl="N" original="Fro this type of passwords only a hashed value is stored in the database. It is possible to verify if the same value was entered (to implement a password check), however it is not possible to recover the cleartext value again.">Fro this type of passwords only a hashed value is stored in the database. It is possible to verify if the same value was entered (to implement a password check), however it is not possible to recover the cleartext value again.</value>
   </row>
+  <row id="CBF00FA9F3744F1A86025AD16F2AF86A" trl="N">
+    <value column="Name" isTrl="N" original="End Year Close Actions">End Year Close Actions</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="CBFE484519794465B6BED250F7FB26AF" trl="N">
+    <value column="Name" isTrl="N" original="End Year Close Status">End Year Close Status</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="CE467008C64E436C979B3CAB4EFF2BC2" trl="N">
     <value column="Name" isTrl="N" original="FinancialMgmtAccountingRpt Consider Zero Condition">FinancialMgmtAccountingRpt Consider Zero Condition</value>
     <value column="Description" isTrl="N" original=""/>
@@ -2001,6 +2106,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Name" isTrl="N" original="C_Incoterms">C_Incoterms</value>
     <value column="Description" isTrl="N" original="C_Incoterms">C_Incoterms</value>
     <value column="Help" isTrl="N" original="C_Incoterms">C_Incoterms</value>
+  </row>
+  <row id="D61E6D984E214F99B10DE56395ED692B" trl="N">
+    <value column="Name" isTrl="N" original="Element Selector">Element Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="D6C4E62C3EB040989001DA16B3925DC8" trl="N">
     <value column="Name" isTrl="N" original="Smtp Connection Security">Smtp Connection Security</value>
@@ -2082,10 +2192,20 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="F6A9745024274BD48686CAC8A063AA3E" trl="N">
+    <value column="Name" isTrl="N" original="C_Period Status">C_Period Status</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="F909D710BC084C92BC740A4FD498C99D" trl="N">
     <value column="Name" isTrl="N" original="Report Type">Report Type</value>
     <value column="Description" isTrl="N" original="Type of general accounting report">Type of general accounting report</value>
     <value column="Help" isTrl="N" original="Type of general accounting report">Type of general accounting report</value>
+  </row>
+  <row id="F9D2F974C7004FC690CE146C815B939C" trl="N">
+    <value column="Name" isTrl="N" original="C_Order Purchase no combo">C_Order Purchase no combo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FBC599C796664DD49AD002C61DAFF813" trl="N">
     <value column="Name" isTrl="N" original="C_DocType DocBaseType Dimensions configuration">C_DocType DocBaseType Dimensions configuration</value>
@@ -2132,5 +2252,10 @@ The list is similar to the All_Document Status but just renaming Completed by Bo
     <value column="Name" isTrl="N" original="Image Sizes Value Action">Image Sizes Value Action</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Action to be performed with the provided width and height">Action to be performed with the provided width and height</value>
+  </row>
+  <row id="FF9658201F8B4BE780BE00AAA9499ED5" trl="N">
+    <value column="Name" isTrl="N" original="C_BPartner Customers no combo">C_BPartner Customers no combo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
 </compiereTrl>

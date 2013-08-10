@@ -7,6 +7,13 @@
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Sales invoice payment plan information is shown grouped in two sections. ">Sales invoice payment plan information is shown grouped in two sections. </value>
   </row>
+  <row id="1EA4A3F31A27483A8C6E93176AE912D3" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the doubtful debt">Accounting information related to the doubtful debt</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the doubtful debt">Accounting information related to the doubtful debt</value>
+  </row>
   <row id="2A9BA5FDA0F8470D881F8EA9DEDCC598" trl="N">
     <value column="Name" isTrl="N" original="Accounting History">Accounting History</value>
     <value column="CommitWarning" isTrl="N" original=""/>
@@ -190,7 +197,7 @@
     <value column="Help" isTrl="N" original="Display the details of the payments received against the invoice.">Display the details of the payments received against the invoice.</value>
   </row>
   <row id="FF8080812F213146012F2135BC25000E" trl="N">
-    <value column="Name" isTrl="Y" original="Transaction">Транзакция</value>
+    <value column="Name" isTrl="Y" original="Transactions old 2">Транзакция устар. 2</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>

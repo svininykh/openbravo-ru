@@ -32,6 +32,10 @@
     <value column="MsgText" isTrl="Y" original="Print">Печать</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="050A887278BB4AF0A40D7FBEC4BFED0D" trl="N">
+    <value column="MsgText" isTrl="N" original="Do you want to clone the selected record?">Do you want to clone the selected record?</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="07272FCDEEA64054AF2F983D9814EE00" trl="N">
     <value column="MsgText" isTrl="Y" original="Use as filter">Использовать как фильтр</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -80,6 +84,10 @@
     <value column="MsgText" isTrl="Y" original="New password">Новый пароль</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="16723782BE0C4B23AAF08CA507B9C2B4" trl="N">
+    <value column="MsgText" isTrl="N" original="This event can't be updated">This event can't be updated</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="16EF30EF95D94CB2A93129015A363315" trl="N">
     <value column="MsgText" isTrl="N" original="%0 [executing]">%0 [executing]</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -102,6 +110,10 @@
   </row>
   <row id="20EBBDD0DE864992AD7B8090D1126A06" trl="N">
     <value column="MsgText" isTrl="N" original="This user doesn't have access to the backend. To be able to access Openbravo, a user needs a role with access to the backend.">This user doesn't have access to the backend. To be able to access Openbravo, a user needs a role with access to the backend.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="26DBE659B9B746CF996AC9F4A6475BC3" trl="N">
+    <value column="MsgText" isTrl="N" original="Log Out">Log Out</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2C8A8843F1E04317AD38623A3C52F978" trl="N">
@@ -127,6 +139,14 @@
   <row id="3423F8C3C26645E2BED53B282343ACB3" trl="N">
     <value column="MsgText" isTrl="Y" original="Add New">Добавить новый</value>
     <value column="MsgTip" isTrl="N" original="Label for 'Add New' type button">Label for 'Add New' type button</value>
+  </row>
+  <row id="35EABF65B3E548EF99FADB827E4A017C" trl="N">
+    <value column="MsgText" isTrl="N" original="Add Event">Add Event</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="361881839BFA4A1D8FD09A3F153CF287" trl="N">
+    <value column="MsgText" isTrl="N" original="Filter">Filter</value>
+    <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="36611160D1404304930C24E2EA3C0434" trl="N">
     <value column="MsgText" isTrl="Y" original="Select a parent record in order to view its children here.">Выберите родительскую запись, чтобы увидеть дочернии записи.</value>
@@ -242,6 +262,14 @@
   </row>
   <row id="7410A9E707384D369419188644A31430" trl="N">
     <value column="MsgText" isTrl="Y" original="Set as default">Установить по-умолчанию</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="744877846A1D4E3EAD6F4BFF308C148D" trl="N">
+    <value column="MsgText" isTrl="N" original="Few mandatory fields have not been filled. Refer lines">Few mandatory fields have not been filled. Refer lines</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="75E47FA30B8D438E9569B4C688E863EB" trl="N">
+    <value column="MsgText" isTrl="N" original="Portal is a Premium Feature">Portal is a Premium Feature</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="787E5B6A41DB42B7A79F9789C696FE79" trl="N">
@@ -397,6 +425,10 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="Y" original="%0 Alerts">%0 предупреждений</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="C93D67D86C0741FFAE78C20ECEB386E5" trl="N">
+    <value column="MsgText" isTrl="N" original="Print">Print</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="C966E53BF4744D048BB01026A5A3FAA5" trl="N">
     <value column="MsgText" isTrl="Y" original="Remove Attachment">Удалить вложение</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -503,6 +535,10 @@ All modules in this window must be "in development".</value>
   </row>
   <row id="F1608458F2A84B81812F0A5C8B3E8633" trl="N">
     <value column="MsgText" isTrl="Y" original="Delete Note">Удалить заметку</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="FAF1675F98A248C39469E132D1B0E2DE" trl="N">
+    <value column="MsgText" isTrl="N" original="Legend">Legend</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FBA2F11416C4413F8E2D554119461964" trl="N">
@@ -815,7 +851,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812D6D076E012D6EAFD7A600E4" trl="N">
-    <value column="MsgText" isTrl="N" original="Click here to clear the field value">Нажмите для очистке значения поля</value>
+    <value column="MsgText" isTrl="Y" original="Click here to clear the field value">Нажмите для очистки значения поля</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812D7A8BBA012D7A8D9F450024" trl="N">
@@ -827,7 +863,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812D949EEF012D94A1A9060024" trl="N">
-    <value column="MsgText" isTrl="N" original="Explicit (user) filters applied. Click to clear.">Явные (пользовательские) фильтры применены. Нажмите для отмены.</value>
+    <value column="MsgText" isTrl="Y" original="Explicit (user) filters applied. Click to clear.">Явные (пользовательские) фильтры применены. Нажмите для отмены.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812DA32652012DA353DBCA004D" trl="N">
@@ -1378,51 +1414,51 @@ Please &lt;b&gt;logout&lt;/b&gt; from the application unless your access is auth
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813216F38A013217412A0A000A" trl="N">
-    <value column="MsgText" isTrl="N" original="Save View">Сохранить вид</value>
+    <value column="MsgText" isTrl="Y" original="Save View">Сохранить вид</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813216F38A01321741598A000F" trl="N">
-    <value column="MsgText" isTrl="N" original="Delete View">Удалить вид</value>
+    <value column="MsgText" isTrl="Y" original="Delete View">Удалить вид</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813216F38A01321742648D0013" trl="N">
-    <value column="MsgText" isTrl="N" original="Save View">Сохранить вид</value>
+    <value column="MsgText" isTrl="Y" original="Save View">Сохранить вид</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181321A7CAB01321A8A6E670013" trl="N">
-    <value column="MsgText" isTrl="N" original="View">Вид</value>
+    <value column="MsgText" isTrl="Y" original="View">Вид</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181321AE53401321B10CCA5000F" trl="N">
-    <value column="MsgText" isTrl="N" original="Level">Уровень</value>
+    <value column="MsgText" isTrl="Y" original="Level">Уровень</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181321AE53401321B10FEE00014" trl="N">
-    <value column="MsgText" isTrl="N" original="Value">Значение</value>
+    <value column="MsgText" isTrl="Y" original="Value">Значение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181321E629B01321E67A6720009" trl="N">
-    <value column="MsgText" isTrl="N" original="The view state has been saved.">Текущий вид сохранён.</value>
+    <value column="MsgText" isTrl="Y" original="The view state has been saved.">Текущий вид сохранён.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181321E629B01321E67D704000E" trl="N">
-    <value column="MsgText" isTrl="N" original="The view has been deleted.">Текущий вид удалён.</value>
+    <value column="MsgText" isTrl="Y" original="The view has been deleted.">Текущий вид удалён.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818132443EBA01324442C9E2000C" trl="N">
-    <value column="MsgText" isTrl="N" original="Set Default View">Установить вид по-умолчанию</value>
-    <value column="MsgTip" isTrl="N" original="Set Default View">Установить вид по-умолчанию</value>
+    <value column="MsgText" isTrl="Y" original="Set Default View">Установить вид по-умолчанию</value>
+    <value column="MsgTip" isTrl="Y" original="Set Default View">Установить вид по-умолчанию</value>
   </row>
   <row id="FF80818132443EBA0132444357CE0011" trl="N">
-    <value column="MsgText" isTrl="N" original="Set as Default">Установить по-умолчанию</value>
-    <value column="MsgTip" isTrl="N" original="Set as Default">Установить по-умолчанию</value>
+    <value column="MsgText" isTrl="Y" original="Set as Default">Установить по-умолчанию</value>
+    <value column="MsgTip" isTrl="Y" original="Set as Default">Установить по-умолчанию</value>
   </row>
   <row id="FF80818132AE40480132AED3676C0126" trl="N">
-    <value column="MsgText" isTrl="N" original="Save as">Сохранить как</value>
+    <value column="MsgText" isTrl="Y" original="Save as">Сохранить как</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818132D5240F0132D856F3D20023" trl="N">
-    <value column="MsgText" isTrl="N" original="&lt;a href=&quot;http://wiki.openbravo.com/wiki/User_Manual/Window_Personalization#Saved_and_Named_Views&quot; target=&quot;_blank&quot;&gt;Window Personalization&lt;/a&gt; is a Premium Feature">&lt;a href="http://wiki.openbravo.com/wiki/User_Manual/Window_Personalization#Saved_and_Named_Views" target="_blank"&gt;Персональная настройка окон&lt;/a&gt; это премиальная возможность</value>
+    <value column="MsgText" isTrl="Y" original="&lt;a href=&quot;http://wiki.openbravo.com/wiki/User_Manual/Window_Personalization#Saved_and_Named_Views&quot; target=&quot;_blank&quot;&gt;Window Personalization&lt;/a&gt; is a Premium Feature">&lt;a href="http://wiki.openbravo.com/wiki/User_Manual/Window_Personalization#Saved_and_Named_Views" target="_blank"&gt;Персональная настройка окон&lt;/a&gt; это премиальная возможность</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818132D550210132D55993840016" trl="N">
@@ -1507,7 +1543,7 @@ Do you want to continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808181331AD90C01331ADA2E15000C" trl="N">
-    <value column="MsgText" isTrl="N" original="Save">Сохранить</value>
+    <value column="MsgText" isTrl="Y" original="Save">Сохранить</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
 </compiereTrl>

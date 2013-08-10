@@ -130,7 +130,9 @@ By enabling the heartbeat, you consent to the processing of this data and storin
   <row id="117" trl="N">
     <value column="Name" isTrl="Y" original="Fiscal Calendar">Фискальный календарь</value>
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars and periods for accounting purposes.">Create multiple fiscal calendars and periods for accounting purposes.</value>
-    <value column="Help" isTrl="N" original="&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the periods of each year required to get an accurate organization's accounting practice.&#10;&#10;">&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the periods of each year required to get an accurate organization's accounting practice.&#10;&#10;</value>
+    <value column="Help" isTrl="N" original="&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the periods of each year required to get an accurate organization's accounting practice.&#10;&#10;">"Legal entities with accounting" organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the periods of each year required to get an accurate organization's accounting practice.
+
+</value>
   </row>
   <row id="118" trl="N">
     <value column="Name" isTrl="Y" original="Account Tree">Схема плана счетов</value>
@@ -354,8 +356,8 @@ You can also select if transactions are allowed or not for this organization typ
   </row>
   <row id="192" trl="N">
     <value column="Name" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
-    <value column="Description" isTrl="N" original="Create and edit information related to similar business partners at one time by grouping them.">Create and edit information related to similar business partners at one time by grouping them.</value>
-    <value column="Help" isTrl="N" original="Business partners can be grouped into different categories which must be created with the aim of helping their management and analysis.">Business partners can be grouped into different categories which must be created with the aim of helping their management and analysis.</value>
+    <value column="Description" isTrl="N" original="Business partners can be grouped into different categories with the aim of helping their management and analysis.">Business partners can be grouped into different categories with the aim of helping their management and analysis.</value>
+    <value column="Help" isTrl="N" original="Business partners can be grouped into different categories with the aim of helping their management and analysis.">Business partners can be grouped into different categories with the aim of helping their management and analysis.</value>
   </row>
   <row id="194" trl="N">
     <value column="Name" isTrl="N" original="Bank Statement">Bank Statement</value>
@@ -449,8 +451,8 @@ You can also select if transactions are allowed or not for this organization typ
   </row>
   <row id="252" trl="N">
     <value column="Name" isTrl="Y" original="Asset Group">Группа основных средств</value>
-    <value column="Description" isTrl="N" original="Create and edit categories to group assets with similar characteristics together.">Create and edit categories to group assets with similar characteristics together.</value>
-    <value column="Help" isTrl="N" original="Create and edit categories to group assets with similar characteristics together.">Create and edit categories to group assets with similar characteristics together.</value>
+    <value column="Description" isTrl="N" original="Assets can be grouped into different categories with the aim of helping their depreciation management and analysis.">Assets can be grouped into different categories with the aim of helping their depreciation management and analysis.</value>
+    <value column="Help" isTrl="N" original="Assets can be grouped into different categories with the aim of helping their depreciation management and analysis.">Assets can be grouped into different categories with the aim of helping their depreciation management and analysis.</value>
   </row>
   <row id="254" trl="N">
     <value column="Name" isTrl="N" original="Employee Expenses">Employee Expenses</value>
@@ -480,8 +482,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="260" trl="N">
     <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
-    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest.
-</value>
+    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest. &#10;</value>
   </row>
   <row id="264" trl="N">
     <value column="Name" isTrl="Y" original="Session">Сессия</value>
@@ -546,7 +547,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="3E945A9102144C16BD211D211089C2DF" trl="N">
     <value column="Name" isTrl="N" original="Costing Rules">Costing Rules</value>
     <value column="Description" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account ">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account </value>
-    <value column="Help" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account while calculating costs.">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account while calculating costs.</value>
+    <value column="Help" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account while calculating costs.">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account while calculating costs.</value>
   </row>
   <row id="442FA34D72E5423B8DDBD65DBF0ED4B6" trl="N">
     <value column="Name" isTrl="N" original="Reservation Pick and Edit">Reservation Pick and Edit</value>
@@ -829,12 +830,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define and synchonize Openbravo to your points of sales and their respective attributes.">Define and synchonize Openbravo to your points of sales and their respective attributes.</value>
   </row>
   <row id="800084" trl="N">
-    <value column="Name" isTrl="N" original="Salary Category">Категория зарплаты</value>
+    <value column="Name" isTrl="Y" original="Salary Category">Категория зарплаты</value>
     <value column="Description" isTrl="N" original="Create salary categories to be applied to your employees/workers.">Create salary categories to be applied to your employees/workers.</value>
     <value column="Help" isTrl="N" original="Create salary categories to be applied to your employees/workers.">Create salary categories to be applied to your employees/workers.</value>
   </row>
   <row id="800085" trl="N">
-    <value column="Name" isTrl="N" original="Indirect Cost">Косвенные затраты</value>
+    <value column="Name" isTrl="Y" original="Indirect Cost">Косвенные затраты</value>
     <value column="Description" isTrl="N" original="Create and edit indirect costs to be used in production.">Create and edit indirect costs to be used in production.</value>
     <value column="Help" isTrl="N" original="Create and edit indirect costs to be used in production.">Create and edit indirect costs to be used in production.</value>
   </row>
@@ -933,6 +934,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original="Condition of the goods to be used in window RM receipt">Condition of the goods to be used in window RM receipt</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="B5673F73F613496C8BEA22FB55E4E1E4" trl="N">
+    <value column="Name" isTrl="N" original="End Year Close">End Year Close</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="C50A8AEE6F044825B5EF54FAAE76826F" trl="N">
     <value column="Name" isTrl="Y" original="Return to Vendor">Возврат поставщику по ордеру</value>
     <value column="Description" isTrl="N" original="Return to vendor (RTV). Here you enter the goods you want to return to the vendor">Return to vendor (RTV). Here you enter the goods you want to return to the vendor</value>
@@ -964,9 +970,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Customer's payments and prepayments received can be recorded and managed in the payment in window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.">Customer's payments and prepayments received can be recorded and managed in the payment in window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.</value>
   </row>
   <row id="E56E701CCBA14B8BA480CBDE37C50D7A" trl="N">
-    <value column="Name" isTrl="Y" original="Open/Close Period Control">Контроль открытия/закрытия периода</value>
-    <value column="Description" isTrl="N" original="Open or close periods for the allowed organizations">Open or close periods for the allowed organizations</value>
-    <value column="Help" isTrl="N" original="Open/Close Period Control feature manage the periods of an organization. This feature applies to organizations for which the &quot;Period Control&quot; feature is enabled.">Open/Close Period Control feature manage the periods of an organization. This feature applies to organizations for which the &quot;Period Control&quot; feature is enabled.</value>
+    <value column="Name" isTrl="Y" original="Period Control Log">Журнал контроля периода</value>
+    <value column="Description" isTrl="N" original="This windows shows the log for period control. ">This windows shows the log for period control. </value>
+    <value column="Help" isTrl="N" original="This windows shows the log for period control. ">This windows shows the log for period control. </value>
+  </row>
+  <row id="E66E701CCBA14B8BA480CBDE37C50D7A" trl="N">
+    <value column="Name" isTrl="N" original="Open/Close Period Control">Open/Close Period Control</value>
+    <value column="Description" isTrl="N" original="Open/Close Period Control for the allowed organizations">Open/Close Period Control for the allowed organizations</value>
+    <value column="Help" isTrl="N" original="Open/Close Period Control feature manage the periods of an organization. This feature applies to organizations for which the &quot;Period Control&quot; feature is enabled.">Open/Close Period Control feature manage the periods of an organization. This feature applies to organizations for which the "Period Control" feature is enabled.</value>
   </row>
   <row id="EF3E837705944F4DBF398D683D36ACE0" trl="N">
     <value column="Name" isTrl="Y" original="Process Monitor">Отслеживание обработки</value>

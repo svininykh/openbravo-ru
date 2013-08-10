@@ -134,7 +134,7 @@
     <value column="Help" isTrl="N" original="This tab allows the procurement  management team to either review the purchase order line automatically linked to a requisition line or to manually link an existing purchase order line to the corresponding requisition line.">This tab allows the procurement  management team to either review the purchase order line automatically linked to a requisition line or to manually link an existing purchase order line to the corresponding requisition line.</value>
   </row>
   <row id="1005100000" trl="N">
-    <value column="Name" isTrl="N" original="Cost Salary Category">Расходы на категорию зарплаты</value>
+    <value column="Name" isTrl="Y" original="Cost Salary Category">Расходы на категорию зарплаты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Salary category historic">Salary category historic</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -904,6 +904,13 @@ For changes to become effective, you must re-login and re-start the Application 
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Edit taxes applied to your order.">Edit taxes applied to your order.</value>
   </row>
+  <row id="23691259D1BD4496BCC5F32645BCA4B9" trl="N">
+    <value column="Name" isTrl="N" original="Transaction">Transaction</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="238" trl="N">
     <value column="Name" isTrl="Y" original="Price List Version">Версия прейскуранта</value>
     <value column="CommitWarning" isTrl="N" original=""/>
@@ -1299,9 +1306,9 @@ The corresponding tables have then the following setting:
   <row id="322" trl="N">
     <value column="Name" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Create a business partner category.">Create a business partner category.</value>
+    <value column="Description" isTrl="N" original="Business partner category window allows to create and configure every business partner category your organization may need.">Business partner category window allows to create and configure every business partner category your organization may need.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Business partner category window allows you to create and configure every business partner category your company may need.">Business partner category window allows you to create and configure every business partner category your company may need.</value>
+    <value column="Help" isTrl="N" original="Business partner category window allows to create and configure every business partner category your organization may need.">Business partner category window allows to create and configure every business partner category your organization may need.</value>
   </row>
   <row id="323" trl="N">
     <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
@@ -1685,9 +1692,9 @@ The corresponding tables have then the following setting:
   <row id="452" trl="N">
     <value column="Name" isTrl="N" original="Asset Category">Asset Category</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Create asset categories to group assets with similar characteristics.">Create asset categories to group assets with similar characteristics.</value>
+    <value column="Description" isTrl="N" original="Asset category window allows to create and configure every asset category your organization may need.">Asset category window allows to create and configure every asset category your organization may need.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Create asset categories to group assets with similar characteristics.">Create asset categories to group assets with similar characteristics.</value>
+    <value column="Help" isTrl="N" original="Asset category window allows to create and configure every asset category your organization may need.">Asset category window allows to create and configure every asset category your organization may need.</value>
   </row>
   <row id="456" trl="N">
     <value column="Name" isTrl="N" original="Employee">Employee</value>
@@ -1722,14 +1729,14 @@ The corresponding tables have then the following setting:
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit attributes to be assigned to attribute sets.">Create and edit attributes to be assigned to attribute sets.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;">Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets.</value>
+    <value column="Help" isTrl="N" original="Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;">Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;</value>
   </row>
   <row id="463" trl="N">
     <value column="Name" isTrl="Y" original="Attribute Value">Значение характеристики</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define individual characteristic values of this attribute.">Define individual characteristic values of this attribute.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;">An attribute can have several values or individual characteristics to be detailed for each attribute.</value>
+    <value column="Help" isTrl="N" original="An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;">An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;</value>
   </row>
   <row id="464" trl="N">
     <value column="Name" isTrl="N" original="Lot">Lot</value>
@@ -1850,6 +1857,13 @@ The corresponding tables have then the following setting:
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Parameters for the object in the web.xml file">Parameters for the object in the web.xml file</value>
   </row>
+  <row id="4AAC9E63C3B84B74AC4F35B5A1F8B54C" trl="N">
+    <value column="Name" isTrl="N" original="Documents">Documents</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="4CA5324BD037430B8E682B41C1DAA8CC" trl="N">
     <value column="Name" isTrl="N" original="Accounting dimension">Accounting dimension</value>
     <value column="CommitWarning" isTrl="N" original=""/>
@@ -1858,7 +1872,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
   </row>
   <row id="4DE17FC05C3843C4959166BB67967486" trl="N">
-    <value column="Name" isTrl="Y" original="Open/Close Period Control">Контроль открытия/закрытия периода</value>
+    <value column="Name" isTrl="Y" original="Period Control Log">Контроль открытия/закрытия периода</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="It allows to open or close periods for the allowed organizations">It allows to open or close periods for the allowed organizations</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2081,6 +2095,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The costing rule window allows to define and validate costing rules. ">The costing rule window allows to define and validate costing rules. </value>
+  </row>
+  <row id="6A77F910DAF24EA8BE7FF3F5084FED67" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="6BC4F7D2CBE94AEE939CCB5990B55FEA" trl="N">
     <value column="Name" isTrl="Y" original="Period Control">Фискальный контроль</value>
@@ -2769,14 +2790,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit checkpoints for the related measurement.">Create and edit checkpoints for the related measurement.</value>
   </row>
   <row id="800154" trl="N">
-    <value column="Name" isTrl="N" original="Time">Время</value>
+    <value column="Name" isTrl="Y" original="Time">Время</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit times for related check points.">Create and edit times for related check points.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create and edit times for related check points.">Create and edit times for related check points.</value>
   </row>
   <row id="800155" trl="N">
-    <value column="Name" isTrl="N" original="Values">Значения</value>
+    <value column="Name" isTrl="Y" original="Values">Значения</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit values for a related measurement.">Create and edit values for a related measurement.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3053,7 +3074,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit G/L accounts to be used in transactions which include a selected asset group.">Create and edit G/L accounts to be used in transactions which include a selected asset group.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Create and edit G/L accounts to be used in transactions which include a selected asset group.">Create and edit G/L accounts to be used in transactions which include a selected asset group.</value>
+    <value column="Help" isTrl="N" original="Each asset category allows to configure a different set of accounts to use to post asset depreciation.">Each asset category allows to configure a different set of accounts to use to post asset depreciation.</value>
   </row>
   <row id="800205" trl="N">
     <value column="Name" isTrl="Y" original="Header">Заглавие</value>
@@ -3182,42 +3203,42 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="View applied Discounts and Promotions for each line.">View applied Discounts and Promotions for each line.</value>
   </row>
   <row id="800225" trl="N">
-    <value column="Name" isTrl="N" original="Salary Category">Категория зарплаты</value>
+    <value column="Name" isTrl="Y" original="Salary Category">Категория зарплаты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define costs and date ranges for a specified salary category.">Define costs and date ranges for a specified salary category.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Define costs and date ranges for a specified salary category.">Define costs and date ranges for a specified salary category.</value>
   </row>
   <row id="800226" trl="N">
-    <value column="Name" isTrl="N" original="Cost">Расходы</value>
+    <value column="Name" isTrl="Y" original="Cost">Расходы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a salary category.">Create a salary category.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create a salary category.">Create a salary category.</value>
   </row>
   <row id="800227" trl="N">
-    <value column="Name" isTrl="N" original="Employee">Сотрудник</value>
+    <value column="Name" isTrl="Y" original="Employee">Сотрудник</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add employees to a specific cost center version.">Add employees to a specific cost center version.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add employees to a specific cost center version.">Add employees to a specific cost center version.</value>
   </row>
   <row id="800228" trl="N">
-    <value column="Name" isTrl="N" original="Indirect Cost">Косвенные затраты</value>
+    <value column="Name" isTrl="Y" original="Indirect Cost">Косвенные затраты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add indirect costs to specific cost center version.">Add indirect costs to specific cost center version.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add indirect costs to specific cost center version.">Add indirect costs to specific cost center version.</value>
   </row>
   <row id="800229" trl="N">
-    <value column="Name" isTrl="N" original="Indirect Cost">Косвенные затраты</value>
+    <value column="Name" isTrl="Y" original="Indirect Cost">Косвенные затраты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create a new indirect cost.">Create a new indirect cost.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Create a new indirect cost.">Create a new indirect cost.</value>
   </row>
   <row id="800230" trl="N">
-    <value column="Name" isTrl="N" original="Value">Значение</value>
+    <value column="Name" isTrl="Y" original="Value">Значение</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit values for this indirect cost.">Create and edit values for this indirect cost.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3231,7 +3252,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="It is possible to create as many business partners categories as required to be later on linked to the corresponding tax rates and business partners, if applicable.">It is possible to create as many business partners categories as required to be later on linked to the corresponding tax rates and business partners, if applicable.</value>
   </row>
   <row id="800232" trl="N">
-    <value column="Name" isTrl="N" original="Price List">Прейскурант</value>
+    <value column="Name" isTrl="Y" original="Price List">Прейскурант</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add price lists in order to include or exclude them from a selected Promotion/Discount.">Add price lists in order to include or exclude them from a selected Promotion/Discount.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3252,35 +3273,35 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create cost center versions to be used with specified time periods.">Create cost center versions to be used with specified time periods.</value>
   </row>
   <row id="800235" trl="N">
-    <value column="Name" isTrl="N" original="Machine">Оборудование</value>
+    <value column="Name" isTrl="Y" original="Machine">Оборудование</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add resources to a specific cost center version.">Add resources to a specific cost center version.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add resources to a specific cost center version.">Add resources to a specific cost center version.</value>
   </row>
   <row id="800236" trl="N">
-    <value column="Name" isTrl="N" original="Cost">Расходы</value>
+    <value column="Name" isTrl="Y" original="Cost">Расходы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Set the full cost of a related machine.">Set the full cost of a related machine.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Set the full cost of a related machine.">Set the full cost of a related machine.</value>
   </row>
   <row id="800237" trl="N">
-    <value column="Name" isTrl="N" original="Salary Category / Employee">Категория зарплаты / Работника</value>
+    <value column="Name" isTrl="Y" original="Salary Category / Employee">Категория зарплаты / Работник</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add or edit salary category workers that took part in a work requirement.">Add or edit salary category workers that took part in a work requirement.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add or edit salary category workers that took part in a work requirement.">Add or edit salary category workers that took part in a work requirement.</value>
   </row>
   <row id="800238" trl="N">
-    <value column="Name" isTrl="N" original="Indirect Cost">Косвенные затраты</value>
+    <value column="Name" isTrl="Y" original="Indirect Cost">Косвенные затраты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add and edit indirect costs related to a specified completed part of a work requirement.">Add and edit indirect costs related to a specified completed part of a work requirement.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add and edit indirect costs related to a specified completed part of a work requirement.">Add and edit indirect costs related to a specified completed part of a work requirement.</value>
   </row>
   <row id="800239" trl="N">
-    <value column="Name" isTrl="N" original="Machine">Оборудование</value>
+    <value column="Name" isTrl="Y" original="Machine">Оборудование</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add and edit resources used to complete a specified part of a work requirement.">Add and edit resources used to complete a specified part of a work requirement.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3294,21 +3315,21 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Manufacturing tab is used for products that are planned by the manufacturing plan.">Manufacturing tab is used for products that are planned by the manufacturing plan.</value>
   </row>
   <row id="800242" trl="N">
-    <value column="Name" isTrl="N" original="Employee">Работник</value>
+    <value column="Name" isTrl="Y" original="Employee">Работник</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define the employees that can perform a specified process.">Define the employees that can perform a specified process.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Define the employees that can perform a specified process.">Define the employees that can perform a specified process.</value>
   </row>
   <row id="800243" trl="N">
-    <value column="Name" isTrl="N" original="Machine">Оборудование</value>
+    <value column="Name" isTrl="Y" original="Machine">Оборудование</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define machines that are used for a specific process.">Define machines that are used for a specific process.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Define machines that are used for a specific process.">Define machines that are used for a specific process.</value>
   </row>
   <row id="800244" trl="N">
-    <value column="Name" isTrl="N" original="Indirect Cost">Косвенные затраты</value>
+    <value column="Name" isTrl="Y" original="Indirect Cost">Косвенные затраты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define indirect costs related to a specified process.">Define indirect costs related to a specified process.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3452,7 +3473,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="The initialization tab is a read-only tab which allows to review the &quot;Closing&quot; / &quot;Opening&quot; physical inventory created to validate a costing rule. Every time that a costing rule is validated a new record is created for each Organization and Warehouse. This record contains links to the physical inventories created.">The initialization tab is a read-only tab which allows to review the &quot;Closing&quot; / &quot;Opening&quot; physical inventory created to validate a costing rule. Every time that a costing rule is validated a new record is created for each Organization and Warehouse. This record contains links to the physical inventories created.</value>
+    <value column="Help" isTrl="N" original="The initialization tab is a read-only tab which allows to review the &quot;Closing&quot; / &quot;Opening&quot; physical inventory created to validate a costing rule. Every time that a costing rule is validated a new record is created for each Organization and Warehouse. This record contains links to the physical inventories created.">The initialization tab is a read-only tab which allows to review the "Closing" / "Opening" physical inventory created to validate a costing rule. Every time that a costing rule is validated a new record is created for each Organization and Warehouse. This record contains links to the physical inventories created.</value>
   </row>
   <row id="81F3CB82FABC4208BA76DEBB3728A14B" trl="N">
     <value column="Name" isTrl="N" original="Templates">Templates</value>
@@ -3545,6 +3566,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Accounting information related to the physical inventory">Accounting information related to the physical inventory</value>
   </row>
+  <row id="97E1F35BE08840AFB1DA4FE66D329542" trl="N">
+    <value column="Name" isTrl="Y" original="End Year Close">Конец года закрыт</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="99DCADEC674D4ECCB158CA5F3DDBFF83" trl="N">
     <value column="Name" isTrl="Y" original="Column">Столбец</value>
     <value column="CommitWarning" isTrl="N" original=""/>
@@ -3609,7 +3637,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Accounting process defined to be executed at posting time">Accounting process defined to be executed at posting time</value>
   </row>
   <row id="ABCEE18A05EB4C7CADB2DC30C9924717" trl="N">
-    <value column="Name" isTrl="N" original="Salary Category / Employee">Категория зарплаты / Работника</value>
+    <value column="Name" isTrl="Y" original="Salary Category / Employee">Категория зарплаты / Работник</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add or edit salary category workers that took part in a work requirement.">Add or edit salary category workers that took part in a work requirement.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3692,6 +3720,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="B1A51802BAF64D34BC59B91EA36D5064" trl="N">
+    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Accounting information related to the matched invoices">Accounting information related to the matched invoices</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Accounting information related to the matched invoices">Accounting information related to the matched invoices</value>
   </row>
   <row id="B30CF79CF71245339E94B4B332BAABF1" trl="N">
     <value column="Name" isTrl="N" original="Include">Include</value>
@@ -3792,7 +3827,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="CCE9944CB341484AAF200340ABAEE787" trl="N">
-    <value column="Name" isTrl="N" original="Indirect Cost">Косвенные затраты</value>
+    <value column="Name" isTrl="Y" original="Indirect Cost">Косвенные затраты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add and edit indirect costs related to a specified completed part of a work requirement.">Add and edit indirect costs related to a specified completed part of a work requirement.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3881,6 +3916,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original="Add products to be included in your sales quotation.  Each product can be added by creating a new line.">Add products to be included in your sales quotation.  Each product can be added by creating a new line.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add products to be included in your sales quotation.  Each product can be added by creating a new line.">Add products to be included in your sales quotation.  Each product can be added by creating a new line.</value>
+  </row>
+  <row id="E429CB8F5CDF4D8395B76D553E72A2D0" trl="N">
+    <value column="Name" isTrl="N" original="Period Control">Period Control</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="EF42DED63D3641ED83C4141DFAB2D607" trl="N">
     <value column="Name" isTrl="Y" original="Payment Plan">График оплаты</value>

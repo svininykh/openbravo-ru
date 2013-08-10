@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="0.1">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="">
   <row id="0E87BDD6E59C4B5FB9273E2580CC76B2" trl="N">
     <value column="Name" isTrl="N" original="Navigation Bar Component Role Access">Navigation Bar Component Role Access</value>
     <value column="PrintName" isTrl="N" original="Navigation Bar Component Role Access">Navigation Bar Component Role Access</value>
@@ -11,10 +11,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="18EA6EC150C545AE8C5E0A3BD4BD4871" trl="N">
-    <value column="Name" isTrl="N" original="Value">Значение</value>
-    <value column="PrintName" isTrl="N" original="Value">Значение</value>
-    <value column="Description" isTrl="N" original="The value for the record.">Значение для записи.</value>
-    <value column="Help" isTrl="N" original="The value for the record.">Значение для записи.</value>
+    <value column="Name" isTrl="Y" original="Value">Значение</value>
+    <value column="PrintName" isTrl="Y" original="Value">Значение</value>
+    <value column="Description" isTrl="Y" original="The value for the record.">Значение для записи.</value>
+    <value column="Help" isTrl="Y" original="The value for the record.">Значение для записи.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -211,8 +211,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="927FD512FEF6BBA9E040A8C0CF073D3C" trl="N">
-    <value column="Name" isTrl="N" original="Value Number">Значение число</value>
-    <value column="PrintName" isTrl="N" original="Value Number">Значение число</value>
+    <value column="Name" isTrl="Y" original="Value Number">Значение число</value>
+    <value column="PrintName" isTrl="Y" original="Value Number">Значение число</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -231,8 +231,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="927FD512FEFABBA9E040A8C0CF073D3C" trl="N">
-    <value column="Name" isTrl="N" original="Value Date">Значение дата</value>
-    <value column="PrintName" isTrl="N" original="Value Date">Значение дата</value>
+    <value column="Name" isTrl="Y" original="Value Date">Значение дата</value>
+    <value column="PrintName" isTrl="Y" original="Value Date">Значение дата</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -241,8 +241,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="927FD512FEFCBBA9E040A8C0CF073D3C" trl="N">
-    <value column="Name" isTrl="N" original="Value String">Значение строка</value>
-    <value column="PrintName" isTrl="N" original="Value String">Значение строка</value>
+    <value column="Name" isTrl="Y" original="Value String">Значение строка</value>
+    <value column="PrintName" isTrl="Y" original="Value String">Значение строка</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -294,7 +294,9 @@
     <value column="Name" isTrl="N" original="Process Definition">Process Definition</value>
     <value column="PrintName" isTrl="N" original="Process Definition">Process Definition</value>
     <value column="Description" isTrl="N" original="Process to be executed by the button">Process to be executed by the button</value>
-    <value column="Help" isTrl="N" original="Process to be executed by the button. There are 2 kinds of processes:&#10;*&quot;Process&quot;: Implements the 2.50 style processes with a Servlet.&#10;*&quot;Process Definition&quot;: Implements 3.0 processes with a pure SmartClient UI.">Process to be executed by the button. There are 2 kinds of processes:&#10;*&quot;Process&quot;: Implements the 2.50 style processes with a Servlet.&#10;*&quot;Process Definition&quot;: Implements 3.0 processes with a pure SmartClient UI.</value>
+    <value column="Help" isTrl="N" original="Process to be executed by the button. There are 2 kinds of processes:&#10;*&quot;Process&quot;: Implements the 2.50 style processes with a Servlet.&#10;*&quot;Process Definition&quot;: Implements 3.0 processes with a pure SmartClient UI.">Process to be executed by the button. There are 2 kinds of processes:
+*"Process": Implements the 2.50 style processes with a Servlet.
+*"Process Definition": Implements 3.0 processes with a pure SmartClient UI.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
