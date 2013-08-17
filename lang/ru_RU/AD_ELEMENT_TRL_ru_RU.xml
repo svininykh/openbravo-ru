@@ -3086,8 +3086,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1350" trl="N">
-    <value column="Name" isTrl="N" original="City">City</value>
-    <value column="PrintName" isTrl="N" original="City">City</value>
+    <value column="Name" isTrl="Y" original="City">Город</value>
+    <value column="PrintName" isTrl="Y" original="City">Город</value>
     <value column="Description" isTrl="N" original="City or the Credit Card or Account Holder">City or the Credit Card or Account Holder</value>
     <value column="Help" isTrl="N" original="The Account City indicates the City of the Credit Card or Account holder">The Account City indicates the City of the Credit Card or Account holder</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3096,9 +3096,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1351" trl="N">
-    <value column="Name" isTrl="N" original="Email">Email</value>
-    <value column="PrintName" isTrl="N" original="EMail">EMail</value>
-    <value column="Description" isTrl="N" original="Email Address">Email Address</value>
+    <value column="Name" isTrl="Y" original="Email">Эл. почта</value>
+    <value column="PrintName" isTrl="Y" original="EMail">Эл. почта</value>
+    <value column="Description" isTrl="Y" original="Email Address">Эл. почта</value>
     <value column="Help" isTrl="N" original="The EMail Address indicates the EMail address off the Credit Card or Account holder.">The EMail Address indicates the EMail address off the Credit Card or Account holder.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -3106,8 +3106,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1352" trl="N">
-    <value column="Name" isTrl="N" original="Driver's License No.">Driver's License No.</value>
-    <value column="PrintName" isTrl="N" original="Driver License">Driver License</value>
+    <value column="Name" isTrl="Y" original="Driver's License No.">Водительские права №</value>
+    <value column="PrintName" isTrl="Y" original="Driver License">Водительские права №</value>
     <value column="Description" isTrl="N" original="Payment Identification - Driver License">Payment Identification - Driver License</value>
     <value column="Help" isTrl="N" original="The Driver's License being used as identification.">The Driver's License being used as identification.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3116,8 +3116,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1353" trl="N">
-    <value column="Name" isTrl="N" original="Social Security No.">Social Security No.</value>
-    <value column="PrintName" isTrl="N" original="Social Security No">Social Security No</value>
+    <value column="Name" isTrl="Y" original="Social Security No.">Социальная карта №</value>
+    <value column="PrintName" isTrl="Y" original="Social Security No">Социальная карта №</value>
     <value column="Description" isTrl="N" original="Payment Identification - Social Security No">Payment Identification - Social Security No</value>
     <value column="Help" isTrl="N" original="The Social Security number being used as identification.">The Social Security number being used as identification.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3126,8 +3126,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1354" trl="N">
-    <value column="Name" isTrl="N" original="Name">Name</value>
-    <value column="PrintName" isTrl="N" original="Account Name">Account Name</value>
+    <value column="Name" isTrl="Y" original="Name">Имя</value>
+    <value column="PrintName" isTrl="Y" original="Account Name">Название или имя держателя карты</value>
     <value column="Description" isTrl="N" original="Name on Credit Card or Account holder">Name on Credit Card or Account holder</value>
     <value column="Help" isTrl="N" original="The Name of the Credit Card or Account holder.">The Name of the Credit Card or Account holder.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3136,8 +3136,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1355" trl="N">
-    <value column="Name" isTrl="N" original="State">State</value>
-    <value column="PrintName" isTrl="N" original="State">State</value>
+    <value column="Name" isTrl="Y" original="State">Штат</value>
+    <value column="PrintName" isTrl="Y" original="State">Штат</value>
     <value column="Description" isTrl="N" original="State of the Credit Card or Account holder">State of the Credit Card or Account holder</value>
     <value column="Help" isTrl="N" original="The State of the Credit Card or Account holder">The State of the Credit Card or Account holder</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3146,8 +3146,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1356" trl="N">
-    <value column="Name" isTrl="N" original="Street">Street</value>
-    <value column="PrintName" isTrl="N" original="Street">Street</value>
+    <value column="Name" isTrl="Y" original="Street">Улица</value>
+    <value column="PrintName" isTrl="Y" original="Street">Улица</value>
     <value column="Description" isTrl="N" original="Street address of the Credit Card or Account holder">Street address of the Credit Card or Account holder</value>
     <value column="Help" isTrl="N" original="The Street Address of the Credit Card or Account holder.">The Street Address of the Credit Card or Account holder.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3156,8 +3156,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1357" trl="N">
-    <value column="Name" isTrl="N" original="Postal Code">Postal Code</value>
-    <value column="PrintName" isTrl="N" original="Zip">Zip</value>
+    <value column="Name" isTrl="Y" original="Postal Code">Индекс</value>
+    <value column="PrintName" isTrl="Y" original="Zip">Индекс</value>
     <value column="Description" isTrl="N" original="Zip Code of the Credit Card or Account Holder">Zip Code of the Credit Card or Account Holder</value>
     <value column="Help" isTrl="N" original="The Zip Code of the Credit Card or Account Holder.">The Zip Code of the Credit Card or Account Holder.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8328,8 +8328,8 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="3C8963BA09134DA48BF3B762216A6FFB" trl="N">
-    <value column="Name" isTrl="Y" original="List Price">Официальная цена</value>
-    <value column="PrintName" isTrl="Y" original="List Price">Официальная цена</value>
+    <value column="Name" isTrl="Y" original="List Price">Цена прейскуранта</value>
+    <value column="PrintName" isTrl="Y" original="List Price">Цена прейскуранта</value>
     <value column="Description" isTrl="N" original="The official price of a product in a specified currency.">The official price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The List Price is the official price stated by the selected pricelist and the currency of the document.">The List Price is the official price stated by the selected pricelist and the currency of the document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9500,14 +9500,14 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="520" trl="N">
-    <value column="Name" isTrl="Y" original="List Price">Официальная цена без налога</value>
-    <value column="PrintName" isTrl="Y" original="List Price">Официальная цена без налога</value>
+    <value column="Name" isTrl="Y" original="List Price">Цена прейскуранта без налога</value>
+    <value column="PrintName" isTrl="Y" original="List Price">Цена прейскуранта без налога</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
-    <value column="PO_Name" isTrl="Y" original="List Price">Официальная цена без налога</value>
-    <value column="PO_PrintName" isTrl="Y" original="List Price">Официальная цена без налога</value>
+    <value column="PO_Name" isTrl="Y" original="List Price">Цена прейскуранта без налога</value>
+    <value column="PO_PrintName" isTrl="Y" original="List Price">Цена прейскуранта без налога</value>
   </row>
   <row id="521EA21E6E7777ABE040007F010016C0" trl="N">
     <value column="Name" isTrl="N" original="Table Access">Table Access</value>
@@ -20687,8 +20687,8 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="Y" original="Price Limit">Лимит цены</value>
   </row>
   <row id="957" trl="N">
-    <value column="Name" isTrl="Y" original="Unit Price">Цена за единицу</value>
-    <value column="PrintName" isTrl="Y" original="Unit Price">Цена за единицу</value>
+    <value column="Name" isTrl="Y" original="Unit Price">Цена единицы</value>
+    <value column="PrintName" isTrl="Y" original="Unit Price">Цена единицы</value>
     <value column="Description" isTrl="N" original="The regular or normal price of a product in the respective price list.">The regular or normal price of a product in the respective price list.</value>
     <value column="Help" isTrl="N" original="The Standard Price indicates the standard or normal price for a product on this price list. This price might be net or gross depending on its price list configuration.">The Standard Price indicates the standard or normal price for a product on this price list. This price might be net or gross depending on its price list configuration.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20961,8 +20961,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="9F815073C39E4506A1C74BB3667C6B57" trl="N">
-    <value column="Name" isTrl="Y" original="Unit Price">Цена за единицу</value>
-    <value column="PrintName" isTrl="Y" original="Unit Price">Цена за единицу</value>
+    <value column="Name" isTrl="Y" original="Unit Price">Цена единицы</value>
+    <value column="PrintName" isTrl="Y" original="Unit Price">Цена единицы</value>
     <value column="Description" isTrl="N" original="The price that will be paid for a specified item.">The price that will be paid for a specified item.</value>
     <value column="Help" isTrl="N" original="The actual price indicates the price for a product in source currency.">The actual price indicates the price for a product in source currency.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -23094,8 +23094,8 @@ This field is populated in case the used price list includes taxes.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="F7DA034AB59111DDB8250016D4EE9DB3" trl="N">
-    <value column="Name" isTrl="N" original="General Accounts">General Accounts</value>
-    <value column="PrintName" isTrl="N" original="General Accounts">General Accounts</value>
+    <value column="Name" isTrl="N" original="General Accounts">Основные счета</value>
+    <value column="PrintName" isTrl="N" original="General Accounts">Основные счета</value>
     <value column="Description" isTrl="N" original="Accounts being used for general purposes such as income statement account, error and balance handling accounts.">Accounts being used for general purposes such as income statement account, error and balance handling accounts.</value>
     <value column="Help" isTrl="N" original="General purpose accounts can be defined here for the General Ledger. This window as well holds additional configuration related to fiscal year closing.">General purpose accounts can be defined here for the General Ledger. This window as well holds additional configuration related to fiscal year closing.</value>
     <value column="PO_Description" isTrl="N" original=""/>

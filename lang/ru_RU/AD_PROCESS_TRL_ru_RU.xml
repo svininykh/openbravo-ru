@@ -699,13 +699,13 @@ This process:&lt;br/&gt;
     <value column="Help" isTrl="N" original="Creates standard module for customizations">Creates standard module for customizations</value>
   </row>
   <row id="800000" trl="N">
-    <value column="Name" isTrl="Y" original="Journal Entries Report">Отчет Журнала проводок</value>
-    <value column="Description" isTrl="Y" original="Journal Entries Report">Отчет Журнала проводок</value>
+    <value column="Name" isTrl="Y" original="Journal Entries Report">Журнал регистров</value>
+    <value column="Description" isTrl="Y" original="Journal Entries Report">Журнал регистров</value>
     <value column="Help" isTrl="N" original="The journal entries report is a list of all the journal vouchers of an organization and general ledger shown in a chronological order.">The journal entries report is a list of all the journal vouchers of an organization and general ledger shown in a chronological order.</value>
   </row>
   <row id="800001" trl="N">
-    <value column="Name" isTrl="Y" original="General Ledger Report">Отчет Главной книги</value>
-    <value column="Description" isTrl="Y" original="Report general ledger">Отчет Главной книги</value>
+    <value column="Name" isTrl="Y" original="General Ledger Report">Оборотно сальдовая ведомость</value>
+    <value column="Description" isTrl="Y" original="Report general ledger">Оборотно сальдовая ведомость</value>
     <value column="Help" isTrl="N" original="The General Ledger report lists every ledger &quot;subaccount&quot; and its debit and credit ledger entries within a given period of time.">The General Ledger report lists every ledger "subaccount" and its debit and credit ledger entries within a given period of time.</value>
   </row>
   <row id="800002" trl="N">
@@ -1151,12 +1151,10 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Description" isTrl="N" original="Remittance printed">Remittance printed</value>
     <value column="Help" isTrl="N" original="Remittance printed">Remittance printed</value>
   </row>
-  <row id="800147" trl="N">
+  <row id="800147" trl="Y">
     <value column="Name" isTrl="Y" original="Delete Client">Удалить подключение</value>
-    <value column="Description" isTrl="N" original="This process deletes a client">This process deletes a client</value>
-    <value column="Help" isTrl="N" original="This process deletes a client and all of its data. This operation cannot be undone so please exercise caution.&#10;Under certain circumstances, this process fails to complete successfully, leaving the system in an inconsistent state that prevents it from working correctly. We strongly advise to backup your system before initiating this operation.&#10;This operation can take a long time to complete.">This process deletes a client and all of its data. This operation cannot be undone so please exercise caution.
-Under certain circumstances, this process fails to complete successfully, leaving the system in an inconsistent state that prevents it from working correctly. We strongly advise to backup your system before initiating this operation.
-This operation can take a long time to complete.</value>
+    <value column="Description" isTrl="Y" original="This process deletes a client">Эта обработка удаляет подключение</value>
+    <value column="Help" isTrl="Y" original="This process deletes a client and all of its data. This operation cannot be undone so please exercise caution.&#10;Under certain circumstances, this process fails to complete successfully, leaving the system in an inconsistent state that prevents it from working correctly. We strongly advise to backup your system before initiating this operation.&#10;This operation can take a long time to complete.">Эта обработка предназначена для удаления выбранного подключения и всех связанных с ним данных. Пожалуйста будьте осторожны, её выполнение нельзя прервать. Также при определённых условиях данная обработка может быть завершена с ошибками, что приведёт к неустойчивой работе всей системы. Мы настоятельно рекомендуем сделать резервную копию вашей системы до начала этой операции. Выполнение этой обработки может потребовать достаточно продолжительного времени.</value>
   </row>
   <row id="800148" trl="N">
     <value column="Name" isTrl="N" original="Offers Report">Offers Report</value>

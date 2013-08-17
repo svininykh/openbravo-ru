@@ -1077,8 +1077,8 @@
     <value column="Description" isTrl="N" original="User doesn't have non-restricted roles">User doesn't have non-restricted roles</value>
   </row>
   <row id="273" trl="N">
-    <value column="Name" isTrl="N" original="Account">Account</value>
-    <value column="Description" isTrl="N" original="Natural Account">Natural Account</value>
+    <value column="Name" isTrl="Y" original="Account">Натуральный счёт</value>
+    <value column="Description" isTrl="Y" original="Natural Account">Натуральный счёт</value>
   </row>
   <row id="274" trl="N">
     <value column="Name" isTrl="Y" original="Product">Товар</value>
@@ -2725,23 +2725,23 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800038" trl="N">
-    <value column="Name" isTrl="N" original="Positive ONLY">Positive ONLY</value>
+    <value column="Name" isTrl="Y" original="Positive ONLY">Только положительный</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800039" trl="N">
-    <value column="Name" isTrl="N" original="Negative ONLY">Negative ONLY</value>
+    <value column="Name" isTrl="Y" original="Negative ONLY">Только отрицательный</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800040" trl="N">
-    <value column="Name" isTrl="N" original="Algebraic">Algebraic</value>
+    <value column="Name" isTrl="Y" original="Algebraic">Алгебраический</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800041" trl="N">
-    <value column="Name" isTrl="N" original="Heading">Heading</value>
+    <value column="Name" isTrl="Y" original="Heading">Раздел</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800042" trl="N">
-    <value column="Name" isTrl="N" original="Account">Account</value>
+    <value column="Name" isTrl="Y" original="Account">Счёт</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800043" trl="N">
@@ -2749,7 +2749,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800044" trl="N">
-    <value column="Name" isTrl="N" original="Subaccount">Subaccount</value>
+    <value column="Name" isTrl="Y" original="Subaccount">Субсчёт</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800045" trl="N">

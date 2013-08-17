@@ -680,7 +680,7 @@
     <value column="Help" isTrl="N" original="Add organizations in order to include or exclude them from a selected Promotion/Discount.">Add organizations in order to include or exclude them from a selected Promotion/Discount.</value>
   </row>
   <row id="200" trl="N">
-    <value column="Name" isTrl="N" original="General Accounts">General Accounts</value>
+    <value column="Name" isTrl="Y" original="General Accounts">Основные счета</value>
     <value column="CommitWarning" isTrl="N" original="For changes to become effective, you must re-login and re-start the Application Server.">For changes to become effective, you must re-login and re-start the Application Server.</value>
     <value column="Description" isTrl="N" original="Add and edit G/L accounts to be used by default in the application.">Add and edit G/L accounts to be used by default in the application.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1858,18 +1858,18 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Parameters for the object in the web.xml file">Parameters for the object in the web.xml file</value>
   </row>
   <row id="4AAC9E63C3B84B74AC4F35B5A1F8B54C" trl="N">
-    <value column="Name" isTrl="N" original="Documents">Documents</value>
+    <value column="Name" isTrl="Y" original="Documents">Документы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4CA5324BD037430B8E682B41C1DAA8CC" trl="N">
-    <value column="Name" isTrl="N" original="Accounting dimension">Accounting dimension</value>
+    <value column="Name" isTrl="N" original="Accounting dimension">Учёт по субконто</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Description" isTrl="N" original="Accounting Dimension">Учёт по субконто</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Help" isTrl="N" original="Accounting Dimension">Учёт по субконто</value>
   </row>
   <row id="4DE17FC05C3843C4959166BB67967486" trl="N">
     <value column="Name" isTrl="Y" original="Period Control Log">Контроль открытия/закрытия периода</value>
@@ -2412,7 +2412,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit role access to a particular table.">Edit role access to a particular table.</value>
   </row>
   <row id="800041" trl="N">
-    <value column="Name" isTrl="N" original="Active Tables">Active Tables</value>
+    <value column="Name" isTrl="Y" original="Active Tables">Активные таблицы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add and edit DB tables to be included in accounting processes.">Add and edit DB tables to be included in accounting processes.</value>
     <value column="Filtername" isTrl="N" original=""/>
