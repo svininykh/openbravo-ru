@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MENU" version="0.1">
   <row id="04B49FB13913462C8ACE2E3906440E3F" trl="N">
-    <value column="Name" isTrl="Y" original="Module">Управление модулями</value>
+    <value column="Name" isTrl="Y" original="Module">Модули</value>
     <value column="Description" isTrl="Y" original="Module management">Управление модулями</value>
   </row>
   <row id="08B67705E5B44C5DB2196B9A1CD1ABD7" trl="N">
@@ -69,7 +69,7 @@
     <value column="Description" isTrl="N" original="Define conversion rates to be used for currencies defined in the application.">Define conversion rates to be used for currencies defined in the application.</value>
   </row>
   <row id="104" trl="N">
-    <value column="Name" isTrl="Y" original="Fiscal Calendar">Фискальный календарь</value>
+    <value column="Name" isTrl="Y" original="Fiscal Calendar">Отчетный календарь</value>
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars and periods for accounting purposes.">Create multiple fiscal calendars and periods for accounting purposes.</value>
   </row>
   <row id="105" trl="N">
@@ -1449,7 +1449,7 @@
     <value column="Description" isTrl="N" original="Valued Stock Report">Valued Stock Report</value>
   </row>
   <row id="A519EEB1C1994CCF8208E5B73B5A04C6" trl="N">
-    <value column="Name" isTrl="N" original="Costing Rules">Costing Rules</value>
+    <value column="Name" isTrl="N" original="Costing Rules">Метод калькуляции</value>
     <value column="Description" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account ">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account </value>
   </row>
   <row id="A5A76D4C0D084A80AFB9A2A8F4A0A8AE" trl="N">
@@ -1461,8 +1461,8 @@
     <value column="Description" isTrl="N" original="Manage current instance">Manage current instance</value>
   </row>
   <row id="B73A1BE38C6F4F4BB17A3B6FA8C3293E" trl="N">
-    <value column="Name" isTrl="Y" original="Module Management">Управление модулями</value>
-    <value column="Description" isTrl="N" original="Mangament for installed modules">Mangament for installed modules</value>
+    <value column="Name" isTrl="Y" original="Module Management">Настройки модулей</value>
+    <value column="Description" isTrl="Y" original="Mangament for installed modules">Настройка установленных модулей</value>
   </row>
   <row id="B902D95D3F654C7096C428F50381E38A" trl="N">
     <value column="Name" isTrl="Y" original="Process Monitor">Отслеживание обработки</value>

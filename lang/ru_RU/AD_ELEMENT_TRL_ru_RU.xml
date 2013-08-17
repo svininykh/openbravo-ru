@@ -11121,9 +11121,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="58326C677589D5F2E040007F010102FE" trl="N">
-    <value column="Name" isTrl="Y" original="Allow Period Control">Применяется налоговый период</value>
-    <value column="PrintName" isTrl="Y" original="Allow Period Control">Применяется налоговый период</value>
-    <value column="Description" isTrl="Y" original="Specifies if the organization can open and close a period control">Указывается, если организации необходимо открывать и закрывать периоды для налогового учёта. </value>
+    <value column="Name" isTrl="Y" original="Allow Period Control">Применяется отчётный период</value>
+    <value column="PrintName" isTrl="Y" original="Allow Period Control">Применяется отчётный период</value>
+    <value column="Description" isTrl="Y" original="Specifies if the organization can open and close a period control">Указывается, если организации необходимо открывать и закрывать периоды для финансовой отчётности.</value>
     <value column="Help" isTrl="N" original="An organization that is checked as business unit or as a legal entity can open and close a period control.">An organization that is checked as business unit or as a legal entity can open and close a period control.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -12203,9 +12203,9 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="636" trl="N">
-    <value column="Name" isTrl="Y" original="Fiscal Year">Фискальный год</value>
-    <value column="PrintName" isTrl="Y" original="Year">Фискальный год</value>
-    <value column="Description" isTrl="N" original="Calendar Year">Calendar Year</value>
+    <value column="Name" isTrl="Y" original="Fiscal Year">Год отчёта</value>
+    <value column="PrintName" isTrl="Y" original="Year">Год</value>
+    <value column="Description" isTrl="Y" original="Calendar Year">Календарный год</value>
     <value column="Help" isTrl="N" original="The Year identifies the accounting year for a calendar.">The Year identifies the accounting year for a calendar.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -21671,8 +21671,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B928FFF690840124E040007F01004E03" trl="N">
-    <value column="Name" isTrl="N" original="Costing Rule">Costing Rule</value>
-    <value column="PrintName" isTrl="N" original="Costing Rule">Costing Rule</value>
+    <value column="Name" isTrl="Y" original="Costing Rule">Метод калькуляции</value>
+    <value column="PrintName" isTrl="Y" original="Costing Rule">Метод калькуляции</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Identifies a costing rule for cost calculation. The costing rule defines the algorithm to be used, the date is valid from and if warehouses are used as a cost dimension.">Identifies a costing rule for cost calculation. The costing rule defines the algorithm to be used, the date is valid from and if warehouses are used as a cost dimension.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21734,7 +21734,7 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="Name" isTrl="N" original="Process_Rule">Process_Rule</value>
     <value column="PrintName" isTrl="N" original="Process_Rule">Process_Rule</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Validate and initialize the Costing Rule">Validate and initialize the Costing Rule</value>
+    <value column="Help" isTrl="Y" original="Validate and initialize the Costing Rule">Проверить и инициализировать метод калькуляции</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -21771,8 +21771,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BACF545D3164DE54E040007F01006998" trl="N">
-    <value column="Name" isTrl="N" original="Costing Rule Product">Costing Rule Product</value>
-    <value column="PrintName" isTrl="N" original="Costing Rule Product">Costing Rule Product</value>
+    <value column="Name" isTrl="Y" original="Costing Rule Product">Метод калькуляции себестоимости</value>
+    <value column="PrintName" isTrl="Y" original="Costing Rule Product">Метод калькуляции себестоимости</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="A costing rule that applies to the product.">A costing rule that applies to the product.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21821,8 +21821,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BB32B80D375CF860E040007F01007FB3" trl="N">
-    <value column="Name" isTrl="N" original="Costing Rule Initialization">Costing Rule Initialization</value>
-    <value column="PrintName" isTrl="N" original="Costing Rule Initialization">Costing Rule Initialization</value>
+    <value column="Name" isTrl="Y" original="Costing Rule Initialization">Инициализация метода калькуляции</value>
+    <value column="PrintName" isTrl="Y" original="Costing Rule Initialization">Инициализация метода калькуляции</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="A initialization record of a Costing Rule. Contains the close and initialization physical inventories for the corresponding organization and warehouse.">A initialization record of a Costing Rule. Contains the close and initialization physical inventories for the corresponding organization and warehouse.</value>
     <value column="PO_Description" isTrl="N" original=""/>

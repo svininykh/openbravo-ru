@@ -128,7 +128,7 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. ">This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. </value>
   </row>
   <row id="117" trl="N">
-    <value column="Name" isTrl="Y" original="Fiscal Calendar">Фискальный календарь</value>
+    <value column="Name" isTrl="Y" original="Fiscal Calendar">Отчетный календарь</value>
     <value column="Description" isTrl="N" original="Create multiple fiscal calendars and periods for accounting purposes.">Create multiple fiscal calendars and periods for accounting purposes.</value>
     <value column="Help" isTrl="N" original="&quot;Legal entities with accounting&quot; organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the periods of each year required to get an accurate organization's accounting practice.&#10;&#10;">"Legal entities with accounting" organization types must have a fiscal calendar assigned while rest of organization types can inherit it from its parent.&lt;br&gt;A  calendar contains years and the periods of each year required to get an accurate organization's accounting practice.
 
@@ -545,7 +545,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="3E945A9102144C16BD211D211089C2DF" trl="N">
-    <value column="Name" isTrl="N" original="Costing Rules">Costing Rules</value>
+    <value column="Name" isTrl="N" original="Costing Rules">Методы калькуляции</value>
     <value column="Description" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account ">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account </value>
     <value column="Help" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account while calculating costs.">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account while calculating costs.</value>
   </row>
@@ -960,7 +960,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define priorities for payment plans created when processing invoices and orders. You can mark as default the priority you want to be displayed as selected in Invoice and Order windows. You can only mark as default one priority.">Define priorities for payment plans created when processing invoices and orders. You can mark as default the priority you want to be displayed as selected in Invoice and Order windows. You can only mark as default one priority.</value>
   </row>
   <row id="D586192D06C14EC182B44CAD34CA4295" trl="N">
-    <value column="Name" isTrl="Y" original="Module">Управление модулями</value>
+    <value column="Name" isTrl="Y" original="Module">Модули</value>
     <value column="Description" isTrl="Y" original="Module management">Управление модулями</value>
     <value column="Help" isTrl="N" original="Manages the modules currently installed.">Manages the modules currently installed.</value>
   </row>

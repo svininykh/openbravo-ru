@@ -2083,14 +2083,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="The User Defined Dimension 1 window allows to create the values of the user defined accounting dimension.">The User Defined Dimension 1 window allows to create the values of the user defined accounting dimension.</value>
   </row>
   <row id="681796AC383440BA8212EC80431E89E9" trl="N">
-    <value column="Name" isTrl="N" original="Costing Rule">Costing Rule</value>
+    <value column="Name" isTrl="Y" original="Costing Rule">Метод калькуляции</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Costing rule tab allows to review the costing rules that apply to the product within a given date range.">Costing rule tab allows to review the costing rules that apply to the product within a given date range.</value>
   </row>
   <row id="6868B706DA8340158DE353A6C252A564" trl="N">
-    <value column="Name" isTrl="N" original="Costing Rule">Costing Rule</value>
+    <value column="Name" isTrl="Y" original="Costing Rule">Метод калькуляции</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3469,7 +3469,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Alert tab list the events happening which generate the corresponding alert.">Alert tab list the events happening which generate the corresponding alert.</value>
   </row>
   <row id="8086A0E5732A45C398A625D766C88FAD" trl="N">
-    <value column="Name" isTrl="N" original="Initialization">Initialization</value>
+    <value column="Name" isTrl="Y" original="Initialization">Инициализация</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
