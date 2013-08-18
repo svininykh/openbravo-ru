@@ -45,9 +45,9 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="D906A4F1EF4E4372A32DDD1BD34A54BF" trl="N">
-    <value column="Name" isTrl="N" original="Cascade">Cascade</value>
-    <value column="Description" isTrl="N" original="Also mark as ready organization every child organization">Also mark as ready organization every child organization</value>
-    <value column="Help" isTrl="N" original="Also mark as ready organization every child organization">Also mark as ready organization every child organization</value>
+  <row id="D906A4F1EF4E4372A32DDD1BD34A54BF" trl="Y">
+    <value column="Name" isTrl="Y" original="Cascade">Каскадно</value>
+    <value column="Description" isTrl="Y" original="Also mark as ready organization every child organization">Также установить готовность для каждой дочерней организации</value>
+    <value column="Help" isTrl="Y" original="Also mark as ready organization every child organization">Также установить готовность для каждой дочерней организации</value>
   </row>
 </compiereTrl>

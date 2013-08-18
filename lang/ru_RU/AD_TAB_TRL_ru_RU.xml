@@ -1032,7 +1032,7 @@ For changes to become effective, you must re-login and re-start the Application 
     <value column="Help" isTrl="Y" original="Lines tab is a list of the products moved between warehouses and storage bins.">Add products and quantities for a specific goods movement. Each line represents one particular product.</value>
   </row>
   <row id="262" trl="N">
-    <value column="Name" isTrl="N" original="Product Transactions">Product Transactions</value>
+    <value column="Name" isTrl="Y" original="Product Transactions">Проводки по товарам</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View all products transactions related to the selected warehouse.">View all products transactions related to the selected warehouse.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3834,7 +3834,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add and edit indirect costs related to a specified completed part of a work requirement.">Add and edit indirect costs related to a specified completed part of a work requirement.</value>
   </row>
   <row id="CD573DF1E351485EA2B2DE487DCACA6F" trl="N">
-    <value column="Name" isTrl="N" original="Process Request">Process Request</value>
+    <value column="Name" isTrl="Y" original="Process Request">Задание обработки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Request processes and reports to be scheduled and executed in the background.">Request processes and reports to be scheduled and executed in the background.</value>
     <value column="Filtername" isTrl="N" original=""/>

@@ -3117,11 +3117,11 @@ Be aware that if the daily limit is exceeded @extraDays@ more times in the @numb
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3F6B20FBC89E4B758183842119CC290A" trl="N">
-    <value column="MsgText" isTrl="N" original="The process has been scheduled successfully.">The process has been scheduled successfully.</value>
+    <value column="MsgText" isTrl="N" original="The process has been scheduled successfully.">Обработка успешно запланирована.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3FD55790498743738385EED817EC853E" trl="N">
-    <value column="MsgText" isTrl="N" original="Process cannot be scheduled">Process cannot be scheduled</value>
+    <value column="MsgText" isTrl="N" original="Process cannot be scheduled">Обработка не запланирована.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="400" trl="N">
@@ -8154,7 +8154,7 @@ To find out more about this command, and why you should use it, you can read &lt
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F7A6AFA7E34D4A0099E7A7E8021C5ECB" trl="N">
-    <value column="MsgText" isTrl="N" original="The Process Request details you have entered are invalid. Please make sure the process frequency and interval are correct.">The Process Request details you have entered are invalid. Please make sure the process frequency and interval are correct.</value>
+    <value column="MsgText" isTrl="Y" original="The Process Request details you have entered are invalid. Please make sure the process frequency and interval are correct.">Заданные вами параметры запроса для выполнения обработки неверны. Пожалуйста убедитесь в правильности заполнения периодичности и интервала выполнения.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F7A7B276D3F04AE78F8B50CE462B0F89" trl="N">

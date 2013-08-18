@@ -3912,8 +3912,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1506" trl="N">
-    <value column="Name" isTrl="N" original="Frequency">Frequency</value>
-    <value column="PrintName" isTrl="N" original="Frequency">Frequency</value>
+    <value column="Name" isTrl="Y" original="Frequency">Периодичность</value>
+    <value column="PrintName" isTrl="Y" original="Frequency">Периодичность</value>
     <value column="Description" isTrl="N" original="The number of times something occurs during a specified time period.">The number of times something occurs during a specified time period.</value>
     <value column="Help" isTrl="N" original="The frequency is used in conjunction with the frequency type in determining an event. Example: If the Frequency Type is Week and the Frequency is 2 - it is every two weeks.">The frequency is used in conjunction with the frequency type in determining an event. Example: If the Frequency Type is Week and the Frequency is 2 - it is every two weeks.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4933,7 +4933,7 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1714" trl="N">
-    <value column="Name" isTrl="Y" original="Price List Schema">Схема прейскуранта</value>
+    <value column="Name" isTrl="Y" original="Price List Schema">Расчет цен</value>
     <value column="PrintName" isTrl="Y" original="Discount Schema">Схема скидок</value>
     <value column="Description" isTrl="N" original="A set of guidelines applied to current Price List in order to create a price list.">A set of guidelines applied to current Price List in order to create a price list.</value>
     <value column="Help" isTrl="N" original="After calculation of the (standard) price, the trade discount percentage is calculated and applied resulting in the final price.">After calculation of the (standard) price, the trade discount percentage is calculated and applied resulting in the final price.</value>
@@ -6104,8 +6104,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2003" trl="N">
-    <value column="Name" isTrl="N" original="Fixed Week Day">Fixed Week Day</value>
-    <value column="PrintName" isTrl="N" original="Fixed Week Day">Fixed Week Day</value>
+    <value column="Name" isTrl="Y" original="Fixed Week Day">Определён день недели</value>
+    <value column="PrintName" isTrl="Y" original="Fixed Week Day">Определён день недели</value>
     <value column="Description" isTrl="N" original="A plan to give until a specific day after the agreed payment term to pay without penalty.">A plan to give until a specific day after the agreed payment term to pay without penalty.</value>
     <value column="Help" isTrl="N" original="When defined, overwrites the number of net days with the relative number of days to the day defined.">When defined, overwrites the number of net days with the relative number of days to the day defined.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6114,8 +6114,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2004" trl="N">
-    <value column="Name" isTrl="N" original="Percentage Due">Percentage Due</value>
-    <value column="PrintName" isTrl="N" original="Percentage">Percentage</value>
+    <value column="Name" isTrl="Y" original="Percentage Due">Процент погашения</value>
+    <value column="PrintName" isTrl="Y" original="Percentage">Процент</value>
     <value column="Description" isTrl="N" original="Percent of the entire amount">Percent of the entire amount</value>
     <value column="Help" isTrl="N" original="Percentage of an amount (up to 100)">Percentage of an amount (up to 100)</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10561,8 +10561,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571984A6372B8AA9E040007F01011B27" trl="N">
-    <value column="Name" isTrl="N" original="Start Date">Start Date</value>
-    <value column="PrintName" isTrl="N" original="Start Date">Start Date</value>
+    <value column="Name" isTrl="Y" original="Start Date">Дата начал</value>
+    <value column="PrintName" isTrl="Y" original="Start Date">Дата начал</value>
     <value column="Description" isTrl="N" original="The date on which an item is due to start.">The date on which an item is due to start.</value>
     <value column="Help" isTrl="N" original="The date on which an item is due to start.">The date on which an item is due to start.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10571,8 +10571,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571984A6372D8AA9E040007F01011B27" trl="N">
-    <value column="Name" isTrl="N" original="Interval in Seconds">Interval in Seconds</value>
-    <value column="PrintName" isTrl="N" original="Interval in Seconds">Interval in Seconds</value>
+    <value column="Name" isTrl="Y" original="Interval in Seconds">Интервал в секундах</value>
+    <value column="PrintName" isTrl="Y" original="Interval in Seconds">Интервал в секундах</value>
     <value column="Description" isTrl="N" original="Interval in hours between an event (such as a process execution).">Interval in hours between an event (such as a process execution).</value>
     <value column="Help" isTrl="N" original="Interval in hours between an event (such as a process execution).">Interval in hours between an event (such as a process execution).</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10581,8 +10581,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571984A637328AA9E040007F01011B27" trl="N">
-    <value column="Name" isTrl="N" original="Finish Time">Finish Time</value>
-    <value column="PrintName" isTrl="N" original="Finish Time">Finish Time</value>
+    <value column="Name" isTrl="Y" original="Finish Time">Время завершения</value>
+    <value column="PrintName" isTrl="Y" original="Finish Time">Время завершения</value>
     <value column="Description" isTrl="N" original="The time that this item will finish.">The time that this item will finish.</value>
     <value column="Help" isTrl="N" original="The time that this item will finish.">The time that this item will finish.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10591,8 +10591,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571984A637348AA9E040007F01011B27" trl="N">
-    <value column="Name" isTrl="N" original="Monthly Option">Monthly Option</value>
-    <value column="PrintName" isTrl="N" original="Monthly Option">Monthly Option</value>
+    <value column="Name" isTrl="Y" original="Monthly Option">Параметры месяца</value>
+    <value column="PrintName" isTrl="Y" original="Monthly Option">Параметры месяца</value>
     <value column="Description" isTrl="N" original="An option by which to schedule a Process in a monthly manner.">An option by which to schedule a Process in a monthly manner.</value>
     <value column="Help" isTrl="N" original="An option by which to schedule a Process in a monthly manner. The option can be a specific date within each month, the last day of each month, or the Nth selected day within each month, such as the first Wednesday of each month.">An option by which to schedule a Process in a monthly manner. The option can be a specific date within each month, the last day of each month, or the Nth selected day within each month, such as the first Wednesday of each month.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10601,8 +10601,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571984A637378AA9E040007F01011B27" trl="N">
-    <value column="Name" isTrl="N" original="Start Time">Start Time</value>
-    <value column="PrintName" isTrl="N" original="Start Time">Start Time</value>
+    <value column="Name" isTrl="Y" original="Start Time">Время начала</value>
+    <value column="PrintName" isTrl="Y" original="Start Time">Время начала</value>
     <value column="Description" isTrl="N" original="The time at which an item is due to, or did, start.">The time at which an item is due to, or did, start.</value>
     <value column="Help" isTrl="N" original="The time at which an item is due to, or did, start.">The time at which an item is due to, or did, start.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10611,8 +10611,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571984A637388AA9E040007F01011B27" trl="N">
-    <value column="Name" isTrl="N" original="Interval in Minutes">Interval in Minutes</value>
-    <value column="PrintName" isTrl="N" original="Interval in Minutes">Interval in Minutes</value>
+    <value column="Name" isTrl="Y" original="Interval in Minutes">Интервал в минутах</value>
+    <value column="PrintName" isTrl="Y" original="Interval in Minutes">Интервал в минутах</value>
     <value column="Description" isTrl="N" original="Interval in minutes between an event (such as a process execution).">Interval in minutes between an event (such as a process execution).</value>
     <value column="Help" isTrl="N" original="Interval in minutes between an event (such as a process execution).">Interval in minutes between an event (such as a process execution).</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10621,8 +10621,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571984A637398AA9E040007F01011B27" trl="N">
-    <value column="Name" isTrl="N" original="Finishes">Finishes</value>
-    <value column="PrintName" isTrl="N" original="Finishes">Finishes</value>
+    <value column="Name" isTrl="Y" original="Finishes">Завершение</value>
+    <value column="PrintName" isTrl="Y" original="Finishes">Завершение</value>
     <value column="Description" isTrl="N" original="Specifiy that this item should finish.">Specifiy that this item should finish.</value>
     <value column="Help" isTrl="N" original="Specifiy that this item should finish.">Specifiy that this item should finish.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10631,8 +10631,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571984A6373A8AA9E040007F01011B27" trl="N">
-    <value column="Name" isTrl="N" original="Finish Date">Finish Date</value>
-    <value column="PrintName" isTrl="N" original="Finish Date">Finish Date</value>
+    <value column="Name" isTrl="Y" original="Finish Date">Дата завершения</value>
+    <value column="PrintName" isTrl="Y" original="Finish Date">Дата завершения</value>
     <value column="Description" isTrl="N" original="The date that this item will finish.">The date that this item will finish.</value>
     <value column="Help" isTrl="N" original="The date that this item will finish.">The date that this item will finish.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10641,8 +10641,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571984A6373B8AA9E040007F01011B27" trl="N">
-    <value column="Name" isTrl="N" original="Day of the Week">Day of the Week</value>
-    <value column="PrintName" isTrl="N" original="Day of the Week">Day of the Week</value>
+    <value column="Name" isTrl="Y" original="Day of the Week">День недели</value>
+    <value column="PrintName" isTrl="Y" original="Day of the Week">>День недели</value>
     <value column="Description" isTrl="N" original="A day within a week.">A day within a week.</value>
     <value column="Help" isTrl="N" original="A day within a week.">A day within a week.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10651,8 +10651,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571984A6373C8AA9E040007F01011B27" trl="N">
-    <value column="Name" isTrl="N" original="Daily Interval">Daily Interval</value>
-    <value column="PrintName" isTrl="N" original="Daily Interval">Daily Interval</value>
+    <value column="Name" isTrl="Y" original="Daily Interval">Интервал дней</value>
+    <value column="PrintName" isTrl="Y" original="Daily Interval">Интервал дней</value>
     <value column="Description" isTrl="N" original="The daily interval between executions of a process.">The daily interval between executions of a process.</value>
     <value column="Help" isTrl="N" original="The daily interval between executions of a process.">The daily interval between executions of a process.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10661,8 +10661,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571984A6373D8AA9E040007F01011B27" trl="N">
-    <value column="Name" isTrl="N" original="Hourly Interval">Hourly Interval</value>
-    <value column="PrintName" isTrl="N" original="Hourly Interval">Hourly Interval</value>
+    <value column="Name" isTrl="Y" original="Hourly Interval">Интервал часов</value>
+    <value column="PrintName" isTrl="Y" original="Hourly Interval">Интервал часов</value>
     <value column="Description" isTrl="N" original="Interval in hours between an event (such as a process execution).">Interval in hours between an event (such as a process execution).</value>
     <value column="Help" isTrl="N" original="Interval in hours between an event (such as a process execution).">Interval in hours between an event (such as a process execution).</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10671,8 +10671,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="571BB8A7C094FDAAE040007F010128C4" trl="N">
-    <value column="Name" isTrl="N" original="Day in Month">Day in Month</value>
-    <value column="PrintName" isTrl="N" original="Day in Month">Day in Month</value>
+    <value column="Name" isTrl="Y" original="Day in Month">День месяца</value>
+    <value column="PrintName" isTrl="Y" original="Day in Month">День месяца</value>
     <value column="Description" isTrl="N" original="The specific date within each month.">The specific date within each month.</value>
     <value column="Help" isTrl="N" original="The specific date within each month. For example, specifying 15 will signify the 15th of each month.">The specific date within each month. For example, specifying 15 will signify the 15th of each month.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10911,8 +10911,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="578063C571E872CAE040007F0101088F" trl="N">
-    <value column="Name" isTrl="N" original="Cron Expression">Cron Expression</value>
-    <value column="PrintName" isTrl="N" original="Cron Expression">Cron Expression</value>
+    <value column="Name" isTrl="Y" original="Cron Expression">Шаблон выражения Cron</value>
+    <value column="PrintName" isTrl="Y" original="Cron Expression">Шаблон выражения Cron</value>
     <value column="Description" isTrl="N" original="A Quartz cron expression to schedule this Process Request.">A Quartz cron expression to schedule this Process Request.</value>
     <value column="Help" isTrl="N" original="A Quartz cron expression to schedule this Process Request. More information on Quartz cron expression can be found at http://quartz.sourceforge.net/javadoc/org/quartz/CronTrigger.html and ">A Quartz cron expression to schedule this Process Request. More information on Quartz cron expression can be found at http://quartz.sourceforge.net/javadoc/org/quartz/CronTrigger.html and </value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10921,8 +10921,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="578EB58A9F857EF3E040007F01012B10" trl="N">
-    <value column="Name" isTrl="N" original="Daily Option">Daily Option</value>
-    <value column="PrintName" isTrl="N" original="Daily Option">Daily Option</value>
+    <value column="Name" isTrl="N" original="Daily Option">Параметры дня</value>
+    <value column="PrintName" isTrl="N" original="Daily Option">Параметры дня</value>
     <value column="Description" isTrl="N" original="Option to run a Process Request on a daily basis.">Option to run a Process Request on a daily basis.</value>
     <value column="Help" isTrl="N" original="Option to run a Process Request on a daily basis.">Option to run a Process Request on a daily basis.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11351,8 +11351,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="58955DB3E07A38CEE040007F01015E15" trl="N">
-    <value column="Name" isTrl="N" original="Number of Repetitions">Number of Repetitions</value>
-    <value column="PrintName" isTrl="N" original="Repetitions">Repetitions</value>
+    <value column="Name" isTrl="Y" original="Number of Repetitions">Число повторов</value>
+    <value column="PrintName" isTrl="Y" original="Repetitions">Число повторов</value>
     <value column="Description" isTrl="N" original="The number of times this element will repeat.">The number of times this element will repeat.</value>
     <value column="Help" isTrl="N" original="The number of times this element will repeat.">The number of times this element will repeat.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11361,8 +11361,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="58955DB3E07B38CEE040007F01015E15" trl="N">
-    <value column="Name" isTrl="N" original="Num Repetitions">Num Repetitions</value>
-    <value column="PrintName" isTrl="N" original="Repetitions">Repetitions</value>
+    <value column="Name" isTrl="Y" original="Num Repetitions">Число повторов</value>
+    <value column="PrintName" isTrl="Y" original="Repetitions">Число повторов</value>
     <value column="Description" isTrl="N" original="The number of times this element will repeat.">The number of times this element will repeat.</value>
     <value column="Help" isTrl="N" original="The number of times this element will repeat.">The number of times this element will repeat.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11371,8 +11371,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="58955DB3E07C38CEE040007F01015E15" trl="N">
-    <value column="Name" isTrl="N" original="Repetitions">Repetitions</value>
-    <value column="PrintName" isTrl="N" original="Repetitions">Repetitions</value>
+    <value column="Name" isTrl="Y" original="Repetitions">Повторы</value>
+    <value column="PrintName" isTrl="Y" original="Repetitions">Повторы</value>
     <value column="Description" isTrl="N" original="The number of times this element will repeat.">The number of times this element will repeat.</value>
     <value column="Help" isTrl="N" original="The number of times this element will repeat.">The number of times this element will repeat.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16002,8 +16002,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800473" trl="N">
-    <value column="Name" isTrl="N" original="Frequency">Frequency</value>
-    <value column="PrintName" isTrl="N" original="Frequency">Frequency</value>
+    <value column="Name" isTrl="Y" original="Frequency">Периодичность</value>
+    <value column="PrintName" isTrl="Y" original="Frequency">Периодичность</value>
     <value column="Description" isTrl="N" original="The number of times something occurs during a time period.">The number of times something occurs during a time period.</value>
     <value column="Help" isTrl="N" original="Time period between measure gathering.">Time period between measure gathering.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20264,8 +20264,8 @@ If the payment does not have a generated credit amount is the amount of credit u
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="918" trl="N">
-    <value column="Name" isTrl="N" original="Fixed Due Date">Fixed Due Date</value>
-    <value column="PrintName" isTrl="N" original="Fixed due date">Fixed due date</value>
+    <value column="Name" isTrl="Y" original="Fixed Due Date">Определён день месяца</value>
+    <value column="PrintName" isTrl="Y" original="Fixed due date">Определён день месяца</value>
     <value column="Description" isTrl="N" original="Payment is due on a fixed date">Payment is due on a fixed date</value>
     <value column="Help" isTrl="N" original="The Fixed Due Date checkbox indicates if invoices using this payment term will be due on a fixed day of the month.">The Fixed Due Date checkbox indicates if invoices using this payment term will be due on a fixed day of the month.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21721,8 +21721,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="Y" original="Deferred Expense">Отложенные расходы</value>
   </row>
   <row id="BA3FDC0C32A890E0E040007F01005DCC" trl="N">
-    <value column="Name" isTrl="N" original="Validated">Validated</value>
-    <value column="PrintName" isTrl="N" original="Validated">Validated</value>
+    <value column="Name" isTrl="Y" original="Validated">Проверено</value>
+    <value column="PrintName" isTrl="Y" original="Validated">Проверено</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Flag to determine that the record has been validated.">Flag to determine that the record has been validated.</value>
     <value column="PO_Description" isTrl="N" original=""/>

@@ -596,7 +596,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Inserts a return order line not related to any shipment line. It has to be set the product with attribute if necessary and the quantity desired to return. Alternatively it can be set the price and tax to be used if values different than default are desired.">Inserts a return order line not related to any shipment line. It has to be set the product with attribute if necessary and the quantity desired to return. Alternatively it can be set the price and tax to be used if values different than default are desired.</value>
   </row>
   <row id="3F2B4AAC707B4CE7B98D2005CF7310B5" trl="N">
-    <value column="Name" isTrl="N" original="Costing Background process">Costing Background process</value>
+    <value column="Name" isTrl="Y" original="Costing Background process">Фоновая обработка калькуляции</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -625,10 +625,10 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Description" isTrl="N" original="Process Shipment (Update Inventory)">Process Shipment (Update Inventory)</value>
     <value column="Help" isTrl="N" original="Process Shipment will move products out of inventory and mark line items as shipped.">Process Shipment will move products out of inventory and mark line items as shipped.</value>
   </row>
-  <row id="53863D4359114ADE92133F772135AEEB" trl="N">
+  <row id="53863D4359114ADE92133F772135AEEB" trl="Y">
     <value column="Name" isTrl="Y" original="Set as Ready">Установить готовность</value>
-    <value column="Description" isTrl="N" original="Set an organization as ready">Set an organization as ready</value>
-    <value column="Help" isTrl="N" original="This procedure checks if the organization fulfills every requirement before setting it as ready.">This procedure checks if the organization fulfills every requirement before setting it as ready.</value>
+    <value column="Description" isTrl="Y" original="Set an organization as ready">Установить готовность организации</value>
+    <value column="Help" isTrl="Y" original="This procedure checks if the organization fulfills every requirement before setting it as ready.">Данная обработка проверяет заполнение всех необходимых полей перед тем, как сделать выбранную организацию доступной для работы в приложение.</value>
   </row>
   <row id="58763832F5F3485CAD33B8B9FCD6C640" trl="N">
     <value column="Name" isTrl="N" original="Update Audit Trail Infrastructure">Update Audit Trail Infrastructure</value>

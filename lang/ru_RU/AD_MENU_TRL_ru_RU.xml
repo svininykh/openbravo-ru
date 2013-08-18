@@ -537,7 +537,7 @@
     <value column="Description" isTrl="N" original="Reset Accounting Entries">Reset Accounting Entries</value>
   </row>
   <row id="310" trl="N">
-    <value column="Name" isTrl="Y" original="Price List Schema">Схема прейскуранта</value>
+    <value column="Name" isTrl="Y" original="Price List Schema">Расчет цен</value>
     <value column="Description" isTrl="N" original="Define a Price List Schema to be assigned to business partners.">Define a Price List Schema to be assigned to business partners.</value>
   </row>
   <row id="315" trl="N">
@@ -1477,7 +1477,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="BE86736DF4AB4568A316A3922E6D6B7B" trl="N">
-    <value column="Name" isTrl="N" original="Process Request">Process Request</value>
+    <value column="Name" isTrl="Y" original="Process Request">Задание обработки</value>
     <value column="Description" isTrl="N" original="Request processes and reports to be scheduled and executed in the background.">Request processes and reports to be scheduled and executed in the background.</value>
   </row>
   <row id="C073633F0AFF4A93B17C13F239DE9613" trl="N">

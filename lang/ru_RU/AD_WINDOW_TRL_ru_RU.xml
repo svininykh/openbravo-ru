@@ -410,7 +410,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="This window informs about the matching between each purchase order, goods receipt and invoice line.">This window informs about the matching between each purchase order, goods receipt and invoice line.</value>
   </row>
   <row id="233" trl="N">
-    <value column="Name" isTrl="Y" original="Price List Schema">Схема прейскуранта</value>
+    <value column="Name" isTrl="Y" original="Price List Schema">Расчет цен</value>
     <value column="Description" isTrl="N" original="Define a Price List Schema to be assigned to business partners.">Define a Price List Schema to be assigned to business partners.</value>
     <value column="Help" isTrl="N" original="A price list schema is a template used to automatically populate a new version of a price list ">A price list schema is a template used to automatically populate a new version of a price list </value>
   </row>
@@ -560,7 +560,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="48E7EDE7D1104A59B46FC7449D9FB267" trl="N">
-    <value column="Name" isTrl="N" original="Process Request">Process Request</value>
+    <value column="Name" isTrl="Y" original="Process Request">Задание обработки</value>
     <value column="Description" isTrl="N" original="Request processes and reports to be scheduled and executed in the background.">Request processes and reports to be scheduled and executed in the background.</value>
     <value column="Help" isTrl="N" original="A background process is a system action requested by the user who has to previously provide auxiliary parameter values to execute that action.">A background process is a system action requested by the user who has to previously provide auxiliary parameter values to execute that action.</value>
   </row>
