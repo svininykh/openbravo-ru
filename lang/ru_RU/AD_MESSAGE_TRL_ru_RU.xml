@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MESSAGE" version="0.1">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MESSAGE" version="0.3">
   <row id="000000002F5DEF28012F5DFDF05A000A" trl="N">
     <value column="MsgText" isTrl="N" original="The following columns are not audited: @excludeauditcolumns@">The following columns are not audited: @excludeauditcolumns@</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -99,6 +99,10 @@
   </row>
   <row id="064ADCDC0E794F6C9608ECFDC511A1F9" trl="N">
     <value column="MsgText" isTrl="N" original="An error occurred unscheduling the process. Error: ">An error occurred unscheduling the process. Error: </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="078F6ABDBDBA48F2887C3108397A2262" trl="Y">
+    <value column="MsgText" isTrl="Y" original="UOM">Ед.изм.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="07E963D65B7F47BE81150448C5019E0D" trl="N">
@@ -592,7 +596,14 @@ Control Digit must be length 1.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400015" trl="N">
-    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.</value>
+    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines.
+An order line is created for each requisition line.
+The process closes the requisition when it finishes successfully.
+The Order Date is the date of the Purchase Orders.
+The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.
+The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.
+The Organization is the organization used by the Purchase Orders.
+The Warehouse is the warehouse used by the Purchase Orders.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400016" trl="N">
@@ -1279,6 +1290,10 @@ Do you want to enable the Heartbeat?</value>
   <row id="102" trl="N">
     <value column="MsgText" isTrl="N" original="Unique key repeated. Please check the related data.">Unique key repeated. Please check the related data.</value>
     <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="102A41C23D53414FBDF15AD179133D42" trl="N">
+    <value column="MsgText" isTrl="N" original="Cannot add or delete notes for read only tabs if 'Disable Notes For Read-Only tabs' preference is set">Cannot add or delete notes for read only tabs if 'Disable Notes For Read-Only tabs' preference is set</value>
+    <value column="MsgTip" isTrl="N" original="Cannot add or delete notes for read only tabs if 'Disable Notes For Read-Only tabs' preference is set">Cannot add or delete notes for read only tabs if 'Disable Notes For Read-Only tabs' preference is set</value>
   </row>
   <row id="103" trl="N">
     <value column="MsgText" isTrl="Y" original="two">два</value>
@@ -2737,6 +2752,10 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgText" isTrl="Y" original="No">Нет</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="342574C1C71D4FA3A70C33D182A8A32D" trl="N">
+    <value column="MsgText" isTrl="Y" original="Storage Bin">Место хранения</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="342BC16CEF1043E6BC9965577E0A4E97" trl="N">
     <value column="MsgText" isTrl="Y" original="Matched Invoices">Связанные счёт-фактуры</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -3117,11 +3136,11 @@ Be aware that if the daily limit is exceeded @extraDays@ more times in the @numb
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3F6B20FBC89E4B758183842119CC290A" trl="N">
-    <value column="MsgText" isTrl="N" original="The process has been scheduled successfully.">Обработка успешно запланирована.</value>
+    <value column="MsgText" isTrl="Y" original="The process has been scheduled successfully.">Обработка успешно запланирована.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3FD55790498743738385EED817EC853E" trl="N">
-    <value column="MsgText" isTrl="N" original="Process cannot be scheduled">Обработка не запланирована.</value>
+    <value column="MsgText" isTrl="Y" original="Process cannot be scheduled">Обработка не запланирована.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="400" trl="N">
@@ -4881,6 +4900,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
   </row>
   <row id="7483DF96F3C34BB38C67B66BFAC79404" trl="N">
     <value column="MsgText" isTrl="N" original="but only version">but only version</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="750BD7EF580544768D8DEC762753A24D" trl="N">
+    <value column="MsgText" isTrl="Y" original="A context reload is required to fully complete the action. You can reload this context automatically by &lt;a href='#' onclick='window.parent.parent.location.reload();'&gt;clicking here&lt;/a&gt; or manually by logging out of the application.">Для полного завершения обработки требуется обновить контекст приложения. Вы можете это сделать автоматически &lt;a href='#' onclick='window.parent.parent.location.reload();'&gt;нажав здесь&lt;/a&gt;  или вручную, повторно войдя в приложение.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="76044028A6A54026900ABC05910E2216" trl="N">
@@ -6977,6 +7000,10 @@ Openbravo Administrator</value>
     <value column="MsgText" isTrl="N" original="In order to activate this change it is necessary to run the &quot;Update Audit Trail Infrastructure&quot; process.Use &quot;Exclude Audit&quot; in column to exclude some columns from Audit.">In order to activate this change it is necessary to run the "Update Audit Trail Infrastructure" process.Use "Exclude Audit" in column to exclude some columns from Audit.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="92B1EEF0AB18416DB602DD1B8CE55ACE" trl="N">
+    <value column="MsgText" isTrl="N" original="Client Deleted">Client Deleted</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="93C32F538F1B46FE828624B1AD63F01E" trl="N">
     <value column="MsgText" isTrl="Y" original="Legal Entity">Юридическое лицо</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7580,8 +7607,8 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C5C60807FB7C407B934AEF9353740FD8" trl="N">
-    <value column="MsgText" isTrl="N" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">Если выбрано "Доступно в финансовых счетах", то обязательно должна быть задана категория налога. Если не выбрано, то категория налога не задаётся.</value>
-    <value column="MsgTip" isTrl="N" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">Если выбрано "Доступно в финансовых счетах", то обязательно должна быть задана категория налога. Если не выбрано, то категория налога не задаётся.</value>
+    <value column="MsgText" isTrl="Y" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">Если выбрано &quot;Доступно в финансовых счетах&quot;, то обязательно должна быть задана категория налога. Если не выбрано, то категория налога не задаётся.</value>
+    <value column="MsgTip" isTrl="Y" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">Если выбрано &quot;Доступно в финансовых счетах&quot;, то обязательно должна быть задана категория налога. Если не выбрано, то категория налога не задаётся.</value>
   </row>
   <row id="C5EA198B5E9044B990210D46B83B2D93" trl="N">
     <value column="MsgText" isTrl="N" original="One or more related Matched Invoice documents are posted, and cannot be deleted.">One or more related Matched Invoice documents are posted, and cannot be deleted.</value>
@@ -7858,6 +7885,10 @@ Ask System Administrator to unlock it.</value>
   </row>
   <row id="DC799265A3BA4F738EBCF717ADE340DD" trl="N">
     <value column="MsgText" isTrl="N" original="module cannot be installed in the requested version because of dependencies problems, this version will be installed instead:">module cannot be installed in the requested version because of dependencies problems, this version will be installed instead:</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="DC8ED25E9CB74C86AA086B5231AEF421" trl="N">
+    <value column="MsgText" isTrl="N" original="Attribute Set Instance">Attribute Set Instance</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DCAD0145663548E6A67D5B2E2A54B01E" trl="N">

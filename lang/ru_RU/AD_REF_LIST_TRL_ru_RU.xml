@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REF_LIST" version="0.1">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REF_LIST" version="0.3">
   <row id="01079D7A39BD4306A217A811388D500A" trl="N">
     <value column="Name" isTrl="Y" original="Closing Entry">Закрыть</value>
     <value column="Description" isTrl="Y" original="Closing Entry">Закрыть</value>
@@ -1592,6 +1592,10 @@
     <value column="Name" isTrl="Y" original="Complete">Зарегистрировать</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="3E3B66241E984CD19E9CF195DB72638B" trl="N">
+    <value column="Name" isTrl="N" original="Save Attachments in old way">Save Attachments in old way</value>
+    <value column="Description" isTrl="N" original="Saves the attachments using the earlier folder structure">Saves the attachments using the earlier folder structure</value>
+  </row>
   <row id="3E6F1F271AE44931BE140ECECE5C86A2" trl="N">
     <value column="Name" isTrl="N" original="Payment Received">Payment Received</value>
     <value column="Description" isTrl="N" original="Receivables - Payment Received">Receivables - Payment Received</value>
@@ -1954,6 +1958,10 @@
   </row>
   <row id="4B320699808A4088930E96843DCBAF6D" trl="N">
     <value column="Name" isTrl="N" original="Last build failed">Last build failed</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="4B3227BC63584401911AB9208DDB7978" trl="N">
+    <value column="Name" isTrl="Y" original="Weight">Вес</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="4BED47D608B841EC8016441CFA05F2FA" trl="N">
@@ -2506,6 +2514,10 @@
   </row>
   <row id="748DF1663F76484993DE25043E4D0F04" trl="N">
     <value column="Name" isTrl="N" original="Entity generation">Entity generation</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="74E2E8E4959342CAB71C5C59C3AEC4AC" trl="N">
+    <value column="Name" isTrl="Y" original="Volume">Объём</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="7574AC93C7DA4C068DAED8221325F76C" trl="N">
@@ -3609,7 +3621,7 @@
     <value column="Description" isTrl="N" original="Avoid the C_BP_SOCREDITUSED_REFRESH function calculation.">Avoid the C_BP_SOCREDITUSED_REFRESH function calculation.</value>
   </row>
   <row id="8F44015D71C041D1A96EF85CFDB6E7E9" trl="N">
-    <value column="Name" isTrl="N" original="06 - Specific Date">06 - На дату</value>
+    <value column="Name" isTrl="Y" original="06 - Specific Date">06 - На дату</value>
     <value column="Description" isTrl="N" original="Specific day withina month to trigger a process.">Specific day withina month to trigger a process.</value>
   </row>
   <row id="8F5FF4C1DAE84C0A8B6B3115FEC8D206" trl="N">
@@ -3777,7 +3789,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A5393409EA2D405AB73CC5AD4FA99553" trl="N">
-    <value column="Name" isTrl="N" original="01 - First">01 - Первая</value>
+    <value column="Name" isTrl="Y" original="01 - First">01 - Первая</value>
     <value column="Description" isTrl="N" original="First specified weekday of the month.">First specified weekday of the month.</value>
   </row>
   <row id="A6013E760F1240988DC3FB463EA569F7" trl="N">
@@ -3787,6 +3799,10 @@
   <row id="A60D08A595E84734A6369720E2BFE84F" trl="N">
     <value column="Name" isTrl="N" original="Tier 2 Commercial Module">Tier 2 Commercial Module</value>
     <value column="Description" isTrl="N" original="Tier 2 Commercial Modules can be installed in Standard Professioanl Edition Instances that have bought it.">Tier 2 Commercial Modules can be installed in Standard Professioanl Edition Instances that have bought it.</value>
+  </row>
+  <row id="A68E543C89BE4174990D33DFBAD90E05" trl="N">
+    <value column="Name" isTrl="N" original="Received In">Received In</value>
+    <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A6F23B8BC2CA497A80FD6ABFDD3AEE93" trl="N">
     <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
@@ -3985,8 +4001,12 @@
     <value column="Description" isTrl="N" original="Set all quantities to zero and complete transaction">Set all quantities to zero and complete transaction</value>
   </row>
   <row id="C498ACCF3EC1456E9B7F3223A951C6C9" trl="N">
-    <value column="Name" isTrl="N" original="IFRS">IFRS</value>
-    <value column="Description" isTrl="N" original="IFRS">IFRS</value>
+    <value column="Name" isTrl="Y" original="IFRS">МСФО</value>
+    <value column="Description" isTrl="Y" original="IFRS">МСФО</value>
+  </row>
+  <row id="C51B76C267CA4E098F5558F3E0BAC2C2" trl="N">
+    <value column="Name" isTrl="N" original="Length">Длина</value>
+    <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="C6756C85CF3F4AFBB78DFB994952548A" trl="N">
     <value column="Name" isTrl="N" original="Income Statement">Income Statement</value>
@@ -4061,7 +4081,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="CE695204DC3D46D9825878014FDF6118" trl="N">
-    <value column="Name" isTrl="N" original="03 - Third">03 - Третья</value>
+    <value column="Name" isTrl="Y" original="03 - Third">03 - Третья</value>
     <value column="Description" isTrl="N" original="Third specified weekdday of the month.">Third specified weekdday of the month.</value>
   </row>
   <row id="CF529073015540A1B6A03678F8C3C010" trl="N">
@@ -4152,6 +4172,10 @@
     <value column="Name" isTrl="N" original="-Debit">-Debit</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="DD3B45F6E92E41458FBFFEF977EEE480" trl="N">
+    <value column="Name" isTrl="N" original="Area">Area</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="DDB179FA9EDE41E0B30BBF8AD59ADA16" trl="N">
     <value column="Name" isTrl="N" original="Filter">Filter</value>
     <value column="Description" isTrl="N" original=""/>
@@ -4173,7 +4197,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="E249380AE2814BC7B0E5B8F267F387AC" trl="N">
-    <value column="Name" isTrl="N" original="04 - Fourth">04 - Четвёртая</value>
+    <value column="Name" isTrl="Y" original="04 - Fourth">04 - Четвёртая</value>
     <value column="Description" isTrl="N" original="Fourth specified weekday of the month.">Fourth specified weekday of the month.</value>
   </row>
   <row id="E2B06CEADF4F4528BDB55A1FA694CBEB" trl="N">
@@ -4281,7 +4305,7 @@
     <value column="Description" isTrl="N" original="Public Domain">Public Domain</value>
   </row>
   <row id="F7A874721A9946DD80180AF7F9E3B969" trl="N">
-    <value column="Name" isTrl="N" original="03 - Hourly">03 - Часовой</value>
+    <value column="Name" isTrl="Y" original="03 - Hourly">03 - Часовой</value>
     <value column="Description" isTrl="N" original="Process trigger will execute every n hours.">Process trigger will execute every n hours.</value>
   </row>
   <row id="F84EE22453E144D4B33948B0A512AAF4" trl="N">
@@ -4300,6 +4324,10 @@
     <value column="Name" isTrl="N" original="Payment Proposal Window">Payment Proposal Window</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="FA4EB912DC0F4A0B80179B78DA09B7AC" trl="N">
+    <value column="Name" isTrl="N" original="Paid Out">Paid Out</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="FA50DEFEDC4E4EFE82BA5BF71C55E53F" trl="N">
     <value column="Name" isTrl="Y" original="Close">Закрыть</value>
     <value column="Description" isTrl="N" original="Finally close this transaction. It cannot be re-activated.">Finally close this transaction. It cannot be re-activated.</value>
@@ -4310,6 +4338,10 @@
   </row>
   <row id="FB8F6159444446D59B9238B9EA680ED3" trl="N">
     <value column="Name" isTrl="N" original="Payments Window">Payments Window</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="FBCE5CC9E77A43ED8ABBE27FC48F2C06" trl="N">
+    <value column="Name" isTrl="Н" original="Time">Время</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FD374D3374054128A14530F1A71A72D8" trl="N">
@@ -4349,7 +4381,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FF8080812EC85BDE012EC8B67BEE0041" trl="N">
-    <value column="Name" isTrl="N" original="Solved">Solved</value>
+    <value column="Name" isTrl="Y" original="Solved">Решено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E0A7E62012E0A8326F7000C" trl="N">

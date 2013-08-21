@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_TAB" version="0.1">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_TAB" version="0.3">
   <row id="01F5E95D71544D428E1B9004B05D0298" trl="N">
     <value column="Name" isTrl="Y" original="Payment Method">Способ оплаты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
@@ -236,7 +236,11 @@
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define application initiated information and error messages.">Define application initiated information and error messages.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="&#10;&#10;Define application initiated information and error messages.&#10;&#10;">&#10;&#10;Define application initiated information and error messages.&#10;&#10;</value>
+    <value column="Help" isTrl="N" original="&#10;&#10;Define application initiated information and error messages.&#10;&#10;">
+
+Define application initiated information and error messages.
+
+</value>
   </row>
   <row id="110" trl="N">
     <value column="Name" isTrl="N" original="Menu">Menu</value>
@@ -1729,14 +1733,16 @@ The corresponding tables have then the following setting:
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit attributes to be assigned to attribute sets.">Create and edit attributes to be assigned to attribute sets.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;">Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;</value>
+    <value column="Help" isTrl="N" original="Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;">Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets.
+</value>
   </row>
   <row id="463" trl="N">
     <value column="Name" isTrl="Y" original="Attribute Value">Значение характеристики</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define individual characteristic values of this attribute.">Define individual characteristic values of this attribute.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;">An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;</value>
+    <value column="Help" isTrl="N" original="An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;">An attribute can have several values or individual characteristics to be detailed for each attribute.
+</value>
   </row>
   <row id="464" trl="N">
     <value column="Name" isTrl="N" original="Lot">Lot</value>
@@ -1865,11 +1871,11 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4CA5324BD037430B8E682B41C1DAA8CC" trl="N">
-    <value column="Name" isTrl="N" original="Accounting dimension">Учёт по субконто</value>
+    <value column="Name" isTrl="Y" original="Accounting dimension">Учёт по субконто</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Accounting Dimension">Учёт по субконто</value>
+    <value column="Description" isTrl="Y" original="Accounting Dimension">Учёт по субконто</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Accounting Dimension">Учёт по субконто</value>
+    <value column="Help" isTrl="Y" original="Accounting Dimension">Учёт по субконто</value>
   </row>
   <row id="4DE17FC05C3843C4959166BB67967486" trl="N">
     <value column="Name" isTrl="Y" original="Period Control Log">Контроль открытия/закрытия периода</value>

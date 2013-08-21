@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="0.1">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="0.3">
   <row id="0131585AC1F246DBAF6B84E53534F5FA" trl="N">
     <value column="Name" isTrl="N" original="General Ledger Currency Credit">General Ledger Currency Credit</value>
     <value column="PrintName" isTrl="N" original="General Ledger Currency Credit">General Ledger Currency Credit</value>
@@ -25,6 +25,16 @@
     <value column="PrintName" isTrl="N" original="Import Audit Info">Import Audit Info</value>
     <value column="Description" isTrl="N" original="Determines if audit info should be imported">Determines if audit info should be imported</value>
     <value column="Help" isTrl="N" original="Determines if audit info should be imported">Determines if audit info should be imported</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="026C0C35D730459B865E7242955C87F2" trl="N">
+    <value column="Name" isTrl="N" original="Path">Path</value>
+    <value column="PrintName" isTrl="N" original="Path">Path</value>
+    <value column="Description" isTrl="N" original="Location of the file relative to the attachments folder">Location of the file relative to the attachments folder</value>
+    <value column="Help" isTrl="N" original="Location of the file relative to the attachments folder">Location of the file relative to the attachments folder</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -399,7 +409,13 @@
     <value column="Name" isTrl="N" original="Body">Body</value>
     <value column="PrintName" isTrl="N" original="Body">Body</value>
     <value column="Description" isTrl="N" original="The body side of the email">The body side of the email</value>
-    <value column="Help" isTrl="N" original="As in the subject some tags are available &#10;References will be replaced by values:&#10;    * @cus_ref@: The document reference of the customer&#10;    * @our_ref@: The reference of the document&#10;    * @cus_nam@: The name of the customer&#10;    * @sal_nam@: The name of the sales rep.&#10;">As in the subject some tags are available &#10;References will be replaced by values:&#10;    * @cus_ref@: The document reference of the customer&#10;    * @our_ref@: The reference of the document&#10;    * @cus_nam@: The name of the customer&#10;    * @sal_nam@: The name of the sales rep.&#10;</value>
+    <value column="Help" isTrl="N" original="As in the subject some tags are available &#10;References will be replaced by values:&#10;    * @cus_ref@: The document reference of the customer&#10;    * @our_ref@: The reference of the document&#10;    * @cus_nam@: The name of the customer&#10;    * @sal_nam@: The name of the sales rep.&#10;">As in the subject some tags are available
+References will be replaced by values:
+    * @cus_ref@: The document reference of the customer
+    * @our_ref@: The reference of the document
+    * @cus_nam@: The name of the customer
+    * @sal_nam@: The name of the sales rep.
+</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1313,8 +1329,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005500008" trl="N">
-    <value column="Name" isTrl="N" original="Generic Account No.">Номер счёта</value>
-    <value column="PrintName" isTrl="N" original="Generic Account No.">Номер счёта</value>
+    <value column="Name" isTrl="Y" original="Generic Account No.">Номер расчётного счёта</value>
+    <value column="PrintName" isTrl="Y" original="Generic Account No.">Номер расчётного счёта</value>
     <value column="Description" isTrl="N" original="Bank account number in a generic format.">Bank account number in a generic format.</value>
     <value column="Help" isTrl="N" original="Bank account number in a generic format.">Bank account number in a generic format.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7929,7 +7945,9 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="Name" isTrl="Y" original="Active">Активно</value>
     <value column="PrintName" isTrl="Y" original="Active">Активно</value>
     <value column="Description" isTrl="Y" original="A flag indicating whether this record is available for use or de-activated.">Флаг, указывающий что эта запись доступна для использования или неактивна.</value>
-    <value column="Help" isTrl="N" original="There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.">There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.</value>
+    <value column="Help" isTrl="N" original="There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.">There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records:
+(1) The system requires the record for auditing purposes.
+(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -10642,7 +10660,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
   </row>
   <row id="571984A6373B8AA9E040007F01011B27" trl="N">
     <value column="Name" isTrl="Y" original="Day of the Week">День недели</value>
-    <value column="PrintName" isTrl="Y" original="Day of the Week">>День недели</value>
+    <value column="PrintName" isTrl="Y" original="Day of the Week">День недели</value>
     <value column="Description" isTrl="N" original="A day within a week.">A day within a week.</value>
     <value column="Help" isTrl="N" original="A day within a week.">A day within a week.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10921,8 +10939,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="578EB58A9F857EF3E040007F01012B10" trl="N">
-    <value column="Name" isTrl="N" original="Daily Option">Параметры дня</value>
-    <value column="PrintName" isTrl="N" original="Daily Option">Параметры дня</value>
+    <value column="Name" isTrl="Y" original="Daily Option">Параметры дня</value>
+    <value column="PrintName" isTrl="Y" original="Daily Option">Параметры дня</value>
     <value column="Description" isTrl="N" original="Option to run a Process Request on a daily basis.">Option to run a Process Request on a daily basis.</value>
     <value column="Help" isTrl="N" original="Option to run a Process Request on a daily basis.">Option to run a Process Request on a daily basis.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -12153,8 +12171,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6302F6EDDA7C4B6A9A5A4533C28387E2" trl="N">
-    <value column="Name" isTrl="N" original="Enable In Financial Invoices">Доступно в финансовых счетах</value>
-    <value column="PrintName" isTrl="N" original="Enable In Financial Invoices">Доступно в финансовых счетах</value>
+    <value column="Name" isTrl="Y" original="Enable In Financial Invoices">Доступно в финансовых счетах</value>
+    <value column="PrintName" isTrl="Y" original="Enable In Financial Invoices">Доступно в финансовых счетах</value>
     <value column="Description" isTrl="N" original="It is a flag to mark some glitem to be shown in booking a Financial Invoice in the Invoice Line window.">It is a flag to mark some glitem to be shown in booking a Financial Invoice in the Invoice Line window.</value>
     <value column="Help" isTrl="N" original="This new flag must be set to &quot;Yes&quot; which means that only those G/L items marked as &quot;Enable in Financial Invoices&quot; will be shown to be selected by the end-user while booking a Financial Invoice in the Invoice Line window.">This new flag must be set to "Yes" which means that only those G/L items marked as "Enable in Financial Invoices" will be shown to be selected by the end-user while booking a Financial Invoice in the Invoice Line window.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19265,7 +19283,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="Name" isTrl="N" original="Property">Property</value>
     <value column="PrintName" isTrl="N" original="Property">Property</value>
     <value column="Description" isTrl="N" original="Configuration Property to assign value">Configuration Property to assign value</value>
-    <value column="Help" isTrl="N" original="It is the &quot;Configuration Property&quot; this record sets value to. &#10;&#10;Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.">It is the &quot;Configuration Property&quot; this record sets value to. &#10;&#10;Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.</value>
+    <value column="Help" isTrl="N" original="It is the &quot;Configuration Property&quot; this record sets value to. &#10;&#10;Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.">It is the "Configuration Property" this record sets value to.
+
+Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -20830,9 +20850,7 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="Name" isTrl="N" original="Apply Configuration Script">Apply Configuration Script</value>
     <value column="PrintName" isTrl="N" original="Apply Configuration Script">Apply Configuration Script</value>
     <value column="Description" isTrl="N" original="Apply the configuration script when building the application">Apply the configuration script when building the application</value>
-    <value column="Help" isTrl="N" original="This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. &#10;&#10;Note that this information is kept only in the instance but not it is not exported to the module.">This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built.
-
-Note that this information is kept only in the instance but not it is not exported to the module.</value>
+    <value column="Help" isTrl="N" original="This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. &#10;&#10;Note that this information is kept only in the instance but not it is not exported to the module.">This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. &#10;&#10;Note that this information is kept only in the instance but not it is not exported to the module.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -21872,8 +21890,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BD442402746540CF8171E3CF5B018CD8" trl="N">
-    <value column="Name" isTrl="N" original="Bank Account Format">Формат банковского счёта</value>
-    <value column="PrintName" isTrl="N" original="Bank Account Format">Формат банковского счёта</value>
+    <value column="Name" isTrl="Y" original="Bank Account Format">Формат банковского счёта</value>
+    <value column="PrintName" isTrl="Y" original="Bank Account Format">Формат банковского счёта</value>
     <value column="Description" isTrl="N" original="Bank Account Format used for generating the Displayed Account No">Bank Account Format used for generating the Displayed Account No</value>
     <value column="Help" isTrl="N" original="Bank Account Format used for generating the Displayed Account Number">Bank Account Format used for generating the Displayed Account Number</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22685,7 +22703,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="Name" isTrl="N" original="Basis Amount">Basis Amount</value>
     <value column="PrintName" isTrl="N" original="Basis Amount">Basis Amount</value>
     <value column="Description" isTrl="N" original="The amount  that will take into account to calculate the commission: net amount or margin.   If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin.   If margin is selected, only the invoices that have shipments will take into account.</value>
-    <value column="Help" isTrl="N" original="The amount  that will take into account to calculate the commission: net amount or margin. &#10; If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin. &#10; If margin is selected, only the invoices that have shipments will take into account.</value>
+    <value column="Help" isTrl="N" original="The amount  that will take into account to calculate the commission: net amount or margin. &#10; If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin.
+ If margin is selected, only the invoices that have shipments will take into account.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -22796,6 +22815,16 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PrintName" isTrl="N" original="Primary Tree Product Category">Primary Tree Product Category</value>
     <value column="Description" isTrl="N" original="Product Category Tree">Product Category Tree</value>
     <value column="Help" isTrl="N" original="Product Category Tree">Product Category Tree</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="E189C54FFCD19351E040007F01004C07" trl="N">
+    <value column="Name" isTrl="Y" original="UOM Type">Тип ед. изм.</value>
+    <value column="PrintName" isTrl="Y" original="UOM Type">Тип ед. изм.</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -23094,8 +23123,8 @@ This field is populated in case the used price list includes taxes.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="F7DA034AB59111DDB8250016D4EE9DB3" trl="N">
-    <value column="Name" isTrl="N" original="General Accounts">Основные счета</value>
-    <value column="PrintName" isTrl="N" original="General Accounts">Основные счета</value>
+    <value column="Name" isTrl="Y" original="General Accounts">Основные счета</value>
+    <value column="PrintName" isTrl="Y" original="General Accounts">Основные счета</value>
     <value column="Description" isTrl="N" original="Accounts being used for general purposes such as income statement account, error and balance handling accounts.">Accounts being used for general purposes such as income statement account, error and balance handling accounts.</value>
     <value column="Help" isTrl="N" original="General purpose accounts can be defined here for the General Ledger. This window as well holds additional configuration related to fiscal year closing.">General purpose accounts can be defined here for the General Ledger. This window as well holds additional configuration related to fiscal year closing.</value>
     <value column="PO_Description" isTrl="N" original=""/>

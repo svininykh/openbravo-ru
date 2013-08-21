@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="OBUISEL_SELECTOR" version="">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="OBUISEL_SELECTOR" version="0.3">
   <row id="00A9109E64DD404CA95719D20A9BBBF0" trl="N">
-    <value column="Name" isTrl="N" original="Products">Products</value>
+    <value column="Name" isTrl="Y" original="Products">Товары</value>
     <value column="Description" isTrl="N" original="This selector shows all the available products">This selector shows all the available products</value>
     <value column="Help" isTrl="N" original="This selector shows all the available products">This selector shows all the available products</value>
   </row>
@@ -36,7 +36,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="2E64F551C7C4470C80C29DBA24B34A5F" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -136,7 +136,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="D47A3616483E46C18A09794B9B276B37" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -181,7 +181,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="F132874BE0954A9B8C1301BE20704730" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner with contact and location">Business Partner with contact and location</value>
+    <value column="Name" isTrl="Y" original="Business Partner with contact and location">Контрагент с контактными данными</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

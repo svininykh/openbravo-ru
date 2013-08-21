@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="C_UOM" version="0.1">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="C_UOM" version="">
   <row id="100" trl="Y">
     <value column="Name" isTrl="Y" original="Unit">Единица</value>
     <value column="Description" isTrl="N" original=""/>
@@ -15,45 +15,45 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="UOMSymbol" isTrl="Y" original="d  ">дн.</value>
   </row>
-  <row id="103" trl="Y">
-    <value column="Name" isTrl="Y" original="Minutes">Минуты</value>
-    <value column="Description" isTrl="Y" original="(lowest unit for resorce assigments)">(наименьшая доступная единица ресурса)</value>
-    <value column="UOMSymbol" isTrl="Y" original="min">мин.</value>
+  <row id="103" trl="N">
+    <value column="Name" isTrl="N" original="Minutes">Minutes</value>
+    <value column="Description" isTrl="N" original="(lowest unit for resorce assigments)">(lowest unit for resorce assigments)</value>
+    <value column="UOMSymbol" isTrl="N" original="min">min</value>
   </row>
-  <row id="104" trl="Y">
-    <value column="Name" isTrl="Y" original="Labour day">Рабочий день</value>
-    <value column="Description" isTrl="Y" original="8 hours">8 часов</value>
-    <value column="UOMSymbol" isTrl="Y" original="D  ">р.дн.</value>
+  <row id="104" trl="N">
+    <value column="Name" isTrl="N" original="Labour day">Labour day</value>
+    <value column="Description" isTrl="N" original="8 hours">8 hours</value>
+    <value column="UOMSymbol" isTrl="N" original="D  ">D  </value>
   </row>
-  <row id="105" trl="Y">
-    <value column="Name" isTrl="Y" original="Week">Неделя</value>
-    <value column="Description" isTrl="Y" original=""/>
-    <value column="UOMSymbol" isTrl="Y" original="w  ">нед.</value>
+  <row id="105" trl="N">
+    <value column="Name" isTrl="N" original="Week">Week</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="UOMSymbol" isTrl="N" original="w  ">w  </value>
   </row>
-  <row id="106" trl="Y">
-    <value column="Name" isTrl="Y" original="Month">Месяц</value>
-    <value column="Description" isTrl="Y" original="30 days">30 дней</value>
-    <value column="UOMSymbol" isTrl="Y" original="m  ">мес.</value>
+  <row id="106" trl="N">
+    <value column="Name" isTrl="N" original="Month">Month</value>
+    <value column="Description" isTrl="N" original="30 days">30 days</value>
+    <value column="UOMSymbol" isTrl="N" original="m  ">m  </value>
   </row>
-  <row id="107" trl="Y">
-    <value column="Name" isTrl="Y" original="Labour month">Рабочий месяц</value>
-    <value column="Description" isTrl="Y" original="20 days">20 дней</value>
-    <value column="UOMSymbol" isTrl="Y" original="M  ">р.мес.</value>
+  <row id="107" trl="N">
+    <value column="Name" isTrl="N" original="Labour month">Labour month</value>
+    <value column="Description" isTrl="N" original="20 days">20 days</value>
+    <value column="UOMSymbol" isTrl="N" original="M  ">M  </value>
   </row>
   <row id="108" trl="Y">
     <value column="Name" isTrl="Y" original="Year">Год</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="UOMSymbol" isTrl="Y" original="Y  ">год</value>
   </row>
-  <row id="2EBC93C05D75431E9EEFB29CEC76F244" trl="Y">
-    <value column="Name" isTrl="Y" original="Ounce">Унция</value>
-    <value column="Description" isTrl="Y" original=""/>
-    <value column="UOMSymbol" isTrl="Y" original="oz ">унция</value>
+  <row id="2EBC93C05D75431E9EEFB29CEC76F244" trl="N">
+    <value column="Name" isTrl="N" original="Ounce">Ounce</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="UOMSymbol" isTrl="N" original="oz ">oz </value>
   </row>
-  <row id="6FA87C4EE1FD4C86940A5F2E47C429DA" trl="Y">
-    <value column="Name" isTrl="Y" original="Pound">Фунт</value>
-    <value column="Description" isTrl="Y" original=""/>
-    <value column="UOMSymbol" isTrl="Y" original="Lb ">фунт</value>
+  <row id="6FA87C4EE1FD4C86940A5F2E47C429DA" trl="N">
+    <value column="Name" isTrl="N" original="Pound">Pound</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="UOMSymbol" isTrl="N" original="Lb ">Lb </value>
   </row>
   <row id="72BA247D31F745F3AF11F74A5E2CCBEF" trl="Y">
     <value column="Name" isTrl="Y" original="Kilogram">Килограмм</value>

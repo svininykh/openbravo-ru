@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REFERENCE" version="0.1">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REFERENCE" version="0.3">
   <row id="00037F8CF0644AF7A1987E7BF6DF68A4" trl="N">
     <value column="Name" isTrl="N" original="Element Value Selector">Element Value Selector</value>
     <value column="Description" isTrl="N" original=""/>
@@ -98,7 +98,11 @@
   <row id="1004400000" trl="N">
     <value column="Name" isTrl="Y" original="Requisition status">Статус заказа</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="Y" original="List of the possible statuses of a requisition:&#10;-O: Open&#10;-P: Planned&#10;-C: Closed&#10;-D: Cancelled">Список доступных статусов заказа:&#10;-O: Открыт&#10;-P: Запланирован&#10;-C: Закрыт&#10;-D: Отменён</value>
+    <value column="Help" isTrl="Y" original="List of the possible statuses of a requisition:&#10;-O: Open&#10;-P: Planned&#10;-C: Closed&#10;-D: Cancelled">Список доступных статусов заказа:
+-O: Открыт
+-P: Запланирован
+-C: Закрыт
+-D: Отменён</value>
   </row>
   <row id="1004400001" trl="N">
     <value column="Name" isTrl="Y" original="Requisition lock cause">Основание блокировки заказа</value>
@@ -1165,6 +1169,11 @@
     <value column="Description" isTrl="N" original="It is a general ledger item.">It is a general ledger item.</value>
     <value column="Help" isTrl="N" original="It is a general ledger item.">It is a general ledger item.</value>
   </row>
+  <row id="2FE25E4AF395479EB8BAB0539A829C28" trl="N">
+    <value column="Name" isTrl="Y" original="UOM Volume">Ед.изм. объёма</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="3" trl="N">
     <value column="Name" isTrl="N" original="AD_Column ColumnName">AD_Column ColumnName</value>
     <value column="Description" isTrl="N" original="Column selection">Column selection</value>
@@ -1247,6 +1256,11 @@
   </row>
   <row id="4028E61131FB4B1B0131FB5226C90008" trl="N">
     <value column="Name" isTrl="N" original="Business Partner not filtered by default by customer/vendor">Business Partner not filtered by default by customer/vendor</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="40B84CF78FC9435790887846CCDAE875" trl="N">
+    <value column="Name" isTrl="N" original="Add Transaction Document Type">Add Transaction Document Type</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1972,6 +1986,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="9413570F6240406385FB633C7A9CC283" trl="N">
+    <value column="Name" isTrl="Y" original="UOM Length">Ед.изм. длины</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="956E8F5C98A345AFBCCDD12E49A9074D" trl="N">
     <value column="Name" isTrl="N" original="FIN Execution Process Parameter type">FIN Execution Process Parameter type</value>
     <value column="Description" isTrl="N" original=""/>
@@ -2042,6 +2061,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="AFA80A98B3C6469EA15ECB8A0011A79F" trl="N">
+    <value column="Name" isTrl="Y" original="UOM Time">Ед.изм. времени</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="B7E66794F4BA46C3ADB2CBD013252AA6" trl="N">
     <value column="Name" isTrl="N" original="FIN_Pay_Exec_Process">FIN_Pay_Exec_Process</value>
     <value column="Description" isTrl="N" original=""/>
@@ -2063,7 +2087,7 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="C123B7BF5B2C438D84D2E509734776B5" trl="N">
-    <value column="Name" isTrl="N" original="Bank Account Format">Формат банковского счёта</value>
+    <value column="Name" isTrl="Y" original="Bank Account Format">Формат банковского счёта</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -2074,6 +2098,11 @@ For example, if you want to create different invoices for each ship location for
   </row>
   <row id="C3C19DE8AB3B42E78748E20D986FBBC9" trl="N">
     <value column="Name" isTrl="N" original="SO_Res_Status">SO_Res_Status</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C3ED971A900A414B8A0A937B442374E1" trl="N">
+    <value column="Name" isTrl="Y" original="UOM Weight">Ед.изм. веса</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -2210,6 +2239,11 @@ For example, if you want to create different invoices for each ship location for
   <row id="FBC599C796664DD49AD002C61DAFF813" trl="N">
     <value column="Name" isTrl="N" original="C_DocType DocBaseType Dimensions configuration">C_DocType DocBaseType Dimensions configuration</value>
     <value column="Description" isTrl="N" original="Base Document Types supporting dimensions configuration">Base Document Types supporting dimensions configuration</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="FC3E8E2652184032A86BE0F760A97B90" trl="N">
+    <value column="Name" isTrl="Y" original="UOM Types">Типы ед.изм.</value>
+    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FC98D43996374909B1AAC0197BBE95BA" trl="N">

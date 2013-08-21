@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_WINDOW" version="0.1">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_WINDOW" version="0.3">
   <row id="08F09D2A7C774585B014C06C0F44F591" trl="N">
     <value column="Name" isTrl="N" original="AD Implementation Mapping">AD Implementation Mapping</value>
     <value column="Description" isTrl="N" original="Displays the AD-implementation mappings">Displays the AD-implementation mappings</value>
@@ -482,7 +482,8 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="260" trl="N">
     <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
-    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest. &#10;</value>
+    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest.
+</value>
   </row>
   <row id="264" trl="N">
     <value column="Name" isTrl="Y" original="Session">Сессия</value>
@@ -545,7 +546,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="3E945A9102144C16BD211D211089C2DF" trl="N">
-    <value column="Name" isTrl="N" original="Costing Rules">Методы калькуляции</value>
+    <value column="Name" isTrl="Y" original="Costing Rules">Методы калькуляции</value>
     <value column="Description" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account ">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account </value>
     <value column="Help" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account while calculating costs.">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account while calculating costs.</value>
   </row>
@@ -675,7 +676,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit names of the month, assigning them to your quarterly and yearly calendar.">Create and edit names of the month, assigning them to your quarterly and yearly calendar.</value>
   </row>
   <row id="800020" trl="N">
-    <value column="Name" isTrl="N" original="Dimension">Dimension</value>
+    <value column="Name" isTrl="Y" original="Dimension">Субконто</value>
     <value column="Description" isTrl="N" original="Define parameters to be used in making reports.">Define parameters to be used in making reports.</value>
     <value column="Help" isTrl="N" original="Define parameters to be used in making reports.">Define parameters to be used in making reports.</value>
   </row>
