@@ -1313,8 +1313,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005500008" trl="N">
-    <value column="Name" isTrl="N" original="Generic Account No.">Generic Account No.</value>
-    <value column="PrintName" isTrl="N" original="Generic Account No.">Generic Account No.</value>
+    <value column="Name" isTrl="N" original="Generic Account No.">Номер счёта</value>
+    <value column="PrintName" isTrl="N" original="Generic Account No.">Номер счёта</value>
     <value column="Description" isTrl="N" original="Bank account number in a generic format.">Bank account number in a generic format.</value>
     <value column="Help" isTrl="N" original="Bank account number in a generic format.">Bank account number in a generic format.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -12153,8 +12153,8 @@ Usually, company's internal identifiers for various records (products, customers
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6302F6EDDA7C4B6A9A5A4533C28387E2" trl="N">
-    <value column="Name" isTrl="N" original="Enable In Financial Invoices">Enable In Financial Invoices</value>
-    <value column="PrintName" isTrl="N" original="Enable In Financial Invoices">Enable In Financial Invoices</value>
+    <value column="Name" isTrl="N" original="Enable In Financial Invoices">Доступно в финансовых счетах</value>
+    <value column="PrintName" isTrl="N" original="Enable In Financial Invoices">Доступно в финансовых счетах</value>
     <value column="Description" isTrl="N" original="It is a flag to mark some glitem to be shown in booking a Financial Invoice in the Invoice Line window.">It is a flag to mark some glitem to be shown in booking a Financial Invoice in the Invoice Line window.</value>
     <value column="Help" isTrl="N" original="This new flag must be set to &quot;Yes&quot; which means that only those G/L items marked as &quot;Enable in Financial Invoices&quot; will be shown to be selected by the end-user while booking a Financial Invoice in the Invoice Line window.">This new flag must be set to "Yes" which means that only those G/L items marked as "Enable in Financial Invoices" will be shown to be selected by the end-user while booking a Financial Invoice in the Invoice Line window.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21872,8 +21872,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BD442402746540CF8171E3CF5B018CD8" trl="N">
-    <value column="Name" isTrl="N" original="Bank Account Format">Bank Account Format</value>
-    <value column="PrintName" isTrl="N" original="Bank Account Format">Bank Account Format</value>
+    <value column="Name" isTrl="N" original="Bank Account Format">Формат банковского счёта</value>
+    <value column="PrintName" isTrl="N" original="Bank Account Format">Формат банковского счёта</value>
     <value column="Description" isTrl="N" original="Bank Account Format used for generating the Displayed Account No">Bank Account Format used for generating the Displayed Account No</value>
     <value column="Help" isTrl="N" original="Bank Account Format used for generating the Displayed Account Number">Bank Account Format used for generating the Displayed Account Number</value>
     <value column="PO_Description" isTrl="N" original=""/>

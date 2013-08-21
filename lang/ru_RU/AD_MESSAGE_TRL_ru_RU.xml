@@ -7580,8 +7580,8 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C5C60807FB7C407B934AEF9353740FD8" trl="N">
-    <value column="MsgText" isTrl="N" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">If "Enable In Financial Invoices" flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.</value>
-    <value column="MsgTip" isTrl="N" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">If "Enable In Financial Invoices" flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.</value>
+    <value column="MsgText" isTrl="N" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">Если выбрано "Доступно в финансовых счетах", то обязательно должна быть задана категория налога. Если не выбрано, то категория налога не задаётся.</value>
+    <value column="MsgTip" isTrl="N" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">Если выбрано "Доступно в финансовых счетах", то обязательно должна быть задана категория налога. Если не выбрано, то категория налога не задаётся.</value>
   </row>
   <row id="C5EA198B5E9044B990210D46B83B2D93" trl="N">
     <value column="MsgText" isTrl="N" original="One or more related Matched Invoice documents are posted, and cannot be deleted.">One or more related Matched Invoice documents are posted, and cannot be deleted.</value>

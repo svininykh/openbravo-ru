@@ -341,8 +341,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="A0417A0E924ACA28E040007F01003C18" trl="N">
-    <value column="Name" isTrl="N" original="Delete">Delete</value>
-    <value column="PrintName" isTrl="N" original="Delete">Delete</value>
+    <value column="Name" isTrl="Y" original="Delete">Удалить</value>
+    <value column="PrintName" isTrl="Y" original="Delete">Удалить</value>
     <value column="Description" isTrl="N" original="Delete button">Delete button</value>
     <value column="Help" isTrl="N" original="Delete button">Delete button</value>
     <value column="PO_Description" isTrl="N" original=""/>
