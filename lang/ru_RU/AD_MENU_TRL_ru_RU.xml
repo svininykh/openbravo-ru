@@ -805,7 +805,7 @@
     <value column="Description" isTrl="N" original="Report Total Product Template">Report Total Product Template</value>
   </row>
   <row id="800024" trl="N">
-    <value column="Name" isTrl="N" original="Volume Discount">Volume Discount</value>
+    <value column="Name" isTrl="Y" original="Volume Discount">Скидка от объема</value>
     <value column="Description" isTrl="N" original="Create volume discounts related to products and product categories to be assigned to selected business partners.">Create volume discounts related to products and product categories to be assigned to selected business partners.</value>
   </row>
   <row id="800025" trl="N">
@@ -969,7 +969,7 @@
     <value column="Description" isTrl="N" original="Create and edit remittance types with corresponding parameters according to your business needs.">Create and edit remittance types with corresponding parameters according to your business needs.</value>
   </row>
   <row id="800099" trl="N">
-    <value column="Name" isTrl="N" original="Pending Goods Receipts">Pending Goods Receipts</value>
+    <value column="Name" isTrl="Y" original="Pending Goods Receipts">Ожидаемые товары по ордерам</value>
     <value column="Description" isTrl="N" original="This window provides a view of the order lines pending to be received and a process to automatically create goods receipt/s for the ones received.">This window provides a view of the order lines pending to be received and a process to automatically create goods receipt/s for the ones received.</value>
   </row>
   <row id="800100" trl="N">

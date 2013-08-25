@@ -1470,8 +1470,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1011100001" trl="N">
-    <value column="Name" isTrl="N" original="Apply in Order">Apply in Order</value>
-    <value column="PrintName" isTrl="N" original="Apply in Order">Apply in Order</value>
+    <value column="Name" isTrl="Y" original="Apply in Order">Применять для ордера</value>
+    <value column="PrintName" isTrl="Y" original="Apply in Order">Применять для ордера</value>
     <value column="Description" isTrl="N" original="Apply the discount also to the Order">Apply the discount also to the Order</value>
     <value column="Help" isTrl="N" original="Apply the discount also to the Order">Apply the discount also to the Order</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1480,8 +1480,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1012" trl="N">
-    <value column="Name" isTrl="N" original="CC Type">CC Type</value>
-    <value column="PrintName" isTrl="N" original="CreditCard">CreditCard</value>
+    <value column="Name" isTrl="Y" original="CC Type">Тип платёжной карты</value>
+    <value column="PrintName" isTrl="Y" original="CreditCard">Платёжная карта</value>
     <value column="Description" isTrl="N" original="Credit Card (Visa, MC, AmEx)">Credit Card (Visa, MC, AmEx)</value>
     <value column="Help" isTrl="N" original="The Credit Card drop down list box is used for selecting the type of Credit Card presented for payment.">The Credit Card drop down list box is used for selecting the type of Credit Card presented for payment.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3512,8 +3512,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1430" trl="N">
-    <value column="Name" isTrl="N" original="Remote Address">Remote Address</value>
-    <value column="PrintName" isTrl="N" original="Remote Addr">Remote Addr</value>
+    <value column="Name" isTrl="N" original="Remote Address">Дополнительный адрес</value>
+    <value column="PrintName" isTrl="N" original="Remote Addr">Дополнительный адрес</value>
     <value column="Description" isTrl="N" original="not part of task">not part of task</value>
     <value column="Help" isTrl="N" original="The Remote Address indicates an alternative or external address.">The Remote Address indicates an alternative or external address.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5609,8 +5609,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1884" trl="N">
-    <value column="Name" isTrl="N" original="Asset">Asset</value>
-    <value column="PrintName" isTrl="N" original="Asset">Asset</value>
+    <value column="Name" isTrl="Y" original="Asset">Основное средство</value>
+    <value column="PrintName" isTrl="Y" original="Asset">Основное средство</value>
     <value column="Description" isTrl="N" original="An item which is owned and exchangeable for cash.">An item which is owned and exchangeable for cash.</value>
     <value column="Help" isTrl="N" original="Any item of economic value owned by the corporation, especially that which could be converted to cash.">Any item of economic value owned by the corporation, especially that which could be converted to cash.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6090,8 +6090,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="200" trl="N">
-    <value column="Name" isTrl="N" original="Location from Address">Location from Address</value>
-    <value column="PrintName" isTrl="N" original="Location From">Location From</value>
+    <value column="Name" isTrl="N" original="Location from Address">Получено с адреса</value>
+    <value column="PrintName" isTrl="N" original="Location From">Получено с адреса</value>
     <value column="Description" isTrl="N" original="The location where items are sent from.">The location where items are sent from.</value>
     <value column="Help" isTrl="N" original="The Location From indicates the location that a product was moved from.">The Location From indicates the location that a product was moved from.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6140,8 +6140,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="201" trl="N">
-    <value column="Name" isTrl="N" original="Location to Address">Location to Address</value>
-    <value column="PrintName" isTrl="N" original="Location To">Location To</value>
+    <value column="Name" isTrl="N" original="Location to Address">Отправлено по адресу</value>
+    <value column="PrintName" isTrl="N" original="Location To">Отправлено по адресу</value>
     <value column="Description" isTrl="N" original="The location where items are sent to.">The location where items are sent to.</value>
     <value column="Help" isTrl="N" original="The Location To indicates the location that a product was moved to.">The Location To indicates the location that a product was moved to.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10328,9 +10328,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="Y" original="Purchase Order">Ордер поставщика</value>
   </row>
   <row id="559" trl="N">
-    <value column="Name" isTrl="Y" original="Invoice Terms">Условия счёта</value>
-    <value column="PrintName" isTrl="Y" original="Invoice Rule">Условия счёта</value>
-    <value column="Description" isTrl="Y" original="Frequency and method of invoicing">Периодичность и методика выставления счётов.</value>
+    <value column="Name" isTrl="Y" original="Invoice Terms">Выставление счёт-фактур</value>
+    <value column="PrintName" isTrl="Y" original="Invoice Rule">Выставление счёт-фактур</value>
+    <value column="Description" isTrl="Y" original="Frequency and method of invoicing">Периодичность и методика выставления счётов фактуры.</value>
     <value column="Help" isTrl="N" original="The Invoice Rule defines how a Business Partner is invoiced and the frequency of invoicing.">The Invoice Rule defines how a Business Partner is invoiced and the frequency of invoicing.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10338,9 +10338,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="560" trl="N">
-    <value column="Name" isTrl="Y" original="Invoice Schedule">График выставления счёта</value>
-    <value column="PrintName" isTrl="Y" original="Invoice Schedule">График выставления счёта</value>
-    <value column="Description" isTrl="Y" original="Schedule for generating Invoices">График выставления счетов.</value>
+    <value column="Name" isTrl="Y" original="Invoice Schedule">График выставления</value>
+    <value column="PrintName" isTrl="Y" original="Invoice Schedule">График выставления</value>
+    <value column="Description" isTrl="Y" original="Schedule for generating Invoices">График выставления счетов фактуры.</value>
     <value column="Help" isTrl="N" original="The Invoice Schedule identifies the frequency used when generating invoices.">The Invoice Schedule identifies the frequency used when generating invoices.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -13960,7 +13960,7 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800047" trl="N">
-    <value column="Name" isTrl="N" original="Volume Discount">Volume Discount</value>
+    <value column="Name" isTrl="Y" original="Volume Discount">Скидка от объёма</value>
     <value column="PrintName" isTrl="N" original="Rappel">Rappel</value>
     <value column="Description" isTrl="N" original="A promotion given at a specific time of year based on purchase amounts.">A promotion given at a specific time of year based on purchase amounts.</value>
     <value column="Help" isTrl="N" original="The ID identifies a unique volume discount">The ID identifies a unique volume discount</value>
@@ -15867,8 +15867,8 @@ For example, if you want to create different invoices for each ship location for
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800445" trl="N">
-    <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
-    <value column="PrintName" isTrl="N" original="Cost Center">Cost Center</value>
+    <value column="Name" isTrl="Y" original="Cost Center">Центр затрат</value>
+    <value column="PrintName" isTrl="Y" original="Cost Center">Центр затрат</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Identifies a cost center.">Identifies a cost center.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16370,7 +16370,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800520" trl="N">
-    <value column="Name" isTrl="N" original="PO Maturity Date 1">PO Maturity Date 1</value>
+    <value column="Name" isTrl="N" original="PO Maturity Date 1">Дата погашения орд. пост. 1</value>
     <value column="PrintName" isTrl="N" original="PO Fix month day">PO Fix month day</value>
     <value column="Description" isTrl="N" original="The day of the month that invoices are due.   3 maturity dates can be defined.">The day of the month that invoices are due.   3 maturity dates can be defined.</value>
     <value column="Help" isTrl="N" original="The Fix Month Day for Purchases indicates the day of the month that invoices are due.  This field only displays if the fixed due date checkbox is selected. 3 different Fix Month Days can be defined.">The Fix Month Day for Purchases indicates the day of the month that invoices are due.  This field only displays if the fixed due date checkbox is selected. 3 different Fix Month Days can be defined.</value>
@@ -16380,7 +16380,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800521" trl="N">
-    <value column="Name" isTrl="N" original="PO Maturity Date 2">PO Maturity Date 2</value>
+    <value column="Name" isTrl="N" original="PO Maturity Date 2">Дата погашения орд. пост. 2</value>
     <value column="PrintName" isTrl="N" original="PO Fix month day 2">PO Fix month day 2</value>
     <value column="Description" isTrl="N" original="Day of the month of the due date">Day of the month of the due date</value>
     <value column="Help" isTrl="N" original="The Fix Month Day for Purchases indicates the day of the month that invoices are due.  This field only displays if the fixed due date checkbox is selected. 3 different Fix Month Days can be defined.">The Fix Month Day for Purchases indicates the day of the month that invoices are due.  This field only displays if the fixed due date checkbox is selected. 3 different Fix Month Days can be defined.</value>
@@ -16390,7 +16390,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800522" trl="N">
-    <value column="Name" isTrl="N" original="PO Maturity Date 3">PO Maturity Date 3</value>
+    <value column="Name" isTrl="N" original="PO Maturity Date 3">Дата погашения орд. пост. 3</value>
     <value column="PrintName" isTrl="N" original="PO Fix month day 3">PO Fix month day 3</value>
     <value column="Description" isTrl="N" original="Day of the month of the due date">Day of the month of the due date</value>
     <value column="Help" isTrl="N" original="The Fix Month Day for Purchases indicates the day of the month that invoices are due.  This field only displays if the fixed due date checkbox is selected. 3 different Fix Month Days can be defined.">The Fix Month Day for Purchases indicates the day of the month that invoices are due.  This field only displays if the fixed due date checkbox is selected. 3 different Fix Month Days can be defined.</value>
@@ -20234,8 +20234,8 @@ If the payment does not have a generated credit amount is the amount of credit u
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="916" trl="N">
-    <value column="Name" isTrl="N" original="Invoicing Address">Invoicing Address</value>
-    <value column="PrintName" isTrl="N" original="Invoicing Address">Invoicing Address</value>
+    <value column="Name" isTrl="Y" original="Invoicing Address">Адрес выставления счетов</value>
+    <value column="PrintName" isTrl="Y" original="Invoicing Address">Адрес выставления счетов</value>
     <value column="Description" isTrl="N" original="Indicates that this address is the Invoicing Address">Indicates that this address is the Invoicing Address</value>
     <value column="Help" isTrl="N" original="The Invoicing Address checkbox indicates if this location is the Invoicing Address for this Business Partner">The Invoicing Address checkbox indicates if this location is the Invoicing Address for this Business Partner</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20395,8 +20395,8 @@ If the Heartbeat is also enabled the number of requests per module on the last 3
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="925" trl="N">
-    <value column="Name" isTrl="N" original="Pay from Address">Pay from Address</value>
-    <value column="PrintName" isTrl="N" original="Pay-From address">Pay-From address</value>
+    <value column="Name" isTrl="N" original="Pay from Address">Оплата с адреса</value>
+    <value column="PrintName" isTrl="N" original="Pay-From address">Оплата с адреса</value>
     <value column="Description" isTrl="N" original="Business Partner pays from that address and we'll send dunning letters there">Business Partner pays from that address and we'll send dunning letters there</value>
     <value column="Help" isTrl="N" original="The Pay From Address checkbox indicates if this location is the address the Business Partner pays from.">The Pay From Address checkbox indicates if this location is the address the Business Partner pays from.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20415,8 +20415,8 @@ If the Heartbeat is also enabled the number of requests per module on the last 3
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="927" trl="N">
-    <value column="Name" isTrl="N" original="Remit to Address">Remit to Address</value>
-    <value column="PrintName" isTrl="N" original="Remit-To address">Remit-To address</value>
+    <value column="Name" isTrl="Y" original="Remit to Address">Платёж по адресу</value>
+    <value column="PrintName" isTrl="Y" original="Remit-To address">Платёж по адресу</value>
     <value column="Description" isTrl="N" original="Address we send payments to">Address we send payments to</value>
     <value column="Help" isTrl="N" original="The Remit to Address checkbox indicates if this location is the address to which we should send payments to this Business Partner.">The Remit to Address checkbox indicates if this location is the address to which we should send payments to this Business Partner.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20435,8 +20435,8 @@ If the Heartbeat is also enabled the number of requests per module on the last 3
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="929" trl="N">
-    <value column="Name" isTrl="N" original="Shipping Address">Shipping Address</value>
-    <value column="PrintName" isTrl="N" original="Shipping address">Shipping address</value>
+    <value column="Name" isTrl="N" original="Shipping Address">Адрес доставки</value>
+    <value column="PrintName" isTrl="N" original="Shipping address">Адрес доставки</value>
     <value column="Description" isTrl="N" original="Business Partner address to ship goods to">Business Partner address to ship goods to</value>
     <value column="Help" isTrl="N" original="The Shipping Address checkbox indicates if this location is the address to use when shipping orders to this Business Partner.">The Shipping Address checkbox indicates if this location is the address to use when shipping orders to this Business Partner.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21809,8 +21809,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BB1B0593596A4F63B2553183B11B0D28" trl="N">
-    <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
-    <value column="PrintName" isTrl="N" original="Cost Center">Cost Center</value>
+    <value column="Name" isTrl="Y" original="Cost Center">Центр затрат</value>
+    <value column="PrintName" isTrl="Y" original="Cost Center">Центр затрат</value>
     <value column="Description" isTrl="N" original="Division that adds to the cost of an organization">Division that adds to the cost of an organization</value>
     <value column="Help" isTrl="N" original="Division that adds to the cost of an organization. Internal structure for cost allocation.">Division that adds to the cost of an organization. Internal structure for cost allocation.</value>
     <value column="PO_Description" isTrl="N" original=""/>

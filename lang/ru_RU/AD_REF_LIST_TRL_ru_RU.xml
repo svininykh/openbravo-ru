@@ -665,7 +665,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="178" trl="N">
-    <value column="Name" isTrl="Y" original="Complete">Зарегистрировать</value>
+    <value column="Name" isTrl="Y" original="Complete">Регистрировать</value>
     <value column="Description" isTrl="N" original="Generate documents and complete transaction">Generate documents and complete transaction</value>
   </row>
   <row id="179" trl="N">
@@ -844,21 +844,21 @@
     <value column="Name" isTrl="N" original="AP Payment">AP Payment</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
-  <row id="214" trl="N">
-    <value column="Name" isTrl="N" original="After Order Delivered">After Order Delivered</value>
-    <value column="Description" isTrl="N" original="Invoice for every order">Invoice for every order</value>
+  <row id="214" trl="Y">
+    <value column="Name" isTrl="Y" original="After Order Delivered">После получения ордера</value>
+    <value column="Description" isTrl="Y" original="Invoice for every order">Выставить после получения ордера</value>
   </row>
-  <row id="215" trl="N">
-    <value column="Name" isTrl="N" original="After Delivery">After Delivery</value>
-    <value column="Description" isTrl="N" original="Invoice per Delivery">Invoice per Delivery</value>
+  <row id="215" trl="Y">
+    <value column="Name" isTrl="Y" original="After Delivery">После доставки</value>
+    <value column="Description" isTrl="Y" original="Invoice per Delivery">Выставить после доставки</value>
   </row>
-  <row id="216" trl="N">
-    <value column="Name" isTrl="N" original="Customer Schedule After Delivery">Customer Schedule After Delivery</value>
-    <value column="Description" isTrl="N" original="Invoice per Customer Invoice Schedule">Invoice per Customer Invoice Schedule</value>
+  <row id="216" trl="Y">
+    <value column="Name" isTrl="Y" original="Customer Schedule After Delivery">По графику клиента после доставки</value>
+    <value column="Description" isTrl="Y" original="Invoice per Customer Invoice Schedule">Выставить согласно графика клиента</value>
   </row>
-  <row id="217" trl="N">
-    <value column="Name" isTrl="N" original="After Receipt">After Receipt</value>
-    <value column="Description" isTrl="N" original="After receipt of cash">After receipt of cash</value>
+  <row id="217" trl="Y">
+    <value column="Name" isTrl="Y" original="After Receipt">После кассового чека</value>
+    <value column="Description" isTrl="Y" original="After receipt of cash">Выставить после кассового чека</value>
   </row>
   <row id="218" trl="N">
     <value column="Name" isTrl="N" original="Availability">Availability</value>
@@ -872,9 +872,9 @@
     <value column="Name" isTrl="N" original="Complete Order">Complete Order</value>
     <value column="Description" isTrl="N" original="As soon as all items of an order are available">As soon as all items of an order are available</value>
   </row>
-  <row id="221" trl="N">
-    <value column="Name" isTrl="N" original="Immediate">Immediate</value>
-    <value column="Description" isTrl="N" original="Immediate Invoice">Immediate Invoice</value>
+  <row id="221" trl="Y">
+    <value column="Name" isTrl="Y" original="Immediate">Сразу</value>
+    <value column="Description" isTrl="Y" original="Immediate Invoice">Выставить сразу</value>
   </row>
   <row id="222" trl="N">
     <value column="Name" isTrl="N" original="Pickup">Pickup</value>
@@ -1589,7 +1589,7 @@
     <value column="Description" isTrl="N" original="This means that the attribute set value will specify completely the product. The attribute set value will always have this value and no other value will be allowed for it.">This means that the attribute set value will specify completely the product. The attribute set value will always have this value and no other value will be allowed for it.</value>
   </row>
   <row id="3D4C02EB56AA4380AF128782BDA72C3D" trl="N">
-    <value column="Name" isTrl="Y" original="Complete">Зарегистрировать</value>
+    <value column="Name" isTrl="Y" original="Complete">Регистрировать</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="3E3B66241E984CD19E9CF195DB72638B" trl="N">
@@ -2837,7 +2837,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800064" trl="N">
-    <value column="Name" isTrl="N" original="Do Not Invoice">Do Not Invoice</value>
+    <value column="Name" isTrl="Y" original="Do Not Invoice">Не выставлять</value>
     <value column="Description" isTrl="N" original="Order should not be invoiced trough Process Invoice">Order should not be invoiced trough Process Invoice</value>
   </row>
   <row id="800065" trl="N">
@@ -3821,8 +3821,8 @@
     <value column="Description" isTrl="N" original="A Process that was failed due to System Restart">A Process that was failed due to System Restart</value>
   </row>
   <row id="ABA6CABC9E7F4D81B1652C1D9C619D26" trl="N">
-    <value column="Name" isTrl="N" original="Pending">Pending</value>
-    <value column="Description" isTrl="N" original="Pending Cost Calculation">Pending Cost Calculation</value>
+    <value column="Name" isTrl="N" original="Pending">Ожидать</value>
+    <value column="Description" isTrl="N" original="Pending Cost Calculation">Ожидать расчёт себестоимости</value>
   </row>
   <row id="ABB16AFAD8A0409DB86E4A453F6960AD" trl="N">
     <value column="Name" isTrl="Y" original="View">Просмотреть</value>
@@ -4085,7 +4085,7 @@
     <value column="Description" isTrl="N" original="Third specified weekdday of the month.">Third specified weekdday of the month.</value>
   </row>
   <row id="CF529073015540A1B6A03678F8C3C010" trl="N">
-    <value column="Name" isTrl="Y" original="Complete">Зарегистрировать</value>
+    <value column="Name" isTrl="Y" original="Complete">Регистрировать</value>
     <value column="Description" isTrl="N" original="The process is complete (status of the request).">The process is complete (status of the request).</value>
   </row>
   <row id="CF769061A92D4949BED3489DD4AD68EB" trl="N">
@@ -4101,7 +4101,7 @@
     <value column="Description" isTrl="N" original="Average cost">Average cost</value>
   </row>
   <row id="D2434887409C4B62B7B6755FF5F4F119" trl="N">
-    <value column="Name" isTrl="N" original="Pending">Pending</value>
+    <value column="Name" isTrl="N" original="Pending">Ожидать</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="D3BAB2F7993F4726BCC0B010741FD612" trl="N">

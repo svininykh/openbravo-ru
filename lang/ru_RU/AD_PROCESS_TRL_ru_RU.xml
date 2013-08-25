@@ -40,39 +40,39 @@
     <value column="Description" isTrl="Y" original="Create Vat Registers">Создать регистры НДС</value>
     <value column="Help" isTrl="Y" original="Create Vat Registers">Создать регистры НДС</value>
   </row>
-  <row id="1002100001" trl="N">
+  <row id="1002100001" trl="Y">
     <value column="Name" isTrl="Y" original="Report VAT Register">Отчёт Регистр НДС</value>
     <value column="Description" isTrl="Y" original="Report VAT Register">Отчёт Регистр НДС</value>
     <value column="Help" isTrl="Y" original="Report VAT Register">Отчёт Регистр НДС</value>
   </row>
-  <row id="1002100002" trl="N">
+  <row id="1002100002" trl="Y">
     <value column="Name" isTrl="Y" original="Report Tax Payment">Отчёт Оплата налога</value>
     <value column="Description" isTrl="Y" original="Report Tax Payment">Отчёт Оплата налога</value>
     <value column="Help" isTrl="Y" original="Report Tax Payment">Отчёт Оплата налога</value>
   </row>
-  <row id="1002100003" trl="N">
+  <row id="1002100003" trl="Y">
     <value column="Name" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
     <value column="Description" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
     <value column="Help" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
   </row>
-  <row id="1003900000" trl="N">
+  <row id="1003900000" trl="Y">
     <value column="Name" isTrl="Y" original="TaxPayment Post">Провести оплату налога</value>
     <value column="Description" isTrl="Y" original="TaxPayment Post">Провести оплату налога</value>
     <value column="Help" isTrl="Y" original="Post the TaxPayment">Провести оплату налога</value>
   </row>
-  <row id="1004400000" trl="N">
+  <row id="1004400000" trl="Y">
     <value column="Name" isTrl="Y" original="Create Purchase Order">Создать ордер поставщика</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="In order to create a Purchase Order from selected Requisition Lines, it is necessary to set some values:&lt;br/&gt;&#10;Order Date: The date of the Purchase Order&lt;br/&gt;&#10;Business Partner, Price List and Organization: If all the selected requisition lines have a common Business Partner, Price List or Organization, then the common value is shown in the appropriate field.&lt;br/&gt;&#10;For other required values the corresponding default values are used.&lt;br/&gt;&#10;Once the Purchase Order is created, it is marked as Completed and its Document Number is shown in the success message.">In order to create a Purchase Order from selected Requisition Lines, it is necessary to set some values:&lt;br/&gt;
-Order Date: The date of the Purchase Order&lt;br/&gt;
-Business Partner, Price List and Organization: If all the selected requisition lines have a common Business Partner, Price List or Organization, then the common value is shown in the appropriate field.&lt;br/&gt;
-For other required values the corresponding default values are used.&lt;br/&gt;
-Once the Purchase Order is created, it is marked as Completed and its Document Number is shown in the success message.</value>
+    <value column="Help" isTrl="Y" original="In order to create a Purchase Order from selected Requisition Lines, it is necessary to set some values:&lt;br/&gt;&#10;Order Date: The date of the Purchase Order&lt;br/&gt;&#10;Business Partner, Price List and Organization: If all the selected requisition lines have a common Business Partner, Price List or Organization, then the common value is shown in the appropriate field.&lt;br/&gt;&#10;For other required values the corresponding default values are used.&lt;br/&gt;&#10;Once the Purchase Order is created, it is marked as Completed and its Document Number is shown in the success message.">Для создания ордера поставщика по выбранным строкам заказа, необходимо установить следующие значения:&lt;br/&gt;
+Дата оредра: Дата ордера поставщика&lt;br/&gt;
+Контрагент, Прейскурант и Организация: Если у всех выбранных строк заказа задан отдельный Контрагент, Прейскурант или Организация, тогда заданное значение остаётся в соответствующем поле.&lt;br/&gt;
+Иначе будет задано значение выбранное по умолчанию.&lt;br/&gt;
+После создания ордера поставщика, он будет отмечен как выполненный и его номер документа будет показан в сообщение об успешном завершении обработки.</value>
   </row>
-  <row id="1004400002" trl="N">
+  <row id="1004400002" trl="Y">
     <value column="Name" isTrl="Y" original="Change status">Изменить статус</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="This process changes the status of the requisition. If it is open an has purchase order lines assigned it is set to closed, in case it hasn't any purchase order it is set as canceled. When the requisition is closed or canceled the process set it as open.">This process changes the status of the requisition. If it is open an has purchase order lines assigned it is set to closed, in case it hasn't any purchase order it is set as canceled. When the requisition is closed or canceled the process set it as open.</value>
+    <value column="Help" isTrl="Y" original="This process changes the status of the requisition. If it is open an has purchase order lines assigned it is set to closed, in case it hasn't any purchase order it is set as canceled. When the requisition is closed or canceled the process set it as open.">Эта обработка изменяет статус заказа. Если у заказа есть связанные строки в ордере поставщика, то он будет закрыт. Но если он не связан не с одим ордером, то он будет отменён. Когда заказ закрыт или отменён обработка сделает его открытым.</value>
   </row>
   <row id="1004400003" trl="N">
     <value column="Name" isTrl="Y" original="Post Requisition">Опубликовать заказ</value>
@@ -310,9 +310,9 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Help" isTrl="N" original="Invoice Summary">Invoice Summary</value>
   </row>
   <row id="154" trl="N">
-    <value column="Name" isTrl="N" original="Generate Invoice from Receipt">Generate Invoice from Receipt</value>
+    <value column="Name" isTrl="Y" original="Generate Invoice from Receipt">Счёт-фактура по накладной</value>
     <value column="Description" isTrl="N" original="Create and process Invoice from this receipt. The receipt should be correct and completed.">Create and process Invoice from this receipt. The receipt should be correct and completed.</value>
-    <value column="Help" isTrl="N" original="Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. If the receipt line is related to an existing order line, then the price of the invoice line is taken from that order line. In other case, it uses the retrieved price from the price list selected in the below drop-down list.">Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. If the receipt line is related to an existing order line, then the price of the invoice line is taken from that order line. In other case, it uses the retrieved price from the price list selected in the below drop-down list.</value>
+    <value column="Help" isTrl="Y" original="Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. If the receipt line is related to an existing order line, then the price of the invoice line is taken from that order line. In other case, it uses the retrieved price from the price list selected in the below drop-down list.">Генерация счёт-фактуры по накладной основывается на данных текущей накладной. Если строки накладной связаны с строками ордера, тогда цена в счёт-фактуре берётся из строки ордера. Иначе, цена берётся по прейскуранту заданному из выпадающего ниже списка.</value>
   </row>
   <row id="155" trl="N">
     <value column="Name" isTrl="N" original="Create Payment">Create Payment</value>
@@ -345,7 +345,7 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Help" isTrl="N" original="The Generate Order process will generate a new Order document based on the project phase. A price list and warehouse/service point must be defined on the project.">The Generate Order process will generate a new Order document based on the project phase. A price list and warehouse/service point must be defined on the project.</value>
   </row>
   <row id="165" trl="N">
-    <value column="Name" isTrl="Y" original="Copy Lines">Копировать строки</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копировать стр.</value>
     <value column="Description" isTrl="N" original="Copy Commission Lines from other Commission">Copy Commission Lines from other Commission</value>
     <value column="Help" isTrl="N" original="Copy Commission Lines from other Commission">Copy Commission Lines from other Commission</value>
   </row>
@@ -441,7 +441,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Copy columns at the end of this Column Set">Copy columns at the end of this Column Set</value>
   </row>
   <row id="190" trl="N">
-    <value column="Name" isTrl="Y" original="Copy Lines">Копировать строки</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копировать стр.</value>
     <value column="Description" isTrl="N" original="Copy Report Lines from other Line Set">Copy Report Lines from other Line Set</value>
     <value column="Help" isTrl="N" original="Copy lines at the end of this Line Set">Copy lines at the end of this Line Set</value>
   </row>
@@ -496,12 +496,12 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Start Replication with Remote Host">Start Replication with Remote Host</value>
   </row>
   <row id="210" trl="N">
-    <value column="Name" isTrl="Y" original="Copy Lines">Копировать строки</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копировать стр.</value>
     <value column="Description" isTrl="N" original="Copy lines (products) from an existing Invoice.">Copy lines (products) from an existing Invoice.</value>
     <value column="Help" isTrl="N" original="Copy lines (products) from an existing Invoice. By selecting any existing past  invoice, the process will copy all lines (products) from it to the one currently  being edited. This process can be used repetitively to copy lines (products) from several invoices into a new one.">Copy lines (products) from an existing Invoice. By selecting any existing past  invoice, the process will copy all lines (products) from it to the one currently  being edited. This process can be used repetitively to copy lines (products) from several invoices into a new one.</value>
   </row>
   <row id="211" trl="N">
-    <value column="Name" isTrl="Y" original="Copy Lines">Копировать строки</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копировать стр.</value>
     <value column="Description" isTrl="Y" original="Browse history of this particular document type for the selected business partner to be able to select lines (products) from these.">Просмотреть историю для этого типа документа и для выбранного контрагента, чтобы из них подобрать строки(товары).</value>
     <value column="Help" isTrl="N" original="Browse history of this particular document type for the selected business partner to be able to select lines (products) from these. For example, if you are creating a new sales order for business partner A, Copy Lines window will give you the history of products ordered and the prices given to business partner A within the last X days. X can be set within the business partner window. Consider this as a tiny CRM window.">Browse history of this particular document type for the selected business partner to be able to select lines (products) from these. For example, if you are creating a new sales order for business partner A, Copy Lines window will give you the history of products ordered and the prices given to business partner A within the last X days. X can be set within the business partner window. Consider this as a tiny CRM window.</value>
   </row>

@@ -657,12 +657,12 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="Y" original="Uploading...">Загрузка...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="FF8080812F2690B3012F2699D15D000E" trl="N">
-    <value column="MsgText" isTrl="N" original="This section shows all files attached to this record, and allows you to add new ones, or remove existing ones.">This section shows all files attached to this record, and allows you to add new ones, or remove existing ones.</value>
+  <row id="FF8080812F2690B3012F2699D15D000E" trl="Y">
+    <value column="MsgText" isTrl="Y" original="This section shows all files attached to this record, and allows you to add new ones, or remove existing ones.">В этой секции отображаются все файлы прикреплённые к данной записи, также вы можете добавить новые файлы или удалить уже существующие.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F2B0FC2012F2B6F65D10054" trl="N">
-    <value column="MsgText" isTrl="N" original="The file you are trying to upload already exists, so it will be replaced by the new one. Are you sure you want to continue?">The file you are trying to upload already exists, so it will be replaced by the new one. Are you sure you want to continue?</value>
+    <value column="MsgText" isTrl="Y" original="The file you are trying to upload already exists, so it will be replaced by the new one. Are you sure you want to continue?">Файл, который вы пытаетесь загрузить уже существует, поэтому он будет заменён на новый. Вы уверены, что хотите продолжить?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F44375E012F444B33320021" trl="N">
@@ -807,7 +807,7 @@ All modules in this window must be "in development".</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131509CDA013150BA6C5C002E" trl="N">
-    <value column="MsgText" isTrl="N" original="The existing image will be replaced by the new one. Are you sure you want to continue?">The existing image will be replaced by the new one. Are you sure you want to continue?</value>
+    <value column="MsgText" isTrl="N" original="The existing image will be replaced by the new one. Are you sure you want to continue?">Существующее изображение будет заменено на новое. Вы уверены, что хотите продолжить?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808131517E5F0131523F2F9000C1" trl="N">
@@ -858,8 +858,8 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="Y" original="Linked Items">Связанные записи</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="FF8081812D7A8BBA012D7A8E2E970029" trl="N">
-    <value column="MsgText" isTrl="N" original="This section shows the other records refering to the record you are currently viewing.">This section shows the other records refering to the record you are currently viewing.</value>
+  <row id="FF8081812D7A8BBA012D7A8E2E970029" trl="Y">
+    <value column="MsgText" isTrl="Y" original="This section shows the other records refering to the record you are currently viewing.">В этой секции отображаются связи других записей с текущей.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812D949EEF012D94A1A9060024" trl="N">

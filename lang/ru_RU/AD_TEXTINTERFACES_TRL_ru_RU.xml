@@ -37,10 +37,10 @@
     <value column="Text" isTrl="Y" original="Storage Bin">Место хранения</value>
   </row>
   <row id="06E61B009FC911DDB11B0FCE2FEEA29F" trl="N">
-    <value column="Text" isTrl="N" original="Attribute Set Value">Attribute Set Value</value>
+    <value column="Text" isTrl="N" original="Attribute Set Value">Значение характеристики</value>
   </row>
   <row id="076A33F965BE426DB4304151ACE806A5" trl="N">
-    <value column="Text" isTrl="N" original="Uom">Uom</value>
+    <value column="Text" isTrl="N" original="Uom">Ед.изм.</value>
   </row>
   <row id="0809C264871442C18AD9A3C4E744AC9B" trl="N">
     <value column="Text" isTrl="N" original="Void Accounting Date">Void Accounting Date</value>
@@ -56,7 +56,7 @@
     <value column="Text" isTrl="Y" original="Payment method">Способ оплаты</value>
   </row>
   <row id="0924435222F94E48BECDFA27BB007DC6" trl="N">
-    <value column="Text" isTrl="N" original="Shipment Date">Shipment Date</value>
+    <value column="Text" isTrl="N" original="Shipment Date">Дата поставки</value>
   </row>
   <row id="09B882E340B94131BEFF131264165994" trl="N">
     <value column="Text" isTrl="Y" original="Close">Закрыть</value>
@@ -74,7 +74,7 @@
     <value column="Text" isTrl="Y" original="Planned End Date:">Планируемая дата окончания:</value>
   </row>
   <row id="0DC6787C63254C90841C71EFF51A4618" trl="N">
-    <value column="Text" isTrl="N" original="Date of First Deletion">Date of First Deletion</value>
+    <value column="Text" isTrl="N" original="Date of First Deletion">Дата первого удаления</value>
   </row>
   <row id="0F9B9D3FE71C4172B53EBC5D49E1D00D" trl="N">
     <value column="Text" isTrl="Y" original="Tree View">Схема</value>
@@ -275,7 +275,7 @@
     <value column="Text" isTrl="N" original="Cal2 No.">Cal2 No.</value>
   </row>
   <row id="1000600022" trl="N">
-    <value column="Text" isTrl="N" original="Pending">Pending</value>
+    <value column="Text" isTrl="N" original="Pending">Ожидать</value>
   </row>
   <row id="1000600023" trl="N">
     <value column="Text" isTrl="N" original="Receipt">Receipt</value>
@@ -548,7 +548,7 @@
     <value column="Text" isTrl="Y" original="Loading">Загрузка</value>
   </row>
   <row id="1001600000" trl="N">
-    <value column="Text" isTrl="Y" original="Copy lines from order">Копировать строки из ордера</value>
+    <value column="Text" isTrl="Y" original="Copy lines from order">Копировать стр. из орд.</value>
   </row>
   <row id="1002100139" trl="N">
     <value column="Text" isTrl="N" original="Annual Certification">Annual Certification</value>
@@ -3457,7 +3457,7 @@
     <value column="Text" isTrl="N" original="Shipment No.">Shipment No.</value>
   </row>
   <row id="806710" trl="N">
-    <value column="Text" isTrl="N" original="Reception date">Reception date</value>
+    <value column="Text" isTrl="Y" original="Reception date">Дата накладной</value>
   </row>
   <row id="806716" trl="N">
     <value column="Text" isTrl="Y" original="Records range">Диапазон записей</value>
@@ -3505,13 +3505,13 @@
     <value column="Text" isTrl="N" original="% ratio ref.">% ratio ref.</value>
   </row>
   <row id="807004" trl="N">
-    <value column="Text" isTrl="N" original="* The value entered is not valid.">* The value entered is not valid.</value>
+    <value column="Text" isTrl="Y" original="* The value entered is not valid.">* Введено неверное значение.</value>
   </row>
   <row id="807005" trl="N">
-    <value column="Text" isTrl="N" original="* This value is out of range.">* This value is out of range.</value>
+    <value column="Text" isTrl="Y" original="* This value is out of range.">* Это значение выходит из диапазона.</value>
   </row>
   <row id="807006" trl="N">
-    <value column="Text" isTrl="N" original="* This value is required.">* This value is required.</value>
+    <value column="Text" isTrl="Y" original="* This value is required.">* Это поле обязательное.</value>
   </row>
   <row id="807007" trl="N">
     <value column="Text" isTrl="Y" original="Account">Счёт</value>
@@ -3550,7 +3550,7 @@
     <value column="Text" isTrl="Y" original="Alert Management">Управление предупреждениями</value>
   </row>
   <row id="807019" trl="N">
-    <value column="Text" isTrl="N" original="Alias">Alias</value>
+    <value column="Text" isTrl="N" original="Alias">Обозначение</value>
   </row>
   <row id="807020" trl="N">
     <value column="Text" isTrl="Y" original="All">Все</value>
@@ -3922,10 +3922,10 @@
     <value column="Text" isTrl="Y" original="Location selector">Подбор расположения</value>
   </row>
   <row id="807199" trl="N">
-    <value column="Text" isTrl="N" original="Locator">Locator</value>
+    <value column="Text" isTrl="Y" original="Locator">Место назначения</value>
   </row>
   <row id="807200" trl="N">
-    <value column="Text" isTrl="N" original="Locator selector">Locator selector</value>
+    <value column="Text" isTrl="Y" original="Locator selector">Выбор места назначения</value>
   </row>
   <row id="807201" trl="N">
     <value column="Text" isTrl="N" original="Log">Log</value>
@@ -3943,7 +3943,7 @@
     <value column="Text" isTrl="N" original="Maturity date">Maturity date</value>
   </row>
   <row id="807209" trl="N">
-    <value column="Text" isTrl="N" original="message text">message text</value>
+    <value column="Text" isTrl="N" original="message text">текст сообщения</value>
   </row>
   <row id="807210" trl="N">
     <value column="Text" isTrl="Y" original="Module">Модуль</value>
@@ -4684,10 +4684,10 @@
     <value column="Text" isTrl="Y" original="Invoice Date:">Дата выставления:</value>
   </row>
   <row id="808642" trl="N">
-    <value column="Text" isTrl="N" original="Stock">Stock</value>
+    <value column="Text" isTrl="N" original="Stock">На складе</value>
   </row>
   <row id="808643" trl="N">
-    <value column="Text" isTrl="N" original="Pending Qty">Pending Qty</value>
+    <value column="Text" isTrl="N" original="Pending Qty">Ожидать коль-во</value>
   </row>
   <row id="808677" trl="N">
     <value column="Text" isTrl="Y" original="Order Number">Номер ордера</value>
@@ -5503,7 +5503,7 @@
     <value column="Text" isTrl="Y" original="Percentage">Процент</value>
   </row>
   <row id="A9FDE666E8A04745AFE731B41E9C431F" trl="N">
-    <value column="Text" isTrl="N" original="Storage Bin">Storage Bin</value>
+    <value column="Text" isTrl="Y" original="Storage Bin">Место хранения</value>
   </row>
   <row id="AA4392E426734B488A1ED55D579DDFE3" trl="N">
     <value column="Text" isTrl="Y" original="Invoice No">Cчёт-фактура №</value>
@@ -5587,7 +5587,7 @@
     <value column="Text" isTrl="N" original="Return from Customer">Return from Customer</value>
   </row>
   <row id="B1AFEA6B61A9FE94E040007F01006F96" trl="N">
-    <value column="Text" isTrl="N" original="ATTRIBUTES">ATTRIBUTES</value>
+    <value column="Text" isTrl="N" original="ATTRIBUTES">ХАРАКТЕРИСТИК</value>
   </row>
   <row id="B1AFEA6B61ABFE94E040007F01006F96" trl="N">
     <value column="Text" isTrl="N" original="Return Receipt">Return Receipt</value>
@@ -5703,10 +5703,10 @@
     <value column="Text" isTrl="N" original="M. %">M. %</value>
   </row>
   <row id="C837F384C7CD4ED390D2319D0B891438" trl="N">
-    <value column="Text" isTrl="N" original="ATTRIBUTES">ATTRIBUTES</value>
+    <value column="Text" isTrl="N" original="ATTRIBUTES">ХАРАКТЕРИСТИК</value>
   </row>
   <row id="C956D422E716BA97E040007F010033EE" trl="N">
-    <value column="Text" isTrl="N" original="TOTAL :">TOTAL :</value>
+    <value column="Text" isTrl="N" original="TOTAL :">ИТОГО :</value>
   </row>
   <row id="C956D422E719BA97E040007F010033EE" trl="N">
     <value column="Text" isTrl="Y" original="PRODUCT NAME">НАЗВАНИЕ ТОВАРА</value>
@@ -5715,7 +5715,7 @@
     <value column="Text" isTrl="Y" original="PRICE">ЦЕНА</value>
   </row>
   <row id="C97A2FF6B2C647178B3B54FD4BBC8D40" trl="N">
-    <value column="Text" isTrl="N" original="Pending delivery">Pending delivery</value>
+    <value column="Text" isTrl="N" original="Pending delivery">Ожидать поставку</value>
   </row>
   <row id="C9E7449ECD8E42BE8413D8521C4779A8" trl="N">
     <value column="Text" isTrl="N" original="Use Credit">Use Credit</value>
@@ -5826,7 +5826,7 @@
     <value column="Text" isTrl="N" original=" You are about to install module(s) with maturity levels lower than General Availability."> You are about to install module(s) with maturity levels lower than General Availability.</value>
   </row>
   <row id="E228440A042711DE90B03B18C9F4D4A2" trl="N">
-    <value column="Text" isTrl="Y" original="Create lines from">Строки на основании</value>
+    <value column="Text" isTrl="Y" original="Create lines from">Стр. на основании</value>
   </row>
   <row id="E22DAD1A1598472BB3F6CB745B1A7F50" trl="N">
     <value column="Text" isTrl="Y" original="Close">Закрыть</value>
