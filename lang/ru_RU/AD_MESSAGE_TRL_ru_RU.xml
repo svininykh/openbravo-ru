@@ -767,8 +767,8 @@ And Release features, bla, bla, bla</value>
 Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="1005800003" trl="N">
-    <value column="MsgText" isTrl="N" original="Heartbeat System Description">Heartbeat System Description</value>
+  <row id="1005800003" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Heartbeat System Description">Системное описание Кардиограммы</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1005900000" trl="N">
@@ -6437,11 +6437,11 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804811" trl="N">
-    <value column="MsgText" isTrl="N" original="for business partner group">for business partner group</value>
+    <value column="MsgText" isTrl="Y" original="for business partner group">для группы контрагентов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804812" trl="N">
-    <value column="MsgText" isTrl="N" original="product category">product category</value>
+    <value column="MsgText" isTrl="Y" original="product category">категории продуктов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804813" trl="N">
@@ -6453,11 +6453,11 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804815" trl="N">
-    <value column="MsgText" isTrl="N" original="and">and</value>
+    <value column="MsgText" isTrl="Y" original="and">и</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804816" trl="N">
-    <value column="MsgText" isTrl="N" original="the warehouse">the warehouse</value>
+    <value column="MsgText" isTrl="Y" original="the warehouse">склада</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804819" trl="N">
@@ -7627,7 +7627,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C6B53C6EC4A94F24ACBB8B3EEDF592B5" trl="N">
-    <value column="MsgText" isTrl="N" original="Please add the product">Please add the product</value>
+    <value column="MsgText" isTrl="N" original="Please add the product">Пожалуйста добавте товар</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C6DE79E703C743D7B0BF88E03EE2F742" trl="N">
@@ -7635,7 +7635,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C75F4E1BA95A409AB73ECF5A54A6614E" trl="N">
-    <value column="MsgText" isTrl="N" original="Every legal entity with accounting must have itself or an ancestor at least a calendar attached to it">Every legal entity with accounting must have itself or an ancestor at least a calendar attached to it</value>
+    <value column="MsgText" isTrl="Y" original="Every legal entity with accounting must have itself or an ancestor at least a calendar attached to it">За каждым юридическим лицом ведущем бухгалтерский учёт или его родительским подразделением должен быть закреплён календарь отчётных периодов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C75FD147AFBF44E78764060BF3D316A2" trl="N">
@@ -8336,11 +8336,11 @@ You can navigate to these matched invoice documents by pressing Linked Items in 
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808132F1F0C10132F206B3C9001E" trl="N">
-    <value column="MsgText" isTrl="N" original="Trial License">Trial License</value>
+    <value column="MsgText" isTrl="Y" original="Trial License">Триал лицензия</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808132FD64A70132FD69E75B000A" trl="N">
-    <value column="MsgText" isTrl="N" original="Heartbeat is not active">Heartbeat is not active</value>
+    <value column="MsgText" isTrl="Y" original="Heartbeat is not active">Кардиограмма не активна</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808132FD64A70132FD6B36BC000F" trl="N">

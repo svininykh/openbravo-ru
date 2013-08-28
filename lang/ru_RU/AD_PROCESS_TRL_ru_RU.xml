@@ -99,13 +99,13 @@
     <value column="Description" isTrl="N" original="Payment Aging Balance">Payment Aging Balance</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="1005800000" trl="N">
-    <value column="Name" isTrl="N" original="Heartbeat Process">Heartbeat Process</value>
-    <value column="Description" isTrl="N" original="Heartbeat Process">Heartbeat Process</value>
-    <value column="Help" isTrl="N" original="Heartbeat Process">Heartbeat Process</value>
+  <row id="1005800000" trl="Y">
+    <value column="Name" isTrl="Y" original="Heartbeat Process">Обработка Кардиограммы</value>
+    <value column="Description" isTrl="Y" original="Heartbeat Process">Обработка Кардиограммы</value>
+    <value column="Help" isTrl="Y" original="Heartbeat Process">Обработка Кардиограммы</value>
   </row>
   <row id="1005900000" trl="N">
-    <value column="Name" isTrl="N" original="Project Progress">Project Progress</value>
+    <value column="Name" isTrl="Y" original="Project Progress">Выполнение проекта</value>
     <value column="Description" isTrl="N" original="Report that shows the progress of the projects.">Report that shows the progress of the projects.</value>
     <value column="Help" isTrl="N" original="The Project Progress report permits to track the progress of projects with useful indicators such as the time burned or the completion percentage.">The Project Progress report permits to track the progress of projects with useful indicators such as the time burned or the completion percentage.</value>
   </row>
@@ -114,10 +114,10 @@
     <value column="Description" isTrl="N" original="Renumber Discount entries">Renumber Discount entries</value>
     <value column="Help" isTrl="N" original="Renumber Discount entries">Renumber Discount entries</value>
   </row>
-  <row id="103" trl="N">
+  <row id="103" trl="Y">
     <value column="Name" isTrl="Y" original="Create Price List">Создать прейскурант</value>
-    <value column="Description" isTrl="N" original="Create Prices based on parameters of this version">Create Prices based on parameters of this version</value>
-    <value column="Help" isTrl="N" original="Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.">Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.</value>
+    <value column="Description" isTrl="Y" original="Create Prices based on parameters of this version">Установить цены согласно настроек для этой версии.</value>
+    <value column="Help" isTrl="Y" original="Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.">Установить цены для этой версии в последовательности применения схемы скидок для этого прейскуранта. В строках с приоритетной последовательностью перезаписывать существующие цены. Последовательность должна быть от общего к частному.</value>
   </row>
   <row id="104" trl="Y">
     <value column="Name" isTrl="Y" original="Process Order">Обработать ордер</value>
@@ -671,7 +671,7 @@ When the process is finished it is recommended to schedule the "Costing Backgrou
     <value column="Help" isTrl="N" original="This process updates the required infrastructure to track complete audit for the tables selected as Fully Audited.">This process updates the required infrastructure to track complete audit for the tables selected as Fully Audited.</value>
   </row>
   <row id="69DFD737ACC74499A44574B046F8983C" trl="N">
-    <value column="Name" isTrl="N" original="Unschedule Process">Unschedule Process</value>
+    <value column="Name" isTrl="Y" original="Unschedule Process">Приостановить обработку</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -865,10 +865,10 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Description" isTrl="N" original="Create From Multiple">Create From Multiple</value>
     <value column="Help" isTrl="N" original="Create From Multiple">Create From Multiple</value>
   </row>
-  <row id="800064" trl="N">
-    <value column="Name" isTrl="N" original="Acct Server Process">Acct Server Process</value>
-    <value column="Description" isTrl="N" original="Acct Server Process">Acct Server Process</value>
-    <value column="Help" isTrl="N" original="Acct Server Process">Acct Server Process</value>
+  <row id="800064" trl="Y">
+    <value column="Name" isTrl="Y" original="Acct Server Process">Оработка сервера проводок</value>
+    <value column="Description" isTrl="Y" original="Acct Server Process">Оработка сервера проводок</value>
+    <value column="Help" isTrl="Y" original="Acct Server Process">Оработка сервера проводок</value>
   </row>
   <row id="800067" trl="N">
     <value column="Name" isTrl="Y" original="Price List Report">Отчёт Прейскуранта</value>
@@ -876,9 +876,9 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Help" isTrl="N" original="Price List Report is a report which shows Price List information which can filtered for a specif &quot;Product Category&quot; or a set of selected &quot;Products&quot;.">Price List Report is a report which shows Price List information which can filtered for a specif "Product Category" or a set of selected "Products".</value>
   </row>
   <row id="800068" trl="N">
-    <value column="Name" isTrl="N" original="Create Invoice  (Volume Discount)">Create Invoice  (Volume Discount)</value>
-    <value column="Description" isTrl="N" original="Create invoice">Create invoice</value>
-    <value column="Help" isTrl="N" original="Create invoice">Create invoice</value>
+    <value column="Name" isTrl="Y" original="Create Invoice  (Volume Discount)">Создать cчёт-фактуру(Скидка от объёма)</value>
+    <value column="Description" isTrl="Y" original="Create invoice">Создать cчёт-фактуру</value>
+    <value column="Help" isTrl="Y" original="Create invoice">Создать cчёт-фактуру</value>
   </row>
   <row id="800069" trl="N">
     <value column="Name" isTrl="Y" original="Create Price List Version">Создать версию прейскуранта</value>
@@ -1243,10 +1243,10 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Description" isTrl="N" original="Create Tax Report">Create Tax Report</value>
     <value column="Help" isTrl="N" original="Create Tax Report">Create Tax Report</value>
   </row>
-  <row id="800170" trl="N">
-    <value column="Name" isTrl="N" original="Alert Process">Alert Process</value>
-    <value column="Description" isTrl="N" original="Alert Process">Alert Process</value>
-    <value column="Help" isTrl="N" original="AlertProcess">AlertProcess</value>
+  <row id="800170" trl="Y">
+    <value column="Name" isTrl="Y" original="Alert Process">Обработка предупреждений</value>
+    <value column="Description" isTrl="Y" original="Alert Process">Обработка предупреждений</value>
+    <value column="Help" isTrl="Y" original="AlertProcess">Обработка предупреждений</value>
   </row>
   <row id="800171" trl="N">
     <value column="Name" isTrl="Y" original="Purchase Order Report">Отчет Ордеры поставщика</value>

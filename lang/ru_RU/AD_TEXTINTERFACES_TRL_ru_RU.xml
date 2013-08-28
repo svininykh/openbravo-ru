@@ -476,13 +476,13 @@
     <value column="Text" isTrl="N" original="No deductable">No deductable</value>
   </row>
   <row id="1000600130" trl="N">
-    <value column="Text" isTrl="N" original="VAT">VAT</value>
+    <value column="Text" isTrl="Y" original="VAT">НДС</value>
   </row>
   <row id="1000600131" trl="N">
     <value column="Text" isTrl="N" original="Und. VAT">Und. VAT</value>
   </row>
   <row id="1000600132" trl="N">
-    <value column="Text" isTrl="N" original="Total VAT">Total VAT</value>
+    <value column="Text" isTrl="Y" original="Total VAT">Итого НДС</value>
   </row>
   <row id="1000600133" trl="N">
     <value column="Text" isTrl="N" original="Total payment">Total payment</value>
@@ -491,19 +491,19 @@
     <value column="Text" isTrl="N" original="Previous credit.">Previous credit.</value>
   </row>
   <row id="1000600135" trl="N">
-    <value column="Text" isTrl="N" original="Date from :">Date from :</value>
+    <value column="Text" isTrl="Y" original="Date from :">Дата с :</value>
   </row>
   <row id="1000600136" trl="N">
-    <value column="Text" isTrl="N" original="to">to</value>
+    <value column="Text" isTrl="Y" original="to">по</value>
   </row>
   <row id="1000600137" trl="N">
-    <value column="Text" isTrl="N" original="Doc No">Doc No</value>
+    <value column="Text" isTrl="Y" original="Doc No">Док. №</value>
   </row>
   <row id="1000600138" trl="N">
     <value column="Text" isTrl="N" original="Register Date">Register Date</value>
   </row>
   <row id="1000600139" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Doc No">Invoice Doc No</value>
+    <value column="Text" isTrl="Y" original="Invoice Doc No">Счёт-фактура №</value>
   </row>
   <row id="1000600140" trl="N">
     <value column="Text" isTrl="Y" original="B. Partner">Контрагент</value>
@@ -773,7 +773,7 @@
     <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="1005400023" trl="N">
-    <value column="Text" isTrl="N" original="Heartbeat Confirmation">Heartbeat Confirmation</value>
+    <value column="Text" isTrl="Y" original="Heartbeat Confirmation">Подтверждение Кардиограммы</value>
   </row>
   <row id="1005400024" trl="N">
     <value column="Text" isTrl="Y" original="Close">Закрыть</value>
@@ -782,7 +782,7 @@
     <value column="Text" isTrl="N" original="Aging Balance">Aging Balance</value>
   </row>
   <row id="1005500012" trl="N">
-    <value column="Text" isTrl="N" original="Business partner">Business partner</value>
+    <value column="Text" isTrl="Y" original="Business partner">Контрагент</value>
   </row>
   <row id="1005500014" trl="N">
     <value column="Text" isTrl="N" original="Receivable">Receivable</value>
@@ -797,10 +797,10 @@
     <value column="Text" isTrl="N" original="Day ranges">Day ranges</value>
   </row>
   <row id="1005500019" trl="N">
-    <value column="Text" isTrl="N" original="BP Group">BP Group</value>
+    <value column="Text" isTrl="Y" original="BP Group">Кат. контрагента</value>
   </row>
   <row id="1005500020" trl="N">
-    <value column="Text" isTrl="N" original="Prod Category">Prod Category</value>
+    <value column="Text" isTrl="Y" original="Prod Category">Категория товара</value>
   </row>
   <row id="1005500021" trl="N">
     <value column="Text" isTrl="N" original="AccountSchema">AccountSchema</value>
@@ -3577,10 +3577,10 @@
     <value column="Text" isTrl="N" original="Asset">Asset</value>
   </row>
   <row id="807031" trl="N">
-    <value column="Text" isTrl="N" original="Attached files">Attached files</value>
+    <value column="Text" isTrl="Y" original="Attached files">Вложенные файлы</value>
   </row>
   <row id="807032" trl="N">
-    <value column="Text" isTrl="N" original="Attached to">Attached to</value>
+    <value column="Text" isTrl="Y" original="Attached to">Прикреплено к</value>
   </row>
   <row id="807033" trl="N">
     <value column="Text" isTrl="Y" original="Attachment">Вложение</value>
@@ -3613,10 +3613,10 @@
     <value column="Text" isTrl="N" original="Base">Base</value>
   </row>
   <row id="807044" trl="N">
-    <value column="Text" isTrl="N" original="B.Partner">B.Partner</value>
+    <value column="Text" isTrl="Y" original="B.Partner">Контрагент</value>
   </row>
   <row id="807048" trl="N">
-    <value column="Text" isTrl="N" original="Business Partner Group">Business Partner Group</value>
+    <value column="Text" isTrl="Y" original="Business Partner Group">Категория контрагента</value>
   </row>
   <row id="807051" trl="N">
     <value column="Text" isTrl="N" original="By Ascending Amount">By Ascending Amount</value>

@@ -596,7 +596,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Supplier's payments and prepayments can be made and managed in the payment out window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.">Supplier's payments and prepayments can be made and managed in the payment out window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.</value>
   </row>
   <row id="79FC23AB84F04384B4B7CCCADCDD2942" trl="N">
-    <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
+    <value column="Name" isTrl="Y" original="Cost Center">Центр затрат</value>
     <value column="Description" isTrl="N" original="Cost Center is an accounting dimension which can be used while posting documents to the ledger.">Cost Center is an accounting dimension which can be used while posting documents to the ledger.</value>
     <value column="Help" isTrl="N" original="Cost Center is an accounting dimension which can be used while posting documents to the ledger.">Cost Center is an accounting dimension which can be used while posting documents to the ledger.</value>
   </row>
@@ -606,17 +606,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define values of a selected field, depending on the tab that is being edited.">Define values of a selected field, depending on the tab that is being edited.</value>
   </row>
   <row id="800001" trl="N">
-    <value column="Name" isTrl="N" original="Service Project">Service Project</value>
+    <value column="Name" isTrl="Y" original="Service Project">Сервисный проект</value>
     <value column="Description" isTrl="N" original="Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.">Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.</value>
     <value column="Help" isTrl="N" original="Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.">Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.</value>
   </row>
   <row id="800002" trl="N">
-    <value column="Name" isTrl="N" original="Incoterm">Incoterm</value>
+    <value column="Name" isTrl="Y" original="Incoterm">Условия Incoterm</value>
     <value column="Description" isTrl="N" original="Define international commercial terms (Incoterms) to be used in sales transactions.">Define international commercial terms (Incoterms) to be used in sales transactions.</value>
     <value column="Help" isTrl="N" original="Define international commercial terms (Incoterms) to be used in sales transactions.">Define international commercial terms (Incoterms) to be used in sales transactions.</value>
   </row>
   <row id="800003" trl="N">
-    <value column="Name" isTrl="N" original="Volume Discount">Volume Discount</value>
+    <value column="Name" isTrl="Y" original="Volume Discount">Скидка от объёма</value>
     <value column="Description" isTrl="N" original="Create volume discounts related to products and product categories to be assigned to selected business partners.">Create volume discounts related to products and product categories to be assigned to selected business partners.</value>
     <value column="Help" isTrl="N" original="Volume discounts are discounts which apply after getting a certain volume of sales of specific products or product groups.">Volume discounts are discounts which apply after getting a certain volume of sales of specific products or product groups.</value>
   </row>

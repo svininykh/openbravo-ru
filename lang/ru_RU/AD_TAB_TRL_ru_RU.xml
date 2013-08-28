@@ -148,14 +148,14 @@
     <value column="Help" isTrl="N" original="Enable or disable the heartbeat process and configure internet connection proxy information">Enable or disable the heartbeat process and configure internet connection proxy information</value>
   </row>
   <row id="1005400006" trl="N">
-    <value column="Name" isTrl="N" original="Heartbeat Log">Heartbeat Log</value>
+    <value column="Name" isTrl="Y" original="Heartbeat Log">Журнал Кардиограммы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View a log of information sent to Openbravo by the heartbeat">View a log of information sent to Openbravo by the heartbeat</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="View a log of information sent to Openbravo by the heartbeat">View a log of information sent to Openbravo by the heartbeat</value>
   </row>
   <row id="1007400000" trl="N">
-    <value column="Name" isTrl="N" original="Documents">Documents</value>
+    <value column="Name" isTrl="Y" original="Documents">Документы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add documents to allow/avoid negative entries">Add documents to allow/avoid negative entries</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2264,7 +2264,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit the status of partners bid and thoughts on your proposal by following up with them.">Edit the status of partners bid and thoughts on your proposal by following up with them.</value>
   </row>
   <row id="800008" trl="N">
-    <value column="Name" isTrl="N" original="Incoterms">Incoterms</value>
+    <value column="Name" isTrl="Y" original="Incoterms">Условия Incoterm</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create international commercial terms (Incoterms) to be used in sales transactions.">Create international commercial terms (Incoterms) to be used in sales transactions.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2292,9 +2292,9 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create shipment routes for the selected warehouse.">Create shipment routes for the selected warehouse.</value>
   </row>
   <row id="800014" trl="N">
-    <value column="Name" isTrl="Y" original="Volume Discounts">Скидки от объема</value>
+    <value column="Name" isTrl="Y" original="Volume Discounts">Скидки от объёма</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Create a volume discount.">Create a volume discount.</value>
+    <value column="Description" isTrl="Y" original="Create a volume discount.">Создать скидки от объёма.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Volume Discount window allows to create and properly configure volume discounts related to specific products and/or product groups which are later on assigned to selected business partners.">Volume Discount window allows to create and properly configure volume discounts related to specific products and/or product groups which are later on assigned to selected business partners.</value>
   </row>
@@ -2313,7 +2313,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Volume Discounts can be assigned to selected business partners within a given time period.">Volume Discounts can be assigned to selected business partners within a given time period.</value>
   </row>
   <row id="800017" trl="N">
-    <value column="Name" isTrl="Y" original="Volume Discount">Скидка от объема</value>
+    <value column="Name" isTrl="Y" original="Volume Discount">Скидка от объёма</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add volume discounts which may be made available to this business partner.">Add volume discounts which may be made available to this business partner.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2467,14 +2467,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define a G/L items which can be used to replace G/L items defined in the header tab.">Define a G/L items which can be used to replace G/L items defined in the header tab.</value>
   </row>
   <row id="800056" trl="N">
-    <value column="Name" isTrl="N" original="Product customer">Product customer</value>
+    <value column="Name" isTrl="Y" original="Product customer">Товар клиента</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Asigns products to customers">Asigns products to customers</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Asigns products to customers">Asigns products to customers</value>
   </row>
   <row id="800057" trl="N">
-    <value column="Name" isTrl="N" original="Costing">Costing</value>
+    <value column="Name" isTrl="Y" original="Costing">Себестоимость</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define cost information for this specific product.">Define cost information for this specific product.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2502,7 +2502,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Basic Discount tab allows you to add and configure business partner Basic Discounts.">Basic Discount tab allows you to add and configure business partner Basic Discounts.</value>
   </row>
   <row id="800061" trl="N">
-    <value column="Name" isTrl="N" original="Data types">Data types</value>
+    <value column="Name" isTrl="Y" original="Data types">Типы файлов</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit format for the attach files (.pdf, .html)">Create and edit format for the attach files (.pdf, .html)</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2516,7 +2516,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit remittance types.">Create and edit remittance types.</value>
   </row>
   <row id="800063" trl="N">
-    <value column="Name" isTrl="N" original="Month">Month</value>
+    <value column="Name" isTrl="Y" original="Month">Месяц</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define month names and the part of the year they belong to.">Define month names and the part of the year they belong to.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2572,7 +2572,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Defines the Discounts and Promotions main characteristics such as Discount Type, how it is filtered and actual discount information based on type.">Defines the Discounts and Promotions main characteristics such as Discount Type, how it is filtered and actual discount information based on type.</value>
   </row>
   <row id="800080" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add business partners in order to include or exclude them from a selected Promotion/Discount..">Add business partners in order to include or exclude them from a selected Promotion/Discount..</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2586,14 +2586,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add business partner categories in order to include or exclude them from a selected Promotion/Discount..">Add business partner categories in order to include or exclude them from a selected Promotion/Discount..</value>
   </row>
   <row id="800082" trl="N">
-    <value column="Name" isTrl="N" original="Products">Products</value>
+    <value column="Name" isTrl="Y" original="Products">Товары</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add products in order to include or exclude them from a selected Promotion/Discount..">Add products in order to include or exclude them from a selected Promotion/Discount..</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Add products in order to include or exclude them from a selected Promotion/Discount..">Add products in order to include or exclude them from a selected Promotion/Discount..</value>
   </row>
   <row id="800083" trl="N">
-    <value column="Name" isTrl="N" original="Product Category">Product Category</value>
+    <value column="Name" isTrl="Y" original="Product Category">Категория товара</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add product categories in order to include or exclude them from a selected Promotion/Discount..">Add product categories in order to include or exclude them from a selected Promotion/Discount..</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2607,7 +2607,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create a production plant section to assign work centers to it.">Create a production plant section to assign work centers to it.</value>
   </row>
   <row id="800085" trl="N">
-    <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
+    <value column="Name" isTrl="Y" original="Cost Center">Центр затрат</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create cost centers to be used in production processes.">Create cost centers to be used in production processes.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2621,7 +2621,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add machines to be used in production processes.">Add machines to be used in production processes.</value>
   </row>
   <row id="800087" trl="N">
-    <value column="Name" isTrl="N" original="Work Center">Work Center</value>
+    <value column="Name" isTrl="Y" original="Work Center">Центр работ</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create work centers.">Create work centers.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2719,7 +2719,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create a report for the completed work requirement for a desired date and time.">Create a report for the completed work requirement for a desired date and time.</value>
   </row>
   <row id="800115" trl="N">
-    <value column="Name" isTrl="N" original="Employee">Employee</value>
+    <value column="Name" isTrl="Y" original="Employee">Работник</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add employees that took part in the completion of a related work requirement.">Add employees that took part in the completion of a related work requirement.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2873,7 +2873,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit the forms' and reports' label translations for the predefined languages of your choice.">Edit the forms' and reports' label translations for the predefined languages of your choice.</value>
   </row>
   <row id="800170" trl="N">
-    <value column="Name" isTrl="N" original="Tax Zone">Tax Zone</value>
+    <value column="Name" isTrl="Y" original="Tax Zone">Зона применения</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create tax zones to which the selected tax zone will be applied.">Create tax zones to which the selected tax zone will be applied.</value>
     <value column="Filtername" isTrl="N" original=""/>
