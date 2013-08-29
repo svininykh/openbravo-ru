@@ -1533,19 +1533,19 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="146" trl="N">
-    <value column="MsgText" isTrl="N" original="Applied">Applied</value>
+    <value column="MsgText" isTrl="Y" original="Applied">Применено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="147" trl="N">
-    <value column="MsgText" isTrl="N" original="At first record">At first record</value>
+    <value column="MsgText" isTrl="Y" original="At first record">Первая запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="148" trl="N">
-    <value column="MsgText" isTrl="N" original="At last record">At last record</value>
+    <value column="MsgText" isTrl="Y" original="At last record">Последняя запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="149" trl="N">
-    <value column="MsgText" isTrl="N" original="Attach a File">Attach a File</value>
+    <value column="MsgText" isTrl="Y" original="Attach a File">Вложенный файл</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1495A57880BB4F4A86678D01E892A096" trl="N">
@@ -1557,7 +1557,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="150" trl="N">
-    <value column="MsgText" isTrl="N" original="Do you want to delete this Attachment?">Do you want to delete this Attachment?</value>
+    <value column="MsgText" isTrl="Y" original="Do you want to delete this Attachment?">Вы хотите удалить выбранное вложение?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="151" trl="N">
@@ -1565,7 +1565,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="152" trl="N">
-    <value column="MsgText" isTrl="N" original="Attachment not found">Attachment not found</value>
+    <value column="MsgText" isTrl="Y" original="Attachment not found">Не найдено вложение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="153" trl="N">

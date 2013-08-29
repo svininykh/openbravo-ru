@@ -11566,11 +11566,11 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="59C4D0498A3871B8E040007F010133FD" trl="N">
-    <value column="Name" isTrl="N" original="Export">Export</value>
-    <value column="PrintName" isTrl="N" original="Export">Export</value>
-    <value column="Description" isTrl="N" original="Export Reference Data to a XML file">Export Reference Data to a XML file</value>
-    <value column="Help" isTrl="N" original="Export Reference Data to a XML file">Export Reference Data to a XML file</value>
+  <row id="59C4D0498A3871B8E040007F010133FD" trl="Y">
+    <value column="Name" isTrl="Y" original="Export">Экспорт</value>
+    <value column="PrintName" isTrl="Y" original="Export">Экспорт</value>
+    <value column="Description" isTrl="Y" original="Export Reference Data to a XML file">Экспорт набора данных в XML файл</value>
+    <value column="Help" isTrl="Y" original="Export Reference Data to a XML file">Экспорт набора данных в XML файл</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>

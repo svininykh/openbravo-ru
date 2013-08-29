@@ -1445,7 +1445,7 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="Y" original="Validate and initialize the Costing Rule. It automatically creates and process the Close and Opening Physical inventories to overwrite an existing Costing Rule. If the instance is using the legacy engine costs it is mandatory to run the Cost Migration Process in advance with System Administrator role.">Проверить и инициализировать выбранный метод калькуляции себестоимости запасов. Данный процесс автоматически создаёт и обрабатывает начальные и конечные остатки запасов, делая перерасчёт  калькуляции себестоимости по ним. Если происходит смена механизма калькуляции, то это требует предварительного запуска обработки Cost Migration с ролью System Administrator.</value>
   </row>
   <row id="A34A85C161B342E0916642E86842086F" trl="N">
-    <value column="Name" isTrl="N" original="Export Reference Data">Export Reference Data</value>
+    <value column="Name" isTrl="Y" original="Export Reference Data">Экспорт набора данных</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
