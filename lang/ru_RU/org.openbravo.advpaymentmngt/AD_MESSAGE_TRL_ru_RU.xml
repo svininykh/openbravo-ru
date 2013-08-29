@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MESSAGE" version="">
+  <row id="00D0839059994323B4596EDA7D0BCF56" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Invoice %s is already fully paid.">Счёт-фактура %s полностью оплачена.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="0267A646C8BD4042AE2422BCB83B4610" trl="N">
     <value column="MsgText" isTrl="N" original="Not possible to split the selected bank statement line because is already matched with a transaction.">Not possible to split the selected bank statement line because is already matched with a transaction.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -215,6 +219,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
   </row>
   <row id="8EF25E4AD4EF46E4BCE4E0FACAFC717F" trl="N">
     <value column="MsgText" isTrl="N" original="Bank statement line with wrong date. Cannot process lines previous to ">Bank statement line with wrong date. Cannot process lines previous to </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="8FC3C9524EE54E518B679D58F709119D" trl="N">
+    <value column="MsgText" isTrl="N" original="Do you want the algorithm to be run against unmatched bank statement lines?">Do you want the algorithm to be run against unmatched bank statement lines?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="92EC1935A8B947BA83EF82DBD169CA8B" trl="N">

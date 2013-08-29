@@ -596,14 +596,7 @@ Control Digit must be length 1.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400015" trl="N">
-    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines.
-An order line is created for each requisition line.
-The process closes the requisition when it finishes successfully.
-The Order Date is the date of the Purchase Orders.
-The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.
-The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.
-The Organization is the organization used by the Purchase Orders.
-The Warehouse is the warehouse used by the Purchase Orders.</value>
+    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400016" trl="N">
@@ -1112,7 +1105,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Locator Selector">Used for column name translation in Locator Selector</value>
   </row>
   <row id="1006400020" trl="N">
-    <value column="MsgText" isTrl="N" original="Alias">Обозначение</value>
+    <value column="MsgText" isTrl="Y" original="Alias">Обозначение</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Locator Selector">Used for column name translation in Locator Selector</value>
   </row>
   <row id="1006400021" trl="N">
@@ -1484,7 +1477,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="137" trl="N">
-    <value column="MsgText" isTrl="N" original="All records">Все записи</value>
+    <value column="MsgText" isTrl="Y" original="All records">Все записи</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="138" trl="N">
@@ -1916,7 +1909,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1F5BE473CE2740EC929AF597E3350FA9" trl="N">
-    <value column="MsgText" isTrl="N" original="Disabled">Деактивировать</value>
+    <value column="MsgText" isTrl="Y" original="Disabled">Деактивировать</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1FB12EC9B504421D923D13ABF982EC50" trl="N">
@@ -2953,7 +2946,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="37B25D3CE4344D7CA0E2452CEE985BAF" trl="N">
-    <value column="MsgText" isTrl="N" original="The module(s) will be uninstalled. Are you sure you want to continue?">Модуль(и) будет удалён. Вы уверены, что хотите продолжить?</value>
+    <value column="MsgText" isTrl="Y" original="The module(s) will be uninstalled. Are you sure you want to continue?">Модуль(и) будет удалён. Вы уверены, что хотите продолжить?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="37F3E24F755145D0A02DCAFFBE71E458" trl="N">
@@ -3216,24 +3209,23 @@ Be aware that if the daily limit is exceeded @extraDays@ more times in the @numb
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="415" trl="N">
-    <value column="MsgText" isTrl="N" original="Posting Error: Source Currency not convertible">Ошибка проводки: Базовая валюта не конвертируется</value>
+    <value column="MsgText" isTrl="Y" original="Posting Error: Source Currency not convertible">Ошибка проводки: Базовая валюта не конвертируется</value>
     <value column="MsgTip" isTrl="N" original="Define exchange rate from the source currency to your accounting currencies">Define exchange rate from the source currency to your accounting currencies</value>
   </row>
   <row id="416" trl="N">
-    <value column="MsgText" isTrl="N" original="Posting Error: Invalid Account">Ошибка проводки: Неверный счёт</value>
+    <value column="MsgText" isTrl="Y" original="Posting Error: Invalid Account">Ошибка проводки: Неверный счёт</value>
     <value column="MsgTip" isTrl="N" original="Account is no longer Active; Reactivate account value or choose new">Account is no longer Active; Reactivate account value or choose new</value>
   </row>
   <row id="417" trl="N">
-    <value column="MsgText" isTrl="N" original="Posting Error: Period Closed">Ошибка проводки: Период закрыт</value>
+    <value column="MsgText" isTrl="Y" original="Posting Error: Period Closed">Ошибка проводки: Период закрыт</value>
     <value column="MsgTip" isTrl="N" original="(Re-) Open Period or change Accounting Date">(Re-) Open Period or change Accounting Date</value>
   </row>
   <row id="4175F8D83F474E808F89BD557C36D3CC" trl="N">
-    <value column="MsgText" isTrl="N" original="13th Period">13ый период</value>
+    <value column="MsgText" isTrl="Y" original="13th Period">13ый период</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="417C01FAE8E447F7985AA6C04074924C" trl="N">
-    <value column="MsgText" isTrl="Y" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table.
-This column is already checked as key: </value>
+    <value column="MsgText" isTrl="N" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table. &#10;This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="418" trl="N">
@@ -5691,27 +5683,27 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800173" trl="N">
-    <value column="MsgText" isTrl="N" original="The data has been correctly processed">Данные были корректно обработаны</value>
+    <value column="MsgText" isTrl="Y" original="The data has been correctly processed">Данные были корректно обработаны</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800174" trl="N">
-    <value column="MsgText" isTrl="N" original="You have not filled in all needed fields">Вы не заполнили все поля требующие заполнения</value>
+    <value column="MsgText" isTrl="Y" original="You have not filled in all needed fields">Вы не заполнили все поля требующие заполнения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800175" trl="N">
-    <value column="MsgText" isTrl="N" original="This option is disabled">Эта функция деактивирована</value>
+    <value column="MsgText" isTrl="Y" original="This option is disabled">Эта функция деактивирована</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800176" trl="N">
-    <value column="MsgText" isTrl="N" original="The text typed is not a number">Введённый текст не число</value>
+    <value column="MsgText" isTrl="Y" original="The text typed is not a number">Введённый текст не число</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800177" trl="N">
-    <value column="MsgText" isTrl="N" original="The date entered is incorrect or is not in the correct format">Введённая дата неверна или неверен её формат</value>
+    <value column="MsgText" isTrl="Y" original="The date entered is incorrect or is not in the correct format">Введённая дата неверна или неверен её формат</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800178" trl="N">
-    <value column="MsgText" isTrl="N" original="The data could not be processed">Данные не могут быть обработаны</value>
+    <value column="MsgText" isTrl="Y" original="The data could not be processed">Данные не могут быть обработаны</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800179" trl="N">
@@ -5723,19 +5715,19 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800181" trl="N">
-    <value column="MsgText" isTrl="N" original="The value is not in a valid range">Значение не в заданном диапазоне</value>
+    <value column="MsgText" isTrl="Y" original="The value is not in a valid range">Значение не в заданном диапазоне</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800182" trl="N">
-    <value column="MsgText" isTrl="N" original="This field is full and cannot receive more characters">Поле полностью заполнено и не может содержать больше символов</value>
+    <value column="MsgText" isTrl="Y" original="This field is full and cannot receive more characters">Поле полностью заполнено и не может содержать больше символов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800183" trl="N">
-    <value column="MsgText" isTrl="N" original="The time entered is incorrect or is not in the correct format">Введённое время неверно или неверен его формат</value>
+    <value column="MsgText" isTrl="Y" original="The time entered is incorrect or is not in the correct format">Введённое время неверно или неверен его формат</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800184" trl="N">
-    <value column="MsgText" isTrl="N" original="There is more than one record selected">Больше чем одна запись выбрана</value>
+    <value column="MsgText" isTrl="Y" original="There is more than one record selected">Больше чем одна запись выбрана</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800185" trl="N">
@@ -5779,15 +5771,15 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800195" trl="N">
-    <value column="MsgText" isTrl="N" original="The record will be deleted. Are you sure you want to continue?">Запись будет удалена. Вы уверены, что хотите продолжить?</value>
+    <value column="MsgText" isTrl="Y" original="The record will be deleted. Are you sure you want to continue?">Запись будет удалена. Вы уверены, что хотите продолжить?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800196" trl="N">
-    <value column="MsgText" isTrl="N" original="There are changes in the current record. Do you want to continue? (You will lose your changes)">Внесены изменения в текущую запись. Вы хотите продолжить? (Ваши изменения будут утеряны)</value>
+    <value column="MsgText" isTrl="Y" original="There are changes in the current record. Do you want to continue? (You will lose your changes)">Внесены изменения в текущую запись. Вы хотите продолжить? (Ваши изменения будут утеряны)</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800197" trl="N">
-    <value column="MsgText" isTrl="N" original="You are modifying this record. Are you sure you want to continue?">Вы изменили эту запись. Вы уверены, что хотите продолжить?</value>
+    <value column="MsgText" isTrl="Y" original="You are modifying this record. Are you sure you want to continue?">Вы изменили эту запись. Вы уверены, что хотите продолжить?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800198" trl="N">
@@ -7479,7 +7471,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BAD33CDEBE2547A9A2FF7E87DA0B4C38" trl="N">
-    <value column="MsgText" isTrl="N" original="The module will be enabled. Are you sure you want to continue?">Модуль будет активирован. Вы уверены, что хотите продолжить?</value>
+    <value column="MsgText" isTrl="Y" original="The module will be enabled. Are you sure you want to continue?">Модуль будет активирован. Вы уверены, что хотите продолжить?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BB7BE31A47834B5EAA165B9D05367895" trl="N">
@@ -7607,8 +7599,8 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C5C60807FB7C407B934AEF9353740FD8" trl="N">
-    <value column="MsgText" isTrl="Y" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">Если выбрано &quot;Доступно в финансовых счетах&quot;, то обязательно должна быть задана категория налога. Если не выбрано, то категория налога не задаётся.</value>
-    <value column="MsgTip" isTrl="Y" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">Если выбрано &quot;Доступно в финансовых счетах&quot;, то обязательно должна быть задана категория налога. Если не выбрано, то категория налога не задаётся.</value>
+    <value column="MsgText" isTrl="Y" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">Если выбрано "Доступно в финансовых счетах", то обязательно должна быть задана категория налога. Если не выбрано, то категория налога не задаётся.</value>
+    <value column="MsgTip" isTrl="Y" original="If &quot;Enable In Financial Invoices&quot; flag is true, then tax category is mandatory. If flag is false, then tax category should not be selected.">Если выбрано "Доступно в финансовых счетах", то обязательно должна быть задана категория налога. Если не выбрано, то категория налога не задаётся.</value>
   </row>
   <row id="C5EA198B5E9044B990210D46B83B2D93" trl="N">
     <value column="MsgText" isTrl="N" original="One or more related Matched Invoice documents are posted, and cannot be deleted.">One or more related Matched Invoice documents are posted, and cannot be deleted.</value>
@@ -7627,7 +7619,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C6B53C6EC4A94F24ACBB8B3EEDF592B5" trl="N">
-    <value column="MsgText" isTrl="N" original="Please add the product">Пожалуйста добавте товар</value>
+    <value column="MsgText" isTrl="Y" original="Please add the product">Пожалуйста добавьте товар</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C6DE79E703C743D7B0BF88E03EE2F742" trl="N">
@@ -7731,11 +7723,11 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CFFCDC177B244DBEAAA656CCF8E8C0AA" trl="N">
-    <value column="MsgText" isTrl="N" original="Email server is not configured.">Сервер электронной почты не настроен.</value>
+    <value column="MsgText" isTrl="Y" original="Email server is not configured.">Сервер электронной почты не настроен.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D0692F1D88A14444AC768A7C13785E03" trl="N">
-    <value column="MsgText" isTrl="N" original="Invalid username/password.">Неверное имя/пароль.</value>
+    <value column="MsgText" isTrl="Y" original="Invalid username/password.">Неверное имя/пароль.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D09207D3B838452783F194A6A2CDBBA8" trl="N">
@@ -7743,7 +7735,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D0B014FB99D342BCA7D2791F602BABF0" trl="N">
-    <value column="MsgText" isTrl="N" original="Enable">Активировать</value>
+    <value column="MsgText" isTrl="Y" original="Enable">Активировать</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D0C3100272724DE8B9024BD21AC94B2F" trl="N">
@@ -7832,7 +7824,7 @@ Ask System Administrator to unlock it.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D6F0D703B42242109E932570B7C61765" trl="N">
-    <value column="MsgText" isTrl="N" original="The module(s) will be disabled. Are you sure you want to continue?">Модуль(и) будут деактивирован. Вы уверены, что хотите продолжить?</value>
+    <value column="MsgText" isTrl="Y" original="The module(s) will be disabled. Are you sure you want to continue?">Модуль(и) будут деактивирован. Вы уверены, что хотите продолжить?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D708B222B042402398CD850C87B8E453" trl="N">
