@@ -31,8 +31,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="026C0C35D730459B865E7242955C87F2" trl="N">
-    <value column="Name" isTrl="N" original="Path">Path</value>
-    <value column="PrintName" isTrl="N" original="Path">Path</value>
+    <value column="Name" isTrl="Y" original="Path">Путь</value>
+    <value column="PrintName" isTrl="Y" original="Path">Путь</value>
     <value column="Description" isTrl="N" original="Location of the file relative to the attachments folder">Location of the file relative to the attachments folder</value>
     <value column="Help" isTrl="N" original="Location of the file relative to the attachments folder">Location of the file relative to the attachments folder</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -101,8 +101,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="075BF3C1A80D41868E0362185F309415" trl="N">
-    <value column="Name" isTrl="N" original="Default Your Company Big Image">Default Your Company Big Image</value>
-    <value column="PrintName" isTrl="N" original="Default Your Company Big Image">Default Your Company Big Image</value>
+    <value column="Name" isTrl="Y" original="Default Your Company Big Image">Большой логотип компании по-умолчанию</value>
+    <value column="PrintName" isTrl="Y" original="Default Your Company Big Image">Большой логотип компании по-умолчанию</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -261,8 +261,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500001" trl="N">
-    <value column="Name" isTrl="N" original="Abc">Abc</value>
-    <value column="PrintName" isTrl="N" original="Abc">Abc</value>
+    <value column="Name" isTrl="Y" original="Abc">ABC по Парето</value>
+    <value column="PrintName" isTrl="Y" original="Abc">ABC по Парето</value>
     <value column="Description" isTrl="N" original="ABC classification according to a Pareto distribution">ABC classification according to a Pareto distribution</value>
     <value column="Help" isTrl="N" original="ABC classification according to a Pareto distribution">ABC classification according to a Pareto distribution</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -271,8 +271,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500002" trl="N">
-    <value column="Name" isTrl="N" original="Email_Type">Email_Type</value>
-    <value column="PrintName" isTrl="N" original="Email_Type">Email_Type</value>
+    <value column="Name" isTrl="Y" original="Email_Type">Тип эл. почты</value>
+    <value column="PrintName" isTrl="Y" original="Email_Type">Тип эл. почты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -281,9 +281,9 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500003" trl="N">
-    <value column="Name" isTrl="N" original="Poc Document Type">Poc Document Type</value>
-    <value column="PrintName" isTrl="N" original="Poc Document Type">Poc Document Type</value>
-    <value column="Description" isTrl="N" original="The document type">The document type</value>
+    <value column="Name" isTrl="Y" original="Poc Document Type">Тип документа</value>
+    <value column="PrintName" isTrl="Y" original="Poc Document Type">Тип документа</value>
+    <value column="Description" isTrl="N" original="The document type">Тип документа</value>
     <value column="Help" isTrl="N" original="Informs about the document type we are configuring">Informs about the document type we are configuring</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -301,8 +301,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500005" trl="N">
-    <value column="Name" isTrl="N" original="Template Location">Template Location</value>
-    <value column="PrintName" isTrl="N" original="Template Location">Template Location</value>
+    <value column="Name" isTrl="Y" original="Template Location">Расположение шаблона</value>
+    <value column="PrintName" isTrl="Y" original="Template Location">Расположение шаблона</value>
     <value column="Description" isTrl="N" original="The location of the template">The location of the template</value>
     <value column="Help" isTrl="N" original="Set up the location of the jasper template in your system">Set up the location of the jasper template in your system</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -321,8 +321,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500007" trl="N">
-    <value column="Name" isTrl="N" original="Address_Type">Address_Type</value>
-    <value column="PrintName" isTrl="N" original="Address_Type">Address_Type</value>
+    <value column="Name" isTrl="Y" original="Address_Type">Тип адреса</value>
+    <value column="PrintName" isTrl="Y" original="Address_Type">Тип адреса</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -331,8 +331,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500008" trl="N">
-    <value column="Name" isTrl="N" original="Subject">Subject</value>
-    <value column="PrintName" isTrl="N" original="Subject">Subject</value>
+    <value column="Name" isTrl="Y" original="Subject">Заголовок</value>
+    <value column="PrintName" isTrl="Y" original="Subject">Заголовок</value>
     <value column="Description" isTrl="N" original="The Subject of the mail ">The Subject of the mail </value>
     <value column="Help" isTrl="N" original=" References will be replaced by values:&#10;    * @cus_ref@: The document reference of the customer&#10;    * @our_ref@: The reference of the document&#10;    * @cus_nam@: The name of the customer&#10;    * @sal_nam@: The name of the sales rep.&#10;"> References will be replaced by values:
     * @cus_ref@: The document reference of the customer
@@ -356,8 +356,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500010" trl="N">
-    <value column="Name" isTrl="N" original="Template Filename">Template Filename</value>
-    <value column="PrintName" isTrl="N" original="Template Filename">Template Filename</value>
+    <value column="Name" isTrl="Y" original="Template Filename">Имя файла шаблона</value>
+    <value column="PrintName" isTrl="Y" original="Template Filename">Имя файла шаблона</value>
     <value column="Description" isTrl="N" original="Name of the template">Name of the template</value>
     <value column="Help" isTrl="N" original="Configure the name of the Jasper JRXML template">Configure the name of the Jasper JRXML template</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -366,8 +366,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500011" trl="N">
-    <value column="Name" isTrl="N" original="Address_To">Address_To</value>
-    <value column="PrintName" isTrl="N" original="Address_To">Address_To</value>
+    <value column="Name" isTrl="Y" original="Address_To">Адрес получателя</value>
+    <value column="PrintName" isTrl="Y" original="Address_To">Адрес получателя</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -376,8 +376,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500012" trl="N">
-    <value column="Name" isTrl="N" original="Address_Cc">Address_Cc</value>
-    <value column="PrintName" isTrl="N" original="Address_Cc">Address_Cc</value>
+    <value column="Name" isTrl="Y" original="Address_Cc">Адрес копии</value>
+    <value column="PrintName" isTrl="Y" original="Address_Cc">Адрес копии</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -386,8 +386,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500013" trl="N">
-    <value column="Name" isTrl="N" original="Report Filename">Report Filename</value>
-    <value column="PrintName" isTrl="N" original="Report Filename">Report Filename</value>
+    <value column="Name" isTrl="N" original="Report Filename">Имя файла отчёта</value>
+    <value column="PrintName" isTrl="N" original="Report Filename">Имя файла отчёта</value>
     <value column="Description" isTrl="N" original="The name of the generated file">The name of the generated file</value>
     <value column="Help" isTrl="N" original="Configure the name of the generated name. Set up a pattern and each time that this jasper template is used the patter will be used to generate the file name">Configure the name of the generated name. Set up a pattern and each time that this jasper template is used the patter will be used to generate the file name</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -396,8 +396,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500014" trl="N">
-    <value column="Name" isTrl="N" original="Smtp Server Account">Smtp Server Account</value>
-    <value column="PrintName" isTrl="N" original="Smtp Server Account">Smtp Server Account</value>
+    <value column="Name" isTrl="Y" original="Smtp Server Account">Логин SMTP сервера</value>
+    <value column="PrintName" isTrl="Y" original="Smtp Server Account">Логин SMTP сервера</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -406,8 +406,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500015" trl="N">
-    <value column="Name" isTrl="N" original="Body">Body</value>
-    <value column="PrintName" isTrl="N" original="Body">Body</value>
+    <value column="Name" isTrl="Y" original="Body">Содержание</value>
+    <value column="PrintName" isTrl="Y" original="Body">Содержание</value>
     <value column="Description" isTrl="N" original="The body side of the email">The body side of the email</value>
     <value column="Help" isTrl="N" original="As in the subject some tags are available &#10;References will be replaced by values:&#10;    * @cus_ref@: The document reference of the customer&#10;    * @our_ref@: The reference of the document&#10;    * @cus_nam@: The name of the customer&#10;    * @sal_nam@: The name of the sales rep.&#10;">As in the subject some tags are available
 References will be replaced by values:
@@ -422,8 +422,8 @@ References will be replaced by values:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500016" trl="N">
-    <value column="Name" isTrl="N" original="Dateofemail">Dateofemail</value>
-    <value column="PrintName" isTrl="N" original="Dateofemail">Dateofemail</value>
+    <value column="Name" isTrl="Y" original="Dateofemail">Дата письма</value>
+    <value column="PrintName" isTrl="Y" original="Dateofemail">Дата письма</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -432,8 +432,8 @@ References will be replaced by values:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500017" trl="N">
-    <value column="Name" isTrl="N" original="Smtp Server">Smtp Server</value>
-    <value column="PrintName" isTrl="N" original="Smtp Server">Smtp Server</value>
+    <value column="Name" isTrl="Y" original="Smtp Server">SMTP сервер</value>
+    <value column="PrintName" isTrl="Y" original="Smtp Server">SMTP сервер</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -442,8 +442,8 @@ References will be replaced by values:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500018" trl="N">
-    <value column="Name" isTrl="N" original="Address_From">Address_From</value>
-    <value column="PrintName" isTrl="N" original="Address_From">Address_From</value>
+    <value column="Name" isTrl="Y" original="Address_From">Адрес отправителя</value>
+    <value column="PrintName" isTrl="Y" original="Address_From">Адрес отправителя</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -452,8 +452,8 @@ References will be replaced by values:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500020" trl="N">
-    <value column="Name" isTrl="N" original="Smtp Server Password">Smtp Server Password</value>
-    <value column="PrintName" isTrl="N" original="Smtp Server Password">Smtp Server Password</value>
+    <value column="Name" isTrl="Y" original="Smtp Server Password">Пароль SMTP сервера</value>
+    <value column="PrintName" isTrl="Y" original="Smtp Server Password">Пароль SMTP сервера</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -462,8 +462,8 @@ References will be replaced by values:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1000500022" trl="N">
-    <value column="Name" isTrl="N" original="Address_Bcc">Address_Bcc</value>
-    <value column="PrintName" isTrl="N" original="Address_Bcc">Address_Bcc</value>
+    <value column="Name" isTrl="Y" original="Address_Bcc">Адрес скрытой копии</value>
+    <value column="PrintName" isTrl="Y" original="Address_Bcc">Адрес скрытой копии</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -512,7 +512,7 @@ References will be replaced by values:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1002100000" trl="N">
-    <value column="Name" isTrl="N" original="Include Tax">Include Tax</value>
+    <value column="Name" isTrl="Y" original="Include Tax">Включая налог</value>
     <value column="PrintName" isTrl="N" original="Include Tax Inps">Include Tax Inps</value>
     <value column="Description" isTrl="N" original="Include Tax Inps">Include Tax Inps</value>
     <value column="Help" isTrl="N" original="Include Tax Inps">Include Tax Inps</value>
@@ -591,11 +591,11 @@ References will be replaced by values:
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="1002100009" trl="N">
-    <value column="Name" isTrl="N" original="Report Name">Report Name</value>
-    <value column="PrintName" isTrl="N" original="Report name">Report name</value>
-    <value column="Description" isTrl="N" original="Report name">Report name</value>
-    <value column="Help" isTrl="N" original="Report name">Report name</value>
+  <row id="1002100009" trl="Y">
+    <value column="Name" isTrl="Y" original="Report Name">Название отчёта</value>
+    <value column="PrintName" isTrl="Y" original="Report name">Название отчёта</value>
+    <value column="Description" isTrl="Y" original="Report name">Название отчёта</value>
+    <value column="Help" isTrl="Y" original="Report name">Название отчёта</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1058,19 +1058,19 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="1005400011" trl="N">
-    <value column="Name" isTrl="N" original="Operating System Version">Operating System Version</value>
-    <value column="PrintName" isTrl="N" original="Operating System Version">Operating System Version</value>
-    <value column="Description" isTrl="N" original="The version of Operating System.">The version of Operating System.</value>
-    <value column="Help" isTrl="N" original="The version of Operating System.">The version of Operating System.</value>
+  <row id="1005400011" trl="Y">
+    <value column="Name" isTrl="Y" original="Operating System Version">Версия оперционной системы</value>
+    <value column="PrintName" isTrl="Y" original="Operating System Version">Версия оперционной системы</value>
+    <value column="Description" isTrl="Y" original="The version of Operating System.">Версия оперционной системы.</value>
+    <value column="Help" isTrl="Y" original="The version of Operating System.">Версия оперционной системы.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400013" trl="N">
-    <value column="Name" isTrl="N" original="Proxy Port">Proxy Port</value>
-    <value column="PrintName" isTrl="N" original="Proxy Port">Proxy Port</value>
+    <value column="Name" isTrl="Y" original="Proxy Port">Порт прокси</value>
+    <value column="PrintName" isTrl="Y" original="Proxy Port">Порт прокси</value>
     <value column="Description" isTrl="N" original="Proxy port on the proxy server used to access the internet.">Proxy port on the proxy server used to access the internet.</value>
     <value column="Help" isTrl="N" original="Proxy port on the proxy server.">Proxy port on the proxy server.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1089,8 +1089,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400017" trl="N">
-    <value column="Name" isTrl="N" original="Enable Heartbeat">Enable Heartbeat</value>
-    <value column="PrintName" isTrl="N" original="Enable Heartbeat">Enable Heartbeat</value>
+    <value column="Name" isTrl="Y" original="Enable Heartbeat">Включить Кардиограмму</value>
+    <value column="PrintName" isTrl="Y" original="Enable Heartbeat">Включить Кардиограмму</value>
     <value column="Description" isTrl="N" original="Disable Heartbeat process">Disable Heartbeat process</value>
     <value column="Help" isTrl="N" original="Disable Heartbeat process">Disable Heartbeat process</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1109,8 +1109,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400021" trl="N">
-    <value column="Name" isTrl="N" original="Ant Version">Ant Version</value>
-    <value column="PrintName" isTrl="N" original="Ant Version">Ant Version</value>
+    <value column="Name" isTrl="Y" original="Ant Version">Версия Ant</value>
+    <value column="PrintName" isTrl="Y" original="Ant Version">Версия Ant</value>
     <value column="Description" isTrl="N" original="The version of Ant used to build the application.">The version of Ant used to build the application.</value>
     <value column="Help" isTrl="N" original="The version of Ant used to build the application.">The version of Ant used to build the application.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1119,8 +1119,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400022" trl="N">
-    <value column="Name" isTrl="N" original="Database">Database</value>
-    <value column="PrintName" isTrl="N" original="Database">Database</value>
+    <value column="Name" isTrl="Y" original="Database">СУБД</value>
+    <value column="PrintName" isTrl="Y" original="Database">СУБД</value>
     <value column="Description" isTrl="N" original="The database in use by the system.">The database in use by the system.</value>
     <value column="Help" isTrl="N" original="The database in use by the system.">The database in use by the system.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1149,20 +1149,20 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400026" trl="N">
-    <value column="Name" isTrl="N" original="Openbravo Version">Openbravo Version</value>
-    <value column="PrintName" isTrl="N" original="Openbravo Version">Openbravo Version</value>
-    <value column="Description" isTrl="N" original="The version of Openbravo.">The version of Openbravo.</value>
+    <value column="Name" isTrl="Y" original="Openbravo Version">Версия Openbravo</value>
+    <value column="PrintName" isTrl="Y" original="Openbravo Version">Версия Openbravo</value>
+    <value column="Description" isTrl="Y" original="The version of Openbravo.">Версия Openbravo.</value>
     <value column="Help" isTrl="N" original="The version of this installed Openbravo instance">The version of this installed Openbravo instance</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="1005400028" trl="N">
-    <value column="Name" isTrl="N" original="Operating System">Operating System</value>
-    <value column="PrintName" isTrl="N" original="Operating System">Operating System</value>
-    <value column="Description" isTrl="N" original="The type of Operating System.">The type of Operating System.</value>
-    <value column="Help" isTrl="N" original="The type of Operating System.">The type of Operating System.</value>
+  <row id="1005400028" trl="Y">
+    <value column="Name" isTrl="Y" original="Operating System">Операционная система</value>
+    <value column="PrintName" isTrl="Y" original="Operating System">Операционная система</value>
+    <value column="Description" isTrl="Y" original="The type of Operating System.">Тип операционной системы.</value>
+    <value column="Help" isTrl="Y" original="The type of Operating System.">Тип операционной системы.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1178,19 +1178,19 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="1005400032" trl="N">
-    <value column="Name" isTrl="N" original="Database Version">Database Version</value>
-    <value column="PrintName" isTrl="N" original="Database Version">Database Version</value>
-    <value column="Description" isTrl="N" original="The version of database.">The version of database.</value>
-    <value column="Help" isTrl="N" original="The version of database.">The version of database.</value>
+  <row id="1005400032" trl="Y">
+    <value column="Name" isTrl="Y" original="Database Version">Версия СУБД</value>
+    <value column="PrintName" isTrl="Y" original="Database Version">Версия СУБД</value>
+    <value column="Description" isTrl="Y" original="The version of database.">Версия СУБД.</value>
+    <value column="Help" isTrl="Y" original="The version of database.">Версия СУБД.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400033" trl="N">
-    <value column="Name" isTrl="N" original="Proxy Server">Proxy Server</value>
-    <value column="PrintName" isTrl="N" original="Proxy Server">Proxy Server</value>
+    <value column="Name" isTrl="Y" original="Proxy Server">Сервер прокси</value>
+    <value column="PrintName" isTrl="Y" original="Proxy Server">Сервер прокси</value>
     <value column="Description" isTrl="N" original="Proxy server used to access the internet.">Proxy server used to access the internet.</value>
     <value column="Help" isTrl="N" original="Proxy server name.">Proxy server name.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1199,8 +1199,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400035" trl="N">
-    <value column="Name" isTrl="N" original="Test Heartbeat">Test Heartbeat</value>
-    <value column="PrintName" isTrl="N" original="Test Heartbeat">Test Heartbeat</value>
+    <value column="Name" isTrl="Y" original="Test Heartbeat">Тест Кардиограммы</value>
+    <value column="PrintName" isTrl="Y" original="Test Heartbeat">Тест Кардиограммы</value>
     <value column="Description" isTrl="N" original="Test the current proxy configuration.">Test the current proxy configuration.</value>
     <value column="Help" isTrl="N" original="Test the current proxy configuration.">Test the current proxy configuration.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1239,8 +1239,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400040" trl="N">
-    <value column="Name" isTrl="N" original="Activate Registration">Activate Registration</value>
-    <value column="PrintName" isTrl="N" original="Activate Registration">Activate Registration</value>
+    <value column="Name" isTrl="Y" original="Activate Registration">Активация регистрации</value>
+    <value column="PrintName" isTrl="Y" original="Activate Registration">Активация регистрации</value>
     <value column="Description" isTrl="N" original="Enable or disable your registration with Openbravo">Enable or disable your registration with Openbravo</value>
     <value column="Help" isTrl="N" original="Enable or disable your registration with Openbravo">Enable or disable your registration with Openbravo</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1248,21 +1248,21 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="1005400041" trl="N">
+  <row id="1005400041" trl="Y">
     <value column="Name" isTrl="Y" original="Web Server Version">Версия веб сервера</value>
     <value column="PrintName" isTrl="Y" original="Web Server Version">Версия веб сервера</value>
-    <value column="Description" isTrl="N" original="The version of Web Server">The version of Web Server</value>
-    <value column="Help" isTrl="N" original="The version of Web Server">The version of Web Server</value>
+    <value column="Description" isTrl="Y" original="The version of Web Server">Версия веб сервера</value>
+    <value column="Help" isTrl="Y" original="The version of Web Server">Версия веб сервера</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="1005400042" trl="N">
-    <value column="Name" isTrl="N" original="Number of Registered Users">Number of Registered Users</value>
-    <value column="PrintName" isTrl="N" original="Number of Registered Users">Number of Registered Users</value>
-    <value column="Description" isTrl="N" original="Number of registered users.">Number of registered users.</value>
-    <value column="Help" isTrl="N" original="Number of registered users">Number of registered users</value>
+  <row id="1005400042" trl="Y">
+    <value column="Name" isTrl="Y" original="Number of Registered Users">Кол-во зарегистрированных пользователей</value>
+    <value column="PrintName" isTrl="Y" original="Number of Registered Users">Кол-во зарегистрированных пользователей</value>
+    <value column="Description" isTrl="Y" original="Number of registered users.">Количество зарегистрированных пользователей.</value>
+    <value column="Help" isTrl="Y" original="Number of registered users">Количество зарегистрированных пользователей</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1349,8 +1349,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005500010" trl="N">
-    <value column="Name" isTrl="N" original="Use IBAN">Use IBAN</value>
-    <value column="PrintName" isTrl="N" original="Use IBAN">Use IBAN</value>
+    <value column="Name" isTrl="Y" original="Use IBAN">Использовать IBAN</value>
+    <value column="PrintName" isTrl="Y" original="Use IBAN">>Использовать IBAN</value>
     <value column="Description" isTrl="N" original="Use IBAN for generating the Displayed Account Number">Use IBAN for generating the Displayed Account Number</value>
     <value column="Help" isTrl="N" original="Use IBAN for generating the Displayed Account Number">Use IBAN for generating the Displayed Account Number</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1358,19 +1358,19 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="1005500011" trl="N">
-    <value column="Name" isTrl="N" original="Use Spanish Format">Use Spanish Format</value>
-    <value column="PrintName" isTrl="N" original="Use Spanish Format">Use Spanish Format</value>
-    <value column="Description" isTrl="N" original="Use Spanish Format">Use Spanish Format</value>
-    <value column="Help" isTrl="N" original="Use Spanish Format">Use Spanish Format</value>
+  <row id="1005500011" trl="Y">
+    <value column="Name" isTrl="Y" original="Use Spanish Format">Использовать испанский формат</value>
+    <value column="PrintName" isTrl="Y" original="Use Spanish Format">Использовать испанский формат</value>
+    <value column="Description" isTrl="Y" original="Use Spanish Format">Использовать испанский формат</value>
+    <value column="Help" isTrl="Y" original="Use Spanish Format">Использовать испанский формат</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005900000" trl="N">
-    <value column="Name" isTrl="N" original="Create Temporary Price List">Create Temporary Price List</value>
-    <value column="PrintName" isTrl="N" original="Create Temporary Price List">Create Temporary Price List</value>
+    <value column="Name" isTrl="Y" original="Create Temporary Price List">Создать временный прейскурант</value>
+    <value column="PrintName" isTrl="Y" original="Create Temporary Price List">Создать временный прейскурант</value>
     <value column="Description" isTrl="N" original="This option permits to indicate if a temporary price list will be created.">This option permits to indicate if a temporary price list will be created.</value>
     <value column="Help" isTrl="N" original="This option permits to indicate if a temporary price list will be created for the current project when changing its status to 'Order'.">This option permits to indicate if a temporary price list will be created for the current project when changing its status to 'Order'.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1379,8 +1379,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005900001" trl="N">
-    <value column="Name" isTrl="N" original="Standard Duration in Days">Standard Duration in Days</value>
-    <value column="PrintName" isTrl="N" original="Standard Duration in Days">Standard Duration in Days</value>
+    <value column="Name" isTrl="Y" original="Standard Duration in Days">Стандартная продолжительность дней</value>
+    <value column="PrintName" isTrl="Y" original="Standard Duration in Days">Стандартная продолжительность дней</value>
     <value column="Description" isTrl="N" original="Standard Duration in Days of a Standard Phase or a Standard Task">Standard Duration in Days of a Standard Phase or a Standard Task</value>
     <value column="Help" isTrl="N" original="Standard Duration in Days is used to schedule projects through Set Project Type process.">Standard Duration in Days is used to schedule projects through Set Project Type process.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1500,8 +1500,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1019" trl="N">
-    <value column="Name" isTrl="N" original="Employee Expenses">Employee Expenses</value>
-    <value column="PrintName" isTrl="N" original="Employee Expense">Employee Expense</value>
+    <value column="Name" isTrl="Y" original="Employee Expenses">Расходы на зарплату</value>
+    <value column="PrintName" isTrl="Y" original="Employee Expense">Расходы на зарплату</value>
     <value column="Description" isTrl="N" original="Account for Employee Expenses">Account for Employee Expenses</value>
     <value column="Help" isTrl="N" original="The Employee Expense Account identifies the account to use for recording expenses for this employee.">The Employee Expense Account identifies the account to use for recording expenses for this employee.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1520,8 +1520,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1020" trl="N">
-    <value column="Name" isTrl="N" original="Employee Prepayments">Employee Prepayments</value>
-    <value column="PrintName" isTrl="N" original="Employee Prepayment">Employee Prepayment</value>
+    <value column="Name" isTrl="Y" original="Employee Prepayments">Авансы работников</value>
+    <value column="PrintName" isTrl="Y" original="Employee Prepayment">Авансы работников</value>
     <value column="Description" isTrl="N" original="Account for Employee Expense Prepayments">Account for Employee Expense Prepayments</value>
     <value column="Help" isTrl="N" original="The Employee Prepayment Account identifies the account to use for recording expense advances made to this employee.">The Employee Prepayment Account identifies the account to use for recording expense advances made to this employee.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1540,8 +1540,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1022" trl="N">
-    <value column="Name" isTrl="N" original="Report">Report</value>
-    <value column="PrintName" isTrl="N" original="Report">Report</value>
+    <value column="Name" isTrl="Y" original="Report">Отчёт</value>
+    <value column="PrintName" isTrl="Y" original="Report">Отчёт</value>
     <value column="Description" isTrl="N" original="An indication whether something is a document, or a report which summarizes information.">An indication whether something is a document, or a report which summarizes information.</value>
     <value column="Help" isTrl="N" original="The Report checkbox indicates that this record is a report as opposed to a process">The Report checkbox indicates that this record is a report as opposed to a process</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1570,8 +1570,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="Y" original="Goods Receipt Line">Строка приходной накладной</value>
   </row>
   <row id="1027" trl="N">
-    <value column="Name" isTrl="N" original="Phys.Inventory">Phys.Inventory</value>
-    <value column="PrintName" isTrl="N" original="Phys.Inventory">Phys.Inventory</value>
+    <value column="Name" isTrl="Y" original="Phys.Inventory">Складские остатки</value>
+    <value column="PrintName" isTrl="Y" original="Phys.Inventory">Складские остатки</value>
     <value column="Description" isTrl="N" original="Parameters for a Physical Inventory">Parameters for a Physical Inventory</value>
     <value column="Help" isTrl="N" original="The Physical Inventory indicates a unique parameters for a physical inventory.">The Physical Inventory indicates a unique parameters for a physical inventory.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1580,8 +1580,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1028" trl="N">
-    <value column="Name" isTrl="N" original="Physical Inventory Line">Physical Inventory Line</value>
-    <value column="PrintName" isTrl="N" original="Phys.Inventory Line">Phys.Inventory Line</value>
+    <value column="Name" isTrl="Y" original="Physical Inventory Line">Строка складских остатков</value>
+    <value column="PrintName" isTrl="Y" original="Phys.Inventory Line">Строка складских остатков</value>
     <value column="Description" isTrl="N" original="A statement displaying one item in the physical inventory list.">A statement displaying one item in the physical inventory list.</value>
     <value column="Help" isTrl="N" original="The Physical Inventory Line indicates the inventory document line (if applicable) for this transaction">The Physical Inventory Line indicates the inventory document line (if applicable) for this transaction</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1590,7 +1590,7 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1029" trl="N">
-    <value column="Name" isTrl="N" original="New Storage Bin">New Storage Bin</value>
+    <value column="Name" isTrl="Y" original="New Storage Bin">Новое место хранения</value>
     <value column="PrintName" isTrl="N" original="Locator To">Locator To</value>
     <value column="Description" isTrl="N" original="Location inventory is moved to">Location inventory is moved to</value>
     <value column="Help" isTrl="N" original="The Locator To indicates the location where the inventory is being moved to.">The Locator To indicates the location where the inventory is being moved to.</value>
@@ -1630,8 +1630,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1033" trl="N">
-    <value column="Name" isTrl="N" original="Production Line">Production Line</value>
-    <value column="PrintName" isTrl="N" original="Production Line">Production Line</value>
+    <value column="Name" isTrl="Y" original="Production Line">Строка производста</value>
+    <value column="PrintName" isTrl="Y" original="Production Line">Строка производста</value>
     <value column="Description" isTrl="N" original="A statement displaying one item or action in the application.">A statement displaying one item or action in the application.</value>
     <value column="Help" isTrl="N" original="The Production Line indicates the production document line (if applicable) for this transaction">The Production Line indicates the production document line (if applicable) for this transaction</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1640,8 +1640,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1035" trl="N">
-    <value column="Name" isTrl="N" original="Inventory Transaction">Inventory Transaction</value>
-    <value column="PrintName" isTrl="N" original="Inventory Transaction">Inventory Transaction</value>
+    <value column="Name" isTrl="Y" original="Inventory Transaction">Проводка по складу</value>
+    <value column="PrintName" isTrl="Y" original="Inventory Transaction">Проводка по складу</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The ID identifies a unique record">The ID identifies a unique record</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1680,8 +1680,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="103BB98EA3F9464E961E9AE046F7C665" trl="N">
-    <value column="Name" isTrl="N" original="Advanced Feature">Advanced Feature</value>
-    <value column="PrintName" isTrl="N" original="Advanced Feature">Advanced Feature</value>
+    <value column="Name" isTrl="Y" original="Advanced Feature">Расширенные функции</value>
+    <value column="PrintName" isTrl="Y" original="Advanced Feature">Расширенные функции</value>
     <value column="Description" isTrl="N" original="Is advanced feature">Is advanced feature</value>
     <value column="Help" isTrl="N" original="Automatic roles are granted with all non advanced features defined within application dictionary.&#10;&#10;Advanced features are only granted to the automatic roles defined as advanced.">Automatic roles are granted with all non advanced features defined within application dictionary.
 
@@ -1742,8 +1742,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1046" trl="N">
-    <value column="Name" isTrl="N" original="Project Asset">Project Asset</value>
-    <value column="PrintName" isTrl="N" original="Project Asset">Project Asset</value>
+    <value column="Name" isTrl="Y" original="Project Asset">Основное средство в проекте</value>
+    <value column="PrintName" isTrl="Y" original="Project Asset">Основное средство в проекте</value>
     <value column="Description" isTrl="N" original="The Project Asset account is the account used as the final asset account in capital projects">The Project Asset account is the account used as the final asset account in capital projects</value>
     <value column="Help" isTrl="N" original="The Project Asset account is the account used as the final asset account in capital projects">The Project Asset account is the account used as the final asset account in capital projects</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1782,8 +1782,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="105" trl="N">
-    <value column="Name" isTrl="N" original="Displayed Column">Displayed Column</value>
-    <value column="PrintName" isTrl="N" original="Display column">Display column</value>
+    <value column="Name" isTrl="Y" original="Displayed Column">Отображать столбец</value>
+    <value column="PrintName" isTrl="Y" original="Display column">Отображать столбец</value>
     <value column="Description" isTrl="N" original="Column that will display">Column that will display</value>
     <value column="Help" isTrl="N" original="The Display Column indicates the column that will display.">The Display Column indicates the column that will display.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1822,8 +1822,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1059" trl="N">
-    <value column="Name" isTrl="N" original="Max. Value">Max. Value</value>
-    <value column="PrintName" isTrl="N" original="Max. Value">Max. Value</value>
+    <value column="Name" isTrl="Y" original="Max. Value">Макс. значение</value>
+    <value column="PrintName" isTrl="Y" original="Max. Value">Макс. значение</value>
     <value column="Description" isTrl="N" original="The highest possible value an item can have.">The highest possible value an item can have.</value>
     <value column="Help" isTrl="N" original="The Maximum Value indicates the highest allowable value for a field">The Maximum Value indicates the highest allowable value for a field</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1842,8 +1842,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1060" trl="N">
-    <value column="Name" isTrl="N" original="Min. Value">Min. Value</value>
-    <value column="PrintName" isTrl="N" original="Min. Value">Min. Value</value>
+    <value column="Name" isTrl="Y" original="Min. Value">Мин. значение</value>
+    <value column="PrintName" isTrl="Y" original="Min. Value">Мин. значение</value>
     <value column="Description" isTrl="N" original="The lowest possible value an object can take.">The lowest possible value an object can take.</value>
     <value column="Help" isTrl="N" original="The Minimum Value indicates the lowest  allowable value for a field.">The Minimum Value indicates the lowest  allowable value for a field.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1892,8 +1892,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="107" trl="N">
-    <value column="Name" isTrl="N" original="Field">Field</value>
-    <value column="PrintName" isTrl="N" original="Field">Field</value>
+    <value column="Name" isTrl="Y" original="Field">Поле</value>
+    <value column="PrintName" isTrl="Y" original="Field">Поле</value>
     <value column="Description" isTrl="N" original="Any element which can be viewed, edited, or added to a window.">Any element which can be viewed, edited, or added to a window.</value>
     <value column="Help" isTrl="N" original="The Field identifies a field on a database table.">The Field identifies a field on a database table.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1912,8 +1912,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1072" trl="N">
-    <value column="Name" isTrl="N" original="Document Type for Invoice">Document Type for Invoice</value>
-    <value column="PrintName" isTrl="N" original="Doc Type Invoice">Doc Type Invoice</value>
+    <value column="Name" isTrl="Y" original="Document Type for Invoice">Тип документа для счёт-фактуры</value>
+    <value column="PrintName" isTrl="Y" original="Doc Type Invoice">Тип док. для счёт-фактуры</value>
     <value column="Description" isTrl="N" original="Document type used for invoices generated from this sales document">Document type used for invoices generated from this sales document</value>
     <value column="Help" isTrl="N" original="The Document Type for Invoice indicates the document type that will be used when an invoice is generated from this sales document.  This field will display only when the base document type is Sales Order.">The Document Type for Invoice indicates the document type that will be used when an invoice is generated from this sales document.  This field will display only when the base document type is Sales Order.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1922,8 +1922,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1074" trl="N">
-    <value column="Name" isTrl="N" original="Document Type for Shipment">Document Type for Shipment</value>
-    <value column="PrintName" isTrl="N" original="Doc Type Shipment">Doc Type Shipment</value>
+    <value column="Name" isTrl="Y" original="Document Type for Shipment">Тип документа для приходной накладной</value>
+    <value column="PrintName" isTrl="Y" original="Doc Type Shipment">Тип док. для прих. нак.</value>
     <value column="Description" isTrl="N" original="Document type used for shipments generated from this sales document">Document type used for shipments generated from this sales document</value>
     <value column="Help" isTrl="N" original="The Document Type for Shipments indicates the document type that will be used when a shipment is generated from this sales document.  This field will display only when the base document type is Sales Order.">The Document Type for Shipments indicates the document type that will be used when a shipment is generated from this sales document.  This field will display only when the base document type is Sales Order.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1932,8 +1932,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1076" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Line">Invoice Line</value>
-    <value column="PrintName" isTrl="N" original="Invoice Line">Invoice Line</value>
+    <value column="Name" isTrl="Y" original="Invoice Line">Строка счёт-фактуры</value>
+    <value column="PrintName" isTrl="Y" original="Invoice Line">Строка счёт-фактуры</value>
     <value column="Description" isTrl="N" original="A statement displaying one item or charge in an invoice.">A statement displaying one item or charge in an invoice.</value>
     <value column="Help" isTrl="N" original="The Invoice Line uniquely identifies a single line of an Invoice.">The Invoice Line uniquely identifies a single line of an Invoice.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1942,8 +1942,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="108" trl="N">
-    <value column="Name" isTrl="N" original="Key Column">Key Column</value>
-    <value column="PrintName" isTrl="N" original="Key column">Key column</value>
+    <value column="Name" isTrl="Y" original="Key Column">Ключевой столбец</value>
+    <value column="PrintName" isTrl="Y" original="Key column">Ключевой столбец</value>
     <value column="Description" isTrl="N" original="Unique identifier of a record">Unique identifier of a record</value>
     <value column="Help" isTrl="N" original="The Key Column indicates that this the unique identifier of a record on this table.">The Key Column indicates that this the unique identifier of a record on this table.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2002,8 +2002,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1089" trl="N">
-    <value column="Name" isTrl="N" original="Last Run Date">Last Run Date</value>
-    <value column="PrintName" isTrl="N" original="Date last run">Date last run</value>
+    <value column="Name" isTrl="Y" original="Last Run Date">Последняя дата запуска</value>
+    <value column="PrintName" isTrl="Y" original="Date last run">Последняя дата запуска</value>
     <value column="Description" isTrl="N" original="The last specific time the process or task was run.">The last specific time the process or task was run.</value>
     <value column="Help" isTrl="N" original="The Date Last Run indicates the last time that a process was run.">The Date Last Run indicates the last time that a process was run.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2042,9 +2042,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1096" trl="N">
-    <value column="Name" isTrl="N" original="Generate List">Generate List</value>
-    <value column="PrintName" isTrl="N" original="Generate List">Generate List</value>
-    <value column="Description" isTrl="N" original="Generate List">Generate List</value>
+    <value column="Name" isTrl="Y" original="Generate List">Создать список</value>
+    <value column="PrintName" isTrl="Y" original="Generate List">Создать список</value>
+    <value column="Description" isTrl="Y" original="Generate List">Создать список</value>
     <value column="Help" isTrl="N" original="A button that generates a list to make an inventory of items">A button that generates a list to make an inventory of items</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2142,8 +2142,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1110" trl="N">
-    <value column="Name" isTrl="N" original="Product for Freight">Product for Freight</value>
-    <value column="PrintName" isTrl="N" original="Product for Freight">Product for Freight</value>
+    <value column="Name" isTrl="Y" original="Product for Freight">Товар для фрахта</value>
+    <value column="PrintName" isTrl="Y" original="Product for Freight">Товар для фрахта</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2292,8 +2292,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1135" trl="N">
-    <value column="Name" isTrl="N" original="Tax Search Key">Tax Search Key</value>
-    <value column="PrintName" isTrl="N" original="Tax Indicator">Tax Indicator</value>
+    <value column="Name" isTrl="Y" original="Tax Search Key">Код налога</value>
+    <value column="PrintName" isTrl="Y" original="Tax Indicator">Код налога</value>
     <value column="Description" isTrl="N" original="A fast method for finding a specific tax.">A fast method for finding a specific tax.</value>
     <value column="Help" isTrl="N" original="The Tax Indicator identifies the short name that will print on documents referencing this tax.">The Tax Indicator identifies the short name that will print on documents referencing this tax.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2392,8 +2392,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1171" trl="N">
-    <value column="Name" isTrl="N" original="Title">Title</value>
-    <value column="PrintName" isTrl="N" original="Title">Title</value>
+    <value column="Name" isTrl="Y" original="Title">Заголовок</value>
+    <value column="PrintName" isTrl="Y" original="Title">Заголовок</value>
     <value column="Description" isTrl="N" original="A description, often abbreviated, of how to address a business partner.">A description, often abbreviated, of how to address a business partner.</value>
     <value column="Help" isTrl="N" original="The Greeting indicates what will print on letters sent to a Business Partner.">The Greeting indicates what will print on letters sent to a Business Partner.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2402,8 +2402,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1172" trl="N">
-    <value column="Name" isTrl="N" original="Direct print">Direct print</value>
-    <value column="PrintName" isTrl="N" original="Direct print">Direct print</value>
+    <value column="Name" isTrl="Y" original="Direct print">Быстрая печать</value>
+    <value column="PrintName" isTrl="Y" original="Direct print">Быстрая печать</value>
     <value column="Description" isTrl="N" original="Print without dialog">Print without dialog</value>
     <value column="Help" isTrl="N" original="The Direct Print checkbox indicates that this report will print without a print dialog box being displayed.">The Direct Print checkbox indicates that this report will print without a print dialog box being displayed.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2432,8 +2432,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1175" trl="N">
-    <value column="Name" isTrl="N" original="Print Details on Invoice">Print Details on Invoice</value>
-    <value column="PrintName" isTrl="N" original="Print detail on invoice">Print detail on invoice</value>
+    <value column="Name" isTrl="Y" original="Print Details on Invoice">Печать детализации на счёте</value>
+    <value column="PrintName" isTrl="Y" original="Print detail on invoice">Печать детализации на счёте</value>
     <value column="Description" isTrl="N" original="Print detail BOM elements on the invoice">Print detail BOM elements on the invoice</value>
     <value column="Help" isTrl="N" original="If “Print Details on Invoice” is checked then the details of the individual elements of the BOM will be printed on the Invoice.">If “Print Details on Invoice” is checked then the details of the individual elements of the BOM will be printed on the Invoice.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2442,8 +2442,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1176" trl="N">
-    <value column="Name" isTrl="N" original="Print Details on Pick List">Print Details on Pick List</value>
-    <value column="PrintName" isTrl="N" original="Print detail records on pick list">Print detail records on pick list</value>
+    <value column="Name" isTrl="Y" original="Print Details on Pick List">Печать детализации на сборочном листе</value>
+    <value column="PrintName" isTrl="Y" original="Print detail records on pick list">Печать детализации на сборочном листе</value>
     <value column="Description" isTrl="N" original="Print detail BOM elements on the pick list">Print detail BOM elements on the pick list</value>
     <value column="Help" isTrl="N" original="The Print Details on Pick List indicates that the BOM element products will print on the Pick List as opposed to this product.">The Print Details on Pick List indicates that the BOM element products will print on the Pick List as opposed to this product.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2452,8 +2452,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1177" trl="N">
-    <value column="Name" isTrl="N" original="BOM Verified">BOM Verified</value>
-    <value column="PrintName" isTrl="N" original="Verified">Verified</value>
+    <value column="Name" isTrl="Y" original="BOM Verified">Спецификация проверена</value>
+    <value column="PrintName" isTrl="Y" original="Verified">Проверено</value>
     <value column="Description" isTrl="N" original="The BOM tree has been verified">The BOM tree has been verified</value>
     <value column="Help" isTrl="N" original="Indicates if the bill of materials tree of this product has been verified. Verification involves a test for cycles within a tree so that there are no infinite loops.">Indicates if the bill of materials tree of this product has been verified. Verification involves a test for cycles within a tree so that there are no infinite loops.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2462,9 +2462,9 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="118" trl="N">
-    <value column="Name" isTrl="N" original="Process Parameter">Process Parameter</value>
-    <value column="PrintName" isTrl="N" original="Process Parameter">Process Parameter</value>
-    <value column="Description" isTrl="N" original="Process Parameter">Process Parameter</value>
+    <value column="Name" isTrl="Y" original="Process Parameter">Параметр обработки</value>
+    <value column="PrintName" isTrl="Y" original="Process Parameter">Параметр обработки</value>
+    <value column="Description" isTrl="Y" original="Process Parameter">Параметр обработки</value>
     <value column="Help" isTrl="N" original="Process Parameter identifies the parameters of a process or report.">Process Parameter identifies the parameters of a process or report.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -2472,8 +2472,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1188" trl="N">
-    <value column="Name" isTrl="N" original="BOM Line">BOM Line</value>
-    <value column="PrintName" isTrl="N" original="BOM Line">BOM Line</value>
+    <value column="Name" isTrl="Y" original="BOM Line">Строка спецификации</value>
+    <value column="PrintName" isTrl="Y" original="BOM Line">Строка спецификации</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The Bill of Materials defines each product that are generated from other products.">The Bill of Materials defines each product that are generated from other products.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2782,8 +2782,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="125" trl="N">
-    <value column="Name" isTrl="N" original="Tab">Tab</value>
-    <value column="PrintName" isTrl="N" original="Tab">Tab</value>
+    <value column="Name" isTrl="N" original="Tab">Вкладка</value>
+    <value column="PrintName" isTrl="N" original="Tab">Вкладка</value>
     <value column="Description" isTrl="N" original="An indication that a tab is displayed within a window.">An indication that a tab is displayed within a window.</value>
     <value column="Help" isTrl="N" original="The Tab indicates a tab that displays within a window.">The Tab indicates a tab that displays within a window.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2792,8 +2792,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1253" trl="N">
-    <value column="Name" isTrl="N" original="Mail Host">Mail Host</value>
-    <value column="PrintName" isTrl="N" original="Mail Host">Mail Host</value>
+    <value column="Name" isTrl="Y" original="Mail Host">Имя почтового сервера</value>
+    <value column="PrintName" isTrl="Y" original="Mail Host">Имя почтового сервера</value>
     <value column="Description" isTrl="N" original="Hostname of Mail Server for SMTP and IMAP">Hostname of Mail Server for SMTP and IMAP</value>
     <value column="Help" isTrl="N" original="The host name of the Mail Server for this client with SMTP services to send mail, and IMAP to process incoming mail.">The host name of the Mail Server for this client with SMTP services to send mail, and IMAP to process incoming mail.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2952,8 +2952,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1308" trl="N">
-    <value column="Name" isTrl="N" original="Posted">Posted</value>
-    <value column="PrintName" isTrl="N" original="Posted">Posted</value>
+    <value column="Name" isTrl="Y" original="Posted">Проведено</value>
+    <value column="PrintName" isTrl="Y" original="Posted">Проведено</value>
     <value column="Description" isTrl="N" original="An accounting status button that indicates if the transaction has already been posted to the general ledger or not.">An accounting status button that indicates if the transaction has already been posted to the general ledger or not.</value>
     <value column="Help" isTrl="N" original="An accounting status button that indicates if the transaction has already been posted to the general ledger or not. When doing the accounting manually this button can be used to post or unpost the transaction from the general ledger by hand.">An accounting status button that indicates if the transaction has already been posted to the general ledger or not. When doing the accounting manually this button can be used to post or unpost the transaction from the general ledger by hand.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -2962,8 +2962,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1309" trl="N">
-    <value column="Name" isTrl="N" original="Category Type">Category Type</value>
-    <value column="PrintName" isTrl="N" original="Category Type">Category Type</value>
+    <value column="Name" isTrl="Y" original="Category Type">Тип категории</value>
+    <value column="PrintName" isTrl="Y" original="Category Type">Тип категории</value>
     <value column="Description" isTrl="N" original="Source of the Journal with this category">Source of the Journal with this category</value>
     <value column="Help" isTrl="N" original="The Category Type indicates the source of the journal for this category.  Journals can be generated from a document, entered manually or imported.">The Category Type indicates the source of the journal for this category.  Journals can be generated from a document, entered manually or imported.</value>
     <value column="PO_Description" isTrl="N" original=""/>
