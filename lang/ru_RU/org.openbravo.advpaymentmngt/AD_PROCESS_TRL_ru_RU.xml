@@ -10,10 +10,10 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="12016E2EDE0245B5A36B84CBA144DBDF" trl="N">
-    <value column="Name" isTrl="N" original="Add Details">Add Details</value>
+  <row id="12016E2EDE0245B5A36B84CBA144DBDF" trl="Y">
+    <value column="Name" isTrl="Y" original="Add Details">Детализация</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Select pending payments from Orders or Invoices, or create Payment Details related to GL Items.">Select pending payments from Orders or Invoices, or create Payment Details related to GL Items.</value>
+    <value column="Help" isTrl="Y" original="Select pending payments from Orders or Invoices, or create Payment Details related to GL Items.">Выберите ожидаемые платежи из ордеров или счёт-фактур, или создайте детализацию согласно типовой проводки Г/К.</value>
   </row>
   <row id="15C8708DFC464C2D91286E59624FDD18" trl="N">
     <value column="Name" isTrl="N" original="Modify">Modify</value>
@@ -106,7 +106,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="E3E92E9F08214507958E6875E66F2F99" trl="N">
-    <value column="Name" isTrl="N" original="Add Transaction">Add Transaction</value>
+    <value column="Name" isTrl="Y" original="Add Transaction">Добавить транзакцию</value>
     <value column="Description" isTrl="N" original="Add Transaction From Financial Account">Add Transaction From Financial Account</value>
     <value column="Help" isTrl="N" original=""/>
   </row>

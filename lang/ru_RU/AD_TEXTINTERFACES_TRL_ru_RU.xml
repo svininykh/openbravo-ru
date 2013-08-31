@@ -2905,49 +2905,49 @@
     <value column="Text" isTrl="N" original="Scheduled Maintenance">Scheduled Maintenance</value>
   </row>
   <row id="803940" trl="N">
-    <value column="Text" isTrl="N" original="Time">Time</value>
+    <value column="Text" isTrl="N" original="Time">Время</value>
   </row>
   <row id="803998" trl="N">
     <value column="Text" isTrl="N" original="Create from Remittance">Create from Remittance</value>
   </row>
   <row id="804021" trl="N">
-    <value column="Text" isTrl="N" original="Report shipper">Report shipper</value>
+    <value column="Text" isTrl="N" original="Report shipper">Отчёт отправителю</value>
   </row>
   <row id="804023" trl="N">
-    <value column="Text" isTrl="N" original="Shipper:">Shipper:</value>
+    <value column="Text" isTrl="N" original="Shipper:">Отправитель:</value>
   </row>
   <row id="804027" trl="N">
-    <value column="Text" isTrl="N" original="Freight Cat">Freight Cat</value>
+    <value column="Text" isTrl="N" original="Freight Cat">Категория фрахта</value>
   </row>
   <row id="804028" trl="N">
     <value column="Text" isTrl="N" original="Origin">Origin</value>
   </row>
   <row id="804029" trl="N">
-    <value column="Text" isTrl="N" original="Destination">Destination</value>
+    <value column="Text" isTrl="N" original="Destination">Пункт назначения</value>
   </row>
   <row id="804034" trl="N">
-    <value column="Text" isTrl="N" original="Create from.. (massive)">Create from.. (massive)</value>
+    <value column="Text" isTrl="N" original="Create from.. (massive)">Создать из ...(массива)</value>
   </row>
   <row id="804038" trl="N">
-    <value column="Text" isTrl="N" original="Last order">Last order</value>
+    <value column="Text" isTrl="Y" original="Last order">Последний ордер</value>
   </row>
   <row id="804040" trl="N">
-    <value column="Text" isTrl="N" original="Invoiced ">Invoiced </value>
+    <value column="Text" isTrl="Y" original="Invoiced ">Выставлено </value>
   </row>
   <row id="804044" trl="N">
-    <value column="Text" isTrl="N" original="Date ordered">Date ordered</value>
+    <value column="Text" isTrl="Y" original="Date ordered">Дата ордера</value>
   </row>
   <row id="804046" trl="N">
-    <value column="Text" isTrl="N" original="Ship to">Ship to</value>
+    <value column="Text" isTrl="N" original="Ship to">Доставлено из</value>
   </row>
   <row id="804047" trl="N">
-    <value column="Text" isTrl="N" original="Products sales/purchase the last">Products sales/purchase the last</value>
+    <value column="Text" isTrl="N" original="Products sales/purchase the last">Товары купленые/проданые последнии</value>
   </row>
   <row id="804048" trl="N">
     <value column="Text" isTrl="Y" original="days">дней</value>
   </row>
   <row id="804050" trl="N">
-    <value column="Text" isTrl="N" original="Last price">Last price</value>
+    <value column="Text" isTrl="Y" original="Last price">Последняя цена</value>
   </row>
   <row id="804052" trl="Y">
     <value column="Text" isTrl="Y" original="UOM">Ед. изм.</value>
@@ -3070,19 +3070,19 @@
     <value column="Text" isTrl="Y" original="Posted">Проведено</value>
   </row>
   <row id="805018" trl="N">
-    <value column="Text" isTrl="N" original="Pending delivery/receipt">Pending delivery/receipt</value>
+    <value column="Text" isTrl="N" original="Pending delivery/receipt">Ожидаемая доставка/получение</value>
   </row>
   <row id="805019" trl="N">
-    <value column="Text" isTrl="N" original="Pending invoice">Pending invoice</value>
+    <value column="Text" isTrl="N" original="Pending invoice">Ожидаемая счёт-фактура</value>
   </row>
   <row id="805020" trl="N">
-    <value column="Text" isTrl="N" original="Pending debt payment">Pending debt payment</value>
+    <value column="Text" isTrl="N" original="Pending debt payment">Ожидаемая оплата по дебету</value>
   </row>
   <row id="805021" trl="N">
-    <value column="Text" isTrl="N" original="% total">% total</value>
+    <value column="Text" isTrl="N" original="% total">% от общего</value>
   </row>
   <row id="805023" trl="N">
-    <value column="Text" isTrl="N" original="Reference No">Reference No</value>
+    <value column="Text" isTrl="N" original="Reference No">Ссылка №</value>
   </row>
   <row id="805025" trl="Y">
     <value column="Text" isTrl="Y" original="Action regarding document">Действие с документом</value>
@@ -3703,19 +3703,19 @@
     <value column="Text" isTrl="Y" original="DATE:">ДАТА:</value>
   </row>
   <row id="807096" trl="N">
-    <value column="Text" isTrl="N" original="Date Invoiced">Date Invoiced</value>
+    <value column="Text" isTrl="N" original="Date Invoiced">Дата выставления</value>
   </row>
   <row id="807099" trl="N">
     <value column="Text" isTrl="Y" original="DEBIT">ДЕБИТ</value>
   </row>
   <row id="807101" trl="N">
-    <value column="Text" isTrl="N" original="Debt Payment">Debt Payment</value>
+    <value column="Text" isTrl="N" original="Debt Payment">Оплата по дебету</value>
   </row>
   <row id="807102" trl="N">
-    <value column="Text" isTrl="N" original="DebtPayment">DebtPayment</value>
+    <value column="Text" isTrl="N" original="DebtPayment">Оплата по дебету</value>
   </row>
   <row id="807103" trl="N">
-    <value column="Text" isTrl="N" original="Debtpayment no:">Debtpayment no:</value>
+    <value column="Text" isTrl="N" original="Debtpayment no:">Оплата по дебету №:</value>
   </row>
   <row id="807104" trl="N">
     <value column="Text" isTrl="N" original="Debt-payment selector">Debt-payment selector</value>
@@ -4873,7 +4873,7 @@
     <value column="Text" isTrl="N" original="Invoicing Type">Invoicing Type</value>
   </row>
   <row id="809967" trl="N">
-    <value column="Text" isTrl="N" original="Details">Details</value>
+    <value column="Text" isTrl="N" original="Details">Детализация</value>
   </row>
   <row id="809973" trl="N">
     <value column="Text" isTrl="N" original="Building Site Type">Building Site Type</value>
@@ -5338,10 +5338,10 @@
     <value column="Text" isTrl="N" original="You must select a purpose">You must select a purpose</value>
   </row>
   <row id="942B0971FC5D2A70E040007F0100247A" trl="N">
-    <value column="Text" isTrl="N" original="Payment Number:">Payment Number:</value>
+    <value column="Text" isTrl="N" original="Payment Number:">Номер платежа:</value>
   </row>
   <row id="942B0971FC602A70E040007F0100247A" trl="N">
-    <value column="Text" isTrl="N" original="Received From:">Received From:</value>
+    <value column="Text" isTrl="N" original="Received From:">Выплачено из:</value>
   </row>
   <row id="942B0971FC632A70E040007F0100247A" trl="N">
     <value column="Text" isTrl="N" original="Receipt Date:">Receipt Date:</value>

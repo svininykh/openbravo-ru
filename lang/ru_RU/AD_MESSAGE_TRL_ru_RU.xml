@@ -1093,7 +1093,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Complete Selector">Used for column name translation in Product Complete Selector</value>
   </row>
   <row id="1006400017" trl="N">
-    <value column="MsgText" isTrl="Y" original="Quantity in draft transactions">Количество в черновиках транзакций</value>
+    <value column="MsgText" isTrl="Y" original="Quantity in draft transactions">Количество в черновых транзакциях</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Complete Selector">Used for column name translation in Product Complete Selector</value>
   </row>
   <row id="1006400018" trl="N">
@@ -2838,7 +2838,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="361" trl="N">
-    <value column="MsgText" isTrl="N" original="Insufficient stock:">Insufficient stock:</value>
+    <value column="MsgText" isTrl="N" original="Insufficient stock:">Недостаточно на складе:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="361FEAEE66A145B09F5D95FC47F218FF" trl="N">
@@ -4269,11 +4269,11 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D4A70813DF6421E8A6260FFB1BE0B86" trl="N">
-    <value column="MsgText" isTrl="N" original="Is not compatible with Openbravo 3.">Is not compatible with Openbravo 3.</value>
+    <value column="MsgText" isTrl="Y" original="Is not compatible with Openbravo 3.">Не совместим с Openbravo 3.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5DDBAC99880F4F159204247F691227DB" trl="N">
-    <value column="MsgText" isTrl="N" original="The Period does not exist or it is not opened">The Period does not exist or it is not opened</value>
+    <value column="MsgText" isTrl="Y" original="The Period does not exist or it is not opened">Период не задан или не открыт.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5E7E4DECA48D49F9ABC84DB312FBCB5E" trl="N">
@@ -4285,7 +4285,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5EA699ECEC3749FF9AEB80E3F2799452" trl="N">
-    <value column="MsgText" isTrl="N" original="No product is selected">No product is selected</value>
+    <value column="MsgText" isTrl="Y" original="No product is selected">Не выбран товар</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5EE344AFEB8040499BBB058905ECC789" trl="N">
@@ -4627,7 +4627,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="667" trl="N">
-    <value column="MsgText" isTrl="N" original="No Database Connection">No Database Connection</value>
+    <value column="MsgText" isTrl="Y" original="No Database Connection">Нет соединения с СУБД</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="668" trl="N">
@@ -5079,15 +5079,15 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800020" trl="N">
-    <value column="MsgText" isTrl="N" original="Number of records copied:">Number of records copied:</value>
+    <value column="MsgText" isTrl="N" original="Number of records copied:">Количество скопированных записей:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800021" trl="N">
-    <value column="MsgText" isTrl="N" original="There are no clients associated to this user">There are no clients associated to this user</value>
+    <value column="MsgText" isTrl="N" original="There are no clients associated to this user">Ни одно подключение не связано с этим пользователем</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800022" trl="N">
-    <value column="MsgText" isTrl="N" original="There is no organization associated to this user">There is no organization associated to this user</value>
+    <value column="MsgText" isTrl="N" original="There is no organization associated to this user">Ни одна организация не связана с этим пользователем</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800023" trl="N">
@@ -5095,11 +5095,11 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800024" trl="N">
-    <value column="MsgText" isTrl="N" original="Tax identification number needed">Tax identification number needed</value>
+    <value column="MsgText" isTrl="N" original="Tax identification number needed">Необходимо для налога идентификационное число</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800025" trl="N">
-    <value column="MsgText" isTrl="N" original="Bank code needed">Bank code needed</value>
+    <value column="MsgText" isTrl="N" original="Bank code needed">Необходим банковский код</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800026" trl="N">
@@ -5119,19 +5119,19 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800030" trl="N">
-    <value column="MsgText" isTrl="N" original="Tax identification number needed for business partner:">Tax identification number needed for business partner:</value>
+    <value column="MsgText" isTrl="N" original="Tax identification number needed for business partner:">Необходимо идентификационное число налога для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800031" trl="N">
-    <value column="MsgText" isTrl="N" original="Bank code needed for business partner:">Bank code needed for business partner:</value>
+    <value column="MsgText" isTrl="N" original="Bank code needed for business partner:">Необходим банковкий код для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800032" trl="N">
-    <value column="MsgText" isTrl="N" original="Planned date needed. Business partner:">Planned date needed. Business partner:</value>
+    <value column="MsgText" isTrl="N" original="Planned date needed. Business partner:">Необходима планируемая дата. Контрагент:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800033" trl="N">
-    <value column="MsgText" isTrl="N" original="Address needed for business partner:">Address needed for business partner:</value>
+    <value column="MsgText" isTrl="N" original="Address needed for business partner:">Необходим адрес для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800034" trl="N">
@@ -5139,15 +5139,15 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800035" trl="N">
-    <value column="MsgText" isTrl="N" original="Postcode needed for business partner:">Postcode needed for business partner:</value>
+    <value column="MsgText" isTrl="N" original="Postcode needed for business partner:">Необходим почтовый индекс для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800036" trl="N">
-    <value column="MsgText" isTrl="N" original="Town needed for business partner:">Town needed for business partner:</value>
+    <value column="MsgText" isTrl="N" original="Town needed for business partner:">Необходим город для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800037" trl="N">
-    <value column="MsgText" isTrl="N" original="Invoice date needed for business partner:">Invoice date needed for business partner:</value>
+    <value column="MsgText" isTrl="N" original="Invoice date needed for business partner:">Необходима дата счёт-фактуры для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800038" trl="N">
@@ -6069,7 +6069,7 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804714" trl="N">
-    <value column="MsgText" isTrl="N" original="line">line</value>
+    <value column="MsgText" isTrl="Y" original="line">строка</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804715" trl="N">
@@ -7868,7 +7868,7 @@ Ask System Administrator to unlock it.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DBA2EDC3661F42E0B9241DA3D948B729" trl="N">
-    <value column="MsgText" isTrl="N" original="Action">Action</value>
+    <value column="MsgText" isTrl="Y" original="Action">Действие</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DC0A22652CDB456B85A5B58EFDE9FC04" trl="N">

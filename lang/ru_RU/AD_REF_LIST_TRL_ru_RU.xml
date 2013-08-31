@@ -1885,7 +1885,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="484" trl="N">
-    <value column="Name" isTrl="N" original="Line">Line</value>
+    <value column="Name" isTrl="N" original="Line">Строка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="485" trl="N">
@@ -3801,15 +3801,15 @@
     <value column="Description" isTrl="N" original="Tier 2 Commercial Modules can be installed in Standard Professioanl Edition Instances that have bought it.">Tier 2 Commercial Modules can be installed in Standard Professioanl Edition Instances that have bought it.</value>
   </row>
   <row id="A68E543C89BE4174990D33DFBAD90E05" trl="N">
-    <value column="Name" isTrl="N" original="Received In">Received In</value>
+    <value column="Name" isTrl="N" original="Received In">Поступление</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A6F23B8BC2CA497A80FD6ABFDD3AEE93" trl="N">
-    <value column="Name" isTrl="N" original="Cost Center">Cost Center</value>
-    <value column="Description" isTrl="N" original="Cost Center">Cost Center</value>
+    <value column="Name" isTrl="N" original="Cost Center">Центр затрат</value>
+    <value column="Description" isTrl="N" original="Cost Center">Центр затрат</value>
   </row>
   <row id="AA2BD581FDB44700A4C6D3D47C3DD354" trl="N">
-    <value column="Name" isTrl="N" original="Database data update">Database data update</value>
+    <value column="Name" isTrl="N" original="Database data update">Обновление данных СУБД</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="AA7D726DDDEE4C51944D5FB0B17521FD" trl="N">
@@ -3817,7 +3817,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="ABA3318229E648A18D3A1F7C03B61A5D" trl="N">
-    <value column="Name" isTrl="N" original="System Restart">System Restart</value>
+    <value column="Name" isTrl="N" original="System Restart">Перезагрузка системы</value>
     <value column="Description" isTrl="N" original="A Process that was failed due to System Restart">A Process that was failed due to System Restart</value>
   </row>
   <row id="ABA6CABC9E7F4D81B1652C1D9C619D26" trl="N">
@@ -3961,7 +3961,7 @@
     <value column="Description" isTrl="N" original="Artistic License/GPL">Artistic License/GPL</value>
   </row>
   <row id="BD1002A1B51048878547D037D4307485" trl="N">
-    <value column="Name" isTrl="Y" original="All Never Opened">Все неоткрывались</value>
+    <value column="Name" isTrl="Y" original="All Never Opened">Все не открывались</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="BE65EDA443FB4E5488885A00D64F8D7C" trl="N">
@@ -3993,12 +3993,12 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="C2D0715006EA46369DDA36BC0F161462" trl="N">
-    <value column="Name" isTrl="N" original="Awaiting Payment">Awaiting Payment</value>
-    <value column="Description" isTrl="N" original="Awaiting Payment. Unpaid.">Awaiting Payment. Unpaid.</value>
+    <value column="Name" isTrl="N" original="Awaiting Payment">Ожидает платежа</value>
+    <value column="Description" isTrl="N" original="Awaiting Payment. Unpaid.">Ожидает платежа. Не оплачен.</value>
   </row>
   <row id="C31C73D8912A42068D903FC5322876D9" trl="N">
     <value column="Name" isTrl="Y" original="Void">Отмена</value>
-    <value column="Description" isTrl="N" original="Set all quantities to zero and complete transaction">Set all quantities to zero and complete transaction</value>
+    <value column="Description" isTrl="Y" original="Set all quantities to zero and complete transaction">Всё количество установлено в ноль и выполнена проводка.</value>
   </row>
   <row id="C498ACCF3EC1456E9B7F3223A951C6C9" trl="N">
     <value column="Name" isTrl="Y" original="IFRS">МСФО</value>
@@ -4325,7 +4325,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FA4EB912DC0F4A0B80179B78DA09B7AC" trl="N">
-    <value column="Name" isTrl="N" original="Paid Out">Paid Out</value>
+    <value column="Name" isTrl="Y" original="Paid Out">Выплата</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FA50DEFEDC4E4EFE82BA5BF71C55E53F" trl="N">

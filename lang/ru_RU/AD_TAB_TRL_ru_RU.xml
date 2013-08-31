@@ -1441,7 +1441,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="View tables and columns that a particular application element applies to.">View tables and columns that a particular application element applies to.</value>
   </row>
   <row id="365" trl="N">
-    <value column="Name" isTrl="Y" original="Details">Детали</value>
+    <value column="Name" isTrl="Y" original="Details">Детализация</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit the calculation and invoicing of sales commission.">Create and edit the calculation and invoicing of sales commission.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3494,14 +3494,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="8391062D5C6A47EA94A83A304AD720BE" trl="N">
-    <value column="Name" isTrl="N" original="Accounting Configuration">Accounting Configuration</value>
+    <value column="Name" isTrl="Y" original="Accounting Configuration">Бухгалтерские счета</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Relation of accounts used for the given financial account">Relation of accounts used for the given financial account</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The accounting configuration tab is used to define the accounts of a General Ledger to use while posting transactions such as a bank fee or a deposit.">The accounting configuration tab is used to define the accounts of a General Ledger to use while posting transactions such as a bank fee or a deposit.</value>
   </row>
   <row id="83F933AC3F5B427F9A04C9DB0257F26E" trl="N">
-    <value column="Name" isTrl="N" original="Accounting dimension">Accounting dimension</value>
+    <value column="Name" isTrl="Y" original="Accounting dimension">Бухгалтерские субконто</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
     <value column="Filtername" isTrl="N" original=""/>

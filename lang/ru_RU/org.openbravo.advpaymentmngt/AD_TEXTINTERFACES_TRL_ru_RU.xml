@@ -4,13 +4,13 @@
     <value column="Text" isTrl="N" original="Hide transactions after statement date">Hide transactions after statement date</value>
   </row>
   <row id="00C32E24B51F464FBFF3CFE1AFC2D83C" trl="N">
-    <value column="Text" isTrl="N" original="Received From">Received From</value>
+    <value column="Text" isTrl="N" original="Received From">Выплачено из</value>
   </row>
   <row id="04AE1A356C744C4B9ED883267C718F64" trl="N">
     <value column="Text" isTrl="N" original="Show payments out for alternative payment methods">Show payments out for alternative payment methods</value>
   </row>
   <row id="053D4ECDDD664B65AF752FDF72B459F0" trl="N">
-    <value column="Text" isTrl="Y" original="Details">Детали</value>
+    <value column="Text" isTrl="Y" original="Details">Детализация</value>
   </row>
   <row id="0AF70B48638D440491E23FE689DD39F6" trl="N">
     <value column="Text" isTrl="Y" original="Paid Out">Выплата</value>
@@ -28,7 +28,7 @@
     <value column="Text" isTrl="Y" original="1st Dimension">1ое субконто</value>
   </row>
   <row id="1053F842DA714DA499EAB367A22D82DD" trl="N">
-    <value column="Text" isTrl="N" original="Deposit To">Deposit To</value>
+    <value column="Text" isTrl="N" original="Deposit To">Принято в</value>
   </row>
   <row id="12BDD82D35184D1DB9F97C4EA5D5A45B" trl="N">
     <value column="Text" isTrl="N" original="Select expected payments that you want to put into payment proposal">Select expected payments that you want to put into payment proposal</value>
@@ -37,7 +37,7 @@
     <value column="Text" isTrl="N" original="Ending Balance">Ending Balance</value>
   </row>
   <row id="16527BFEFA3F4A8381DB9554880F479E" trl="N">
-    <value column="Text" isTrl="N" original="AddPayment">AddPayment</value>
+    <value column="Text" isTrl="N" original="AddPayment">Добавить платёж</value>
   </row>
   <row id="1969CE6E77CA43A38A7E72B3E230FD3D" trl="N">
     <value column="Text" isTrl="N" original="zz">zz</value>
@@ -67,10 +67,10 @@
     <value column="Text" isTrl="N" original="Outstanding Amount">Outstanding Amount</value>
   </row>
   <row id="291442B05D53432092711698F88EBED3" trl="N">
-    <value column="Text" isTrl="N" original="Details">Details</value>
+    <value column="Text" isTrl="Y" original="Details">Детализация</value>
   </row>
   <row id="2E40C3D7C5D7472A9B7F1470E91F8FCD" trl="N">
-    <value column="Text" isTrl="N" original="Orders and Invoices">Orders and Invoices</value>
+    <value column="Text" isTrl="Y" original="Orders and Invoices">Ордеры и счета-фактуры</value>
   </row>
   <row id="2EBAB587F596466BA79CE3C24D56CD95" trl="N">
     <value column="Text" isTrl="N" original="Payment">Payment</value>
@@ -85,7 +85,7 @@
     <value column="Text" isTrl="N" original="Deposits and payments">Deposits and payments</value>
   </row>
   <row id="354E5EF7FCD142078572A472031A4F8D" trl="N">
-    <value column="Text" isTrl="N" original="Transaction Type">Transaction Type</value>
+    <value column="Text" isTrl="N" original="Transaction Type">Тип транзакции</value>
   </row>
   <row id="35E14F2E362847059E2D433F33E930FF" trl="N">
     <value column="Text" isTrl="Y" original="Show transactions for alternative financial account">Показывать проводки для альтернативных финансовых счетов</value>
@@ -235,7 +235,7 @@
     <value column="Text" isTrl="N" original="Expected Date">Expected Date</value>
   </row>
   <row id="6F49E71B58104D7DBC666A2C6D27ED55" trl="N">
-    <value column="Text" isTrl="N" original="Received From">Received From</value>
+    <value column="Text" isTrl="N" original="Received From">Выплачено из</value>
   </row>
   <row id="6FA59F20F1FE456C96EF35A22793F455" trl="N">
     <value column="Text" isTrl="N" original="Import Bank Statement">Import Bank Statement</value>
@@ -574,7 +574,7 @@
     <value column="Text" isTrl="N" original="Show payments for alternative payment methods">Show payments for alternative payment methods</value>
   </row>
   <row id="9B8EE95FED0F4B8EAD0E501CB33BA29B" trl="N">
-    <value column="Text" isTrl="Y" original="Transaction Type">Тип проводки</value>
+    <value column="Text" isTrl="Y" original="Transaction Type">Тип транзакции</value>
   </row>
   <row id="9C14EE536A664AEEB16CCB3FF177A121" trl="N">
     <value column="Text" isTrl="N" original="Hide Transactions after statement date">Hide Transactions after statement date</value>
@@ -673,7 +673,7 @@
     <value column="Text" isTrl="Y" original="Payment Date">Дата платежа</value>
   </row>
   <row id="BDFCEFEFA4E846F192E4C1EC6A5D5541" trl="N">
-    <value column="Text" isTrl="N" original="Deposit To">Deposit To</value>
+    <value column="Text" isTrl="N" original="Deposit To">Принято в</value>
   </row>
   <row id="BE73A5F0775447398C2ECD4C30CE7155" trl="N">
     <value column="Text" isTrl="N" original="Select Expected Payments">Select Expected Payments</value>
@@ -685,7 +685,7 @@
     <value column="Text" isTrl="N" original="To Be Paid To">To Be Paid To</value>
   </row>
   <row id="BE924775AF997C78E040007F010017BF" trl="N">
-    <value column="Text" isTrl="N" original="Received From">Received From</value>
+    <value column="Text" isTrl="N" original="Received From">Выплачено из</value>
   </row>
   <row id="BE924775AF9C7C78E040007F010017BF" trl="N">
     <value column="Text" isTrl="N" original="Actual Payment Out">Actual Payment Out</value>
@@ -754,10 +754,10 @@
     <value column="Text" isTrl="N" original="Expected Payment In">Expected Payment In</value>
   </row>
   <row id="D516788B09FF4747BECF206430E96AA4" trl="N">
-    <value column="Text" isTrl="N" original="Transaction Type">Transaction Type</value>
+    <value column="Text" isTrl="N" original="Transaction Type">Тип транзакции</value>
   </row>
   <row id="D6040F60AF4B4F6AAA7896D4D47270AB" trl="N">
-    <value column="Text" isTrl="N" original="Transaction Type">Transaction Type</value>
+    <value column="Text" isTrl="N" original="Transaction Type">Тип транзакции</value>
   </row>
   <row id="D6D719F69DB34F29B7AD9D4FB9C0339B" trl="N">
     <value column="Text" isTrl="N" original="To Be Paid To">To Be Paid To</value>
