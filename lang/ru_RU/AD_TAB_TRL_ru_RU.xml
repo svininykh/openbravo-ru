@@ -376,7 +376,7 @@ Define application initiated information and error messages.
     <value column="Help" isTrl="N" original="Edit the conversion rate of one unit of measure into another one.">Edit the conversion rate of one unit of measure into another one.</value>
   </row>
   <row id="134DE6BD8CD34FDFB6DC940BF857BC25" trl="N">
-    <value column="Name" isTrl="N" original="Dependency">Dependency</value>
+    <value column="Name" isTrl="Y" original="Dependency">Зависимости</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Defines the dependencies for the module">Defines the dependencies for the module</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1127,7 +1127,7 @@ For changes to become effective, you must re-login and re-start the Application 
     <value column="Help" isTrl="N" original="Supplier invoices can be registered, booked and managed in the header section of the purchase invoice window.">Supplier invoices can be registered, booked and managed in the header section of the purchase invoice window.</value>
   </row>
   <row id="29021BB9A96244BDA7E8AEBA71ADFB11" trl="N">
-    <value column="Name" isTrl="N" original="Data Package">Data Package</value>
+    <value column="Name" isTrl="Y" original="Data Package">Пакет данных</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Java Package">Java Package</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3424,28 +3424,28 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Each new record in the Balance Sheet and P&amp;L structure setup window is a report.">Each new record in the Balance Sheet and P&amp;L structure setup window is a report.</value>
   </row>
   <row id="800262" trl="N">
-    <value column="Name" isTrl="N" original="Node">Node</value>
+    <value column="Name" isTrl="Y" original="Node">Узлы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create the node which determines the information that is shown in a report.">Create the node which determines the information that is shown in a report.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="A node defines the information which is going to be shown in the report.">A node defines the information which is going to be shown in the report.</value>
   </row>
   <row id="800263" trl="N">
-    <value column="Name" isTrl="N" original="Grouping category">Grouping category</value>
+    <value column="Name" isTrl="Y" original="Grouping category">Группировка по категориям</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define desired categories to group nodes.">Define desired categories to group nodes.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Grouping category tab allows to define categories which groups report node/s. Each grouping category implies a page break in the report showing the defined report node/s.">Grouping category tab allows to define categories which groups report node/s. Each grouping category implies a page break in the report showing the defined report node/s.</value>
   </row>
   <row id="800264" trl="N">
-    <value column="Name" isTrl="N" original="Tax Report Setup">Tax Report Setup</value>
+    <value column="Name" isTrl="Y" original="Tax Report Setup">Настройки налогового отчёта</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define parameters and the way of showing the reports">Define parameters and the way of showing the reports</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Define parameters and the way of showing the reports">Define parameters and the way of showing the reports</value>
   </row>
   <row id="800265" trl="N">
-    <value column="Name" isTrl="N" original="Alert Rule">Alert Rule</value>
+    <value column="Name" isTrl="Y" original="Alert Rule">Регламент предупреждений</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define the alert rule in the SQL format.">Define the alert rule in the SQL format.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3459,14 +3459,14 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Alerts can be translated to any language required.">Alerts can be translated to any language required.</value>
   </row>
   <row id="800267" trl="N">
-    <value column="Name" isTrl="N" original="Alert Recipient">Alert Recipient</value>
+    <value column="Name" isTrl="Y" original="Alert Recipient">Получатель предупреждения</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add recipients for a selected alert.">Add recipients for a selected alert.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Alerts can be allocated to specific users or contact or to all of them.">Alerts can be allocated to specific users or contact or to all of them.</value>
   </row>
   <row id="800268" trl="N">
-    <value column="Name" isTrl="N" original="Alert">Alert</value>
+    <value column="Name" isTrl="Y" original="Alert">Предупреждение</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create alerts that will inform you about any critical or important situation in the application.">Create alerts that will inform you about any critical or important situation in the application.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3480,7 +3480,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="The initialization tab is a read-only tab which allows to review the &quot;Closing&quot; / &quot;Opening&quot; physical inventory created to validate a costing rule. Every time that a costing rule is validated a new record is created for each Organization and Warehouse. This record contains links to the physical inventories created.">The initialization tab is a read-only tab which allows to review the "Closing" / "Opening" physical inventory created to validate a costing rule. Every time that a costing rule is validated a new record is created for each Organization and Warehouse. This record contains links to the physical inventories created.</value>
   </row>
   <row id="81F3CB82FABC4208BA76DEBB3728A14B" trl="N">
-    <value column="Name" isTrl="N" original="Templates">Templates</value>
+    <value column="Name" isTrl="Y" original="Templates">Шаблоны</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>

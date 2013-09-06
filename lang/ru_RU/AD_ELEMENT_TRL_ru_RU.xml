@@ -1009,8 +1009,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400005" trl="N">
-    <value column="Name" isTrl="N" original="Registration Id">Registration Id</value>
-    <value column="PrintName" isTrl="N" original="Registration Id">Registration Id</value>
+    <value column="Name" isTrl="Y" original="Registration Id">Код регистрации</value>
+    <value column="PrintName" isTrl="Y" original="Registration Id">Код регистрации</value>
     <value column="Description" isTrl="N" original="Unique registration identifier for customer.">Unique registration identifier for customer.</value>
     <value column="Help" isTrl="N" original="Unique registration identifier for customer.">Unique registration identifier for customer.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1019,8 +1019,8 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1005400007" trl="N">
-    <value column="Name" isTrl="N" original="System Identifier">System Identifier</value>
-    <value column="PrintName" isTrl="N" original="System Identifier">System Identifier</value>
+    <value column="Name" isTrl="Y" original="System Identifier">Идентификатор системы</value>
+    <value column="PrintName" isTrl="Y" original="System Identifier">Идентификатор системы</value>
     <value column="Description" isTrl="N" original="Unique ID identying this instance of Openbravo.">Unique ID identying this instance of Openbravo.</value>
     <value column="Help" isTrl="N" original="Unique ID identying this instance of Openbravo.">Unique ID identying this instance of Openbravo.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1028,11 +1028,11 @@ The causes are The Requisition to Order window or the inclusion of the demand in
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="1005400008" trl="N">
-    <value column="Name" isTrl="N" original="Java Version">Java Version</value>
-    <value column="PrintName" isTrl="N" original="Java Version">Java Version</value>
-    <value column="Description" isTrl="N" original="Java Version">Java Version</value>
-    <value column="Help" isTrl="N" original="Java Version">Java Version</value>
+  <row id="1005400008" trl="Y">
+    <value column="Name" isTrl="Y" original="Java Version">Версия Java</value>
+    <value column="PrintName" isTrl="Y" original="Java Version">Версия Java</value>
+    <value column="Description" isTrl="Y" original="Java Version">Версия Java</value>
+    <value column="Help" isTrl="Y" original="Java Version">Версия Java</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1430,7 +1430,7 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1008" trl="N">
-    <value column="Name" isTrl="N" original="Invoice">Invoice</value>
+    <value column="Name" isTrl="Y" original="Invoice">Счёт-фактура</value>
     <value column="PrintName" isTrl="N" original="Invoice">Invoice</value>
     <value column="Description" isTrl="N" original="A document listing products, quantities and prices, payment terms, etc.">A document listing products, quantities and prices, payment terms, etc.</value>
     <value column="Help" isTrl="N" original="The Invoice ID uniquely identifies an Invoice Document.">The Invoice ID uniquely identifies an Invoice Document.</value>
@@ -2942,8 +2942,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1299" trl="N">
-    <value column="Name" isTrl="N" original="Java Class Name">Java Class Name</value>
-    <value column="PrintName" isTrl="N" original="Classname">Classname</value>
+    <value column="Name" isTrl="Y" original="Java Class Name">Имя класса Java</value>
+    <value column="PrintName" isTrl="Y" original="Classname">Имя класса</value>
     <value column="Description" isTrl="N" original="The classname is used when generating a representation of the table in java (the entity or business object). The classname is the simplename of the class (so without the package name). Often the AD_Table.name can be used here.">The classname is used when generating a representation of the table in java (the entity or business object). The classname is the simplename of the class (so without the package name). Often the AD_Table.name can be used here.</value>
     <value column="Help" isTrl="N" original="The classname is used when generating a representation of the table in java (the entity or business object). The classname is the simplename of the class (so without the package name). Often the AD_Table.name can be used here. The combination of classname and package needs to be unique.">The classname is used when generating a representation of the table in java (the entity or business object). The classname is the simplename of the class (so without the package name). Often the AD_Table.name can be used here. The combination of classname and package needs to be unique.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8092,8 +8092,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="368" trl="N">
-    <value column="Name" isTrl="N" original="Displayed">Displayed</value>
-    <value column="PrintName" isTrl="N" original="Displayed">Displayed</value>
+    <value column="Name" isTrl="Y" original="Displayed">Отображено</value>
+    <value column="PrintName" isTrl="Y" original="Displayed">Отображено</value>
     <value column="Description" isTrl="N" original="Determines, if this field is displayed">Determines, if this field is displayed</value>
     <value column="Help" isTrl="N" original="If the field is displayed, the field Display Logic will determine at runtime, if it is actually displayed">If the field is displayed, the field Display Logic will determine at runtime, if it is actually displayed</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8152,8 +8152,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="377" trl="N">
-    <value column="Name" isTrl="N" original="Fully Qualified">Fully Qualified</value>
-    <value column="PrintName" isTrl="N" original="Fully Qualified">Fully Qualified</value>
+    <value column="Name" isTrl="Y" original="Fully Qualified">Полное соответствие</value>
+    <value column="PrintName" isTrl="Y" original="Fully Qualified">Полное соответствие</value>
     <value column="Description" isTrl="N" original="This account is fully qualified">This account is fully qualified</value>
     <value column="Help" isTrl="N" original="The Fully Qualified check box indicates that all required elements for an account combination are present.">The Fully Qualified check box indicates that all required elements for an account combination are present.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10476,8 +10476,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="56EB0A0CAC4DB232E040007F01001BD8" trl="N">
-    <value column="Name" isTrl="N" original="Java Package">Java Package</value>
-    <value column="PrintName" isTrl="N" original="Java Package">Java Package</value>
+    <value column="Name" isTrl="Y" original="Java Package">Пакет Java</value>
+    <value column="PrintName" isTrl="Y" original="Java Package">Пакет Java</value>
     <value column="Description" isTrl="N" original="Java package for the module">Java package for the module</value>
     <value column="Help" isTrl="N" original="The Java Package is a unique identifier of your module and has to match the Java package naming rules as described in the Java Naming Conventions (names and package names). Be careful when setting this value as you are not allowed to change it once your module is registered in the central repository. If your module includes Java files they have to be packaged within your module's Java package or in its sub-packages.">The Java Package is a unique identifier of your module and has to match the Java package naming rules as described in the Java Naming Conventions (names and package names). Be careful when setting this value as you are not allowed to change it once your module is registered in the central repository. If your module includes Java files they have to be packaged within your module's Java package or in its sub-packages.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10486,8 +10486,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="56EB0A0CAC4EB232E040007F01001BD8" trl="N">
-    <value column="Name" isTrl="N" original="Author/Licensor">Author/Licensor</value>
-    <value column="PrintName" isTrl="N" original="Author/Licensor">Author/Licensor</value>
+    <value column="Name" isTrl="Y" original="Author/Licensor">Автор/Лицензиар</value>
+    <value column="PrintName" isTrl="Y" original="Author/Licensor">Автор/Лицензиар</value>
     <value column="Description" isTrl="N" original="Module author/licensor">Module author/licensor</value>
     <value column="Help" isTrl="N" original="The author of the module is the person or company that created and maintains the module.">The author of the module is the person or company that created and maintains the module.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10496,8 +10496,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="56EBDFF41AB65BDDE040007F0100368E" trl="N">
-    <value column="Name" isTrl="N" original="Last Version">Last Version</value>
-    <value column="PrintName" isTrl="N" original="Last Version">Last Version</value>
+    <value column="Name" isTrl="Y" original="Last Version">Последняя версия</value>
+    <value column="PrintName" isTrl="Y" original="Last Version">Последняя версия</value>
     <value column="Description" isTrl="N" original="Last compatible version">Last compatible version</value>
     <value column="Help" isTrl="N" original="It is the last compatible version to define the dependency.">It is the last compatible version to define the dependency.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10506,8 +10506,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="56EBDFF41AB75BDDE040007F0100368E" trl="N">
-    <value column="Name" isTrl="N" original="Module Dependency">Module Dependency</value>
-    <value column="PrintName" isTrl="N" original="Module Dependency">Module Dependency</value>
+    <value column="Name" isTrl="Y" original="Module Dependency">Зависимости модуля</value>
+    <value column="PrintName" isTrl="Y" original="Module Dependency">Зависимости модуля</value>
     <value column="Description" isTrl="N" original="Defines dependencies ammong modules">Defines dependencies ammong modules</value>
     <value column="Help" isTrl="N" original="Defines dependencies ammong modules">Defines dependencies ammong modules</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10527,8 +10527,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="56EBDFF41AB95BDDE040007F0100368E" trl="N">
-    <value column="Name" isTrl="N" original="First Version">First Version</value>
-    <value column="PrintName" isTrl="N" original="First version">First version</value>
+    <value column="Name" isTrl="Y" original="First Version">Первая версия</value>
+    <value column="PrintName" isTrl="Y" original="First version">Первая версия</value>
     <value column="Description" isTrl="N" original="First compatible version">First compatible version</value>
     <value column="Help" isTrl="N" original="It is the first compatible version for the dependency, in case last version is blank is will be the only one.">It is the first compatible version for the dependency, in case last version is blank is will be the only one.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10537,9 +10537,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="56ED7737A7C789BFE040007F01003A61" trl="N">
-    <value column="Name" isTrl="N" original="Dependent Module">Dependent Module</value>
-    <value column="PrintName" isTrl="N" original="Dependent Module">Dependent Module</value>
-    <value column="Description" isTrl="N" original="Dependent Module">Dependent Module</value>
+    <value column="Name" isTrl="Y" original="Dependent Module">Зависимый модуль</value>
+    <value column="PrintName" isTrl="Y" original="Dependent Module">Зависимый модуль</value>
+    <value column="Description" isTrl="Y" original="Dependent Module">Зависимый модуль</value>
     <value column="Help" isTrl="N" original="It is the Dependent Module for the current dependency.">It is the Dependent Module for the current dependency.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -10567,8 +10567,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5712C83B725FEEAEE040007F010123FF" trl="N">
-    <value column="Name" isTrl="N" original="Balanced">Balanced</value>
-    <value column="PrintName" isTrl="N" original="Balanced">Balanced</value>
+    <value column="Name" isTrl="Y" original="Balanced">Балансовый</value>
+    <value column="PrintName" isTrl="Y" original="Balanced">Балансовый</value>
     <value column="Description" isTrl="N" original="A flag indicating whether this report will be balanced or not.">A flag indicating whether this report will be balanced or not.</value>
     <value column="Help" isTrl="N" original="A balanced report is only possible for a business unit or a legal entity.">A balanced report is only possible for a business unit or a legal entity.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11627,8 +11627,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="59D46A26C1FABF9FE040007F010054FA" trl="N">
-    <value column="Name" isTrl="N" original="Register Module">Register Module</value>
-    <value column="PrintName" isTrl="N" original="Register Module">Register Module</value>
+    <value column="Name" isTrl="Y" original="Register Module">Зарегистрированный модуль</value>
+    <value column="PrintName" isTrl="Y" original="Register Module">Зарегистрированный модуль</value>
     <value column="Description" isTrl="N" original="Indicates whether the module is registered in the Central Repository">Indicates whether the module is registered in the Central Repository</value>
     <value column="Help" isTrl="N" original="Indicates whether the module is registered in the Central Repository and in case it is not, it allows to register it.">Indicates whether the module is registered in the Central Repository and in case it is not, it allows to register it.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -12521,8 +12521,8 @@ The distribution algorithm will be driven by this priority. The pending payments
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6BDD5E11747C51DAE040007F01013550" trl="N">
-    <value column="Name" isTrl="N" original="Report Type">Report Type</value>
-    <value column="PrintName" isTrl="N" original="Report Type">Report Type</value>
+    <value column="Name" isTrl="Y" original="Report Type">Тип отчёта</value>
+    <value column="PrintName" isTrl="Y" original="Report Type">Тип отчёта</value>
     <value column="Description" isTrl="N" original="Indicates whether the report is &quot;Point in time&quot; (needs to calculate an opening balance if it does not exist) or a &quot;Periodic&quot; report (in this case that calculation is not needed)">Indicates whether the report is "Point in time" (needs to calculate an opening balance if it does not exist) or a "Periodic" report (in this case that calculation is not needed)</value>
     <value column="Help" isTrl="N" original="Indicates whether the report is a &quot;Point in Time&quot; or a &quot;Periodic&quot; report.&lt;br&gt;A Point in Time report is obtained as of a given date, taking into account the whole historical financial movements; an example of point in time report is the Balance Sheet.&lt;br&gt;A periodic report is executed for a date range and it does not carry forward the balance of accounting movements previous to the range; an example of periodic report is the Income Statement.">Indicates whether the report is a "Point in Time" or a "Periodic" report.&lt;br&gt;A Point in Time report is obtained as of a given date, taking into account the whole historical financial movements; an example of point in time report is the Balance Sheet.&lt;br&gt;A periodic report is executed for a date range and it does not carry forward the balance of accounting movements previous to the range; an example of periodic report is the Income Statement.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19851,8 +19851,8 @@ In case they are not "Check On Save", this verification is skipped. The purpose 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8B53A1513DB6DD41E040007F01011767" trl="N">
-    <value column="Name" isTrl="N" original="Dependency Enforcement">Dependency Enforcement</value>
-    <value column="PrintName" isTrl="N" original="Dependency Enforcement">Dependency Enforcement</value>
+    <value column="Name" isTrl="Y" original="Dependency Enforcement">Уровень зависимости</value>
+    <value column="PrintName" isTrl="Y" original="Dependency Enforcement">Уровень зависимости</value>
     <value column="Description" isTrl="N" original="Dependency enforcement defines which are the versions of the dependent module that are compatible with the parent one.">Dependency enforcement defines which are the versions of the dependent module that are compatible with the parent one.</value>
     <value column="Help" isTrl="N" original="Dependency enforcement defines which are the versions of the dependent module that are compatible with the parent one.&#10;&#10;The values it can contain are:&#10;&#10;*Major Version (default). The compatible versions are all the minor version within the same major version. If &quot;Last Version&quot; is defined being a different major version than &quot;From Version&quot;, &quot;Last Version&quot; defines the highest compatible minor version; if &quot;Last Version&quot; is in the same major version than &quot;From Version&quot; this value is not taken into account. It is the default value.&#10;*Minor Version. Defines a strict dependency to the exact minor version. In case no &quot;Last Version&quot; is set, &quot;From Version&quot; is the only compatible version. Other case the compatible versions are all between &quot;From&quot; and &quot;Last Version&quot; values.&#10;*None. &quot;From Version&quot; is the only field taken into account, there is no restriction on different major versions.">Dependency enforcement defines which are the versions of the dependent module that are compatible with the parent one.
 

@@ -322,23 +322,23 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300012" trl="N">
-    <value column="MsgText" isTrl="Y" original="Accounting file not inserted: Skipping accounting configuration">Фаил плана счетов не задан: Пропущена настройка плана счетов</value>
+    <value column="MsgText" isTrl="Y" original="Accounting file not inserted: Skipping accounting configuration">Файл плана счетов не задан: Пропущена настройка плана счетов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300013" trl="N">
-    <value column="MsgText" isTrl="N" original="Your registration information has been removed successfully.">Your registration information has been removed successfully.</value>
+    <value column="MsgText" isTrl="Y" original="Your registration information has been removed successfully.">Ваша регистрационная информация успешно была удалена.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300014" trl="N">
-    <value column="MsgText" isTrl="N" original="See Help window (“?”) for information on data processing">See Help window (“?”) for information on data processing</value>
+    <value column="MsgText" isTrl="Y" original="See Help window (“?”) for information on data processing">Посмотрите окно Помощь (“?”) для получения данных обработки</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300015" trl="N">
-    <value column="MsgText" isTrl="N" original="Grid View">Grid View</value>
+    <value column="MsgText" isTrl="Y" original="Grid View">Списком</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300016" trl="N">
-    <value column="MsgText" isTrl="N" original="Form View">Form View</value>
+    <value column="MsgText" isTrl="Y" original="Form View">Формой</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300017" trl="N">
@@ -3993,19 +3993,19 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5580236E4F454F1AAD136F9B53D0D0A3" trl="N">
-    <value column="MsgText" isTrl="N" original="There are no modules to install.">There are no modules to install.</value>
+    <value column="MsgText" isTrl="Y" original="There are no modules to install.">Нет модулей для установки.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="559" trl="N">
-    <value column="MsgText" isTrl="N" original="Cannot execute task:">Cannot execute task:</value>
+    <value column="MsgText" isTrl="Y" original="Cannot execute task:">Невозможно начать задание:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="55F87823043F485082AE98D29F5A997D" trl="N">
-    <value column="MsgText" isTrl="N" original="max available version">max available version</value>
+    <value column="MsgText" isTrl="Y" original="max available version">максимально доступная версия</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="560" trl="N">
-    <value column="MsgText" isTrl="N" original="Tasks">Tasks</value>
+    <value column="MsgText" isTrl="Y" original="Tasks">Задания</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="561" trl="N">
@@ -4013,7 +4013,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="562" trl="N">
-    <value column="MsgText" isTrl="N" original="Could not find taxes">Could not find taxes</value>
+    <value column="MsgText" isTrl="Y" original="Could not find taxes">Не найдены налоги</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="563" trl="N">
@@ -4021,7 +4021,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="564" trl="N">
-    <value column="MsgText" isTrl="N" original="Timeout - Try to check results later">Timeout - Try to check results later</value>
+    <value column="MsgText" isTrl="Y" original="Timeout - Try to check results later">Задержка - Попробуйте проверить результат позже</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="565" trl="N">
@@ -4033,11 +4033,11 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="567" trl="N">
-    <value column="MsgText" isTrl="N" original="Tools">Tools</value>
+    <value column="MsgText" isTrl="Y" original="Tools">Инструменты</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="568" trl="N">
-    <value column="MsgText" isTrl="N" original="Totals">Totals</value>
+    <value column="MsgText" isTrl="Y" original="Totals">Итоги</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="569" trl="N">
@@ -4831,7 +4831,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="716A7D748A989ED8E040007F01015931" trl="N">
-    <value column="MsgText" isTrl="N" original="There is already a @TABLE_NAME@ with the same @COLUMN_NAMES@. @COLUMN_NAMES@ must be unique. You must change the values entered.">There is already a @TABLE_NAME@ with the same @COLUMN_NAMES@. @COLUMN_NAMES@ must be unique. You must change the values entered.</value>
+    <value column="MsgText" isTrl="Y" original="There is already a @TABLE_NAME@ with the same @COLUMN_NAMES@. @COLUMN_NAMES@ must be unique. You must change the values entered.">В таблице @TABLE_NAME@ уже существует значение @COLUMN_NAMES@. @COLUMN_NAMES@ должно быть уникальным. Вам необходимо изменить заданное значение.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="716A7D748A999ED8E040007F01015931" trl="N">
@@ -7888,7 +7888,7 @@ Ask System Administrator to unlock it.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DCF9CB4AB20E4C12ACB0495FB42DBC82" trl="N">
-    <value column="MsgText" isTrl="N" original="Processing accounting module">Processing accounting module</value>
+    <value column="MsgText" isTrl="Y" original="Processing accounting module">Обработка модуля бухгалтерского учёта</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DD2F799E54F4462F89762F794BEF3A12" trl="N">
@@ -8018,11 +8018,11 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E8C906D6A45D45B18631B7631A1BD8BD" trl="N">
-    <value column="MsgText" isTrl="N" original="An accounting module must be selected, and will be processed with the rest of reference data">An accounting module must be selected, and will be processed with the rest of reference data</value>
+    <value column="MsgText" isTrl="Y" original="An accounting module must be selected, and will be processed with the rest of reference data">Модуль для бухгалтерского учёта выбран и будет обработан совместно с другими справочными данными</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E8E6AAC0FDFE4761A99130A4D945D95A" trl="N">
-    <value column="MsgText" isTrl="N" original="Core cannot be disabled">Core cannot be disabled</value>
+    <value column="MsgText" isTrl="Y" original="Core cannot be disabled">Ядро не может быть отключено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EA1F44C7C18C426DA88E24606F6B4962" trl="N">

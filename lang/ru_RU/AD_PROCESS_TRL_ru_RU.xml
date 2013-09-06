@@ -601,7 +601,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4062D3F4448547C3A2BCDFB09D062BA2" trl="N">
-    <value column="Name" isTrl="N" original="Register Module">Register Module</value>
+    <value column="Name" isTrl="Y" original="Register Module">Регистрация модуля</value>
     <value column="Description" isTrl="N" original="This process registers a module in the central repository">This process registers a module in the central repository</value>
     <value column="Help" isTrl="N" original="This process registers a module in the central repository checking the name, javaname, db_prefix etc. are available to be used. To register a module you must have a valid username and password in Openbravo Central Repository. You should register into &lt;a href=&quot;http://forge.openbravo.com&quot; target=&quot;_blank&quot;&gt;Openbravo Forge&lt;/a&gt; to obtain these credentials">This process registers a module in the central repository checking the name, javaname, db_prefix etc. are available to be used. To register a module you must have a valid username and password in Openbravo Central Repository. You should register into &lt;a href="http://forge.openbravo.com" target="_blank"&gt;Openbravo Forge&lt;/a&gt; to obtain these credentials</value>
   </row>

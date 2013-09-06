@@ -1476,10 +1476,10 @@
     <value column="Text" isTrl="N" original="Order Number">Order Number</value>
   </row>
   <row id="59FC4FBB8C97F7DDE040007F01003E48" trl="N">
-    <value column="Text" isTrl="N" original="Register Module">Register Module</value>
+    <value column="Text" isTrl="Y" original="Register Module">Регистрация модуля</value>
   </row>
   <row id="59FC4FBB8C98F7DDE040007F01003E48" trl="N">
-    <value column="Text" isTrl="N" original="Register Modules">Register Modules</value>
+    <value column="Text" isTrl="Y" original="Register Modules">Регистрация модулей</value>
   </row>
   <row id="59FC4FBB8C99F7DDE040007F01003E48" trl="N">
     <value column="Text" isTrl="Y" original="User">Пользователь</value>
@@ -2284,10 +2284,10 @@
     <value column="Text" isTrl="Y" original="Calendar">Календарь</value>
   </row>
   <row id="800181" trl="N">
-    <value column="Text" isTrl="N" original="Calculator">Calculator</value>
+    <value column="Text" isTrl="Y" original="Calculator">Калькулятор</value>
   </row>
   <row id="800187" trl="N">
-    <value column="Text" isTrl="N" original="Invoice">Invoice</value>
+    <value column="Text" isTrl="Y" original="Invoice">Счёт-фактура</value>
   </row>
   <row id="800188" trl="N">
     <value column="Text" isTrl="Y" original="Date">Дата</value>
@@ -3121,19 +3121,19 @@
     <value column="Text" isTrl="N" original="Reference Year">Reference Year</value>
   </row>
   <row id="805198" trl="N">
-    <value column="Text" isTrl="N" original="Report Options">Report Options</value>
+    <value column="Text" isTrl="Y" original="Report Options">Параметры отчёта</value>
   </row>
   <row id="805199" trl="N">
-    <value column="Text" isTrl="N" original="Show only accounts with value">Show only accounts with value</value>
+    <value column="Text" isTrl="Y" original="Show only accounts with value">Показывать только счета с значениями</value>
   </row>
   <row id="805200" trl="N">
     <value column="Text" isTrl="N" original="Accounting Report">Accounting Report</value>
   </row>
   <row id="805201" trl="N">
-    <value column="Text" isTrl="N" original="Show Account codes">Show Account codes</value>
+    <value column="Text" isTrl="N" original="Show Account codes">Показывать коды счетов</value>
   </row>
   <row id="805202" trl="N">
-    <value column="Text" isTrl="N" original="Account Level">Account Level</value>
+    <value column="Text" isTrl="N" original="Account Level">Уровень учёта</value>
   </row>
   <row id="805422" trl="N">
     <value column="Text" isTrl="N" original="Accumulated">Accumulated</value>
@@ -5802,7 +5802,7 @@
     <value column="Text" isTrl="N" original="Trial Balance">Trial Balance</value>
   </row>
   <row id="DAF427C6019B462591CB2B2D3232ED60" trl="N">
-    <value column="Text" isTrl="N" original="Dependency problems.">Dependency problems.</value>
+    <value column="Text" isTrl="N" original="Dependency problems.">Проблемы зависимостей.</value>
   </row>
   <row id="DBAD2FD2624549FB94F0B9EDC8B7BE3D" trl="N">
     <value column="Text" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
