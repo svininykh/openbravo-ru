@@ -178,13 +178,13 @@
     <value column="Name" isTrl="N" original="Expense Plan">Expense Plan</value>
   </row>
   <row id="AE71A689EC32416CAD7994B5D29CE3C6" trl="N">
-    <value column="Name" isTrl="N" original="On Hold">On Hold</value>
+    <value column="Name" isTrl="Y" original="On Hold">Заблокировано</value>
   </row>
   <row id="BE26AE91D1864A078EE2ABBFAB897D26" trl="N">
-    <value column="Name" isTrl="N" original="Finish Details">Finish Details</value>
+    <value column="Name" isTrl="Y" original="Finish Details">Финальная дитализация</value>
   </row>
   <row id="C6F541D454D14028B784A27B5C35E9D4" trl="N">
-    <value column="Name" isTrl="N" original="Matching info">Matching info</value>
+    <value column="Name" isTrl="Y" original="Matching info">Доступная информация</value>
   </row>
   <row id="D2A0D89EDB884813B6833F6880777C27" trl="N">
     <value column="Name" isTrl="Y" original="Bank Account Format">Формат банковского счёта</value>
@@ -199,9 +199,9 @@
     <value column="Name" isTrl="Y" original="Payment OUT">ВЫПЛАЧЕНО</value>
   </row>
   <row id="F6B170DDB43E461DB53FF37F53307766" trl="N">
-    <value column="Name" isTrl="N" original="Limit Price">Limit Price</value>
+    <value column="Name" isTrl="Y" original="Limit Price">Лимит цены</value>
   </row>
   <row id="FFEBF36F217A49C49FCDA375681FC2D6" trl="N">
-    <value column="Name" isTrl="N" original="Open Items">Open Items</value>
+    <value column="Name" isTrl="Y" original="Open Items">Открыть позиции</value>
   </row>
 </compiereTrl>

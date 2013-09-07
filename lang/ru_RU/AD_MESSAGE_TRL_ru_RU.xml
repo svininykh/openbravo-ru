@@ -286,19 +286,19 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300003" trl="N">
-    <value column="MsgText" isTrl="N" original="This task cannot be executed while background process is active">This task cannot be executed while background process is active</value>
+    <value column="MsgText" isTrl="N" original="This task cannot be executed while background process is active">Это задание не может быть выполнено из-за активной фоной обработки</value>
     <value column="MsgTip" isTrl="N" original="Message used to translate the error message for, periodic background process">Message used to translate the error message for, periodic background process</value>
   </row>
   <row id="1000300004" trl="N">
-    <value column="MsgText" isTrl="N" original="The process was launched successfully">The process was launched successfully</value>
+    <value column="MsgText" isTrl="Y" original="The process was launched successfully">Обработка была запущена успешно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300005" trl="N">
-    <value column="MsgText" isTrl="N" original="Direct Launch process started">Direct Launch process started</value>
+    <value column="MsgText" isTrl="Y" original="Direct Launch process started">Запуск обработки вручную начат</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300006" trl="N">
-    <value column="MsgText" isTrl="N" original="Loading Organization and User failed">Loading Organization and User failed</value>
+    <value column="MsgText" isTrl="N" original="Loading Organization and User failed">Загрузка организации и пользователя прервана</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300007" trl="N">
@@ -374,11 +374,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500000" trl="N">
-    <value column="MsgText" isTrl="N" original="Wrong account schema parent">Wrong account schema parent</value>
+    <value column="MsgText" isTrl="N" original="Wrong account schema parent">Неверный родительский план счетов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500001" trl="N">
-    <value column="MsgText" isTrl="N" original="Cost not available for the inserted date">Cost not available for the inserted date</value>
+    <value column="MsgText" isTrl="N" original="Cost not available for the inserted date">Себестоимость на заданную дату недоступна</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500002" trl="N">
@@ -390,7 +390,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500004" trl="N">
-    <value column="MsgText" isTrl="N" original="Cannot create report. Unknown document type: ">Cannot create report. Unknown document type: </value>
+    <value column="MsgText" isTrl="N" original="Cannot create report. Unknown document type: ">Нельзя создать отчёт. Неизвестный тип документа: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500005" trl="N">
@@ -398,7 +398,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500006" trl="N">
-    <value column="MsgText" isTrl="N" original="Attachment is already created.">Attachment is already created.</value>
+    <value column="MsgText" isTrl="N" original="Attachment is already created.">Вложение уже было создано.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500007" trl="N">
@@ -1977,11 +1977,11 @@ Press the Continue button to go to the Instance Activation window.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="210" trl="N">
-    <value column="MsgText" isTrl="N" original="Date from">Date from</value>
+    <value column="MsgText" isTrl="Y" original="Date from">Дата с</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="211" trl="N">
-    <value column="MsgText" isTrl="N" original="Date to">Date to</value>
+    <value column="MsgText" isTrl="Y" original="Date to">Дата по</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="212" trl="N">
@@ -1989,7 +1989,7 @@ Press the Continue button to go to the Instance Activation window.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="213" trl="N">
-    <value column="MsgText" isTrl="N" original="Default Error">Default Error</value>
+    <value column="MsgText" isTrl="Y" original="Default Error">Ошибка по-умолчанию</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="21376B83DE3746328CD8884CD493225C" trl="N">
@@ -6033,7 +6033,7 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804705" trl="N">
-    <value column="MsgText" isTrl="N" original="Date To  must be greater than  Date From">Date To  must be greater than  Date From</value>
+    <value column="MsgText" isTrl="Y" original="Date To  must be greater than  Date From">Дата окончания должна быть позже даты начала</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804706" trl="N">
