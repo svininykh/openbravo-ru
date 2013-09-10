@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="OBUISEL_SELECTOR_FIELD" version="0.3">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="OBUISEL_SELECTOR_FIELD" version="">
   <row id="082C760C3435477B9A20B9990749F6C7" trl="N">
     <value column="Name" isTrl="Y" original="Location">Расположение</value>
     <value column="Description" isTrl="N" original=""/>
@@ -26,7 +26,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1D2F1F18ECE84352ABF8CA71EECA9589" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse Qty.">Кол-во складское</value>
+    <value column="Name" isTrl="Y" original="Warehouse Qty.">Кол-во складское</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -141,7 +141,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="5B2FA3B98CF64853A30AAE19AC8C8B78" trl="N">
-    <value column="Name" isTrl="N" original="Quantity Order in draft transactions">Кол-во ордера в черновых транз.</value>
+    <value column="Name" isTrl="Y" original="Quantity Order in draft transactions">Кол-во ордера в черновых транз.</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -161,7 +161,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="6DDC519575994A81A5C92046AD2FB7B6" trl="N">
-    <value column="Name" isTrl="N" original="Ordered Qty.">Кол-во ордера</value>
+    <value column="Name" isTrl="Y" original="Ordered Qty.">Кол-во ордера</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -181,7 +181,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="8296CA3FDAB04B698B1EDD4BC76F1512" trl="N">
-    <value column="Name" isTrl="N" original="On Hand Quantity order">На руках кол-во ордера</value>
+    <value column="Name" isTrl="Y" original="On Hand Quantity order">На руках кол-во ордера</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

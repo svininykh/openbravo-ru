@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REFERENCE" version="0.3">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REFERENCE" version="">
   <row id="00037F8CF0644AF7A1987E7BF6DF68A4" trl="N">
     <value column="Name" isTrl="N" original="Element Value Selector">Element Value Selector</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1752,7 +1752,7 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800064" trl="N">
-    <value column="Name" isTrl="N" original="Shipment/Receipt Line">Стр. накладной отгрузки/получения</value>
+    <value column="Name" isTrl="Y" original="Shipment/Receipt Line">Стр. накладной отгрузки/получения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1887,7 +1887,7 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800096" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Line">Строка счёт-фактуры</value>
+    <value column="Name" isTrl="Y" original="Invoice Line">Строка счёт-фактуры</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

@@ -145,7 +145,7 @@
     <value column="Help" isTrl="Y" original="Copy and overwrite all accounts to system defaults (DANGEROUS!!!)">Копировать и переписать все системные счета установленные по-умолчанию (ОПАСНО!!!)</value>
   </row>
   <row id="109" trl="N">
-    <value column="Name" isTrl="N" original="Process Shipment">Обработка накладной</value>
+    <value column="Name" isTrl="Y" original="Process Shipment">Обработка накладной</value>
     <value column="Description" isTrl="N" original="Process Shipment (Update Inventory)">Process Shipment (Update Inventory)</value>
     <value column="Help" isTrl="N" original="Process Shipment will move products out of inventory and mark line items as shipped.">Process Shipment will move products out of inventory and mark line items as shipped.</value>
   </row>
@@ -190,7 +190,7 @@
     <value column="Help" isTrl="N" original="** Special **">** Special **</value>
   </row>
   <row id="118" trl="N">
-    <value column="Name" isTrl="N" original="Generate Shipments">Создать накладные</value>
+    <value column="Name" isTrl="Y" original="Generate Shipments">Создать накладные</value>
     <value column="Description" isTrl="N" original="Generate shipment">Generate shipment</value>
     <value column="Help" isTrl="N" original="Creates shipments from the selected organization and all its descends">Creates shipments from the selected organization and all its descends</value>
   </row>
@@ -506,9 +506,9 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Browse history of this particular document type for the selected business partner to be able to select lines (products) from these. For example, if you are creating a new sales order for business partner A, Copy Lines window will give you the history of products ordered and the prices given to business partner A within the last X days. X can be set within the business partner window. Consider this as a tiny CRM window.">Browse history of this particular document type for the selected business partner to be able to select lines (products) from these. For example, if you are creating a new sales order for business partner A, Copy Lines window will give you the history of products ordered and the prices given to business partner A within the last X days. X can be set within the business partner window. Consider this as a tiny CRM window.</value>
   </row>
   <row id="212" trl="N">
-    <value column="Name" isTrl="N" original="Copy Details">Копировать подробности</value>
-    <value column="Description" isTrl="N" original="Copy Lines/Phases/Tasks from another existing project">Копировать строки/фазы/задачи из других существующих проектов</value>
-    <value column="Help" isTrl="N" original="Copy Lines/Phases/Tasks from another existing project">Копировать строки/фазы/задачи из других существующих проектов</value>
+    <value column="Name" isTrl="Y" original="Copy Details">Копировать подробности</value>
+    <value column="Description" isTrl="Y" original="Copy Lines/Phases/Tasks from another existing project">Копировать строки/фазы/задачи из других существующих проектов</value>
+    <value column="Help" isTrl="Y" original="Copy Lines/Phases/Tasks from another existing project">Копировать строки/фазы/задачи из других существующих проектов</value>
   </row>
   <row id="213" trl="N">
     <value column="Name" isTrl="N" original="Start Process">Start Process</value>
@@ -516,9 +516,9 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Start Recurring Run">Start Recurring Run</value>
   </row>
   <row id="214" trl="N">
-    <value column="Name" isTrl="N" original="Copy Details">Копировать подробности</value>
-    <value column="Description" isTrl="N" original="Copy Journal/Lines from other Journal Batch">Копировать поля журнала/строки из других записей в журнале</value>
-    <value column="Help" isTrl="N" original="Copy Journal/Lines from other Journal Batch">Копировать поля журнала/строки из других записей в журнале</value>
+    <value column="Name" isTrl="Y" original="Copy Details">Копировать подробности</value>
+    <value column="Description" isTrl="Y" original="Copy Journal/Lines from other Journal Batch">Копировать поля журнала/строки из других записей в журнале</value>
+    <value column="Help" isTrl="Y" original="Copy Journal/Lines from other Journal Batch">Копировать поля журнала/строки из других записей в журнале</value>
   </row>
   <row id="215" trl="N">
     <value column="Name" isTrl="N" original="Set Project Type">Set Project Type</value>
@@ -746,7 +746,7 @@ When the process is finished it is recommended to schedule the "Costing Backgrou
     <value column="Help" isTrl="N" original="Generate Purchase Order From Project">Generate Purchase Order From Project</value>
   </row>
   <row id="800010" trl="N">
-    <value column="Name" isTrl="N" original="Update Attributes from Shipment">Обновить характеристики из накладной</value>
+    <value column="Name" isTrl="Y" original="Update Attributes from Shipment">Обновить характеристики из накладной</value>
     <value column="Description" isTrl="N" original="Update attributes from shipment">Update attributes from shipment</value>
     <value column="Help" isTrl="N" original="Update attributes from shipment">Update attributes from shipment</value>
   </row>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="0.3">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="">
   <row id="0131585AC1F246DBAF6B84E53534F5FA" trl="N">
     <value column="Name" isTrl="Y" original="General Ledger Currency Credit">По кредиту в валюте Г/К</value>
     <value column="PrintName" isTrl="Y" original="General Ledger Currency Credit">По кредиту в валюте Г/К</value>
@@ -3622,8 +3622,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1449" trl="N">
-    <value column="Name" isTrl="N" original="Write-off">Списание</value>
-    <value column="PrintName" isTrl="N" original="Write-off">Списание</value>
+    <value column="Name" isTrl="Y" original="Write-off">Списание</value>
+    <value column="PrintName" isTrl="Y" original="Write-off">Списание</value>
     <value column="Description" isTrl="N" original="Account for Receivables write-off">Account for Receivables write-off</value>
     <value column="Help" isTrl="N" original="The Write Off Account identifies the account to book write off transactions to.">The Write Off Account identifies the account to book write off transactions to.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3648,8 +3648,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1450" trl="N">
-    <value column="Name" isTrl="N" original="Write-off Amount">Списана сумма</value>
-    <value column="PrintName" isTrl="N" original="Write-off">Списано</value>
+    <value column="Name" isTrl="Y" original="Write-off Amount">Списана сумма</value>
+    <value column="PrintName" isTrl="Y" original="Write-off">Списано</value>
     <value column="Description" isTrl="N" original="A monetary sum that can be deducted from tax obligations.">A monetary sum that can be deducted from tax obligations.</value>
     <value column="Help" isTrl="N" original="The Write Off Amount indicates the amount to be written off as uncollectible.">The Write Off Amount indicates the amount to be written off as uncollectible.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4578,7 +4578,7 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="164" trl="N">
-    <value column="Name" isTrl="N" original="Foreign Currency Credit">Ин. валюта по кредиту</value>
+    <value column="Name" isTrl="Y" original="Foreign Currency Credit">Ин. валюта по кредиту</value>
     <value column="PrintName" isTrl="N" original="Source Credit">Source Credit</value>
     <value column="Description" isTrl="N" original="The amount credited from the account, given in provider currency.">The amount credited from the account, given in provider currency.</value>
     <value column="Help" isTrl="N" original="The Source Credit Amount indicates the credit amount for this line in the source currency.">The Source Credit Amount indicates the credit amount for this line in the source currency.</value>
@@ -4588,7 +4588,7 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="165" trl="N">
-    <value column="Name" isTrl="N" original="Foreign Currency Debit">Ин. валюта по дебету</value>
+    <value column="Name" isTrl="Y" original="Foreign Currency Debit">Ин. валюта по дебету</value>
     <value column="PrintName" isTrl="N" original="Source Debit">Source Debit</value>
     <value column="Description" isTrl="N" original="The amount debited from the account, given in provider currency.">The amount debited from the account, given in provider currency.</value>
     <value column="Help" isTrl="N" original="The Source Debit Amount indicates the credit amount for this line in the source currency.">The Source Debit Amount indicates the credit amount for this line in the source currency.</value>
@@ -5230,7 +5230,7 @@ If selected, this column will be used in the Search Window as an available filte
   </row>
   <row id="1762" trl="N">
     <value column="Name" isTrl="Y" original="Available">Доступен</value>
-    <value column="PrintName" isTrl="N" original="Available">Доступен</value>
+    <value column="PrintName" isTrl="Y" original="Available">Доступен</value>
     <value column="Description" isTrl="N" original="Resource is available">Resource is available</value>
     <value column="Help" isTrl="N" original="Resource is available for assignments">Resource is available for assignments</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7945,7 +7945,9 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="Name" isTrl="Y" original="Active">Активно</value>
     <value column="PrintName" isTrl="Y" original="Active">Активно</value>
     <value column="Description" isTrl="Y" original="A flag indicating whether this record is available for use or de-activated.">Флаг, указывающий что эта запись доступна для использования или неактивна.</value>
-    <value column="Help" isTrl="N" original="There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.">There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.</value>
+    <value column="Help" isTrl="N" original="There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.">There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records:
+(1) The system requires the record for auditing purposes.
+(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -8262,8 +8264,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="39E07159032E4B9DB5C6C5CEB8CC7F90" trl="N">
-    <value column="Name" isTrl="N" original="Document Type for Order">Тип документа для ордера</value>
-    <value column="PrintName" isTrl="N" original="Document Type for Order">Тип документа для ордера</value>
+    <value column="Name" isTrl="Y" original="Document Type for Order">Тип документа для ордера</value>
+    <value column="PrintName" isTrl="Y" original="Document Type for Order">Тип документа для ордера</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8424,8 +8426,8 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="3F211B8BC143479FBA576D24D51F081B" trl="N">
-    <value column="Name" isTrl="N" original="Payment In">Поступление</value>
-    <value column="PrintName" isTrl="N" original="Payment In">Поступление</value>
+    <value column="Name" isTrl="Y" original="Payment In">Поступление</value>
+    <value column="PrintName" isTrl="Y" original="Payment In">Поступление</value>
     <value column="Description" isTrl="N" original="This flag allows to block payment in in customer.">This flag allows to block payment in in customer.</value>
     <value column="Help" isTrl="N" original="This flag allows to block payment in in customer.">This flag allows to block payment in in customer.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8534,8 +8536,8 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="4028C9BC2E78EF43012E78FD91500018" trl="N">
-    <value column="Name" isTrl="N" original="Foreign Currency">Иностранная валюта</value>
-    <value column="PrintName" isTrl="N" original="Foreign Currency">Иностранная валюта</value>
+    <value column="Name" isTrl="Y" original="Foreign Currency">Иностранная валюта</value>
+    <value column="PrintName" isTrl="Y" original="Foreign Currency">Иностранная валюта</value>
     <value column="Description" isTrl="N" original="The currency that transaction was made in if it was different to the account currency">The currency that transaction was made in if it was different to the account currency</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8544,7 +8546,7 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="4028C9BC2E78EF43012E78FE3130001E" trl="N">
-    <value column="Name" isTrl="N" original="Foreign Conversion Rate">Конвертация ин. вылюты</value>
+    <value column="Name" isTrl="Y" original="Foreign Conversion Rate">Конвертация ин. вылюты</value>
     <value column="PrintName" isTrl="N" original="Conversion Rate">Conversion Rate</value>
     <value column="Description" isTrl="N" original="Conversion rate between foreign currency &amp; financial account currency">Conversion rate between foreign currency &amp; financial account currency</value>
     <value column="Help" isTrl="N" original=""/>
@@ -11887,8 +11889,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="606E48A511A24E82B29AE24FAA2DD50B" trl="N">
-    <value column="Name" isTrl="N" original="Goods Shipment">Накладная отгрузки</value>
-    <value column="PrintName" isTrl="N" original="Goods Shipment">Накладная отгрузки</value>
+    <value column="Name" isTrl="Y" original="Goods Shipment">Накладная отгрузки</value>
+    <value column="PrintName" isTrl="Y" original="Goods Shipment">Накладная отгрузки</value>
     <value column="Description" isTrl="N" original="This flag allows to block goods shipment out  in customer.">This flag allows to block goods shipment out  in customer.</value>
     <value column="Help" isTrl="N" original="This flag allows to block goods shipment out  in customer.">This flag allows to block goods shipment out  in customer.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -12160,7 +12162,7 @@ Usually, company's internal identifiers for various records (products, customers
   </row>
   <row id="630" trl="N">
     <value column="Name" isTrl="Y" original="SQL Where Clause">SQL запрос фильтр</value>
-    <value column="PrintName" isTrl="Y" original="SQL Where clause">>SQL запрос фильтр</value>
+    <value column="PrintName" isTrl="Y" original="SQL Where clause">SQL запрос фильтр</value>
     <value column="Description" isTrl="N" original="A specification of the SQL WHERE clause used for permanently filtering displayed data.">A specification of the SQL WHERE clause used for permanently filtering displayed data.</value>
     <value column="Help" isTrl="N" original="The Where Clause indicates the SQL WHERE clause to use for record selection. The WHERE clause is added to the query. Fully qualified means &quot;tablename.columnname&quot;.">The Where Clause indicates the SQL WHERE clause to use for record selection. The WHERE clause is added to the query. Fully qualified means "tablename.columnname".</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13084,8 +13086,8 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="Y" original="Numberofpayments">Количество платежей</value>
   </row>
   <row id="78B98ED04530560FE040007F0101777C" trl="N">
-    <value column="Name" isTrl="N" original="Outstanding">Не оплачено</value>
-    <value column="PrintName" isTrl="N" original="Outstanding">Не оплачено</value>
+    <value column="Name" isTrl="Y" original="Outstanding">Не оплачено</value>
+    <value column="PrintName" isTrl="Y" original="Outstanding">Не оплачено</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13725,8 +13727,8 @@ Product quantity in the order uom.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800021" trl="N">
-    <value column="Name" isTrl="N" original="Project Status">Статус проекта</value>
-    <value column="PrintName" isTrl="N" original="Project Status">Статус проекта</value>
+    <value column="Name" isTrl="Y" original="Project Status">Статус проекта</value>
+    <value column="PrintName" isTrl="Y" original="Project Status">Статус проекта</value>
     <value column="Description" isTrl="N" original="Indicates the current status of the project.">Indicates the current status of the project.</value>
     <value column="Help" isTrl="N" original="Indicates the current status of the project. There are normally three:&#10;Open: The budget is sent. The project has not been won yet.&#10;Order: The project has been won by a partner we have sent a budget.&#10;Order closed: All the products agreed have been delivered.">Indicates the current status of the project. There are normally three:
 Open: The budget is sent. The project has not been won yet.
@@ -19281,7 +19283,9 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="Name" isTrl="N" original="Property">Property</value>
     <value column="PrintName" isTrl="N" original="Property">Property</value>
     <value column="Description" isTrl="N" original="Configuration Property to assign value">Configuration Property to assign value</value>
-    <value column="Help" isTrl="N" original="It is the &quot;Configuration Property&quot; this record sets value to. &#10;&#10;Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.">It is the &quot;Configuration Property&quot; this record sets value to. &#10;&#10;Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.</value>
+    <value column="Help" isTrl="N" original="It is the &quot;Configuration Property&quot; this record sets value to. &#10;&#10;Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.">It is the "Configuration Property" this record sets value to.
+
+Configuration Properties are defined by modules with the purpose other modules are capable to assign them values.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -19887,8 +19891,8 @@ The values it can contain are:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8B597071634E418C905A49B9F85AC0E2" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Организация</value>
-    <value column="PrintName" isTrl="N" original="Organization">Организация</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
+    <value column="PrintName" isTrl="Y" original="Organization">Организация</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19929,8 +19933,8 @@ The values it can contain are:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8C84C8C2042BA648E040007F010137E1" trl="N">
-    <value column="Name" isTrl="N" original="Proxy User">Пользователь прокси</value>
-    <value column="PrintName" isTrl="N" original="Proxy User">Пользователь прокси</value>
+    <value column="Name" isTrl="Y" original="Proxy User">Пользователь прокси</value>
+    <value column="PrintName" isTrl="Y" original="Proxy User">Пользователь прокси</value>
     <value column="Description" isTrl="N" original="User for the authenticated proxy">User for the authenticated proxy</value>
     <value column="Help" isTrl="N" original="User for the authenticated proxy">User for the authenticated proxy</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19939,8 +19943,8 @@ The values it can contain are:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8C84C8C2042DA648E040007F010137E1" trl="N">
-    <value column="Name" isTrl="N" original="Proxy Password">Пароль прокси</value>
-    <value column="PrintName" isTrl="N" original="Proxy Password">Пароль прокси</value>
+    <value column="Name" isTrl="Y" original="Proxy Password">Пароль прокси</value>
+    <value column="PrintName" isTrl="Y" original="Proxy Password">Пароль прокси</value>
     <value column="Description" isTrl="N" original="Password for the authenticated proxy">Password for the authenticated proxy</value>
     <value column="Help" isTrl="N" original="Password for the authenticated proxy">Password for the authenticated proxy</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19969,8 +19973,8 @@ The values it can contain are:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8D0DCEDAF062D81EE040007F010126E3" trl="N">
-    <value column="Name" isTrl="N" original="Enabled">Доступен</value>
-    <value column="PrintName" isTrl="N" original="Enabled">Доступен</value>
+    <value column="Name" isTrl="Y" original="Enabled">Доступен</value>
+    <value column="PrintName" isTrl="Y" original="Enabled">Доступен</value>
     <value column="Description" isTrl="N" original="Is the module enabled">Is the module enabled</value>
     <value column="Help" isTrl="N" original="When a module is not enabled, their artifacts (windows, tabs, forms, reports and processes) will not be accessible.">When a module is not enabled, their artifacts (windows, tabs, forms, reports and processes) will not be accessible.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19979,8 +19983,8 @@ The values it can contain are:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8DDFD4A4FC364A109F63347131249176" trl="N">
-    <value column="Name" isTrl="N" original="Show in Header">Отображать в заголовке</value>
-    <value column="PrintName" isTrl="N" original="Show in Header">Отображать в заголовке</value>
+    <value column="Name" isTrl="Y" original="Show in Header">Отображать в заголовке</value>
+    <value column="PrintName" isTrl="Y" original="Show in Header">Отображать в заголовке</value>
     <value column="Description" isTrl="N" original="This flag indicates whether the accounting dimension is displayed on document header tab.">This flag indicates whether the accounting dimension is displayed on document header tab.</value>
     <value column="Help" isTrl="N" original="This flag indicates whether the accounting dimension is displayed on document header tab.">This flag indicates whether the accounting dimension is displayed on document header tab.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19989,8 +19993,8 @@ The values it can contain are:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8E7CC7A39184B541E040007F01004601" trl="N">
-    <value column="Name" isTrl="N" original="Generated Credit">Выдано кредита</value>
-    <value column="PrintName" isTrl="N" original="Generated Credit">Выдано кредита</value>
+    <value column="Name" isTrl="Y" original="Generated Credit">Выдано кредита</value>
+    <value column="PrintName" isTrl="Y" original="Generated Credit">Выдано кредита</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Amount left as credit on the payment.">Amount left as credit on the payment.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19999,8 +20003,8 @@ The values it can contain are:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8E7CC7A39186B541E040007F01004601" trl="N">
-    <value column="Name" isTrl="N" original="Used Credit">Использовано кредита</value>
-    <value column="PrintName" isTrl="N" original="Used Credit">Использовано кредита</value>
+    <value column="Name" isTrl="Y" original="Used Credit">Использовано кредита</value>
+    <value column="PrintName" isTrl="Y" original="Used Credit">Использовано кредита</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="If the payment has some generated credit is the amount already used on other payments.&#10;If the payment does not have a generated credit amount is the amount of credit used on the payment.">If the payment has some generated credit is the amount already used on other payments.
 If the payment does not have a generated credit amount is the amount of credit used on the payment.</value>
@@ -20010,18 +20014,18 @@ If the payment does not have a generated credit amount is the amount of credit u
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8EFF165C3DF64FBCBE8D7A30069FA976" trl="N">
-    <value column="Name" isTrl="N" original="Primary User Dimension 2">Первоначальное пользовательское субконто 2</value>
-    <value column="PrintName" isTrl="N" original="Primary User Dimension 2">Первоначальное пользовательское субконто 2</value>
-    <value column="Description" isTrl="N" original="Primary User Dimension 2">Первоначальное пользовательское субконто 2</value>
-    <value column="Help" isTrl="N" original="Primary User Dimension 2">Первоначальное пользовательское субконто 2</value>
+    <value column="Name" isTrl="Y" original="Primary User Dimension 2">Первоначальное пользовательское субконто 2</value>
+    <value column="PrintName" isTrl="Y" original="Primary User Dimension 2">Первоначальное пользовательское субконто 2</value>
+    <value column="Description" isTrl="Y" original="Primary User Dimension 2">Первоначальное пользовательское субконто 2</value>
+    <value column="Help" isTrl="Y" original="Primary User Dimension 2">Первоначальное пользовательское субконто 2</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8F16AEFC996311DD812A001D09C4A2FE" trl="N">
-    <value column="Name" isTrl="N" original="Data Package">Пакет данных</value>
-    <value column="PrintName" isTrl="N" original="Data Package">Пакет данных</value>
+    <value column="Name" isTrl="Y" original="Data Package">Пакет данных</value>
+    <value column="PrintName" isTrl="Y" original="Data Package">Пакет данных</value>
     <value column="Description" isTrl="N" original="Links a table to a package">Links a table to a package</value>
     <value column="Help" isTrl="N" original="An AD_Table record has a mandatory relation to a package (the AD_Package). Choose a sensible package fitting to the functional area to which the table applies (so not the Core package). If no such package exist then create a new one. The relation to the module is maintained through the AD_Package, so an AD_Table has an AD_Package which belongs to a module. When developing for a module then first a package needs to be defined in AD_Package, linked to the module. Then the records in AD_Table (for that module) can be linked to that package.">An AD_Table record has a mandatory relation to a package (the AD_Package). Choose a sensible package fitting to the functional area to which the table applies (so not the Core package). If no such package exist then create a new one. The relation to the module is maintained through the AD_Package, so an AD_Table has an AD_Package which belongs to a module. When developing for a module then first a package needs to be defined in AD_Package, linked to the module. Then the records in AD_Table (for that module) can be linked to that package.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20030,8 +20034,8 @@ If the payment does not have a generated credit amount is the amount of credit u
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8FD38EAC282A66A9E040007F01014837" trl="N">
-    <value column="Name" isTrl="N" original="Database Identifier">Индентификатор СУБД</value>
-    <value column="PrintName" isTrl="N" original="Database Identifier">Индентификатор СУБД</value>
+    <value column="Name" isTrl="Y" original="Database Identifier">Индентификатор СУБД</value>
+    <value column="PrintName" isTrl="Y" original="Database Identifier">Индентификатор СУБД</value>
     <value column="Description" isTrl="N" original="Unique Identifier of the instance's database">Unique Identifier of the instance's database</value>
     <value column="Help" isTrl="N" original="Unique Identifier of the instance's database, calculated based on the identifier provided by the database itself.">Unique Identifier of the instance's database, calculated based on the identifier provided by the database itself.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20050,8 +20054,8 @@ If the payment does not have a generated credit amount is the amount of credit u
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8FD498995F25B6CBE040007F01014FBE" trl="N">
-    <value column="Name" isTrl="N" original="Installed Modules">Установлено модулей</value>
-    <value column="PrintName" isTrl="N" original="Installed Modules">Установлено модулей</value>
+    <value column="Name" isTrl="Y" original="Installed Modules">Установлено модулей</value>
+    <value column="PrintName" isTrl="Y" original="Installed Modules">Установлено модулей</value>
     <value column="Description" isTrl="N" original="List of the modules installed in the instance">List of the modules installed in the instance</value>
     <value column="Help" isTrl="N" original="List of the modules installed in the instance">List of the modules installed in the instance</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20846,7 +20850,9 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="Name" isTrl="N" original="Apply Configuration Script">Apply Configuration Script</value>
     <value column="PrintName" isTrl="N" original="Apply Configuration Script">Apply Configuration Script</value>
     <value column="Description" isTrl="N" original="Apply the configuration script when building the application">Apply the configuration script when building the application</value>
-    <value column="Help" isTrl="N" original="This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. &#10;&#10;Note that this information is kept only in the instance but not it is not exported to the module.">This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. &#10;&#10;Note that this information is kept only in the instance but not it is not exported to the module.</value>
+    <value column="Help" isTrl="N" original="This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built. &#10;&#10;Note that this information is kept only in the instance but not it is not exported to the module.">This check affects to Template modules. When it is active, the template they contain is applied to the instance when the application is built.
+
+Note that this information is kept only in the instance but not it is not exported to the module.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -21145,8 +21151,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="A93D6B07CA89486F9518DD4FBA889EF7" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Status">Статус выписки</value>
-    <value column="PrintName" isTrl="N" original="Invoice Status">Статус выписки</value>
+    <value column="Name" isTrl="Y" original="Invoice Status">Статус выписки</value>
+    <value column="PrintName" isTrl="Y" original="Invoice Status">Статус выписки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21755,8 +21761,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BA715724081A431E845716EF4B8D6D6B" trl="N">
-    <value column="Name" isTrl="N" original="Payment Out">Выплата</value>
-    <value column="PrintName" isTrl="N" original="Payment Out">Выплата</value>
+    <value column="Name" isTrl="Y" original="Payment Out">Выплата</value>
+    <value column="PrintName" isTrl="Y" original="Payment Out">Выплата</value>
     <value column="Description" isTrl="N" original="This flag allows to block payment out  in vendor.">This flag allows to block payment out  in vendor.</value>
     <value column="Help" isTrl="N" original="This flag allows to block payment out  in vendor.">This flag allows to block payment out  in vendor.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21765,8 +21771,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BA725D05F5324979BBA1BC454781FF58" trl="N">
-    <value column="Name" isTrl="N" original="Goods Receipt">Накладная получения</value>
-    <value column="PrintName" isTrl="N" original="Goods Receipt">Накладная получения</value>
+    <value column="Name" isTrl="Y" original="Goods Receipt">Накладная получения</value>
+    <value column="PrintName" isTrl="Y" original="Goods Receipt">Накладная получения</value>
     <value column="Description" isTrl="N" original="This flag allows to block goods receipt in vendor.">This flag allows to block goods receipt in vendor.</value>
     <value column="Help" isTrl="N" original="This flag allows to block goods receipt in vendor.">This flag allows to block goods receipt in vendor.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22699,7 +22705,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="Name" isTrl="N" original="Basis Amount">Basis Amount</value>
     <value column="PrintName" isTrl="N" original="Basis Amount">Basis Amount</value>
     <value column="Description" isTrl="N" original="The amount  that will take into account to calculate the commission: net amount or margin.   If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin.   If margin is selected, only the invoices that have shipments will take into account.</value>
-    <value column="Help" isTrl="Y" original="The amount  that will take into account to calculate the commission: net amount or margin. &#10; If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin. &#10; If margin is selected, only the invoices that have shipments will take into account.</value>
+    <value column="Help" isTrl="N" original="The amount  that will take into account to calculate the commission: net amount or margin. &#10; If margin is selected, only the invoices that have shipments will take into account.">The amount  that will take into account to calculate the commission: net amount or margin.
+ If margin is selected, only the invoices that have shipments will take into account.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -22727,7 +22734,7 @@ The main purpose of this whereclause is to select which of the records in a part
   </row>
   <row id="DBADCCC197DA42558F8CD6CE68530A20" trl="Y">
     <value column="Name" isTrl="Y" original="Incoterms ( SO )">Инкотермс (Ордера клиента)</value>
-    <value column="PrintName" isTrl="Y" original="Incoterms ( SO )">Инкотермс ((Ордера кл.)</value>
+    <value column="PrintName" isTrl="Y" original="Incoterms ( SO )">Инкотермс (Ордера кл.)</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MESSAGE" version="0.3">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MESSAGE" version="">
   <row id="000000002F5DEF28012F5DFDF05A000A" trl="N">
     <value column="MsgText" isTrl="N" original="The following columns are not audited: @excludeauditcolumns@">The following columns are not audited: @excludeauditcolumns@</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -286,7 +286,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300003" trl="N">
-    <value column="MsgText" isTrl="N" original="This task cannot be executed while background process is active">Это задание не может быть выполнено из-за активной фоной обработки</value>
+    <value column="MsgText" isTrl="Y" original="This task cannot be executed while background process is active">Это задание не может быть выполнено из-за активной фоной обработки</value>
     <value column="MsgTip" isTrl="N" original="Message used to translate the error message for, periodic background process">Message used to translate the error message for, periodic background process</value>
   </row>
   <row id="1000300004" trl="N">
@@ -298,7 +298,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300006" trl="N">
-    <value column="MsgText" isTrl="N" original="Loading Organization and User failed">Загрузка организации и пользователя прервана</value>
+    <value column="MsgText" isTrl="Y" original="Loading Organization and User failed">Загрузка организации и пользователя прервана</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000300007" trl="N">
@@ -374,11 +374,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500000" trl="N">
-    <value column="MsgText" isTrl="N" original="Wrong account schema parent">Неверный родительский план счетов</value>
+    <value column="MsgText" isTrl="Y" original="Wrong account schema parent">Неверный родительский план счетов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500001" trl="N">
-    <value column="MsgText" isTrl="N" original="Cost not available for the inserted date">Себестоимость на заданную дату недоступна</value>
+    <value column="MsgText" isTrl="Y" original="Cost not available for the inserted date">Себестоимость на заданную дату недоступна</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500002" trl="N">
@@ -390,7 +390,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500004" trl="N">
-    <value column="MsgText" isTrl="N" original="Cannot create report. Unknown document type: ">Нельзя создать отчёт. Неизвестный тип документа: </value>
+    <value column="MsgText" isTrl="Y" original="Cannot create report. Unknown document type: ">Нельзя создать отчёт. Неизвестный тип документа: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500005" trl="N">
@@ -398,7 +398,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500006" trl="N">
-    <value column="MsgText" isTrl="N" original="Attachment is already created.">Вложение уже было создано.</value>
+    <value column="MsgText" isTrl="Y" original="Attachment is already created.">Вложение уже было создано.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000500007" trl="N">
@@ -596,7 +596,14 @@ Control Digit must be length 1.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400015" trl="N">
-    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.</value>
+    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines. 
+An order line is created for each requisition line.
+The process closes the requisition when it finishes successfully. 
+The Order Date is the date of the Purchase Orders. 
+The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.
+The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.
+The Organization is the organization used by the Purchase Orders.
+The Warehouse is the warehouse used by the Purchase Orders.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400016" trl="N">
@@ -2838,7 +2845,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="361" trl="N">
-    <value column="MsgText" isTrl="N" original="Insufficient stock:">Недостаточно на складе:</value>
+    <value column="MsgText" isTrl="Y" original="Insufficient stock:">Недостаточно на складе:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="361FEAEE66A145B09F5D95FC47F218FF" trl="N">
@@ -3225,7 +3232,8 @@ Be aware that if the daily limit is exceeded @extraDays@ more times in the @numb
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="417C01FAE8E447F7985AA6C04074924C" trl="N">
-    <value column="MsgText" isTrl="N" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table. &#10;This column is already checked as key: </value>
+    <value column="MsgText" isTrl="N" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table. 
+This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="418" trl="N">
@@ -5079,15 +5087,15 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800020" trl="N">
-    <value column="MsgText" isTrl="N" original="Number of records copied:">Количество скопированных записей:</value>
+    <value column="MsgText" isTrl="Y" original="Number of records copied:">Количество скопированных записей:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800021" trl="N">
-    <value column="MsgText" isTrl="N" original="There are no clients associated to this user">Ни одно подключение не связано с этим пользователем</value>
+    <value column="MsgText" isTrl="Y" original="There are no clients associated to this user">Ни одно подключение не связано с этим пользователем</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800022" trl="N">
-    <value column="MsgText" isTrl="N" original="There is no organization associated to this user">Ни одна организация не связана с этим пользователем</value>
+    <value column="MsgText" isTrl="Y" original="There is no organization associated to this user">Ни одна организация не связана с этим пользователем</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800023" trl="N">
@@ -5095,11 +5103,11 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800024" trl="N">
-    <value column="MsgText" isTrl="N" original="Tax identification number needed">Необходимо для налога идентификационное число</value>
+    <value column="MsgText" isTrl="Y" original="Tax identification number needed">Необходимо для налога идентификационное число</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800025" trl="N">
-    <value column="MsgText" isTrl="N" original="Bank code needed">Необходим банковский код</value>
+    <value column="MsgText" isTrl="Y" original="Bank code needed">Необходим банковский код</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800026" trl="N">
@@ -5119,19 +5127,19 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800030" trl="N">
-    <value column="MsgText" isTrl="N" original="Tax identification number needed for business partner:">Необходимо идентификационное число налога для контрагента:</value>
+    <value column="MsgText" isTrl="Y" original="Tax identification number needed for business partner:">Необходимо идентификационное число налога для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800031" trl="N">
-    <value column="MsgText" isTrl="N" original="Bank code needed for business partner:">Необходим банковкий код для контрагента:</value>
+    <value column="MsgText" isTrl="Y" original="Bank code needed for business partner:">Необходим банковкий код для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800032" trl="N">
-    <value column="MsgText" isTrl="N" original="Planned date needed. Business partner:">Необходима планируемая дата. Контрагент:</value>
+    <value column="MsgText" isTrl="Y" original="Planned date needed. Business partner:">Необходима планируемая дата. Контрагент:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800033" trl="N">
-    <value column="MsgText" isTrl="N" original="Address needed for business partner:">Необходим адрес для контрагента:</value>
+    <value column="MsgText" isTrl="Y" original="Address needed for business partner:">Необходим адрес для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800034" trl="N">
@@ -5139,15 +5147,15 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800035" trl="N">
-    <value column="MsgText" isTrl="N" original="Postcode needed for business partner:">Необходим почтовый индекс для контрагента:</value>
+    <value column="MsgText" isTrl="Y" original="Postcode needed for business partner:">Необходим почтовый индекс для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800036" trl="N">
-    <value column="MsgText" isTrl="N" original="Town needed for business partner:">Необходим город для контрагента:</value>
+    <value column="MsgText" isTrl="Y" original="Town needed for business partner:">Необходим город для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800037" trl="N">
-    <value column="MsgText" isTrl="N" original="Invoice date needed for business partner:">Необходима дата счёт-фактуры для контрагента:</value>
+    <value column="MsgText" isTrl="Y" original="Invoice date needed for business partner:">Необходима дата счёт-фактуры для контрагента:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800038" trl="N">

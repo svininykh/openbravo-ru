@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MENU" version="0.3">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MENU" version="">
   <row id="04B49FB13913462C8ACE2E3906440E3F" trl="N">
     <value column="Name" isTrl="Y" original="Module">Модули</value>
     <value column="Description" isTrl="Y" original="Module management">Управление модулями</value>
@@ -605,11 +605,11 @@
     <value column="Description" isTrl="N" original="Open a folder where you can create and edit the value and accounting of items and property.">Open a folder where you can create and edit the value and accounting of items and property.</value>
   </row>
   <row id="346" trl="N">
-    <value column="Name" isTrl="N" original="Create Shipments from Orders">Создать накладные по ордерам</value>
+    <value column="Name" isTrl="Y" original="Create Shipments from Orders">Создать накладные по ордерам</value>
     <value column="Description" isTrl="N" original="Create shipments for all processed sales orders that fit the criteria and the parameters specified.">Create shipments for all processed sales orders that fit the criteria and the parameters specified.</value>
   </row>
   <row id="347" trl="N">
-    <value column="Name" isTrl="N" original="Print Invoices">Печать счет-фактур</value>
+    <value column="Name" isTrl="Y" original="Print Invoices">Печать счет-фактур</value>
     <value column="Description" isTrl="N" original="Print Invoices to paper or send PDF">Print Invoices to paper or send PDF</value>
   </row>
   <row id="349" trl="N">
@@ -957,7 +957,7 @@
     <value column="Description" isTrl="N" original="Make transfers between cash and bank">Make transfers between cash and bank</value>
   </row>
   <row id="800095" trl="N">
-    <value column="Name" isTrl="N" original="Generate Average Costs">Генерация себестоимости</value>
+    <value column="Name" isTrl="Y" original="Generate Average Costs">Генерация себестоимости</value>
     <value column="Description" isTrl="N" original="Generates raw materials average costs.">Generates raw materials average costs.</value>
   </row>
   <row id="800096" trl="N">
@@ -1457,7 +1457,7 @@
     <value column="Description" isTrl="Y" original="Return to vendor shipment">Возврат поставщику по накладной</value>
   </row>
   <row id="AA912A0ED1EB4967B6A220291C7C118A" trl="N">
-    <value column="Name" isTrl="N" original="Instance Activation">Активация приложения</value>
+    <value column="Name" isTrl="Y" original="Instance Activation">Активация приложения</value>
     <value column="Description" isTrl="N" original="Manage current instance">Manage current instance</value>
   </row>
   <row id="B73A1BE38C6F4F4BB17A3B6FA8C3293E" trl="N">
