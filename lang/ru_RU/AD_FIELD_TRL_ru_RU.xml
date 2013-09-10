@@ -116,8 +116,8 @@
     <value column="Help" isTrl="N" original="The name of an entity (record) is used as an default search option in addition to the search key. The name is up to 60 characters in length.">The name of an entity (record) is used as an default search option in addition to the search key. The name is up to 60 characters in length.</value>
   </row>
   <row id="12C428AA32294335A97B3AAFCF00A7AD" trl="N">
-    <value column="Name" isTrl="Y" original="Total Outstanding">Итого не оплачено</value>
-    <value column="Description" isTrl="Y" original="Outstanding Amount">Итого не оплаченная сумма</value>
+    <value column="Name" isTrl="Y" original="Total Outstanding">Итого неоплачено</value>
+    <value column="Description" isTrl="Y" original="Outstanding Amount">Итого неоплаченная сумма</value>
     <value column="Help" isTrl="N" original="Total Outstanding Amount. Amount pending to be paid">Total Outstanding Amount. Amount pending to be paid</value>
   </row>
   <row id="133B82E6E63D42A8BF22920E72A3A5EA" trl="N">
@@ -171,12 +171,12 @@
     <value column="Help" isTrl="N" original="The Discount indicates the discount applied as a percentage of the List Price.">The Discount indicates the discount applied as a percentage of the List Price.</value>
   </row>
   <row id="3219" trl="N">
-    <value column="Name" isTrl="N" original="Direct print">Direct print</value>
-    <value column="Description" isTrl="N" original="Print without dialog">Print without dialog</value>
+    <value column="Name" isTrl="N" original="Direct print">Печать без диалога</value>
+    <value column="Description" isTrl="N" original="Print without dialog">Печать без диалога</value>
     <value column="Help" isTrl="N" original="The Direct Print checkbox indicates that the report will print without displaying the print dialog box.">The Direct Print checkbox indicates that the report will print without displaying the print dialog box.</value>
   </row>
   <row id="3305" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Shipment/Receipt Line">Строка расходной/приходной накладной</value>
+    <value column="Name" isTrl="Y" original="Goods Shipment/Receipt Line">Строка накладной отгрузки/получения</value>
     <value column="Description" isTrl="N" original="A statement displaying one item, charge, or movement in a shipment or receipt">A statement displaying one item, charge, or movement in a shipment or receipt</value>
     <value column="Help" isTrl="N" original="The Shipment/Receipt indicates a unique line in a Shipment/Receipt document">The Shipment/Receipt indicates a unique line in a Shipment/Receipt document</value>
   </row>
@@ -381,7 +381,7 @@
     <value column="Help" isTrl="N" original="The name of the object that does not follow the naming rules.">The name of the object that does not follow the naming rules.</value>
   </row>
   <row id="63981B875CAC7A68E040007F01006697" trl="N">
-    <value column="Name" isTrl="N" original="Table Name">Table Name</value>
+    <value column="Name" isTrl="Y" original="Table Name">Название таблицы</value>
     <value column="Description" isTrl="N" original="Table Name">Table Name</value>
     <value column="Help" isTrl="N" original="It is the name of the table that holds the object.">It is the name of the table that holds the object.</value>
   </row>
@@ -391,22 +391,22 @@
     <value column="Help" isTrl="N" original="Defines which kind of object it is.">Defines which kind of object it is.</value>
   </row>
   <row id="6544" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Amount">Invoice Amount</value>
+    <value column="Name" isTrl="Y" original="Invoice Amount">Выставленная сумма</value>
     <value column="Description" isTrl="N" original="The monetary sum that is invoiced for a specified item or service.">The monetary sum that is invoiced for a specified item or service.</value>
     <value column="Help" isTrl="N" original="The amount invoiced">The amount invoiced</value>
   </row>
   <row id="6546" trl="N">
-    <value column="Name" isTrl="N" original="Current Phase">Current Phase</value>
+    <value column="Name" isTrl="N" original="Current Phase">Текущая фаза</value>
     <value column="Description" isTrl="N" original="One section or part of a project which is potentially made up of one or many tasks.">One section or part of a project which is potentially made up of one or many tasks.</value>
     <value column="Help" isTrl="N" original="Phase of the project with standard performance information with standard work">Phase of the project with standard performance information with standard work</value>
   </row>
   <row id="6547" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Quantity">Invoice Quantity</value>
+    <value column="Name" isTrl="N" original="Invoice Quantity">Выписанное кол-во</value>
     <value column="Description" isTrl="N" original="The total number of a product included in an invoice to a business partner.">The total number of a product included in an invoice to a business partner.</value>
     <value column="Help" isTrl="N" original="The Quantity Invoiced">The Quantity Invoiced</value>
   </row>
   <row id="6550" trl="N">
-    <value column="Name" isTrl="N" original="Contract Quantity">Contract Quantity</value>
+    <value column="Name" isTrl="N" original="Contract Quantity">Кол-во по договору</value>
     <value column="Description" isTrl="N" original="The maximum legal quantity for a project.">The maximum legal quantity for a project.</value>
     <value column="Help" isTrl="N" original="The commitment amount is independent from the planned amount. You would use the planned amount for your realistic estimation, which might be higher or lower than the commitment amount.">The commitment amount is independent from the planned amount. You would use the planned amount for your realistic estimation, which might be higher or lower than the commitment amount.</value>
   </row>
@@ -521,12 +521,12 @@
     <value column="Help" isTrl="N" original="The Planned Quantity indicates the anticipated quantity for this project or project line">The Planned Quantity indicates the anticipated quantity for this project or project line</value>
   </row>
   <row id="800067" trl="N">
-    <value column="Name" isTrl="Y" original="Contract Quantity">Оговоренное количество</value>
+    <value column="Name" isTrl="Y" original="Contract Quantity">Кол-во по договору</value>
     <value column="Description" isTrl="N" original="The maximum legal quantity for a project.">The maximum legal quantity for a project.</value>
     <value column="Help" isTrl="N" original="The commitment amount is independent from the planned amount. You would use the planned amount for your realistic estimation, which might be higher or lower than the commitment amount.">The commitment amount is independent from the planned amount. You would use the planned amount for your realistic estimation, which might be higher or lower than the commitment amount.</value>
   </row>
   <row id="800068" trl="N">
-    <value column="Name" isTrl="Y" original="Invoice Quantity">Выставленное количество</value>
+    <value column="Name" isTrl="Y" original="Invoice Quantity">Выписанное кол-во</value>
     <value column="Description" isTrl="N" original="The total number of a product included in an invoice to a business partner.">The total number of a product included in an invoice to a business partner.</value>
     <value column="Help" isTrl="N" original="The Quantity Invoiced">The Quantity Invoiced</value>
   </row>
@@ -874,7 +874,7 @@
   </row>
   <row id="ABA8AFDB0CDD49B9B20A24D2D8127B38" trl="N">
     <value column="Name" isTrl="Y" original="Total Outstanding">Общая сумма задолженности</value>
-    <value column="Description" isTrl="N" original="Outstanding Amount">Outstanding Amount</value>
+    <value column="Description" isTrl="Y" original="Outstanding Amount">Неоплаченная сумма</value>
     <value column="Help" isTrl="N" original="Outstanding Amount. Amount pending to be paid">Outstanding Amount. Amount pending to be paid</value>
   </row>
   <row id="AF4090093D431431E040007F010048A5" trl="N">
@@ -918,7 +918,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B04C07EBF2C600E2E040007F01003385" trl="N">
-    <value column="Name" isTrl="N" original="Shipment/Receipt Line">Shipment/Receipt Line</value>
+    <value column="Name" isTrl="N" original="Shipment/Receipt Line">Стр. накладной отгрузки/получения</value>
     <value column="Description" isTrl="N" original="A statement displaying one item, charge, or movement in a shipment or receipt.">A statement displaying one item, charge, or movement in a shipment or receipt.</value>
     <value column="Help" isTrl="N" original="The Shipment/Receipt Line indicates a unique line in a Shipment or Receipt document">The Shipment/Receipt Line indicates a unique line in a Shipment or Receipt document</value>
   </row>
@@ -993,7 +993,7 @@
     <value column="Help" isTrl="N" original="The Base Currency is taken as the currency for the amounts that do not have an explicit currency, for instance, costs.">The Base Currency is taken as the currency for the amounts that do not have an explicit currency, for instance, costs.</value>
   </row>
   <row id="B6BB67AE51F61BEBE040A8C091666000" trl="N">
-    <value column="Name" isTrl="N" original="Paid">Paid</value>
+    <value column="Name" isTrl="N" original="Paid">Выплачено</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

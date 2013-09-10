@@ -481,10 +481,10 @@ Define application initiated information and error messages.
     <value column="Help" isTrl="N" original="The lines tab allows to enter the journal entries of a G/L journal as well as G/L item payment related information.">The lines tab allows to enter the journal entries of a G/L journal as well as G/L item payment related information.</value>
   </row>
   <row id="167" trl="N">
-    <value column="Name" isTrl="N" original="Document Definition">Document Definition</value>
+    <value column="Name" isTrl="Y" original="Document Definition">Тип документа</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit document types that can be created by the application.">Create and edit document types that can be created by the application.</value>
-    <value column="Filtername" isTrl="N" original="Active documents">Active documents</value>
+    <value column="Filtername" isTrl="Y" original="Active documents">Активные документы</value>
     <value column="Help" isTrl="N" original="Document type window allows to configure how each document type is going to behave in terms of accounting and sequencing among others.">Document type window allows to configure how each document type is going to behave in terms of accounting and sequencing among others.</value>
   </row>
   <row id="169" trl="N">
@@ -565,7 +565,7 @@ Define application initiated information and error messages.
     <value column="Help" isTrl="N" original="View the stored products of a selected storage bin.">View the stored products of a selected storage bin.</value>
   </row>
   <row id="17FC33D4711A4DD492A14A5D7626D5F7" trl="N">
-    <value column="Name" isTrl="N" original="Accounting dimension">Accounting dimension</value>
+    <value column="Name" isTrl="Y" original="Accounting dimension">Аналитический счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -867,11 +867,11 @@ For changes to become effective, you must re-login and re-start the Application 
     <value column="Help" isTrl="N" original="The Withholding Tab defines any withholding information for this business partner.">The Withholding Tab defines any withholding information for this business partner.</value>
   </row>
   <row id="22B201B931E540EDA0B6630B50E3B8D3" trl="N">
-    <value column="Name" isTrl="N" original="Accounting dimension">Accounting dimension</value>
+    <value column="Name" isTrl="Y" original="Accounting dimension">Аналитический счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Description" isTrl="Y" original="Accounting Dimension">Аналитический счёт</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Help" isTrl="Y" original="Accounting Dimension">Аналитический счёт</value>
   </row>
   <row id="230" trl="N">
     <value column="Name" isTrl="Y" original="Translation">Перевод</value>
@@ -1869,11 +1869,11 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="4CA5324BD037430B8E682B41C1DAA8CC" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting dimension">Учёт по субконто</value>
+    <value column="Name" isTrl="Y" original="Accounting dimension">Аналитический счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="Y" original="Accounting Dimension">Учёт по субконто</value>
+    <value column="Description" isTrl="Y" original="Accounting Dimension">Аналитический счёт</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="Y" original="Accounting Dimension">Учёт по субконто</value>
+    <value column="Help" isTrl="Y" original="Accounting Dimension">Аналитический счёт</value>
   </row>
   <row id="4DE17FC05C3843C4959166BB67967486" trl="N">
     <value column="Name" isTrl="Y" original="Period Control Log">Контроль открытия/закрытия периода</value>
@@ -2192,11 +2192,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Types define how Discounts and Promotions  behave. Modules can add new types by providing implementation for them.">Types define how Discounts and Promotions  behave. Modules can add new types by providing implementation for them.</value>
   </row>
   <row id="7ADAB637F5CA4D1E9D24CF67843EF882" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting dimension">Субконто плана счетов</value>
+    <value column="Name" isTrl="Y" original="Accounting dimension">Аналитический счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Description" isTrl="Y" original="Accounting Dimension">Аналитический счёт</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Help" isTrl="Y" original="Accounting Dimension">Аналитический счёт</value>
   </row>
   <row id="7F5E8E4C55914138A358F5087B532B59" trl="N">
     <value column="Name" isTrl="N" original="Bank Statement Lines">Bank Statement Lines</value>
@@ -2535,11 +2535,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="It is possible to split payments terms into more than just one payment term line.">It is possible to split payments terms into more than just one payment term line.</value>
   </row>
   <row id="800075" trl="Y">
-    <value column="Name" isTrl="Y" original="Accounting dimension">Субконто плана счетов</value>
+    <value column="Name" isTrl="Y" original="Accounting dimension">Аналитический счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="Y" original="Accounting dimension">Субконто плана счетов</value>
+    <value column="Description" isTrl="Y" original="Accounting dimension">Аналитический счёт</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="Y" original="Accounting dimension">Субконто плана счетов</value>
+    <value column="Help" isTrl="Y" original="Accounting dimension">Аналитический счёт</value>
   </row>
   <row id="800076" trl="N">
     <value column="Name" isTrl="Y" original="Header">Заглавие</value>
@@ -3494,18 +3494,18 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="8391062D5C6A47EA94A83A304AD720BE" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting Configuration">Бухгалтерские счета</value>
+    <value column="Name" isTrl="Y" original="Accounting Configuration">Синтетический счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Relation of accounts used for the given financial account">Relation of accounts used for the given financial account</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The accounting configuration tab is used to define the accounts of a General Ledger to use while posting transactions such as a bank fee or a deposit.">The accounting configuration tab is used to define the accounts of a General Ledger to use while posting transactions such as a bank fee or a deposit.</value>
   </row>
   <row id="83F933AC3F5B427F9A04C9DB0257F26E" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting dimension">Бухгалтерские субконто</value>
+    <value column="Name" isTrl="Y" original="Accounting dimension">Аналитический счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Description" isTrl="Y" original="Accounting Dimension">Аналитический счёт</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Help" isTrl="Y" original="Accounting Dimension">Аналитический счёт</value>
   </row>
   <row id="840A4F0860034F9F984F3FF363506D65" trl="N">
     <value column="Name" isTrl="N" original="Condition of the goods">Condition of the goods</value>
@@ -3817,11 +3817,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add products which are included in your goods receipt.  Each product is shown on its own line.">Add products which are included in your goods receipt.  Each product is shown on its own line.</value>
   </row>
   <row id="CBC8BFA997564DBFB9567755EE83C4A9" trl="N">
-    <value column="Name" isTrl="N" original="Accounting dimension">Accounting dimension</value>
+    <value column="Name" isTrl="Y" original="Accounting dimension">Аналитический счёт</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Description" isTrl="Y" original="Accounting Dimension">Аналитический счёт</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Accounting Dimension">Accounting Dimension</value>
+    <value column="Help" isTrl="Y" original="Accounting Dimension">Аналитический счёт</value>
   </row>
   <row id="CC35784EF36B4732B40167CD5D2449F0" trl="N">
     <value column="Name" isTrl="N" original="Pick / Edit Lines">Pick / Edit Lines</value>

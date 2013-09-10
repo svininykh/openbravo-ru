@@ -313,7 +313,7 @@
     <value column="Description" isTrl="N" original="Create and edit inventory counts and update your stock quantities.">Create and edit inventory counts and update your stock quantities.</value>
   </row>
   <row id="180" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Shipment">Расходная накладная</value>
+    <value column="Name" isTrl="Y" original="Goods Shipment">Накладная отгрузки</value>
     <value column="Description" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
   </row>
   <row id="181" trl="N">
@@ -365,7 +365,7 @@
     <value column="Description" isTrl="N" original="Procurement Management supports the management of the orders, goods receipts and purchase invoices as well as the analysis of purchase related data.">Procurement Management supports the management of the orders, goods receipts and purchase invoices as well as the analysis of purchase related data.</value>
   </row>
   <row id="204" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Receipt">Приходная накладная</value>
+    <value column="Name" isTrl="Y" original="Goods Receipt">Накладная получения</value>
     <value column="Description" isTrl="N" original="Create and edit goods receipts from your vendors and create invoices from these receipts.">Create and edit goods receipts from your vendors and create invoices from these receipts.</value>
   </row>
   <row id="205" trl="N">
@@ -605,11 +605,11 @@
     <value column="Description" isTrl="N" original="Open a folder where you can create and edit the value and accounting of items and property.">Open a folder where you can create and edit the value and accounting of items and property.</value>
   </row>
   <row id="346" trl="N">
-    <value column="Name" isTrl="N" original="Create Shipments from Orders">Create Shipments from Orders</value>
+    <value column="Name" isTrl="N" original="Create Shipments from Orders">Создать накладные по ордерам</value>
     <value column="Description" isTrl="N" original="Create shipments for all processed sales orders that fit the criteria and the parameters specified.">Create shipments for all processed sales orders that fit the criteria and the parameters specified.</value>
   </row>
   <row id="347" trl="N">
-    <value column="Name" isTrl="N" original="Print Invoices">Print Invoices</value>
+    <value column="Name" isTrl="N" original="Print Invoices">Печать счет-фактур</value>
     <value column="Description" isTrl="N" original="Print Invoices to paper or send PDF">Print Invoices to paper or send PDF</value>
   </row>
   <row id="349" trl="N">
@@ -677,7 +677,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="384" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting Dimension">План счетов по субконто</value>
+    <value column="Name" isTrl="Y" original="Accounting Dimension">Аналитические счета</value>
     <value column="Description" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
   </row>
   <row id="392" trl="N">
@@ -1481,7 +1481,7 @@
     <value column="Description" isTrl="N" original="Request processes and reports to be scheduled and executed in the background.">Request processes and reports to be scheduled and executed in the background.</value>
   </row>
   <row id="C073633F0AFF4A93B17C13F239DE9613" trl="N">
-    <value column="Name" isTrl="N" original="Customer Statement">Customer Statement</value>
+    <value column="Name" isTrl="Y" original="Customer Statement">Акт сверки</value>
     <value column="Description" isTrl="N" original="Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period">Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period</value>
   </row>
   <row id="C14426B2503546788BE2BAEBA2BE81DC" trl="N">

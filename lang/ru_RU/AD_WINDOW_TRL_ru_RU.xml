@@ -315,7 +315,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Physical Inventory window allows to execute goods count process in Openbravo.">Physical Inventory window allows to execute goods count process in Openbravo.</value>
   </row>
   <row id="169" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Shipment">Расходная накладная</value>
+    <value column="Name" isTrl="Y" original="Goods Shipment">Накладная отгрузки</value>
     <value column="Description" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
     <value column="Help" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
   </row>
@@ -340,7 +340,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Purchase invoice window allows to register and manage supplier's invoices.">Purchase invoice window allows to register and manage supplier's invoices.</value>
   </row>
   <row id="184" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Receipt">Приходная накладная</value>
+    <value column="Name" isTrl="Y" original="Goods Receipt">Накладная получения</value>
     <value column="Description" isTrl="N" original="Create and edit goods receipts from your vendors and create invoices from these receipts.">Create and edit goods receipts from your vendors and create invoices from these receipts.</value>
     <value column="Help" isTrl="N" original="A Goods Receipt is a document issued to acknowledge the receipt of the items listed in it.">A Goods Receipt is a document issued to acknowledge the receipt of the items listed in it.</value>
   </row>

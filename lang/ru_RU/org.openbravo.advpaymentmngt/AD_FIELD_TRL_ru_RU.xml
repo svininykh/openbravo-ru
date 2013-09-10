@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_FIELD" version="">
   <row id="01AD50AC5B6B498BBF27CE93423B9DDF" trl="N">
-    <value column="Name" isTrl="N" original="Expected Amount">Expected Amount</value>
+    <value column="Name" isTrl="Y" original="Expected Amount">Ожидаемая сумма</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -36,17 +36,17 @@
     <value column="Help" isTrl="N" original="Description of the accounting entry">Description of the accounting entry</value>
   </row>
   <row id="B41A028362C548F8949B314C44672BEC" trl="N">
-    <value column="Name" isTrl="N" original="Received Amount">Received Amount</value>
+    <value column="Name" isTrl="Y" original="Received Amount">Полученная сумма</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B62C63760FA84CCDB4E6B056A7AA5EBE" trl="N">
-    <value column="Name" isTrl="N" original="Received Amount">Received Amount</value>
+    <value column="Name" isTrl="Y" original="Received Amount">Полученная сумма</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="E7DEB6F4F8894B7B8A8D143782359FEF" trl="N">
-    <value column="Name" isTrl="N" original="Expected Amount">Expected Amount</value>
+    <value column="Name" isTrl="Y" original="Expected Amount">Ожидаемая сумма</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
