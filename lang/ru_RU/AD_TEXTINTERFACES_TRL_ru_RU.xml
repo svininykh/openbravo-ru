@@ -413,10 +413,10 @@
     <value column="Text" isTrl="N" original="Shipment Receipt Line Selector">Shipment Receipt Line Selector</value>
   </row>
   <row id="1000600068" trl="N">
-    <value column="Text" isTrl="N" original="Date of First Sale">Date of First Sale</value>
+    <value column="Text" isTrl="Y" original="Date of First Sale">Дата первой продажи</value>
   </row>
   <row id="1000600069" trl="N">
-    <value column="Text" isTrl="N" original="Invoiced">Invoiced</value>
+    <value column="Text" isTrl="Y" original="Invoiced">Выставлено</value>
   </row>
   <row id="1000600070" trl="N">
     <value column="Text" isTrl="N" original="DataGrid">DataGrid</value>
@@ -920,7 +920,7 @@
     <value column="Text" isTrl="Y" original="VOIDED">ОТМЕНЕНО</value>
   </row>
   <row id="199C71AA2E6611DEA609DF011C2C76FB" trl="N">
-    <value column="Text" isTrl="N" original="Invoice term">Invoice term</value>
+    <value column="Text" isTrl="Y" original="Invoice term">Выставление</value>
   </row>
   <row id="1AAE3A265FF94E2094B04B0C9C3F521E" trl="N">
     <value column="Text" isTrl="N" original="The upgrade cannot be completed because one or more of your currently installed modules are not compatible with a new major release.">The upgrade cannot be completed because one or more of your currently installed modules are not compatible with a new major release.</value>
@@ -2599,7 +2599,7 @@
     <value column="Text" isTrl="N" original="Conversion">Conversion</value>
   </row>
   <row id="802595" trl="N">
-    <value column="Text" isTrl="N" original="Create from invoice">Create from invoice</value>
+    <value column="Text" isTrl="N" original="Create from invoice">Создать счёт-фактуру</value>
   </row>
   <row id="802681" trl="N">
     <value column="Text" isTrl="N" original="Create from Bank">Create from Bank</value>
@@ -2611,10 +2611,10 @@
     <value column="Text" isTrl="N" original="Call out error response page">Call out error response page</value>
   </row>
   <row id="802708" trl="N">
-    <value column="Text" isTrl="N" original="Retry">Retry</value>
+    <value column="Text" isTrl="Y" original="Retry">Повторить</value>
   </row>
   <row id="802715" trl="N">
-    <value column="Text" isTrl="N" original="Nothing">Nothing</value>
+    <value column="Text" isTrl="Y" original="Nothing">Ничего</value>
   </row>
   <row id="802720" trl="N">
     <value column="Text" isTrl="N" original="Processing action button">Processing action button</value>
@@ -3880,7 +3880,7 @@
     <value column="Text" isTrl="N" original="Income">Income</value>
   </row>
   <row id="807175" trl="N">
-    <value column="Text" isTrl="N" original="Info">Info</value>
+    <value column="Text" isTrl="Y" original="Info">Информация</value>
   </row>
   <row id="807183" trl="N">
     <value column="Text" isTrl="Y" original="Invoice No.">Счёт-фактура №</value>
@@ -5098,7 +5098,7 @@
     <value column="Text" isTrl="Y" original="Installation History">История установки</value>
   </row>
   <row id="8A67F1404C0065AAE040007F01015A1A" trl="N">
-    <value column="Text" isTrl="N" original="Settings">Settings</value>
+    <value column="Text" isTrl="Y" original="Settings">Параметры</value>
   </row>
   <row id="8A67F1404C0665AAE040007F01015A1A" trl="N">
     <value column="Text" isTrl="N" original="yyy">yyy</value>
@@ -5110,31 +5110,31 @@
     <value column="Text" isTrl="N" original="Maturity level for upgrades">Maturity level for upgrades</value>
   </row>
   <row id="8A67F1404C1065AAE040007F01015A1A" trl="N">
-    <value column="Text" isTrl="N" original="Remove">Remove</value>
+    <value column="Text" isTrl="Y" original="Remove">Удалить</value>
   </row>
   <row id="8A67F581FB1C4D48E040007F01015A50" trl="N">
     <value column="Text" isTrl="N" original="Maturity Level:">Maturity Level:</value>
   </row>
   <row id="8A67F581FB1E4D48E040007F01015A50" trl="N">
-    <value column="Text" isTrl="N" original="Testing">Testing</value>
+    <value column="Text" isTrl="Y" original="Testing">Тестировать</value>
   </row>
   <row id="8A67F581FB204D48E040007F01015A50" trl="N">
-    <value column="Text" isTrl="N" original="Learn more">Learn more</value>
+    <value column="Text" isTrl="Y" original="Learn more">Узнать больше</value>
   </row>
   <row id="8A9750C09D0D4A3583669AC61095296B" trl="N">
-    <value column="Text" isTrl="N" original="Total Gross">Total Gross</value>
+    <value column="Text" isTrl="Y" original="Total Gross">Итого</value>
   </row>
   <row id="8A9F202F356C44319F64D074C89FA6E7" trl="N">
     <value column="Text" isTrl="N" original="BCC">BCC</value>
   </row>
   <row id="8ADB6BC10E2F5E46E040007F0101106A" trl="N">
-    <value column="Text" isTrl="N" original="Warning:">Warning:</value>
+    <value column="Text" isTrl="Y" original="Warning:">Внимание:</value>
   </row>
   <row id="8AF50B04D98B452CB02DCE3B554A1F59" trl="N">
-    <value column="Text" isTrl="N" original="Currency of the report:">Currency of the report:</value>
+    <value column="Text" isTrl="Y" original="Currency of the report:">Валюта отчёта:</value>
   </row>
   <row id="8AFA9560F114412EB50B1EC799B504E1" trl="N">
-    <value column="Text" isTrl="N" original="Install Modules">Install Modules</value>
+    <value column="Text" isTrl="Y" original="Install Modules">Установить модули</value>
   </row>
   <row id="8B6C738A9E928161E040007F010131B7" trl="N">
     <value column="Text" isTrl="N" original="Use the following module-specific exceptions:">Use the following module-specific exceptions:</value>
@@ -5401,10 +5401,10 @@
     <value column="Text" isTrl="Y" original="Initial page number">Начальный номер страницы</value>
   </row>
   <row id="982644405A4C4BC6AD687D6014C11878" trl="N">
-    <value column="Text" isTrl="N" original="Invoiced">Invoiced</value>
+    <value column="Text" isTrl="Y" original="Invoiced">Выставлено</value>
   </row>
   <row id="9893CDF907C9415B977B68F8AF5202B9" trl="N">
-    <value column="Text" isTrl="N" original="Local changes found">Local changes found</value>
+    <value column="Text" isTrl="Y" original="Local changes found">Есть локальные изменения</value>
   </row>
   <row id="99A697728AAA426DBBBC95474D01E93D" trl="N">
     <value column="Text" isTrl="Y" original="Invoice No">Cчёт-фактура №</value>
@@ -5449,7 +5449,7 @@
     <value column="Text" isTrl="N" original="  You can continue with this installation and fix this problem later by installing missing dependencies.">  You can continue with this installation and fix this problem later by installing missing dependencies.</value>
   </row>
   <row id="9F749B6889814698B50D9701AD7A9AA0" trl="N">
-    <value column="Text" isTrl="N" original="Total Lines">Total Lines</value>
+    <value column="Text" isTrl="Y" original="Total Lines">Итого без налога</value>
   </row>
   <row id="A065F543F8A448ABA1C1A583C0B0CBA8" trl="N">
     <value column="Text" isTrl="N" original="Upgrade">Upgrade</value>
@@ -5533,7 +5533,7 @@
     <value column="Text" isTrl="N" original="Use Credit Payment">Use Credit Payment</value>
   </row>
   <row id="AEA335E1B37430CDE040007F01015C39" trl="N">
-    <value column="Text" isTrl="N" original="Total Gross Amount">Total Gross Amount</value>
+    <value column="Text" isTrl="Y" original="Total Gross Amount">Сумма итого</value>
   </row>
   <row id="AEA335E1B37630CDE040007F01015C39" trl="N">
     <value column="Text" isTrl="N" original="Credit to be used">Credit to be used</value>

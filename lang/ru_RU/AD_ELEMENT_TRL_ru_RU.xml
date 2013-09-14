@@ -2863,7 +2863,7 @@ Advanced features are only granted to the automatic roles defined as advanced.</
   </row>
   <row id="1270" trl="N">
     <value column="Name" isTrl="Y" original="Comments">Комментарии</value>
-    <value column="PrintName" isTrl="N" original="Info">Info</value>
+    <value column="PrintName" isTrl="Y" original="Info">Информация</value>
     <value column="Description" isTrl="N" original="A space to write additional related information.">A space to write additional related information.</value>
     <value column="Help" isTrl="N" original="The Information displays data from the source document line.">The Information displays data from the source document line.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22052,8 +22052,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C4EEB8D909BE8483E040007F01001710" trl="N">
-    <value column="Name" isTrl="Y" original="Gross List Price">Цена в валюте</value>
-    <value column="PrintName" isTrl="Y" original="Gross List Price">Цена в валюте</value>
+    <value column="Name" isTrl="Y" original="Gross List Price">Цена по прейскуранту</value>
+    <value column="PrintName" isTrl="Y" original="Gross List Price">Цена по прейскуранту</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The Gross List Price is the official price stated by the selected tax included pricelist and the currency of the document.">The Gross List Price is the official price stated by the selected tax included pricelist and the currency of the document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -23055,8 +23055,8 @@ This field is populated in case the used price list includes taxes.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="F3BF680089754BAC858ECFF2D5D0F232" trl="N">
-    <value column="Name" isTrl="N" original="Summed Line Amount">Summed Line Amount</value>
-    <value column="PrintName" isTrl="N" original="Total Lines">Total Lines</value>
+    <value column="Name" isTrl="Y" original="Summed Line Amount">Итого без налога</value>
+    <value column="PrintName" isTrl="Y" original="Total Lines">Итого без налога</value>
     <value column="Description" isTrl="N" original="The final sum of all line totals made to a specified document or transaction (not including taxes).">The final sum of all line totals made to a specified document or transaction (not including taxes).</value>
     <value column="Help" isTrl="N" original="The Total amount displays the total of all lines in document currency.">The Total amount displays the total of all lines in document currency.</value>
     <value column="PO_Description" isTrl="N" original=""/>

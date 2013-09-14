@@ -1733,7 +1733,7 @@ The corresponding tables have then the following setting:
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit attributes to be assigned to attribute sets.">Create and edit attributes to be assigned to attribute sets.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;">Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. 
+    <value column="Help" isTrl="N" original="Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;">Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets.
 </value>
   </row>
   <row id="463" trl="N">
@@ -1741,7 +1741,7 @@ The corresponding tables have then the following setting:
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define individual characteristic values of this attribute.">Define individual characteristic values of this attribute.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;">An attribute can have several values or individual characteristics to be detailed for each attribute. 
+    <value column="Help" isTrl="N" original="An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;">An attribute can have several values or individual characteristics to be detailed for each attribute.
 </value>
   </row>
   <row id="464" trl="N">
@@ -2327,7 +2327,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="View invoices for volume discounts accepted and used by this business partner.">View invoices for volume discounts accepted and used by this business partner.</value>
   </row>
   <row id="800019" trl="N">
-    <value column="Name" isTrl="N" original="Customized Elements">Customized Elements</value>
+    <value column="Name" isTrl="Y" original="Customized Elements">Настраиваемые элементы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit elements and add or subtract them according to your needs.">Edit elements and add or subtract them according to your needs.</value>
     <value column="Filtername" isTrl="N" original=""/>

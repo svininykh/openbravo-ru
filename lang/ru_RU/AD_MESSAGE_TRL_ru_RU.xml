@@ -596,10 +596,10 @@ Control Digit must be length 1.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400015" trl="N">
-    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines. 
+    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines.
 An order line is created for each requisition line.
-The process closes the requisition when it finishes successfully. 
-The Order Date is the date of the Purchase Orders. 
+The process closes the requisition when it finishes successfully.
+The Order Date is the date of the Purchase Orders.
 The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.
 The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.
 The Organization is the organization used by the Purchase Orders.
@@ -2425,7 +2425,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="298" trl="N">
-    <value column="MsgText" isTrl="N" original="Info">Info</value>
+    <value column="MsgText" isTrl="Y" original="Info">Информация</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="298DFAAB76704167BAB725848842E753" trl="N">
@@ -2437,7 +2437,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="29C3C655E5394359B44C086A5D8B5C15" trl="N">
-    <value column="MsgText" isTrl="N" original="Deleted records of @elementnameCurrentTab@">Deleted records of @elementnameCurrentTab@</value>
+    <value column="MsgText" isTrl="Y" original="Deleted records of @elementnameCurrentTab@">Удалены записи @elementnameCurrentTab@</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="29DA6D865A87411FB7808B2B075E5A73" trl="N">
@@ -3232,7 +3232,7 @@ Be aware that if the daily limit is exceeded @extraDays@ more times in the @numb
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="417C01FAE8E447F7985AA6C04074924C" trl="N">
-    <value column="MsgText" isTrl="N" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table. 
+    <value column="MsgText" isTrl="N" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table.
 This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
@@ -6753,11 +6753,11 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804894" trl="N">
-    <value column="MsgText" isTrl="N" original="Drag and drop the tree elements to rearrange them to your needs">Drag and drop the tree elements to rearrange them to your needs</value>
+    <value column="MsgText" isTrl="Y" original="Drag and drop the tree elements to rearrange them to your needs">Возьмите и перетащите элементы схемы для построения необходимой структуры</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804D6F47FC0041C09F86F21DDE1FFF4C" trl="N">
-    <value column="MsgText" isTrl="N" original="Evaluation period has expired">Evaluation period has expired</value>
+    <value column="MsgText" isTrl="Y" original="Evaluation period has expired">Ознакомительный период истёк</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="80F0ED31B28B4523A83293151EF87EA5" trl="N">
@@ -7938,15 +7938,15 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E0E85920920F4E69BF3B39D5C61CFE33" trl="N">
-    <value column="MsgText" isTrl="N" original="Learn how">Learn how</value>
+    <value column="MsgText" isTrl="Y" original="Learn how">Узнать как</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E2619EAE728A409797BC6D9D7C7FC741" trl="N">
-    <value column="MsgText" isTrl="N" original="Unknown transaction type.">Unknown transaction type.</value>
+    <value column="MsgText" isTrl="Y" original="Unknown transaction type.">Неизвестный тип транзакции.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E2670BE243274B3CBAF627D17B0696D9" trl="N">
-    <value column="MsgText" isTrl="N" original="This record is being posted by another process">This record is being posted by another process</value>
+    <value column="MsgText" isTrl="Y" original="This record is being posted by another process">Данная запись проведена другой обработкой</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E2C2CBA4C17D4F9AA5F130ACE83D39E5" trl="N">
@@ -7954,11 +7954,11 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E3678269099943C6B6E2920DA9FCE40C" trl="N">
-    <value column="MsgText" isTrl="N" original="Name and Username have been cut to fit field length.">Name and Username have been cut to fit field length.</value>
+    <value column="MsgText" isTrl="Y" original="Name and Username have been cut to fit field length.">Назание и имя пользователя необходимо уменьшить до размера поля.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E36A09BF7B3C495FAB705AB0D3EE0958" trl="N">
-    <value column="MsgText" isTrl="N" original="Period Number must be positive">Period Number must be positive</value>
+    <value column="MsgText" isTrl="Y" original="Period Number must be positive">Число периодов должно быть положительным</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E3B45E07261C456C9643C6E85C9149EE" trl="N">
@@ -7994,7 +7994,7 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E5B9B0F218E74F8FBBFA2AE7C747DF63" trl="N">
-    <value column="MsgText" isTrl="N" original="More results...">More results...</value>
+    <value column="MsgText" isTrl="Y" original="More results...">Прочие результаты...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E5E7F19AF95544228BA611E7A549F665" trl="Y">
@@ -8002,7 +8002,7 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E652E8A6AC41454D817E71F6FEE67779" trl="N">
-    <value column="MsgText" isTrl="N" original="Email Configuration Error">Email Configuration Error</value>
+    <value column="MsgText" isTrl="Y" original="Email Configuration Error">Ошибка настройки электронной почты</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E667A3DF0E1D4FA6BFEE696F302C1663" trl="N">
@@ -8042,7 +8042,7 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EA690991A24C4456958D5E81FEC0C496" trl="N">
-    <value column="MsgText" isTrl="N" original="Your Openbravo subscription has expired.">Your Openbravo subscription has expired.</value>
+    <value column="MsgText" isTrl="Y" original="Your Openbravo subscription has expired.">Ваша подписка на Openbravo истекла.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EA8C3BCA062B4BB687AE2A2AAE4E32EE" trl="N">
@@ -8074,7 +8074,7 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="ED29E885BB414C1FB92222716A4C12FC" trl="N">
-    <value column="MsgText" isTrl="N" original="The quantities that are going to be copied to the lines may not be the ones shown here. If the invoice has a related order and goods receipt, the copied quantity will be the shipped quantity minus the related invoiced. If there is no related shipment, the copied quantity will be the ordered quantity minus the related invoiced quantities.">The quantities that are going to be copied to the lines may not be the ones shown here. If the invoice has a related order and goods receipt, the copied quantity will be the shipped quantity minus the related invoiced. If there is no related shipment, the copied quantity will be the ordered quantity minus the related invoiced quantities.</value>
+    <value column="MsgText" isTrl="Y" original="The quantities that are going to be copied to the lines may not be the ones shown here. If the invoice has a related order and goods receipt, the copied quantity will be the shipped quantity minus the related invoiced. If there is no related shipment, the copied quantity will be the ordered quantity minus the related invoiced quantities.">Количество указанное здесь не обязательно будет перенесено в строки. Если счёт-фактура связана с ордером и  накладной получения товара, то будет скопировано поступившие количество минус количество уже выставленное в счёт фактуре. Если связи с поступлением нет, то копируется количество из ордера минус  количество уже выставленное в счёт фактуре.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="ED94DA7D967E401B93DDFFE86C9715A9" trl="N">
