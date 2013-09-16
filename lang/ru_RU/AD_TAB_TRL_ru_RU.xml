@@ -1469,7 +1469,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Add products to be included in your purchase order.  Each product is added by creating a line.">Add products to be included in your purchase order.  Each product is added by creating a line.</value>
   </row>
   <row id="38A56E62067242B39D3815E434D5BC48" trl="N">
-    <value column="Name" isTrl="N" original="Accounting">Accounting</value>
+    <value column="Name" isTrl="Y" original="Accounting">Проводки</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Accounting information related to the payment out">Accounting information related to the payment out</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1518,7 +1518,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Dimensions mapping window allows to create new records for new document categories or new tables.">Dimensions mapping window allows to create new records for new document categories or new tables.</value>
   </row>
   <row id="3ED38B380CD849B38F0AC1B52F992C34" trl="N">
-    <value column="Name" isTrl="N" original="Reversed Invoices">Reversed Invoices</value>
+    <value column="Name" isTrl="Y" original="Reversed Invoices">Возвратные счёт-фактуры</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="In this tab the user can define the reversed invoices (if any) associated with the invoice">In this tab the user can define the reversed invoices (if any) associated with the invoice</value>
     <value column="Filtername" isTrl="N" original=""/>

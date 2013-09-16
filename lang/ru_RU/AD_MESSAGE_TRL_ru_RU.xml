@@ -2137,11 +2137,11 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="23A6C6403FF944AC81B67C168882B57D" trl="N">
-    <value column="MsgText" isTrl="N" original="The selected Business Partner is not a Vendor.">The selected Business Partner is not a Vendor.</value>
+    <value column="MsgText" isTrl="Y" original="The selected Business Partner is not a Vendor.">Выбраный контрагент не поставщик.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="23B122FD033649F7854EC76DCD746E72" trl="N">
-    <value column="MsgText" isTrl="Y" original="Goods Receipt">Накладная получения</value>
+    <value column="MsgText" isTrl="Y" original="Goods Receipt">Накладная поступления</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="23C8FF19340E44A694A183D54331CA3F" trl="N">
@@ -5251,7 +5251,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800061" trl="N">
-    <value column="MsgText" isTrl="N" original="This document is posted">This document is posted</value>
+    <value column="MsgText" isTrl="Y" original="This document is posted">Этот документ проведён</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800062" trl="N">
@@ -5471,7 +5471,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800116" trl="N">
-    <value column="MsgText" isTrl="N" original="Document already Posted.">Document already Posted.</value>
+    <value column="MsgText" isTrl="Y" original="Document already Posted.">Документ успешно проведён.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800117" trl="N">
@@ -7447,7 +7447,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B785B8EF16CB412DB2E0FE32F55E9869" trl="N">
-    <value column="MsgText" isTrl="Y" original="Goods Receipt">Накладная получения</value>
+    <value column="MsgText" isTrl="Y" original="Goods Receipt">Накладная поступления</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B7861D4829884EB696164FAC0B163BB0" trl="N">
@@ -8074,7 +8074,7 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="ED29E885BB414C1FB92222716A4C12FC" trl="N">
-    <value column="MsgText" isTrl="Y" original="The quantities that are going to be copied to the lines may not be the ones shown here. If the invoice has a related order and goods receipt, the copied quantity will be the shipped quantity minus the related invoiced. If there is no related shipment, the copied quantity will be the ordered quantity minus the related invoiced quantities.">Количество указанное здесь не обязательно будет перенесено в строки. Если счёт-фактура связана с ордером и  накладной получения товара, то будет скопировано поступившие количество минус количество уже выставленное в счёт фактуре. Если связи с поступлением нет, то копируется количество из ордера минус  количество уже выставленное в счёт фактуре.</value>
+    <value column="MsgText" isTrl="Y" original="The quantities that are going to be copied to the lines may not be the ones shown here. If the invoice has a related order and goods receipt, the copied quantity will be the shipped quantity minus the related invoiced. If there is no related shipment, the copied quantity will be the ordered quantity minus the related invoiced quantities.">Количество указанное здесь не обязательно будет перенесено в строки. Если счёт-фактура связана с ордером и  накладной поступления товара, то будет скопировано поступившие количество минус количество уже выставленное в счёт фактуре. Если связи с поступлением нет, то копируется количество из ордера минус  количество уже выставленное в счёт фактуре.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="ED94DA7D967E401B93DDFFE86C9715A9" trl="N">

@@ -1752,7 +1752,7 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800064" trl="N">
-    <value column="Name" isTrl="Y" original="Shipment/Receipt Line">Стр. накладной отгрузки/получения</value>
+    <value column="Name" isTrl="Y" original="Shipment/Receipt Line">Стр. накладной отгрузки/поступления</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1882,7 +1882,7 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800095" trl="N">
-    <value column="Name" isTrl="Y" original="Shipment/Receipt">Накладная отгрузки/получения</value>
+    <value column="Name" isTrl="Y" original="Shipment/Receipt">Накладная отгрузки/поступления</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

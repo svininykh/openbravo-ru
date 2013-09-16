@@ -506,7 +506,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Browse history of this particular document type for the selected business partner to be able to select lines (products) from these. For example, if you are creating a new sales order for business partner A, Copy Lines window will give you the history of products ordered and the prices given to business partner A within the last X days. X can be set within the business partner window. Consider this as a tiny CRM window.">Browse history of this particular document type for the selected business partner to be able to select lines (products) from these. For example, if you are creating a new sales order for business partner A, Copy Lines window will give you the history of products ordered and the prices given to business partner A within the last X days. X can be set within the business partner window. Consider this as a tiny CRM window.</value>
   </row>
   <row id="212" trl="N">
-    <value column="Name" isTrl="Y" original="Copy Details">Копировать подробности</value>
+    <value column="Name" isTrl="Y" original="Copy Details">Копировать детали</value>
     <value column="Description" isTrl="Y" original="Copy Lines/Phases/Tasks from another existing project">Копировать строки/фазы/задачи из других существующих проектов</value>
     <value column="Help" isTrl="Y" original="Copy Lines/Phases/Tasks from another existing project">Копировать строки/фазы/задачи из других существующих проектов</value>
   </row>
@@ -516,7 +516,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Start Recurring Run">Start Recurring Run</value>
   </row>
   <row id="214" trl="N">
-    <value column="Name" isTrl="Y" original="Copy Details">Копировать подробности</value>
+    <value column="Name" isTrl="Y" original="Copy Details">Копировать детали</value>
     <value column="Description" isTrl="Y" original="Copy Journal/Lines from other Journal Batch">Копировать поля журнала/строки из других записей в журнале</value>
     <value column="Help" isTrl="Y" original="Copy Journal/Lines from other Journal Batch">Копировать поля журнала/строки из других записей в журнале</value>
   </row>
@@ -1099,9 +1099,9 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Process Internal Consumption">Process Internal Consumption</value>
   </row>
   <row id="800133" trl="N">
-    <value column="Name" isTrl="N" original="Journal Entries Report Detail">Journal Entries Report Detail</value>
-    <value column="Description" isTrl="N" original="Journal Entries Report detail">Journal Entries Report detail</value>
-    <value column="Help" isTrl="N" original="Journal Entries Report detail">Journal Entries Report detail</value>
+    <value column="Name" isTrl="Y" original="Journal Entries Report Detail">Журнал регистров детальный отчёт</value>
+    <value column="Description" isTrl="Y" original="Journal Entries Report detail">Журнал регистров детальный отчёт</value>
+    <value column="Help" isTrl="Y" original="Journal Entries Report detail">Журнал регистров детальный отчёт</value>
   </row>
   <row id="800134" trl="N">
     <value column="Name" isTrl="N" original="Post Amortization">Post Amortization</value>
@@ -1294,8 +1294,8 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Expiration Date Report JR">Expiration Date Report JR</value>
   </row>
   <row id="800180" trl="N">
-    <value column="Name" isTrl="N" original="Vendor Invoice Report">Vendor Invoice Report</value>
-    <value column="Description" isTrl="N" original="Report Invoice Vendor">Report Invoice Vendor</value>
+    <value column="Name" isTrl="Y" original="Vendor Invoice Report">Отчёт Счёт-фактуры поставщика</value>
+    <value column="Description" isTrl="Y" original="Report Invoice Vendor">Отчёт Счёт-фактуры поставщика</value>
     <value column="Help" isTrl="N" original="This report provides information about the total amount invoiced by each supplier within a given time period and for a given currency.">This report provides information about the total amount invoiced by each supplier within a given time period and for a given currency.</value>
   </row>
   <row id="800181" trl="N">
@@ -1475,7 +1475,7 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="This process applies all the installed modules. It loads the module definition in the database and generate and compiles the corresponding code.">This process applies all the installed modules. It loads the module definition in the database and generate and compiles the corresponding code.</value>
   </row>
   <row id="CD7283DF804B449C97DA09446669EEEF" trl="N">
-    <value column="Name" isTrl="Y" original="Process Batch">Пакетная обработка</value>
+    <value column="Name" isTrl="Y" original="Process Batch">Пакетная обраб.</value>
     <value column="Description" isTrl="Y" original="GL Journal Batch Process">Пакетная обработка для журнала Главной книги</value>
     <value column="Help" isTrl="Y" original="GL Journal Batch Process">Пакетная обработка для журнала Главной книги</value>
   </row>

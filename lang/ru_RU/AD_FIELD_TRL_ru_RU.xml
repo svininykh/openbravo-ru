@@ -176,7 +176,7 @@
     <value column="Help" isTrl="N" original="The Direct Print checkbox indicates that the report will print without displaying the print dialog box.">The Direct Print checkbox indicates that the report will print without displaying the print dialog box.</value>
   </row>
   <row id="3305" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Shipment/Receipt Line">Строка накладной отгрузки/получения</value>
+    <value column="Name" isTrl="Y" original="Goods Shipment/Receipt Line">Строка накладной отгрузки/поступления</value>
     <value column="Description" isTrl="N" original="A statement displaying one item, charge, or movement in a shipment or receipt">A statement displaying one item, charge, or movement in a shipment or receipt</value>
     <value column="Help" isTrl="N" original="The Shipment/Receipt indicates a unique line in a Shipment/Receipt document">The Shipment/Receipt indicates a unique line in a Shipment/Receipt document</value>
   </row>
@@ -471,7 +471,7 @@
     <value column="Help" isTrl="N" original="Financial account where the payment amount is deposited.">Financial account where the payment amount is deposited.</value>
   </row>
   <row id="7C541AC0C75CFDD7E040007F01016B4D" trl="N">
-    <value column="Name" isTrl="Y" original="Received From">Выплачено из</value>
+    <value column="Name" isTrl="Y" original="Received From">Поступило от</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The Business Partner the payment is receipt from.">The Business Partner the payment is receipt from.</value>
   </row>
@@ -918,12 +918,12 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B04C07EBF2C600E2E040007F01003385" trl="N">
-    <value column="Name" isTrl="Y" original="Shipment/Receipt Line">Стр. накладной отгрузки/получения</value>
+    <value column="Name" isTrl="Y" original="Shipment/Receipt Line">Стр. накладной отгрузки/поступления</value>
     <value column="Description" isTrl="N" original="A statement displaying one item, charge, or movement in a shipment or receipt.">A statement displaying one item, charge, or movement in a shipment or receipt.</value>
     <value column="Help" isTrl="N" original="The Shipment/Receipt Line indicates a unique line in a Shipment or Receipt document">The Shipment/Receipt Line indicates a unique line in a Shipment or Receipt document</value>
   </row>
   <row id="B04C07EBF2C800E2E040007F01003385" trl="N">
-    <value column="Name" isTrl="Y" original="Shipment / Receipt No.">Отгрузка/Получение №</value>
+    <value column="Name" isTrl="Y" original="Shipment / Receipt No.">Отгрузка/Поступление №</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -933,7 +933,7 @@
     <value column="Help" isTrl="N" original="The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.">The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.</value>
   </row>
   <row id="B04C07EBF2CC00E2E040007F01003385" trl="N">
-    <value column="Name" isTrl="Y" original="Ship/Receipt Qty">Отгрузка/Получение кол-во</value>
+    <value column="Name" isTrl="Y" original="Ship/Receipt Qty">Отгрузка/Поступление кол-во</value>
     <value column="Description" isTrl="N" original="The number of items being moved from one location to another.">The number of items being moved from one location to another.</value>
     <value column="Help" isTrl="N" original="The Movement Quantity indicates the quantity of a product that has been moved.">The Movement Quantity indicates the quantity of a product that has been moved.</value>
   </row>

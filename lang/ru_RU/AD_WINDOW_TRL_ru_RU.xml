@@ -340,7 +340,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Purchase invoice window allows to register and manage supplier's invoices.">Purchase invoice window allows to register and manage supplier's invoices.</value>
   </row>
   <row id="184" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Receipt">Накладная получения</value>
+    <value column="Name" isTrl="Y" original="Goods Receipt">Накладная поступления</value>
     <value column="Description" isTrl="N" original="Create and edit goods receipts from your vendors and create invoices from these receipts.">Create and edit goods receipts from your vendors and create invoices from these receipts.</value>
     <value column="Help" isTrl="N" original="A Goods Receipt is a document issued to acknowledge the receipt of the items listed in it.">A Goods Receipt is a document issued to acknowledge the receipt of the items listed in it.</value>
   </row>
@@ -482,7 +482,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="260" trl="N">
     <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
-    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest. 
+    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest.
 </value>
   </row>
   <row id="264" trl="N">

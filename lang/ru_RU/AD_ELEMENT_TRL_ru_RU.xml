@@ -1556,8 +1556,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="Help" isTrl="N" original="The Shipment ID indicates the unique document for this shipment.">The Shipment ID indicates the unique document for this shipment.</value>
     <value column="PO_Description" isTrl="N" original="The document number for identifying an act of receiving goods.">The document number for identifying an act of receiving goods.</value>
     <value column="PO_Help" isTrl="N" original="The Receipt ID indicates the unique document for this receipt.">The Receipt ID indicates the unique document for this receipt.</value>
-    <value column="PO_Name" isTrl="Y" original="Goods Receipt">Накладная получения</value>
-    <value column="PO_PrintName" isTrl="Y" original="Goods Receipt">Накладная получения</value>
+    <value column="PO_Name" isTrl="Y" original="Goods Receipt">Накладная поступления</value>
+    <value column="PO_PrintName" isTrl="Y" original="Goods Receipt">Накладная поступления</value>
   </row>
   <row id="1026" trl="N">
     <value column="Name" isTrl="Y" original="Goods Shipment Line">Строка накладной отгрузки</value>
@@ -1566,8 +1566,8 @@ When it is active this field will be focused by default when the tab is opened.<
     <value column="Help" isTrl="N" original="The Goods Shipment Line indicates a unique line in a Shipment document">The Goods Shipment Line indicates a unique line in a Shipment document</value>
     <value column="PO_Description" isTrl="N" original="A statement displaying one item, charge, or movement in a receipt.">A statement displaying one item, charge, or movement in a receipt.</value>
     <value column="PO_Help" isTrl="N" original="The Goods Receipt Line indicates a unique line in a Receipt document">The Goods Receipt Line indicates a unique line in a Receipt document</value>
-    <value column="PO_Name" isTrl="Y" original="Goods Receipt Line">Строка накладной получения</value>
-    <value column="PO_PrintName" isTrl="Y" original="Goods Receipt Line">Строка накладной получения</value>
+    <value column="PO_Name" isTrl="Y" original="Goods Receipt Line">Строка накладной поступления</value>
+    <value column="PO_PrintName" isTrl="Y" original="Goods Receipt Line">Строка накладной поступления</value>
   </row>
   <row id="1027" trl="N">
     <value column="Name" isTrl="Y" original="Phys.Inventory">Складские остатки</value>
@@ -4829,8 +4829,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1689" trl="N">
-    <value column="Name" isTrl="N" original="Match Invoice">Match Invoice</value>
-    <value column="PrintName" isTrl="N" original="Match Invoice">Match Invoice</value>
+    <value column="Name" isTrl="Y" original="Match Invoice">Выписана счёт-фактура</value>
+    <value column="PrintName" isTrl="Y" original="Match Invoice">Выписана счёт-фактура</value>
     <value column="Description" isTrl="N" original="Match Shipment/Receipt to Invoice">Match Shipment/Receipt to Invoice</value>
     <value column="Help" isTrl="N" original="The ID identifies a unique record">The ID identifies a unique record</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21771,8 +21771,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BA725D05F5324979BBA1BC454781FF58" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Receipt">Накладная получения</value>
-    <value column="PrintName" isTrl="Y" original="Goods Receipt">Накладная получения</value>
+    <value column="Name" isTrl="Y" original="Goods Receipt">Накладная поступления</value>
+    <value column="PrintName" isTrl="Y" original="Goods Receipt">Накладная поступления</value>
     <value column="Description" isTrl="N" original="This flag allows to block goods receipt in vendor.">This flag allows to block goods receipt in vendor.</value>
     <value column="Help" isTrl="N" original="This flag allows to block goods receipt in vendor.">This flag allows to block goods receipt in vendor.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -23195,8 +23195,8 @@ This field is populated in case the used price list includes taxes.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="FF16AAFDFE1D4557B2792C6B50B7D25C" trl="N">
-    <value column="Name" isTrl="N" original="Debit">Debit</value>
-    <value column="PrintName" isTrl="N" original="Debit">Debit</value>
+    <value column="Name" isTrl="Y" original="Debit">Дебит</value>
+    <value column="PrintName" isTrl="Y" original="Debit">Дебит</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

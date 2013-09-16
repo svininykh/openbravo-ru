@@ -977,7 +977,7 @@
     <value column="Text" isTrl="N" original="VO">VO</value>
   </row>
   <row id="2077C79A41574E0AAA82EDE1895E2D0C" trl="N">
-    <value column="Text" isTrl="Y" original="GOODS RECEIPT">НАКЛАДНАЯ ПОЛУЧЕНИЯ</value>
+    <value column="Text" isTrl="Y" original="GOODS RECEIPT">НАКЛАДНАЯ ПОСТУПЛЕНИЯ</value>
   </row>
   <row id="21444EAA2E5211DE95D5ABB0C6CBBF57" trl="N">
     <value column="Text" isTrl="Y" original="PREVIOUS">НА НАЧАЛО</value>
@@ -1004,7 +1004,7 @@
     <value column="Text" isTrl="Y" original="Print Document">Печать документа</value>
   </row>
   <row id="27446C44A1F411DD90E5475409233A52" trl="N">
-    <value column="Text" isTrl="N" original="Do you want to archive this document after printing?">Do you want to archive this document after printing?</value>
+    <value column="Text" isTrl="Y" original="Do you want to archive this document after printing?">Вы хотите архивировать документ после печати?</value>
   </row>
   <row id="2783F652A1F411DDA89BDF610A666E97" trl="N">
     <value column="Text" isTrl="Y" original="Print and Archive">Печать и архивация</value>
@@ -1377,7 +1377,7 @@
     <value column="Text" isTrl="Y" original="None">Ничего</value>
   </row>
   <row id="584540A0B233B12BE040007F010050B2" trl="N">
-    <value column="Text" isTrl="Y" original="View Details">Посмотреть подробности</value>
+    <value column="Text" isTrl="Y" original="View Details">Посмотреть детали</value>
   </row>
   <row id="584540A0B234B12BE040007F010050B2" trl="N">
     <value column="Text" isTrl="Y" original="Install Now">Установить сейчас</value>
@@ -2527,7 +2527,7 @@
     <value column="Text" isTrl="N" original="Creditor balance">Creditor balance</value>
   </row>
   <row id="802045" trl="N">
-    <value column="Text" isTrl="Y" original="Copy Details from GLJournal">Копировать подробности из журнала Г/К</value>
+    <value column="Text" isTrl="Y" original="Copy Details from GLJournal">Копировать детали из журнала Г/К</value>
   </row>
   <row id="802054" trl="N">
     <value column="Text" isTrl="Y" original="Create price list">Создать прейскурант</value>
@@ -2578,10 +2578,10 @@
     <value column="Text" isTrl="N" original="Form">Form</value>
   </row>
   <row id="802460" trl="N">
-    <value column="Text" isTrl="N" original="Task">Task</value>
+    <value column="Text" isTrl="Y" original="Task">Задача</value>
   </row>
   <row id="802479" trl="N">
-    <value column="Text" isTrl="N" original="Delete accounting entry">Delete accounting entry</value>
+    <value column="Text" isTrl="Y" original="Delete accounting entry">Удалить бухгалтерский регистр</value>
   </row>
   <row id="802498" trl="N">
     <value column="Text" isTrl="N" original="Call out response page">Call out response page</value>
@@ -3070,7 +3070,7 @@
     <value column="Text" isTrl="Y" original="Posted">Проведено</value>
   </row>
   <row id="805018" trl="N">
-    <value column="Text" isTrl="Y" original="Pending delivery/receipt">Ожидаемая доставка/получение</value>
+    <value column="Text" isTrl="Y" original="Pending delivery/receipt">Ожидаемая доставка/поступление</value>
   </row>
   <row id="805019" trl="N">
     <value column="Text" isTrl="Y" original="Pending invoice">Ожидаемая счёт-фактура</value>
@@ -3109,7 +3109,7 @@
     <value column="Text" isTrl="N" original="Completing the operation ?">Completing the operation ?</value>
   </row>
   <row id="805115" trl="N">
-    <value column="Text" isTrl="Y" original="Shipment/Receipt">Отгрузка/Получение</value>
+    <value column="Text" isTrl="Y" original="Shipment/Receipt">Отгрузка/Поступление</value>
   </row>
   <row id="805116" trl="N">
     <value column="Text" isTrl="Y" original="Physical Inventory">Инвентаризация</value>
@@ -3256,7 +3256,7 @@
     <value column="Text" isTrl="Y" original="Table">Таблица</value>
   </row>
   <row id="805952" trl="N">
-    <value column="Text" isTrl="N" original="Material Receipt Pending">Material Receipt Pending</value>
+    <value column="Text" isTrl="Y" original="Material Receipt Pending">Ожидается поступление запасов</value>
   </row>
   <row id="805963" trl="Y">
     <value column="Text" isTrl="Y" original="Initial Client Setup">Начальные параметры подключения</value>
@@ -5317,19 +5317,19 @@
     <value column="Text" isTrl="Y" original="Openbravo Professional/Basic Edition subscription">Подписка Openbravo Профессиональная/Базовая редакция</value>
   </row>
   <row id="9335C6A4F2B811DD9667001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="This will attach the document to the record.">This will attach the document to the record.</value>
+    <value column="Text" isTrl="Y" original="This will attach the document to the record.">После этого распечатанный документ будет прикреплён к вложению.</value>
   </row>
   <row id="93508D04F2B811DDA853001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Email(s) sent successfully">Email(s) sent successfully</value>
+    <value column="Text" isTrl="Y" original="Email(s) sent successfully">Эл. письмо(а) успешно отправлено(ы)</value>
   </row>
   <row id="936F4000F2B811DD834B001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Message Body">Message Body</value>
+    <value column="Text" isTrl="Y" original="Message Body">Содержание сообщения</value>
   </row>
   <row id="93871158F2B811DDADFC001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Add Attachment">Add Attachment</value>
+    <value column="Text" isTrl="Y" original="Add Attachment">Добавить вложение</value>
   </row>
   <row id="939870600E69E1B7E040A8C02101366B" trl="N">
-    <value column="Text" isTrl="N" original="Merged Module(s):">Merged Module(s):</value>
+    <value column="Text" isTrl="Y" original="Merged Module(s):">Объединён(ы) модуль(и):</value>
   </row>
   <row id="939870600E6BE1B7E040A8C02101366B" trl="N">
     <value column="Text" isTrl="N" original="Please note: The following modules will be uninstalled as they are now merged within other modules.">Please note: The following modules will be uninstalled as they are now merged within other modules.</value>
@@ -5590,7 +5590,7 @@
     <value column="Text" isTrl="Y" original="ATTRIBUTES">ХАРАКТЕРИСТИКИ</value>
   </row>
   <row id="B1AFEA6B61ABFE94E040007F01006F96" trl="N">
-    <value column="Text" isTrl="Y" original="Return Receipt">Возвратная накладная получения</value>
+    <value column="Text" isTrl="Y" original="Return Receipt">Возвратная накладная поступления</value>
   </row>
   <row id="B1AFEA6B61ADFE94E040007F01006F96" trl="N">
     <value column="Text" isTrl="Y" original="Return Shipment">Возвратная накладная отгрузки</value>

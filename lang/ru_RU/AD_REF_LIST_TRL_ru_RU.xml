@@ -1185,7 +1185,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="304" trl="N">
-    <value column="Name" isTrl="N" original="AP Invoice">AP Invoice</value>
+    <value column="Name" isTrl="Y" original="AP Invoice">Приходная СФ</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="305" trl="N">
@@ -1253,7 +1253,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="324" trl="N">
-    <value column="Name" isTrl="N" original="Material Receipt">Material Receipt</value>
+    <value column="Name" isTrl="Y" original="Material Receipt">Поступление запасов</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="325" trl="N">
@@ -1913,7 +1913,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="492" trl="N">
-    <value column="Name" isTrl="N" original="Match Invoice">Match Invoice</value>
+    <value column="Name" isTrl="Y" original="Match Invoice">Выписана счёт-фактура</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="493" trl="N">
@@ -3757,7 +3757,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="9FAE04047B394752B6F13E489736F306" trl="N">
-    <value column="Name" isTrl="N" original="AP Invoice">AP Invoice</value>
+    <value column="Name" isTrl="Y" original="AP Invoice">Приходная СФ</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A208E26D81F24085B9D8DB47A49BA5A5" trl="N">
@@ -3765,7 +3765,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A27B7159B661436A9A6C282BAFA4EA62" trl="N">
-    <value column="Name" isTrl="N" original="&lt;None&gt;">&lt;None&gt;</value>
+    <value column="Name" isTrl="Y" original="&lt;None&gt;">&lt;Ничего&gt;</value>
     <value column="Description" isTrl="N" original="No action">No action</value>
   </row>
   <row id="A2F1EBD49E8E440982A2590C9401698B" trl="N">
@@ -4037,7 +4037,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="C7F514418045445C84336792979EF513" trl="N">
-    <value column="Name" isTrl="N" original="Material Receipt">Material Receipt</value>
+    <value column="Name" isTrl="Y" original="Material Receipt">Поступление запасов</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="CA00CE19E247421884EAD80D211553D5" trl="N">
