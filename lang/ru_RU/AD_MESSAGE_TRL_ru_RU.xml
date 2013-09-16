@@ -4543,19 +4543,19 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="644" trl="N">
-    <value column="MsgText" isTrl="N" original="Translate Print Format">Translate Print Format</value>
+    <value column="MsgText" isTrl="Y" original="Translate Print Format">Перевод печатной формы</value>
     <value column="MsgTip" isTrl="N" original="If you do not have Multi-Lingual Document enabled, you can translate a Report here.">If you do not have Multi-Lingual Document enabled, you can translate a Report here.</value>
   </row>
   <row id="645" trl="N">
-    <value column="MsgText" isTrl="N" original="Translate">Translate</value>
+    <value column="MsgText" isTrl="Y" original="Translate">Перевод</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="646" trl="N">
-    <value column="MsgText" isTrl="N" original="New Report">New Report</value>
+    <value column="MsgText" isTrl="Y" original="New Report">Новый отчёт</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="647" trl="N">
-    <value column="MsgText" isTrl="N" original="Average">Average</value>
+    <value column="MsgText" isTrl="Y" original="Average">Среднее</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="648" trl="N">
@@ -6729,11 +6729,11 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804888" trl="N">
-    <value column="MsgText" isTrl="N" original="Reconciled payment (cash)">Reconciled payment (cash)</value>
+    <value column="MsgText" isTrl="Y" original="Reconciled payment (cash)">Согласован платёж (касса)</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804889" trl="N">
-    <value column="MsgText" isTrl="N" original="Reconciled payment (bank)">Reconciled payment (bank)</value>
+    <value column="MsgText" isTrl="Y" original="Reconciled payment (bank)">Согласован платёж (банк)</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804890" trl="N">
@@ -7571,7 +7571,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C17765EDD3844A0393433448B4F7E799" trl="N">
-    <value column="MsgText" isTrl="N" original="Document disabled for accounting">Document disabled for accounting</value>
+    <value column="MsgText" isTrl="Y" original="Document disabled for accounting">Для документа отключено проведение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C19E7133C1614DCB8B99C341123E90DB" trl="N">

@@ -1290,25 +1290,25 @@
     <value column="Text" isTrl="N" original="&amp;nbsp">&amp;nbsp</value>
   </row>
   <row id="577D60287C4D9046E040007F010043BC" trl="N">
-    <value column="Text" isTrl="N" original="Date of First Sale">Date of First Sale</value>
+    <value column="Text" isTrl="Y" original="Date of First Sale">Дата первой продажи</value>
   </row>
   <row id="577D60287C4E9046E040007F010043BC" trl="N">
-    <value column="Text" isTrl="N" original="Open Pentaho">Open Pentaho</value>
+    <value column="Text" isTrl="Y" original="Open Pentaho">Открыть Pentaho</value>
   </row>
   <row id="577D60287C4F9046E040007F010043BC" trl="N">
-    <value column="Text" isTrl="N" original="Your browser doesn't accept frames">Your browser doesn't accept frames</value>
+    <value column="Text" isTrl="Y" original="Your browser doesn't accept frames">Выш браузер не поддерживает фреймы</value>
   </row>
   <row id="581DA553CE315BCCE040007F01016B1A" trl="N">
-    <value column="Text" isTrl="N" original="Canceled(Invoice not paid)">Canceled(Invoice not paid)</value>
+    <value column="Text" isTrl="Y" original="Canceled(Invoice not paid)">Отменено(Счёт-фактура не оплачена)</value>
   </row>
   <row id="581DA553CE325BCCE040007F01016B1A" trl="N">
-    <value column="Text" isTrl="N" original="Canceled(Invoice paid)">Canceled(Invoice paid)</value>
+    <value column="Text" isTrl="Y" original="Canceled(Invoice paid)">Отменено(Счёт-фактура оплачена)</value>
   </row>
   <row id="581DA553CE335BCCE040007F01016B1A" trl="N">
-    <value column="Text" isTrl="N" original="Generated(Invoice not paid)">Generated(Invoice not paid)</value>
+    <value column="Text" isTrl="Y" original="Generated(Invoice not paid)">Создано(Счёт-фактура не оплачена)</value>
   </row>
   <row id="581DA553CE345BCCE040007F01016B1A" trl="N">
-    <value column="Text" isTrl="N" original="Generated(Invoice paid)">Generated(Invoice paid)</value>
+    <value column="Text" isTrl="Y" original="Generated(Invoice paid)">Создано(Счёт-фактура оплачена)</value>
   </row>
   <row id="581DF8E2F6D4A0C9E040007F01017080" trl="N">
     <value column="Text" isTrl="N" original="Incoming/Outgoing">Incoming/Outgoing</value>
@@ -2953,7 +2953,7 @@
     <value column="Text" isTrl="Y" original="UOM">Ед. изм.</value>
   </row>
   <row id="804061" trl="Y">
-    <value column="Text" isTrl="Y" original="Translation Import/Export">Перевод Импортировать/Экспортировать</value>
+    <value column="Text" isTrl="Y" original="Translation Import/Export">Перевод импортировать/экспортировать</value>
   </row>
   <row id="804064" trl="Y">
     <value column="Text" isTrl="Y" original="Export">Экспортировать</value>
@@ -3628,7 +3628,7 @@
     <value column="Text" isTrl="Y" original="Campaign">Кампания</value>
   </row>
   <row id="807054" trl="N">
-    <value column="Text" isTrl="N" original="Canceled">Canceled</value>
+    <value column="Text" isTrl="Y" original="Canceled">Отменено</value>
   </row>
   <row id="807055" trl="N">
     <value column="Text" isTrl="N" original="Cancelled Settlement">Cancelled Settlement</value>
@@ -4996,10 +4996,10 @@
     <value column="Text" isTrl="N" original="InvoicePaymentMonitor">InvoicePaymentMonitor</value>
   </row>
   <row id="83A34A4C0D067671E040007F010125A3" trl="N">
-    <value column="Text" isTrl="N" original="Commercial Module">Commercial Module</value>
+    <value column="Text" isTrl="Y" original="Commercial Module">Коммерческий модуль</value>
   </row>
   <row id="84053A6D1075AA2FE040007F01011B1B" trl="N">
-    <value column="Text" isTrl="N" original="Produced qty.">Produced qty.</value>
+    <value column="Text" isTrl="Y" original="Produced qty.">Произведено кол-во</value>
   </row>
   <row id="841F9D69CD804F7C956D301B5C686E9E" trl="N">
     <value column="Text" isTrl="Y" original="Hours">Часы</value>

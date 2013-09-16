@@ -3625,39 +3625,39 @@
     <value column="Description" isTrl="N" original="Specific day withina month to trigger a process.">Specific day withina month to trigger a process.</value>
   </row>
   <row id="8F5FF4C1DAE84C0A8B6B3115FEC8D206" trl="N">
-    <value column="Name" isTrl="N" original="Disable Heartbeat">Disable Heartbeat</value>
+    <value column="Name" isTrl="Y" original="Disable Heartbeat">Отключена кардиограмма</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="90CD0AB2B9944AE2B91466FC3C371056" trl="N">
-    <value column="Name" isTrl="N" original="Post: Document Disabled">Post: Document Disabled</value>
+    <value column="Name" isTrl="Y" original="Post: Document Disabled">Проводка: Отключено для док.</value>
     <value column="Description" isTrl="N" original="Document disabled for accounting">Document disabled for accounting</value>
   </row>
   <row id="90F2802402A54AECACBCBC2A0C8550C3" trl="N">
-    <value column="Name" isTrl="N" original="When Negative">When Negative</value>
+    <value column="Name" isTrl="Y" original="When Negative">Когда отрицательное</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="91" trl="N">
-    <value column="Name" isTrl="N" original="List Validation">List Validation</value>
-    <value column="Description" isTrl="N" original="List Validation">List Validation</value>
+    <value column="Name" isTrl="Y" original="List Validation">Проверка списка</value>
+    <value column="Description" isTrl="Y" original="List Validation">Для документа отключено проведение</value>
   </row>
   <row id="92" trl="N">
-    <value column="Name" isTrl="N" original="DataType">DataType</value>
-    <value column="Description" isTrl="N" original="DataType">DataType</value>
+    <value column="Name" isTrl="Y" original="DataType">Тип данных</value>
+    <value column="Description" isTrl="Y" original="DataType">Тип данных</value>
   </row>
   <row id="921570D0DE9D458DA59A0B33E912D196" trl="N">
-    <value column="Name" isTrl="N" original="Edit and Delete Only (No Insert)">Edit and Delete Only (No Insert)</value>
+    <value column="Name" isTrl="Y" original="Edit and Delete Only (No Insert)">Редактировать и удалять(не добавлять)</value>
     <value column="Description" isTrl="N" original="Allows to edit or delete the record. New records cannot be added.">Allows to edit or delete the record. New records cannot be added.</value>
   </row>
   <row id="922C9D242114484BBDBEB9EF354CDA64" trl="N">
-    <value column="Name" isTrl="N" original="Cost Calculated">Cost Calculated</value>
-    <value column="Description" isTrl="N" original="Cost Calculated">Cost Calculated</value>
+    <value column="Name" isTrl="Y" original="Cost Calculated">Себестоимость расчитана</value>
+    <value column="Description" isTrl="Y" original="Cost Calculated">Себестоимость расчитана</value>
   </row>
   <row id="927411F7E68A436BB8230ADD159782E4" trl="N">
-    <value column="Name" isTrl="N" original="** New **">** New **</value>
+    <value column="Name" isTrl="Y" original="** New **">** Новый **</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="9274CA578DBF438A9DD7A7C81F1D7153" trl="N">
-    <value column="Name" isTrl="N" original="Added">Added</value>
+    <value column="Name" isTrl="Y" original="Added">Добавлено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="928076C0F27B4FF2B951C27155AEBDFF" trl="N">
@@ -4201,7 +4201,7 @@
     <value column="Description" isTrl="N" original="Fourth specified weekday of the month.">Fourth specified weekday of the month.</value>
   </row>
   <row id="E2B06CEADF4F4528BDB55A1FA694CBEB" trl="N">
-    <value column="Name" isTrl="N" original="Commercial module expired">Commercial module expired</value>
+    <value column="Name" isTrl="N" original="Commercial module expired">Коммерческий модуль просрочен</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="E2D7CB6495504B8D9F7AAE49747DFC42" trl="N">

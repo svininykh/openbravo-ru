@@ -17,7 +17,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0AF37AC554DE441DB213BA944147E82C" trl="N">
-    <value column="MsgText" isTrl="N" original="Payment No.">Payment No.</value>
+    <value column="MsgText" isTrl="Y" original="Payment No.">Платёж №</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0BBA71AF0C1F4E069A811E7CFC80FEAD" trl="N">
@@ -25,11 +25,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1405C086998B431D80615A4FB8EC783B" trl="N">
-    <value column="MsgText" isTrl="N" original="Date">Date</value>
+    <value column="MsgText" isTrl="Y" original="Date">Дата</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="14AEEC4ACF9C48A1B39D7A58D057B296" trl="N">
-    <value column="MsgText" isTrl="N" original="Document Type not defined">Document Type not defined</value>
+    <value column="MsgText" isTrl="Y" original="Document Type not defined">Тип документа не определён</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="14EBC11B38634D229D542AAFCEAF4186" trl="N">
@@ -53,7 +53,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1F3D51E013B34F1087BD5416EEB0387F" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount left as credit">Amount left as credit</value>
+    <value column="MsgText" isTrl="Y" original="Amount left as credit">Сумма внесена по кредиту</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2118F382AC3646CA8D8F2EAE6504B876" trl="N">
@@ -73,7 +73,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2FD618C9D5064C75BFF13B57B767C912" trl="N">
-    <value column="MsgText" isTrl="N" original="Document No.">Document No.</value>
+    <value column="MsgText" isTrl="Y" original="Document No.">Документ №</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="355244CE61E647E7822FF281159181E4" trl="N">
@@ -434,7 +434,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081332719060133272C1D46003B" trl="N">
-    <value column="MsgText" isTrl="N" original="Reconciled">Reconciled</value>
+    <value column="MsgText" isTrl="Y" original="Reconciled">Согласовано</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081332719060133272C92070040" trl="N">
@@ -446,7 +446,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081332719060133272D70CE0048" trl="N">
-    <value column="MsgText" isTrl="N" original="Un-Reconciled">Un-Reconciled</value>
+    <value column="MsgText" isTrl="Y" original="Un-Reconciled">Несоласованно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818130B6856A0130B6956220002D" trl="N">

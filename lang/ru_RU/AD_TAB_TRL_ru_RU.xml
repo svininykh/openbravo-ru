@@ -909,7 +909,7 @@ For changes to become effective, you must re-login and re-start the Application 
     <value column="Help" isTrl="N" original="Edit taxes applied to your order.">Edit taxes applied to your order.</value>
   </row>
   <row id="23691259D1BD4496BCC5F32645BCA4B9" trl="N">
-    <value column="Name" isTrl="Y" original="Transaction">Проводка</value>
+    <value column="Name" isTrl="Y" original="Transaction">Транзакции</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3735,7 +3735,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Accounting information related to the matched invoices">Accounting information related to the matched invoices</value>
   </row>
   <row id="B30CF79CF71245339E94B4B332BAABF1" trl="N">
-    <value column="Name" isTrl="N" original="Include">Include</value>
+    <value column="Name" isTrl="Y" original="Include">Содержание</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="List of the included modules">List of the included modules</value>
     <value column="Filtername" isTrl="N" original=""/>
