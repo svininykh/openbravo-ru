@@ -161,8 +161,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="09B56C6C0BF34E80A4EFDEEE4ED5DBCD" trl="N">
-    <value column="Name" isTrl="Y" original="Debit">Дебит</value>
-    <value column="PrintName" isTrl="Y" original="Debit">Дебит</value>
+    <value column="Name" isTrl="Y" original="Debit">Дебет</value>
+    <value column="PrintName" isTrl="Y" original="Debit">Дебет</value>
     <value column="Description" isTrl="N" original="The amount debited from the account, given in provider currency.">The amount debited from the account, given in provider currency.</value>
     <value column="Help" isTrl="N" original="The Source Debit Amount indicates the credit amount for this line in the source currency.">The Source Debit Amount indicates the credit amount for this line in the source currency.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4458,8 +4458,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="162" trl="N">
-    <value column="Name" isTrl="Y" original="Debit">Дебит</value>
-    <value column="PrintName" isTrl="Y" original="Acct Debit">Дебит счёт</value>
+    <value column="Name" isTrl="Y" original="Debit">Дебет</value>
+    <value column="PrintName" isTrl="Y" original="Acct Debit">Дебет счёт</value>
     <value column="Description" isTrl="N" original="The amount debited to an account, converted to the organization default currency.">The amount debited to an account, converted to the organization default currency.</value>
     <value column="Help" isTrl="N" original="The Account Debit Amount indicates the transaction amount converted to this organization's accounting currency">The Account Debit Amount indicates the transaction amount converted to this organization's accounting currency</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7612,8 +7612,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2EB6010EAA174169880C588220EFE7B8" trl="N">
-    <value column="Name" isTrl="Y" original="General Ledger Currency Debit">По дебиту в валюте Г/К</value>
-    <value column="PrintName" isTrl="Y" original="General Ledger Currency Debit">По дебиту в валюте Г/К</value>
+    <value column="Name" isTrl="Y" original="General Ledger Currency Debit">По дебету в валюте Г/К</value>
+    <value column="PrintName" isTrl="Y" original="General Ledger Currency Debit">По дебету в валюте Г/К</value>
     <value column="Description" isTrl="N" original="The amount debited to an account, converted to the organization default currency.">The amount debited to an account, converted to the organization default currency.</value>
     <value column="Help" isTrl="N" original="The Account Debit Amount indicates the transaction amount converted to this organization's accounting currency">The Account Debit Amount indicates the transaction amount converted to this organization's accounting currency</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11529,8 +11529,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="597" trl="N">
-    <value column="Name" isTrl="Y" original="Total Debit Amount">Итого сумма дебита</value>
-    <value column="PrintName" isTrl="Y" original="Total Debit">Итого дебит</value>
+    <value column="Name" isTrl="Y" original="Total Debit Amount">Итого сумма дебета</value>
+    <value column="PrintName" isTrl="Y" original="Total Debit">Итого дебет</value>
     <value column="Description" isTrl="N" original="Total debit in document currency">Total debit in document currency</value>
     <value column="Help" isTrl="N" original="The Total Debit indicates the total debit amount for a journal or journal batch in the source currency">The Total Debit indicates the total debit amount for a journal or journal batch in the source currency</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14220,10 +14220,10 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800078" trl="Y">
-    <value column="Name" isTrl="Y" original="Debit Amount">Сумма дебита</value>
-    <value column="PrintName" isTrl="Y" original="Amount debit">Сумма дебита</value>
-    <value column="Description" isTrl="Y" original="Debit amount">Сумма дебита</value>
-    <value column="Help" isTrl="Y" original="Debit amount">Сумма дебита</value>
+    <value column="Name" isTrl="Y" original="Debit Amount">Сумма дебета</value>
+    <value column="PrintName" isTrl="Y" original="Amount debit">Сумма дебета</value>
+    <value column="Description" isTrl="Y" original="Debit amount">Сумма дебета</value>
+    <value column="Help" isTrl="Y" original="Debit amount">Сумма дебета</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -14260,10 +14260,10 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800082" trl="Y">
-    <value column="Name" isTrl="Y" original="Glitem debit acct">Г/К Дебит счёт</value>
-    <value column="PrintName" isTrl="Y" original="Glitem debit acct">Г/К Дебит счёт</value>
-    <value column="Description" isTrl="Y" original="Glitem debit account">Главная Книга Дебит счёт</value>
-    <value column="Help" isTrl="Y" original="Debit account for the general ledger item.">Дебит счёт для проводки по Главной Книге.</value>
+    <value column="Name" isTrl="Y" original="Glitem debit acct">Г/К Дебет счёт</value>
+    <value column="PrintName" isTrl="Y" original="Glitem debit acct">Г/К Дебет счёт</value>
+    <value column="Description" isTrl="Y" original="Glitem debit account">Главная Книга Дебет счёт</value>
+    <value column="Help" isTrl="Y" original="Debit account for the general ledger item.">Дебет счёт для проводки по Главной Книге.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -23195,8 +23195,8 @@ This field is populated in case the used price list includes taxes.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="FF16AAFDFE1D4557B2792C6B50B7D25C" trl="N">
-    <value column="Name" isTrl="Y" original="Debit">Дебит</value>
-    <value column="PrintName" isTrl="Y" original="Debit">Дебит</value>
+    <value column="Name" isTrl="Y" original="Debit">Дебет</value>
+    <value column="PrintName" isTrl="Y" original="Debit">Дебет</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

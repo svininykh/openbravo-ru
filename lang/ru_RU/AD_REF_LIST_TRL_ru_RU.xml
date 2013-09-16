@@ -453,7 +453,7 @@
     <value column="Description" isTrl="N" original="Natural sign of the Account Type">Natural sign of the Account Type</value>
   </row>
   <row id="127" trl="N">
-    <value column="Name" isTrl="Y" original="Debit">Дебит</value>
+    <value column="Name" isTrl="Y" original="Debit">Дебет</value>
     <value column="Description" isTrl="N" original="Debit Balance Account">Debit Balance Account</value>
   </row>
   <row id="128" trl="N">
@@ -1805,7 +1805,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="468" trl="N">
-    <value column="Name" isTrl="Y" original="Total Debit Only">Только итог дебита</value>
+    <value column="Name" isTrl="Y" original="Total Debit Only">Только итог дебета</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="469" trl="N">
@@ -3221,7 +3221,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800191" trl="N">
-    <value column="Name" isTrl="Y" original="Debit">Дебит</value>
+    <value column="Name" isTrl="Y" original="Debit">Дебет</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800192" trl="N">
@@ -3229,11 +3229,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800193" trl="N">
-    <value column="Name" isTrl="Y" original="Credit-Debit">Кредит-Дебит</value>
+    <value column="Name" isTrl="Y" original="Credit-Debit">Кредит-Дебет</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800194" trl="N">
-    <value column="Name" isTrl="Y" original="Debit-Credit">Дебит-Кредит</value>
+    <value column="Name" isTrl="Y" original="Debit-Credit">Дебет-Кредит</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800195" trl="N">
