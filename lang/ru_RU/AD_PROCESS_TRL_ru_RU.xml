@@ -310,7 +310,7 @@
     <value column="Help" isTrl="N" original="Invoice Summary">Invoice Summary</value>
   </row>
   <row id="154" trl="N">
-    <value column="Name" isTrl="Y" original="Generate Invoice from Receipt">Счёт-фактура по накладной</value>
+    <value column="Name" isTrl="Y" original="Generate Invoice from Receipt">СФ по накладной</value>
     <value column="Description" isTrl="N" original="Create and process Invoice from this receipt. The receipt should be correct and completed.">Create and process Invoice from this receipt. The receipt should be correct and completed.</value>
     <value column="Help" isTrl="Y" original="Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. If the receipt line is related to an existing order line, then the price of the invoice line is taken from that order line. In other case, it uses the retrieved price from the price list selected in the below drop-down list.">Генерация счёт-фактуры по накладной основывается на данных текущей накладной. Если строки накладной связаны с строками ордера, тогда цена в счёт-фактуре берётся из строки ордера. Иначе, цена берётся по прейскуранту заданному из выпадающего ниже списка.</value>
   </row>

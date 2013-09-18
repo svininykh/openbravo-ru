@@ -2512,8 +2512,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="120" trl="N">
-    <value column="Name" isTrl="N" original="Reference">Reference</value>
-    <value column="PrintName" isTrl="N" original="Reference">Reference</value>
+    <value column="Name" isTrl="Y" original="Reference">Ссылка</value>
+    <value column="PrintName" isTrl="Y" original="Reference">Ссылка</value>
     <value column="Description" isTrl="N" original="The data type of this field.">The data type of this field.</value>
     <value column="Help" isTrl="N" original="The Reference indicates the type of reference field">The Reference indicates the type of reference field</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10178,8 +10178,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="538" trl="N">
-    <value column="Name" isTrl="N" original="Record ID">Record ID</value>
-    <value column="PrintName" isTrl="N" original="Record ID">Record ID</value>
+    <value column="Name" isTrl="Y" original="Record ID">ID записи</value>
+    <value column="PrintName" isTrl="Y" original="Record ID">ID записи</value>
     <value column="Description" isTrl="N" original="An record identifier in the dictionary.">An record identifier in the dictionary.</value>
     <value column="Help" isTrl="N" original="The Record ID is the internal unique identifier of a record">The Record ID is the internal unique identifier of a record</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10188,8 +10188,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="539" trl="N">
-    <value column="Name" isTrl="N" original="Reference">Reference</value>
-    <value column="PrintName" isTrl="N" original="Reference">Reference</value>
+    <value column="Name" isTrl="Y" original="Reference">Ссылка</value>
+    <value column="PrintName" isTrl="Y" original="Reference">Ссылка</value>
     <value column="Description" isTrl="N" original="The data type of this field.">The data type of this field.</value>
     <value column="Help" isTrl="N" original="The Reference displays the source document number.">The Reference displays the source document number.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20445,8 +20445,8 @@ If the Heartbeat is also enabled the number of requests per module on the last 3
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="92960702F3C3E1DAE040007F010046D0" trl="N">
-    <value column="Name" isTrl="Y" original="Production Banner Image">Изображение бунера внедрения</value>
-    <value column="PrintName" isTrl="Y" original="Production Banner Image">Изображение бунера внедрения</value>
+    <value column="Name" isTrl="Y" original="Production Banner Image">Изображение банера внедрения</value>
+    <value column="PrintName" isTrl="Y" original="Production Banner Image">Изображение банера внедрения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Image used to be shown on instances with Production purpose.&#10;&#10;There is an example image on the Login folder of the Default skin.">Image used to be shown on instances with Production purpose.
 
@@ -21161,8 +21161,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="AC4E5A6E23B44763AA66997A35B7D583" trl="N">
-    <value column="Name" isTrl="N" original="Your Company Menu Image">Your Company Menu Image</value>
-    <value column="PrintName" isTrl="N" original="Your Company Menu Image">Your Company Menu Image</value>
+    <value column="Name" isTrl="Y" original="Your Company Menu Image">Логотип вашей фирмы в меню</value>
+    <value column="PrintName" isTrl="Y" original="Your Company Menu Image">Логотип вашей фирмы в меню</value>
     <value column="Description" isTrl="N" original="The image that is displayed on top of the Application Menu">The image that is displayed on top of the Application Menu</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21571,8 +21571,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B4D4121446D847EA91B262AEDA567798" trl="N">
-    <value column="Name" isTrl="N" original="Default Your Company Document Image">Default Your Company Document Image</value>
-    <value column="PrintName" isTrl="N" original="Default Your Company Document Image">Default Your Company Document Image</value>
+    <value column="Name" isTrl="Y" original="Default Your Company Document Image">Логотип фирмы на документах по-умолчанию</value>
+    <value column="PrintName" isTrl="Y" original="Default Your Company Document Image">Логотип фирмы на документах по-умолчанию</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

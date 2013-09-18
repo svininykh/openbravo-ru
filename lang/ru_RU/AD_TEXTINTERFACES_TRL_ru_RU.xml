@@ -632,7 +632,7 @@
     <value column="Text" isTrl="Y" original="Currency:">Валюта:</value>
   </row>
   <row id="1003900020" trl="N">
-    <value column="Text" isTrl="N" original="Total Client:">Total Client:</value>
+    <value column="Text" isTrl="Y" original="Total Client:">Итого по клиенту:</value>
   </row>
   <row id="1003900025" trl="N">
     <value column="Text" isTrl="Y" original="Project:">Проект:</value>
@@ -641,7 +641,7 @@
     <value column="Text" isTrl="Y" original="Date:">Дата:</value>
   </row>
   <row id="1003900028" trl="N">
-    <value column="Text" isTrl="N" original="Total Client:">Total Client:</value>
+    <value column="Text" isTrl="Y" original="Total Client:">Итого по клиенту:</value>
   </row>
   <row id="1003900029" trl="N">
     <value column="Text" isTrl="Y" original="Order Date:">Дата ордера:</value>
@@ -4135,10 +4135,10 @@
     <value column="Text" isTrl="N" original="Receipt type">Receipt type</value>
   </row>
   <row id="807294" trl="N">
-    <value column="Text" isTrl="N" original="REFERENCE">REFERENCE</value>
+    <value column="Text" isTrl="N" original="REFERENCE">ССЫЛКА</value>
   </row>
   <row id="807295" trl="N">
-    <value column="Text" isTrl="N" original="Reference">Reference</value>
+    <value column="Text" isTrl="N" original="Reference">Ссылка</value>
   </row>
   <row id="807297" trl="N">
     <value column="Text" isTrl="N" original="Refund">Refund</value>
@@ -4543,7 +4543,7 @@
     <value column="Text" isTrl="N" original="Not invoiced orders filter">Not invoiced orders filter</value>
   </row>
   <row id="808046" trl="N">
-    <value column="Text" isTrl="N" original="Total Partner:">Total Partner:</value>
+    <value column="Text" isTrl="Y" original="Total Partner:">Итого по контрагенту:</value>
   </row>
   <row id="808057" trl="N">
     <value column="Text" isTrl="N" original="%Tax">%Tax</value>
@@ -4801,7 +4801,7 @@
     <value column="Text" isTrl="Y" original="Close">Закрыть</value>
   </row>
   <row id="809908" trl="N">
-    <value column="Text" isTrl="N" original="Total Order:">Total Order:</value>
+    <value column="Text" isTrl="Y" original="Total Order:">Итого по ордеру:</value>
   </row>
   <row id="809909" trl="N">
     <value column="Text" isTrl="N" original="M. %">M. %</value>
@@ -4903,7 +4903,7 @@
     <value column="Text" isTrl="N" original="Inv/Debt-Pay/Ord No">Inv/Debt-Pay/Ord No</value>
   </row>
   <row id="809998" trl="N">
-    <value column="Text" isTrl="N" original="Total Client:">Total Client:</value>
+    <value column="Text" isTrl="Y" original="Total Client:">Итого по клиенту:</value>
   </row>
   <row id="810002" trl="N">
     <value column="Text" isTrl="N" original="Remittance No:">Remittance No:</value>
@@ -4939,7 +4939,7 @@
     <value column="Text" isTrl="N" original="Amount Greater Than">Amount Greater Than</value>
   </row>
   <row id="810034" trl="N">
-    <value column="Text" isTrl="N" original="TOTAL  ">TOTAL  </value>
+    <value column="Text" isTrl="Y" original="TOTAL  ">ИТОГО  </value>
   </row>
   <row id="810035" trl="N">
     <value column="Text" isTrl="N" original="Shell-by-date">Shell-by-date</value>
