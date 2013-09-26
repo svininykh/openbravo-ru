@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="">
   <row id="115E1E4A48294BE880525B71474ECEF9" trl="N">
-    <value column="Name" isTrl="N" original="Sortable">Sortable</value>
-    <value column="PrintName" isTrl="N" original="Sortable">Sortable</value>
+    <value column="Name" isTrl="Y" original="Sortable">Сортируемое</value>
+    <value column="PrintName" isTrl="Y" original="Sortable">Сортируемое</value>
     <value column="Description" isTrl="N" original="Allow sorting by this field in the popup grid.">Allow sorting by this field in the popup grid.</value>
     <value column="Help" isTrl="N" original="Allow sorting by this field in the popup grid.">Allow sorting by this field in the popup grid.</value>
     <value column="PO_Description" isTrl="N" original=""/>

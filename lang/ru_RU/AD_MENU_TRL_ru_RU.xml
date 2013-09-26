@@ -517,7 +517,7 @@
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="292" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Transaction">Транзакции по товару</value>
+    <value column="Name" isTrl="Y" original="Goods Transaction">Движение товаров</value>
     <value column="Description" isTrl="N" original="Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.">Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.</value>
   </row>
   <row id="296" trl="N">
@@ -625,15 +625,15 @@
     <value column="Description" isTrl="N" original="Define a group of attributes to apply to specific products.">Define a group of attributes to apply to specific products.</value>
   </row>
   <row id="354" trl="N">
-    <value column="Name" isTrl="N" original="Serial Number Sequence">Serial Number Sequence</value>
+    <value column="Name" isTrl="Y" original="Serial Number Sequence">Нумерация серийных номеров</value>
     <value column="Description" isTrl="N" original="Define a serial number sequence to assign serial numbers to products.">Define a serial number sequence to assign serial numbers to products.</value>
   </row>
   <row id="355" trl="N">
-    <value column="Name" isTrl="N" original="Lot Number Sequence">Lot Number Sequence</value>
+    <value column="Name" isTrl="Y" original="Lot Number Sequence">Нумерация лотов</value>
     <value column="Description" isTrl="N" original="Define a number sequence to assign lot numbers to products.">Define a number sequence to assign lot numbers to products.</value>
   </row>
   <row id="356" trl="N">
-    <value column="Name" isTrl="N" original="Lot">Lot</value>
+    <value column="Name" isTrl="Y" original="Lot">Лот</value>
     <value column="Description" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
   </row>
   <row id="357" trl="N">
@@ -989,7 +989,7 @@
     <value column="Description" isTrl="N" original="Create and edit names of the month, assigning them to your quarterly and yearly calendar.">Create and edit names of the month, assigning them to your quarterly and yearly calendar.</value>
   </row>
   <row id="800106" trl="N">
-    <value column="Name" isTrl="N" original="Dimension">Dimension</value>
+    <value column="Name" isTrl="Y" original="Dimension">Субконто</value>
     <value column="Description" isTrl="N" original="Define parameters to be used in making reports.">Define parameters to be used in making reports.</value>
   </row>
   <row id="800108" trl="N">
@@ -1385,15 +1385,15 @@
     <value column="Description" isTrl="Y" original="Report Invoice Vendor">Отчет Счет-фактуры поставщика</value>
   </row>
   <row id="800266" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Dimensional Report">Purchase Dimensional Report</value>
+    <value column="Name" isTrl="Y" original="Purchase Dimensional Report">Аналитический отчет Поставки</value>
     <value column="Description" isTrl="N" original="Purchase dimensional analyses">Purchase dimensional analyses</value>
   </row>
   <row id="800267" trl="N">
-    <value column="Name" isTrl="N" original="Goods Receipts Dimensional Report">Goods Receipts Dimensional Report</value>
+    <value column="Name" isTrl="Y" original="Goods Receipts Dimensional Report">Аналитический отчет Накладные поступления</value>
     <value column="Description" isTrl="N" original="Goods receipt dimensional analyses">Goods receipt dimensional analyses</value>
   </row>
   <row id="800268" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Invoice Dimensional Report">Purchase Invoice Dimensional Report</value>
+    <value column="Name" isTrl="Y" original="Purchase Invoice Dimensional Report">Аналитический отчет Счет-фактуры поставщика</value>
     <value column="Description" isTrl="N" original="Invoice vendor dimensional analyses">Invoice vendor dimensional analyses</value>
   </row>
   <row id="800269" trl="N">

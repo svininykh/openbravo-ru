@@ -390,12 +390,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define how and when commissions are going to be calculated and to whom they are going to be paid.">Define how and when commissions are going to be calculated and to whom they are going to be paid.</value>
   </row>
   <row id="210" trl="N">
-    <value column="Name" isTrl="N" original="Commission Payment">Commission Payment</value>
+    <value column="Name" isTrl="Y" original="Commission Payment">Комиссионный платеж</value>
     <value column="Description" isTrl="N" original="Create commissions and create corresponding invoices.">Create commissions and create corresponding invoices.</value>
     <value column="Help" isTrl="N" original="Create commissions and create corresponding invoices.">Create commissions and create corresponding invoices.</value>
   </row>
   <row id="223" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Transaction">Транзакции по товару</value>
+    <value column="Name" isTrl="Y" original="Goods Transaction">Движение товаров</value>
     <value column="Description" isTrl="N" original="Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.">Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.</value>
     <value column="Help" isTrl="N" original="Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.">Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.</value>
   </row>
@@ -465,17 +465,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.">An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.</value>
   </row>
   <row id="257" trl="N">
-    <value column="Name" isTrl="N" original="Lot">Lot</value>
+    <value column="Name" isTrl="Y" original="Lot">Лот</value>
     <value column="Description" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
     <value column="Help" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
   </row>
   <row id="258" trl="N">
-    <value column="Name" isTrl="N" original="Lot Number Sequence">Lot Number Sequence</value>
+    <value column="Name" isTrl="Y" original="Lot Number Sequence">Нумерация лотов</value>
     <value column="Description" isTrl="N" original="Define a number sequence to assign lot numbers to products.">Define a number sequence to assign lot numbers to products.</value>
     <value column="Help" isTrl="N" original="A product attribute can be a Lot Number.">A product attribute can be a Lot Number.</value>
   </row>
   <row id="259" trl="N">
-    <value column="Name" isTrl="N" original="Serial Number Sequence">Serial Number Sequence</value>
+    <value column="Name" isTrl="Y" original="Serial Number Sequence">Нумерация серийных номеров</value>
     <value column="Description" isTrl="N" original="Define a serial number sequence to assign serial numbers to products.">Define a serial number sequence to assign serial numbers to products.</value>
     <value column="Help" isTrl="N" original="A product attribute can be a serial number.">A product attribute can be a serial number.</value>
   </row>
