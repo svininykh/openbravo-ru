@@ -631,7 +631,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit payments with no corresponding document/transaction in the application.">Create and edit payments with no corresponding document/transaction in the application.</value>
   </row>
   <row id="800007" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Item">Г/К Типовая проводка</value>
+    <value column="Name" isTrl="Y" original="G/L Item">Проводка Г/К</value>
     <value column="Description" isTrl="N" original="Create and edit accounting items to be used in manual settlements.">Create and edit accounting items to be used in manual settlements.</value>
     <value column="Help" isTrl="N" original="A G/L item is an account item to be used for direct account posting.">A G/L item is an account item to be used for direct account posting.</value>
   </row>

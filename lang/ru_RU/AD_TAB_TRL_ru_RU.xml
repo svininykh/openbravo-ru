@@ -2383,7 +2383,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define the GL item that are going to be used">Define the GL item that are going to be used</value>
   </row>
   <row id="800033" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Item">Г/К Типовая проводка</value>
+    <value column="Name" isTrl="Y" original="G/L Item">Проводка Г/К</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit accounting items to be used in manual settlements.">Create and edit accounting items to be used in manual settlements.</value>
     <value column="Filtername" isTrl="N" original=""/>

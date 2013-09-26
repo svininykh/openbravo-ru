@@ -837,7 +837,7 @@
     <value column="Description" isTrl="N" original="Create and edit payments with no corresponding document/transaction in the application.">Create and edit payments with no corresponding document/transaction in the application.</value>
   </row>
   <row id="800034" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Item">Г/К Типовая проводка</value>
+    <value column="Name" isTrl="Y" original="G/L Item">Проводка Г/К</value>
     <value column="Description" isTrl="N" original="Create and edit accounting items to be used in manual settlements.">Create and edit accounting items to be used in manual settlements.</value>
   </row>
   <row id="800037" trl="N">
@@ -1089,8 +1089,8 @@
     <value column="Description" isTrl="N" original="Create and edit data collection and measurements related to quality control.  This is done at predefined checkpoints for a produced product.">Create and edit data collection and measurements related to quality control.  This is done at predefined checkpoints for a produced product.</value>
   </row>
   <row id="800177" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
-    <value column="Description" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
+    <value column="Name" isTrl="Y" original="G/L Items Report">Отчет Проводки Г/К</value>
+    <value column="Description" isTrl="Y" original="G/L Items Report">Отчет Проводки Г/К</value>
   </row>
   <row id="800178" trl="N">
     <value column="Name" isTrl="N" original="Performance Scorecard">Performance Scorecard</value>

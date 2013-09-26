@@ -14240,8 +14240,8 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800080" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Item">Г/К Типовая проводка</value>
-    <value column="PrintName" isTrl="Y" original="Gl item">Г/К Типовая проводка</value>
+    <value column="Name" isTrl="Y" original="G/L Item">Проводка Г/К</value>
+    <value column="PrintName" isTrl="Y" original="Gl item">Проводка Г/К</value>
     <value column="Description" isTrl="N" original="An alias for the Account Combination which can be commonly used in daily operations.">An alias for the Account Combination which can be commonly used in daily operations.</value>
     <value column="Help" isTrl="N" original="General ledger item.">General ledger item.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21211,8 +21211,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="AF073DA2C96FFA0CE040A8C09166378E" trl="N">
-    <value column="Name" isTrl="N" original="Original Payment Plan">Original Payment Plan</value>
-    <value column="PrintName" isTrl="N" original="Original Payment Plan">Original Payment Plan</value>
+    <value column="Name" isTrl="Y" original="Original Payment Plan">Первоначальный график оплаты</value>
+    <value column="PrintName" isTrl="Y" original="Original Payment Plan">Первоначальный график оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -23105,14 +23105,14 @@ This field is populated in case the used price list includes taxes.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="F7408EA5318E4FBBBE26365AB50A0752" trl="N">
-    <value column="Name" isTrl="N" original="Update Payment Plan">Update Payment Plan</value>
-    <value column="PrintName" isTrl="N" original="Update Payment Plan">Update Payment Plan</value>
+    <value column="Name" isTrl="Y" original="Update Payment Plan">Обновлённый график оплаты</value>
+    <value column="PrintName" isTrl="Y" original="Update Payment Plan">Обновлённый график оплаты</value>
     <value column="Description" isTrl="N" original="Shows a popup where the user can modify some payment plan details.">Shows a popup where the user can modify some payment plan details.</value>
     <value column="Help" isTrl="N" original="Shows a popup where the user can modify some payment plan details.">Shows a popup where the user can modify some payment plan details.</value>
     <value column="PO_Description" isTrl="N" original="Shows a popup where the user can modify some payment plan details.">Shows a popup where the user can modify some payment plan details.</value>
     <value column="PO_Help" isTrl="N" original="Shows a popup where the user can modify some payment plan details.">Shows a popup where the user can modify some payment plan details.</value>
-    <value column="PO_Name" isTrl="N" original="Update Payment Plan">Update Payment Plan</value>
-    <value column="PO_PrintName" isTrl="N" original="Update Payment Plan">Update Payment Plan</value>
+    <value column="PO_Name" isTrl="Y" original="Update Payment Plan">Обновлённый график оплаты</value>
+    <value column="PO_PrintName" isTrl="Y" original="Update Payment Plan">Обновлённый график оплаты</value>
   </row>
   <row id="F7C27A79A2874EE49FD2853A3607530E" trl="N">
     <value column="Name" isTrl="N" original="Upon Receipt Use">Upon Receipt Use</value>
