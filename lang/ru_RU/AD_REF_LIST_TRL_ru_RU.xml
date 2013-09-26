@@ -817,11 +817,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="208" trl="N">
-    <value column="Name" isTrl="N" original="Proposal">Proposal</value>
+    <value column="Name" isTrl="Y" original="Proposal">Заявка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="209" trl="N">
-    <value column="Name" isTrl="N" original="Quotation">Quotation</value>
+    <value column="Name" isTrl="Y" original="Quotation">Предложение</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="210" trl="N">
@@ -1249,7 +1249,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="323" trl="N">
-    <value column="Name" isTrl="N" original="Material Delivery">Material Delivery</value>
+    <value column="Name" isTrl="N" original="Material Delivery">Отпуск запасов</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="324" trl="N">
@@ -1269,7 +1269,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="328" trl="N">
-    <value column="Name" isTrl="Y" original="Material Movement">Перемещение материалов</value>
+    <value column="Name" isTrl="Y" original="Material Movement">Перемещение запасов</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="329" trl="N">
@@ -1909,7 +1909,7 @@
     <value column="Description" isTrl="N" original="Other Applications (not synchronized)">Other Applications (not synchronized)</value>
   </row>
   <row id="491" trl="N">
-    <value column="Name" isTrl="N" original="Material Production">Material Production</value>
+    <value column="Name" isTrl="N" original="Material Production">Производство запасов</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="492" trl="N">
@@ -1953,7 +1953,7 @@
     <value column="Description" isTrl="N" original="Allows to edit a single record, but not to create new ones or remove existen ones.">Allows to edit a single record, but not to create new ones or remove existen ones.</value>
   </row>
   <row id="4AA4E68B2BF3474AA868821DE9FBBA28" trl="N">
-    <value column="Name" isTrl="N" original="AR Invoice">AR Invoice</value>
+    <value column="Name" isTrl="N" original="AR Invoice">Расходная СФ</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="4B320699808A4088930E96843DCBAF6D" trl="N">
@@ -2125,7 +2125,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="5289DAE7C319465D95714A7A1A78B486" trl="N">
-    <value column="Name" isTrl="N" original="Material Delivery">Material Delivery</value>
+    <value column="Name" isTrl="N" original="Material Delivery">Отпуск запасов</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="529" trl="N">
@@ -3493,7 +3493,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="81A2313EDAE84E3B8CF6755D13370623" trl="N">
-    <value column="Name" isTrl="N" original="Material Movement">Material Movement</value>
+    <value column="Name" isTrl="N" original="Material Movement">Перемещение запасов</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="82D461976C0B4932B34E040CCD0235B1" trl="N">
@@ -3693,7 +3693,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="965469FBDD2041769A1C14C628B54372" trl="N">
-    <value column="Name" isTrl="N" original="Installed">Installed</value>
+    <value column="Name" isTrl="N" original="Installed">Установлено</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="96798C4DE1B841A6BCB5AFE9E04F54B6" trl="N">
@@ -3701,7 +3701,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="9795F69ED06443D4B46F2A6A8BF52367" trl="N">
-    <value column="Name" isTrl="N" original="Material Production">Material Production</value>
+    <value column="Name" isTrl="N" original="Material Production">Производство запасов</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="97EC3E3B24E7497C8A4E2632960DB5CC" trl="N">
@@ -3965,7 +3965,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="BE65EDA443FB4E5488885A00D64F8D7C" trl="N">
-    <value column="Name" isTrl="N" original="Under Evaluation">Under Evaluation</value>
+    <value column="Name" isTrl="Y" original="Under Evaluation">Проводится оценка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="BF39756CD69E433F929496469D6B3714" trl="N">

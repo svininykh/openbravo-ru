@@ -1449,10 +1449,10 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="A3FE1F9892394386A49FB707AA50A0FA" trl="N">
+  <row id="A3FE1F9892394386A49FB707AA50A0FA" trl="Y">
     <value column="Name" isTrl="Y" original="Create Order">Создать ордер</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity. If the firm quote check box is not selected and the price list is modified after the quotation then the new prices will be reflected in the sales order or invoice">A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity. If the firm quote check box is not selected and the price list is modified after the quotation then the new prices will be reflected in the sales order or invoice</value>
+    <value column="Help" isTrl="Y" original="A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity. If the firm quote check box is not selected and the price list is modified after the quotation then the new prices will be reflected in the sales order or invoice">Квота для клиента устанавливает обязательство перед покупателем по реализации установленного количества товара по заявленой цене. Если не установлена квота клиента, то в случае изменения прейскуранта после регистрации заказа клиента товары в ордере или расходной счёт-фактуре будут отражены уже по новой цене.</value>
   </row>
   <row id="ABDFC8131D964936AD2EF7E0CED97FD9" trl="N">
     <value column="Name" isTrl="N" original="Update Actuals">Update Actuals</value>

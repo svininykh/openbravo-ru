@@ -50,9 +50,9 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="03A29E24DCBB40E3B24F54F45762E2B5" trl="N">
-    <value column="Name" isTrl="N" original="Firm Quote">Firm Quote</value>
-    <value column="PrintName" isTrl="N" original="Firm Quote">Firm Quote</value>
+  <row id="03A29E24DCBB40E3B24F54F45762E2B5" trl="Y">
+    <value column="Name" isTrl="Y" original="Firm Quote">Квота для клиента</value>
+    <value column="PrintName" isTrl="Y" original="Firm Quote">Квота для клиента</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8074,8 +8074,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="366" trl="N">
-    <value column="Name" isTrl="N" original="Deletable Records">Deletable Records</value>
-    <value column="PrintName" isTrl="N" original="Records deleteable">Records deleteable</value>
+    <value column="Name" isTrl="Y" original="Deletable Records">Удалённые записи</value>
+    <value column="PrintName" isTrl="Y" original="Records deleteable">Удалённые записи</value>
     <value column="Description" isTrl="N" original="Indicates if records can be deleted from the database">Indicates if records can be deleted from the database</value>
     <value column="Help" isTrl="N" original="The Deleteable Records checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag">The Deleteable Records checkbox indicates if a record can be deleted from the database.  If records cannot be deleted, you can only deselect the Active flag</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8104,8 +8104,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="369" trl="N">
-    <value column="Name" isTrl="N" original="Document Controlled">Document Controlled</value>
-    <value column="PrintName" isTrl="N" original="Doc Controlled">Doc Controlled</value>
+    <value column="Name" isTrl="Y" original="Document Controlled">Контроль документов</value>
+    <value column="PrintName" isTrl="Y" original="Doc Controlled">Контроль документов</value>
     <value column="Description" isTrl="N" original="Control account - If an account is controlled by a document, you cannot post manually to it">Control account - If an account is controlled by a document, you cannot post manually to it</value>
     <value column="Help" isTrl="N" original="Control account - If an account is controlled by a document, you cannot post manually to it">Control account - If an account is controlled by a document, you cannot post manually to it</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8114,8 +8114,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="370" trl="N">
-    <value column="Name" isTrl="N" original="Sequenced Document">Sequenced Document</value>
-    <value column="PrintName" isTrl="N" original="Doc Number Controlled">Doc Number Controlled</value>
+    <value column="Name" isTrl="Y" original="Sequenced Document">Контроль нумерации</value>
+    <value column="PrintName" isTrl="Y" original="Doc Number Controlled">Последовательный документ</value>
     <value column="Description" isTrl="N" original="The document has a document sequence">The document has a document sequence</value>
     <value column="Help" isTrl="N" original="The Document Number Controlled checkbox indicates if this document type will have a sequence number.">The Document Number Controlled checkbox indicates if this document type will have a sequence number.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8284,8 +8284,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="PO_PrintName" isTrl="N" original="Primary Tree Campaign">Primary Tree Campaign</value>
   </row>
   <row id="3A29545A247A41CBB6ED3B5AA0CBF7CC" trl="N">
-    <value column="Name" isTrl="N" original="Show Company Data">Show Company Data</value>
-    <value column="PrintName" isTrl="N" original="Show Company Data">Show Company Data</value>
+    <value column="Name" isTrl="Y" original="Show Company Data">Содержит сведенья о компании</value>
+    <value column="PrintName" isTrl="Y" original="Show Company Data">Содержит сведенья о компании</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8294,8 +8294,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="3AB8D15AD3E644B7A02B568936DCFE81" trl="N">
-    <value column="Name" isTrl="N" original="Width">Width</value>
-    <value column="PrintName" isTrl="N" original="Width">Width</value>
+    <value column="Name" isTrl="Y" original="Width">Ширина</value>
+    <value column="PrintName" isTrl="Y" original="Width">Ширина</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -8314,8 +8314,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="3B584D993CCF41B698DBE642AFC21AE4" trl="N">
-    <value column="Name" isTrl="N" original="Your Company Big Image">Your Company Big Image</value>
-    <value column="PrintName" isTrl="N" original="Your Company Big Image">Your Company Big Image</value>
+    <value column="Name" isTrl="Y" original="Your Company Big Image">Большой логотип компании</value>
+    <value column="PrintName" isTrl="Y" original="Your Company Big Image">Большой логотип компании</value>
     <value column="Description" isTrl="N" original="The big image that is displayed when no Openbravo window is shown">The big image that is displayed when no Openbravo window is shown</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14740,7 +14740,7 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800166" trl="N">
-    <value column="Name" isTrl="N" original="Document Cancelled">Document Cancelled</value>
+    <value column="Name" isTrl="Y" original="Document Cancelled">Документ отмены</value>
     <value column="PrintName" isTrl="N" original="C_Doctype_Reversed_ID">C_Doctype_Reversed_ID</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
@@ -14750,8 +14750,8 @@ Order closed: All the products agreed have been delivered.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800167" trl="N">
-    <value column="Name" isTrl="N" original="Product Customer">Product Customer</value>
-    <value column="PrintName" isTrl="N" original="Product Customer">Product Customer</value>
+    <value column="Name" isTrl="Y" original="Product Customer">Товар клиента</value>
+    <value column="PrintName" isTrl="Y" original="Product Customer">Товар клиента</value>
     <value column="Description" isTrl="N" original="Product assignation to customer">Product assignation to customer</value>
     <value column="Help" isTrl="N" original="Product assignation to customer">Product assignation to customer</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16830,8 +16830,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800569" trl="N">
-    <value column="Name" isTrl="N" original="Day of the Month">Day of the Month</value>
-    <value column="PrintName" isTrl="N" original="Month day">Month day</value>
+    <value column="Name" isTrl="Y" original="Day of the Month">День месяца</value>
+    <value column="PrintName" isTrl="Y" original="Month day">День месяца</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Day of the month">Day of the month</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16880,8 +16880,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800574" trl="N">
-    <value column="Name" isTrl="N" original="Time Used">Time Used</value>
-    <value column="PrintName" isTrl="N" original="Used Time">Used Time</value>
+    <value column="Name" isTrl="Y" original="Time Used">Затрачено времени</value>
+    <value column="PrintName" isTrl="Y" original="Used Time">Затрачено времени</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Used time in hours.">Used time in hours.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16930,8 +16930,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800582" trl="N">
-    <value column="Name" isTrl="N" original="Min. Amount">Min. Amount</value>
-    <value column="PrintName" isTrl="N" original="Amnt From">Amnt From</value>
+    <value column="Name" isTrl="Y" original="Min. Amount">Cумма от</value>
+    <value column="PrintName" isTrl="Y" original="Amnt From">Мин. сумма</value>
     <value column="Description" isTrl="N" original="Amount from">Amount from</value>
     <value column="Help" isTrl="N" original="The minumun amount the discount is applied to.">The minumun amount the discount is applied to.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16940,8 +16940,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800583" trl="N">
-    <value column="Name" isTrl="N" original="Max. Amount">Max. Amount</value>
-    <value column="PrintName" isTrl="N" original="Amnt To">Amnt To</value>
+    <value column="Name" isTrl="Y" original="Max. Amount">Сумма до</value>
+    <value column="PrintName" isTrl="Y" original="Amnt To">Макс. сумма</value>
     <value column="Description" isTrl="N" original="Amount to">Amount to</value>
     <value column="Help" isTrl="N" original="The maximum amount the discount is applied to.">The maximum amount the discount is applied to.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16970,8 +16970,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800587" trl="N">
-    <value column="Name" isTrl="N" original="Exclude Weekends">Exclude Weekends</value>
-    <value column="PrintName" isTrl="N" original="Exclude weekend">Exclude weekend</value>
+    <value column="Name" isTrl="Y" original="Exclude Weekends">Исключая выходные</value>
+    <value column="PrintName" isTrl="Y" original="Exclude weekend">Исключая выходные</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Exclude weekends from the calculation results.">Exclude weekends from the calculation results.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16980,8 +16980,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800588" trl="N">
-    <value column="Name" isTrl="N" original="Included Product">Included Product</value>
-    <value column="PrintName" isTrl="N" original="Include Product">Include Product</value>
+    <value column="Name" isTrl="Y" original="Included Product">Включая товары</value>
+    <value column="PrintName" isTrl="Y" original="Include Product">Включая товары</value>
     <value column="Description" isTrl="N" original="Include product">Include product</value>
     <value column="Help" isTrl="N" original="If it is checked the selected products will be included else they will be excluded.">If it is checked the selected products will be included else they will be excluded.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -16990,8 +16990,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800589" trl="N">
-    <value column="Name" isTrl="N" original="Included Product Categories">Included Product Categories</value>
-    <value column="PrintName" isTrl="N" original="Include Product Category">Include Product Category</value>
+    <value column="Name" isTrl="Y" original="Included Product Categories">Включая категории товара</value>
+    <value column="PrintName" isTrl="Y" original="Include Product Category">Включая категории товара</value>
     <value column="Description" isTrl="N" original="Include Product Category">Include Product Category</value>
     <value column="Help" isTrl="N" original="If it is checked the selected categories will be included else they will be excluded.">If it is checked the selected categories will be included else they will be excluded.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21301,18 +21301,18 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B04AF439C0EDCC90E040007F010032CD" trl="N">
-    <value column="Name" isTrl="N" original="Shipment Number">Shipment Number</value>
-    <value column="PrintName" isTrl="N" original="Shipment Number">Shipment Number</value>
+    <value column="Name" isTrl="Y" original="Shipment Number">Отгрузка №</value>
+    <value column="PrintName" isTrl="Y" original="Shipment Number">Отгрузка №</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original="Receipt Number">Receipt Number</value>
-    <value column="PO_PrintName" isTrl="N" original="Receipt Number">Receipt Number</value>
+    <value column="PO_Name" isTrl="Y" original="Receipt Number">Поступление №</value>
+    <value column="PO_PrintName" isTrl="Y" original="Receipt Number">Поступление №</value>
   </row>
   <row id="B0D33D085F2A6776E040007F010036C0" trl="N">
-    <value column="Name" isTrl="N" original="Return">Return</value>
-    <value column="PrintName" isTrl="N" original="Return">Return</value>
+    <value column="Name" isTrl="Y" original="Return">Возврат</value>
+    <value column="PrintName" isTrl="Y" original="Return">Возврат</value>
     <value column="Description" isTrl="N" original="Identifies a Return document">Identifies a Return document</value>
     <value column="Help" isTrl="N" original="Return checkbox indicates if the document is of reversal type. Documents with this flag enables implies to use negative quantities.">Return checkbox indicates if the document is of reversal type. Documents with this flag enables implies to use negative quantities.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21321,8 +21321,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B0D45E247BEBF1A8E040007F0100514B" trl="N">
-    <value column="Name" isTrl="N" original="Pending">Pending</value>
-    <value column="PrintName" isTrl="N" original="Pending">Pending</value>
+    <value column="Name" isTrl="N" original="Pending">Ожидать</value>
+    <value column="PrintName" isTrl="N" original="Pending">Ожидать</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21331,8 +21331,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B0D45E247BECF1A8E040007F0100514B" trl="N">
-    <value column="Name" isTrl="N" original="Receiving">Receiving</value>
-    <value column="PrintName" isTrl="N" original="Receiving">Receiving</value>
+    <value column="Name" isTrl="Y" original="Receiving">Принимать</value>
+    <value column="PrintName" isTrl="Y" original="Receiving">Принимать</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21922,8 +21922,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BEADA4ABFE544524B69FEC20E82F2D95" trl="N">
-    <value column="Name" isTrl="N" original="System Status">System Status</value>
-    <value column="PrintName" isTrl="N" original="System Status">System Status</value>
+    <value column="Name" isTrl="Y" original="System Status">Состояние системы</value>
+    <value column="PrintName" isTrl="Y" original="System Status">Состояние системы</value>
     <value column="Description" isTrl="N" original="Current system status.">Current system status.</value>
     <value column="Help" isTrl="N" original="System Status changes on different build, deploy and servlet container events.">System Status changes on different build, deploy and servlet container events.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21932,8 +21932,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="BFA91469430F42078C630B261DF37ECC" trl="N">
-    <value column="Name" isTrl="N" original="Header Margin">Header Margin</value>
-    <value column="PrintName" isTrl="N" original="Header Margin">Header Margin</value>
+    <value column="Name" isTrl="Y" original="Header Margin">Отступ заголовка</value>
+    <value column="PrintName" isTrl="Y" original="Header Margin">Отступ заголовка</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -23075,8 +23075,8 @@ This field is populated in case the used price list includes taxes.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="F668C2865A2F462BBFE89754F2B06274" trl="N">
-    <value column="Name" isTrl="N" original="Show Logo">Show Logo</value>
-    <value column="PrintName" isTrl="N" original="Show Logo">Show Logo</value>
+    <value column="Name" isTrl="Y" original="Show Logo">Содержит логотип</value>
+    <value column="PrintName" isTrl="Y" original="Show Logo">Содержит логотип</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

@@ -1780,11 +1780,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="187" trl="N">
-    <value column="MsgText" isTrl="N" original="Copied">Copied</value>
+    <value column="MsgText" isTrl="Y" original="Copied">Скопировано</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="188" trl="N">
-    <value column="MsgText" isTrl="N" original="Copy Record">Copy Record</value>
+    <value column="MsgText" isTrl="Y" original="Copy Record">Копировать запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="189" trl="N">
@@ -1792,7 +1792,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="190" trl="N">
-    <value column="MsgText" isTrl="N" original="Could not copy:">Could not copy:</value>
+    <value column="MsgText" isTrl="Y" original="Could not copy:">Невозможно скопировать:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="191" trl="N">
@@ -1800,11 +1800,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="192" trl="N">
-    <value column="MsgText" isTrl="N" original="Create">Create</value>
+    <value column="MsgText" isTrl="Y" original="Create">Создать</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="193" trl="N">
-    <value column="MsgText" isTrl="N" original="Create New Record">Create New Record</value>
+    <value column="MsgText" isTrl="Y" original="Create New Record">Создать новую запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="194" trl="N">
