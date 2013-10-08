@@ -9778,8 +9778,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEDA52DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Product Translation">Product Translation</value>
-    <value column="PrintName" isTrl="N" original="Product Translation">Product Translation</value>
+    <value column="Name" isTrl="Y" original="Product Translation">Перевод для товара</value>
+    <value column="PrintName" isTrl="Y" original="Product Translation">Перевод для товара</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9798,8 +9798,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEDD52DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Tax Category Translation">Tax Category Translation</value>
-    <value column="PrintName" isTrl="N" original="Tax Category Translation">Tax Category Translation</value>
+    <value column="Name" isTrl="N" original="Tax Category Translation">Перевод для категории налога</value>
+    <value column="PrintName" isTrl="N" original="Tax Category Translation">Перевод для категории налога</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9818,8 +9818,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEDF52DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Document Type Translation">Document Type Translation</value>
-    <value column="PrintName" isTrl="N" original="Document Type Translation">Document Type Translation</value>
+    <value column="Name" isTrl="Y" original="Document Type Translation">Перевод для типа документа</value>
+    <value column="PrintName" isTrl="Y" original="Document Type Translation">Перевод для типа документа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9828,8 +9828,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEE052DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Tab Translation">Tab Translation</value>
-    <value column="PrintName" isTrl="N" original="Tab Translation">Tab Translation</value>
+    <value column="Name" isTrl="Y" original="Tab Translation">Перевод для вкладки</value>
+    <value column="PrintName" isTrl="Y" original="Tab Translation">Перевод для вкладки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9848,8 +9848,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEE252DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Menu Translation">Menu Translation</value>
-    <value column="PrintName" isTrl="N" original="Menu Translation">Menu Translation</value>
+    <value column="Name" isTrl="Y" original="Menu Translation">Перевод для меню</value>
+    <value column="PrintName" isTrl="Y" original="Menu Translation">Перевод для меню</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9858,8 +9858,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEE352DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="UOM Translation">UOM Translation</value>
-    <value column="PrintName" isTrl="N" original="UOM Translation">UOM Translation</value>
+    <value column="Name" isTrl="Y" original="UOM Translation">Перевод для ед. изм.</value>
+    <value column="PrintName" isTrl="Y" original="UOM Translation">Перевод для ед. изм.</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9868,8 +9868,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEE452DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Window Translation">Window Translation</value>
-    <value column="PrintName" isTrl="N" original="Window Translation">Window Translation</value>
+    <value column="Name" isTrl="Y" original="Window Translation">Перевод для окна</value>
+    <value column="PrintName" isTrl="Y" original="Window Translation">Перевод для окна</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9878,8 +9878,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEE552DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="User Role">User Role</value>
-    <value column="PrintName" isTrl="N" original="User Role">User Role</value>
+    <value column="Name" isTrl="N" original="User Role">Роль пользователя</value>
+    <value column="PrintName" isTrl="N" original="User Role">Роль пользователя</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9888,8 +9888,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEE852DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Field Translation">Field Translation</value>
-    <value column="PrintName" isTrl="N" original="Field Translation">Field Translation</value>
+    <value column="Name" isTrl="Y" original="Field Translation">Перевод для поля</value>
+    <value column="PrintName" isTrl="Y" original="Field Translation">Перевод для поля</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9898,8 +9898,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEEB52DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="GL Item Accounting">GL Item Accounting</value>
-    <value column="PrintName" isTrl="N" original="GL Item Accounting">GL Item Accounting</value>
+    <value column="Name" isTrl="N" original="GL Item Accounting">Бухгалтерская проводка по ГК</value>
+    <value column="PrintName" isTrl="N" original="GL Item Accounting">Бухгалтерская проводка по ГК</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9908,8 +9908,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEEC52DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Message Translation">Message Translation</value>
-    <value column="PrintName" isTrl="N" original="Message Translation">Message Translation</value>
+    <value column="Name" isTrl="Y" original="Message Translation">Перевод для сообщения</value>
+    <value column="PrintName" isTrl="Y" original="Message Translation">Перевод для сообщения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9938,8 +9938,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEF152DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Tax Translation">Tax Translation</value>
-    <value column="PrintName" isTrl="N" original="Tax Translation">Tax Translation</value>
+    <value column="Name" isTrl="Y" original="Tax Translation">Перевод для налога</value>
+    <value column="PrintName" isTrl="Y" original="Tax Translation">Перевод для налога</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9948,8 +9948,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEF252DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="AD_TextInterfaces_Trl_ID">AD_TextInterfaces_Trl_ID</value>
-    <value column="PrintName" isTrl="N" original="AD_TextInterfaces_Trl_ID">AD_TextInterfaces_Trl_ID</value>
+    <value column="Name" isTrl="Y" original="AD_TextInterfaces_Trl_ID">Перевод для текста интерфейса</value>
+    <value column="PrintName" isTrl="Y" original="AD_TextInterfaces_Trl_ID">Перевод для текста интерфейса</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9958,8 +9958,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEF352DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="C_Greeting_Trl_ID">C_Greeting_Trl_ID</value>
-    <value column="PrintName" isTrl="N" original="C_Greeting_Trl_ID">C_Greeting_Trl_ID</value>
+    <value column="Name" isTrl="Y" original="C_Greeting_Trl_ID">Перевод для приветствия</value>
+    <value column="PrintName" isTrl="Y" original="C_Greeting_Trl_ID">Перевод для приветствия</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9968,8 +9968,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEF452DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Field Group Translation">Field Group Translation</value>
-    <value column="PrintName" isTrl="N" original="Field Group Translation">Field Group Translation</value>
+    <value column="Name" isTrl="Y" original="Field Group Translation">Перевод для группы полей</value>
+    <value column="PrintName" isTrl="Y" original="Field Group Translation">Перевод для группы полей</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9978,8 +9978,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEF552DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Currency Translation">Currency Translation</value>
-    <value column="PrintName" isTrl="N" original="Currency Translation">Currency Translation</value>
+    <value column="Name" isTrl="Y" original="Currency Translation">Перевод для валюты</value>
+    <value column="PrintName" isTrl="Y" original="Currency Translation">Перевод для валюты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -10008,8 +10008,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEF952DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Element Value Translation">Element Value Translation</value>
-    <value column="PrintName" isTrl="N" original="Element Value Translation">Element Value Translation</value>
+    <value column="Name" isTrl="Y" original="Element Value Translation">Перевод для значения элемента</value>
+    <value column="PrintName" isTrl="Y" original="Element Value Translation">Перевод для значения элемента</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19824,8 +19824,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8A19431CC0E020DBE040007F01013CCA" trl="N">
-    <value column="Name" isTrl="N" original="Maturity Status for Update">Maturity Status for Update</value>
-    <value column="PrintName" isTrl="N" original="Maturity Status for Update">Maturity Status for Update</value>
+    <value column="Name" isTrl="Y" original="Maturity Status for Update">Статус готовности обновления</value>
+    <value column="PrintName" isTrl="Y" original="Maturity Status for Update">Статус готовности обновления</value>
     <value column="Description" isTrl="N" original="Minimum Maturity Status of modules for update">Minimum Maturity Status of modules for update</value>
     <value column="Help" isTrl="N" original="Defines the minimum accepted maturity status of modules when they are scanned for update.">Defines the minimum accepted maturity status of modules when they are scanned for update.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19834,8 +19834,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8A19431CC0E120DBE040007F01013CCA" trl="N">
-    <value column="Name" isTrl="N" original="Maturity Status for Search">Maturity Status for Search</value>
-    <value column="PrintName" isTrl="N" original="Maturity Status for Search">Maturity Status for Search</value>
+    <value column="Name" isTrl="Y" original="Maturity Status for Search">Статус готовности для поиска</value>
+    <value column="PrintName" isTrl="Y" original="Maturity Status for Search">Статус готовности для поиска</value>
     <value column="Description" isTrl="N" original="Minimum Maturity Status of modules for search">Minimum Maturity Status of modules for search</value>
     <value column="Help" isTrl="N" original="Defines the minimum accepted maturity status of modules when they are searched for installation.">Defines the minimum accepted maturity status of modules when they are searched for installation.</value>
     <value column="PO_Description" isTrl="N" original=""/>
