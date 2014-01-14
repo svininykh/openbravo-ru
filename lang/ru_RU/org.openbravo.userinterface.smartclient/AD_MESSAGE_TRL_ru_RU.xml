@@ -145,7 +145,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="75AD1BEDFB5742329794D1CF5FA2BEA5" trl="N">
-    <value column="MsgText" isTrl="N" original="Upcoming next Month">Upcoming next Month</value>
+    <value column="MsgText" isTrl="N" original="Upcoming next Month">Следующий месяц</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="77ECA856B3E446AA8C72F980E613187A" trl="N">
@@ -161,7 +161,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="810E2C3850AF44FC8A14D1C907BFC2A8" trl="N">
-    <value column="MsgText" isTrl="N" original="Group by ${viewer.getSummaryTitle(field)}">Group by ${viewer.getSummaryTitle(field)}</value>
+    <value column="MsgText" isTrl="N" original="Group by ${viewer.getSummaryTitle(field)}">Группировать ${viewer.getSummaryTitle(field)}</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="810EF7D2E0B144AFB800BD7238C53DB2" trl="N">
@@ -177,7 +177,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9627AEA9DE6E4197B5DF00E5591E0B8E" trl="N">
-    <value column="MsgText" isTrl="N" original="This action will discard all unsaved edited values for this list.">This action will discard all unsaved edited values for this list.</value>
+    <value column="MsgText" isTrl="N" original="This action will discard all unsaved edited values for this list.">Действие не сохранит все отредактированные значения для этого списка.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="97A7B1C1B6B24862B2F52C47959E29CE" trl="N">
@@ -281,7 +281,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F110B5081A7D4544A1FD6A5928EA7D50" trl="N">
-    <value column="MsgText" isTrl="N" original="Upcoming this Week">Upcoming this Week</value>
+    <value column="MsgText" isTrl="N" original="Upcoming this Week">Предстоящая неделя</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F2F34B0344E549369217D26D33DE3075" trl="N">
@@ -305,31 +305,31 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808130D566F90130D57A27990003" trl="N">
-    <value column="MsgText" isTrl="N" original="Add Formula Field...">Add Formula Field...</value>
+    <value column="MsgText" isTrl="N" original="Add Formula Field...">Добавить поле формулы...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808130D566F90130D57BA5C30008" trl="N">
-    <value column="MsgText" isTrl="N" original="Edit Formula Field...">Edit Formula Field...</value>
+    <value column="MsgText" isTrl="N" original="Edit Formula Field...">Изменить поле формулы...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808130D566F90130D57BE552000D" trl="N">
-    <value column="MsgText" isTrl="N" original="Add Summary Field...">Add Summary Field...</value>
+    <value column="MsgText" isTrl="N" original="Add Summary Field...">Добавить итоговое поле...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808130D566F90130D57C35910012" trl="N">
-    <value column="MsgText" isTrl="N" original="Edit Summary Field...">Edit Summary Field...</value>
+    <value column="MsgText" isTrl="N" original="Edit Summary Field...">Изменить итоговое поле...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808130E0E1230130E10F1BDA0009" trl="N">
-    <value column="MsgText" isTrl="N" original="Remove Formula Field...">Remove Formula Field...</value>
+    <value column="MsgText" isTrl="N" original="Remove Formula Field...">Удалить поле формулы...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808130E0E1230130E10F67C5000F" trl="N">
-    <value column="MsgText" isTrl="N" original="Remove Summary Field...">Remove Summary Field...</value>
+    <value column="MsgText" isTrl="N" original="Remove Summary Field...">Удалить итоговое поле...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E05A8A6012E05AB19C80006" trl="N">
-    <value column="MsgText" isTrl="N" original="The entered value is not present in the list of values. Select a correct value from the drop-down list.">The entered value is not present in the list of values. Select a correct value from the drop-down list.</value>
+    <value column="MsgText" isTrl="N" original="The entered value is not present in the list of values. Select a correct value from the drop-down list.">Введенное значение не присутствует в списке значений. Выберите правильное значение из выпадающего списка.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
 </compiereTrl>

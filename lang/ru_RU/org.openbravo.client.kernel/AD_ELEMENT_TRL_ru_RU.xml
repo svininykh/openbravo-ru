@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="">
   <row id="1663D48FCF45475FB6AF23DE940BF7B4" trl="N">
-    <value column="Name" isTrl="N" original="Template">Template</value>
-    <value column="PrintName" isTrl="N" original="Template">Template</value>
+    <value column="Name" isTrl="N" original="Template">Шаблон</value>
+    <value column="PrintName" isTrl="N" original="Template">Шаблон</value>
     <value column="Description" isTrl="N" original="The template source code.">The template source code.</value>
     <value column="Help" isTrl="N" original="The source code of the template. This code gets executed when the template is processed. The language of the source code (freemarker or another) is defined by the template language field. Note that instead of this field it is also possible to use the template class path location field to point to a file containing the source cod">The source code of the template. This code gets executed when the template is processed. The language of the source code (freemarker or another) is defined by the template language field. Note that instead of this field it is also possible to use the template class path location field to point to a file containing the source cod</value>
     <value column="PO_Description" isTrl="N" original=""/>

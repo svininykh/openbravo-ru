@@ -310,7 +310,7 @@
     <value column="Help" isTrl="N" original="Invoice Summary">Invoice Summary</value>
   </row>
   <row id="154" trl="N">
-    <value column="Name" isTrl="Y" original="Generate Invoice from Receipt">СФ по накладной</value>
+    <value column="Name" isTrl="Y" original="Generate Invoice from Receipt">Счёт-фактура по накладной</value>
     <value column="Description" isTrl="N" original="Create and process Invoice from this receipt. The receipt should be correct and completed.">Create and process Invoice from this receipt. The receipt should be correct and completed.</value>
     <value column="Help" isTrl="Y" original="Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. If the receipt line is related to an existing order line, then the price of the invoice line is taken from that order line. In other case, it uses the retrieved price from the price list selected in the below drop-down list.">Генерация счёт-фактуры по накладной основывается на данных текущей накладной. Если строки накладной связаны с строками ордера, тогда цена в счёт-фактуре берётся из строки ордера. Иначе, цена берётся по прейскуранту заданному из выпадающего ниже списка.</value>
   </row>
@@ -1054,9 +1054,9 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="With this process are planed all the gatherings of the periodic control selected.">With this process are planed all the gatherings of the periodic control selected.</value>
   </row>
   <row id="800123" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Items Report">Отчет Проводки Г/К</value>
-    <value column="Description" isTrl="Y" original="G/L Items Report">Отчет Проводки Г/К</value>
-    <value column="Help" isTrl="Y" original="G/L Items Report">Отчет Проводки Г/К</value>
+    <value column="Name" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
+    <value column="Description" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
+    <value column="Help" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
   </row>
   <row id="800124" trl="N">
     <value column="Name" isTrl="N" original="Performance Scorecard">Performance Scorecard</value>
@@ -1449,10 +1449,10 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="A3FE1F9892394386A49FB707AA50A0FA" trl="Y">
+  <row id="A3FE1F9892394386A49FB707AA50A0FA" trl="N">
     <value column="Name" isTrl="Y" original="Create Order">Создать ордер</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="Y" original="A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity. If the firm quote check box is not selected and the price list is modified after the quotation then the new prices will be reflected in the sales order or invoice">Квота для клиента устанавливает обязательство перед покупателем по реализации установленного количества товара по заявленой цене. Если не установлена квота клиента, то в случае изменения прейскуранта после регистрации заказа клиента товары в ордере или расходной счёт-фактуре будут отражены уже по новой цене.</value>
+    <value column="Help" isTrl="N" original="A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity. If the firm quote check box is not selected and the price list is modified after the quotation then the new prices will be reflected in the sales order or invoice">A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity. If the firm quote check box is not selected and the price list is modified after the quotation then the new prices will be reflected in the sales order or invoice</value>
   </row>
   <row id="ABDFC8131D964936AD2EF7E0CED97FD9" trl="N">
     <value column="Name" isTrl="N" original="Update Actuals">Update Actuals</value>

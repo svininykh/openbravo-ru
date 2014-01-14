@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MENU" version="">
   <row id="125E6EAD650841F69E2601C78F558AA1" trl="N">
-    <value column="Name" isTrl="N" original="Payment Proposal">Payment Proposal</value>
+    <value column="Name" isTrl="N" original="Payment Proposal">Заявка на оплату</value>
     <value column="Description" isTrl="N" original="Generates a payment proposal for a selected payment method based on a criteria.">Generates a payment proposal for a selected payment method based on a criteria.</value>
   </row>
   <row id="57DA6BAE74334B5B81A0AD05256C1B34" trl="N">
@@ -13,7 +13,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="652E78DE779542D59B27179FE6E59C38" trl="N">
-    <value column="Name" isTrl="Y" original="Sales Invoice Payment Plan">График оплаты расходных СФ</value>
+    <value column="Name" isTrl="N" original="Sales Invoice Payment Plan">Sales Invoice Payment Plan</value>
     <value column="Description" isTrl="N" original="Displays all Invoice Payment Plans for sales transactions which are not fully paid">Displays all Invoice Payment Plans for sales transactions which are not fully paid</value>
   </row>
   <row id="65C70CA5BB3A4F67B6B456C90F907917" trl="N">
@@ -21,7 +21,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="7C26B79DD2BF4F4AADCF088653740597" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Invoice Payment Plan">График оплаты приходных СФ</value>
+    <value column="Name" isTrl="N" original="Purchase Invoice Payment Plan">Purchase Invoice Payment Plan</value>
     <value column="Description" isTrl="N" original="Displays all Invoice Payment Plans for purchase transactions which are not fully paid">Displays all Invoice Payment Plans for purchase transactions which are not fully paid</value>
   </row>
   <row id="907A7542754F42B0AD2A84FC902A82F8" trl="N">

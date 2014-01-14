@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MESSAGE" version="">
   <row id="00D0839059994323B4596EDA7D0BCF56" trl="Y">
-    <value column="MsgText" isTrl="Y" original="Invoice %s is already fully paid.">Счёт-фактура %s полностью оплачена.</value>
+    <value column="MsgText" isTrl="Y" original="Invoice %s is already fully paid.">Счёт %s полностью оплачена.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0267A646C8BD4042AE2422BCB83B4610" trl="N">
@@ -53,11 +53,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1F3D51E013B34F1087BD5416EEB0387F" trl="N">
-    <value column="MsgText" isTrl="Y" original="Amount left as credit">Сумма внесена по кредиту</value>
+    <value column="MsgText" isTrl="Y" original="Amount left as credit">Сумма погашения по кредиту</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2118F382AC3646CA8D8F2EAE6504B876" trl="N">
-    <value column="MsgText" isTrl="N" original="Reconciliation No.">Reconciliation No.</value>
+    <value column="MsgText" isTrl="N" original="Reconciliation No.">№ Сверки</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="247F96A9D1AB44C2B24CD06B4B05068B" trl="N">
@@ -85,19 +85,19 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="40AB261679C541FD92AB5970B6703811" trl="N">
-    <value column="MsgText" isTrl="N" original="Order">Order</value>
+    <value column="MsgText" isTrl="N" original="Order">Заказ</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="41AF8742DB7045F698DEDA97BAEB5553" trl="N">
-    <value column="MsgText" isTrl="N" original="Only lines with the same sign are allowed.">Only lines with the same sign are allowed.</value>
+    <value column="MsgText" isTrl="N" original="Only lines with the same sign are allowed.">Допускаются линии только с тем же знаком.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="4329807E1B00477B8A87C32A2B123DFB" trl="N">
-    <value column="MsgText" isTrl="N" original="The invoice has payments created using the old payables and receivables flow. Please delete them before completing it.">The invoice has payments created using the old payables and receivables flow. Please delete them before completing it.</value>
+    <value column="MsgText" isTrl="N" original="The invoice has payments created using the old payables and receivables flow. Please delete them before completing it.">Этот счет связан с платежами, созданные с использованием движения старой дебиторской и кредиторской задолженности. Пожалуйста, удалите их до проведения счета.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="44973749BE9E47989F1E9D4A1C52EDEF" trl="N">
-    <value column="MsgText" isTrl="N" original="The amounts on the existing payment plan are not correct, and cannot be modified. Try refreshing the invoice header, re-activating and processing again the invoice.">The amounts on the existing payment plan are not correct, and cannot be modified. Try refreshing the invoice header, re-activating and processing again the invoice.</value>
+    <value column="MsgText" isTrl="N" original="The amounts on the existing payment plan are not correct, and cannot be modified. Try refreshing the invoice header, re-activating and processing again the invoice.">Суммы в существующем графике платежей не корректны, и не могут быть изменены. Попробуйте обновить заголовок счета и проведите снова счет.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="48898A3B7F9141C0B9BFBDD9AE5FCF8F" trl="N">
@@ -109,15 +109,15 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="4EA449F1999B4B01B02840DC7AF832D9" trl="N">
-    <value column="MsgText" isTrl="N" original="This action is not allowed, write off limit exceeded">This action is not allowed, write off limit exceeded</value>
+    <value column="MsgText" isTrl="N" original="This action is not allowed, write off limit exceeded">Это действие не разрешено, запись преввышает лимит</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="53ED8846C7984389AF83AC1DE983859E" trl="N">
-    <value column="MsgText" isTrl="Y" original="Value is not a valid number">Значение недопустимое число</value>
+    <value column="MsgText" isTrl="Y" original="Value is not a valid number">Значение является не допустимым числом</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="573263F299C743FAAA82D7750DC21B06" trl="N">
-    <value column="MsgText" isTrl="Y" original="The field payment method is mandatory and cannot be left empty">Поле способ оплаты обязательное и требует заполнения.</value>
+    <value column="MsgText" isTrl="N" original="The field payment method is mandatory and cannot be left empty">Поле способ оплаты является обязательным и не может быть пустым</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="58385E335EB24A97A89B88910210FDE5" trl="N">
@@ -126,11 +126,11 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="58BED27A9BE64676A4965BC726890E09" trl="N">
-    <value column="MsgText" isTrl="N" original="It is not possible to recognize more doubtful debt than the outstanding.">It is not possible to recognize more doubtful debt than the outstanding.</value>
+    <value column="MsgText" isTrl="N" original="It is not possible to recognize more doubtful debt than the outstanding.">Не возможно признать сомнительные долги больше просроченных.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D2453C087D74A48A6CED9210BD7300F" trl="N">
-    <value column="MsgText" isTrl="N" original="The order has payments created using the old payables and receivables flow. Please delete them before completing it.">The order has payments created using the old payables and receivables flow. Please delete them before completing it.</value>
+    <value column="MsgText" isTrl="N" original="The order has payments created using the old payables and receivables flow. Please delete them before completing it.">Заказ имеет платежи, созданные с использованием движений старых дебиторской и кредиторской задолженности. Пожалуйста, удалите их до проведения документа.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D767339F1D74185A7E7825F6727B3A1" trl="N">
@@ -138,7 +138,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D7ED86F92CD4E9E85080377C7BC6EA0" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount mismatch. Sum of outstanding amounts should be the same in old and new versions of the plan. Try re-freshing the invoice header.">Amount mismatch. Sum of outstanding amounts should be the same in old and new versions of the plan. Try re-freshing the invoice header.</value>
+    <value column="MsgText" isTrl="N" original="Amount mismatch. Sum of outstanding amounts should be the same in old and new versions of the plan. Try re-freshing the invoice header.">Несоответствие сумм. Итог неуплаченных сумм должен быть равен по старому и новому графику платежей. Попробуйте обновить шапку счета.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="617854EC2BE44DEE8B59467A5E940DB1" trl="N">
@@ -154,15 +154,15 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="65A7E4455E2F41F1A3D5C71221E01DE5" trl="N">
-    <value column="MsgText" isTrl="N" original="Payment">Payment</value>
+    <value column="MsgText" isTrl="N" original="Payment">Платеж</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="677879BD3D72467AA2D646765E596E4F" trl="N">
-    <value column="MsgText" isTrl="N" original="Payment No.">Payment No.</value>
+    <value column="MsgText" isTrl="N" original="Payment No.">№ платежа</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="69DFFBA66CC1446B867FEA30A9DE15A4" trl="N">
-    <value column="MsgText" isTrl="N" original="Credit payment">Credit payment</value>
+    <value column="MsgText" isTrl="N" original="Credit payment">Оплата в кредит</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6BD1C3CCCCC74E30BCA8E9B73AC6946C" trl="N">
@@ -178,11 +178,11 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7955CBDC1CB246FBB6BE1E2C5DD36ACC" trl="N">
-    <value column="MsgText" isTrl="N" original="Due Date">Due Date</value>
+    <value column="MsgText" isTrl="N" original="Due Date">Срок оплаты</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7A71FF524AA04923A26AFA67ABE7FD26" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount refunded">Amount refunded</value>
+    <value column="MsgText" isTrl="N" original="Amount refunded">Сумма возврата</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7ADA423DD28042B181D3EB9AC5CF1DC0" trl="N">
@@ -198,7 +198,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="830AAC0CAD5541508FB9D6E209D23EA7" trl="N">
-    <value column="MsgText" isTrl="N" original="Bank Fee">Bank Fee</value>
+    <value column="MsgText" isTrl="N" original="Bank Fee">Банковская комиссия</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="8444D07DF4214ED793366B83F5BDD042" trl="N">
@@ -206,7 +206,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="89C77284A85346C6923D858E3AB3D363" trl="N">
-    <value column="MsgText" isTrl="N" original="It is not possible to process a Payment without line.">It is not possible to process a Payment without line.</value>
+    <value column="MsgText" isTrl="N" original="It is not possible to process a Payment without line.">Не возможно провести платеж без линии.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="8A4E2745545245ED81BFBC5324648833" trl="N">
@@ -286,7 +286,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B3D6AF0669DD4DF5BDF48A4D55F84C3C" trl="N">
-    <value column="MsgText" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="MsgText" isTrl="N" original="Business Partner">Контрагент</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B47593972EA345E7B90F79C78908309A" trl="N">
@@ -302,7 +302,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B9F31E06A19240DE87666454DB8A16E1" trl="N">
-    <value column="MsgText" isTrl="N" original="Payments without a business partner cannot generate/use credit">Payments without a business partner cannot generate/use credit</value>
+    <value column="MsgText" isTrl="N" original="Payments without a business partner cannot generate/use credit">Платежи без указания контрагента не могут создать/использовать кредит</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BBB2F06979BA4A84BC67B134F9155862" trl="N">
@@ -326,7 +326,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CAB70EC8598D40E0BFFD7F0FB8538080" trl="N">
-    <value column="MsgText" isTrl="N" original="Check the lines with Line No.:">Check the lines with Line No.:</value>
+    <value column="MsgText" isTrl="N" original="Check the lines with Line No.:">Проверьте строки в № строки:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CCA38D3048F04C1FA6F05AD56CF81B5D" trl="N">
@@ -342,23 +342,23 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D374CA8D2FF541E5BF1149FCFDAEED86" trl="N">
-    <value column="MsgText" isTrl="N" original="The order has related payments.">The order has related payments.</value>
+    <value column="MsgText" isTrl="N" original="The order has related payments.">По заказу есть платежи.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D43307A25D72423CBDEC95CEB3291AF1" trl="N">
-    <value column="MsgText" isTrl="N" original="Not all the available amount has been allocated.">Not all the available amount has been allocated.</value>
+    <value column="MsgText" isTrl="N" original="Not all the available amount has been allocated.">Доступная сумма распределилась не полностью.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DB89900B5F2848128B2BC885FD0E49AD" trl="N">
-    <value column="MsgText" isTrl="N" original="The invoice has an scheduled payment included in an unprocessed proposal.">The invoice has an scheduled payment included in an unprocessed proposal.</value>
+    <value column="MsgText" isTrl="N" original="The invoice has an scheduled payment included in an unprocessed proposal.">В Счете указан график оплаты включенный в не проведенную заявку.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DF6BD33E986149C0ADE4D0CC45D7394C" trl="N">
-    <value column="MsgText" isTrl="N" original="Not possible to add a payment without lines.">Not possible to add a payment without lines.</value>
+    <value column="MsgText" isTrl="N" original="Not possible to add a payment without lines.">Не возможно добавить платеж без линий.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E217A4F4BDE84DC6A95ACB3F54549FDD" trl="N">
-    <value column="MsgText" isTrl="N" original="Another process is executing this payment">Another process is executing this payment</value>
+    <value column="MsgText" isTrl="N" original="Another process is executing this payment">Другой процесс выполняет этот платеж</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E92C3899BD924A5C991A39B2CDA74D29" trl="N">
@@ -366,35 +366,35 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EDEA16A966B94F63A7C1E339FC095B08" trl="N">
-    <value column="MsgText" isTrl="N" original="Payment plan cannot be modified as invoice is already paid (at least partially) even if the payment was afterwards voided.">Payment plan cannot be modified as invoice is already paid (at least partially) even if the payment was afterwards voided.</value>
+    <value column="MsgText" isTrl="N" original="Payment plan cannot be modified as invoice is already paid (at least partially) even if the payment was afterwards voided.">График  оплаты не может быть изменен, так как по счету уже заплатили (хотя бы частично), даже если платеж будет впоследствии аннулирован.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EF56DCF572A94E6CAFE4F13948268050" trl="N">
-    <value column="MsgText" isTrl="N" original="Bank statement line and transaction amount does not match. Do you want to perform a partial match?">Bank statement line and transaction amount does not match. Do you want to perform a partial match?</value>
+    <value column="MsgText" isTrl="N" original="Bank statement line and transaction amount does not match. Do you want to perform a partial match?">Сумма расчетного счета по строке и сумма сделки не соответствуют. Вы хотите совершить частичное сопоставление сумм?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EFA31753A0BB4C4AB3E6BC741FEE811E" trl="N">
-    <value column="MsgText" isTrl="N" original="Invoice">Invoice</value>
+    <value column="MsgText" isTrl="N" original="Invoice">Счет</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EFA91F88357E42B4826349C32C9E0383" trl="N">
-    <value column="MsgText" isTrl="N" original="Payment can not be reactivated as it has been reversed. Please undo reversal prior to reactivate this payment.">Payment can not be reactivated as it has been reversed. Please undo reversal prior to reactivate this payment.</value>
+    <value column="MsgText" isTrl="N" original="Payment can not be reactivated as it has been reversed. Please undo reversal prior to reactivate this payment.">Платеж не может быть возобновлен, поскольку был аннулирован. Пожалуйста предварительно отмените аннулирование до возобновления этого платежа.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F0BBB5C1155F46378B6FF74A8F561046" trl="N">
-    <value column="MsgText" isTrl="N" original="Receiving Payments in other currencies is not allowed for the Payment Mehod">Receiving Payments in other currencies is not allowed for the Payment Mehod</value>
+    <value column="MsgText" isTrl="N" original="Receiving Payments in other currencies is not allowed for the Payment Mehod">Получение оплаты в других валютах не допускается для данного способа ооплаты</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F302E4040E1B45318BA270BDFA37179C" trl="N">
-    <value column="MsgText" isTrl="N" original="You must set only one amount different to zero.">You must set only one amount different to zero.</value>
+    <value column="MsgText" isTrl="N" original="You must set only one amount different to zero.">Введите сумму отличную от нуля.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F381A9CA5B51447286C117C68394C6BA" trl="N">
-    <value column="MsgText" isTrl="N" original="No currency in business partner's price list">No currency in business partner's price list</value>
+    <value column="MsgText" isTrl="N" original="No currency in business partner's price list">Не указана валюта в прайс-листе контрагента</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F579E42461DC472AA4F21B14DD3D680B" trl="N">
-    <value column="MsgText" isTrl="N" original="GL Item">GL Item</value>
+    <value column="MsgText" isTrl="N" original="GL Item">GL Элемент</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FC953B2C0069441DB85EB9BECDF9B7A8" trl="N">
@@ -414,11 +414,11 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812E44C5F1012E44D35D750020" trl="N">
-    <value column="MsgText" isTrl="N" original="Reconciliation contains no line. At least one cleared item is required for a reconciliation document to be processed.">Reconciliation contains no line. At least one cleared item is required for a reconciliation document to be processed.</value>
+    <value column="MsgText" isTrl="N" original="Reconciliation contains no line. At least one cleared item is required for a reconciliation document to be processed.">Акт сверки не содержит строку. Требуется по крайней мере одна заполненная строка для проведения сверочного документа.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F5805CF012F5843BD3A005B" trl="N">
-    <value column="MsgText" isTrl="N" original="Bank Statement No.:">Bank Statement No.:</value>
+    <value column="MsgText" isTrl="N" original="Bank Statement No.:">№ расчетного счета:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F967128012F969D366A0046" trl="N">
@@ -438,11 +438,11 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081332719060133272C92070040" trl="N">
-    <value column="MsgText" isTrl="N" original="Outstanding Payments">Outstanding Payments</value>
+    <value column="MsgText" isTrl="N" original="Outstanding Payments">Просроченные платежи</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081332719060133272D1BE20044" trl="N">
-    <value column="MsgText" isTrl="N" original="Outstanding Deposits">Outstanding Deposits</value>
+    <value column="MsgText" isTrl="N" original="Outstanding Deposits">Просроченные вклады</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081332719060133272D70CE0048" trl="N">
@@ -454,11 +454,11 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818130D0918F0130D10749340156" trl="N">
-    <value column="MsgText" isTrl="N" original="Impossible to void because its status is not Awaiting Execution">Impossible to void because its status is not Awaiting Execution</value>
+    <value column="MsgText" isTrl="N" original="Impossible to void because its status is not Awaiting Execution">Невозможно аннулировать, потому что статус не в ожидании оплаты</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081813108A518013108B682CF000E" trl="N">
-    <value column="MsgText" isTrl="N" original="Invoice paid using credit: %s">Invoice paid using credit: %s</value>
+    <value column="MsgText" isTrl="N" original="Invoice paid using credit: %s">Счет оплачиен используя кредит: %s</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FFE9DD4433F54133B8C273D965939E39" trl="N">

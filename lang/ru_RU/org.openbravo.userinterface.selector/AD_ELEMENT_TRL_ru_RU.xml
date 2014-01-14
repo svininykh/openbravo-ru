@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="">
   <row id="115E1E4A48294BE880525B71474ECEF9" trl="N">
-    <value column="Name" isTrl="Y" original="Sortable">Сортируемое</value>
-    <value column="PrintName" isTrl="Y" original="Sortable">Сортируемое</value>
+    <value column="Name" isTrl="N" original="Sortable">Sortable</value>
+    <value column="PrintName" isTrl="N" original="Sortable">Sortable</value>
     <value column="Description" isTrl="N" original="Allow sorting by this field in the popup grid.">Allow sorting by this field in the popup grid.</value>
     <value column="Help" isTrl="N" original="Allow sorting by this field in the popup grid.">Allow sorting by this field in the popup grid.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -183,10 +183,10 @@ Retrieved columns must have an alias defined, this alias is used to identify the
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C4B7AF76B82145BC9439ADF6855CBE7E" trl="N">
-    <value column="Name" isTrl="N" original="Selector Field">Selector Field</value>
-    <value column="PrintName" isTrl="N" original="Selector Field">Selector Field</value>
-    <value column="Description" isTrl="N" original="Unique identifying key for the selector field record.">Unique identifying key for the selector field record.</value>
-    <value column="Help" isTrl="N" original="Unique identifying key for the selector field record.">Unique identifying key for the selector field record.</value>
+    <value column="Name" isTrl="N" original="Selector Field">Переключатель поля</value>
+    <value column="PrintName" isTrl="N" original="Selector Field">Переключатель поля</value>
+    <value column="Description" isTrl="N" original="Unique identifying key for the selector field record.">Уникальная идентификация ключа для выбора поля записи.</value>
+    <value column="Help" isTrl="N" original="Unique identifying key for the selector field record.">Уникальная идентификация ключа для выбора поля записи.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -203,9 +203,9 @@ Retrieved columns must have an alias defined, this alias is used to identify the
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CE0AB5DC107A4D288DE5E83015641750" trl="N">
-    <value column="Name" isTrl="N" original="Filterable">Filterable</value>
-    <value column="PrintName" isTrl="N" original="Filterable">Filterable</value>
-    <value column="Description" isTrl="N" original="Allow filtering on this field.">Allow filtering on this field.</value>
+    <value column="Name" isTrl="N" original="Filterable">Фильтрующийся</value>
+    <value column="PrintName" isTrl="N" original="Filterable">Фильтрующийся</value>
+    <value column="Description" isTrl="N" original="Allow filtering on this field.">Разрешить фильтрацию в этом поле.</value>
     <value column="Help" isTrl="N" original="Make it possible to filter in the grid using this field.">Make it possible to filter in the grid using this field.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -223,39 +223,39 @@ Retrieved columns must have an alias defined, this alias is used to identify the
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="D71D9890834E4D4183B4A2872A5107A2" trl="N">
-    <value column="Name" isTrl="N" original="Selector">Selector</value>
-    <value column="PrintName" isTrl="N" original="Selector">Selector</value>
-    <value column="Description" isTrl="N" original="The unique identifying key for the selector.">The unique identifying key for the selector.</value>
-    <value column="Help" isTrl="N" original="The unique identifying key for the selector.">The unique identifying key for the selector.</value>
+    <value column="Name" isTrl="N" original="Selector">Переключатель</value>
+    <value column="PrintName" isTrl="N" original="Selector">Переключатель</value>
+    <value column="Description" isTrl="N" original="The unique identifying key for the selector.">Уникальный идентификационный ключ переключателя.</value>
+    <value column="Help" isTrl="N" original="The unique identifying key for the selector.">Уникальный идентификационный ключ переключателя.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="E4FCED1CB10743E8A6BD994F27F939F1" trl="N">
-    <value column="Name" isTrl="N" original="Display Field">Display Field</value>
-    <value column="PrintName" isTrl="N" original="Display Field">Display Field</value>
-    <value column="Description" isTrl="N" original="The value of this field will be displayed in the selector text input box.">The value of this field will be displayed in the selector text input box.</value>
-    <value column="Help" isTrl="N" original="The value of this field will be displayed in the selector text input box.">The value of this field will be displayed in the selector text input box.</value>
+    <value column="Name" isTrl="N" original="Display Field">Отоброжаемое поле</value>
+    <value column="PrintName" isTrl="N" original="Display Field">Отоброжаемое поле</value>
+    <value column="Description" isTrl="N" original="The value of this field will be displayed in the selector text input box.">Значение этого поля будет отображаться в поле ввода переключателя.</value>
+    <value column="Help" isTrl="N" original="The value of this field will be displayed in the selector text input box.">Значение этого поля будет отображаться в поле ввода переключателя.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="E54D4B7821C44A6A9BD20D5B464B30E4" trl="N">
-    <value column="Name" isTrl="N" original="Suggestion Text Match Style">Suggestion Text Match Style</value>
-    <value column="PrintName" isTrl="N" original="Suggestion Text Match Style">Suggestion Text Match Style</value>
-    <value column="Description" isTrl="N" original="Defines the text matching logic used in the suggestion box.">Defines the text matching logic used in the suggestion box.</value>
-    <value column="Help" isTrl="N" original="Defines the text matching logic used in the suggestion box.">Defines the text matching logic used in the suggestion box.</value>
+    <value column="Name" isTrl="N" original="Suggestion Text Match Style">Предложение текста соответствия стилю</value>
+    <value column="PrintName" isTrl="N" original="Suggestion Text Match Style">Предложение текста соответствия стилю</value>
+    <value column="Description" isTrl="N" original="Defines the text matching logic used in the suggestion box.">Определяет текст соответствия стиля используюзуемых в окне предложений.</value>
+    <value column="Help" isTrl="N" original="Defines the text matching logic used in the suggestion box.">Определяет текст соответствия стиля используюзуемых в окне предложений.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="FE81758CDCFA4B329F7F1BB8C99E45C3" trl="N">
-    <value column="Name" isTrl="N" original="HQL Where Clause">HQL Where Clause</value>
-    <value column="PrintName" isTrl="N" original="HQL Where Clause">HQL Where Clause</value>
-    <value column="Description" isTrl="N" original="The HQL where clause is added to the query to retrieve the data which is returned by the datasource.">The HQL where clause is added to the query to retrieve the data which is returned by the datasource.</value>
+    <value column="Name" isTrl="N" original="HQL Where Clause">HQL раздел ГДЕ</value>
+    <value column="PrintName" isTrl="N" original="HQL Where Clause">HQL раздел ГДЕ</value>
+    <value column="Description" isTrl="N" original="The HQL where clause is added to the query to retrieve the data which is returned by the datasource.">Раздел ГДЕ добавляется в запрос извлечения данных, возвращаемых из источника данных.</value>
     <value column="Help" isTrl="N" original="The HQL where clause is added to the query to retrieve the data which is returned by the datasource. When refering to properties of the entity shown in the selector then use the prefix e. For example if the selector shows Products then refering to product category works like this: e.productCategory.name='Ceramics'.">The HQL where clause is added to the query to retrieve the data which is returned by the datasource. When refering to properties of the entity shown in the selector then use the prefix e. For example if the selector shows Products then refering to product category works like this: e.productCategory.name='Ceramics'.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>

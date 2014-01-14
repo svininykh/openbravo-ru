@@ -150,7 +150,7 @@
   </row>
   <row id="128" trl="N">
     <value column="Name" isTrl="Y" original="Shipping Company">Транспортная компания</value>
-    <value column="Description" isTrl="N" original="Create shipping companies and define freight costs to be used in products logistics.">Create shipping companies and define freight costs to be used in products logistics.</value>
+    <value column="Description" isTrl="N" original="Create shipping companies and define freight costs to be used in products logistics.">Создание транспортных компаний и учет затрат   товарной логистики.</value>
   </row>
   <row id="129" trl="N">
     <value column="Name" isTrl="Y" original="Sales Order">Ордер клиента</value>
@@ -201,7 +201,7 @@
     <value column="Description" isTrl="N" original="Create and edit windows, tabs, and fields according to your business preferences.">Create and edit windows, tabs, and fields according to your business preferences.</value>
   </row>
   <row id="142" trl="N">
-    <value column="Name" isTrl="N" original="Validation Setup">Validation Setup</value>
+    <value column="Name" isTrl="N" original="Validation Setup">Проверка установки</value>
     <value column="Description" isTrl="N" original="Create and edit the validation setup to be used for columns of tables.">Create and edit the validation setup to be used for columns of tables.</value>
   </row>
   <row id="143" trl="N">
@@ -329,51 +329,51 @@
     <value column="Description" isTrl="N" original="Define titles to be used to address a business partner.">Define titles to be used to address a business partner.</value>
   </row>
   <row id="192" trl="N">
-    <value column="Name" isTrl="Y" original="Generate Invoices">Генерировать счет-фактуры</value>
-    <value column="Description" isTrl="N" original="Generate Invoices">Generate Invoices</value>
+    <value column="Name" isTrl="Y" original="Generate Invoices">Создание счетов</value>
+    <value column="Description" isTrl="N" original="Generate Invoices">Создание счетов</value>
   </row>
   <row id="193" trl="N">
-    <value column="Name" isTrl="Y" original="Generate Shipments">Генерировать накладные</value>
-    <value column="Description" isTrl="N" original="Generate shipment">Generate shipment</value>
+    <value column="Name" isTrl="Y" original="Generate Shipments">Создание накладных</value>
+    <value column="Description" isTrl="N" original="Generate shipment">Создание накладных</value>
   </row>
   <row id="194" trl="N">
-    <value column="Name" isTrl="N" original="Order Transactions">Order Transactions</value>
-    <value column="Description" isTrl="N" original="Sales Order Transaction Report">Sales Order Transaction Report</value>
+    <value column="Name" isTrl="N" original="Order Transactions">Заключение сделок</value>
+    <value column="Description" isTrl="N" original="Sales Order Transaction Report">Отчет о заключении заказа на продажу</value>
   </row>
   <row id="195" trl="N">
-    <value column="Name" isTrl="Y" original="Open Orders">Открыть ордеры</value>
-    <value column="Description" isTrl="Y" original="Open Orders">Открыть ордеры</value>
+    <value column="Name" isTrl="Y" original="Open Orders">Открыть заказы</value>
+    <value column="Description" isTrl="Y" original="Open Orders">Открыть заказы</value>
   </row>
   <row id="197" trl="N">
     <value column="Name" isTrl="N" original="Product Transaction Summary">Product Transaction Summary</value>
     <value column="Description" isTrl="N" original="Product Transaction Summary">Product Transaction Summary</value>
   </row>
   <row id="1C00140BAFA946E3A63F1AD557A35F45" trl="N">
-    <value column="Name" isTrl="Y" original="Period Control Log">Журнал контроля периода</value>
-    <value column="Description" isTrl="N" original="This windows shows the log for period control. ">This windows shows the log for period control. </value>
+    <value column="Name" isTrl="Y" original="Period Control Log">Журнал периодического контроля</value>
+    <value column="Description" isTrl="N" original="This windows shows the log for period control. ">Эти окна открывают журнал для периодического контроля. </value>
   </row>
   <row id="1E5FB50EFD5D43BDA4AB1879707D9003" trl="N">
     <value column="Name" isTrl="Y" original="Import Client">Импортировать подключение</value>
-    <value column="Description" isTrl="N" original="Import a client from xml">Import a client from xml</value>
+    <value column="Description" isTrl="N" original="Import a client from xml">Импорт клиента из xml</value>
   </row>
   <row id="202" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Transactions">Invoice Transactions</value>
-    <value column="Description" isTrl="N" original="Invoice Transactions">Invoice Transactions</value>
+    <value column="Name" isTrl="N" original="Invoice Transactions">Подтверждение счета</value>
+    <value column="Description" isTrl="N" original="Invoice Transactions">Подтверждение счета</value>
   </row>
   <row id="203" trl="N">
-    <value column="Name" isTrl="Y" original="Procurement Management">Управление поставками</value>
-    <value column="Description" isTrl="N" original="Procurement Management supports the management of the orders, goods receipts and purchase invoices as well as the analysis of purchase related data.">Procurement Management supports the management of the orders, goods receipts and purchase invoices as well as the analysis of purchase related data.</value>
+    <value column="Name" isTrl="Y" original="Procurement Management">Управление закупками</value>
+    <value column="Description" isTrl="N" original="Procurement Management supports the management of the orders, goods receipts and purchase invoices as well as the analysis of purchase related data.">Управление закупками поддерживает управление заказами поставщику, поступлений и счет-фактур, а также анализ данных, связанных с покупакам.</value>
   </row>
   <row id="204" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Receipt">Накладная поступления</value>
+    <value column="Name" isTrl="Y" original="Goods Receipt">Приходная накладная</value>
     <value column="Description" isTrl="N" original="Create and edit goods receipts from your vendors and create invoices from these receipts.">Create and edit goods receipts from your vendors and create invoices from these receipts.</value>
   </row>
   <row id="205" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order">Ордер поставщика</value>
-    <value column="Description" isTrl="N" original="Create and edit orders to buy products from suppliers.">Create and edit orders to buy products from suppliers.</value>
+    <value column="Name" isTrl="Y" original="Purchase Order">Заказ поставщику</value>
+    <value column="Description" isTrl="N" original="Create and edit orders to buy products from suppliers.">Создание и изменение заказов поставщику на покупку товаров.</value>
   </row>
   <row id="206" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Invoice">Приходная счет-фактура</value>
+    <value column="Name" isTrl="Y" original="Purchase Invoice">Счет на оплату поставщику</value>
     <value column="Description" isTrl="N" original="Purchase invoice window allows to register and manage suppliers invoices.">Purchase invoice window allows to register and manage suppliers invoices.</value>
   </row>
   <row id="20C210B5BE7846819385A70F23F5118C" trl="N">
@@ -381,71 +381,71 @@
     <value column="Description" isTrl="N" original="Accounting process to be launched at posting time">Accounting process to be launched at posting time</value>
   </row>
   <row id="20FCC3606573406A9242358C3E4A3585" trl="N">
-    <value column="Name" isTrl="Y" original="Return Reasons">Основания возврата</value>
-    <value column="Description" isTrl="N" original="Here you define the return reason">Here you define the return reason</value>
+    <value column="Name" isTrl="Y" original="Return Reasons">Причины возврата</value>
+    <value column="Description" isTrl="N" original="Here you define the return reason">Здесь вы определяете причину возврата</value>
   </row>
   <row id="210" trl="N">
-    <value column="Name" isTrl="N" original="Daily Invoice">Daily Invoice</value>
-    <value column="Description" isTrl="N" original="Daily Invoice">Daily Invoice</value>
+    <value column="Name" isTrl="N" original="Daily Invoice">Ежедневный Счет</value>
+    <value column="Description" isTrl="N" original="Daily Invoice">Ежедневный Счет</value>
   </row>
   <row id="211" trl="N">
-    <value column="Name" isTrl="N" original="Monthly Invoice">Monthly Invoice</value>
-    <value column="Description" isTrl="N" original="Monthly Invoice">Monthly Invoice</value>
+    <value column="Name" isTrl="N" original="Monthly Invoice">Ежемесячный счет</value>
+    <value column="Description" isTrl="N" original="Monthly Invoice">Ежемесячный счет</value>
   </row>
   <row id="212" trl="N">
-    <value column="Name" isTrl="N" original="Monthly Product Invoice">Monthly Product Invoice</value>
-    <value column="Description" isTrl="N" original="Monthly Product Invoice">Monthly Product Invoice</value>
+    <value column="Name" isTrl="N" original="Monthly Product Invoice">Ежемесячный счет товаров</value>
+    <value column="Description" isTrl="N" original="Monthly Product Invoice">Ежемесячный счет товаров</value>
   </row>
   <row id="213" trl="N">
-    <value column="Name" isTrl="N" original="Weekly Product Invoice">Weekly Product Invoice</value>
-    <value column="Description" isTrl="N" original="Weekly Product Invoice">Weekly Product Invoice</value>
+    <value column="Name" isTrl="N" original="Weekly Product Invoice">Еженедельный Счет товаров</value>
+    <value column="Description" isTrl="N" original="Weekly Product Invoice">Еженедельный Счет товаров</value>
   </row>
   <row id="214" trl="N">
-    <value column="Name" isTrl="N" original="Monthly Vendor Invoice Report">Monthly Vendor Invoice Report</value>
-    <value column="Description" isTrl="N" original="Monthly Vendor Invoice Report">Monthly Vendor Invoice Report</value>
+    <value column="Name" isTrl="N" original="Monthly Vendor Invoice Report">Ежемесячный отчет Счета поставшику</value>
+    <value column="Description" isTrl="N" original="Monthly Vendor Invoice Report">Ежемесячный отчет Счета поставшику</value>
   </row>
   <row id="215" trl="N">
-    <value column="Name" isTrl="N" original="Weekly Invoice">Weekly Invoice</value>
-    <value column="Description" isTrl="N" original="Weekly Invoice">Weekly Invoice</value>
+    <value column="Name" isTrl="N" original="Weekly Invoice">Еженедельный Счет</value>
+    <value column="Description" isTrl="N" original="Weekly Invoice">Еженедельный Счет</value>
   </row>
   <row id="216" trl="N">
     <value column="Name" isTrl="Y" original="Form">Форма</value>
     <value column="Description" isTrl="N" original="Create and edit forms (manual windows) to be used in the application.">Create and edit forms (manual windows) to be used in the application.</value>
   </row>
   <row id="217" trl="N">
-    <value column="Name" isTrl="Y" original="Create Invoices from Orders">Создать счет-фактуры по ордерам</value>
+    <value column="Name" isTrl="Y" original="Create Invoices from Orders">Создание счетов из заказов</value>
     <value column="Description" isTrl="N" original="Create invoices for all processed sales orders/goods shipments that have not been invoiced.">Create invoices for all processed sales orders/goods shipments that have not been invoiced.</value>
   </row>
   <row id="218" trl="N">
-    <value column="Name" isTrl="N" original="System Admin">System Admin</value>
+    <value column="Name" isTrl="N" original="System Admin">Системный администратор</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="225" trl="N">
-    <value column="Name" isTrl="Y" original="Initial Client Setup">Начальные параметры подключения</value>
-    <value column="Description" isTrl="N" original="Create a new empty client from scratch.">Create a new empty client from scratch.</value>
+    <value column="Name" isTrl="Y" original="Initial Client Setup">Начальное заполнение клиента</value>
+    <value column="Description" isTrl="N" original="Create a new empty client from scratch.">Создание нового клиента с нуля.</value>
   </row>
   <row id="227" trl="N">
-    <value column="Name" isTrl="N" original="Vendor Selection">Vendor Selection</value>
-    <value column="Description" isTrl="N" original="Products with more than one vendor">Products with more than one vendor</value>
+    <value column="Name" isTrl="N" original="Vendor Selection">Выбор поставщика</value>
+    <value column="Description" isTrl="N" original="Products with more than one vendor">Товары от нескольких поставщиков</value>
   </row>
   <row id="228" trl="N">
     <value column="Name" isTrl="Y" original="Bill of Materials Production">Производство по спецификации</value>
     <value column="Description" isTrl="N" original="Create and run production processes using the previously defined bills of materials.">Create and run production processes using the previously defined bills of materials.</value>
   </row>
   <row id="230" trl="N">
-    <value column="Name" isTrl="N" original="Quarterly Customer Invoice by Product">Quarterly Customer Invoice by Product</value>
-    <value column="Description" isTrl="N" original="Quarterly Customer Invoice by Product">Quarterly Customer Invoice by Product</value>
+    <value column="Name" isTrl="N" original="Quarterly Customer Invoice by Product">Ежеквартальный Счет клиента по товарам</value>
+    <value column="Description" isTrl="N" original="Quarterly Customer Invoice by Product">Ежеквартальный Счет клиента по товарам</value>
   </row>
   <row id="231" trl="N">
-    <value column="Name" isTrl="N" original="Quarterly Customer Invoice by Vendor">Quarterly Customer Invoice by Vendor</value>
-    <value column="Description" isTrl="N" original="Quarterly Customer Invoice by Vendor">Quarterly Customer Invoice by Vendor</value>
+    <value column="Name" isTrl="N" original="Quarterly Customer Invoice by Vendor">Ежеквартальный Счет поставщиков</value>
+    <value column="Description" isTrl="N" original="Quarterly Customer Invoice by Vendor">Ежеквартальный Счет поставщиков</value>
   </row>
   <row id="232" trl="N">
     <value column="Name" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
     <value column="Description" isTrl="N" original="Business partners can be grouped into different categories with the aim of helping their management and analysis.">Business partners can be grouped into different categories with the aim of helping their management and analysis.</value>
   </row>
   <row id="234" trl="N">
-    <value column="Name" isTrl="N" original="Bank Statement">Bank Statement</value>
+    <value column="Name" isTrl="N" original="Bank Statement">Банковский счет</value>
     <value column="Description" isTrl="N" original="View your bank statements against transactions created and edited in the application.">View your bank statements against transactions created and edited in the application.</value>
   </row>
   <row id="2345D54C6D044A999C7FDD5C504008A6" trl="N">
@@ -477,47 +477,47 @@
     <value column="Description" isTrl="N" original="Invoice Summary">Invoice Summary</value>
   </row>
   <row id="256" trl="N">
-    <value column="Name" isTrl="N" original="Product Transaction Value">Product Transaction Value</value>
-    <value column="Description" isTrl="N" original="Product Transaction Value">Product Transaction Value</value>
+    <value column="Name" isTrl="N" original="Product Transaction Value">Стоимость сделки</value>
+    <value column="Description" isTrl="N" original="Product Transaction Value">Стоимость сделки</value>
   </row>
   <row id="257" trl="N">
-    <value column="Name" isTrl="N" original="Commission">Commission</value>
-    <value column="Description" isTrl="N" original="Define how and when you want commissions to be calculated and to whom they are to be paid.">Define how and when you want commissions to be calculated and to whom they are to be paid.</value>
+    <value column="Name" isTrl="N" original="Commission">Комиссия</value>
+    <value column="Description" isTrl="N" original="Define how and when you want commissions to be calculated and to whom they are to be paid.">Определяет, как и когда Вам рассчитать комиссии и кому необходимо оплатить.</value>
   </row>
   <row id="260" trl="N">
-    <value column="Name" isTrl="N" original="Project Status Summary">Project Status Summary</value>
-    <value column="Description" isTrl="N" original="Project Status of Project Cycle">Project Status of Project Cycle</value>
+    <value column="Name" isTrl="N" original="Project Status Summary">Итоговый статус проекта</value>
+    <value column="Description" isTrl="N" original="Project Status of Project Cycle">Статус проекта из проектного цикла</value>
   </row>
   <row id="263" trl="N">
-    <value column="Name" isTrl="N" original="Partner Relations">Partner Relations</value>
-    <value column="Description" isTrl="N" original="Customer Relations and Partner Management">Customer Relations and Partner Management</value>
+    <value column="Name" isTrl="N" original="Partner Relations">Взаимоотношения с парнтерами</value>
+    <value column="Description" isTrl="N" original="Customer Relations and Partner Management">Управление взаимоотношения с клиентами и партнерами</value>
   </row>
   <row id="264" trl="N">
-    <value column="Name" isTrl="N" original="Commission Payment">Commission Payment</value>
-    <value column="Description" isTrl="N" original="Create commissions and create corresponding invoices.">Create commissions and create corresponding invoices.</value>
+    <value column="Name" isTrl="N" original="Commission Payment">Оплата комиссии</value>
+    <value column="Description" isTrl="N" original="Create commissions and create corresponding invoices.">Создание комиссий и создание соответствующих счетов.</value>
   </row>
   <row id="26BF4F6D476E4D0CAF5E62EBC63E440E" trl="N">
-    <value column="Name" isTrl="N" original="Sales Invoice Dimensional Report">Sales Invoice Dimensional Report</value>
-    <value column="Description" isTrl="N" original="Sales Invoice Dimensional Report">Sales Invoice Dimensional Report</value>
+    <value column="Name" isTrl="N" original="Sales Invoice Dimensional Report">Отчет по продажам с измерениями</value>
+    <value column="Description" isTrl="N" original="Sales Invoice Dimensional Report">Отчет по продажам с измерениями</value>
   </row>
   <row id="271" trl="N">
-    <value column="Name" isTrl="Y" original="Service">Управление сервисами</value>
-    <value column="Description" isTrl="N" original="Service Management">Service Management</value>
+    <value column="Name" isTrl="Y" original="Service">Услуги</value>
+    <value column="Description" isTrl="N" original="Service Management">Управление услуг</value>
   </row>
   <row id="272" trl="N">
-    <value column="Name" isTrl="Y" original="Setup">Параметры</value>
-    <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
+    <value column="Name" isTrl="Y" original="Setup">Установка</value>
+    <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Откройте папку, где вы можете определить всю информацию использующую в этом модуле.</value>
   </row>
   <row id="278" trl="N">
     <value column="Name" isTrl="Y" original="Financial Management">Управление финансами</value>
     <value column="Description" isTrl="N" original="The &quot;Financial Management&quot; area supports daily accounting activities such as payable and receivable accounts management, assets amortization as well as the opening and closing of the accounting year.">The "Financial Management" area supports daily accounting activities such as payable and receivable accounts management, assets amortization as well as the opening and closing of the accounting year.</value>
   </row>
   <row id="280" trl="N">
-    <value column="Name" isTrl="Y" original="Analysis Tools">Аналитика</value>
+    <value column="Name" isTrl="Y" original="Analysis Tools">Инструменты анализа</value>
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="292" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Transaction">Движение товаров</value>
+    <value column="Name" isTrl="Y" original="Goods Transaction">Транзакции по товару</value>
     <value column="Description" isTrl="N" original="Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.">Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.</value>
   </row>
   <row id="296" trl="N">
@@ -529,15 +529,15 @@
     <value column="Description" isTrl="N" original="Synchronize the terminology within the system.">Synchronize the terminology within the system.</value>
   </row>
   <row id="306" trl="N">
-    <value column="Name" isTrl="N" original="Resubmit Posting">Resubmit Posting</value>
-    <value column="Description" isTrl="N" original="Resubmit posting of documents with posting errors">Resubmit posting of documents with posting errors</value>
+    <value column="Name" isTrl="N" original="Resubmit Posting">Перепроведение</value>
+    <value column="Description" isTrl="N" original="Resubmit posting of documents with posting errors">Перепроведение документов, проведенные с ошибками</value>
   </row>
   <row id="307" trl="N">
-    <value column="Name" isTrl="N" original="Reset Accounting Old">Reset Accounting Old</value>
-    <value column="Description" isTrl="N" original="Reset Accounting Entries">Reset Accounting Entries</value>
+    <value column="Name" isTrl="N" original="Reset Accounting Old">Сброс бухгалтерских проводок</value>
+    <value column="Description" isTrl="N" original="Reset Accounting Entries">Сброс бухгалтерских проводок</value>
   </row>
   <row id="310" trl="N">
-    <value column="Name" isTrl="Y" original="Price List Schema">Расчет цен</value>
+    <value column="Name" isTrl="Y" original="Price List Schema">Прайс-лист</value>
     <value column="Description" isTrl="N" original="Define a Price List Schema to be assigned to business partners.">Define a Price List Schema to be assigned to business partners.</value>
   </row>
   <row id="315" trl="N">
@@ -545,7 +545,7 @@
     <value column="Description" isTrl="N" original="Track matching between purchase invoice lines and the corresponding shipment/receipt lines.">Track matching between purchase invoice lines and the corresponding shipment/receipt lines.</value>
   </row>
   <row id="316" trl="N">
-    <value column="Name" isTrl="Y" original="Matched Purchase Orders">Связанные ордеры поставщика</value>
+    <value column="Name" isTrl="Y" original="Matched Purchase Orders">Связанные заказы поставщика</value>
     <value column="Description" isTrl="N" original="Track matching between purchase order lines and the corresponding shipment/receipt or invoice lines. ">Track matching between purchase order lines and the corresponding shipment/receipt or invoice lines. </value>
   </row>
   <row id="317" trl="N">
@@ -609,32 +609,32 @@
     <value column="Description" isTrl="N" original="Create shipments for all processed sales orders that fit the criteria and the parameters specified.">Create shipments for all processed sales orders that fit the criteria and the parameters specified.</value>
   </row>
   <row id="347" trl="N">
-    <value column="Name" isTrl="Y" original="Print Invoices">Печать счет-фактур</value>
+    <value column="Name" isTrl="Y" original="Print Invoices">Печать счетов</value>
     <value column="Description" isTrl="N" original="Print Invoices to paper or send PDF">Print Invoices to paper or send PDF</value>
   </row>
   <row id="349" trl="N">
-    <value column="Name" isTrl="N" original="Employee Expenses">Employee Expenses</value>
-    <value column="Description" isTrl="N" original="View internal employee expenses before processing them.">View internal employee expenses before processing them.</value>
+    <value column="Name" isTrl="N" original="Employee Expenses">Авансовые отчеты</value>
+    <value column="Description" isTrl="N" original="View internal employee expenses before processing them.">Просмотр расходов сотрудников перед их обработкой.</value>
   </row>
   <row id="350" trl="N">
-    <value column="Name" isTrl="N" original="Statement of Accounts">Statement of Accounts</value>
-    <value column="Description" isTrl="N" original="Report Account Statement Beginning Balance and Transactions">Report Account Statement Beginning Balance and Transactions</value>
+    <value column="Name" isTrl="N" original="Statement of Accounts">Оборотно-сальдовая ведомость</value>
+    <value column="Description" isTrl="N" original="Report Account Statement Beginning Balance and Transactions">Оборотно-сальдовая ведомость</value>
   </row>
   <row id="353" trl="N">
     <value column="Name" isTrl="Y" original="Attribute Set">Набор характеристик</value>
     <value column="Description" isTrl="N" original="Define a group of attributes to apply to specific products.">Define a group of attributes to apply to specific products.</value>
   </row>
   <row id="354" trl="N">
-    <value column="Name" isTrl="Y" original="Serial Number Sequence">Нумерация серийных номеров</value>
-    <value column="Description" isTrl="N" original="Define a serial number sequence to assign serial numbers to products.">Define a serial number sequence to assign serial numbers to products.</value>
+    <value column="Name" isTrl="N" original="Serial Number Sequence">Порядковый номер последовательности</value>
+    <value column="Description" isTrl="N" original="Define a serial number sequence to assign serial numbers to products.">Определяет порядковый номер последовательности связанная с партии товаров.</value>
   </row>
   <row id="355" trl="N">
-    <value column="Name" isTrl="Y" original="Lot Number Sequence">Нумерация лотов</value>
+    <value column="Name" isTrl="N" original="Lot Number Sequence">Lot Number Sequence</value>
     <value column="Description" isTrl="N" original="Define a number sequence to assign lot numbers to products.">Define a number sequence to assign lot numbers to products.</value>
   </row>
   <row id="356" trl="N">
-    <value column="Name" isTrl="Y" original="Lot">Лот</value>
-    <value column="Description" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
+    <value column="Name" isTrl="N" original="Lot">Партия</value>
+    <value column="Description" isTrl="N" original="Create and edit lots for your products.">Создание и изменение партий товаров.</value>
   </row>
   <row id="357" trl="N">
     <value column="Name" isTrl="Y" original="Product Attributes">Характеристики товара</value>
@@ -781,88 +781,88 @@
     <value column="Description" isTrl="N" original="Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.">Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.</value>
   </row>
   <row id="800008" trl="N">
-    <value column="Name" isTrl="N" original="Incoterm">Incoterm</value>
-    <value column="Description" isTrl="N" original="Define international commercial terms (Incoterms) to be used in sales transactions.">Define international commercial terms (Incoterms) to be used in sales transactions.</value>
+    <value column="Name" isTrl="N" original="Incoterm">ISO</value>
+    <value column="Description" isTrl="N" original="Define international commercial terms (Incoterms) to be used in sales transactions.">Определение международных коммерческих терминов (ISO), которые будут использоваться в сделках купли-продажи.</value>
   </row>
   <row id="800010" trl="N">
-    <value column="Name" isTrl="N" original="Bank Report">Bank Report</value>
-    <value column="Description" isTrl="N" original="Report bank">Report bank</value>
+    <value column="Name" isTrl="N" original="Bank Report">Выписка банка</value>
+    <value column="Description" isTrl="N" original="Report bank">Отчет по безналичным денежным средствам</value>
   </row>
   <row id="800011" trl="N">
-    <value column="Name" isTrl="N" original="Cash Report">Cash Report</value>
-    <value column="Description" isTrl="N" original="Report cash">Report cash</value>
+    <value column="Name" isTrl="N" original="Cash Report">Отчет кассы</value>
+    <value column="Description" isTrl="N" original="Report cash">Отчет по наличным денежным средствам</value>
   </row>
   <row id="800015" trl="N">
-    <value column="Name" isTrl="N" original="Shipment Report">Shipment Report</value>
-    <value column="Description" isTrl="N" original="Shipment Report">Shipment Report</value>
+    <value column="Name" isTrl="N" original="Shipment Report">Отчет о реализации товаров</value>
+    <value column="Description" isTrl="N" original="Shipment Report">Отчет о реализации товаров</value>
   </row>
   <row id="800020" trl="N">
-    <value column="Name" isTrl="N" original="Material Transaction Report">Material Transaction Report</value>
-    <value column="Description" isTrl="N" original="Report Material Transaction">Report Material Transaction</value>
+    <value column="Name" isTrl="N" original="Material Transaction Report">Оборотно-сальдовая ведомость по складу</value>
+    <value column="Description" isTrl="N" original="Report Material Transaction">Оборотно-сальдовая ведомость по складу</value>
   </row>
   <row id="800023" trl="N">
     <value column="Name" isTrl="N" original="Total Product Template Report">Total Product Template Report</value>
     <value column="Description" isTrl="N" original="Report Total Product Template">Report Total Product Template</value>
   </row>
   <row id="800024" trl="N">
-    <value column="Name" isTrl="Y" original="Volume Discount">Скидка от объема</value>
-    <value column="Description" isTrl="N" original="Create volume discounts related to products and product categories to be assigned to selected business partners.">Create volume discounts related to products and product categories to be assigned to selected business partners.</value>
+    <value column="Name" isTrl="Y" original="Volume Discount">Скидки</value>
+    <value column="Description" isTrl="N" original="Create volume discounts related to products and product categories to be assigned to selected business partners.">Создание оптовых скидок, связанные с товарам и категориями продукции, которая будет присвоена выбранным контрагентам.</value>
   </row>
   <row id="800025" trl="N">
-    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure">Balance sheet and P&amp;L structure</value>
-    <value column="Description" isTrl="N" original="Balance sheet and P&amp;L structure">Balance sheet and P&amp;L structure</value>
+    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure">Отчет о прибылях и убытках</value>
+    <value column="Description" isTrl="N" original="Balance sheet and P&amp;L structure">Отчет о прибылях и убытках</value>
   </row>
   <row id="800027" trl="N">
-    <value column="Name" isTrl="N" original="Settlement">Settlement</value>
-    <value column="Description" isTrl="N" original="Edit payments by summing one or many into one or by dividing one into many.  Here you manage payments that come from invoices generated in the application.">Edit payments by summing one or many into one or by dividing one into many.  Here you manage payments that come from invoices generated in the application.</value>
+    <value column="Name" isTrl="N" original="Settlement">Корректировка долга</value>
+    <value column="Description" isTrl="N" original="Edit payments by summing one or many into one or by dividing one into many.  Here you manage payments that come from invoices generated in the application.">Изменение платежей путем суммирования один или многих в один или разделения одного на многих. Здесь Вы управляете платежами, которые приходят из счетов, созданных в приложении.</value>
   </row>
   <row id="800028" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Taxes Report">Invoice Taxes Report</value>
-    <value column="Description" isTrl="N" original="Report Tax Invoice">Report Tax Invoice</value>
+    <value column="Name" isTrl="N" original="Invoice Taxes Report">Книга продаж</value>
+    <value column="Description" isTrl="N" original="Report Tax Invoice">Книга продаж, реестр счет-фактур</value>
   </row>
   <row id="800029" trl="N">
     <value column="Name" isTrl="N" original="Payment Report">Payment Report</value>
     <value column="Description" isTrl="N" original="Report debt payment">Report debt payment</value>
   </row>
   <row id="800031" trl="N">
-    <value column="Name" isTrl="N" original="Delivered Sales Order Report">Delivered Sales Order Report</value>
-    <value column="Description" isTrl="N" original="Delivered Sales Order Report">Delivered Sales Order Report</value>
+    <value column="Name" isTrl="N" original="Delivered Sales Order Report">Отчет реализации заказов покупателей</value>
+    <value column="Description" isTrl="N" original="Delivered Sales Order Report">Отчет реализации заказов покупателей</value>
   </row>
   <row id="800032" trl="N">
-    <value column="Name" isTrl="N" original="Service Project Report">Service Project Report</value>
-    <value column="Description" isTrl="N" original="Service Project Report">Service Project Report</value>
+    <value column="Name" isTrl="N" original="Service Project Report">Отчет об оказанных услугах</value>
+    <value column="Description" isTrl="N" original="Service Project Report">Отчет об оказанных услугах</value>
   </row>
   <row id="800033" trl="N">
-    <value column="Name" isTrl="N" original="Manual Settlement">Manual Settlement</value>
-    <value column="Description" isTrl="N" original="Create and edit payments with no corresponding document/transaction in the application.">Create and edit payments with no corresponding document/transaction in the application.</value>
+    <value column="Name" isTrl="N" original="Manual Settlement">Бухгалтерская справка</value>
+    <value column="Description" isTrl="N" original="Create and edit payments with no corresponding document/transaction in the application.">Создание и изменение платежей без соответствуюего документа/седкли созданных в системе.</value>
   </row>
   <row id="800034" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Item">Проводка Г/К</value>
-    <value column="Description" isTrl="N" original="Create and edit accounting items to be used in manual settlements.">Create and edit accounting items to be used in manual settlements.</value>
+    <value column="Name" isTrl="Y" original="G/L Item">Ручная проводка</value>
+    <value column="Description" isTrl="N" original="Create and edit accounting items to be used in manual settlements.">Создание и изменение объектов учета используемых в бухгалтерской справке.</value>
   </row>
   <row id="800037" trl="N">
-    <value column="Name" isTrl="N" original="Project Proposal Tracker">Project Proposal Tracker</value>
-    <value column="Description" isTrl="N" original="View all proposals made to you during a Budget Project.">View all proposals made to you during a Budget Project.</value>
+    <value column="Name" isTrl="N" original="Project Proposal Tracker">Отслежевание предложений</value>
+    <value column="Description" isTrl="N" original="View all proposals made to you during a Budget Project.">Посмотр всех предложений, сделанные вам в текущем бюджете проекта.</value>
   </row>
   <row id="800038" trl="N">
-    <value column="Name" isTrl="Y" original="GL Posting by DB Tables">Проводки Г/К по таблицам БД</value>
+    <value column="Name" isTrl="Y" original="GL Posting by DB Tables">Групповое проведение документов и справочников</value>
     <value column="Description" isTrl="N" original="Recreate accounting information and add transactions for the General Ledger, grouped by defined database tables.">Recreate accounting information and add transactions for the General Ledger, grouped by defined database tables.</value>
   </row>
   <row id="800039" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse Control Report">Warehouse Control Report</value>
-    <value column="Description" isTrl="N" original="Report Warehouse Control">Report Warehouse Control</value>
+    <value column="Name" isTrl="N" original="Warehouse Control Report">Отчет управление складом</value>
+    <value column="Description" isTrl="N" original="Report Warehouse Control">Отчет управление складом</value>
   </row>
   <row id="800040" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Consignment Report">Invoice Consignment Report</value>
-    <value column="Description" isTrl="N" original="Report To Invoice Consignment">Report To Invoice Consignment</value>
+    <value column="Name" isTrl="N" original="Invoice Consignment Report">Отчет по реализации партии товаров</value>
+    <value column="Description" isTrl="N" original="Report To Invoice Consignment">Отчет по реализации партии товаров</value>
   </row>
   <row id="800042" trl="N">
     <value column="Name" isTrl="Y" original="Trial Balance">Проект баланса</value>
-    <value column="Description" isTrl="N" original="Trial Balance Report">Trial Balance Report</value>
+    <value column="Description" isTrl="N" original="Trial Balance Report">Отчет пробного баланса</value>
   </row>
   <row id="800043" trl="N">
     <value column="Name" isTrl="Y" original="Create All Price Lists">Создать все прейскуранты</value>
-    <value column="Description" isTrl="Y" original="Create price list version for a price list">Создать версии для прейскурантов</value>
+    <value column="Description" isTrl="Y" original="Create price list version for a price list">Создать прейскурант</value>
   </row>
   <row id="800052" trl="N">
     <value column="Name" isTrl="N" original="Product Movements Report">Product Movements Report</value>
@@ -929,72 +929,72 @@
     <value column="Description" isTrl="N" original="Open a folder where you can find reports and tools to analyze data.">Open a folder where you can find reports and tools to analyze data.</value>
   </row>
   <row id="800084" trl="N">
-    <value column="Name" isTrl="N" original="Sales Rep Pricelist">Sales Rep Pricelist</value>
-    <value column="Description" isTrl="N" original="Sales Rep Pricelist">Sales Rep Pricelist</value>
+    <value column="Name" isTrl="N" original="Sales Rep Pricelist">Прайс-лист торгового представителя</value>
+    <value column="Description" isTrl="N" original="Sales Rep Pricelist">Прайс-лист торгового представителя</value>
   </row>
   <row id="800085" trl="N">
-    <value column="Name" isTrl="N" original="Sales Order Returns Dimensional Report">Sales Order Returns Dimensional Report</value>
-    <value column="Description" isTrl="N" original="Report refund sales order dimensional analyses">Report refund sales order dimensional analyses</value>
+    <value column="Name" isTrl="N" original="Sales Order Returns Dimensional Report">Отчет возвраты от покупателей с измерениями</value>
+    <value column="Description" isTrl="N" original="Report refund sales order dimensional analyses">Отчет по возвратам от покупателей с аналитикой</value>
   </row>
   <row id="800086" trl="N">
-    <value column="Name" isTrl="N" original="Create Purchase Invoices from Deliveries">Create Purchase Invoices from Deliveries</value>
-    <value column="Description" isTrl="N" original="Create purchase invoices from deliveries">Create purchase invoices from deliveries</value>
+    <value column="Name" isTrl="N" original="Create Purchase Invoices from Deliveries">Создать счета на оплату доставки</value>
+    <value column="Description" isTrl="N" original="Create purchase invoices from deliveries">Создать счета на оплату доставки</value>
   </row>
   <row id="800087" trl="N">
-    <value column="Name" isTrl="N" original="Payment Tracker">Payment Tracker</value>
-    <value column="Description" isTrl="N" original="Payment Tracker">Payment Tracker</value>
+    <value column="Name" isTrl="N" original="Payment Tracker">Отслежевание платежей</value>
+    <value column="Description" isTrl="N" original="Payment Tracker">Отслежевание платежей</value>
   </row>
   <row id="800089" trl="N">
-    <value column="Name" isTrl="N" original="Traceability Report">Traceability Report</value>
-    <value column="Description" isTrl="N" original="Traceability Report">Traceability Report</value>
+    <value column="Name" isTrl="N" original="Traceability Report">Отчет отслеживаемости</value>
+    <value column="Description" isTrl="N" original="Traceability Report">Отчет отслеживаемости</value>
   </row>
   <row id="800091" trl="N">
-    <value column="Name" isTrl="N" original="Cashflow Forecast">Cashflow Forecast</value>
-    <value column="Description" isTrl="N" original="Cashflow Forecast">Cashflow Forecast</value>
+    <value column="Name" isTrl="N" original="Cashflow Forecast">Прогноз движения денежных средств</value>
+    <value column="Description" isTrl="N" original="Cashflow Forecast">Прогноз движения денежных средств</value>
   </row>
   <row id="800093" trl="N">
-    <value column="Name" isTrl="N" original="Funds Transfer">Funds Transfer</value>
-    <value column="Description" isTrl="N" original="Make transfers between cash and bank">Make transfers between cash and bank</value>
+    <value column="Name" isTrl="N" original="Funds Transfer">Перевод денежных средств</value>
+    <value column="Description" isTrl="N" original="Make transfers between cash and bank">Произвести переводы средств между кассой и банком</value>
   </row>
   <row id="800095" trl="N">
-    <value column="Name" isTrl="Y" original="Generate Average Costs">Генерация себестоимости</value>
-    <value column="Description" isTrl="N" original="Generates raw materials average costs.">Generates raw materials average costs.</value>
+    <value column="Name" isTrl="Y" original="Generate Average Costs">Расчет себестоимости</value>
+    <value column="Description" isTrl="N" original="Generates raw materials average costs.">Расчет себестоимости сырья и материалов.</value>
   </row>
   <row id="800096" trl="N">
     <value column="Name" isTrl="Y" original="Basic Discount">Скидка базовая</value>
     <value column="Description" isTrl="N" original="Create and edit product price percentage Basic Discounts.">Create and edit product price percentage Basic Discounts.</value>
   </row>
   <row id="800097" trl="N">
-    <value column="Name" isTrl="N" original="Remittance Type">Remittance Type</value>
-    <value column="Description" isTrl="N" original="Create and edit remittance types with corresponding parameters according to your business needs.">Create and edit remittance types with corresponding parameters according to your business needs.</value>
+    <value column="Name" isTrl="N" original="Remittance Type">Тип денежного перевода</value>
+    <value column="Description" isTrl="N" original="Create and edit remittance types with corresponding parameters according to your business needs.">Создание и изменение типов денежных переводов с соответствующими параметрами в соответствии с Вашими потребностями бизнеса.</value>
   </row>
   <row id="800099" trl="N">
-    <value column="Name" isTrl="Y" original="Pending Goods Receipts">Ожидаемые товары по ордерам</value>
+    <value column="Name" isTrl="Y" original="Pending Goods Receipts">Ожидаемые материалы к поступлению</value>
     <value column="Description" isTrl="N" original="This window provides a view of the order lines pending to be received and a process to automatically create goods receipt/s for the ones received.">This window provides a view of the order lines pending to be received and a process to automatically create goods receipt/s for the ones received.</value>
   </row>
   <row id="800100" trl="N">
-    <value column="Name" isTrl="N" original="Update Table Identifiers">Update Table Identifiers</value>
-    <value column="Description" isTrl="N" original="Update all the table identifiers SQL">Update all the table identifiers SQL</value>
+    <value column="Name" isTrl="N" original="Update Table Identifiers">Обновление таблицы идентификаторов</value>
+    <value column="Description" isTrl="N" original="Update all the table identifiers SQL">Обновление всех таблиц идентификаторов SQL</value>
   </row>
   <row id="800101" trl="N">
     <value column="Name" isTrl="N" original="Valued Stock Report Legacy">Valued Stock Report Legacy</value>
     <value column="Description" isTrl="N" original="Valued Stock Report Legacy">Valued Stock Report Legacy</value>
   </row>
   <row id="800103" trl="N">
-    <value column="Name" isTrl="N" original="Proposal Report">Proposal Report</value>
-    <value column="Description" isTrl="N" original="Report proposal query">Report proposal query</value>
+    <value column="Name" isTrl="N" original="Proposal Report">Отчет по предложениям</value>
+    <value column="Description" isTrl="N" original="Report proposal query">Отчет по предложениям</value>
   </row>
   <row id="800105" trl="N">
     <value column="Name" isTrl="Y" original="Month">Месяц</value>
     <value column="Description" isTrl="N" original="Create and edit names of the month, assigning them to your quarterly and yearly calendar.">Create and edit names of the month, assigning them to your quarterly and yearly calendar.</value>
   </row>
   <row id="800106" trl="N">
-    <value column="Name" isTrl="Y" original="Dimension">Субконто</value>
+    <value column="Name" isTrl="N" original="Dimension">Субконто</value>
     <value column="Description" isTrl="N" original="Define parameters to be used in making reports.">Define parameters to be used in making reports.</value>
   </row>
   <row id="800108" trl="N">
-    <value column="Name" isTrl="N" original="Automated Test">Automated Test</value>
-    <value column="Description" isTrl="N" original="Open a folder where you can define information related to business partners, prices, and products.">Open a folder where you can define information related to business partners, prices, and products.</value>
+    <value column="Name" isTrl="N" original="Automated Test">Тест автоматизации</value>
+    <value column="Description" isTrl="N" original="Open a folder where you can define information related to business partners, prices, and products.">Открыть папку, где Вы можете определить информацию, связанную с контргагнетами, цены и продуктов.</value>
   </row>
   <row id="800113" trl="N">
     <value column="Name" isTrl="Y" original="Create Document">Создать документ</value>
@@ -1089,8 +1089,8 @@
     <value column="Description" isTrl="N" original="Create and edit data collection and measurements related to quality control.  This is done at predefined checkpoints for a produced product.">Create and edit data collection and measurements related to quality control.  This is done at predefined checkpoints for a produced product.</value>
   </row>
   <row id="800177" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Items Report">Отчет Проводки Г/К</value>
-    <value column="Description" isTrl="Y" original="G/L Items Report">Отчет Проводки Г/К</value>
+    <value column="Name" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
+    <value column="Description" isTrl="Y" original="G/L Items Report">Отчет Г/К Проводки</value>
   </row>
   <row id="800178" trl="N">
     <value column="Name" isTrl="N" original="Performance Scorecard">Performance Scorecard</value>
@@ -1385,15 +1385,15 @@
     <value column="Description" isTrl="Y" original="Report Invoice Vendor">Отчет Счет-фактуры поставщика</value>
   </row>
   <row id="800266" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Dimensional Report">Аналитический отчет Поставки</value>
+    <value column="Name" isTrl="N" original="Purchase Dimensional Report">Purchase Dimensional Report</value>
     <value column="Description" isTrl="N" original="Purchase dimensional analyses">Purchase dimensional analyses</value>
   </row>
   <row id="800267" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Receipts Dimensional Report">Аналитический отчет Накладные поступления</value>
+    <value column="Name" isTrl="N" original="Goods Receipts Dimensional Report">Goods Receipts Dimensional Report</value>
     <value column="Description" isTrl="N" original="Goods receipt dimensional analyses">Goods receipt dimensional analyses</value>
   </row>
   <row id="800268" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Invoice Dimensional Report">Аналитический отчет Счет-фактуры поставщика</value>
+    <value column="Name" isTrl="N" original="Purchase Invoice Dimensional Report">Purchase Invoice Dimensional Report</value>
     <value column="Description" isTrl="N" original="Invoice vendor dimensional analyses">Invoice vendor dimensional analyses</value>
   </row>
   <row id="800269" trl="N">

@@ -21,8 +21,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="0CF797887AC9494F9C250A6B6EB5D60D" trl="N">
-    <value column="Name" isTrl="N" original="Writeoff">Writeoff</value>
-    <value column="PrintName" isTrl="N" original="Writeoff">Writeoff</value>
+    <value column="Name" isTrl="N" original="Writeoff">Списание со счета</value>
+    <value column="PrintName" isTrl="N" original="Writeoff">Списание со счета</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -31,8 +31,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="256AB5C3D6144B2C9884CF0FA4D81911" trl="N">
-    <value column="Name" isTrl="N" original="Payment Date">Payment Date</value>
-    <value column="PrintName" isTrl="N" original="Payment Date">Payment Date</value>
+    <value column="Name" isTrl="N" original="Payment Date">Дата оплаты</value>
+    <value column="PrintName" isTrl="N" original="Payment Date">Дата оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -41,8 +41,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="36C60E53F1274EDA827ED5146A2B13D1" trl="N">
-    <value column="Name" isTrl="N" original="Process Proposal">Process Proposal</value>
-    <value column="PrintName" isTrl="N" original="Process Proposal">Process Proposal</value>
+    <value column="Name" isTrl="N" original="Process Proposal">Обработка заявки</value>
+    <value column="PrintName" isTrl="N" original="Process Proposal">Обработка заявки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -71,18 +71,18 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="519F3CD67106443CBF25694F1BB6E92B" trl="N">
-    <value column="Name" isTrl="N" original="Match Reference">Match Reference</value>
-    <value column="PrintName" isTrl="N" original="Match Reference">Match Reference</value>
-    <value column="Description" isTrl="N" original="Algorithm tries to match reference">Algorithm tries to match reference</value>
-    <value column="Help" isTrl="N" original="The algorithm will try to match using reference.">The algorithm will try to match using reference.</value>
+    <value column="Name" isTrl="N" original="Match Reference">Соответствие ссылки</value>
+    <value column="PrintName" isTrl="N" original="Match Reference">Соответствие ссылки</value>
+    <value column="Description" isTrl="N" original="Algorithm tries to match reference">Алгоритм соответствия ссылки</value>
+    <value column="Help" isTrl="N" original="The algorithm will try to match using reference.">Алгоритм будет пытаться найти соответствие используя ссылку.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="56CC0941477A4250AD07527AE15FAC61" trl="N">
-    <value column="Name" isTrl="N" original="Payment">Payment</value>
-    <value column="PrintName" isTrl="N" original="Payment">Payment</value>
+    <value column="Name" isTrl="N" original="Payment">Платеж</value>
+    <value column="PrintName" isTrl="N" original="Payment">Платеж</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -91,8 +91,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="583D70554DDA45BD8C80C0AF11C64FC5" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Document No.">Invoice Document No.</value>
-    <value column="PrintName" isTrl="N" original="Invoice_Documentno">Invoice_Documentno</value>
+    <value column="Name" isTrl="N" original="Invoice Document No.">№ Счета</value>
+    <value column="PrintName" isTrl="N" original="Invoice_Documentno">№ Счета</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -101,8 +101,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5D3526B2FC0F4BB2BE7FE13C5E9C009A" trl="N">
-    <value column="Name" isTrl="N" original="Difference">Difference</value>
-    <value column="PrintName" isTrl="N" original="Difference">Difference</value>
+    <value column="Name" isTrl="N" original="Difference">Разница</value>
+    <value column="PrintName" isTrl="N" original="Difference">Разница</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -121,8 +121,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="64B01B6184B84599B2B073BC7971EA19" trl="N">
-    <value column="Name" isTrl="N" original="Order Document No.">Order Document No.</value>
-    <value column="PrintName" isTrl="N" original="Order_Documentno">Order_Documentno</value>
+    <value column="Name" isTrl="N" original="Order Document No.">№ Заказа</value>
+    <value column="PrintName" isTrl="N" original="Order_Documentno">№ Заказа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -131,8 +131,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="720C4FC08FBD43419FF7EACABECA6AE3" trl="N">
-    <value column="Name" isTrl="N" original="reconciliationId">reconciliationId</value>
-    <value column="PrintName" isTrl="N" original="reconciliationId">reconciliationId</value>
+    <value column="Name" isTrl="N" original="reconciliationId">№ Сверки</value>
+    <value column="PrintName" isTrl="N" original="reconciliationId">№ Сверки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -141,8 +141,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="77E12B7AAB9F45BF9D3263E5967A696A" trl="N">
-    <value column="Name" isTrl="N" original="language">language</value>
-    <value column="PrintName" isTrl="N" original="language">language</value>
+    <value column="Name" isTrl="N" original="language">Язык</value>
+    <value column="PrintName" isTrl="N" original="language">Язык</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -153,8 +153,8 @@
   <row id="78A3787B4823C096E040007F0101250E" trl="N">
     <value column="Name" isTrl="Y" original="Add Payment">Добавить платёж</value>
     <value column="PrintName" isTrl="Y" original="Add Payment">Добавить платёж</value>
-    <value column="Description" isTrl="N" original="Add Payment button.">Add Payment button.</value>
-    <value column="Help" isTrl="N" original="Launches a process to add a payment to the selected invoice.">Launches a process to add a payment to the selected invoice.</value>
+    <value column="Description" isTrl="N" original="Add Payment button.">Кнопка Добавить платёж.</value>
+    <value column="Help" isTrl="N" original="Launches a process to add a payment to the selected invoice.">Запускает обработку добавиления оплату с выбраннного счета.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="Y" original="Add Payment">Добавить платёж</value>
@@ -171,8 +171,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7DC34559B413B45BE040007F0100784A" trl="N">
-    <value column="Name" isTrl="N" original="Reconcile Payment">Reconcile Payment</value>
-    <value column="PrintName" isTrl="N" original="Reconcile Payment">Reconcile Payment</value>
+    <value column="Name" isTrl="N" original="Reconcile Payment">Сверить платеж</value>
+    <value column="PrintName" isTrl="N" original="Reconcile Payment">Сверить платеж</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -191,8 +191,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="82EFB8E4045B19C9E040007F01003778" trl="N">
-    <value column="Name" isTrl="N" original="Unreconciled Bank Statement Lines Amount">Unreconciled Bank Statement Lines Amount</value>
-    <value column="PrintName" isTrl="N" original="Unreconciled Bank Statement Lines Amount">Unreconciled Bank Statement Lines Amount</value>
+    <value column="Name" isTrl="N" original="Unreconciled Bank Statement Lines Amount">Несогласованные суммы по расчетным счетам</value>
+    <value column="PrintName" isTrl="N" original="Unreconciled Bank Statement Lines Amount">Несогласованные суммы по расчетным счетам</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -201,8 +201,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="82EFB8E4045C19C9E040007F01003778" trl="N">
-    <value column="Name" isTrl="N" original="Unreconciled Bank Statement Lines">Unreconciled Bank Statement Lines</value>
-    <value column="PrintName" isTrl="N" original="Unreconciled Bank Statement Lines">Unreconciled Bank Statement Lines</value>
+    <value column="Name" isTrl="N" original="Unreconciled Bank Statement Lines">Несогласованные строки расчетного счета</value>
+    <value column="PrintName" isTrl="N" original="Unreconciled Bank Statement Lines">Несогласованные строки расчетного счета</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -211,8 +211,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="82EFB8E4045D19C9E040007F01003778" trl="N">
-    <value column="Name" isTrl="N" original="Outstanding Deposits">Outstanding Deposits</value>
-    <value column="PrintName" isTrl="N" original="Outstanding Deposits">Outstanding Deposits</value>
+    <value column="Name" isTrl="N" original="Outstanding Deposits">Просроченные вклады</value>
+    <value column="PrintName" isTrl="N" original="Outstanding Deposits">Просроченные вклады</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -221,8 +221,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="82EFB8E4045E19C9E040007F01003778" trl="N">
-    <value column="Name" isTrl="N" original="Reconciled Items">Reconciled Items</value>
-    <value column="PrintName" isTrl="N" original="Reconciled Items">Reconciled Items</value>
+    <value column="Name" isTrl="N" original="Reconciled Items">Сверенные элементы</value>
+    <value column="PrintName" isTrl="N" original="Reconciled Items">Сверенные элементы</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -231,8 +231,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="82EFB8E4045F19C9E040007F01003778" trl="N">
-    <value column="Name" isTrl="N" original="Reconciled Items Amount">Reconciled Items Amount</value>
-    <value column="PrintName" isTrl="N" original="Reconciled Items Amount">Reconciled Items Amount</value>
+    <value column="Name" isTrl="N" original="Reconciled Items Amount">Сверенные итоги элементов</value>
+    <value column="PrintName" isTrl="N" original="Reconciled Items Amount">Сверенные итоги элементов</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -241,8 +241,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="82EFB8E4046119C9E040007F01003778" trl="N">
-    <value column="Name" isTrl="N" original="Outstanding Payments Amount">Outstanding Payments Amount</value>
-    <value column="PrintName" isTrl="N" original="Outstanding Payments Amount">Outstanding Payments Amount</value>
+    <value column="Name" isTrl="N" original="Outstanding Payments Amount">Сумма просроченных платежей</value>
+    <value column="PrintName" isTrl="N" original="Outstanding Payments Amount">Сумма просроченных платежей</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -251,8 +251,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="82EFB8E4046219C9E040007F01003778" trl="N">
-    <value column="Name" isTrl="N" original="Outstanding Deposit Amount">Outstanding Deposit Amount</value>
-    <value column="PrintName" isTrl="N" original="Outstanding Deposit Amount">Outstanding Deposit Amount</value>
+    <value column="Name" isTrl="N" original="Outstanding Deposit Amount">Сумма просроченных вкладов</value>
+    <value column="PrintName" isTrl="N" original="Outstanding Deposit Amount">Сумма просроченных вкладов</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -261,8 +261,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="82EFB8E4046319C9E040007F01003778" trl="N">
-    <value column="Name" isTrl="N" original="Outstanding Payments">Outstanding Payments</value>
-    <value column="PrintName" isTrl="N" original="Outstanding Payments">Outstanding Payments</value>
+    <value column="Name" isTrl="N" original="Outstanding Payments">Просроченные платежи</value>
+    <value column="PrintName" isTrl="N" original="Outstanding Payments">Просроченные платежи</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -271,9 +271,9 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8337CDFBF2904C07AB7F9D69E1536663" trl="N">
-    <value column="Name" isTrl="N" original="Select Expected Payments">Select Expected Payments</value>
-    <value column="PrintName" isTrl="N" original="Select Expected Payments">Select Expected Payments</value>
-    <value column="Description" isTrl="N" original="Select Expected Payments">Select Expected Payments</value>
+    <value column="Name" isTrl="N" original="Select Expected Payments">Выберите запланированные платежи</value>
+    <value column="PrintName" isTrl="N" original="Select Expected Payments">Выберите запланированные платежи</value>
+    <value column="Description" isTrl="N" original="Select Expected Payments">Выберите запланированные платежи</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -283,7 +283,7 @@
   <row id="8448D8212AA95824E040007F01001A1B" trl="N">
     <value column="Name" isTrl="N" original="Forced_Table_ID">Forced_Table_ID</value>
     <value column="PrintName" isTrl="N" original="Forced_Table_ID">Forced_Table_ID</value>
-    <value column="Description" isTrl="N" original="Hidden column to set the source table id in views.">Hidden column to set the source table id in views.</value>
+    <value column="Description" isTrl="N" original="Hidden column to set the source table id in views.">Скрытая колонка для установки ID в таблице источника в представлении.</value>
     <value column="Help" isTrl="N" original="Hidden column to set the source table id in views. It is needed when creating a tab from a view which will trigger accounting. In that case the original AD_Table_ID is loaded through Forced_Table_ID.">Hidden column to set the source table id in views. It is needed when creating a tab from a view which will trigger accounting. In that case the original AD_Table_ID is loaded through Forced_Table_ID.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -301,8 +301,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="87AA1068F10742CAE040007F010011D5" trl="N">
-    <value column="Name" isTrl="N" original="Execute Payment">Execute Payment</value>
-    <value column="PrintName" isTrl="N" original="Execute Payment">Execute Payment</value>
+    <value column="Name" isTrl="N" original="Execute Payment">Выпоолнить оплату</value>
+    <value column="PrintName" isTrl="N" original="Execute Payment">Выпоолнить оплату</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -331,10 +331,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="91DD92021CFA438DBBF2ABAFCB2089C5" trl="N">
-    <value column="Name" isTrl="N" original="Modify">Modify</value>
-    <value column="PrintName" isTrl="N" original="Modify">Modify</value>
-    <value column="Description" isTrl="N" original="Modify existing transaction once created">Modify existing transaction once created</value>
-    <value column="Help" isTrl="N" original="Process to modify transactions GL Item type once they have been created">Process to modify transactions GL Item type once they have been created</value>
+    <value column="Name" isTrl="N" original="Modify">Изменить</value>
+    <value column="PrintName" isTrl="N" original="Modify">Изменить</value>
+    <value column="Description" isTrl="N" original="Modify existing transaction once created">Изменить существующую операцию однажды созданной</value>
+    <value column="Help" isTrl="N" original="Process to modify transactions GL Item type once they have been created">ОБработка измениния операции GL тип элемента, как только она была создана</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -343,8 +343,8 @@
   <row id="A0417A0E924ACA28E040007F01003C18" trl="N">
     <value column="Name" isTrl="Y" original="Delete">Удалить</value>
     <value column="PrintName" isTrl="Y" original="Delete">Удалить</value>
-    <value column="Description" isTrl="N" original="Delete button">Delete button</value>
-    <value column="Help" isTrl="N" original="Delete button">Delete button</value>
+    <value column="Description" isTrl="N" original="Delete button">Кнопка удаления</value>
+    <value column="Help" isTrl="N" original="Delete button">Кнопка удаления</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -363,7 +363,7 @@
   <row id="A0417A0E924CCA28E040007F01003C18" trl="N">
     <value column="Name" isTrl="N" original="EM_APRM_AddTransactions">EM_APRM_AddTransactions</value>
     <value column="PrintName" isTrl="N" original="EM_APRM_AddTransactions">EM_APRM_AddTransactions</value>
-    <value column="Description" isTrl="N" original="Add Transaction From Financial Account">Add Transaction From Financial Account</value>
+    <value column="Description" isTrl="N" original="Add Transaction From Financial Account">Добавить операцию с финансовом счетом</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -373,7 +373,7 @@
   <row id="A0417A0E924DCA28E040007F01003C18" trl="N">
     <value column="Name" isTrl="N" original="EM_APRM_ImportBankFile">EM_APRM_ImportBankFile</value>
     <value column="PrintName" isTrl="N" original="EM_APRM_ImportBankFile">EM_APRM_ImportBankFile</value>
-    <value column="Description" isTrl="N" original="ImportBankFile">ImportBankFile</value>
+    <value column="Description" isTrl="N" original="ImportBankFile">Выписка клиент-банка</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -401,18 +401,18 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="A2966FBA8749447F88BEEC89117C6915" trl="N">
-    <value column="Name" isTrl="N" original="Match BP Name">Match BP Name</value>
-    <value column="PrintName" isTrl="N" original="Match BP Name">Match BP Name</value>
-    <value column="Description" isTrl="N" original="Algorithm tries to mach business partner name">Algorithm tries to mach business partner name</value>
-    <value column="Help" isTrl="N" original="The algorithm will try to match using busines partner name.">The algorithm will try to match using busines partner name.</value>
+    <value column="Name" isTrl="N" original="Match BP Name">Поиск контрагентов</value>
+    <value column="PrintName" isTrl="N" original="Match BP Name">Поиск контрагентов</value>
+    <value column="Description" isTrl="N" original="Algorithm tries to mach business partner name">Алгоритм поиска контрагентов</value>
+    <value column="Help" isTrl="N" original="The algorithm will try to match using busines partner name.">Алгоритм поиска контрагентов.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="A37C6F84AA423F50E040007F01006E35" trl="N">
-    <value column="Name" isTrl="N" original="Financial Account Transaction">Financial Account Transaction</value>
-    <value column="PrintName" isTrl="N" original="Financial Account Transaction">Financial Account Transaction</value>
+    <value column="Name" isTrl="N" original="Financial Account Transaction">Операция с финансовым счетом</value>
+    <value column="PrintName" isTrl="N" original="Financial Account Transaction">Операция с финансовым счетом</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -431,8 +431,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="A37C6F84AA443F50E040007F01006E35" trl="N">
-    <value column="Name" isTrl="Y" original="Reconciled">Соласовано</value>
-    <value column="PrintName" isTrl="Y" original="Reconciled">Соласовано</value>
+    <value column="Name" isTrl="Y" original="Reconciled">Сверено</value>
+    <value column="PrintName" isTrl="Y" original="Reconciled">Сверено</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -441,8 +441,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="A37C6F84AA453F50E040007F01006E35" trl="N">
-    <value column="Name" isTrl="N" original="Delete_Btn">Delete_Btn</value>
-    <value column="PrintName" isTrl="N" original="Delete_Btn">Delete_Btn</value>
+    <value column="Name" isTrl="N" original="Delete_Btn">Кнопка удаления</value>
+    <value column="PrintName" isTrl="N" original="Delete_Btn">Кнопка удаления</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -451,8 +451,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="A37C6F84AA463F50E040007F01006E35" trl="N">
-    <value column="Name" isTrl="N" original="Payment No.">Payment No.</value>
-    <value column="PrintName" isTrl="N" original="Payment No.">Payment No.</value>
+    <value column="Name" isTrl="N" original="Payment No.">№ Платежа</value>
+    <value column="PrintName" isTrl="N" original="Payment No.">№ Платежа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -471,28 +471,28 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="AF073DA2C96EFA0CE040A8C09166378E" trl="N">
-    <value column="Name" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
-    <value column="PrintName" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
+    <value column="Name" isTrl="N" original="Modify Payment Plan">Изменить плановый платеж</value>
+    <value column="PrintName" isTrl="N" original="Modify Payment Plan">Изменить плановый платеж</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
-    <value column="PO_PrintName" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
+    <value column="PO_Name" isTrl="N" original="Modify Payment Plan">Изменить плановый платеж</value>
+    <value column="PO_PrintName" isTrl="N" original="Modify Payment Plan">Изменить плановый платеж</value>
   </row>
   <row id="B0FA9EF3D10E46FF9D402AB44056363B" trl="N">
-    <value column="Name" isTrl="N" original="Print Summary">Print Summary</value>
-    <value column="PrintName" isTrl="N" original="Print Summary">Print Summary</value>
-    <value column="Description" isTrl="N" original="Print Summary reconciliation report">Print Summary reconciliation report</value>
-    <value column="Help" isTrl="N" original="Print Summary reconciliation report">Print Summary reconciliation report</value>
+    <value column="Name" isTrl="N" original="Print Summary">Печать кратко</value>
+    <value column="PrintName" isTrl="N" original="Print Summary">Печать кратко</value>
+    <value column="Description" isTrl="N" original="Print Summary reconciliation report">Печать отчета краткой сверки</value>
+    <value column="Help" isTrl="N" original="Print Summary reconciliation report">Печать отчета краткой сверки</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B40C938A247779EFE040A8C0916618AE" trl="N">
-    <value column="Name" isTrl="N" original="buttonList">buttonList</value>
-    <value column="PrintName" isTrl="N" original="buttonList">buttonList</value>
+    <value column="Name" isTrl="N" original="buttonList">Список кнопок</value>
+    <value column="PrintName" isTrl="N" original="buttonList">Список кнопок</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -501,18 +501,18 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C09E18A3FCFEC058E040007F010024F4" trl="N">
-    <value column="Name" isTrl="N" original="Reverse Payment">Reverse Payment</value>
-    <value column="PrintName" isTrl="N" original="Reverse Payment">Reverse Payment</value>
-    <value column="Description" isTrl="N" original="Create an opposite payment which reverts selected.">Create an opposite payment which reverts selected.</value>
-    <value column="Help" isTrl="N" original="Create an opposite payment which reverts selected.">Create an opposite payment which reverts selected.</value>
+    <value column="Name" isTrl="N" original="Reverse Payment">Обратный платеж</value>
+    <value column="PrintName" isTrl="N" original="Reverse Payment">Обратный платеж</value>
+    <value column="Description" isTrl="N" original="Create an opposite payment which reverts selected.">Создание противоположного платежа, возвращамый выбранному.</value>
+    <value column="Help" isTrl="N" original="Create an opposite payment which reverts selected.">Создание противоположного платежа, возвращамый выбранному.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C5BB574D9652494086707528FF8175D6" trl="N">
-    <value column="Name" isTrl="N" original="Select Expected Payments">Select Expected Payments</value>
-    <value column="PrintName" isTrl="N" original="Select Expected Payments">Select Expected Payments</value>
+    <value column="Name" isTrl="N" original="Select Expected Payments">Выберите запланированные платежи</value>
+    <value column="PrintName" isTrl="N" original="Select Expected Payments">Выберите запланированные платежи</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -521,62 +521,62 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C8E8009C6BF5427EA930515F217F768E" trl="N">
-    <value column="Name" isTrl="N" original="Process Reconciliation">Process Reconciliation</value>
-    <value column="PrintName" isTrl="N" original="Process Reconciliation">Process Reconciliation</value>
-    <value column="Description" isTrl="N" original="Process Reconciliation Document">Process Reconciliation Document</value>
-    <value column="Help" isTrl="N" original="Used to process and reactivate reconciliation documents">Used to process and reactivate reconciliation documents</value>
+    <value column="Name" isTrl="N" original="Process Reconciliation">Обработка сверки</value>
+    <value column="PrintName" isTrl="N" original="Process Reconciliation">Обработка сверки</value>
+    <value column="Description" isTrl="N" original="Process Reconciliation Document">Документ Акт сверки</value>
+    <value column="Help" isTrl="N" original="Used to process and reactivate reconciliation documents">Используется для обработки и возобновления сверки документов</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="D2AC3F75FCDC4BC187A1F492C46D68D1" trl="N">
-    <value column="Name" isTrl="N" original="Purchase Invoice's Reference for Payment Description">Purchase Invoice's Reference for Payment Description</value>
-    <value column="PrintName" isTrl="N" original="Purchase Invoice's Reference for Payment Description">Purchase Invoice's Reference for Payment Description</value>
-    <value column="Description" isTrl="N" original="Purchase Invoice's Reference to be automatically included into the Payment Description.">Purchase Invoice's Reference to be automatically included into the Payment Description.</value>
-    <value column="Help" isTrl="N" original="Purchase Invoice's reference to be automatically included into the payment description. Possible values are:&#10;- Invoice document number (default).&#10;- Supplier reference, which is defined in the invoice's header.">Purchase Invoice's reference to be automatically included into the payment description. Possible values are:
-- Invoice document number (default).
-- Supplier reference, which is defined in the invoice's header.</value>
+    <value column="Name" isTrl="N" original="Purchase Invoice's Reference for Payment Description">Счет на закупку указывается в назначении платежа</value>
+    <value column="PrintName" isTrl="N" original="Purchase Invoice's Reference for Payment Description">Счет на закупку указывается в назначении платежа</value>
+    <value column="Description" isTrl="N" original="Purchase Invoice's Reference to be automatically included into the Payment Description.">Счет на закупку бадет автоматически включен в назначение платежа.</value>
+    <value column="Help" isTrl="N" original="Purchase Invoice's reference to be automatically included into the payment description. Possible values are:&#10;- Invoice document number (default).&#10;- Supplier reference, which is defined in the invoice's header.">В счете на покупку ссылка автоматически включена в описание платежа. Возможные значения:
+- Номер счета (по умолчанию).
+- Сылка на поставщика, который указан в шапке счета.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="DB85AA94D6DF4D7CB29CE7999B15F9C7" trl="N">
-    <value column="Name" isTrl="N" original="Print Detailed">Print Detailed</value>
-    <value column="PrintName" isTrl="N" original="Print Detailed">Print Detailed</value>
-    <value column="Description" isTrl="N" original="Print Detailed reconciliation report">Print Detailed reconciliation report</value>
-    <value column="Help" isTrl="N" original="Print Detailed reconciliation report">Print Detailed reconciliation report</value>
+    <value column="Name" isTrl="N" original="Print Detailed">Печать детализации</value>
+    <value column="PrintName" isTrl="N" original="Print Detailed">Печать детализации</value>
+    <value column="Description" isTrl="N" original="Print Detailed reconciliation report">Отчет детальной сверки</value>
+    <value column="Help" isTrl="N" original="Print Detailed reconciliation report">Отчет детальной сверки</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="DE92C5C14E9647D5B4E71F0C8E89E984" trl="N">
-    <value column="Name" isTrl="N" original="Match Transaction Date">Match Transaction Date</value>
-    <value column="PrintName" isTrl="N" original="Match Transaction Date">Match Transaction Date</value>
-    <value column="Description" isTrl="N" original="Algorithm tries to match transaction date">Algorithm tries to match transaction date</value>
-    <value column="Help" isTrl="N" original="The algorithm will try to match using transaction date.">The algorithm will try to match using transaction date.</value>
+    <value column="Name" isTrl="N" original="Match Transaction Date">Определить дату операции</value>
+    <value column="PrintName" isTrl="N" original="Match Transaction Date">Определить дату операции</value>
+    <value column="Description" isTrl="N" original="Algorithm tries to match transaction date">Алгоритм пытается найти дату совершения операции</value>
+    <value column="Help" isTrl="N" original="The algorithm will try to match using transaction date.">Алгоритм пытается найти дату совершения операции.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="EDB9CF491555465382F828F48291A0C0" trl="N">
-    <value column="Name" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
-    <value column="PrintName" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
+    <value column="Name" isTrl="N" original="Modify Payment Plan">Изменить плановый платеж</value>
+    <value column="PrintName" isTrl="N" original="Modify Payment Plan">Изменить плановый платеж</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
-    <value column="PO_PrintName" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
+    <value column="PO_Name" isTrl="N" original="Modify Payment Plan">Изменить плановый платеж</value>
+    <value column="PO_PrintName" isTrl="N" original="Modify Payment Plan">Изменить плановый платеж</value>
   </row>
   <row id="FC780C136EFA4D98B2435A9448FA44AD" trl="N">
-    <value column="Name" isTrl="N" original="Process_Reconciliation">Process_Reconciliation</value>
-    <value column="PrintName" isTrl="N" original="Process Reconciliation">Process Reconciliation</value>
-    <value column="Description" isTrl="N" original="Process Reconciliation Document">Process Reconciliation Document</value>
-    <value column="Help" isTrl="N" original="Used to process and reactivate reconciliation documents">Used to process and reactivate reconciliation documents</value>
+    <value column="Name" isTrl="N" original="Process_Reconciliation">Акт сверки</value>
+    <value column="PrintName" isTrl="N" original="Process Reconciliation">Акт сверки</value>
+    <value column="Description" isTrl="N" original="Process Reconciliation Document">Обрабокта сверки документов</value>
+    <value column="Help" isTrl="N" original="Used to process and reactivate reconciliation documents">Используется для обработки и возобновления сверки документов</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>

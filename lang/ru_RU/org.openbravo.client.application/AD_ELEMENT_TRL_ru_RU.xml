@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="">
   <row id="0E87BDD6E59C4B5FB9273E2580CC76B2" trl="N">
-    <value column="Name" isTrl="N" original="Navigation Bar Component Role Access">Navigation Bar Component Role Access</value>
-    <value column="PrintName" isTrl="N" original="Navigation Bar Component Role Access">Navigation Bar Component Role Access</value>
-    <value column="Description" isTrl="N" original="Defines which roles have access to which navigation bar components.">Defines which roles have access to which navigation bar components.</value>
-    <value column="Help" isTrl="N" original="Defines which roles have access to which navigation bar components.">Defines which roles have access to which navigation bar components.</value>
+    <value column="Name" isTrl="N" original="Navigation Bar Component Role Access">Панель Навигации Компонента Роль Доступа</value>
+    <value column="PrintName" isTrl="N" original="Navigation Bar Component Role Access">Панель Навигации Компонента Роль Доступа</value>
+    <value column="Description" isTrl="N" original="Defines which roles have access to which navigation bar components.">Определяет, какие роли имеют доступ к навигационной панели.</value>
+    <value column="Help" isTrl="N" original="Defines which roles have access to which navigation bar components.">Определяет, какие роли имеют доступ к навигационной панели.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -34,7 +34,7 @@
     <value column="Name" isTrl="Y" original="Summary Function">Функция статистики</value>
     <value column="PrintName" isTrl="Y" original="Summary Function">Функция статистики</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Defines the summary function to use, valid values: sum, avg, max, min, count">Defines the summary function to use, valid values: sum, avg, max, min, count</value>
+    <value column="Help" isTrl="N" original="Defines the summary function to use, valid values: sum, avg, max, min, count">Выводит итоги, допустимые значения: Сумма, Среднее, Максимум, Минимум, Количество</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -44,7 +44,7 @@
     <value column="Name" isTrl="N" original="New Function">Новая функция</value>
     <value column="PrintName" isTrl="N" original="New Function">Новая функция</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Defines the function that will called when adding a new row to the grid">Defines the function that will called when adding a new row to the grid</value>
+    <value column="Help" isTrl="N" original="Defines the function that will called when adding a new row to the grid">Определяет функцию, которая вызывается при добавлении новой строки в таблицу</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -53,7 +53,7 @@
   <row id="41A5FEDD70F140BF8438B8C8FA03B876" trl="N">
     <value column="Name" isTrl="Y" original="Validation Function">Функция проверки</value>
     <value column="PrintName" isTrl="Y" original="Validation Function">Функция проверки</value>
-    <value column="Description" isTrl="N" original="Defines the function to be used as part of fields validatiors">Defines the function to be used as part of fields validatiors</value>
+    <value column="Description" isTrl="N" original="Defines the function to be used as part of fields validatiors">Определяет функцию, используемую в качестве части поля контрольной суммы</value>
     <value column="Help" isTrl="N" original="By default a field have a set of validation functions, isNumber, isBoolean, etc. The developer can define a custom validator function to check the value entered by a the user.">By default a field have a set of validation functions, isNumber, isBoolean, etc. The developer can define a custom validator function to check the value entered by a the user.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -61,10 +61,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="4813809446914A86B03E9211DEA0A0E5" trl="N">
-    <value column="Name" isTrl="N" original="Multi Record">Multi Record</value>
-    <value column="PrintName" isTrl="N" original="Multi Record">Multi Record</value>
-    <value column="Description" isTrl="N" original="Allow execution on multiple records at the same time">Allow execution on multiple records at the same time</value>
-    <value column="Help" isTrl="N" original="Multi Record allows to execute the process in multiple records at the same time. When this flag is set, multiple records can be selected in grid mode and the process can be executed in all of them at the same time.">Multi Record allows to execute the process in multiple records at the same time. When this flag is set, multiple records can be selected in grid mode and the process can be executed in all of them at the same time.</value>
+    <value column="Name" isTrl="N" original="Multi Record">Множественная запись</value>
+    <value column="PrintName" isTrl="N" original="Multi Record">Множественная запись</value>
+    <value column="Description" isTrl="N" original="Allow execution on multiple records at the same time">Разрешает выполнение нескольких записей одновременно</value>
+    <value column="Help" isTrl="N" original="Multi Record allows to execute the process in multiple records at the same time. When this flag is set, multiple records can be selected in grid mode and the process can be executed in all of them at the same time.">Множественная запись позволяет выполнять процесс в нескольких записях одновременно. Когда флаг установлен, несколько записей может быть выбрать в табличном режиме, и процесс можно запустить одноврменно.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -73,18 +73,18 @@
   <row id="4B3999F4700C4C93ABEA49C89A8E484E" trl="N">
     <value column="Name" isTrl="Y" original="Available for All Roles">Доступно для всех ролей</value>
     <value column="PrintName" isTrl="Y" original="Available for All Roles">Доступно для всех ролей</value>
-    <value column="Description" isTrl="N" original="Defines that this navigation bar component is available to all roles or that role access is defined specifically by role.">Defines that this navigation bar component is available to all roles or that role access is defined specifically by role.</value>
-    <value column="Help" isTrl="N" original="Defines that this navigation bar component is available to all roles or that role access is defined specifically by role through the navigation bar role access table.">Defines that this navigation bar component is available to all roles or that role access is defined specifically by role through the navigation bar role access table.</value>
+    <value column="Description" isTrl="N" original="Defines that this navigation bar component is available to all roles or that role access is defined specifically by role.">Определяет, что навигационная панель компонент доступна для всех ролей или доступ определяется специально на роль.</value>
+    <value column="Help" isTrl="N" original="Defines that this navigation bar component is available to all roles or that role access is defined specifically by role through the navigation bar role access table.">Определяет, что навигационная панель компонент доступен для всех ролей или что доступ определяется специально на роль по таблице доступа ролей навигационной панели.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="4F42DE67C7DE44F6AD3C24E7C3B13844" trl="N">
-    <value column="Name" isTrl="N" original="Remove Function">Remove Function</value>
-    <value column="PrintName" isTrl="N" original="Remove Function">Remove Function</value>
-    <value column="Description" isTrl="N" original="Function that will get executed when removing a row from the grid">Function that will get executed when removing a row from the grid</value>
-    <value column="Help" isTrl="N" original="When the grid allows remove rows you can specify a &quot;on remove&quot; function that will get executed when trying remove a row. If the function returns false, the row will not get removed.">When the grid allows remove rows you can specify a "on remove" function that will get executed when trying remove a row. If the function returns false, the row will not get removed.</value>
+    <value column="Name" isTrl="N" original="Remove Function">Функция Удаления</value>
+    <value column="PrintName" isTrl="N" original="Remove Function">Функция Удаления</value>
+    <value column="Description" isTrl="N" original="Function that will get executed when removing a row from the grid">Функция запускается перед удалении строки из таблицы</value>
+    <value column="Help" isTrl="N" original="When the grid allows remove rows you can specify a &quot;on remove&quot; function that will get executed when trying remove a row. If the function returns false, the row will not get removed.">Перед тем, как в таблице удалить строки можно указать функцию "on remove", которые будут выполняется при попытке удалить строку. Если функция возвращает ложь, то строка не удалиться.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -101,30 +101,30 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5509E6BF87024E24A53DA324952D33C1" trl="N">
-    <value column="Name" isTrl="N" original="Classname of the view implementation">Classname of the view implementation</value>
-    <value column="PrintName" isTrl="N" original="Java Classname">Java Classname</value>
-    <value column="Description" isTrl="N" original="The java class name of the view implementation. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.">The java class name of the view implementation. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.</value>
-    <value column="Help" isTrl="N" original="The java class name of the view implementation. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.">The java class name of the view implementation. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.</value>
+    <value column="Name" isTrl="N" original="Classname of the view implementation">Класс реализации просмотра</value>
+    <value column="PrintName" isTrl="N" original="Java Classname">Имя класса Java</value>
+    <value column="Description" isTrl="N" original="The java class name of the view implementation. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.">Класс Java для реализации просмотра. Класс Java расширяет копмоненту org.openbravo.client.kernel.BaseTemplateComponent.</value>
+    <value column="Help" isTrl="N" original="The java class name of the view implementation. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.">Класс Java для реализации просмотра. Класс Java расширяет копмоненту org.openbravo.client.kernel.BaseTemplateComponent.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="557A756A00364FE5AFF9584D2F1C19FF" trl="N">
-    <value column="Name" isTrl="N" original="Process Defintion">Process Defintion</value>
+    <value column="Name" isTrl="N" original="Process Defintion">Процесс Определения</value>
     <value column="PrintName" isTrl="N" original="Obuiapp_Process_ID">Obuiapp_Process_ID</value>
-    <value column="Description" isTrl="N" original="Process Defintion">Process Defintion</value>
-    <value column="Help" isTrl="N" original="Process Defintion is a re implementation of Process with 3.0 infrastructure.">Process Defintion is a re implementation of Process with 3.0 infrastructure.</value>
+    <value column="Description" isTrl="N" original="Process Defintion">Процесс Определения</value>
+    <value column="Help" isTrl="N" original="Process Defintion is a re implementation of Process with 3.0 infrastructure.">Процесс определения является реализацией процесса с инфраструктуры 3.0.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6C7868D921F648E3AF7933397AAF2727" trl="N">
-    <value column="Name" isTrl="N" original="Show Summary">Show Summary</value>
-    <value column="PrintName" isTrl="N" original="Show Summary">Show Summary</value>
-    <value column="Description" isTrl="N" original="Show Summary">Show Summary</value>
-    <value column="Help" isTrl="N" original="Defines if the Field should show a summary function at the end of the grid">Defines if the Field should show a summary function at the end of the grid</value>
+    <value column="Name" isTrl="N" original="Show Summary">Показать Итоги</value>
+    <value column="PrintName" isTrl="N" original="Show Summary">Показать Итоги</value>
+    <value column="Description" isTrl="N" original="Show Summary">Показать Итоги</value>
+    <value column="Help" isTrl="N" original="Defines if the Field should show a summary function at the end of the grid">Возвращяет истину, если поле может показать итоговую функцию в конце таблицы</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -133,8 +133,8 @@
   <row id="6DBAB16113DB4879A0EA095E80FBA959" trl="N">
     <value column="Name" isTrl="Y" original="Can Delete">Можно удалить</value>
     <value column="PrintName" isTrl="Y" original="Can Delete">Можно удалить</value>
-    <value column="Description" isTrl="N" original="Defines if a user is allowed to delete lines">Defines if a user is allowed to delete lines</value>
-    <value column="Help" isTrl="N" original="Defines if a user is allowed to delete lines">Defines if a user is allowed to delete lines</value>
+    <value column="Description" isTrl="N" original="Defines if a user is allowed to delete lines">Определяет, может ли пользователь удалbть строки</value>
+    <value column="Help" isTrl="N" original="Defines if a user is allowed to delete lines">Определяет, может ли пользователь удалbть строки</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -151,8 +151,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7F257DE6A0C847A8A121804BC5F9B7A8" trl="N">
-    <value column="Name" isTrl="N" original="Navigation Bar Component">Navigation Bar Component</value>
-    <value column="PrintName" isTrl="N" original="Navigation Bar Component">Navigation Bar Component</value>
+    <value column="Name" isTrl="N" original="Navigation Bar Component">Навигационная панель компонент</value>
+    <value column="PrintName" isTrl="N" original="Navigation Bar Component">Навигационная панель компонент</value>
     <value column="Description" isTrl="N" original="A component shown in the navigation bar in the top of the user interface">A component shown in the navigation bar in the top of the user interface</value>
     <value column="Help" isTrl="N" original="A navigation bar component is a component which is shown in the navigation bar in the top of the user interface. For example a quick create or an application menu.">A navigation bar component is a component which is shown in the navigation bar in the top of the user interface. For example a quick create or an application menu.</value>
     <value column="PO_Description" isTrl="N" original=""/>

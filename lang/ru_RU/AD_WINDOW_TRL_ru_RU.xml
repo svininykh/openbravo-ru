@@ -123,9 +123,9 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.">Conversion rate also called currency exchange rate is the rate at which one currency may be converted into another one.</value>
   </row>
   <row id="1163E0338E154F41BE0BA413D49821CF" trl="N">
-    <value column="Name" isTrl="N" original="Dimensions Mapping">Dimensions Mapping</value>
-    <value column="Description" isTrl="N" original="This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. ">This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. </value>
-    <value column="Help" isTrl="N" original="This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. ">This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. </value>
+    <value column="Name" isTrl="N" original="Dimensions Mapping">Соотвествие измерений</value>
+    <value column="Description" isTrl="N" original="This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. ">Определяется системным администратором уровень бухгалтерских измеренй, обязательные для каждой категории документа, таблицы и уровня. </value>
+    <value column="Help" isTrl="N" original="This window defines at system administrator level  the accounting dimensions that are mandatory for each document category, table and level. ">Определяется системным администратором уровень бухгалтерских измеренй, обязательные для каждой категории документа, таблицы и уровня. </value>
   </row>
   <row id="117" trl="N">
     <value column="Name" isTrl="Y" original="Fiscal Calendar">Отчетный календарь</value>
@@ -360,7 +360,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Business partners can be grouped into different categories with the aim of helping their management and analysis.">Business partners can be grouped into different categories with the aim of helping their management and analysis.</value>
   </row>
   <row id="194" trl="N">
-    <value column="Name" isTrl="N" original="Bank Statement">Bank Statement</value>
+    <value column="Name" isTrl="N" original="Bank Statement">Выписка Банка</value>
     <value column="Description" isTrl="N" original="View your bank statements against transactions created and edited in the application.">View your bank statements against transactions created and edited in the application.</value>
     <value column="Help" isTrl="N" original="View your bank statements against transactions created and edited in the application.">View your bank statements against transactions created and edited in the application.</value>
   </row>
@@ -370,32 +370,32 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create cashbooks to manage all cash movements which occur in the cash journal.">Create cashbooks to manage all cash movements which occur in the cash journal.</value>
   </row>
   <row id="198" trl="N">
-    <value column="Name" isTrl="Y" original="Cash Journal">Касса</value>
+    <value column="Name" isTrl="Y" original="Cash Journal">Кассовый журнал</value>
     <value column="Description" isTrl="N" original="Add individual cash transactions to be managed and viewed in the cashbook.">Add individual cash transactions to be managed and viewed in the cashbook.</value>
     <value column="Help" isTrl="N" original="Add individual cash transactions to be managed and viewed in the cashbook.">Add individual cash transactions to be managed and viewed in the cashbook.</value>
   </row>
   <row id="1B7B3BB7FEAF41ED8D9727AB98779D3C" trl="N">
-    <value column="Name" isTrl="N" original="Payment Proposal">Payment Proposal</value>
+    <value column="Name" isTrl="N" original="Payment Proposal">Заявка на оплату</value>
     <value column="Description" isTrl="N" original="Generates a payment proposal for a selected payment method based on a criteria.">Generates a payment proposal for a selected payment method based on a criteria.</value>
     <value column="Help" isTrl="N" original="The payment proposal is a tool that helps the user to make payments by selecting the documents related to a given payment method or scheduled to be paid before a given due date. The system proposes what should be paid based on the selection criteria provided by the user.">The payment proposal is a tool that helps the user to make payments by selecting the documents related to a given payment method or scheduled to be paid before a given due date. The system proposes what should be paid based on the selection criteria provided by the user.</value>
   </row>
   <row id="200" trl="N">
-    <value column="Name" isTrl="N" original="Field Category">Field Category</value>
+    <value column="Name" isTrl="N" original="Field Category">Поле Категория</value>
     <value column="Description" isTrl="N" original="Edit the subsection field group properties of tabs.">Edit the subsection field group properties of tabs.</value>
     <value column="Help" isTrl="N" original="Edit the subsection field group properties of tabs.">Edit the subsection field group properties of tabs.</value>
   </row>
   <row id="207" trl="N">
-    <value column="Name" isTrl="N" original="Commission">Commission</value>
+    <value column="Name" isTrl="N" original="Commission">Комисся</value>
     <value column="Description" isTrl="N" original="Define how and when you want commissions to be calculated and to whom they are to be paid.">Define how and when you want commissions to be calculated and to whom they are to be paid.</value>
     <value column="Help" isTrl="N" original="Define how and when commissions are going to be calculated and to whom they are going to be paid.">Define how and when commissions are going to be calculated and to whom they are going to be paid.</value>
   </row>
   <row id="210" trl="N">
-    <value column="Name" isTrl="Y" original="Commission Payment">Комиссионный платеж</value>
+    <value column="Name" isTrl="N" original="Commission Payment">Оплата комиссии</value>
     <value column="Description" isTrl="N" original="Create commissions and create corresponding invoices.">Create commissions and create corresponding invoices.</value>
     <value column="Help" isTrl="N" original="Create commissions and create corresponding invoices.">Create commissions and create corresponding invoices.</value>
   </row>
   <row id="223" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Transaction">Движение товаров</value>
+    <value column="Name" isTrl="Y" original="Goods Transaction">Транзакции по товару</value>
     <value column="Description" isTrl="N" original="Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.">Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.</value>
     <value column="Help" isTrl="N" original="Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.">Goods Transactions window provides a read only view with extensive filtering capabilities that shows all inventory transactions.</value>
   </row>
@@ -415,37 +415,37 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="A price list schema is a template used to automatically populate a new version of a price list ">A price list schema is a template used to automatically populate a new version of a price list </value>
   </row>
   <row id="234" trl="N">
-    <value column="Name" isTrl="N" original="Expense Type">Expense Type</value>
-    <value column="Description" isTrl="N" original="Maintain Expense Report Types">Maintain Expense Report Types</value>
-    <value column="Help" isTrl="N" original="Maintain Expense Report Types">Maintain Expense Report Types</value>
+    <value column="Name" isTrl="N" original="Expense Type">Тип Расхода</value>
+    <value column="Description" isTrl="N" original="Maintain Expense Report Types">Сохранить тип расходя для отчета</value>
+    <value column="Help" isTrl="N" original="Maintain Expense Report Types">Сохранить тип расходя для отчета</value>
   </row>
   <row id="235" trl="N">
-    <value column="Name" isTrl="N" original="Expense Sheet">Expense Sheet</value>
+    <value column="Name" isTrl="N" original="Expense Sheet">Расчет Издержек</value>
     <value column="Description" isTrl="N" original="Create a time or expense sheet in order to submit employee or invoicable expenses.">Create a time or expense sheet in order to submit employee or invoicable expenses.</value>
     <value column="Help" isTrl="N" original="Create a time or expense sheet in order to submit employee or invoicable expenses.">Create a time or expense sheet in order to submit employee or invoicable expenses.</value>
   </row>
   <row id="236" trl="N">
-    <value column="Name" isTrl="N" original="Resource">Resource</value>
-    <value column="Description" isTrl="N" original="Maintain Resources">Maintain Resources</value>
-    <value column="Help" isTrl="N" original="Maintain Resources">Maintain Resources</value>
+    <value column="Name" isTrl="N" original="Resource">Запас</value>
+    <value column="Description" isTrl="N" original="Maintain Resources">Сохранить ресурсы</value>
+    <value column="Help" isTrl="N" original="Maintain Resources">Сохранить ресурсы</value>
   </row>
   <row id="237" trl="N">
-    <value column="Name" isTrl="N" original="Resource Type">Resource Type</value>
-    <value column="Description" isTrl="N" original="Maintain Resource Types">Maintain Resource Types</value>
-    <value column="Help" isTrl="N" original="Maintain Resource types and their principal availability.">Maintain Resource types and their principal availability.</value>
+    <value column="Name" isTrl="N" original="Resource Type">Тип Запаса</value>
+    <value column="Description" isTrl="N" original="Maintain Resource Types">Сохранить тип Запаса</value>
+    <value column="Help" isTrl="N" original="Maintain Resource types and their principal availability.">Сохранить типов ресурсов и их основную доступность.</value>
   </row>
   <row id="242" trl="N">
-    <value column="Name" isTrl="N" original="Invoiceable Expenses">Invoiceable Expenses</value>
-    <value column="Description" isTrl="N" original="View expenses before invoicing them to customers.">View expenses before invoicing them to customers.</value>
-    <value column="Help" isTrl="N" original="View expenses before invoicing them to customers.">View expenses before invoicing them to customers.</value>
+    <value column="Name" isTrl="N" original="Invoiceable Expenses">Затраты до выставления счетов</value>
+    <value column="Description" isTrl="N" original="View expenses before invoicing them to customers.">Вид расходов до выставления счета клиентам.</value>
+    <value column="Help" isTrl="N" original="View expenses before invoicing them to customers.">Вид расходов до выставления счета клиентам.</value>
   </row>
   <row id="246" trl="N">
     <value column="Name" isTrl="Y" original="System">Система</value>
-    <value column="Description" isTrl="N" original="System Definition">System Definition</value>
-    <value column="Help" isTrl="N" original="System Definition">System Definition</value>
+    <value column="Description" isTrl="N" original="System Definition">Определение системы</value>
+    <value column="Help" isTrl="N" original="System Definition">Определение системы</value>
   </row>
   <row id="24DDE1DDF13942D78B6D6F216979E56A" trl="N">
-    <value column="Name" isTrl="N" original="Execution Process">Execution Process</value>
+    <value column="Name" isTrl="N" original="Execution Process">Выполнение обработки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Some payments types require an additional activity to be executed upon completion of the payment.">Some payments types require an additional activity to be executed upon completion of the payment.</value>
   </row>
@@ -465,17 +465,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.">An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.</value>
   </row>
   <row id="257" trl="N">
-    <value column="Name" isTrl="Y" original="Lot">Лот</value>
+    <value column="Name" isTrl="N" original="Lot">Партия</value>
     <value column="Description" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
     <value column="Help" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
   </row>
   <row id="258" trl="N">
-    <value column="Name" isTrl="Y" original="Lot Number Sequence">Нумерация лотов</value>
-    <value column="Description" isTrl="N" original="Define a number sequence to assign lot numbers to products.">Define a number sequence to assign lot numbers to products.</value>
+    <value column="Name" isTrl="N" original="Lot Number Sequence">Номер партонной последовательности</value>
+    <value column="Description" isTrl="N" original="Define a number sequence to assign lot numbers to products.">Определяет номер последовательности для назначения партии к товарам.</value>
     <value column="Help" isTrl="N" original="A product attribute can be a Lot Number.">A product attribute can be a Lot Number.</value>
   </row>
   <row id="259" trl="N">
-    <value column="Name" isTrl="Y" original="Serial Number Sequence">Нумерация серийных номеров</value>
+    <value column="Name" isTrl="N" original="Serial Number Sequence">Серийный номер последовательности</value>
     <value column="Description" isTrl="N" original="Define a serial number sequence to assign serial numbers to products.">Define a serial number sequence to assign serial numbers to products.</value>
     <value column="Help" isTrl="N" original="A product attribute can be a serial number.">A product attribute can be a serial number.</value>
   </row>
@@ -631,7 +631,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit payments with no corresponding document/transaction in the application.">Create and edit payments with no corresponding document/transaction in the application.</value>
   </row>
   <row id="800007" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Item">Проводка Г/К</value>
+    <value column="Name" isTrl="Y" original="G/L Item">Г/К Типовая проводка</value>
     <value column="Description" isTrl="N" original="Create and edit accounting items to be used in manual settlements.">Create and edit accounting items to be used in manual settlements.</value>
     <value column="Help" isTrl="N" original="A G/L item is an account item to be used for direct account posting.">A G/L item is an account item to be used for direct account posting.</value>
   </row>
@@ -731,13 +731,13 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define the steps and processes to be completed for an intermediate or finished good, taking into account available resources.">Define the steps and processes to be completed for an intermediate or finished good, taking into account available resources.</value>
   </row>
   <row id="800052" trl="N">
-    <value column="Name" isTrl="N" original="Work Requirement">Work Requirement</value>
+    <value column="Name" isTrl="N" original="Work Requirement">Требование к работе</value>
     <value column="Description" isTrl="N" original="Create and manage an order for a process plan to be executed a certain number of times to satisfy the production requirements.">Create and manage an order for a process plan to be executed a certain number of times to satisfy the production requirements.</value>
     <value column="Help" isTrl="N" original="Create and manage an order for a process plan to be executed a certain number of times to satisfy the production requirements.">Create and manage an order for a process plan to be executed a certain number of times to satisfy the production requirements.</value>
   </row>
   <row id="800053" trl="N">
-    <value column="Name" isTrl="N" original="Work Effort">Work Effort</value>
-    <value column="Description" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Edit precisely what has been produced from a selected product order.</value>
+    <value column="Name" isTrl="N" original="Work Effort">Достижения в работе</value>
+    <value column="Description" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Изменить только то, что было получено из выбранного заказа покупателя.</value>
     <value column="Help" isTrl="N" original="Edit precisely what has been produced from a selected product order.">Edit precisely what has been produced from a selected product order.</value>
   </row>
   <row id="800060" trl="N">
@@ -746,17 +746,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define activities (processes) to be performed as part of a process plan and their characteristics .">Define activities (processes) to be performed as part of a process plan and their characteristics .</value>
   </row>
   <row id="800063" trl="N">
-    <value column="Name" isTrl="N" original="Quality Control Point">Quality Control Point</value>
+    <value column="Name" isTrl="N" original="Quality Control Point">Контрольная точка</value>
     <value column="Description" isTrl="N" original="Define quality control check points to be used for testing the product quality at any point in the production process.">Define quality control check points to be used for testing the product quality at any point in the production process.</value>
     <value column="Help" isTrl="N" original="Define quality control check points to be used for testing the product quality at any point in the production process.">Define quality control check points to be used for testing the product quality at any point in the production process.</value>
   </row>
   <row id="800064" trl="N">
-    <value column="Name" isTrl="N" original="Quality Control Report">Quality Control Report</value>
+    <value column="Name" isTrl="N" original="Quality Control Report">Отчет контроля качества</value>
     <value column="Description" isTrl="N" original="Create and edit measurements and report findings at predefined checkpoints.  The goal is to ensure output quality during production.">Create and edit measurements and report findings at predefined checkpoints.  The goal is to ensure output quality during production.</value>
     <value column="Help" isTrl="N" original="Create and edit measurements and report findings at predefined checkpoints.  The goal is to ensure output quality during production.">Create and edit measurements and report findings at predefined checkpoints.  The goal is to ensure output quality during production.</value>
   </row>
   <row id="800066" trl="N">
-    <value column="Name" isTrl="N" original="Periodic Quality Control">Periodic Quality Control</value>
+    <value column="Name" isTrl="N" original="Periodic Quality Control">Периодический контроль качества</value>
     <value column="Description" isTrl="N" original="Define checkpoints to be used for quality control of a produced product.">Define checkpoints to be used for quality control of a produced product.</value>
     <value column="Help" isTrl="N" original="Define checkpoints to be used for quality control of a produced product.">Define checkpoints to be used for quality control of a produced product.</value>
   </row>
@@ -776,7 +776,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit the structure of how to print a promissory note.">Create and edit the structure of how to print a promissory note.</value>
   </row>
   <row id="800070" trl="N">
-    <value column="Name" isTrl="N" original="Callout">Callout</value>
+    <value column="Name" isTrl="N" original="Callout">Выноска</value>
     <value column="Description" isTrl="N" original="Define callouts of  the application, their classes, and their mapping plan.">Define callouts of  the application, their classes, and their mapping plan.</value>
     <value column="Help" isTrl="N" original="Define callouts of  the application, their classes, and their mapping plan.">Define callouts of  the application, their classes, and their mapping plan.</value>
   </row>
@@ -791,27 +791,27 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define a scheduled maintenance task to be completed during the production process.">Define a scheduled maintenance task to be completed during the production process.</value>
   </row>
   <row id="800074" trl="N">
-    <value column="Name" isTrl="N" original="Maintenance Plan">Maintenance Plan</value>
+    <value column="Name" isTrl="N" original="Maintenance Plan">План обслуживания</value>
     <value column="Description" isTrl="N" original="Add and edit predefined maintenance plans.">Add and edit predefined maintenance plans.</value>
     <value column="Help" isTrl="N" original="Add and edit predefined maintenance plans.">Add and edit predefined maintenance plans.</value>
   </row>
   <row id="800075" trl="N">
-    <value column="Name" isTrl="N" original="Maintenance Order">Maintenance Order</value>
+    <value column="Name" isTrl="N" original="Maintenance Order">Заказ в производство</value>
     <value column="Description" isTrl="N" original="Create and edit the results of a scheduled maintenance order.">Create and edit the results of a scheduled maintenance order.</value>
     <value column="Help" isTrl="N" original="Create and edit the results of a scheduled maintenance order.">Create and edit the results of a scheduled maintenance order.</value>
   </row>
   <row id="800076" trl="N">
-    <value column="Name" isTrl="N" original="Internal Consumption">Internal Consumption</value>
+    <value column="Name" isTrl="N" original="Internal Consumption">Внутреннее потребление</value>
     <value column="Description" isTrl="N" original="Define products which are only to be used inside the enterprise.">Define products which are only to be used inside the enterprise.</value>
     <value column="Help" isTrl="N" original="Define products which are only to be used inside the enterprise.">Define products which are only to be used inside the enterprise.</value>
   </row>
   <row id="800077" trl="N">
-    <value column="Name" isTrl="N" original="Budget">Budget</value>
+    <value column="Name" isTrl="N" original="Budget">Бюджет</value>
     <value column="Description" isTrl="N" original="Create and edit budgets to be used for informative purposes.">Create and edit budgets to be used for informative purposes.</value>
     <value column="Help" isTrl="N" original="Create and edit budgets to be used for informative purposes.">Create and edit budgets to be used for informative purposes.</value>
   </row>
   <row id="800080" trl="N">
-    <value column="Name" isTrl="N" original="Payment Status Management">Payment Status Management</value>
+    <value column="Name" isTrl="N" original="Payment Status Management">Изменение статусов оплаты</value>
     <value column="Description" isTrl="N" original="Edit the status of payments for the accounting purposes.">Edit the status of payments for the accounting purposes.</value>
     <value column="Help" isTrl="N" original="Edit the status of payments for the accounting purposes.">Edit the status of payments for the accounting purposes.</value>
   </row>
@@ -821,7 +821,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
   </row>
   <row id="800082" trl="N">
-    <value column="Name" isTrl="N" original="Remittance">Remittance</value>
+    <value column="Name" isTrl="N" original="Remittance">Денежный перевод</value>
     <value column="Description" isTrl="N" original="Edit payments by using remittances to cancel or return them.">Edit payments by using remittances to cancel or return them.</value>
     <value column="Help" isTrl="N" original="Edit payments by using remittances to cancel or return them.">Edit payments by using remittances to cancel or return them.</value>
   </row>
@@ -851,7 +851,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define the entity in charge of managing the purchase or production of specific products.">Define the entity in charge of managing the purchase or production of specific products.</value>
   </row>
   <row id="800090" trl="N">
-    <value column="Name" isTrl="N" original="MRP Forecast">MRP Forecast</value>
+    <value column="Name" isTrl="N" original="MRP Forecast">MRP Прогноз</value>
     <value column="Description" isTrl="N" original="Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.">Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.</value>
     <value column="Help" isTrl="N" original="Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.">Create and edit MRP forecasts over a specified time period in order to help plan necessary purchases.</value>
   </row>
@@ -916,7 +916,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="AB30B4B4C94540849D221C4BC31A9816" trl="N">
-    <value column="Name" isTrl="N" original="Reject Reason">Reject Reason</value>
+    <value column="Name" isTrl="N" original="Reject Reason">Причина отказа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -926,17 +926,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="The payment run window is a read-only window which shows relevant information of each payment run executed within an organization.">The payment run window is a read-only window which shows relevant information of each payment run executed within an organization.</value>
   </row>
   <row id="B15DDE526F724EBCB11439BDDB483FA6" trl="N">
-    <value column="Name" isTrl="N" original="Accounting templates">Accounting templates</value>
+    <value column="Name" isTrl="N" original="Accounting templates">Бухгалтерские шаблоны</value>
     <value column="Description" isTrl="N" original="Accounting templates to overwrite default accounting behavior">Accounting templates to overwrite default accounting behavior</value>
     <value column="Help" isTrl="N" original="Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.">Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.</value>
   </row>
   <row id="B43A89704D864A6995BD5AC32201DBD9" trl="N">
-    <value column="Name" isTrl="N" original="Condition of the goods">Condition of the goods</value>
+    <value column="Name" isTrl="N" original="Condition of the goods">Состояния товаров</value>
     <value column="Description" isTrl="N" original="Condition of the goods to be used in window RM receipt">Condition of the goods to be used in window RM receipt</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B5673F73F613496C8BEA22FB55E4E1E4" trl="N">
-    <value column="Name" isTrl="N" original="End Year Close">End Year Close</value>
+    <value column="Name" isTrl="N" original="End Year Close">Закрытие года</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -946,17 +946,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="C85110C9334B4C26BA29BB3B91000689" trl="N">
-    <value column="Name" isTrl="N" original="Stock Reservation">Stock Reservation</value>
+    <value column="Name" isTrl="N" original="Stock Reservation">Бронирование</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="In this window is possible to review and manage existing Reservations.">In this window is possible to review and manage existing Reservations.</value>
   </row>
   <row id="D1D0C603DFC0423099D897A0DB388AC2" trl="N">
-    <value column="Name" isTrl="N" original="Matching Algorithm">Matching Algorithm</value>
+    <value column="Name" isTrl="N" original="Matching Algorithm">Алгоритм</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="D549B07D9D774AB2A60FF09E1562C93A" trl="N">
-    <value column="Name" isTrl="N" original="Payment Priority">Payment Priority</value>
+    <value column="Name" isTrl="N" original="Payment Priority">Приортитет оплаты</value>
     <value column="Description" isTrl="N" original="Define priorities for payment plans created when processing invoices and orders.">Define priorities for payment plans created when processing invoices and orders.</value>
     <value column="Help" isTrl="N" original="Define priorities for payment plans created when processing invoices and orders. You can mark as default the priority you want to be displayed as selected in Invoice and Order windows. You can only mark as default one priority.">Define priorities for payment plans created when processing invoices and orders. You can mark as default the priority you want to be displayed as selected in Invoice and Order windows. You can only mark as default one priority.</value>
   </row>
