@@ -61,18 +61,18 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="042A6ABD945A48A587CF3C14FEAE9CCC" trl="N">
-    <value column="Name" isTrl="N" original="Explode">Explode</value>
-    <value column="PrintName" isTrl="N" original="Explode">Explode</value>
+    <value column="Name" isTrl="N" original="Explode">Разобрать на части</value>
+    <value column="PrintName" isTrl="N" original="Explode">Разобрать</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Explode the BOM product">Explode the BOM product</value>
+    <value column="Help" isTrl="N" original="Explode the BOM product">Разобрать товар по спецификации</value>
     <value column="PO_Description" isTrl="N" original=""/>
-    <value column="PO_Help" isTrl="N" original="Explode the BOM product">Explode the BOM product</value>
-    <value column="PO_Name" isTrl="N" original="Explode">Explode</value>
-    <value column="PO_PrintName" isTrl="N" original="Explode">Explode</value>
+    <value column="PO_Help" isTrl="N" original="Explode the BOM product">Разобрать товар по спецификации</value>
+    <value column="PO_Name" isTrl="N" original="Explode">Разобрать</value>
+    <value column="PO_PrintName" isTrl="N" original="Explode">Разобрать на части</value>
   </row>
   <row id="05C19A393B104A858FCB3E1C3B731617" trl="N">
-    <value column="Name" isTrl="N" original="WS Rejected Average">WS Rejected Average</value>
-    <value column="PrintName" isTrl="N" original="WS Rejected Average">WS Rejected Average</value>
+    <value column="Name" isTrl="N" original="WS Rejected Average">Среднее кол-во отказов</value>
+    <value column="PrintName" isTrl="N" original="WS Rejected Average">Среднее кол-во отказов</value>
     <value column="Description" isTrl="N" original="Average number of  rejected Web Service calls per day in last 30 days">Average number of  rejected Web Service calls per day in last 30 days</value>
     <value column="Help" isTrl="N" original="Average number of  rejected Web Service calls per day in last 30 days">Average number of  rejected Web Service calls per day in last 30 days</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -81,8 +81,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="05D077D6BF73454F9BA49D9D3A0B27E8" trl="N">
-    <value column="Name" isTrl="N" original="Reject Reason">Reject Reason</value>
-    <value column="PrintName" isTrl="N" original="Reject Reason">Reject Reason</value>
+    <value column="Name" isTrl="N" original="Reject Reason">Причина отказа</value>
+    <value column="PrintName" isTrl="N" original="Reject Reason">Причина отказа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -91,8 +91,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="06982089ED1442FAA0E2626D2228CF4E" trl="N">
-    <value column="Name" isTrl="N" original="Doubtful Debt Method">Doubtful Debt Method</value>
-    <value column="PrintName" isTrl="N" original="Doubtful Debt Method">Doubtful Debt Method</value>
+    <value column="Name" isTrl="N" original="Doubtful Debt Method">Метод оределения сомнительной задолженности</value>
+    <value column="PrintName" isTrl="N" original="Doubtful Debt Method">Метод оределения сомнительной задолженности</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -121,9 +121,9 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="07B757ED9603499A93F0F4E224616BD2" trl="N">
-    <value column="Name" isTrl="N" original="Write-off Revenue">Write-off Revenue</value>
-    <value column="PrintName" isTrl="N" original="Write-off Revenue">Write-off Revenue</value>
-    <value column="Description" isTrl="N" original="Account for Payables write-off">Account for Payables write-off</value>
+    <value column="Name" isTrl="N" original="Write-off Revenue">Списание на доход</value>
+    <value column="PrintName" isTrl="N" original="Write-off Revenue">Списание на доход</value>
+    <value column="Description" isTrl="N" original="Account for Payables write-off">Счёт списания кредиторской задолженности на доход</value>
     <value column="Help" isTrl="N" original="The Write Off Account identifies the account to book write off transactions to.">The Write Off Account identifies the account to book write off transactions to.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -131,10 +131,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="08204F656FDC49578931D85795FD64A4" trl="N">
-    <value column="Name" isTrl="N" original="Split">Split</value>
-    <value column="PrintName" isTrl="N" original="Split">Split</value>
-    <value column="Description" isTrl="N" original="Split">Split</value>
-    <value column="Help" isTrl="N" original="Split">Split</value>
+    <value column="Name" isTrl="N" original="Split">Разбивка</value>
+    <value column="PrintName" isTrl="N" original="Split">Разбивка</value>
+    <value column="Description" isTrl="N" original="Split">Разбивка</value>
+    <value column="Help" isTrl="N" original="Split">Разбивка</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -151,8 +151,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="09644D659EAD44BCB36219CFADD5A6CE" trl="N">
-    <value column="Name" isTrl="N" original="Doubtful Debt Account">Doubtful Debt Account</value>
-    <value column="PrintName" isTrl="N" original="Doubtful Debt Account">Doubtful Debt Account</value>
+    <value column="Name" isTrl="N" original="Doubtful Debt Account">Счёт сомнительной задолженности</value>
+    <value column="PrintName" isTrl="N" original="Doubtful Debt Account">Счёт сомнительной задолженности</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -160,19 +160,19 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="09B56C6C0BF34E80A4EFDEEE4ED5DBCD" trl="N">
+  <row id="09B56C6C0BF34E80A4EFDEEE4ED5DBCD" trl="Y">
     <value column="Name" isTrl="Y" original="Debit">Дебет</value>
     <value column="PrintName" isTrl="Y" original="Debit">Дебет</value>
-    <value column="Description" isTrl="N" original="The amount debited from the account, given in provider currency.">The amount debited from the account, given in provider currency.</value>
-    <value column="Help" isTrl="N" original="The Source Debit Amount indicates the credit amount for this line in the source currency.">The Source Debit Amount indicates the credit amount for this line in the source currency.</value>
+    <value column="Description" isTrl="Y" original="The amount debited from the account, given in provider currency.">Сумма списывается с дебета счёта в валюте отправителя.</value>
+    <value column="Help" isTrl="Y" original="The Source Debit Amount indicates the credit amount for this line in the source currency.">Сумма списывается по дебету текущего счёта и переносится в кредит счёта назначения по данной строке в исходной валюте.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="0AEC83E9007C43A0906231DDCA7389B9" trl="N">
-    <value column="Name" isTrl="N" original="Last reconciliation">Last reconciliation</value>
-    <value column="PrintName" isTrl="N" original="Last reconciliation">Last reconciliation</value>
+    <value column="Name" isTrl="N" original="Last reconciliation">Последняя сверка взаиморасчётов</value>
+    <value column="PrintName" isTrl="N" original="Last reconciliation">Последняя сверка взаиморасчётов</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -762,10 +762,10 @@ References will be replaced by values:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1002100029" trl="N">
-    <value column="Name" isTrl="N" original="Tax Total Amount">Tax Total Amount</value>
-    <value column="PrintName" isTrl="N" original="Tax total amount">Tax total amount</value>
-    <value column="Description" isTrl="N" original="Tax total amount">Tax total amount</value>
-    <value column="Help" isTrl="N" original="Tax total amount">Tax total amount</value>
+    <value column="Name" isTrl="N" original="Tax Total Amount">Итого сумма налога</value>
+    <value column="PrintName" isTrl="N" original="Tax total amount">Итого сумма налога</value>
+    <value column="Description" isTrl="N" original="Tax total amount">Итого сумма налога</value>
+    <value column="Help" isTrl="N" original="Tax total amount">Итого сумма налога</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>

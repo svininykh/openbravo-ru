@@ -1455,7 +1455,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Audit Trail view displays  read-only infromation about all the recorded data changes done in the tables for which the audit trail feature has been enabled.">Audit Trail view displays  read-only infromation about all the recorded data changes done in the tables for which the audit trail feature has been enabled.</value>
   </row>
   <row id="384" trl="N">
-    <value column="Name" isTrl="Y" original="Goods Transaction">Движение товаров</value>
+    <value column="Name" isTrl="Y" original="Goods Transaction">Транзакции по товару</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1745,14 +1745,14 @@ The corresponding tables have then the following setting:
 </value>
   </row>
   <row id="464" trl="N">
-    <value column="Name" isTrl="Y" original="Lot">Лот</value>
+    <value column="Name" isTrl="N" original="Lot">Партия</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit lots assigned to your specific products.">Edit lots assigned to your specific products.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Edit lots assigned to your specific products.">Edit lots assigned to your specific products.</value>
   </row>
   <row id="465" trl="N">
-    <value column="Name" isTrl="Y" original="Lot Control">Контроль лотов</value>
+    <value column="Name" isTrl="N" original="Lot Control">Контроль партии</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define your lot number sequence.">Define your lot number sequence.</value>
     <value column="Filtername" isTrl="N" original=""/>
