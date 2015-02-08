@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_TAB" version="">
   <row id="10153E4B83EC4A5E8C558FCE74071FB0" trl="N">
-    <value column="Name" isTrl="N" original="Defined Selector">Определяет переключатель</value>
+    <value column="Name" isTrl="Y" original="Defined Selector">Определяет переключатель</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define and maintain selectors with a suggestion box and popup window">Define and maintain selectors with a suggestion box and popup window</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Define and maintain selectors which make it possible to search through a suggestion box, a drop-down or a popup window with multiple search columns. The selector consists of selector fields which define which properties to show in the suggestion box and popup and on which properties to search.">Define and maintain selectors which make it possible to search through a suggestion box, a drop-down or a popup window with multiple search columns. The selector consists of selector fields which define which properties to show in the suggestion box and popup and on which properties to search.</value>
   </row>
   <row id="308C5577EA73404DAF44CBA9A467E34F" trl="N">
-    <value column="Name" isTrl="N" original="Selector Field Translation">Переключатель переведённого поля</value>
+    <value column="Name" isTrl="Y" original="Selector Field Translation">Переключатель переведённого поля</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Selector Field Translation">Переключатель переведённого поля</value>
-    <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Selector Field Translation">Переключатель переведённого поля</value>
+    <value column="Description" isTrl="Y" original="Selector Field Translation">Переключатель переведённого поля</value>
+    <value column="Filtername" isTrl="Y" original=""/>
+    <value column="Help" isTrl="Y" original="Selector Field Translation">Переключатель переведённого поля</value>
   </row>
   <row id="75FEAE3FF26F49E394BDF833B1B97647" trl="N">
-    <value column="Name" isTrl="N" original="Defined Selector Field">Определяет переключатель поля</value>
+    <value column="Name" isTrl="Y" original="Defined Selector Field">Определяет переключатель поля</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Selector Field">Переключатель поля</value>
+    <value column="Description" isTrl="Y" original="Selector Field">Переключатель поля</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The selector field defines a column/property which is shown in the suggestion box or popup window.">The selector field defines a column/property which is shown in the suggestion box or popup window.</value>
   </row>
   <row id="BE8CCBD813044537A6B02CA5E7FBA413" trl="N">
-    <value column="Name" isTrl="N" original="Defined Selector Translation">Определяет переключатель перевода</value>
+    <value column="Name" isTrl="Y" original="Defined Selector Translation">Определяет переключатель перевода</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Translation of the selector">Translation of the selector</value>
     <value column="Filtername" isTrl="N" original=""/>
