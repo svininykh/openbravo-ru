@@ -194,10 +194,10 @@ Retrieved columns must have an alias defined, this alias is used to identify the
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C4B7AF76B82145BC9439ADF6855CBE7E" trl="N">
-    <value column="Name" isTrl="N" original="Selector Field">Selector Field</value>
-    <value column="PrintName" isTrl="N" original="Selector Field">Selector Field</value>
-    <value column="Description" isTrl="N" original="Unique identifying key for the selector field record.">Unique identifying key for the selector field record.</value>
-    <value column="Help" isTrl="N" original="Unique identifying key for the selector field record.">Unique identifying key for the selector field record.</value>
+    <value column="Name" isTrl="N" original="Selector Field">Переключатель поля</value>
+    <value column="PrintName" isTrl="N" original="Selector Field">Переключатель поля</value>
+    <value column="Description" isTrl="N" original="Unique identifying key for the selector field record.">Уникальный ключ для выбора поля записи.</value>
+    <value column="Help" isTrl="N" original="Unique identifying key for the selector field record.">Уникальный ключ для выбора поля записи.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -214,9 +214,9 @@ Retrieved columns must have an alias defined, this alias is used to identify the
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CE0AB5DC107A4D288DE5E83015641750" trl="N">
-    <value column="Name" isTrl="N" original="Filterable">Filterable</value>
-    <value column="PrintName" isTrl="N" original="Filterable">Filterable</value>
-    <value column="Description" isTrl="N" original="Allow filtering on this field.">Allow filtering on this field.</value>
+    <value column="Name" isTrl="N" original="Filterable">Фильтруется</value>
+    <value column="PrintName" isTrl="N" original="Filterable">Фильтруется</value>
+    <value column="Description" isTrl="N" original="Allow filtering on this field.">Разрешить фильтрацию в этом поле.</value>
     <value column="Help" isTrl="N" original="Make it possible to filter in the grid using this field.">Make it possible to filter in the grid using this field.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -234,8 +234,8 @@ Retrieved columns must have an alias defined, this alias is used to identify the
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="D71D9890834E4D4183B4A2872A5107A2" trl="N">
-    <value column="Name" isTrl="N" original="Selector">Selector</value>
-    <value column="PrintName" isTrl="N" original="Selector">Selector</value>
+    <value column="Name" isTrl="N" original="Selector">Переключатель</value>
+    <value column="PrintName" isTrl="N" original="Selector">Переключатель</value>
     <value column="Description" isTrl="N" original="The unique identifying key for the selector.">The unique identifying key for the selector.</value>
     <value column="Help" isTrl="N" original="The unique identifying key for the selector.">The unique identifying key for the selector.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -244,8 +244,8 @@ Retrieved columns must have an alias defined, this alias is used to identify the
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="E4FCED1CB10743E8A6BD994F27F939F1" trl="N">
-    <value column="Name" isTrl="N" original="Display Field">Display Field</value>
-    <value column="PrintName" isTrl="N" original="Display Field">Display Field</value>
+    <value column="Name" isTrl="N" original="Display Field">Отоброжаемое поле</value>
+    <value column="PrintName" isTrl="N" original="Display Field">Отоброжаемое поле</value>
     <value column="Description" isTrl="N" original="The value of this field will be displayed in the selector text input box.">The value of this field will be displayed in the selector text input box.</value>
     <value column="Help" isTrl="N" original="The value of this field will be displayed in the selector text input box.">The value of this field will be displayed in the selector text input box.</value>
     <value column="PO_Description" isTrl="N" original=""/>
