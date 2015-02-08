@@ -20,8 +20,18 @@
     <value column="Description" isTrl="N" original="Process to modify transactions GL Item type once they have been created">Process to modify transactions GL Item type once they have been created</value>
     <value column="Help" isTrl="N" original="Process to modify transactions GL Item type once they have been created">Process to modify transactions GL Item type once they have been created</value>
   </row>
+  <row id="19EEA22FCA464979B3ADAD3A967ADA52" trl="N">
+    <value column="Name" isTrl="N" original="Match Statement Force">Match Statement Force</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="29D17F515727436DBCE32BC6CA28382B" trl="N">
     <value column="Name" isTrl="N" original="Reverse Payment">Reverse Payment</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="2DDE7D3618034C38A4462B7F3456C28D" trl="N">
+    <value column="Name" isTrl="N" original="Bank Statement Process Force">Bank Statement Process Force</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -60,10 +70,20 @@
     <value column="Description" isTrl="N" original="Select Expected Payments">Select Expected Payments</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="6BF16EFC772843AC9A17552AE0B26AB7" trl="N">
+    <value column="Name" isTrl="N" original="Reconciliation Process Force">Reconciliation Process Force</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="7AC7BE9024E448A0BB863C159DA762F9" trl="N">
     <value column="Name" isTrl="N" original="Import Statement">Import Statement</value>
     <value column="Description" isTrl="N" original="ImportBankFile">ImportBankFile</value>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="AA64E3BA23F24D4F8E6B06970500FC70" trl="N">
+    <value column="Name" isTrl="N" original="Open Balances: Review historical data">Open Balances: Review historical data</value>
+    <value column="Description" isTrl="N" original="Review historical data to fulfill required information for 'Open Balances' project">Review historical data to fulfill required information for 'Open Balances' project</value>
+    <value column="Help" isTrl="N" original="Open Balances: Record_ID2 and DateBalanced Filling">Open Balances: Record_ID2 and DateBalanced Filling</value>
   </row>
   <row id="B54318B49E984B9CB855AEFB1F474CD6" trl="N">
     <value column="Name" isTrl="N" original="APRM Process Invoice">APRM Process Invoice</value>

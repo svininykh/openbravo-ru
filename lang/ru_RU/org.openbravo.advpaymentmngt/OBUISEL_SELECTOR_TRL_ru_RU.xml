@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="OBUISEL_SELECTOR" version="">
+  <row id="14F59CBE3B804B8D81D29DFFF5B51467" trl="N">
+    <value column="Name" isTrl="N" original="Organization Selector not *">Organization Selector not *</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="41B3A5EA61AB46FBAF4567E3755BA190" trl="N">
+    <value column="Name" isTrl="N" original="APRM_ActionDocumentSelector">APRM_ActionDocumentSelector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="4C399E0BD7C34BAFA55FEAACA0568B31" trl="N">
+    <value column="Name" isTrl="N" original="Currency Selector">Currency Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="5D29D4DFCF4440B8BF89420419A0DBFE" trl="N">
+    <value column="Name" isTrl="N" original="Financial Account">Financial Account</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="6643B422022B41698FEFD6C7FAD7AC4B" trl="N">
     <value column="Name" isTrl="N" original="Transactions link">Transactions link</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="7811D4DBBB734D5ABB5DCC0CFDA21B88" trl="N">
+    <value column="Name" isTrl="N" original="Financial Account Selector">Financial Account Selector</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -17,6 +42,31 @@
   </row>
   <row id="A98899B1C75A4F4EBD3414F1B654EFAB" trl="N">
     <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="B15DC1DA631A402C9B05AC11A2EA724C" trl="N">
+    <value column="Name" isTrl="N" original="Organization">Organization</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="B496EA4EDC36442D90CC9B553311DC11" trl="N">
+    <value column="Name" isTrl="N" original="Payment Method Selector">Payment Method Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="BA4FDCB15ACB47AD81BE3985E13032EE" trl="N">
+    <value column="Name" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="EE54530EA4884AD5A10365E480015325" trl="N">
+    <value column="Name" isTrl="N" original="Payment Selector Transaction for Parameter Window">Payment Selector Transaction for Parameter Window</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="FDDCBE57CCDF4FB89ED708316E2BF0E6" trl="N">
+    <value column="Name" isTrl="N" original="Doctype Selector">Doctype Selector</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

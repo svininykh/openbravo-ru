@@ -25,6 +25,10 @@
     <value column="MsgText" isTrl="N" original="with %0 enforcement.">with %0 enforcement.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="02451773AE644BCBA0DA0C288A86F762" trl="N">
+    <value column="MsgText" isTrl="N" original="When Product is not blank then Movement Quantity should not be zero.">When Product is not blank then Movement Quantity should not be zero.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="025158CC9AF94113ADAAD3A22DF1B2B7" trl="N">
     <value column="MsgText" isTrl="Y" original="No valid Costing Rule found for given organization and date.">Заданный метод калькуляции не действует для данной организации и текущего времени.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -105,6 +109,10 @@
     <value column="MsgText" isTrl="Y" original="UOM">Ед.изм.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="07E2974F9F1746279DD0D051734948DF" trl="N">
+    <value column="MsgText" isTrl="N" original="The maximum number of rows permitted on a worksheet been exceeded">The maximum number of rows permitted on a worksheet been exceeded</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="07E963D65B7F47BE81150448C5019E0D" trl="N">
     <value column="MsgText" isTrl="N" original="cannot be installed because it is included as merge within an already installed module.">cannot be installed because it is included as merge within an already installed module.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -117,6 +125,10 @@
     <value column="MsgText" isTrl="N" original="There is not a related Purchase Order Line for the Goods Receipt Line.">There is not a related Purchase Order Line for the Goods Receipt Line.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="090D5DC8A4434705AA8572AF28FA4733" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to save because the line has value zero in movement quantity. Please insert a different value from zero.">It is not possible to save because the line has value zero in movement quantity. Please insert a different value from zero.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="09E0CFCE33BA42D1A29CFF9F6E1A0146" trl="N">
     <value column="MsgText" isTrl="N" original="Email couldn't be sent. %0">Email couldn't be sent. %0</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -127,6 +139,10 @@
   </row>
   <row id="0BA839D8B467422AB19C8E1B3B033051" trl="N">
     <value column="MsgText" isTrl="N" original="The organization of the lines is different and does not depend on the organization associated with the header.">The organization of the lines is different and does not depend on the organization associated with the header.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="0BB46503CC0E4F39A3002DD4D2073CB5" trl="N">
+    <value column="MsgText" isTrl="N" original="There already is another variant characteristic that defines image for the product.">There already is another variant characteristic that defines image for the product.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0C093B834C3948E1B8D84E54FC6B284E" trl="N">
@@ -151,6 +167,10 @@
   </row>
   <row id="0C94766918BF4101ACA373FB25799D72" trl="N">
     <value column="MsgText" isTrl="N" original="Account Not Defined For: @Account@ || Owner: @Entity@ || Accounting Schema: @AccountingSchema@">Account Not Defined For: @Account@ || Owner: @Entity@ || Accounting Schema: @AccountingSchema@</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="0CCA597468C94D558DB1057AECA33933" trl="N">
+    <value column="MsgText" isTrl="N" original="There are transactions dated on a period closed whose costs need to be calculated. If you press &quot;OK&quot; the cost of those transactions will be calculated but it will not be possible to post them unless you open the corresponding periods. Otherwise please enter an starting date for the costing rule within an open period">There are transactions dated on a period closed whose costs need to be calculated. If you press "OK" the cost of those transactions will be calculated but it will not be possible to post them unless you open the corresponding periods. Otherwise please enter an starting date for the costing rule within an open period</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0D275D0619E346B197FE50C2F45B6715" trl="N">
@@ -218,7 +238,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000200000" trl="N">
-    <value column="MsgText" isTrl="N" original="You cannot change the product beacuse it has Good Receipts.">You cannot change the product beacuse it has Good Receipts.</value>
+    <value column="MsgText" isTrl="N" original="The change of the product is not allowed because there is a related goods receipt and the change of the product would create a mismatch in the relation.">The change of the product is not allowed because there is a related goods receipt and the change of the product would create a mismatch in the relation.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1000200001" trl="N">
@@ -596,14 +616,7 @@ Control Digit must be length 1.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400015" trl="N">
-    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines.
-An order line is created for each requisition line.
-The process closes the requisition when it finishes successfully.
-The Order Date is the date of the Purchase Orders.
-The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.
-The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.
-The Organization is the organization used by the Purchase Orders.
-The Warehouse is the warehouse used by the Purchase Orders.</value>
+    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400016" trl="N">
@@ -1291,6 +1304,10 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgText" isTrl="N" original="Unique key repeated. Please check the related data.">Unique key repeated. Please check the related data.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="10287FBE789E46509443903185834BD2" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to process a Landed Cost that does not have any Receipt assigned.">It is not possible to process a Landed Cost that does not have any Receipt assigned.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="102A41C23D53414FBDF15AD179133D42" trl="N">
     <value column="MsgText" isTrl="N" original="Cannot add or delete notes for read only tabs if 'Disable Notes For Read-Only tabs' preference is set">Cannot add or delete notes for read only tabs if 'Disable Notes For Read-Only tabs' preference is set</value>
     <value column="MsgTip" isTrl="N" original="Cannot add or delete notes for read only tabs if 'Disable Notes For Read-Only tabs' preference is set">Cannot add or delete notes for read only tabs if 'Disable Notes For Read-Only tabs' preference is set</value>
@@ -1391,6 +1408,10 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgText" isTrl="Y" original="Organization Data">Данные организации</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="1199C0A41BD74F08B9D56D6117DFD841" trl="N">
+    <value column="MsgText" isTrl="N" original="Error executing landed cost process">Error executing landed cost process</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="120" trl="N">
     <value column="MsgText" isTrl="N" original="Shared Data">Shared Data</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -1424,7 +1445,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="125" trl="N">
-    <value column="MsgText" isTrl="N" original="© 2001-2013 Openbravo, S.L.U.">© 2001-2013 Openbravo, S.L.U.</value>
+    <value column="MsgText" isTrl="Y" original="© 2001-2015 Openbravo, S.L.U.">© 2001-2013 Openbravo, S.L.U.</value>
     <value column="MsgTip" isTrl="N" original="http://www.openbravo.com">http://www.openbravo.com</value>
   </row>
   <row id="126" trl="N">
@@ -1627,6 +1648,10 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgText" isTrl="N" original="Remove from Bar">Remove from Bar</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="1629773A7EFE4F988B7CDDE2A62F9906" trl="N">
+    <value column="MsgText" isTrl="N" original="tab Cost - line ">tab Cost - line </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="162CE9D031904006B69A7C40B5C1E55E" trl="N">
     <value column="MsgText" isTrl="N" original="Usable Life - Months">Usable Life - Months</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -1711,6 +1736,10 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgText" isTrl="N" original="Create Account and Charge">Create Account and Charge</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="175F79121D554F48AE01F97EF26EDA1D" trl="N">
+    <value column="MsgText" isTrl="N" original="Error processing Goods Movement process">Error processing Goods Movement process</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="176" trl="N">
     <value column="MsgText" isTrl="N" original="Charge NOT created">Charge NOT created</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -1718,6 +1747,10 @@ Do you want to enable the Heartbeat?</value>
   <row id="177" trl="N">
     <value column="MsgText" isTrl="N" original="City">City</value>
     <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="17795131180E49369B9EBA4A1A4ED12E" trl="N">
+    <value column="MsgText" isTrl="N" original="Modified Tables">Modified Tables</value>
+    <value column="MsgTip" isTrl="N" original="Tables that are modified after export.database was done">Tables that are modified after export.database was done</value>
   </row>
   <row id="177D043CB3EC463DB0781C41CC5706B0" trl="N">
     <value column="MsgText" isTrl="N" original="is available">is available</value>
@@ -1729,6 +1762,10 @@ Do you want to enable the Heartbeat?</value>
   </row>
   <row id="179" trl="N">
     <value column="MsgText" isTrl="N" original="Shared Services">Shared Services</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="17B08BDCEB964588A5308EB4346CC063" trl="N">
+    <value column="MsgText" isTrl="N" original="You cannot delete this record. This characteristic has a value related.">You cannot delete this record. This characteristic has a value related.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="17D51C5DD28542978815562A9935F279" trl="N">
@@ -1791,6 +1828,10 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgText" isTrl="N" original="Update copied record and save or ignore">Update copied record and save or ignore</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="18F0B23619F44731884096AD6388624E" trl="N">
+    <value column="MsgText" isTrl="N" original="DocCostAdjustment - Error: landed cost should not generate accounting">DocCostAdjustment - Error: landed cost should not generate accounting</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="190" trl="N">
     <value column="MsgText" isTrl="Y" original="Could not copy:">Невозможно скопировать:</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -1839,6 +1880,10 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgText" isTrl="N" original="Credit Card Number not valid">Credit Card Number not valid</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="1998C76DEE4E40C0BED520AF56AE633E" trl="N">
+    <value column="MsgText" isTrl="N" original="Organization">Organization</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="19E206D186C94610B0179C6B106E94BF" trl="N">
     <value column="MsgText" isTrl="N" original="If the On Hold flag is checked, at least one of the flags from the On Hold group must be checked.">If the On Hold flag is checked, at least one of the flags from the On Hold group must be checked.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -1883,6 +1928,10 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgText" isTrl="N" original="Linked items cannot be shown. There are too many columns linked with this item.">Linked items cannot be shown. There are too many columns linked with this item.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="1D2905EAB15A4DB0B794BF8DC11F2678" trl="N">
+    <value column="MsgText" isTrl="N" original="You cannot update this record. This characteristic has a value related.">You cannot update this record. This characteristic has a value related.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="1D5D2925CB05481485FA38B582B0DD28" trl="N">
     <value column="MsgText" isTrl="N" original="Depreciation Amount">Depreciation Amount</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -1897,6 +1946,10 @@ Do you want to enable the Heartbeat?</value>
   </row>
   <row id="1DCBDE7B658A4735A04DDE9F79B4DAC2" trl="N">
     <value column="MsgText" isTrl="N" original="Using IBAN for generating the Displayed Account requires to introduce the IBAN">Using IBAN for generating the Displayed Account requires to introduce the IBAN</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="1DDD7506273E4408820998C00EE2AC1D" trl="N">
+    <value column="MsgText" isTrl="N" original="Consumed products is not allowed to have positive quantities.">Consumed products is not allowed to have positive quantities.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1E0F1799B5F144778669B2D23FD9BA9E" trl="N">
@@ -1953,6 +2006,10 @@ Press the Continue button to go to the Instance Activation window.</value>
   </row>
   <row id="203" trl="N">
     <value column="MsgText" isTrl="N" original="Currency Conversion">Currency Conversion</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="2032BD4864974872B7317B03DCD2C67D" trl="N">
+    <value column="MsgText" isTrl="N" original="-------- ">-------- </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="203AD342E9F9458082388087B6B2B9BC" trl="N">
@@ -2032,6 +2089,10 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgText" isTrl="Y" original="Description">Описание</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="21AF65C3B9004C43AA20844993B9C58C" trl="N">
+    <value column="MsgText" isTrl="N" original="Cannot adjust transactions calculated with legacy cost engine.">Cannot adjust transactions calculated with legacy cost engine.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="220" trl="N">
     <value column="MsgText" isTrl="N" original="Detail record">Detail record</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -2088,12 +2149,20 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="The Production Plan does not have a Storage Bin defined. Please assign one in Production Plan tab below.">The Production Plan does not have a Storage Bin defined. Please assign one in Production Plan tab below.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="22C5A1E8768D4F6D9968DD48D807C8D3" trl="N">
+    <value column="MsgText" isTrl="N" original="Process Group: %0">Process Group: %0</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="230" trl="N">
     <value column="MsgText" isTrl="N" original="Drill">Drill</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="231" trl="N">
     <value column="MsgText" isTrl="N" original="EFT">EFT</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="2316A35743F74FA8AFD69997F421331D" trl="N">
+    <value column="MsgText" isTrl="N" original="The cost of all existing transactions booked is going to be calculated as no costing rule starting date is provided.">The cost of all existing transactions booked is going to be calculated as no costing rule starting date is provided.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="232" trl="N">
@@ -2200,6 +2269,10 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="There is a related Payment for the Journal Line/s with No.">There is a related Payment for the Journal Line/s with No.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="24D4D0CD283B4C5BB2A369893ED8132D" trl="N">
+    <value column="MsgText" isTrl="N" original="The Warehouse of the document does not belong to the selected Organization">The Warehouse of the document does not belong to the selected Organization</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="24D75AD6BD814259BFF03E41B49EDFD3" trl="N">
     <value column="MsgText" isTrl="N" original="You will need to log out and log in again in order to see the new organization created.">You will need to log out and log in again in order to see the new organization created.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -2292,6 +2365,10 @@ Deploy the war file into the server to make the changes available.</value>
     <value column="MsgText" isTrl="Y" original="Find a Record">Найти запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="270BF082B1234A3FB74792CC4E5A4B26" trl="N">
+    <value column="MsgText" isTrl="N" original="Please initialize &lt;a class=&quot;LabelLink&quot; onclick=&quot;OB.Utilities.openDirectTab('220', '%s')&quot; href=&quot;#&quot;&gt; %s &lt;/a&gt; business partner currency before processing the document.">Please initialize &lt;a class="LabelLink" onclick="OB.Utilities.openDirectTab('220', '%s')" href="#"&gt; %s &lt;/a&gt; business partner currency before processing the document.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="271" trl="N">
     <value column="MsgText" isTrl="Y" original="Available Columns">Доступно столбцов</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -2342,6 +2419,10 @@ Do you want to enable the Heartbeat and continue?</value>
   </row>
   <row id="27D70A51233E44C9B1319F3BE1453507" trl="N">
     <value column="MsgText" isTrl="Y" original="Instance purpose is unknown.">Цель экземпляра Openbravo неизвестена.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="27E849F814F44C49B92DE060C2E12074" trl="N">
+    <value column="MsgText" isTrl="N" original="Can not execute Process Group %0 because there is no active processes on it.">Can not execute Process Group %0 because there is no active processes on it.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="280" trl="N">
@@ -2400,6 +2481,10 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgText" isTrl="Y" original="History records">История записей</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="2927DDC09B744A63A4226B0B19DBD1FC" trl="N">
+    <value column="MsgText" isTrl="N" original="Error executing cost adjustment process">Error executing cost adjustment process</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="293" trl="N">
     <value column="MsgText" isTrl="Y" original="Menu">Меню</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -2456,6 +2541,10 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgText" isTrl="N" original="is on hold therefore the shipments cannot be created.">is on hold therefore the shipments cannot be created.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="2AAC2B5D104840A09B86C24F4022727A" trl="N">
+    <value column="MsgText" isTrl="N" original="The Organization of the Costing Rule has no Currency defined.">The Organization of the Costing Rule has no Currency defined.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="2AAD63985F6347A38D66D66A0DF86957" trl="N">
     <value column="MsgText" isTrl="N" original="Processing module">Processing module</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -2470,6 +2559,10 @@ Do you want to enable the Heartbeat and continue?</value>
   </row>
   <row id="2C3304D1DF4C4709A298FD8DCBCB61FE" trl="N">
     <value column="MsgText" isTrl="N" original="In order to generate the Displayed Account, you must specify one and only one bank format. Please select either Use Generic Account No., Use IBAN or Use SWIFT Code.">In order to generate the Displayed Account, you must specify one and only one bank format. Please select either Use Generic Account No., Use IBAN or Use SWIFT Code.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="2C539098657A4D61863A636E6674BCB4" trl="N">
+    <value column="MsgText" isTrl="N" original="The query took longer than expected and has been canceled. Please enter a more restrictive criteria to try to make the query faster">The query took longer than expected and has been canceled. Please enter a more restrictive criteria to try to make the query faster</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2C9BE7698E31458E966E9CFBF91A35BF" trl="N">
@@ -2494,6 +2587,10 @@ Do you want to enable the Heartbeat and continue?</value>
   </row>
   <row id="2D255D1E10CC47E4BF907D93BE15468A" trl="N">
     <value column="MsgText" isTrl="N" original="No average cost found for given product and date.">No average cost found for given product and date.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="2D8654998B614245A8536CA50FBA4EB1" trl="N">
+    <value column="MsgText" isTrl="N" original="There are variant characteristics with values having a duplicated name.">There are variant characteristics with values having a duplicated name.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2E175A7785AD4313B24D3E9034B05BAD" trl="N">
@@ -2522,6 +2619,10 @@ Do you want to enable the Heartbeat and continue?</value>
   </row>
   <row id="2EF83A8F932E4021B65FDA6B7510E731" trl="N">
     <value column="MsgText" isTrl="N" original="You are using Openbravo On Demand instance off the On Demand platform. Now only System Administrators can login the system to set instance purpose and refresh instance information via the Instance Activation window.">You are using Openbravo On Demand instance off the On Demand platform. Now only System Administrators can login the system to set instance purpose and refresh instance information via the Instance Activation window.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="2F29544492E24F969BC1CD4E47328DC0" trl="N">
+    <value column="MsgText" isTrl="N" original="Currency updated Successfully">Currency updated Successfully</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2F29CBA42CAC431A9E45E0AB922AD491" trl="N">
@@ -2554,6 +2655,10 @@ Do you want to enable the Heartbeat and continue?</value>
   </row>
   <row id="303" trl="N">
     <value column="MsgText" isTrl="N" original="Order Info">Order Info</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="303092C3D3AA434FAE9BA92808EC6BD3" trl="N">
+    <value column="MsgText" isTrl="N" original="There already is another variant characteristic that defines price for the product.">There already is another variant characteristic that defines price for the product.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="304" trl="N">
@@ -2684,6 +2789,10 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgText" isTrl="N" original="Match From">Match From</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="32E491425B01464C9EADC1F4FA0D9F78" trl="N">
+    <value column="MsgText" isTrl="N" original="Are you sure you want to move %0 to %1?">Are you sure you want to move %0 to %1?</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="330" trl="N">
     <value column="MsgText" isTrl="N" original="Search Mode">Search Mode</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -2802,6 +2911,10 @@ Do you want to enable the Heartbeat and continue?</value>
   </row>
   <row id="351" trl="N">
     <value column="MsgText" isTrl="Y" original="Next record">Следующая запись</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="351FC82B45B74D2E9473973D5E85766D" trl="N">
+    <value column="MsgText" isTrl="N" original="You cannot delete the sales order line because it has a related Reservation. Delete the Reservation first. See Linked Items.">You cannot delete the sales order line because it has a related Reservation. Delete the Reservation first. See Linked Items.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="352" trl="N">
@@ -2952,6 +3065,10 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgText" isTrl="N" original="Another Process for this record is active, please unlock it">Another Process for this record is active, please unlock it</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="37AF0363F30B4EF997F1BE7533BC0AFD" trl="N">
+    <value column="MsgText" isTrl="N" original="There is no warehouse defined for expense organization">There is no warehouse defined for expense organization</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="37B25D3CE4344D7CA0E2452CEE985BAF" trl="N">
     <value column="MsgText" isTrl="Y" original="The module(s) will be uninstalled. Are you sure you want to continue?">Модуль(и) будет удалён. Вы уверены, что хотите продолжить?</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -2988,6 +3105,10 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgText" isTrl="Y" original="Page Width">Ширина старницы</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="3858A8D7EE0E4CC691DA77C73B5F67BD" trl="N">
+    <value column="MsgText" isTrl="N" original="Error loading@distalg@  Distribution Algorithm. Please contact your System Administrator or use a different algorithm.">Error loading@distalg@  Distribution Algorithm. Please contact your System Administrator or use a different algorithm.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="386" trl="N">
     <value column="MsgText" isTrl="Y" original="Parameter">Параметр</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -3015,6 +3136,10 @@ Do you want to enable the Heartbeat and continue?</value>
   <row id="391" trl="N">
     <value column="MsgText" isTrl="N" original="Payment Allocation">Payment Allocation</value>
     <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="39120AC3981146BCB728C6E280440189" trl="N">
+    <value column="MsgText" isTrl="N" original="Only SELECT queries are allowed in alert sql">Only SELECT queries are allowed in alert sql</value>
+    <value column="MsgTip" isTrl="N" original="Only SELECT queries are allowed in alert sql">Only SELECT queries are allowed in alert sql</value>
   </row>
   <row id="39123BCA49CE46DAA39B17D86C454097" trl="N">
     <value column="MsgText" isTrl="N" original="You must select exactly one record to view the audit trail for it.">You must select exactly one record to view the audit trail for it.</value>
@@ -3083,6 +3208,10 @@ Do not close your browser. You will be taken to the login window afterwards.</va
   </row>
   <row id="3AF9B679229647FA90310BE11368DBEB" trl="N">
     <value column="MsgText" isTrl="N" original="The dates period defined is not valid.">The dates period defined is not valid.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="3BCA4D2C0F5344FC91EE98CEA8F7307A" trl="N">
+    <value column="MsgText" isTrl="N" original="Matching for Landed Cost Cost processed. Cost Adjustment @documentNo@ created to adjust differences in matched amounts.">Matching for Landed Cost Cost processed. Cost Adjustment @documentNo@ created to adjust differences in matched amounts.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3BD7407AD604432284D14F154A931930" trl="N">
@@ -3171,6 +3300,10 @@ Be aware that if the daily limit is exceeded @extraDays@ more times in the @numb
     <value column="MsgText" isTrl="N" original="Calendar Period not found">Calendar Period not found</value>
     <value column="MsgTip" isTrl="N" original="Check setup of Calendar and Accounting Schema as well as Accounting Schema assignment to Client or Organization">Check setup of Calendar and Accounting Schema as well as Accounting Schema assignment to Client or Organization</value>
   </row>
+  <row id="404F50E2EAA34380AD0324EF1F5BA510" trl="N">
+    <value column="MsgText" isTrl="N" original="Quantity in the line exceeds the expected quantity. Check line/s ">Quantity in the line exceeds the expected quantity. Check line/s </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="405" trl="N">
     <value column="MsgText" isTrl="N" original="No valid period for this accounting date.">No valid period for this accounting date.</value>
     <value column="MsgTip" isTrl="N" original="Check your calendar setup.">Check your calendar setup.</value>
@@ -3232,8 +3365,7 @@ Be aware that if the daily limit is exceeded @extraDays@ more times in the @numb
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="417C01FAE8E447F7985AA6C04074924C" trl="N">
-    <value column="MsgText" isTrl="N" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table.
-This column is already checked as key: </value>
+    <value column="MsgText" isTrl="N" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table. &#10;This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="418" trl="N">
@@ -3242,6 +3374,10 @@ This column is already checked as key: </value>
   </row>
   <row id="419" trl="N">
     <value column="MsgText" isTrl="Y" original="Preferences">Привилегии</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="41FE2620DA004B0CA13E7D9266BBBD96" trl="N">
+    <value column="MsgText" isTrl="N" original="END Process Group: %0">END Process Group: %0</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="420" trl="N">
@@ -3408,6 +3544,10 @@ This column is already checked as key: </value>
     <value column="MsgText" isTrl="N" original="Enter Query criteria">Enter Query criteria</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="45395544AF19476D82D2F38FF529F2BD" trl="N">
+    <value column="MsgText" isTrl="N" original="Fix backdated from date you have entered is invalid  because it is part of a period closed, please ensure that date entered is not part of a period closed. ">Fix backdated from date you have entered is invalid  because it is part of a period closed, please ensure that date entered is not part of a period closed. </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="454" trl="N">
     <value column="MsgText" isTrl="N" original="Query Execute">Query Execute</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -3435,6 +3575,10 @@ This column is already checked as key: </value>
   <row id="459" trl="N">
     <value column="MsgText" isTrl="N" original="Repost document recreates accounting for this document">Repost document recreates accounting for this document</value>
     <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="459ADF41A2F748B2AFC916760C046C28" trl="N">
+    <value column="MsgText" isTrl="N" original="Data package, java class name combination must be unique.">Data package, java class name combination must be unique.</value>
+    <value column="MsgTip" isTrl="N" original="Data package, java class name combination must be unique.">Data package, java class name combination must be unique.</value>
   </row>
   <row id="45FB8C27317D441CAFD96F2EE0005EA1" trl="N">
     <value column="MsgText" isTrl="N" original="Each organization can have one and only one ancestor (including itself) that is a business unit">Each organization can have one and only one ancestor (including itself) that is a business unit</value>
@@ -3468,6 +3612,10 @@ This column is already checked as key: </value>
     <value column="MsgText" isTrl="Y" original="Refresh all">Обновить всё</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="4665A4D2C49E48A4A6A2CFBBAFF03EC1" trl="N">
+    <value column="MsgText" isTrl="N" original="Document Type">Document Type</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="466602FE48454BF588E9458DFB75CB16" trl="N">
     <value column="MsgText" isTrl="N" original="There is no new incremental costing to generate since last calculated costs.">There is no new incremental costing to generate since last calculated costs.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -3485,7 +3633,7 @@ This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="4685EF1A88ED442D89BFEE3DAB422624" trl="N">
-    <value column="MsgText" isTrl="N" original="It is not going to be necessary to create an invoice because the calculated discount is zero">It is not going to be necessary to create an invoice because the calculated discount is zero</value>
+    <value column="MsgText" isTrl="Y" original="It is not necessary to create an invoice because calculated discount is zero">It is not going to be necessary to create an invoice because the calculated discount is zero</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="469" trl="N">
@@ -3554,6 +3702,10 @@ This column is already checked as key: </value>
   </row>
   <row id="482" trl="N">
     <value column="MsgText" isTrl="N" original="EMail sent">EMail sent</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="4824BDCE0FDA46ADA4D79BA676791DFF" trl="N">
+    <value column="MsgText" isTrl="N" original="Produced products is not allowed to have negative quantities.">Produced products is not allowed to have negative quantities.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="483" trl="N">
@@ -3652,6 +3804,10 @@ This column is already checked as key: </value>
     <value column="MsgText" isTrl="N" original="The Attribute Set selected does not match the Attribute Set Value. Please select a different Attribute Set.">The Attribute Set selected does not match the Attribute Set Value. Please select a different Attribute Set.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="4BAA0D78C8634088961947091B4D6633" trl="N">
+    <value column="MsgText" isTrl="N" original="Toggle Tree Grid Visibility">Toggle Tree Grid Visibility</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="4C2EF2784FD449D3A09E71D41F7AD8E6" trl="N">
     <value column="MsgText" isTrl="N" original="Access Restricted">Access Restricted</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -3688,6 +3844,10 @@ This column is already checked as key: </value>
     <value column="MsgText" isTrl="N" original="There is at least one document with no contact. Doc nº (@docNum@)">There is at least one document with no contact. Doc nº (@docNum@)</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="4DB2AB34602249BA8A30CC820485EFD6" trl="N">
+    <value column="MsgText" isTrl="N" original="Inventory Amount Update Opening Inventory">Inventory Amount Update Opening Inventory</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="4DB63A8D47404061A091179CF6CABE03" trl="N">
     <value column="MsgText" isTrl="N" original="When creating a Sales Order from a Quotation the Taxes are recalculated based on the transaction date. A suitable Tax Rate could not be found in line/s: ">When creating a Sales Order from a Quotation the Taxes are recalculated based on the transaction date. A suitable Tax Rate could not be found in line/s: </value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -3700,8 +3860,16 @@ This column is already checked as key: </value>
     <value column="MsgText" isTrl="Y" original="Withdrawal Account">Счёт выплат</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="4E87AD2E26CE4BB8BBDD284AC5B5E23A" trl="N">
+    <value column="MsgText" isTrl="N" original="@variantNo@ variants created.">@variantNo@ variants created.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="4ECAA12B455F4BE497A92FC3F4C86BD6" trl="N">
     <value column="MsgText" isTrl="N" original="A valid module name should be a string up to 60 characters in natural English.">A valid module name should be a string up to 60 characters in natural English.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="4F230E67B98742CAB2A3E7DABD29F384" trl="N">
+    <value column="MsgText" isTrl="N" original=" FAILED!!!."> FAILED!!!.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="4F5C17FE7F024F69BE624C197360C692" trl="N">
@@ -3956,6 +4124,10 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgText" isTrl="N" original="Start">Start</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="54914ED3F566442D8BE408DA1B8A8855" trl="N">
+    <value column="MsgText" isTrl="N" original="The modules that are currently installed in this instance do not satisfy their dependencies. It will not be possible to install/update any other modules until this situation is fixed.">The modules that are currently installed in this instance do not satisfy their dependencies. It will not be possible to install/update any other modules until this situation is fixed.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="550" trl="Y">
     <value column="MsgText" isTrl="Y" original="Do you want to start the Process?">Вы уверены что необходимо начать обработку?</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -4052,6 +4224,10 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgText" isTrl="Y" original="Trx">Транзакция</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="56FCE60F272C49789E1609B91B904D71" trl="N">
+    <value column="MsgText" isTrl="N" original="If the data origin type is 'HQL Query', then the HQL Query field is mandatory and cannot be left empty.">If the data origin type is 'HQL Query', then the HQL Query field is mandatory and cannot be left empty.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="570" trl="N">
     <value column="MsgText" isTrl="Y" original="User Interface Theme">Тема интерфейса пользователя</value>
     <value column="MsgTip" isTrl="N" original="Window  - Metal">Window  - Metal</value>
@@ -4106,6 +4282,10 @@ Since this is the first time that you login, please select the purpose of this i
   </row>
   <row id="57901FDF810046F3A5C6DFCC31C0665E" trl="N">
     <value column="MsgText" isTrl="N" original="Description of module is mandatory.">Description of module is mandatory.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="57947A58D1B9437ABBAFE6BA65CBF6BF" trl="N">
+    <value column="MsgText" isTrl="N" original=" Process : %0 started succesfully."> Process : %0 started succesfully.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="580" trl="N">
@@ -4244,6 +4424,10 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgText" isTrl="N" original="Create master data not selected">Create master data not selected</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="5B27965536AF40C98FC886033F10EB65" trl="N">
+    <value column="MsgText" isTrl="N" original="Dependency Errors in Installed Modules">Dependency Errors in Installed Modules</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="5BBAF581EEC94A11BB175D2398CE0B76" trl="N">
     <value column="MsgText" isTrl="N" original="BOM Tree Contains a Cycle Please Verify BOM">BOM Tree Contains a Cycle Please Verify BOM</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -4251,6 +4435,10 @@ Since this is the first time that you login, please select the purpose of this i
   <row id="5C378E87605D42C9BE2D9069D681DD02" trl="N">
     <value column="MsgText" isTrl="N" original="Sequence for Business Partner, Account Length and Sub Account Length can't be null if Create New Account for Business Partner is checked.">Sequence for Business Partner, Account Length and Sub Account Length can't be null if Create New Account for Business Partner is checked.</value>
     <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="5C8DE651AA9D427399258704DF015CB4" trl="N">
+    <value column="MsgText" isTrl="N" original="Organization">Organization</value>
+    <value column="MsgTip" isTrl="N" original="Used for column name translation in Locator Selector">Used for column name translation in Locator Selector</value>
   </row>
   <row id="5D3624FE019649CCB3B5900F32E59E17" trl="N">
     <value column="MsgText" isTrl="Y" original="Please try again.">Пожалуйста повторите снова.</value>
@@ -4414,6 +4602,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgText" isTrl="N" original="Transaction with Cost Not Calculated">Transaction with Cost Not Calculated</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="61F66B74AA5F4D16A2D58B5207FD3416" trl="N">
+    <value column="MsgText" isTrl="N" original="The Landed Cost Cost does not have any matching available.">The Landed Cost Cost does not have any matching available.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="620" trl="N">
     <value column="MsgText" isTrl="Y" original="of">из</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -4566,6 +4758,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgText" isTrl="N" original="Screen Shot">Screen Shot</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="64F35F2418B944BD88A146A3032D3717" trl="N">
+    <value column="MsgText" isTrl="N" original="Invoiced Quantity cannot be higher than Delivered Quantity when Invoice Terms are: After Delivery">Invoiced Quantity cannot be higher than Delivered Quantity when Invoice Terms are: After Delivery</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="650" trl="N">
     <value column="MsgText" isTrl="N" original="Database Version Error">Database Version Error</value>
     <value column="MsgTip" isTrl="N" original="The program assumes Database version {0}, but Database has Version {1}. |This is likely to cause hard to fix errors. |Please stop and migrate the database immediately.">The program assumes Database version {0}, but Database has Version {1}. |This is likely to cause hard to fix errors. |Please stop and migrate the database immediately.</value>
@@ -4598,12 +4794,20 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgText" isTrl="N" original="Cash Journal Info">Cash Journal Info</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="657E957FEC7243E7AD58A2A009292C26" trl="N">
+    <value column="MsgText" isTrl="N" original="A tax rate can't be declared as Cash VAT and Withholding tax at the same time">A tax rate can't be declared as Cash VAT and Withholding tax at the same time</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="658" trl="N">
     <value column="MsgText" isTrl="N" original="Resource Info">Resource Info</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="659" trl="N">
     <value column="MsgText" isTrl="N" original="Absolute Amount">Absolute Amount</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="65C05BD368ED471CB1E6AE97DD911EDF" trl="N">
+    <value column="MsgText" isTrl="N" original="Cannot change business partner if there are lines.">Cannot change business partner if there are lines.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="660" trl="N">
@@ -4770,6 +4974,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgText" isTrl="N" original="This product is not associated with any predefined Attribute Set.">This product is not associated with any predefined Attribute Set.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="6A96B01A0C86435891D7DD0CF5E2FFE8" trl="N">
+    <value column="MsgText" isTrl="N" original="The algorithm used to calculate the cost of the transaction does not implement cost adjustments.">The algorithm used to calculate the cost of the transaction does not implement cost adjustments.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="6AFF7D5F89EF4A92980112A343CE5687" trl="N">
     <value column="MsgText" isTrl="N" original="The settings have been successfully saved.">The settings have been successfully saved.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -4810,6 +5018,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgText" isTrl="N" original="Using the SWIFT Code for generating the Displayed Account requires to introduce a SWIFT Code and the Generic Account No.">Using the SWIFT Code for generating the Displayed Account requires to introduce a SWIFT Code and the Generic Account No.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="6DE99392EF21432B833B8CC58759B68F" trl="N">
+    <value column="MsgText" isTrl="N" original="Either deposited amount or payment amount must be different than zero">Either deposited amount or payment amount must be different than zero</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="6E27BC6E9B654EE297EA8298B73AE578" trl="N">
     <value column="MsgText" isTrl="N" original="The freight amount cannot be calculated because at least one of the products has no &quot;units per pallet&quot; set.">The freight amount cannot be calculated because at least one of the products has no "units per pallet" set.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -4817,6 +5029,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
   <row id="6F43018F37274704A195A23CC6842AD7" trl="N">
     <value column="MsgText" isTrl="Y" original="Name">Название</value>
     <value column="MsgTip" isTrl="N" original="Used for grid column translation in Account selector">Used for grid column translation in Account selector</value>
+  </row>
+  <row id="6F5E38012839405084FFE1F03F504B58" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to modify the Production flag if the product has available stock.">It is not possible to modify the Production flag if the product has available stock.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="701624AA793449FC8315266E2FC58E10" trl="N">
     <value column="MsgText" isTrl="N" original="The document belongs to a not ready organization">The document belongs to a not ready organization</value>
@@ -4856,6 +5072,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
   </row>
   <row id="716A7D748A9C9ED8E040007F01015931" trl="N">
     <value column="MsgText" isTrl="N" original="There is a constraint defined that was not satisfied. Please check the data entered">There is a constraint defined that was not satisfied. Please check the data entered</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="71C5D55B1EE14B2DA165D44220963D84" trl="N">
+    <value column="MsgText" isTrl="N" original="Inventory Amount Update Closing Inventory">Inventory Amount Update Closing Inventory</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7272CB32B045428CA06727419E1E7561" trl="N">
@@ -4902,6 +5122,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgText" isTrl="N" original="but only version">but only version</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="749D4E033928426B90CF4E007CA1B5FE" trl="N">
+    <value column="MsgText" isTrl="N" original="You cannot delete this node because it has children nodes associated">You cannot delete this node because it has children nodes associated</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="750BD7EF580544768D8DEC762753A24D" trl="N">
     <value column="MsgText" isTrl="Y" original="A context reload is required to fully complete the action. You can reload this context automatically by &lt;a href='#' onclick='window.parent.parent.location.reload();'&gt;clicking here&lt;/a&gt; or manually by logging out of the application.">Для полного завершения обработки требуется обновить контекст приложения. Вы можете это сделать автоматически &lt;a href='#' onclick='window.parent.parent.location.reload();'&gt;нажав здесь&lt;/a&gt;  или вручную, повторно войдя в приложение.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -4916,6 +5140,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
   </row>
   <row id="7759F8671BEB47129ABEF48BE31D64E9" trl="N">
     <value column="MsgText" isTrl="N" original="System roles cannot be assigned to organizations different than the super-organization.">System roles cannot be assigned to organizations different than the super-organization.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="7788359C9DD14BC7BDDE46B7FEA7D03A" trl="N">
+    <value column="MsgText" isTrl="N" original="Click here to apply the current filters">Click here to apply the current filters</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="77E12DCE8620413998EBBD3BD7F197DD" trl="N">
@@ -4938,6 +5166,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgText" isTrl="N" original="The Reversed Invoice must have the same invoice's business partner">The Reversed Invoice must have the same invoice's business partner</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="7926E442780341759156EECDF48676F0" trl="N">
+    <value column="MsgText" isTrl="N" original=" processed successfully."> processed successfully.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="798D639305F44505B065D173EB89B91C" trl="N">
     <value column="MsgText" isTrl="N" original="has not defined a payment method">has not defined a payment method</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -4952,6 +5184,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
   </row>
   <row id="7AB33AB8041941FFA6CE201A4217C8DE" trl="N">
     <value column="MsgText" isTrl="N" original="The Attribute Set cannot be blank if there is an Attribute Set Value. Please select an Attribute Set.">The Attribute Set cannot be blank if there is an Attribute Set Value. Please select an Attribute Set.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="7B04380D66D746C2B7F961F55893F951" trl="N">
+    <value column="MsgText" isTrl="N" original="Apply any filters you need and click on the 'Apply filters' button to display the results">Apply any filters you need and click on the 'Apply filters' button to display the results</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7B644E5A3528430EB2FAC277D40EAEE6" trl="N">
@@ -4991,7 +5227,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="Y" original="Error Parsing Files">Ошибка обработки файлов</value>
   </row>
   <row id="7E1AD79998574B27B7CA97B36105FA93" trl="N">
-    <value column="MsgText" isTrl="N" original="You cannot consume hold reservation">You cannot consume hold reservation</value>
+    <value column="MsgText" isTrl="Y" original="It is not possible to modify a On Hold reservation">You cannot consume hold reservation</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7E3E5C3B752A4026A78ADDFA826E4A1C" trl="N">
@@ -5000,6 +5236,10 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
   </row>
   <row id="7F28FD8C7EDA46D2A2816407790740F9" trl="N">
     <value column="MsgText" isTrl="N" original="Invalid Date Time Format.">Invalid Date Time Format.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="7FC9F1E9ABA547F0B15BEBF2C1E56906" trl="N">
+    <value column="MsgText" isTrl="N" original="There are pending document lines associated with product. Reactivate them prior to update product.">There are pending document lines associated with product. Reactivate them prior to update product.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7FD28F8FE35B492FA9200FF14D0A7749" trl="N">
@@ -5351,7 +5591,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800086" trl="N">
-    <value column="MsgText" isTrl="N" original="Product repeated in a Production Plan with same locator being P+ and P-">Product repeated in a Production Plan with same locator being P+ and P-</value>
+    <value column="MsgText" isTrl="N" original="Product defined as P+ and P- within the same operation">Product defined as P+ and P- within the same operation</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800087" trl="N">
@@ -6760,6 +7000,10 @@ Openbravo Administrator</value>
     <value column="MsgText" isTrl="Y" original="Evaluation period has expired">Ознакомительный период истёк</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="805825FD800246FAA023E5D75B62919B" trl="N">
+    <value column="MsgText" isTrl="N" original="Refer production plan line(s)">Refer production plan line(s)</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="80F0ED31B28B4523A83293151EF87EA5" trl="N">
     <value column="MsgText" isTrl="N" original="This feature is not accessible because it is in a disabled module.">This feature is not accessible because it is in a disabled module.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -6770,6 +7014,10 @@ Openbravo Administrator</value>
   </row>
   <row id="815107A9103240C7BA1D901BAC3A035F" trl="N">
     <value column="MsgText" isTrl="N" original="This instance is registered with a Golden Key license only for Evaluation. This license has expired and this system is no longer usable. &lt;a href=&quot;http://wiki.openbravo.com/wiki/Instance_Activation&quot; target=&quot;_blank&quot;&gt;Learn more&lt;/a&gt;">This instance is registered with a Golden Key license only for Evaluation. This license has expired and this system is no longer usable. &lt;a href="http://wiki.openbravo.com/wiki/Instance_Activation" target="_blank"&gt;Learn more&lt;/a&gt;</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="815611C550274E8AA94A7E1C02B8C804" trl="N">
+    <value column="MsgText" isTrl="N" original="Process Group: %0 started.">Process Group: %0 started.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="816164DB434A427E923D1C043556515A" trl="N">
@@ -6789,7 +7037,7 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="825C7E7D7B8B4303BBE710B0D8FF2541" trl="N">
-    <value column="MsgText" isTrl="N" original="The change of the product is not allowed because there is a related order and the change of the product would create a mismach in the relation.">The change of the product is not allowed because there is a related order and the change of the product would create a mismach in the relation.</value>
+    <value column="MsgText" isTrl="Y" original="The change of the product is not allowed because there is a related order and the change of the product would create a mismatch in the relation.">The change of the product is not allowed because there is a related order and the change of the product would create a mismach in the relation.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="82C113B8F4134B57A4791BAC35B03ADC" trl="N">
@@ -6818,6 +7066,10 @@ Openbravo Administrator</value>
   </row>
   <row id="85FD4D54C860324EE040007F01012930" trl="N">
     <value column="MsgText" isTrl="N" original="Duplicate Client Username">Duplicate Client Username</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="8626CB93C06B4F29BA9351588ADCB020" trl="N">
+    <value column="MsgText" isTrl="N" original="No storage bin is selected">No storage bin is selected</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="866391790787BDF4E040007F010116CE" trl="N">
@@ -6884,12 +7136,28 @@ Openbravo Administrator</value>
     <value column="MsgText" isTrl="N" original="The business partner category already has a record for the same accounting schema. Only one record per accounting schema is allowed.">The business partner category already has a record for the same accounting schema. Only one record per accounting schema is allowed.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="89C7F31D13674554861DFB88435C60F3" trl="N">
+    <value column="MsgText" isTrl="N" original="Currency must be different from To Currency">Currency must be different from To Currency</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="89FDE3CB1891401A8CEDB277C95D6A90" trl="N">
     <value column="MsgText" isTrl="N" original="Every legal entity with accounting must have an accounting schema attached to it or to an ancestor.">Every legal entity with accounting must have an accounting schema attached to it or to an ancestor.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="8A234D5765DD4B32A360C7AD843EDE2E" trl="N">
+    <value column="MsgText" isTrl="N" original="Process should be empty defining a process group request. If you don't see the Process field uncheck the Group box.">Process should be empty defining a process group request. If you don't see the Process field uncheck the Group box.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="8A5080D69CFD4334B9A73B8DDBAB2D75" trl="N">
+    <value column="MsgText" isTrl="N" original="The Document Type %0 is closed in period %1">The Document Type %0 is closed in period %1</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="8A86B347DAD3452C8B07EDFBAA6D4A77" trl="N">
     <value column="MsgText" isTrl="N" original="Document disabled for background posting. This record can only be posted manually.">Document disabled for background posting. This record can only be posted manually.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="8A90D13FFBB64FF2B4C09CF45D41C5B4" trl="N">
+    <value column="MsgText" isTrl="N" original="@trxsNumber@ transactions updated.">@trxsNumber@ transactions updated.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="8B03AFC7AAEC4EEBB7364F2BB9A80C99" trl="N">
@@ -6920,6 +7188,10 @@ Openbravo Administrator</value>
     <value column="MsgText" isTrl="N" original="The following product has capacity 0. Please set a proper capacity and run the process again:">The following product has capacity 0. Please set a proper capacity and run the process again:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="8D5BFEB06C5046A292D51AA35963CB2A" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to create variants of a not generic product.">It is not possible to create variants of a not generic product.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="8D7E3ABF6E02498FBCB36040FBCB82AC" trl="N">
     <value column="MsgText" isTrl="N" original="If GL account is chosen, product should not be selected. If product is chosen, GL account should not be selected.">If GL account is chosen, product should not be selected. If product is chosen, GL account should not be selected.</value>
     <value column="MsgTip" isTrl="N" original="If GL account is chosen, product should not be selected.  If product is chosen, GL account should not be selected.">If GL account is chosen, product should not be selected.  If product is chosen, GL account should not be selected.</value>
@@ -6939,6 +7211,10 @@ Openbravo Administrator</value>
   <row id="8E3987D8A6EB4FA88E83AD463AFE0472" trl="N">
     <value column="MsgText" isTrl="N" original="Old value">Old value</value>
     <value column="MsgTip" isTrl="N" original="Used for grid-column translation in the audit trail popup">Used for grid-column translation in the audit trail popup</value>
+  </row>
+  <row id="8E4C1B4FFBDB456492C0D27CB5002C11" trl="N">
+    <value column="MsgText" isTrl="N" original="The Order Line is related to a Requisition. It is not possible to change its Product.">The Order Line is related to a Requisition. It is not possible to change its Product.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="8EA0254289CA4EB291AAB8AD6D317C6F" trl="N">
     <value column="MsgText" isTrl="N" original="Vendor Liability">Vendor Liability</value>
@@ -6986,6 +7262,10 @@ Openbravo Administrator</value>
   </row>
   <row id="92320BA042AA4CB5A0273A5AB2149602" trl="N">
     <value column="MsgText" isTrl="N" original="Vendor Prepayment">Vendor Prepayment</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="92371997B6B5418E9A7AAA952A7429CE" trl="N">
+    <value column="MsgText" isTrl="N" original="The Payment related to the Tax Payment you are trying to unprocess is posted. To be able to unprocess it you need to unpost that payment first.">The Payment related to the Tax Payment you are trying to unprocess is posted. To be able to unprocess it you need to unpost that payment first.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="924D7DB6952C421094911AFACFDCED7F" trl="N">
@@ -7060,6 +7340,10 @@ Openbravo Administrator</value>
     <value column="MsgText" isTrl="N" original="This instance was activated with a Golden Key for evaluation purposes. This license has expired and therefore, the instance cannot be used anymore.">This instance was activated with a Golden Key for evaluation purposes. This license has expired and therefore, the instance cannot be used anymore.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="97617806C1B44406B6BA5F4CDB57D389" trl="N">
+    <value column="MsgText" isTrl="N" original="Void Cost Adjustment @documentNo@ created successfully.">Void Cost Adjustment @documentNo@ created successfully.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="97888E2B72A1447B865F468E0CADB6D8" trl="N">
     <value column="MsgText" isTrl="N" original="Period Number mus be positive">Period Number mus be positive</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7070,6 +7354,10 @@ Openbravo Administrator</value>
   </row>
   <row id="97D69827C27242C584842C0306B92580" trl="N">
     <value column="MsgText" isTrl="N" original="The field payment term in business partner is mandatory and cannot be left empty.">The field payment term in business partner is mandatory and cannot be left empty.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="9823CDEEDD364E6EBFFE45B363EDA6C3" trl="N">
+    <value column="MsgText" isTrl="N" original="The product has related variants. It is not possible to uncheck the is Generic flag.">The product has related variants. It is not possible to uncheck the is Generic flag.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9825FDAA19EC44B5AE5A32EAE999FDE5" trl="N">
@@ -7098,6 +7386,10 @@ Openbravo Administrator</value>
   </row>
   <row id="9ABF66F04E4B4F998D4B5841A9591677" trl="N">
     <value column="MsgText" isTrl="N" original="This module is available in a maturity level %0">This module is available in a maturity level %0</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="9B6AAED7762A4DDF97E18D79A43AE091" trl="N">
+    <value column="MsgText" isTrl="N" original="The product characteristics have been updated successfully">The product characteristics have been updated successfully</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9B9F68BD69364234B7729292C48790E6" trl="N">
@@ -7132,6 +7424,10 @@ Openbravo Administrator</value>
     <value column="MsgText" isTrl="N" original="It is strongly recommended to install this version in order to get the latest version of the functionality and keep getting maintenance packs of module">It is strongly recommended to install this version in order to get the latest version of the functionality and keep getting maintenance packs of module</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="9F98BEC707884840AAF1D29CD4F7AA90" trl="N">
+    <value column="MsgText" isTrl="N" original="Process is mandatory defining a new process request. ">Process is mandatory defining a new process request. </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="9FAC0F65BD6F46E2B537C2E9C2340367" trl="N">
     <value column="MsgText" isTrl="N" original="Please delete the value of Use Attribute Set Value As field before deleting the Attribute Set Value.">Please delete the value of Use Attribute Set Value As field before deleting the Attribute Set Value.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7150,6 +7446,10 @@ Openbravo Administrator</value>
   </row>
   <row id="A028CFDE75274327BF364041696938AE" trl="N">
     <value column="MsgText" isTrl="N" original="Error in Remittance Type definition - parameter contract missing.">Error in Remittance Type definition - parameter contract missing.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="A0844A1983A54B4AB60640B28B66C2B2" trl="N">
+    <value column="MsgText" isTrl="N" original="The number of records is too high. Please, try to review product characteristics.">The number of records is too high. Please, try to review product characteristics.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="A089F37D301F43C6A4E133F1BEC13706" trl="N">
@@ -7185,8 +7485,16 @@ Do you want to propagate this value to all payment methods?</value>
     <value column="MsgText" isTrl="N" original="The java package of the Data Package must be within the java package of its module.">The java package of the Data Package must be within the java package of its module.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="A3ACD5E3256D498BB02FC6F659489725" trl="N">
+    <value column="MsgText" isTrl="N" original=" Process : %0 "> Process : %0 </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="A3F8EB17ED994625ABC723174FBBCAE7" trl="N">
     <value column="MsgText" isTrl="N" original="Country needed in an IBAN account.">Country needed in an IBAN account.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="A4307E4EBD4D421DB974DE7CBB8FAE16" trl="N">
+    <value column="MsgText" isTrl="N" original="Validate and initialize the Costing Rule. It automatically creates and process the Close and Opening Physical inventories to overwrite an existing Costing Rule. If the instance is using the legacy engine costs it is mandatory to run the Cost Migration Process in advance with System Administrator role.">Validate and initialize the Costing Rule. It automatically creates and process the Close and Opening Physical inventories to overwrite an existing Costing Rule. If the instance is using the legacy engine costs it is mandatory to run the Cost Migration Process in advance with System Administrator role.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="A53BDE2248524E4A995AC163467B21A9" trl="N">
@@ -7282,8 +7590,16 @@ Reload the context to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="Account Length cannot be greater than the Sub Account Length.">Account Length cannot be greater than the Sub Account Length.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="AA54BEA2EB344463AE8E8B3F4D853500" trl="N">
+    <value column="MsgText" isTrl="N" original="Fix backdated from date should be equal or later than the starting date of the costing rule. If no date is entered in the fix backdated from date, starting date of the costing rule will be taken as fix backdated from date.">Fix backdated from date should be equal or later than the starting date of the costing rule. If no date is entered in the fix backdated from date, starting date of the costing rule will be taken as fix backdated from date.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="AA8371C7B5984858B3020B9C578008FB" trl="N">
     <value column="MsgText" isTrl="Y" original="No Multicurrency transactions are allowed. The currency should be the same as the currency of the Financial Account.">No Multicurrency transactions are allowed. The exchange rate should be the same as the exchange rate of the Financial Account.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="AABD45BC2E4345E6A97DE953B52D5EDD" trl="N">
+    <value column="MsgText" isTrl="N" original="Remove the lines in order to change Multi-General Ledger check.">Remove the lines in order to change Multi-General Ledger check.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="AB8F1CCBF6254BB2862CE7FD75D2B6AE" trl="N">
@@ -7314,12 +7630,20 @@ Reload the context to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="Period Number must be positive">Period Number must be positive</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="AD5F543443D242879A4968AC41ACC1E9" trl="N">
+    <value column="MsgText" isTrl="N" original="Process Group should be empty defining a simple process request. If you don't see the Process Group field check the Group box.">Process Group should be empty defining a simple process request. If you don't see the Process Group field check the Group box.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="ADA611B9B6E04D92A88BDB2D0B1BC0F0" trl="N">
     <value column="MsgText" isTrl="N" original="'DB Column Name' and/or 'Name' does not follow modularity naming rules. These 2 values must start with EM_ and the module's DBPrefix as the column belongs to a module different that its table.">'DB Column Name' and/or 'Name' does not follow modularity naming rules. These 2 values must start with EM_ and the module's DBPrefix as the column belongs to a module different that its table.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="ADAF53CF368D4956BDFF326A9361C750" trl="N">
     <value column="MsgText" isTrl="N" original="There are active Storage Bins inside this Warehouse">There are active Storage Bins inside this Warehouse</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="ADB89FC2141C45EA91BC13C5D4F07A64" trl="N">
+    <value column="MsgText" isTrl="N" original="The change of the product is not allowed because there is a related goods shipment and the change of the product would create a mismatch in the relation.">The change of the product is not allowed because there is a related goods shipment and the change of the product would create a mismatch in the relation.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="ADF79F75D79A4556900B1C1C8F86BCBA" trl="N">
@@ -7362,6 +7686,10 @@ Reload the context to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="This record cannot be deleted because it's the parent dimension of other dimensions. Please delete or move them to another dimension before deleting.">This record cannot be deleted because it's the parent dimension of other dimensions. Please delete or move them to another dimension before deleting.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="B179C1CD5B08474888A6B01234B02987" trl="N">
+    <value column="MsgText" isTrl="N" original="Business Partner used in transaction is inactive.">Business Partner used in transaction is inactive.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="B1A49D5F755A4497AB6FF3D4214CEF80" trl="N">
     <value column="MsgText" isTrl="N" original="Expense Sheet No.">Expense Sheet No.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7390,6 +7718,10 @@ Reload the context to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="Using the SWIFT Code for generating the Displayed Account requires to introduce a SWIFT Code and the Generic Account No.">Using the SWIFT Code for generating the Displayed Account requires to introduce a SWIFT Code and the Generic Account No.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="B2E2BD179E374B09A39DCB5A3A301F0B" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to use generic products in the document.">It is not possible to use generic products in the document.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="B39063570565473E81C41FC76BE18078" trl="N">
     <value column="MsgText" isTrl="N" original="Upon Deposit Account">Upon Deposit Account</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7400,6 +7732,10 @@ Reload the context to make the changes available.</value>
   </row>
   <row id="B3E2222175494912AF6B7D8BBACFF758" trl="N">
     <value column="MsgText" isTrl="N" original="There is no conversion rate defined from">There is no conversion rate defined from</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="B466F32F434A4C83B2208A33C17180ED" trl="N">
+    <value column="MsgText" isTrl="N" original="At most one ADTree can be defined for each table">At most one ADTree can be defined for each table</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B47D9C6B50EA44CAB8893402601B8E04" trl="N">
@@ -7424,6 +7760,10 @@ Reload the context to make the changes available.</value>
   </row>
   <row id="B5B771C2ACC04FE4A75C39249BFAD2EC" trl="N">
     <value column="MsgText" isTrl="N" original="Incorrect Tier/Commercial. Commercial modules must be defined in Tier 1 or Tier 2.">Incorrect Tier/Commercial. Commercial modules must be defined in Tier 1 or Tier 2.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="B5C55AFAE720450B80BBE81E476141FB" trl="N">
+    <value column="MsgText" isTrl="N" original="Variants can not be created because the Generic Product does not have any Characteristic defined as Variant.">Variants can not be created because the Generic Product does not have any Characteristic defined as Variant.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B63A19702E5D4A30A4167A345769D03C" trl="N">
@@ -7467,7 +7807,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B8B0D0E5ABD94742AA20B7257DCF7D28" trl="N">
-    <value column="MsgText" isTrl="N" original="Page {P} of">Страница {P} из</value>
+    <value column="MsgText" isTrl="Y" original="Page {P} of">Страница {P} из</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B90DAD98BE6B409FA4D10CD01397A735" trl="N">
@@ -7510,6 +7850,10 @@ Reload the context to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="has no storage bin defined">has no storage bin defined</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="BC6E700B0E4745F598FF9A6640F52328" trl="N">
+    <value column="MsgText" isTrl="N" original="This organization type doesn't allow period control. You should either uncheck the Allow Period Control flag or change the organization type">This organization type doesn't allow period control. You should either uncheck the Allow Period Control flag or change the organization type</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="BCAF7F617142477B95BAD71E41291571" trl="N">
     <value column="MsgText" isTrl="N" original="Unsupported reservation type">Unsupported reservation type</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7534,12 +7878,20 @@ Reload the context to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="has associated more than one bank account. Please deactivate all bank accounts except the one to be used for the remittance.">has associated more than one bank account. Please deactivate all bank accounts except the one to be used for the remittance.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="BE7801C0E5D24D9EA7F6CBD6A3EC9E2A" trl="N">
+    <value column="MsgText" isTrl="N" original="If GL account is chosen, product should not be selected. If product is chosen, GL account should not be selected.">If GL account is chosen, product should not be selected. If product is chosen, GL account should not be selected.</value>
+    <value column="MsgTip" isTrl="N" original="If GL account is chosen, product should not be selected. If product is chosen, GL account should not be selected.">If GL account is chosen, product should not be selected. If product is chosen, GL account should not be selected.</value>
+  </row>
   <row id="BEE3D8398A804644A3298F2D7F1E23F1" trl="N">
     <value column="MsgText" isTrl="N" original="Invalid Date Format.">Invalid Date Format.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BF4C881E6E67457BA335A07AE90627F5" trl="N">
     <value column="MsgText" isTrl="N" original="Internet is not available">Internet is not available</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="BF58E42183FB4BDFA0291FD34DD17F0B" trl="N">
+    <value column="MsgText" isTrl="N" original="Ledger information is required and should not be left empty. It should be empty just when Multi-General Ledger is flagged">Ledger information is required and should not be left empty. It should be empty just when Multi-General Ledger is flagged</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BF73CD95240B43239E7C8F7BD83E03D5" trl="N">
@@ -7582,8 +7934,16 @@ Reload the context to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="Currently server is down due to maintenance, in short it will be up again. Please, try later.">Currently server is down due to maintenance, in short it will be up again. Please, try later.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="C2F7BB10417D4338A8349A98B986150A" trl="N">
+    <value column="MsgText" isTrl="N" original="Cost Adjustment @documentNo@ has been created.">Cost Adjustment @documentNo@ has been created.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="C3172067BB244F8693A584A9FAFBEE38" trl="N">
     <value column="MsgText" isTrl="N" original="Your Professional/Basic Edition will not be active until ">Your Professional/Basic Edition will not be active until </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="C32F6A68AB474978879C6E39F1FE03E5" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to modify a Requisition that is not Open or Completed.">It is not possible to modify a Requisition that is not Open or Completed.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C3A43E71574945BC8986D5B934A69A96" trl="N">
@@ -7631,7 +7991,7 @@ Reload the context to make the changes available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C6DE79E703C743D7B0BF88E03EE2F742" trl="N">
-    <value column="MsgText" isTrl="N" original="Sales Order has been already booked for the document">Sales Order has been already booked for the document</value>
+    <value column="MsgText" isTrl="N" original="Purchase Invoice has been already booked for the document">Purchase Invoice has been already booked for the document</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="C75F4E1BA95A409AB73ECF5A54A6614E" trl="N">
@@ -7662,6 +8022,10 @@ Reload the context to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="Openbravo Professional/Basic Edition is needed in order to be able to keep track of audit.">Openbravo Professional/Basic Edition is needed in order to be able to keep track of audit.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="C8534B0B881B4E7E9082A1E5BECB3B53" trl="N">
+    <value column="MsgText" isTrl="N" original="Negative quantities are not allowed for P+ and P- products in Work Effort. Check ProductionRunLineNo-ProductLineNo. ">Negative quantities are not allowed for P+ and P- products in Work Effort. Check ProductionRunLineNo-ProductLineNo. </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="C908626CE5A44AA0966E71C20ED3ECC1" trl="N">
     <value column="MsgText" isTrl="Y" original="Organization can not be null.">Организация не может быть нулевой.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7685,6 +8049,18 @@ Reload the context to make the changes available.</value>
   <row id="CAC30D6E2AB44791ABC9D8099794685A" trl="N">
     <value column="MsgText" isTrl="N" original="but is not found in Central Repository.">but is not found in Central Repository.</value>
     <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="CB12523C382F4993A82974E012EC5B32" trl="N">
+    <value column="MsgText" isTrl="N" original="Cannot reallocate all the required quantity">Cannot reallocate all the required quantity</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="CB8ACCC0A9574A9380E7CB308DFADA7A" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to add a Variant characteristic to a Generic Product that already has variants created.">It is not possible to add a Variant characteristic to a Generic Product that already has variants created.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="CB9180AADFA048D9B9F7CA84552F6B2D" trl="N">
+    <value column="MsgText" isTrl="N" original="Database has structural changes.">Database has structural changes.</value>
+    <value column="MsgTip" isTrl="N" original="Database has some structural changes after export.database was done">Database has some structural changes after export.database was done</value>
   </row>
   <row id="CBDF571CAC604569A1BC5A5080806E71" trl="N">
     <value column="MsgText" isTrl="N" original="Not all Opening Inventories have been processed">Not all Opening Inventories have been processed</value>
@@ -7730,6 +8106,10 @@ Reload the context to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="Transactions with no available cost found">Transactions with no available cost found</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="CFF7E48DE32D4D77884A54E73D5C9D3F" trl="N">
+    <value column="MsgText" isTrl="N" original="It is mandatory to define a Goods Receipt or Goods Receipt Line">It is mandatory to define a Goods Receipt or Goods Receipt Line</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="CFFCDC177B244DBEAAA656CCF8E8C0AA" trl="N">
     <value column="MsgText" isTrl="Y" original="Email server is not configured.">Сервер электронной почты не настроен.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7762,6 +8142,14 @@ Reload the context to make the changes available.</value>
     <value column="MsgText" isTrl="N" original="Subscription End Date">Subscription End Date</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="D3696EC5C14B4068B5E2331A89CD1A2A" trl="N">
+    <value column="MsgText" isTrl="N" original="@productNumer@ products successfully added to @chValueName@.">@productNumer@ products successfully added to @chValueName@.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="D3A9E2D613734D5E847C11DF4DDAC958" trl="N">
+    <value column="MsgText" isTrl="N" original="This query criteria returns a number of nodes larger than the established limit. Please enter a more restrictive filter.">This query criteria returns a number of nodes larger than the established limit. Please enter a more restrictive filter.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="D3C4369493464C0485544788869014F6" trl="N">
     <value column="MsgText" isTrl="N" original="It is not possible to delete a permanent cost.">It is not possible to delete a permanent cost.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7776,6 +8164,10 @@ Reload the context to make the changes available.</value>
   </row>
   <row id="D4208AC7E8B348D08F0D621DB273F257" trl="N">
     <value column="MsgText" isTrl="N" original="A ready organization cannot be moved into the tree structure">A ready organization cannot be moved into the tree structure</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="D447E08029244AD4AE34B647368241F8" trl="N">
+    <value column="MsgText" isTrl="N" original="No document type is selected">No document type is selected</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D4C26BD5396244C4B3CD1731B02C4A0A" trl="N">
@@ -7823,6 +8215,10 @@ Ask System Administrator to unlock it.</value>
     <value column="MsgText" isTrl="N" original="Draft document(s) cannot be emailed. Complete the document(s) first.">Draft document(s) cannot be emailed. Complete the document(s) first.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="D668C08F61EE4DCBA55E383321D3676E" trl="N">
+    <value column="MsgText" isTrl="N" original="A Tax Not Deductible organization can't be declared as Cash VAT">A Tax Not Deductible organization can't be declared as Cash VAT</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="D68B5F9401C7420FAD43BAE6DB4E2820" trl="N">
     <value column="MsgText" isTrl="N" original="An Spanish account is defined for this bank. Bank Code, Branch Code and Control Digit must be defined">An Spanish account is defined for this bank. Bank Code, Branch Code and Control Digit must be defined</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7855,6 +8251,10 @@ Ask System Administrator to unlock it.</value>
     <value column="MsgText" isTrl="N" original="There is not default price list defined.">There is not default price list defined.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="D80159B03127462997D926E6421779CC" trl="N">
+    <value column="MsgText" isTrl="N" original="Process Group is mandatory defining a new process group request. ">Process Group is mandatory defining a new process group request. </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="D8089BD51CC84B59915D9B110C96F7B4" trl="N">
     <value column="MsgText" isTrl="N" original="No shipment could be created">No shipment could be created</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7879,8 +8279,16 @@ Ask System Administrator to unlock it.</value>
     <value column="MsgText" isTrl="Y" original="Action">Действие</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="DBD9E67639F34BE8A1EC25769E3D29EB" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to remove a Variant characteristic of a Generic Product which has variants already created">It is not possible to remove a Variant characteristic of a Generic Product which has variants already created</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="DC0A22652CDB456B85A5B58EFDE9FC04" trl="N">
     <value column="MsgText" isTrl="N" original="Module Id already Registered.">Module Id already Registered.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="DC45D12B8FBD4F8FADACD7530438C6EE" trl="N">
+    <value column="MsgText" isTrl="N" original="Verify that document header and document lines have Accounting Date">Verify that document header and document lines have Accounting Date</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DC799265A3BA4F738EBCF717ADE340DD" trl="N">
@@ -7909,6 +8317,10 @@ Ask System Administrator to unlock it.</value>
 You can revert your changes by reloading the current record from the database clicking on the &lt;a class="MessageBox_TextLink" href="#" onclick="document.frmMain.autosave.value='N'; submitCommandForm('DEFAULT'); return true;"&gt;reload button&lt;/a&gt;.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="DD89935E99164E87897CEE1CC67F5BB0" trl="N">
+    <value column="MsgText" isTrl="N" original="Fix backdated from date should be equal or later than the starting date of the costing rule. If this is not the first costing rule, current date will be taken as starting date. Same way if no date is entered in the fix backdated from date, current date will be taken.">Fix backdated from date should be equal or later than the starting date of the costing rule. If this is not the first costing rule, current date will be taken as starting date. Same way if no date is entered in the fix backdated from date, current date will be taken.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="DD9A9C93BB2842F79A517817303A6934" trl="N">
     <value column="MsgText" isTrl="N" original="The process has been rescheduled successfully.">The process has been rescheduled successfully.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -7934,7 +8346,7 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E0ACF2AA0AA0417AA4EC9E23C8C1DF66" trl="N">
-    <value column="MsgText" isTrl="N" original="It is not been possible to apply a discount.">It is not been possible to apply a discount.</value>
+    <value column="MsgText" isTrl="N" original="It is not possible to apply a discount.">It is not possible to apply a discount.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E0E85920920F4E69BF3B39D5C61CFE33" trl="N">
@@ -7985,6 +8397,10 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgText" isTrl="N" original="If &quot;Financial Invoice Line&quot; flag is true, then GL account is mandatory. If flag is false, then GL Account should not be selected.">If "Financial Invoice Line" flag is true, then GL account is mandatory. If flag is false, then GL Account should not be selected.</value>
     <value column="MsgTip" isTrl="N" original="If &quot;Financial Invoice Line&quot; flag is true, then GL account is mandatory. If flag is false, then GL Account should not be selected.">If "Financial Invoice Line" flag is true, then GL account is mandatory. If flag is false, then GL Account should not be selected.</value>
   </row>
+  <row id="E584531278034B1BA298C7CEBB58EAD2" trl="N">
+    <value column="MsgText" isTrl="N" original="The product has been used in documents. It is not possible to set it as Generic Product.">The product has been used in documents. It is not possible to set it as Generic Product.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="E5A5FBC8EDDC41E187E047A130BEF85A" trl="N">
     <value column="MsgText" isTrl="N" original="There is at least one document with no sender Email set (@salesRep@)">There is at least one document with no sender Email set (@salesRep@)</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -8001,12 +8417,21 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgText" isTrl="Y" original="General Ledger">Главная Книга</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="E5F20E44697445FAA1903D89CF2B504E" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to process a Cost Adjustment that includes lines of transactions whose cost is permanently adjusted.&#10;Lines: @lines@">It is not possible to process a Cost Adjustment that includes lines of transactions whose cost is permanently adjusted.
+Lines: @lines@</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="E652E8A6AC41454D817E71F6FEE67779" trl="N">
     <value column="MsgText" isTrl="Y" original="Email Configuration Error">Ошибка настройки электронной почты</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E667A3DF0E1D4FA6BFEE696F302C1663" trl="N">
     <value column="MsgText" isTrl="N" original="which cannot be uninstalled because it is part of the dependencies of">which cannot be uninstalled because it is part of the dependencies of</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="E6A098866AA54C81B8B89FE924DF329D" trl="N">
+    <value column="MsgText" isTrl="N" original="The Order Line is related to a Reservation. It is not possible to change its Product.">The Order Line is related to a Reservation. It is not possible to change its Product.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E758179BB0584ED287882E3606DA6743" trl="N">
@@ -8061,8 +8486,20 @@ You can revert your changes by reloading the current record from the database cl
     <value column="MsgText" isTrl="N" original="template is in development. Only one template can be in development at the same time. Current template is not marked as in development.">template is in development. Only one template can be in development at the same time. Current template is not marked as in development.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="EB384F66F44940B1A7D64D303BC6B44E" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to create variants because the generic product already have them created.">It is not possible to create variants because the generic product already have them created.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="EB6DB180E6444EFB90AE5284E7448BA0" trl="N">
+    <value column="MsgText" isTrl="N" original="Insuffient stock for Product '%1' with%2 UOM '%3' and Storage Bin '%4'">Insuffient stock for Product '%1' with%2 UOM '%3' and Storage Bin '%4'</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="EC3131EC72114226946DB9E99F5C1D10" trl="N">
     <value column="MsgText" isTrl="N" original="Glitem Debit Account">Glitem Debit Account</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="EC3C1FE4E49345A6907F2533037E0E0D" trl="N">
+    <value column="MsgText" isTrl="N" original="root node">root node</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EC8D0137AA0F4B6BB4B8494F9DAD8B76" trl="N">
@@ -8114,6 +8551,10 @@ You can revert your changes by reloading the current record from the database cl
 In the last 30 days this instance has exceeded the limit of web service calls allowed by your subscription for @daysExceeding@ days. From now till tomorrow at 00:00 the system will not respond to any web service call. You should consider increasing your web service subscription allowance.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="F0D045ED9C3F4413BF3612BFD28C85D3" trl="N">
+    <value column="MsgText" isTrl="N" original="Any of the tax rates in the document doesn't match the Cash VAT configured at the header">Any of the tax rates in the document doesn't match the Cash VAT configured at the header</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="F17014A0E42A487A9D9AEDBA41A87620" trl="N">
     <value column="MsgText" isTrl="N" original="This module will not be uninstalled, the rest of them will be though.">This module will not be uninstalled, the rest of them will be though.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -8146,12 +8587,20 @@ In the last 30 days this instance has exceeded the limit of web service calls al
     <value column="MsgText" isTrl="N" original="Cannot update an object in a module not in development and without an active template">Cannot update an object in a module not in development and without an active template</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="F3D93965FE2A4900A9F4358458D5C065" trl="N">
+    <value column="MsgText" isTrl="N" original="When Product is blank then Movement Quantity must be zero.">When Product is blank then Movement Quantity must be zero.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="F4944007131447B6ADF3903564B478E6" trl="N">
     <value column="MsgText" isTrl="N" original="Bad Debt Expense Account">Bad Debt Expense Account</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F4D0363B82154DD899F6B8481C072FB6" trl="N">
     <value column="MsgText" isTrl="N" original="Cannot create the invoice because there are some details with 'is cost calculated' = No. That's means that the product has not calculated its cost and it is not possible to calculate the margin.">Cannot create the invoice because there are some details with 'is cost calculated' = No. That's means that the product has not calculated its cost and it is not possible to calculate the margin.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="F4EC12348DD645CDB967482450314927" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to process a Landed Cost that does not have any Cost assigned.">It is not possible to process a Landed Cost that does not have any Cost assigned.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F572F66AA4F344769920F13B233D0B01" trl="N">
@@ -8184,6 +8633,10 @@ To find out more about this command, and why you should use it, you can read &lt
     <value column="MsgText" isTrl="N" original="There is another session active using this username.">There is another session active using this username.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="F7A63781B41F465AA3C676A0FEA07E4E" trl="N">
+    <value column="MsgText" isTrl="N" original="Storage Bin must be different than New Storage Bin.">Storage Bin must be different than New Storage Bin.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="F7A6AFA7E34D4A0099E7A7E8021C5ECB" trl="N">
     <value column="MsgText" isTrl="Y" original="The Process Request details you have entered are invalid. Please make sure the process frequency and interval are correct.">Заданные вами параметры запроса для выполнения обработки неверны. Пожалуйста убедитесь в правильности заполнения периодичности и интервала выполнения.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -8205,7 +8658,7 @@ To find out more about this command, and why you should use it, you can read &lt
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F94CB5AC747545E691C7BBDBFCA8FF37" trl="N">
-    <value column="MsgText" isTrl="N" original="Movement Quantity is greater than the Ordered Quantity.">Movement Quantity is greater than the Ordered Quantity.</value>
+    <value column="MsgText" isTrl="Y" original="Movement Quantity is greater than the Ordered Quantity">Movement Quantity is greater than the Ordered Quantity.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F96996685DE642E790480BCEAE847EAD" trl="N">
@@ -8233,9 +8686,17 @@ Fix it and restart Tomcat.</value>
     <value column="MsgText" isTrl="N" original="After applying the warehouse rules there is not enough stocked quantity available.">After applying the warehouse rules there is not enough stocked quantity available.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="FBC52CB0637D47BEBFA9B93604746642" trl="N">
+    <value column="MsgText" isTrl="N" original="No Goods Movement created.">No Goods Movement created.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="FBD240BC51C8471F85D65EFB40E079B6" trl="N">
     <value column="MsgText" isTrl="N" original="The following module(s) are commercial module(s) that require a subscription to an Openbravo Professional or Basic Edition:&amp;nbsp;&lt;b&gt;@MODULE_LIST@&lt;/b&gt;">The following module(s) are commercial module(s) that require a subscription to an Openbravo Professional or Basic Edition:&amp;nbsp;&lt;b&gt;@MODULE_LIST@&lt;/b&gt;</value>
     <value column="MsgTip" isTrl="N" original="@MODULE_LIST@ is a place holder for a list of modules. It must be not changed.">@MODULE_LIST@ is a place holder for a list of modules. It must be not changed.</value>
+  </row>
+  <row id="FBDEF1CFE48249D69A50C8D1BB6C803B" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to process a Landed Cost that has some Receipts assigned whose cost is not available:">It is not possible to process a Landed Cost that has some Receipts assigned whose cost is not available:</value>
+    <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FC166D49E8CE423BB39BFFE4EAB6B1E0" trl="N">
     <value column="MsgText" isTrl="N" original="Price list versions remain active">Price list versions remain active</value>

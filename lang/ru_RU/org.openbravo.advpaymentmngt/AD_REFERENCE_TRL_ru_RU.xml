@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REFERENCE" version="">
+  <row id="03D336BF39A7455C8FD64CBCCFB4FC1C" trl="N">
+    <value column="Name" isTrl="N" original="Financial Account Selector">Financial Account Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="0CC268ED2E8D4B0397A0DCBBFA2237DE" trl="N">
     <value column="Name" isTrl="N" original="FIN_BankStatementLine Payment Type">FIN_BankStatementLine Payment Type</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="10536BBE003041DDBE293C619E336D4B" trl="N">
+    <value column="Name" isTrl="N" original="Matched Doc">Matched Doc</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="1221BEA5C19F4FA89D3565CA8877A82E" trl="N">
+    <value column="Name" isTrl="N" original="Organization Selector">Organization Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="125FEBA3F9E841FF928C2D13F33540EC" trl="N">
+    <value column="Name" isTrl="N" original="Match Type">Match Type</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="1543EE40981840C3929CBC16320FE155" trl="N">
+    <value column="Name" isTrl="N" original="Add Payment Transaction Type">Add Payment Transaction Type</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -15,8 +40,38 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="23AB7A87FF4E462197629E461B9F033C" trl="N">
+    <value column="Name" isTrl="N" original="APRM_ActionDocumentSelector">APRM_ActionDocumentSelector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="2EE1D209314A4BEB8B0416B8486FFC86" trl="N">
+    <value column="Name" isTrl="N" original="Match Statement P&amp;E">Match Statement P&amp;E</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="3C5D8A9557F24C9E81D26D032AF917B2" trl="N">
+    <value column="Name" isTrl="N" original="Matched Document">Matched Document</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="3F7FDB0EAC9A42B69E8238335FFA59EC" trl="N">
+    <value column="Name" isTrl="N" original="Payment Selector Transaction for Parameter Window">Payment Selector Transaction for Parameter Window</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="414E5DD3A1304C7781FB856A6872F428" trl="N">
     <value column="Name" isTrl="N" original="AD_Table">AD_Table</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="4BD88BC3C76C44F09F01AD56D3604D02" trl="N">
+    <value column="Name" isTrl="N" original="APRM GL Item">APRM GL Item</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="4F82B6A337604636B29AD5D617B7C953" trl="N">
+    <value column="Name" isTrl="N" original="Doctype Selector">Doctype Selector</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -50,6 +105,21 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="7D750D39954C4F7A81B35230676D5D9F" trl="N">
+    <value column="Name" isTrl="N" original="APRM_PaymentProcessActions">APRM_PaymentProcessActions</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="7F1A079A842545DF966D7EFD4BC5CFCE" trl="N">
+    <value column="Name" isTrl="N" original="Add Payment - Financial Account">Add Payment - Financial Account</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="8D551C48949841EC84D4FA693C4D7AE3" trl="N">
+    <value column="Name" isTrl="N" original="Order Invoice Pick &amp; Edit">Order Invoice Pick &amp; Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="B8C833E4F0A44A2DA5FC7606F3CD9439" trl="N">
     <value column="Name" isTrl="N" original="Modify Payment Out Plan">Modify Payment Out Plan</value>
     <value column="Description" isTrl="N" original=""/>
@@ -60,13 +130,38 @@
     <value column="Description" isTrl="N" original="List of options for transaction type in Add Transaction popup">List of options for transaction type in Add Transaction popup</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="DA5377445D8D468DB17743F8082B3CFD" trl="N">
+    <value column="Name" isTrl="N" original="Find Transactions to Match P&amp;E">Find Transactions to Match P&amp;E</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="DB71FC312327430EAEACF42918405BF9" trl="N">
     <value column="Name" isTrl="N" original="Transactions link">Transactions link</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="E19E605D034E46E082523E13B1D9E5DA" trl="N">
+    <value column="Name" isTrl="N" original="APRM Credit To Use">APRM Credit To Use</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="E1C0B1C7D7C84E85903409A39A53E855" trl="N">
     <value column="Name" isTrl="N" original="FIN_Payment no combo">FIN_Payment no combo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E384FFD20B664C7894E94B05B1D8EE27" trl="N">
+    <value column="Name" isTrl="N" original="Currency Selector">Currency Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E664E415582A483DBBC91DEF256FB9E6" trl="N">
+    <value column="Name" isTrl="N" original="Add Payment - Payment Method">Add Payment - Payment Method</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E867C99480754094BE0705D9877FF833" trl="N">
+    <value column="Name" isTrl="N" original="Organization Selector - Transactions allowed">Organization Selector - Transactions allowed</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -80,8 +175,23 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="EEEECBC3A9E646D3911CAB4773357B8C" trl="N">
+    <value column="Name" isTrl="N" original="Bank Statement Line type">Bank Statement Line type</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="F15C13A199A748F1B0B00E985A64C036" trl="N">
     <value column="Name" isTrl="N" original="FIN_Payable payment on create action">FIN_Payable payment on create action</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="F378D8FAEF9441F29D3974ADE211BF98" trl="N">
+    <value column="Name" isTrl="N" original="Payment Method Selector">Payment Method Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="F671DDEA466D41A996F605590CB545BC" trl="N">
+    <value column="Name" isTrl="N" original="Process transaction">Process transaction</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -95,14 +205,14 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="FCC5D21774AE4E73804F927CAB9858FE" trl="N">
+    <value column="Name" isTrl="N" original="Overpayment Action">Overpayment Action</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="FF8080812E443491012E443C053A001A" trl="N">
     <value column="Name" isTrl="N" original="APRM_Reconciliation process actions">APRM_Reconciliation process actions</value>
     <value column="Description" isTrl="N" original="Reconciliation process actions">Reconciliation process actions</value>
-    <value column="Help" isTrl="N" original=""/>
-  </row>
-  <row id="FF80808133186ADD01331B465E32002D" trl="N">
-    <value column="Name" isTrl="N" original="Reconciliation Detail Widget">Reconciliation Detail Widget</value>
-    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FF808181312414380131241C5A41001F" trl="N">

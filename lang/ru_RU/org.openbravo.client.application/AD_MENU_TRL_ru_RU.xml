@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MENU" version="0.1">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_MENU" version="">
   <row id="1005400002" trl="N">
     <value column="Name" isTrl="Y" original="Register">Регистрация</value>
     <value column="Description" isTrl="N" original="Register your installation of Openbravo ERP in order to receive development and commercial updates and information">Register your installation of Openbravo ERP in order to receive development and commercial updates and information</value>
@@ -8,9 +8,17 @@
     <value column="Name" isTrl="N" original="Navigation Bar Components">Navigation Bar Components</value>
     <value column="Description" isTrl="N" original="Navigation Bar Components">Navigation Bar Components</value>
   </row>
+  <row id="7CBC6E3EE9CD4121BC336C5DF5524085" trl="N">
+    <value column="Name" isTrl="N" original="Grid Configuration at System Level">Grid Configuration at System Level</value>
+    <value column="Description" isTrl="N" original="Define the Grid Configuration at System Level">Define the Grid Configuration at System Level</value>
+  </row>
   <row id="B487FABEB36F45C28E22CD309914FD71" trl="N">
     <value column="Name" isTrl="N" original="View Implementation">View Implementation</value>
     <value column="Description" isTrl="N" original="A view is shown in the main user interface, the view implementation defines the javaclass responsible for generating the client-side javascript.">A view is shown in the main user interface, the view implementation defines the javaclass responsible for generating the client-side javascript.</value>
+  </row>
+  <row id="F8841106C28A4D769320A8010FD6E8DC" trl="N">
+    <value column="Name" isTrl="N" original="Grid Configuration at Window/Tab/Field Level">Grid Configuration at Window/Tab/Field Level</value>
+    <value column="Description" isTrl="N" original="Grid Configuration at Tab and Field level">Grid Configuration at Tab and Field level</value>
   </row>
   <row id="FF8080812EB90459012EBA72B4E7004D" trl="N">
     <value column="Name" isTrl="Y" original="Alert Management">Управление предупреждениями</value>

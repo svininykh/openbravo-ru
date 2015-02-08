@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_WINDOW" version="">
+  <row id="17BE11F1C49547048F9D29E6C95BB67E" trl="N">
+    <value column="Name" isTrl="N" original="APRM GL Item">APRM GL Item</value>
+    <value column="Description" isTrl="N" original="Grid to add G/L Items as part of a given payment">Grid to add G/L Items as part of a given payment</value>
+    <value column="Help" isTrl="N" original="Grid to add G/L Items as part of a given payment">Grid to add G/L Items as part of a given payment</value>
+  </row>
   <row id="4A35B1C57B4243F4A1E42D882C8DDA3D" trl="N">
     <value column="Name" isTrl="N" original="Doubtful Debt">Doubtful Debt</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="5BF18A01DB3F4DBBBE1B8A4A6134ACD1" trl="N">
+    <value column="Name" isTrl="N" original="Find Transactions to Match">Find Transactions to Match</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="6358D6DEB2104161B9769D107FEA54DF" trl="N">
+    <value column="Name" isTrl="N" original="Order Invoice P&amp;E">Order Invoice P&amp;E</value>
+    <value column="Description" isTrl="N" original="Grid to select orders and invoices to be paid">Grid to select orders and invoices to be paid</value>
+    <value column="Help" isTrl="N" original="Grid to select orders and invoices to be paid">Grid to select orders and invoices to be paid</value>
   </row>
   <row id="681E982F747A48A6AF328A236A067559" trl="N">
     <value column="Name" isTrl="N" original="Doubtful Debt Run">Doubtful Debt Run</value>
@@ -14,6 +29,11 @@
     <value column="Name" isTrl="Y" original="Purchase Invoice Payment Plan">График оплаты приходных СФ</value>
     <value column="Description" isTrl="N" original="Displays all Invoice Payment Plans for purchase transactions which are not fully paid">Displays all Invoice Payment Plans for purchase transactions which are not fully paid</value>
     <value column="Help" isTrl="N" original="The purchase invoice payment plan window displays all the purchase invoice payment plans which are not fully paid. ">The purchase invoice payment plan window displays all the purchase invoice payment plans which are not fully paid. </value>
+  </row>
+  <row id="81BAC97FE7754C669254C9CF4FA20292" trl="N">
+    <value column="Name" isTrl="N" original="Credit To Use">Credit To Use</value>
+    <value column="Description" isTrl="N" original="Grid to select the credit to use in the current payment">Grid to select the credit to use in the current payment</value>
+    <value column="Help" isTrl="N" original="Grid to select the credit to use in the current payment">Grid to select the credit to use in the current payment</value>
   </row>
   <row id="C57DED2495184380AFBAAA3CA720C3DA" trl="N">
     <value column="Name" isTrl="N" original="Modify Payment In Plan">Modify Payment In Plan</value>
@@ -29,6 +49,11 @@
     <value column="Name" isTrl="N" original="Doubtful Debts Pick and Edit">Doubtful Debts Pick and Edit</value>
     <value column="Description" isTrl="N" original="Doubtful debts are those debts which a business or individual is unlikely to be able to collect.">Doubtful debts are those debts which a business or individual is unlikely to be able to collect.</value>
     <value column="Help" isTrl="N" original="Doubtful debts are those debts which a business or individual is unlikely to be able to collect. The reasons for potential non payment can include disputes over supply, delivery, at the conditioner of item or the appearance of financial stress within a customer's operations. When such a dispute occurs it is prudent to add this debt or portion thereof to the doubtful debt reserve.">Doubtful debts are those debts which a business or individual is unlikely to be able to collect. The reasons for potential non payment can include disputes over supply, delivery, at the conditioner of item or the appearance of financial stress within a customer's operations. When such a dispute occurs it is prudent to add this debt or portion thereof to the doubtful debt reserve.</value>
+  </row>
+  <row id="E34AE40786684EBB81E9F8A55BE33DCE" trl="N">
+    <value column="Name" isTrl="N" original="Match Statement P&amp;E">Match Statement P&amp;E</value>
+    <value column="Description" isTrl="N" original="Grid for match statements">Grid for match statements</value>
+    <value column="Help" isTrl="N" original="Grid for match statements">Grid for match statements</value>
   </row>
   <row id="EB6621E5513F41449E77D68C58C3C409" trl="N">
     <value column="Name" isTrl="N" original="Doubtful Debt Method">Doubtful Debt Method</value>

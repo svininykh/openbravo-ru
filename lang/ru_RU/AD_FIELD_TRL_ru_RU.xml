@@ -10,10 +10,20 @@
     <value column="Description" isTrl="N" original="The document number for identifying an act of sending goods.">The document number for identifying an act of sending goods.</value>
     <value column="Help" isTrl="N" original="The Shipment ID indicates the unique document for this shipment.">The Shipment ID indicates the unique document for this shipment.</value>
   </row>
+  <row id="0367E46826EA4BE296C19B9D79276A32" trl="N">
+    <value column="Name" isTrl="N" original="Account">Account</value>
+    <value column="Description" isTrl="N" original="The (natural) account used">The (natural) account used</value>
+    <value column="Help" isTrl="N" original="The (natural) account used">The (natural) account used</value>
+  </row>
   <row id="0554CE00C06447F2B33889030BC040E3" trl="N">
     <value column="Name" isTrl="Y" original="Net List Price">Цена прейскуранта</value>
     <value column="Description" isTrl="N" original="The official net price of a product in a specified currency.">The official net price of a product in a specified currency.</value>
     <value column="Help" isTrl="N" original="The Net List Price is the official price stated by the selected pricelist and the currency of the document.">The Net List Price is the official price stated by the selected pricelist and the currency of the document.</value>
+  </row>
+  <row id="06005FA0890493DAE050007F01006246" trl="N">
+    <value column="Name" isTrl="N" original="Allocated">Allocated</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="When the system automatically reserves stock of this warehouse it will be allocated or not based on this flag.">When the system automatically reserves stock of this warehouse it will be allocated or not based on this flag.</value>
   </row>
   <row id="06119ABE11644B2B8CD67F7DC4C96891" trl="N">
     <value column="Name" isTrl="N" original="Copy from Attribute">Copy from Attribute</value>
@@ -465,6 +475,11 @@
     <value column="Description" isTrl="N" original="Account used upon reconciliation">Account used upon reconciliation</value>
     <value column="Help" isTrl="N" original="Account used upon reconciliation">Account used upon reconciliation</value>
   </row>
+  <row id="776D1F4FE64F42CF9C4D81A2E1060C31" trl="N">
+    <value column="Name" isTrl="N" original="Purchase Order Line">Purchase Order Line</value>
+    <value column="Description" isTrl="N" original="A unique and often automatically generated identifier for a sales order line.">A unique and often automatically generated identifier for a sales order line.</value>
+    <value column="Help" isTrl="N" original="A unique identifier and a reference to a sales order line (product).">A unique identifier and a reference to a sales order line (product).</value>
+  </row>
   <row id="7C541AC0C75AFDD7E040007F01016B4D" trl="N">
     <value column="Name" isTrl="Y" original="Deposit To">Принято в</value>
     <value column="Description" isTrl="N" original=""/>
@@ -912,36 +927,6 @@
     <value column="Description" isTrl="N" original="The total sum on which taxes are added.">The total sum on which taxes are added.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="B04C07EBF2C500E2E040007F01003385" trl="N">
-    <value column="Name" isTrl="N" original="ob_selected">ob_selected</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
-  </row>
-  <row id="B04C07EBF2C600E2E040007F01003385" trl="N">
-    <value column="Name" isTrl="Y" original="Shipment/Receipt Line">Стр. накладной отгрузки/поступления</value>
-    <value column="Description" isTrl="N" original="A statement displaying one item, charge, or movement in a shipment or receipt.">A statement displaying one item, charge, or movement in a shipment or receipt.</value>
-    <value column="Help" isTrl="N" original="The Shipment/Receipt Line indicates a unique line in a Shipment or Receipt document">The Shipment/Receipt Line indicates a unique line in a Shipment or Receipt document</value>
-  </row>
-  <row id="B04C07EBF2C800E2E040007F01003385" trl="N">
-    <value column="Name" isTrl="Y" original="Shipment / Receipt No.">Отгрузка/Поступление №</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
-  </row>
-  <row id="B04C07EBF2C900E2E040007F01003385" trl="N">
-    <value column="Name" isTrl="Y" original="Date">Дата</value>
-    <value column="Description" isTrl="N" original="The date that a certain item is moved from one location to another.">The date that a certain item is moved from one location to another.</value>
-    <value column="Help" isTrl="N" original="The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.">The Movement Date indicates the date that a product moved in or out of inventory.  This is the result of a shipment, receipt or inventory movement.</value>
-  </row>
-  <row id="B04C07EBF2CC00E2E040007F01003385" trl="N">
-    <value column="Name" isTrl="Y" original="Ship/Receipt Qty">Отгрузка/Поступление кол-во</value>
-    <value column="Description" isTrl="N" original="The number of items being moved from one location to another.">The number of items being moved from one location to another.</value>
-    <value column="Help" isTrl="N" original="The Movement Quantity indicates the quantity of a product that has been moved.">The Movement Quantity indicates the quantity of a product that has been moved.</value>
-  </row>
-  <row id="B04C07EBF2CF00E2E040007F01003385" trl="N">
-    <value column="Name" isTrl="Y" original="Unit Price">Цена</value>
-    <value column="Description" isTrl="N" original="The price that will be paid for a specified item.">The price that will be paid for a specified item.</value>
-    <value column="Help" isTrl="N" original="The actual price indicates the price for a product in source currency.">The actual price indicates the price for a product in source currency.</value>
-  </row>
   <row id="B0D83CD70D04F5C9E040007F01001E8B" trl="N">
     <value column="Name" isTrl="Y" original="Sales Order Line">Строка ордера клиента</value>
     <value column="Description" isTrl="N" original="A unique and often automatically generated identifier for a sales order line.">A unique and often automatically generated identifier for a sales order line.</value>
@@ -992,6 +977,11 @@
     <value column="Description" isTrl="N" original="Base Currency of the Client.">Base Currency of the Client.</value>
     <value column="Help" isTrl="N" original="The Base Currency is taken as the currency for the amounts that do not have an explicit currency, for instance, costs.">The Base Currency is taken as the currency for the amounts that do not have an explicit currency, for instance, costs.</value>
   </row>
+  <row id="B5B7FB518B280234E040007F01003365" trl="N">
+    <value column="Name" isTrl="N" original="Trx Original Cost">Trx Original Cost</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Total amount of the transaction based on product cost. Cost Adjustments are not included.">Total amount of the transaction based on product cost. Cost Adjustments are not included.</value>
+  </row>
   <row id="B6BB67AE51F61BEBE040A8C091666000" trl="N">
     <value column="Name" isTrl="Y" original="Paid">Выплачено</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1007,14 +997,14 @@
     <value column="Description" isTrl="N" original="Tax Rate to be used in all sales invoices belonging to this Organization (in except of tax rates included in sales invoices, that have got the Is Tax Deductable flag active)">Tax Rate to be used in all sales invoices belonging to this Organization (in except of tax rates included in sales invoices, that have got the Is Tax Deductable flag active)</value>
     <value column="Help" isTrl="N" original="Tax Rate to be used in all sales invoices belonging to this Organization (in except of tax rates included in sales invoices, that have got the Is Tax Deductable flag active)">Tax Rate to be used in all sales invoices belonging to this Organization (in except of tax rates included in sales invoices, that have got the Is Tax Deductable flag active)</value>
   </row>
+  <row id="BEAEE8F7263C47798AD3C4DC486893BD" trl="N">
+    <value column="Name" isTrl="N" original="GL Item">GL Item</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="CA9E542CEB107632E040007F01006734" trl="N">
     <value column="Name" isTrl="Y" original="Purchase Order Line">Строка ордера поставщика</value>
     <value column="Description" isTrl="N" original="A unique and often automatically generated identifier for a purchase order line.">A unique and often automatically generated identifier for a purchase order line.</value>
-    <value column="Help" isTrl="N" original="A unique identifier and a reference to a purchase order line (product).">A unique identifier and a reference to a purchase order line (product).</value>
-  </row>
-  <row id="CD35A5791D2F06E5E040007F01001839" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order Line">Строка ордера поставщика</value>
-    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="A unique identifier and a reference to a purchase order line (product).">A unique identifier and a reference to a purchase order line (product).</value>
   </row>
   <row id="CE88342CC7CE28E3E040007F01002B8B" trl="N">
@@ -1037,6 +1027,16 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The Business Partner the payment is paid to.">The Business Partner the payment is paid to.</value>
   </row>
+  <row id="D541E6F21F5D497E98254688ED9E0216" trl="N">
+    <value column="Name" isTrl="N" original="Add Payment">Add Payment</value>
+    <value column="Description" isTrl="N" original="Add Payment From Journal Line">Add Payment From Journal Line</value>
+    <value column="Help" isTrl="N" original="Process to add new Payments from the G/L Journal Lines.">Process to add new Payments from the G/L Journal Lines.</value>
+  </row>
+  <row id="DA64BC057C40893CE040007F010046BF" trl="N">
+    <value column="Name" isTrl="N" original="Unit Price">Unit Price</value>
+    <value column="Description" isTrl="N" original="Unit price of the variants using this value.">Unit price of the variants using this value.</value>
+    <value column="Help" isTrl="N" original="The Unit Price indicates the Price to use when creating the variants with this value.">The Unit Price indicates the Price to use when creating the variants with this value.</value>
+  </row>
   <row id="DAD73C2515B6410593C6FF1BD479FEF1" trl="N">
     <value column="Name" isTrl="N" original="Upon Reconciliation Use">Upon Reconciliation Use</value>
     <value column="Description" isTrl="N" original="Account to be used upon reconciliation">Account to be used upon reconciliation</value>
@@ -1056,6 +1056,11 @@
     <value column="Name" isTrl="Y" original="Purchase Order Line">Строка ордера поставщика</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E7377F83BF244A73987D04A7D7B97843" trl="N">
+    <value column="Name" isTrl="N" original="Payment">Payment</value>
+    <value column="Description" isTrl="N" original="Payment event">Payment event</value>
+    <value column="Help" isTrl="N" original="Payment event">Payment event</value>
   </row>
   <row id="E9720E4D2C164A6398D32AAA916A74CF" trl="N">
     <value column="Name" isTrl="N" original="Alternate Taxable Amount">Alternate Taxable Amount</value>

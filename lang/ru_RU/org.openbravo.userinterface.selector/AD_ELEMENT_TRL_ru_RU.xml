@@ -100,6 +100,17 @@ This will retrieve the session variable SESSIONVAR and use it as default value f
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="8A085D4A13544A7F97C43AA5B2DF1982" trl="N">
+    <value column="Name" isTrl="N" original="Process for Adding Records">Process for Adding Records</value>
+    <value column="PrintName" isTrl="N" original="Process for Adding Records">Process for Adding Records</value>
+    <value column="Description" isTrl="N" original="Process for Adding Records">Process for Adding Records</value>
+    <value column="Help" isTrl="N" original="This is the 'Process Definition' that will be opened once the 'Create New' button be pressed in a selector.&#10;This process should be in charge of the record creation.">This is the 'Process Definition' that will be opened once the 'Create New' button be pressed in a selector.
+This process should be in charge of the record creation.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="9A4B096709FEB876E040007F01007259" trl="N">
     <value column="Name" isTrl="N" original="HQL">HQL</value>
     <value column="PrintName" isTrl="N" original="HQL">HQL</value>

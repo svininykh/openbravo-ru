@@ -119,12 +119,26 @@
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The payment plan tab lists the scheduled payments expected against the invoice.">The payment plan tab lists the scheduled payments expected against the invoice.</value>
   </row>
+  <row id="B6049E97C1254A1092C883EA59172013" trl="N">
+    <value column="Name" isTrl="N" original="Find Transactions to Match">Find Transactions to Match</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="B82C02920AA84E8DB57D553185BD2F06" trl="N">
     <value column="Name" isTrl="Y" original="Payment Details">Детализация платежа</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Displays the details of the payments (pre-payments or regular payments) received for the order or for the invoice/s of the order.">Displays the details of the payments (pre-payments or regular payments) received for the order or for the invoice/s of the order.</value>
+  </row>
+  <row id="BE20AB937FC64221A86E93ECA0DF1C1D" trl="N">
+    <value column="Name" isTrl="N" original="Order Invoices">Order Invoices</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Grid to select orders and invoices to be paid">Grid to select orders and invoices to be paid</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Grid to select orders and invoices to be paid">Grid to select orders and invoices to be paid</value>
   </row>
   <row id="C095D2CC39704DBE8B906B7CD7710968" trl="N">
     <value column="Name" isTrl="N" original="Reconciliations old">Reconciliations old</value>
@@ -140,12 +154,26 @@
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="D6E031B95C004672B30AB1E3543E0A07" trl="N">
+    <value column="Name" isTrl="N" original="GL Item">GL Item</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Grid to add G/L Items as part of a given payment">Grid to add G/L Items as part of a given payment</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Grid to add G/L Items as part of a given payment">Grid to add G/L Items as part of a given payment</value>
+  </row>
   <row id="E4DC11F751F34F0DAE11A4D856CD99EB" trl="N">
     <value column="Name" isTrl="N" original="Doubtful Debt">Doubtful Debt</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E8B0F34041F244B7A5B04F5085C2A342" trl="N">
+    <value column="Name" isTrl="N" original="Credit To Use">Credit To Use</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Grid to select the credit to use in the current payment">Grid to select the credit to use in the current payment</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Grid to select the credit to use in the current payment">Grid to select the credit to use in the current payment</value>
   </row>
   <row id="EB0466B2A22343F28773B356D292BC7E" trl="N">
     <value column="Name" isTrl="N" original="Payment Plan (old)">Payment Plan (old)</value>
@@ -160,6 +188,13 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Shows the total amount expected to be collected upon order booking as well as the amount/s pre-paid or paid against the invoice/s for the order.">Shows the total amount expected to be collected upon order booking as well as the amount/s pre-paid or paid against the invoice/s for the order.</value>
+  </row>
+  <row id="ED54A4E24196476596955286D403461E" trl="N">
+    <value column="Name" isTrl="N" original="Match Statement">Match Statement</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Grid for match statements">Grid for match statements</value>
+    <value column="Filtername" isTrl="N" original="Not cleared bank statement lines">Not cleared bank statement lines</value>
+    <value column="Help" isTrl="N" original="Grid for match statements">Grid for match statements</value>
   </row>
   <row id="F6C2283A21314407BBBB23FF14B85ED4" trl="N">
     <value column="Name" isTrl="Y" original="Payment Details">Детализация платежа</value>

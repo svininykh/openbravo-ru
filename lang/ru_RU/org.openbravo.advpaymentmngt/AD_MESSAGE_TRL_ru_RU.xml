@@ -24,6 +24,14 @@
     <value column="MsgText" isTrl="N" original="The old financial flow is disabled. Please use the Advanced and Payables and Receivables Management module's financial flow.">The old financial flow is disabled. Please use the Advanced and Payables and Receivables Management module's financial flow.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="0F5C45033AF44833B04850F27B93923B" trl="N">
+    <value column="MsgText" isTrl="N" original="Add new transaction">Add new transaction</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="12A17D39C7664BDE8B1A0F079D44591E" trl="N">
+    <value column="MsgText" isTrl="N" original="You must select a record before executing the process">You must select a record before executing the process</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="1405C086998B431D80615A4FB8EC783B" trl="N">
     <value column="MsgText" isTrl="Y" original="Date">Дата</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -38,6 +46,10 @@
   </row>
   <row id="167679F2C257479E9129C3C51B8F426D" trl="N">
     <value column="MsgText" isTrl="N" original="There is no doubtful debt to be processed.">There is no doubtful debt to be processed.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="19141BEA79154C24BC0DEB49B61C5C4B" trl="N">
+    <value column="MsgText" isTrl="N" original="The automatic matching algorithm has matched %d transaction(s)">The automatic matching algorithm has matched %d transaction(s)</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="19D77522B7A4470FBA505D39A6AA051C" trl="N">
@@ -56,12 +68,20 @@
     <value column="MsgText" isTrl="Y" original="Amount left as credit">Сумма внесена по кредиту</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="20A08BD18EC44CEE9662419F9A420382" trl="N">
+    <value column="MsgText" isTrl="N" original="No handler found">No handler found</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="2118F382AC3646CA8D8F2EAE6504B876" trl="N">
     <value column="MsgText" isTrl="N" original="Reconciliation No.">Reconciliation No.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="247F96A9D1AB44C2B24CD06B4B05068B" trl="N">
     <value column="MsgText" isTrl="N" original="Payment plan lines with received (or paid) amounts cannot be deleted">Payment plan lines with received (or paid) amounts cannot be deleted</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="270487C5F8E04A37BD8F7F6D00FD138F" trl="N">
+    <value column="MsgText" isTrl="N" original="The bank statement line has been successfully unmatched ">The bank statement line has been successfully unmatched </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2D4DB4272D2A4E23B6B2E16176FAC92F" trl="N">
@@ -78,6 +98,10 @@
   </row>
   <row id="355244CE61E647E7822FF281159181E4" trl="N">
     <value column="MsgText" isTrl="N" original="The next payments have been created and executed: %s">The next payments have been created and executed: %s</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="38E9BE48051D46E78609ABC942D0BFA6" trl="N">
+    <value column="MsgText" isTrl="N" original="The Payment Method &quot;%s&quot; associated to the Payment no. &quot;%s&quot; is no longer defined in the Financial Account &quot;%s&quot;">The Payment Method "%s" associated to the Payment no. "%s" is no longer defined in the Financial Account "%s"</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="406CD43121E34BF2A6AA2EBDB9DC8CF5" trl="N">
@@ -102,6 +126,10 @@
   </row>
   <row id="48898A3B7F9141C0B9BFBDD9AE5FCF8F" trl="N">
     <value column="MsgText" isTrl="N" original="The reconciliation cannot be completed because it contains one or more items in a closed period.&lt;BR&gt;The period of the cleared item (%s) is not open or available.">The reconciliation cannot be completed because it contains one or more items in a closed period.&lt;BR&gt;The period of the cleared item (%s) is not open or available.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="48DC6B1A893B45BBA4AA76E07A80A241" trl="N">
+    <value column="MsgText" isTrl="N" original="The value is not in a valid range">The value is not in a valid range</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="49C16126D1A141C398175B0632C08F95" trl="N">
@@ -153,8 +181,16 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="N" original="Execution Process not defined for the pair Financial Account - Payment Method.">Execution Process not defined for the pair Financial Account - Payment Method.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="64B44368CEC441619C3462E67A07F9DB" trl="N">
+    <value column="MsgText" isTrl="N" original="The automatic matching algorithm couldn't match any transaction">The automatic matching algorithm couldn't match any transaction</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="65A7E4455E2F41F1A3D5C71221E01DE5" trl="N">
     <value column="MsgText" isTrl="N" original="Payment">Payment</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="65FFCFF8C6A64AA3AE3E25AB791E6240" trl="N">
+    <value column="MsgText" isTrl="N" original="No Document Type defined for the Reconciliation">No Document Type defined for the Reconciliation</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="677879BD3D72467AA2D646765E596E4F" trl="N">
@@ -173,6 +209,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="N" original="When matching transactions after reconciliation date range, these transaction dates will be updated to bank statement line date">When matching transactions after reconciliation date range, these transaction dates will be updated to bank statement line date</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="712C841E501642B881A998CCAC13E420" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not necessary to use credit for this payment: Actual Payment is greater than Expected Payment.">It is not necessary to use credit for this payment: Actual Payment is greater than Expected Payment.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="7918E1E75DF84F499AD21A51F53F9A9B" trl="N">
     <value column="MsgText" isTrl="N" original="No file import extension active">No file import extension active</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -189,8 +229,16 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="N" original="It is not possible to pay more amount than the outstanding.">It is not possible to pay more amount than the outstanding.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="7C3348DBBB4C45A1997453A40CCB80C4" trl="N">
+    <value column="MsgText" isTrl="N" original="This transaction type must define either a Payment or a G/L Item">This transaction type must define either a Payment or a G/L Item</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="7DEF5C1A3377434AA34149E9777DE4D6" trl="N">
     <value column="MsgText" isTrl="N" original="Mixing reconciliations: you cannot perform a manual and automatic reconciliation in parallel.">Mixing reconciliations: you cannot perform a manual and automatic reconciliation in parallel.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="7E4B7FD8E75E4C28B6A35DDC350B36AE" trl="N">
+    <value column="MsgText" isTrl="N" original="Payment date field cannot be left blank.">Payment date field cannot be left blank.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7EF14E73C8EB4C33B302885E2FBDD0EE" trl="N">
@@ -213,6 +261,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="N" original="The transaction has been created but it is not matched because amounts for the selected transaction and bank statement line do not match.">The transaction has been created but it is not matched because amounts for the selected transaction and bank statement line do not match.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="8A60F6B0EA4844F4BFC8B8DEDBCB418C" trl="N">
+    <value column="MsgText" isTrl="N" original="Match to a not cleared transaction">Match to a not cleared transaction</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="8E01FDCFBE034863898A47F1AE37BB15" trl="N">
     <value column="MsgText" isTrl="N" original="%s row/s inserted.&lt;br/&gt;%s row/s not inserted because credit and debit amount were 0.">%s row/s inserted.&lt;br/&gt;%s row/s not inserted because credit and debit amount were 0.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -225,8 +277,20 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="N" original="Do you want the algorithm to be run against unmatched bank statement lines?">Do you want the algorithm to be run against unmatched bank statement lines?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="9124E0172DAA4B07B4C4F035BDDA2424" trl="N">
+    <value column="MsgText" isTrl="N" original="You must set one amount bigger than zero.">You must set one amount bigger than zero.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="91CCBCC8F7D940AA8F5EE2DD301C9291" trl="N">
+    <value column="MsgText" isTrl="N" original="Draft Reconciliation already exists. Just one reconciliation can be edited at a time for a financial account. Please process ongoing reconciliation prior to reactivate this one. ">Draft Reconciliation already exists. Just one reconciliation can be edited at a time for a financial account. Please process ongoing reconciliation prior to reactivate this one. </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="92EC1935A8B947BA83EF82DBD169CA8B" trl="N">
     <value column="MsgText" isTrl="N" original="For credit generation and/or credit consumption payment currency should map business partner currency: %s">For credit generation and/or credit consumption payment currency should map business partner currency: %s</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="930DFD20E67948A98313E7114A88D57D" trl="N">
+    <value column="MsgText" isTrl="N" original="Process Reconciliation?">Process Reconciliation?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9350C57F0C194634B4FC83028AC4D31D" trl="N">
@@ -241,6 +305,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="Y" original="The invoice has related payments.">Счёт-фактура связана с платежами.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="98D98BDB439647EBA0F5D680CDC414F3" trl="N">
+    <value column="MsgText" isTrl="N" original="Unmatch current transaction">Unmatch current transaction</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="9B5F3BE69BD34E33970599D3B352F120" trl="N">
     <value column="MsgText" isTrl="N" original="Description">Description</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -251,6 +319,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
   </row>
   <row id="9CFC61CBF0C84814B6DB7729427A2E38" trl="N">
     <value column="MsgText" isTrl="N" original="in the Financial Account">in the Financial Account</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="A08760215EF944BABE717FA33F241FC0" trl="N">
+    <value column="MsgText" isTrl="N" original="It is not possible to add a payment of zero amount to a transaction">It is not possible to add a payment of zero amount to a transaction</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="A0F2DD5EF309448084FB6F3F44B59798" trl="N">
@@ -293,8 +365,16 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="N" original="Posted">Posted</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="B51BB312751F42348FB240284FF9BC33" trl="N">
+    <value column="MsgText" isTrl="N" original="No Reconciliation Document Number obtained for the defined Document Type">No Reconciliation Document Number obtained for the defined Document Type</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="B6F8970C7470421FA5375E61D71A8E73" trl="N">
     <value column="MsgText" isTrl="N" original="It is not possible to reconcile in a previous day to the last reconciliation or in a day in the future.">It is not possible to reconcile in a previous day to the last reconciliation or in a day in the future.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="B80A5CA4E2554B3EB706486A763B1297" trl="N">
+    <value column="MsgText" isTrl="N" original="The amount has not been distributed because there are too many (&gt;75) records">The amount has not been distributed because there are too many (&gt;75) records</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B9ECCDD15B1349B5B00DC6EE83AD869E" trl="N">
@@ -325,12 +405,24 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="N" original="Making Payments in other currencies is not allowed for the Payment Mehod">Making Payments in other currencies is not allowed for the Payment Mehod</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="C6F7E24F731242D49A73C8C1A835A252" trl="N">
+    <value column="MsgText" isTrl="N" original="This record has already been changed by another user or process.">This record has already been changed by another user or process.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="CAB70EC8598D40E0BFFD7F0FB8538080" trl="N">
     <value column="MsgText" isTrl="N" original="Check the lines with Line No.:">Check the lines with Line No.:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CCA38D3048F04C1FA6F05AD56CF81B5D" trl="N">
     <value column="MsgText" isTrl="N" original="It does not exist any Financial Account defined for this payment method and currency">It does not exist any Financial Account defined for this payment method and currency</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="CE54F0E4ABA846C9BA9E5A91CF38BE09" trl="N">
+    <value column="MsgText" isTrl="N" original="All the changes you make in this grid will be immediately saved">All the changes you make in this grid will be immediately saved</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="D0F129E2F69F4D199DAE68813D2327A2" trl="N">
+    <value column="MsgText" isTrl="N" original="Bank Statement Line is already matched. It can not be modified nor deleted.">Bank Statement Line is already matched. It can not be modified nor deleted.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D2585EEAC94945C7B3CF79C209FD7650" trl="N">
@@ -343,6 +435,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
   </row>
   <row id="D374CA8D2FF541E5BF1149FCFDAEED86" trl="N">
     <value column="MsgText" isTrl="N" original="The order has related payments.">The order has related payments.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="D3EF3C6C68C94E3A9461292D860929FB" trl="N">
+    <value column="MsgText" isTrl="N" original="Credit used in Payment No.: %s">Credit used in Payment No.: %s</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D43307A25D72423CBDEC95CEB3291AF1" trl="N">
@@ -391,6 +487,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
   </row>
   <row id="F381A9CA5B51447286C117C68394C6BA" trl="N">
     <value column="MsgText" isTrl="N" original="No currency in business partner's price list">No currency in business partner's price list</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="F4500597D99243129F93A0769047CFCB" trl="N">
+    <value column="MsgText" isTrl="N" original="Tax payments can not be reactivated.">Tax payments can not be reactivated.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F579E42461DC472AA4F21B14DD3D680B" trl="N">

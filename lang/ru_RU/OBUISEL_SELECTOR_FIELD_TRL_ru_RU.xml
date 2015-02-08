@@ -10,6 +10,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="0C77D170D18142549484CF860A6BE104" trl="N">
+    <value column="Name" isTrl="N" original="Characteristic Description">Characteristic Description</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="13CA3020FEB644D9AA51B4797181BB29" trl="N">
     <value column="Name" isTrl="N" original="id">id</value>
     <value column="Description" isTrl="N" original=""/>
@@ -245,6 +250,16 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="BE8CA3AE58614114BA7AB015782825E1" trl="N">
+    <value column="Name" isTrl="N" original="Shipment/Receipt Line">Shipment/Receipt Line</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C68D5472E5C94D01AD29C3AA4946B698" trl="N">
+    <value column="Name" isTrl="N" original="Generic Product">Generic Product</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="C8D400B2F068460C882BB44977BEAAEF" trl="N">
     <value column="Name" isTrl="N" original="Income">Income</value>
     <value column="Description" isTrl="N" original=""/>
@@ -287,6 +302,11 @@
   </row>
   <row id="E6B0D69F192E4DEA88BFB260858C0F00" trl="N">
     <value column="Name" isTrl="Y" original="Unit Price">Цена</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E833784709A148949BAE34B8032CEAC8" trl="N">
+    <value column="Name" isTrl="N" original="Sales Order Doc No">Sales Order Doc No</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

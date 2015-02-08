@@ -139,6 +139,11 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Description" isTrl="N" original="Create and edit account elements and add them to your defined chart of accounts or account trees.">Create and edit account elements and add them to your defined chart of accounts or account trees.</value>
     <value column="Help" isTrl="N" original="An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.">An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.</value>
   </row>
+  <row id="11A2976F05D841EFAE654A8B83EB4204" trl="N">
+    <value column="Name" isTrl="N" original="Brand">Brand</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="11E11FE8445B4621A9989DD406C1B374" trl="N">
     <value column="Name" isTrl="Y" original="Organization Type">Вид организации</value>
     <value column="Description" isTrl="N" original="Defines an organization type which will be available into the system">Defines an organization type which will be available into the system</value>
@@ -179,6 +184,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Name" isTrl="Y" original="Preference">Привилегии</value>
     <value column="Description" isTrl="N" original="Create and edit extremely restrictive values for a specified user, window, or for the entire application.">Create and edit extremely restrictive values for a specified user, window, or for the entire application.</value>
     <value column="Help" isTrl="N" original="A preference is a type of session value which can either be an attribute or a property.">A preference is a type of session value which can either be an attribute or a property.</value>
+  </row>
+  <row id="12B062B1031A40EC8067D353B31967EB" trl="N">
+    <value column="Name" isTrl="N" original="Landed Cost Distribution Algorithm">Landed Cost Distribution Algorithm</value>
+    <value column="Description" isTrl="N" original="Master window where available landed cost distribution algorithms are defined.">Master window where available landed cost distribution algorithms are defined.</value>
+    <value column="Help" isTrl="N" original="Master window where available landed cost distribution algorithms are defined.">Master window where available landed cost distribution algorithms are defined.</value>
   </row>
   <row id="130" trl="N">
     <value column="Name" isTrl="Y" original="Multiphase Project">Мультифазный проект</value>
@@ -314,6 +324,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original="Create and edit inventory counts and update your stock quantities.">Create and edit inventory counts and update your stock quantities.</value>
     <value column="Help" isTrl="N" original="Physical Inventory window allows to execute goods count process in Openbravo.">Physical Inventory window allows to execute goods count process in Openbravo.</value>
   </row>
+  <row id="1688A758BDA04C88A5C1D370EB979C53" trl="N">
+    <value column="Name" isTrl="N" original="Cost Adjustment">Cost Adjustment</value>
+    <value column="Description" isTrl="N" original="Cost Adjustment window allows to review product transaction's cost adjustments caused by changes in purchase prices, landed cost allocation or manual/negative cost corrections.">Cost Adjustment window allows to review product transaction's cost adjustments caused by changes in purchase prices, landed cost allocation or manual/negative cost corrections.</value>
+    <value column="Help" isTrl="N" original="Cost Adjustment window allows to review product transaction's cost adjustments caused by changes in purchase prices, landed cost allocation or manual/negative cost corrections.">Cost Adjustment window allows to review product transaction's cost adjustments caused by changes in purchase prices, landed cost allocation or manual/negative cost corrections.</value>
+  </row>
   <row id="169" trl="N">
     <value column="Name" isTrl="Y" original="Goods Shipment">Накладная отгрузки</value>
     <value column="Description" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
@@ -378,6 +393,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Name" isTrl="N" original="Payment Proposal">Payment Proposal</value>
     <value column="Description" isTrl="N" original="Generates a payment proposal for a selected payment method based on a criteria.">Generates a payment proposal for a selected payment method based on a criteria.</value>
     <value column="Help" isTrl="N" original="The payment proposal is a tool that helps the user to make payments by selecting the documents related to a given payment method or scheduled to be paid before a given due date. The system proposes what should be paid based on the selection criteria provided by the user.">The payment proposal is a tool that helps the user to make payments by selecting the documents related to a given payment method or scheduled to be paid before a given due date. The system proposes what should be paid based on the selection criteria provided by the user.</value>
+  </row>
+  <row id="1BABEC23FDC043DDADB8AE5D648CFD88" trl="N">
+    <value column="Name" isTrl="N" original="LCCosts to Match from Invoice Line">LCCosts to Match from Invoice Line</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="200" trl="N">
     <value column="Name" isTrl="N" original="Field Category">Field Category</value>
@@ -482,8 +502,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="260" trl="N">
     <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
-    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest.
-</value>
+    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest. &#10;</value>
   </row>
   <row id="264" trl="N">
     <value column="Name" isTrl="Y" original="Session">Сессия</value>
@@ -530,11 +549,6 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="Y" original="Dataset">Набор данных</value>
     <value column="Help" isTrl="Y" original="Sets of data.">Набор данных.</value>
   </row>
-  <row id="31496219132644BE8D477517595AE9D3" trl="N">
-    <value column="Name" isTrl="N" original="RFC Order Pick / Edit Lines">RFC Order Pick / Edit Lines</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
-  </row>
   <row id="3596042B422E4F049F9E4AAED238C219" trl="N">
     <value column="Name" isTrl="N" original="RM Shipment Pick and Edit">RM Shipment Pick and Edit</value>
     <value column="Description" isTrl="N" original=""/>
@@ -575,6 +589,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="Y" original="System Info">Системная информация</value>
     <value column="Help" isTrl="Y" original="System Info">Системная информация</value>
   </row>
+  <row id="60703FC84BF6494B8A59DDFEAB48A4F6" trl="N">
+    <value column="Name" isTrl="N" original="RFC/RTV HQL Pick / Edit Lines">RFC/RTV HQL Pick / Edit Lines</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="6AA84F4BDAA44477808F0E7A86AB4961" trl="N">
     <value column="Name" isTrl="N" original="Prereservation Pick and Edit">Prereservation Pick and Edit</value>
     <value column="Description" isTrl="N" original=""/>
@@ -594,6 +613,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Name" isTrl="Y" original="Payment Out">Выплаченные платежи</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Supplier's payments and prepayments can be made and managed in the payment out window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.">Supplier's payments and prepayments can be made and managed in the payment out window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.</value>
+  </row>
+  <row id="6FAD464D6C5C487F956B49E8B5EFC761" trl="N">
+    <value column="Name" isTrl="N" original="Product Characteristic">Product Characteristic</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Product Characteristic can be defined to complete the definition of a product using variants.">Product Characteristic can be defined to complete the definition of a product using variants.</value>
   </row>
   <row id="79FC23AB84F04384B4B7CCCADCDD2942" trl="N">
     <value column="Name" isTrl="Y" original="Cost Center">Центр затрат</value>
@@ -885,6 +909,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
     <value column="Help" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
   </row>
+  <row id="8DB776A77D374882B73DE6EC6A78D800" trl="N">
+    <value column="Name" isTrl="N" original="RFC HQL Pick / Edit Orphan Lines">RFC HQL Pick / Edit Orphan Lines</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="9153155013C843839F88E9940B976148" trl="Y">
     <value column="Name" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
     <value column="Description" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
@@ -894,6 +923,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Name" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
     <value column="Description" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
     <value column="Help" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
+  </row>
+  <row id="944C49CE80BE4F71B9917BD680A052A8" trl="N">
+    <value column="Name" isTrl="N" original="Landed Cost Type">Landed Cost Type</value>
+    <value column="Description" isTrl="N" original="Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.">Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.</value>
+    <value column="Help" isTrl="N" original="Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.">Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.</value>
   </row>
   <row id="94EAA455D2644E04AB25D93BE5157B6D" trl="N">
     <value column="Name" isTrl="Y" original="Financial Account">Финансовый счет</value>
@@ -940,15 +974,35 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="B8863C537CBE4F31A75A98CBF8EC842E" trl="N">
+    <value column="Name" isTrl="N" original="Reserved Goods Movement">Reserved Goods Movement</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="B917E8A7B0864ACEA9D941E3B7494E53" trl="N">
+    <value column="Name" isTrl="N" original="Simple G/L Journal">Simple G/L Journal</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="C50A8AEE6F044825B5EF54FAAE76826F" trl="N">
     <value column="Name" isTrl="Y" original="Return to Vendor">Возврат поставщику по ордеру</value>
     <value column="Description" isTrl="N" original="Return to vendor (RTV). Here you enter the goods you want to return to the vendor">Return to vendor (RTV). Here you enter the goods you want to return to the vendor</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="C846A9EFF5D741A693029D516432BF6C" trl="N">
+    <value column="Name" isTrl="N" original="Process Group">Process Group</value>
+    <value column="Description" isTrl="N" original="Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.">Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.</value>
+    <value column="Help" isTrl="N" original="Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.">Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.</value>
+  </row>
   <row id="C85110C9334B4C26BA29BB3B91000689" trl="N">
     <value column="Name" isTrl="N" original="Stock Reservation">Stock Reservation</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="In this window is possible to review and manage existing Reservations.">In this window is possible to review and manage existing Reservations.</value>
+  </row>
+  <row id="D1B11CBC0FEF4CA0B44D3BECEBA219BC" trl="N">
+    <value column="Name" isTrl="N" original="Landed Cost">Landed Cost</value>
+    <value column="Description" isTrl="N" original="Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.">Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.</value>
+    <value column="Help" isTrl="N" original="Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.">Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.</value>
   </row>
   <row id="D1D0C603DFC0423099D897A0DB388AC2" trl="N">
     <value column="Name" isTrl="N" original="Matching Algorithm">Matching Algorithm</value>
@@ -980,10 +1034,25 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original="Open/Close Period Control for the allowed organizations">Open/Close Period Control for the allowed organizations</value>
     <value column="Help" isTrl="N" original="Open/Close Period Control feature manage the periods of an organization. This feature applies to organizations for which the &quot;Period Control&quot; feature is enabled.">Open/Close Period Control feature manage the periods of an organization. This feature applies to organizations for which the "Period Control" feature is enabled.</value>
   </row>
+  <row id="E7754848A0314B018B37C1428ECB4D21" trl="N">
+    <value column="Name" isTrl="N" original="Inventory Amount Update">Inventory Amount Update</value>
+    <value column="Description" isTrl="N" original="Inventory Amount Update window allows to change either current inventory amount or current unit cost of products in stock at a given reference date.">Inventory Amount Update window allows to change either current inventory amount or current unit cost of products in stock at a given reference date.</value>
+    <value column="Help" isTrl="N" original="Inventory Amount Update window allows to change either current inventory amount or current unit cost of products in stock at a given reference date.">Inventory Amount Update window allows to change either current inventory amount or current unit cost of products in stock at a given reference date.</value>
+  </row>
   <row id="EF3E837705944F4DBF398D683D36ACE0" trl="N">
     <value column="Name" isTrl="Y" original="Process Monitor">Отслеживание обработки</value>
     <value column="Description" isTrl="N" original="Monitor the results, run time, start and finish times of execution of process requests.">Monitor the results, run time, start and finish times of execution of process requests.</value>
     <value column="Help" isTrl="N" original="Process monitor feature allows to review the status of processes executed by a user as well as the ones scheduled in the process request window.">Process monitor feature allows to review the status of processes executed by a user as well as the ones scheduled in the process request window.</value>
+  </row>
+  <row id="F00A1A57E3894121A8FC1957497423F7" trl="N">
+    <value column="Name" isTrl="N" original="Manage Variants Pick and Execute">Manage Variants Pick and Execute</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="F7253C7B9B8F47518C29248F899C72CE" trl="N">
+    <value column="Name" isTrl="N" original="Create Purchase Order Lines">Create Purchase Order Lines</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FC404D2406A9491CBD905D0D38F04846" trl="N">
     <value column="Name" isTrl="Y" original="Warehouse Rules">Правила хранения</value>

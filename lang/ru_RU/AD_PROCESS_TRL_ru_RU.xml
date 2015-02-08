@@ -147,7 +147,7 @@
   <row id="109" trl="N">
     <value column="Name" isTrl="Y" original="Process Shipment">Обработка накладной</value>
     <value column="Description" isTrl="N" original="Process Shipment (Update Inventory)">Process Shipment (Update Inventory)</value>
-    <value column="Help" isTrl="N" original="Process Shipment will move products out of inventory and mark line items as shipped.">Process Shipment will move products out of inventory and mark line items as shipped.</value>
+    <value column="Help" isTrl="N" original="This process will move products in/out of inventory and mark line items as received/shipped.">This process will move products in/out of inventory and mark line items as received/shipped.</value>
   </row>
   <row id="110" trl="N">
     <value column="Name" isTrl="N" original="Order Print">Order Print</value>
@@ -595,6 +595,15 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Description" isTrl="N" original="Process to insert orphan lines not related to shipments in return material orders">Process to insert orphan lines not related to shipments in return material orders</value>
     <value column="Help" isTrl="N" original="Inserts a return order line not related to any shipment line. It has to be set the product with attribute if necessary and the quantity desired to return. Alternatively it can be set the price and tax to be used if values different than default are desired.">Inserts a return order line not related to any shipment line. It has to be set the product with attribute if necessary and the quantity desired to return. Alternatively it can be set the price and tax to be used if values different than default are desired.</value>
   </row>
+  <row id="3C386BC12832466790E50F2F8C5EBD85" trl="N">
+    <value column="Name" isTrl="N" original="Create Variants">Create Variants</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Process that creates all the Variants Products of the Generic Product based on the combination of its Variant Characteristics' Values. Only values that are active in the Characteristic Configuration tab are considered.&#10;&#10;In case there is any characteristic configured with the Defines Price or Defines Image flag checked this process also sets the Price or an Image to the created Product Variants.&#10;&#10;If the Generic Product already has any Variant created the process returns an error message and no new Variant is created.">Process that creates all the Variants Products of the Generic Product based on the combination of its Variant Characteristics' Values. Only values that are active in the Characteristic Configuration tab are considered.
+
+In case there is any characteristic configured with the Defines Price or Defines Image flag checked this process also sets the Price or an Image to the created Product Variants.
+
+If the Generic Product already has any Variant created the process returns an error message and no new Variant is created.</value>
+  </row>
   <row id="3F2B4AAC707B4CE7B98D2005CF7310B5" trl="N">
     <value column="Name" isTrl="Y" original="Costing Background process">Фоновая обработка калькуляции</value>
     <value column="Description" isTrl="N" original=""/>
@@ -623,12 +632,17 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
   <row id="49DEE812BF0545269781FCEBF2235924" trl="N">
     <value column="Name" isTrl="N" original="Process Shipment Java">Process Shipment Java</value>
     <value column="Description" isTrl="N" original="Process Shipment (Update Inventory)">Process Shipment (Update Inventory)</value>
-    <value column="Help" isTrl="N" original="Process Shipment will move products out of inventory and mark line items as shipped.">Process Shipment will move products out of inventory and mark line items as shipped.</value>
+    <value column="Help" isTrl="N" original="This process will move products in/out of inventory and mark line items as received/shipped.">This process will move products in/out of inventory and mark line items as received/shipped.</value>
   </row>
   <row id="53863D4359114ADE92133F772135AEEB" trl="Y">
     <value column="Name" isTrl="Y" original="Set as Ready">Установить готовность</value>
     <value column="Description" isTrl="Y" original="Set an organization as ready">Установить готовность организации</value>
     <value column="Help" isTrl="Y" original="This procedure checks if the organization fulfills every requirement before setting it as ready.">Данная обработка проверяет заполнение всех необходимых полей перед тем, как сделать выбранную организацию доступной для работы в приложение.</value>
+  </row>
+  <row id="58591E3E0F7648E4A09058E037CE49FC" trl="N">
+    <value column="Name" isTrl="N" original="Update Product Characteristics Description">Update Product Characteristics Description</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="58763832F5F3485CAD33B8B9FCD6C640" trl="N">
     <value column="Name" isTrl="N" original="Update Audit Trail Infrastructure">Update Audit Trail Infrastructure</value>
@@ -640,6 +654,11 @@ This process:&lt;br/&gt;
   </row>
   <row id="5A2A0AF88AF54BB085DCC52FCC9B17B7" trl="N">
     <value column="Name" isTrl="N" original="Reservation Process">Reservation Process</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="5BD4D2B3313E4C708F0AE29095AF16AD" trl="N">
+    <value column="Name" isTrl="N" original="Process Group">Process Group</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1439,11 +1458,6 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Calculates and applies the promotions that can valid for the current document modifying final prices if any of them is applicable.">Calculates and applies the promotions that can valid for the current document modifying final prices if any of them is applicable.</value>
   </row>
-  <row id="A269DCA4DE114E438695B66E166999B4" trl="N">
-    <value column="Name" isTrl="Y" original="Validate Costing Rule">Проверить калькуляции</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="Y" original="Validate and initialize the Costing Rule. It automatically creates and process the Close and Opening Physical inventories to overwrite an existing Costing Rule. If the instance is using the legacy engine costs it is mandatory to run the Cost Migration Process in advance with System Administrator role.">Проверить и инициализировать выбранный метод калькуляции себестоимости запасов. Данный процесс автоматически создаёт и обрабатывает начальные и конечные остатки запасов, делая перерасчёт  калькуляции себестоимости по ним. Если происходит смена механизма калькуляции, то это требует предварительного запуска обработки Cost Migration с ролью System Administrator.</value>
-  </row>
   <row id="A34A85C161B342E0916642E86842086F" trl="N">
     <value column="Name" isTrl="Y" original="Export Reference Data">Экспорт набора данных</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1462,6 +1476,11 @@ Depending on the configuration of the Cost Center the process will also calculat
   <row id="ACD33F81B247441B8659BECF10D7A808" trl="N">
     <value column="Name" isTrl="N" original="Print payments process">Print payments process</value>
     <value column="Description" isTrl="N" original="Process to print payments or send them through email to the client">Process to print payments or send them through email to the client</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="BA574D8A4CF54AFF8B7BC2E6FACA161E" trl="N">
+    <value column="Name" isTrl="N" original="Price Correction Background">Price Correction Background</value>
+    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="BB35E1D5CE2648EB8C955DD022E994DA" trl="N">

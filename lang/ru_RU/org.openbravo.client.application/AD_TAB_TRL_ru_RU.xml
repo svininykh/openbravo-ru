@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_TAB" version="0.1">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_TAB" version="">
+  <row id="13FE911F7F684A47801DF55525BAD4A1" trl="N">
+    <value column="Name" isTrl="N" original="Grid Configuration at System Level">Grid Configuration at System Level</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Define the Grid Configuration at System Level">Define the Grid Configuration at System Level</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="In this tab the user can set some properties that will be used to define how the grid filtering should work at system level. The values set here will be used in all grids, unless its properties are overriden at tab or field level.">In this tab the user can set some properties that will be used to define how the grid filtering should work at system level. The values set here will be used in all grids, unless its properties are overriden at tab or field level.</value>
+  </row>
   <row id="25EB9212730C4E88B95C75BFCD6F5EBF" trl="N">
     <value column="Name" isTrl="N" original="Navigation Bar Component">Navigation Bar Component</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Navigation Bar Component">Navigation Bar Component</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="49B33DC2EDFD45A48EECE139AD5E9AC9" trl="N">
+    <value column="Name" isTrl="N" original="Tab">Tab</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Grid Configuration at Tab level">Grid Configuration at Tab level</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="In this tab the user can set some properties that will be used to define how the grid filtering should work in the selected tab. The values set here will be used in all its fields, unless its properties are overriden at field level. If a property is not set, its value will be taking from the system level.">In this tab the user can set some properties that will be used to define how the grid filtering should work in the selected tab. The values set here will be used in all its fields, unless its properties are overriden at field level. If a property is not set, its value will be taking from the system level.</value>
   </row>
   <row id="6D732D027FFA4FB1BD0140ED3B606C0E" trl="N">
     <value column="Name" isTrl="N" original="Process Definition">Process Definition</value>
@@ -27,6 +41,13 @@
     <value column="Description" isTrl="N" original="Defines the access to views by Role.">Defines the access to views by Role.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Defines the access to views by Role.">Defines the access to views by Role.</value>
+  </row>
+  <row id="D26230D6D21546C6970E79FF1C51165E" trl="N">
+    <value column="Name" isTrl="N" original="Field">Field</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Grid Configuration at Field Level">Grid Configuration at Field Level</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="In this tab the user can set some properties that will be used to define how the grid filtering should work in the selected field. If a property is not set, its value will be taking from the tab level. If it is not defined in the tab level, its value will be taken from the system level.">In this tab the user can set some properties that will be used to define how the grid filtering should work in the selected field. If a property is not set, its value will be taking from the tab level. If it is not defined in the tab level, its value will be taken from the system level.</value>
   </row>
   <row id="D275449FFACC4539A401336214FDBF94" trl="N">
     <value column="Name" isTrl="N" original="Menu Parameters">Menu Parameters</value>

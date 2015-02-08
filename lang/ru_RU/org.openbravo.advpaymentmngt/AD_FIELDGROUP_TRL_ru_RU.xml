@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_FIELDGROUP" version="">
+  <row id="0C672A3B7CDF416F9522DF3FA5AE4022" trl="N">
+    <value column="Name" isTrl="N" original="Order/Invoice">Order/Invoice</value>
+  </row>
+  <row id="4E230C937ED04074ACFFC255B4DB93EC" trl="N">
+    <value column="Name" isTrl="N" original="Details">Details</value>
+  </row>
+  <row id="612BAE7A8D3E4170936F79A760FCF94C" trl="N">
+    <value column="Name" isTrl="N" original="Amounts">Amounts</value>
+  </row>
+  <row id="7B6B5F5475634E35A85CF7023165E50B" trl="N">
+    <value column="Name" isTrl="N" original="GL Items">GL Items</value>
+  </row>
   <row id="8C3C34F7EFD04E11A3105EB74BC9999E" trl="N">
     <value column="Name" isTrl="Y" original="Payment Plan">График оплаты</value>
+  </row>
+  <row id="BB8B7EB290B94CA1A0D4F8F9983AE76D" trl="N">
+    <value column="Name" isTrl="N" original="Dimensions">Dimensions</value>
+  </row>
+  <row id="BFFF70E721654110AD5BACF3D4216D3A" trl="N">
+    <value column="Name" isTrl="N" original="Totals">Totals</value>
+  </row>
+  <row id="CB265F2D7ACF439F9FB5EFBFA0B50363" trl="N">
+    <value column="Name" isTrl="N" original="Credit To Use">Credit To Use</value>
   </row>
   <row id="ED0E74721EA74F36A471345649162E9A" trl="N">
     <value column="Name" isTrl="Y" original="Settings">Параметры</value>

@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="">
+  <row id="00019DBC917F47BB83C4509DEEC7CC66" trl="N">
+    <value column="Name" isTrl="N" original="UnReconciled Items Amount">UnReconciled Items Amount</value>
+    <value column="PrintName" isTrl="N" original="UnReconciled Items Amount">UnReconciled Items Amount</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="093017D15DE649259C329641ADC41321" trl="N">
     <value column="Name" isTrl="N" original="FIN_Finacc_Transaction_Acct_ID">FIN_Finacc_Transaction_Acct_ID</value>
     <value column="PrintName" isTrl="N" original="FIN_Finacc_Transaction_Acct_ID">FIN_Finacc_Transaction_Acct_ID</value>
@@ -23,6 +33,26 @@
   <row id="0CF797887AC9494F9C250A6B6EB5D60D" trl="N">
     <value column="Name" isTrl="N" original="Writeoff">Writeoff</value>
     <value column="PrintName" isTrl="N" original="Writeoff">Writeoff</value>
+    <value column="Description" isTrl="N" original="The Write Off Amount indicates the amount to be written off as uncollectible.">The Write Off Amount indicates the amount to be written off as uncollectible.</value>
+    <value column="Help" isTrl="N" original="The Write Off Amount indicates the amount to be written off as uncollectible.">The Write Off Amount indicates the amount to be written off as uncollectible.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="1C8028555014460F81C6ACC811CA74E2" trl="N">
+    <value column="Name" isTrl="N" original="EM_APRM_Process_Reconciliation_Force">EM_APRM_Process_Reconciliation_Force</value>
+    <value column="PrintName" isTrl="N" original="EM_APRM_Process_Reconciliation_Force">EM_APRM_Process_Reconciliation_Force</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="1D4D93F0B7034CF5A7C2C9E3F0B04293" trl="N">
+    <value column="Name" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="PrintName" isTrl="N" original="Payment Method">Payment Method</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -40,11 +70,91 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="2C70D5BAFED340D68C564DA5C3F15A7E" trl="N">
+    <value column="Name" isTrl="N" original="Paid Out">Paid Out</value>
+    <value column="PrintName" isTrl="N" original="Paid Out">Paid Out</value>
+    <value column="Description" isTrl="N" original="Paid out amount">Paid out amount</value>
+    <value column="Help" isTrl="N" original="Paid out amount">Paid out amount</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="2CFD3BE7B8D0441BBF151920E5BC384F" trl="N">
+    <value column="Name" isTrl="N" original="Deposit To Read Only Logic">Deposit To Read Only Logic</value>
+    <value column="PrintName" isTrl="N" original="Deposit To Read Only Logic">Deposit To Read Only Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Read Only Logic on Financial Account">Parameter used to implement Read Only Logic on Financial Account</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Read Only Logic on Financial Account">Parameter used to implement Read Only Logic on Financial Account</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="2D1363BA8FFD443D89B0F2C92FD2BBC4" trl="N">
+    <value column="Name" isTrl="N" original="Currency To">Currency To</value>
+    <value column="PrintName" isTrl="N" original="Currency To">Currency To</value>
+    <value column="Description" isTrl="N" original="Target currency">Target currency</value>
+    <value column="Help" isTrl="N" original="The Currency To defines the target currency for this conversion rate.">The Currency To defines the target currency for this conversion rate.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="349748D8346C46B1A4A652BC15F98EBB" trl="N">
+    <value column="Name" isTrl="N" original="Actual Payment Read Only Logic">Actual Payment Read Only Logic</value>
+    <value column="PrintName" isTrl="N" original="Actual Payment Read Only Logic">Actual Payment Read Only Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Read Only Logic on Actual Payment">Parameter used to implement Read Only Logic on Actual Payment</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Read Only Logic on Actual Payment">Parameter used to implement Read Only Logic on Actual Payment</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="36C60E53F1274EDA827ED5146A2B13D1" trl="N">
     <value column="Name" isTrl="N" original="Process Proposal">Process Proposal</value>
     <value column="PrintName" isTrl="N" original="Process Proposal">Process Proposal</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="399FFABE15CF42CEB8629148E07D5403" trl="N">
+    <value column="Name" isTrl="N" original="Amount on Invoices and/or Orders">Amount on Invoices and/or Orders</value>
+    <value column="PrintName" isTrl="N" original="Amount on Invoices and/or Orders">Amount on Invoices and/or Orders</value>
+    <value column="Description" isTrl="N" original="Amount on Invoices and/or Orders">Amount on Invoices and/or Orders</value>
+    <value column="Help" isTrl="N" original="Amount on Invoices and/or Orders">Amount on Invoices and/or Orders</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="3D4B985F137B47DCA7723991D1668C46" trl="N">
+    <value column="Name" isTrl="N" original="aprm_gl_item_id">aprm_gl_item_id</value>
+    <value column="PrintName" isTrl="N" original="aprm_gl_item_id">aprm_gl_item_id</value>
+    <value column="Description" isTrl="N" original="General ledger item.">General ledger item.</value>
+    <value column="Help" isTrl="N" original="General ledger item.">General ledger item.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="429B447E4FE9420287E1EEB75DC341E9" trl="N">
+    <value column="Name" isTrl="N" original="Action Regarding Document">Action Regarding Document</value>
+    <value column="PrintName" isTrl="N" original="Action Regarding Document">Action Regarding Document</value>
+    <value column="Description" isTrl="N" original="A drop down list box indicating the actions regarding document">A drop down list box indicating the actions regarding document</value>
+    <value column="Help" isTrl="N" original="A drop down list box indicating the actions regarding document">A drop down list box indicating the actions regarding document</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="458D63E9F9D541F7A06B341305ACCB66" trl="N">
+    <value column="Name" isTrl="N" original="Payment Method Read Only Logic">Payment Method Read Only Logic</value>
+    <value column="PrintName" isTrl="N" original="Payment Method Read Only Logic">Payment Method Read Only Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Read Only Logic on Payment Method">Parameter used to implement Read Only Logic on Payment Method</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Read Only Logic on Payment Method">Parameter used to implement Read Only Logic on Payment Method</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -60,9 +170,19 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="4AC57284C5C745EB9087C105222EDF02" trl="N">
-    <value column="Name" isTrl="N" original="APRM_Rec_Detail_V_ID">APRM_Rec_Detail_V_ID</value>
-    <value column="PrintName" isTrl="N" original="APRM_Rec_Detail_V_ID">APRM_Rec_Detail_V_ID</value>
+  <row id="4BFB1532D2684F2B9997BF3B5555BFCB" trl="N">
+    <value column="Name" isTrl="N" original="Generate Credit">Generate Credit</value>
+    <value column="PrintName" isTrl="N" original="Generate Credit">Generate Credit</value>
+    <value column="Description" isTrl="N" original="Amount left as credit on the payment.">Amount left as credit on the payment.</value>
+    <value column="Help" isTrl="N" original="Amount left as credit on the payment.">Amount left as credit on the payment.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="51261A2D20064858BC608E7468B148D4" trl="N">
+    <value column="Name" isTrl="N" original="Find Transactions to Match P&amp;E">Find Transactions to Match P&amp;E</value>
+    <value column="PrintName" isTrl="N" original="Find Transactions to Match P&amp;E">Find Transactions to Match P&amp;E</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -80,9 +200,59 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="51F0875CB4114D90A239FBCA54B5C1AB" trl="N">
+    <value column="Name" isTrl="N" original="Overpayment Action Display Logic">Overpayment Action Display Logic</value>
+    <value column="PrintName" isTrl="N" original="Overpayment Action Display Logic">Overpayment Action Display Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Display Logic on Overpayment Action">Parameter used to implement Display Logic on Overpayment Action</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Display Logic on Overpayment Action">Parameter used to implement Display Logic on Overpayment Action</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="52F85707307D4FC5923B7CA29B8D8A87" trl="N">
+    <value column="Name" isTrl="N" original="Currency Read Only Logic">Currency Read Only Logic</value>
+    <value column="PrintName" isTrl="N" original="Currency Read Only Logic">Currency Read Only Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Read Only Logic on Currency param">Parameter used to implement Read Only Logic on Currency param</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Read Only Logic on Currency param">Parameter used to implement Read Only Logic on Currency param</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="533E204A46FD4BB9AED3D9FC26EEC67C" trl="N">
+    <value column="Name" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="PrintName" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="Description" isTrl="N" original="It is the method by which payment is expected to be made or received.">It is the method by which payment is expected to be made or received.</value>
+    <value column="Help" isTrl="N" original="It is the method by which payment is expected to be made or received.">It is the method by which payment is expected to be made or received.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="53E8AA0450E74BEEA3FBD74CC5330C72" trl="N">
+    <value column="Name" isTrl="N" original="EM_Aprm_Findtransactionspd">EM_Aprm_Findtransactionspd</value>
+    <value column="PrintName" isTrl="N" original="EM_Aprm_Findtransactionspd">EM_Aprm_Findtransactionspd</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="56CC0941477A4250AD07527AE15FAC61" trl="N">
     <value column="Name" isTrl="N" original="Payment">Payment</value>
     <value column="PrintName" isTrl="N" original="Payment">Payment</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="57E963DD34864B21A857F24BFF628BDD" trl="N">
+    <value column="Name" isTrl="N" original="Bank Statement Line Amount Display Logic">Bank Statement Line Amount Display Logic</value>
+    <value column="PrintName" isTrl="N" original="Bank Statement Line Amount Display Logic">Bank Statement Line Amount Display Logic</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -100,6 +270,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="59E68501CA9547798EAE2CEAE774D64B" trl="N">
+    <value column="Name" isTrl="N" original="Bank Statement Line Amount">Bank Statement Line Amount</value>
+    <value column="PrintName" isTrl="N" original="Bank Statement Line Amount">Bank Statement Line Amount</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="5D3526B2FC0F4BB2BE7FE13C5E9C009A" trl="N">
     <value column="Name" isTrl="N" original="Difference">Difference</value>
     <value column="PrintName" isTrl="N" original="Difference">Difference</value>
@@ -110,9 +290,29 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="5FD519D1480447A092C2C08E6B462B8E" trl="N">
+    <value column="Name" isTrl="N" original="Customer Credit">Customer Credit</value>
+    <value column="PrintName" isTrl="N" original="Customer Credit">Customer Credit</value>
+    <value column="Description" isTrl="N" original="Customer Credit">Customer Credit</value>
+    <value column="Help" isTrl="N" original="Customer Credit">Customer Credit</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="6037A140C2664B6991BFD4EC7561A662" trl="N">
     <value column="Name" isTrl="N" original="Aprm_Finacc_Trx_Full_Acct_V_ID">Aprm_Finacc_Trx_Full_Acct_V_ID</value>
     <value column="PrintName" isTrl="N" original="Aprm_Finacc_Trx_Full_Acct_V_ID">Aprm_Finacc_Trx_Full_Acct_V_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="646F81BD290C4A168217769FCE9E1E59" trl="N">
+    <value column="Name" isTrl="N" original="paymentScheduleDetail">paymentScheduleDetail</value>
+    <value column="PrintName" isTrl="N" original="paymentScheduleDetail">paymentScheduleDetail</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -130,9 +330,19 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="720C4FC08FBD43419FF7EACABECA6AE3" trl="N">
-    <value column="Name" isTrl="N" original="reconciliationId">reconciliationId</value>
-    <value column="PrintName" isTrl="N" original="reconciliationId">reconciliationId</value>
+  <row id="6548FAC738E2475F866F132AF5CF5532" trl="N">
+    <value column="Name" isTrl="N" original="Received From Read Only Logic">Received From Read Only Logic</value>
+    <value column="PrintName" isTrl="N" original="Received From Read Only Logic">Received From Read Only Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Read Only Logic on Business Partner">Parameter used to implement Read Only Logic on Business Partner</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Read Only Logic on Business Partner">Parameter used to implement Read Only Logic on Business Partner</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="692B61D596B34DD9BB68EAEDBA067BCD" trl="N">
+    <value column="Name" isTrl="N" original="Transaction GL Item">Transaction GL Item</value>
+    <value column="PrintName" isTrl="N" original="Transaction GL Item">Transaction GL Item</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -140,11 +350,51 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
-  <row id="77E12B7AAB9F45BF9D3263E5967A696A" trl="N">
-    <value column="Name" isTrl="N" original="language">language</value>
-    <value column="PrintName" isTrl="N" original="language">language</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
+  <row id="6BC644F4DC3248E2998DE88C055826B2" trl="N">
+    <value column="Name" isTrl="N" original="Order/Invoice">Order/Invoice</value>
+    <value column="PrintName" isTrl="N" original="Order/Invoice">Order/Invoice</value>
+    <value column="Description" isTrl="N" original="Orders and Invoices to be paid">Orders and Invoices to be paid</value>
+    <value column="Help" isTrl="N" original="Orders and Invoices to be paid">Orders and Invoices to be paid</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="6C4509E308444DE0B928E1C25A80CD74" trl="N">
+    <value column="Name" isTrl="N" original="Payment Date Read Only Logic">Payment Date Read Only Logic</value>
+    <value column="PrintName" isTrl="N" original="Payment Date Read Only Logic">Payment Date Read Only Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Read Only Logic on Payment Date">Parameter used to implement Read Only Logic on Payment Date</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Read Only Logic on Payment Date">Parameter used to implement Read Only Logic on Payment Date</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="6D7CB8FA9C4644E8B0AFDA576D134B6A" trl="N">
+    <value column="Name" isTrl="N" original="Reference No.">Reference No.</value>
+    <value column="PrintName" isTrl="N" original="Reference No.">Reference No.</value>
+    <value column="Description" isTrl="N" original="The number for a specific reference.">The number for a specific reference.</value>
+    <value column="Help" isTrl="N" original="The reference number can be printed on orders and invoices to allow your business partner to faster identify your records.">The reference number can be printed on orders and invoices to allow your business partner to faster identify your records.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="6FE34C5D44364DA7B73F2925C1C4467B" trl="N">
+    <value column="Name" isTrl="N" original="Conversion Rate Read Only Logic">Conversion Rate Read Only Logic</value>
+    <value column="PrintName" isTrl="N" original="Conversion Rate Read Only Logic">Conversion Rate Read Only Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Read Only Logic on Conversion Rate">Parameter used to implement Read Only Logic on Conversion Rate</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Read Only Logic on Conversion Rate">Parameter used to implement Read Only Logic on Conversion Rate</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="75E1BCB8DBF444199A4A03CDC44E8A25" trl="N">
+    <value column="Name" isTrl="N" original="Process">Process</value>
+    <value column="PrintName" isTrl="N" original="Process">Process</value>
+    <value column="Description" isTrl="N" original="Process Button">Process Button</value>
+    <value column="Help" isTrl="N" original="Process Button">Process Button</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -159,6 +409,26 @@
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="Y" original="Add Payment">Добавить платёж</value>
     <value column="PO_PrintName" isTrl="Y" original="Add Payment">Добавить платёж</value>
+  </row>
+  <row id="79059C2FF6094FAC861232AA19459C34" trl="N">
+    <value column="Name" isTrl="N" original="Invoiced Amount">Invoiced Amount</value>
+    <value column="PrintName" isTrl="N" original="Invoiced Amount">Invoiced Amount</value>
+    <value column="Description" isTrl="N" original="The monetary sum that is invoiced for a specified item or service.">The monetary sum that is invoiced for a specified item or service.</value>
+    <value column="Help" isTrl="N" original="The monetary sum that is invoiced for a specified item or service.">The monetary sum that is invoiced for a specified item or service.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="7A5A03CD5B1549ACA59B7CC37CB1A179" trl="N">
+    <value column="Name" isTrl="N" original="Received In">Received In</value>
+    <value column="PrintName" isTrl="N" original="Received In">Received In</value>
+    <value column="Description" isTrl="N" original="Received in amount">Received in amount</value>
+    <value column="Help" isTrl="N" original="Received in amount">Received in amount</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7DC34559B412B45BE040007F0100784A" trl="N">
     <value column="Name" isTrl="Y" original="Process Payment">Обработка платежа</value>
@@ -181,8 +451,48 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7FCAAFE989BEA375E040007F01007F0A" trl="N">
-    <value column="Name" isTrl="N" original="EM_Aprm_Add_Scheduledpayments">EM_Aprm_Add_Scheduledpayments</value>
-    <value column="PrintName" isTrl="N" original="EM_Aprm_Add_Scheduledpayments">EM_Aprm_Add_Scheduledpayments</value>
+    <value column="Name" isTrl="N" original="Add Details">Add Details</value>
+    <value column="PrintName" isTrl="N" original="Add Details">Add Details</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Select pending payments from Orders or Invoices, or create Payment Details related to GL Items.">Select pending payments from Orders or Invoices, or create Payment Details related to GL Items.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="80132B0B521B4512AFC6CFA33BECF9CF" trl="N">
+    <value column="Name" isTrl="N" original="Reconciled Items Amount">Reconciled Items Amount</value>
+    <value column="PrintName" isTrl="N" original="Reconciled Items Amount">Reconciled Items Amount</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="80FC8B411CC1476693BBC697E5AA0913" trl="N">
+    <value column="Name" isTrl="N" original="Converted Amount">Converted Amount</value>
+    <value column="PrintName" isTrl="N" original="Converted Amount">Converted Amount</value>
+    <value column="Description" isTrl="N" original="The monetary sum at which one unit of measure is changed to another.">The monetary sum at which one unit of measure is changed to another.</value>
+    <value column="Help" isTrl="N" original="The Converted Amount is the result of multiplying the Source Amount by the Conversion Rate for this target currency.">The Converted Amount is the result of multiplying the Source Amount by the Conversion Rate for this target currency.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="81E4345FE2154B34848477D34F5355EA" trl="N">
+    <value column="Name" isTrl="N" original="Credit To Use">Credit To Use</value>
+    <value column="PrintName" isTrl="N" original="Credit To Use">Credit To Use</value>
+    <value column="Description" isTrl="N" original="Credit to use in the current payment">Credit to use in the current payment</value>
+    <value column="Help" isTrl="N" original="Credit to use in the current payment">Credit to use in the current payment</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="829F6BFDD7254498B88C1BEFD397BFE3" trl="N">
+    <value column="Name" isTrl="N" original="Affinity">Affinity</value>
+    <value column="PrintName" isTrl="N" original="Affinity">Affinity</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -310,6 +620,36 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="88A3E3DE54C94427A1F5F7EA72EA46F4" trl="N">
+    <value column="Name" isTrl="N" original="Outstanding Payments Item No">Outstanding Payments Item No</value>
+    <value column="PrintName" isTrl="N" original="Outstanding Payments Item No">Outstanding Payments Item No</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="88E9727DAC364BA38FFE37BC8B9BF698" trl="N">
+    <value column="Name" isTrl="N" original="Match Statement">Match Statement</value>
+    <value column="PrintName" isTrl="N" original="Match Statement">Match Statement</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="8B17B525CBB345518E99800D610EB93E" trl="N">
+    <value column="Name" isTrl="N" original="Document">Document</value>
+    <value column="PrintName" isTrl="N" original="Document">Document</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original="Document">Document</value>
+    <value column="PO_PrintName" isTrl="N" original="Document">Document</value>
+  </row>
   <row id="8B4372E6182C902CE040007F01000EB9" trl="N">
     <value column="Name" isTrl="N" original="EM_APRM_Processinvoice">EM_APRM_Processinvoice</value>
     <value column="PrintName" isTrl="N" original="EM_APRM_Processinvoice">EM_APRM_Processinvoice</value>
@@ -330,6 +670,26 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="8F1BEEEE0B0847E59FD95EFE6658DF86" trl="N">
+    <value column="Name" isTrl="N" original="UnReconciled Item No">UnReconciled Item No</value>
+    <value column="PrintName" isTrl="N" original="UnReconciled Item No">UnReconciled Item No</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="904EC23F6DE3450F91EAD0C30862220D" trl="N">
+    <value column="Name" isTrl="N" original="Expected Amount">Expected Amount</value>
+    <value column="PrintName" isTrl="N" original="Expected Amount">Expected Amount</value>
+    <value column="Description" isTrl="N" original="Expected Amount">Expected Amount</value>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="91DD92021CFA438DBBF2ABAFCB2089C5" trl="N">
     <value column="Name" isTrl="N" original="Modify">Modify</value>
     <value column="PrintName" isTrl="N" original="Modify">Modify</value>
@@ -340,19 +700,49 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="953F1D3D4A2C4A219B99A683A16602D2" trl="N">
+    <value column="Name" isTrl="N" original="Payment Date">Payment Date</value>
+    <value column="PrintName" isTrl="N" original="Payment Date">Payment Date</value>
+    <value column="Description" isTrl="N" original="Date of the payment event. It is used in the posting record of the Payment to the general ledger. Defaulted to the Invoice Date field.">Date of the payment event. It is used in the posting record of the Payment to the general ledger. Defaulted to the Invoice Date field.</value>
+    <value column="Help" isTrl="N" original="Date of the payment event. It is used in the posting record of the Payment to the general ledger. Defaulted to the Invoice Date field.">Date of the payment event. It is used in the posting record of the Payment to the general ledger. Defaulted to the Invoice Date field.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="9FB9DF74E34449FCAC3702CD42CC8960" trl="N">
+    <value column="Name" isTrl="N" original="Bank Statement Type">Bank Statement Type</value>
+    <value column="PrintName" isTrl="N" original="Type">Type</value>
+    <value column="Description" isTrl="N" original="Type of bank statement line.">Type of bank statement line.</value>
+    <value column="Help" isTrl="N" original="Indicates whether it is a deposit or a payment.">Indicates whether it is a deposit or a payment.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="9FCD84F198D249BFA8EF60B56A6F6A6C" trl="N">
+    <value column="Name" isTrl="N" original="Payment Amount">Payment Amount</value>
+    <value column="PrintName" isTrl="N" original="Payment Amount">Payment Amount</value>
+    <value column="Description" isTrl="N" original="Payment Amount">Payment Amount</value>
+    <value column="Help" isTrl="N" original="Payment Amount">Payment Amount</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="A0417A0E924ACA28E040007F01003C18" trl="N">
     <value column="Name" isTrl="Y" original="Delete">Удалить</value>
     <value column="PrintName" isTrl="Y" original="Delete">Удалить</value>
-    <value column="Description" isTrl="N" original="Delete button">Delete button</value>
-    <value column="Help" isTrl="N" original="Delete button">Delete button</value>
+    <value column="Description" isTrl="N" original="Delete button (Deprecated)">Delete button (Deprecated)</value>
+    <value column="Help" isTrl="N" original="Delete button (Deprecated)">Delete button (Deprecated)</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="A0417A0E924BCA28E040007F01003C18" trl="N">
-    <value column="Name" isTrl="N" original="EM_APRM_MatchTransactions">EM_APRM_MatchTransactions</value>
-    <value column="PrintName" isTrl="N" original="EM_APRM_MatchTransactions">EM_APRM_MatchTransactions</value>
+    <value column="Name" isTrl="N" original="Match Statement">Match Statement</value>
+    <value column="PrintName" isTrl="N" original="Match Statement">Match Statement</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -363,8 +753,8 @@
   <row id="A0417A0E924CCA28E040007F01003C18" trl="N">
     <value column="Name" isTrl="N" original="EM_APRM_AddTransactions">EM_APRM_AddTransactions</value>
     <value column="PrintName" isTrl="N" original="EM_APRM_AddTransactions">EM_APRM_AddTransactions</value>
-    <value column="Description" isTrl="N" original="Add Transaction From Financial Account">Add Transaction From Financial Account</value>
-    <value column="Help" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Add Transaction From Financial Account (Deprecated)">Add Transaction From Financial Account (Deprecated)</value>
+    <value column="Help" isTrl="N" original="Add Transaction From Financial Account (Deprecated)">Add Transaction From Financial Account (Deprecated)</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -460,6 +850,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="A62C80360F274C44AA6BF58315DF65FF" trl="N">
+    <value column="Name" isTrl="N" original="Converted Amount Read Only Logic">Converted Amount Read Only Logic</value>
+    <value column="PrintName" isTrl="N" original="Converted Amount Read Only Logic">Converted Amount Read Only Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Read Only Logic on Converted Amount">Parameter used to implement Read Only Logic on Converted Amount</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Read Only Logic on Converted Amount">Parameter used to implement Read Only Logic on Converted Amount</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="AEA679FCC17546268C951135AB611F57" trl="N">
     <value column="Name" isTrl="N" original="Aprm_Payment_Prop_Pick_Edit_ID">Aprm_Payment_Prop_Pick_Edit_ID</value>
     <value column="PrintName" isTrl="N" original="Aprm_Payment_Prop_Pick_Edit_ID">Aprm_Payment_Prop_Pick_Edit_ID</value>
@@ -480,11 +880,31 @@
     <value column="PO_Name" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
     <value column="PO_PrintName" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
   </row>
+  <row id="AFB7ECFF160B41F38E917F16DFFC9A3B" trl="N">
+    <value column="Name" isTrl="N" original="Add transaction process definition">Add transaction process definition</value>
+    <value column="PrintName" isTrl="N" original="Add transaction process definition">Add transaction process definition</value>
+    <value column="Description" isTrl="N" original="Add transaction process definition">Add transaction process definition</value>
+    <value column="Help" isTrl="N" original="Add transaction process definition">Add transaction process definition</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="B0FA9EF3D10E46FF9D402AB44056363B" trl="N">
     <value column="Name" isTrl="N" original="Print Summary">Print Summary</value>
     <value column="PrintName" isTrl="N" original="Print Summary">Print Summary</value>
     <value column="Description" isTrl="N" original="Print Summary reconciliation report">Print Summary reconciliation report</value>
     <value column="Help" isTrl="N" original="Print Summary reconciliation report">Print Summary reconciliation report</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="B2836EAE81BC4FEEAD5DA597F575F033" trl="N">
+    <value column="Name" isTrl="N" original="Outstanding Deposits Item No">Outstanding Deposits Item No</value>
+    <value column="PrintName" isTrl="N" original="Outstanding Deposits Item No">Outstanding Deposits Item No</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -500,11 +920,51 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="BB0EF19322AC4CFF9777A049BEC77887" trl="N">
+    <value column="Name" isTrl="N" original="Matched Document">Matched Document</value>
+    <value column="PrintName" isTrl="N" original="Matched Document">Matched Document</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="C09E18A3FCFEC058E040007F010024F4" trl="N">
     <value column="Name" isTrl="N" original="Reverse Payment">Reverse Payment</value>
     <value column="PrintName" isTrl="N" original="Reverse Payment">Reverse Payment</value>
     <value column="Description" isTrl="N" original="Create an opposite payment which reverts selected.">Create an opposite payment which reverts selected.</value>
     <value column="Help" isTrl="N" original="Create an opposite payment which reverts selected.">Create an opposite payment which reverts selected.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="C128589B1E884C15B1062BC6A698A41E" trl="N">
+    <value column="Name" isTrl="N" original="Payment DocumentNo Read Only Logic">Payment DocumentNo Read Only Logic</value>
+    <value column="PrintName" isTrl="N" original="Payment DocumentNo Read Only Logic">Payment DocumentNo Read Only Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Read Only Logic on Payment DocumentNo">Parameter used to implement Read Only Logic on Payment DocumentNo</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Read Only Logic on Payment DocumentNo">Parameter used to implement Read Only Logic on Payment DocumentNo</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="C1DA4E5EEEDE4FE5B2E9411AA411BF67" trl="N">
+    <value column="Name" isTrl="N" original="Received From">Received From</value>
+    <value column="PrintName" isTrl="N" original="Received From">Received From</value>
+    <value column="Description" isTrl="N" original="Is the Payee of the invoice. Defaulted to the Business Partner from the Invoice">Is the Payee of the invoice. Defaulted to the Business Partner from the Invoice</value>
+    <value column="Help" isTrl="N" original="Is the Payee of the invoice. Defaulted to the Business Partner from the Invoice">Is the Payee of the invoice. Defaulted to the Business Partner from the Invoice</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original="To Be Paid To">To Be Paid To</value>
+    <value column="PO_PrintName" isTrl="N" original="To Be Paid To">To Be Paid To</value>
+  </row>
+  <row id="C581AB086E0141EEAA2EEAA8605BD8F0" trl="N">
+    <value column="Name" isTrl="N" original="id">id</value>
+    <value column="PrintName" isTrl="N" original="id">id</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -530,6 +990,26 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="C923C2DF529C426AABDFB31E1CFF2760" trl="N">
+    <value column="Name" isTrl="N" original="Actual Payment">Actual Payment</value>
+    <value column="PrintName" isTrl="N" original="Actual Payment">Actual Payment</value>
+    <value column="Description" isTrl="N" original="Is the amount paid">Is the amount paid</value>
+    <value column="Help" isTrl="N" original="Is the amount paid">Is the amount paid</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="CCB29A49EE4048A2BF99EBF2FC0C0241" trl="N">
+    <value column="Name" isTrl="N" original="Overpayment Action">Overpayment Action</value>
+    <value column="PrintName" isTrl="N" original="Overpayment Action">Overpayment Action</value>
+    <value column="Description" isTrl="N" original="A drop down list box indicating overpayment actions">A drop down list box indicating overpayment actions</value>
+    <value column="Help" isTrl="N" original="A drop down list box indicating overpayment actions">A drop down list box indicating overpayment actions</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="D2AC3F75FCDC4BC187A1F492C46D68D1" trl="N">
     <value column="Name" isTrl="N" original="Purchase Invoice's Reference for Payment Description">Purchase Invoice's Reference for Payment Description</value>
     <value column="PrintName" isTrl="N" original="Purchase Invoice's Reference for Payment Description">Purchase Invoice's Reference for Payment Description</value>
@@ -537,6 +1017,56 @@
     <value column="Help" isTrl="N" original="Purchase Invoice's reference to be automatically included into the payment description. Possible values are:&#10;- Invoice document number (default).&#10;- Supplier reference, which is defined in the invoice's header.">Purchase Invoice's reference to be automatically included into the payment description. Possible values are:
 - Invoice document number (default).
 - Supplier reference, which is defined in the invoice's header.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="D42C1F18622F4773989190BB8C2C8436" trl="N">
+    <value column="Name" isTrl="N" original="EM_APRM_Process Bank Statement Force">EM_APRM_Process Bank Statement Force</value>
+    <value column="PrintName" isTrl="N" original="EM_APRM_Process Bank Statement Force">EM_APRM_Process Bank Statement Force</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="D51BEAD64B9C4D5FBC097873933ACEB3" trl="N">
+    <value column="Name" isTrl="N" original="Outstanding Payment Items Amount">Outstanding Payment Items Amount</value>
+    <value column="PrintName" isTrl="N" original="Outstanding Payment Items Amount">Outstanding Payment Items Amount</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="D85187ABF8434C39A9A11EE8EFCF3DDE" trl="N">
+    <value column="Name" isTrl="N" original="Outstanding Deposit Items Amount">Outstanding Deposit Items Amount</value>
+    <value column="PrintName" isTrl="N" original="Outstanding Deposit Items Amount">Outstanding Deposit Items Amount</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="D9E7B70083344E86AF5A6272B2090755" trl="N">
+    <value column="Name" isTrl="N" original="Credit to Use Display Logic">Credit to Use Display Logic</value>
+    <value column="PrintName" isTrl="N" original="Credit to Use Display Logic">Credit to Use Display Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Display Logic on Credit to Use grid">Parameter used to implement Display Logic on Credit to Use grid</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Display Logic on Credit to Use grid">Parameter used to implement Display Logic on Credit to Use grid</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="DABC92A3E32E4DBFB78068CF6A4FBAC7" trl="N">
+    <value column="Name" isTrl="N" original="GL Item">GL Item</value>
+    <value column="PrintName" isTrl="N" original="GL Item">GL Item</value>
+    <value column="Description" isTrl="N" original="G/L Items  added as part of a given payment">G/L Items  added as part of a given payment</value>
+    <value column="Help" isTrl="N" original="G/L Items  added as part of a given payment">G/L Items  added as part of a given payment</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -552,11 +1082,61 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="DD07FB0992434B66BBFB08EA274E720A" trl="N">
+    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="PrintName" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="Description" isTrl="N" original="Business Partner Name">Business Partner Name</value>
+    <value column="Help" isTrl="N" original="Business Partner Name">Business Partner Name</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="DE92C5C14E9647D5B4E71F0C8E89E984" trl="N">
     <value column="Name" isTrl="N" original="Match Transaction Date">Match Transaction Date</value>
     <value column="PrintName" isTrl="N" original="Match Transaction Date">Match Transaction Date</value>
     <value column="Description" isTrl="N" original="Algorithm tries to match transaction date">Algorithm tries to match transaction date</value>
     <value column="Help" isTrl="N" original="The algorithm will try to match using transaction date.">The algorithm will try to match using transaction date.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="DF96F3B1C94743F9BEFA1555FBD2BB23" trl="N">
+    <value column="Name" isTrl="N" original="Conversion Rate">Conversion Rate</value>
+    <value column="PrintName" isTrl="N" original="Conversion Rate">Conversion Rate</value>
+    <value column="Description" isTrl="N" original="The amount or quantity at which one unit of measure is changed to another.">The amount or quantity at which one unit of measure is changed to another.</value>
+    <value column="Help" isTrl="N" original="The Conversion Rate defines the rate (multiply or divide) to use when converting a source currency to an accounting currency.">The Conversion Rate defines the rate (multiply or divide) to use when converting a source currency to an accounting currency.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="E33F3B5BAC75488DAAAC10471326EFFA" trl="N">
+    <value column="Name" isTrl="N" original="Deposit To">Deposit To</value>
+    <value column="PrintName" isTrl="N" original="Deposit To">Deposit To</value>
+    <value column="Description" isTrl="N" original="Financial Account to which the amount is going to be deposited.">Financial Account to which the amount is going to be deposited.</value>
+    <value column="Help" isTrl="N" original="Financial Account to which the amount is going to be deposited.">Financial Account to which the amount is going to be deposited.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original="Take From">Take From</value>
+    <value column="PO_PrintName" isTrl="N" original="Take From">Take From</value>
+  </row>
+  <row id="E9AA03CAEC954FF8B268C2C164BA6CBF" trl="N">
+    <value column="Name" isTrl="N" original="Organization Display Logic">Organization Display Logic</value>
+    <value column="PrintName" isTrl="N" original="Organization Display Logic">Organization Display Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Display Logic on Organization">Parameter used to implement Display Logic on Organization</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Display Logic on Organization">Parameter used to implement Display Logic on Organization</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="EB44117C86AE448D87B86063155C2066" trl="N">
+    <value column="Name" isTrl="N" original="Match">Match</value>
+    <value column="PrintName" isTrl="N" original="Match">Match</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -572,11 +1152,101 @@
     <value column="PO_Name" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
     <value column="PO_PrintName" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
   </row>
+  <row id="F109FCAF8CC1462AB2A94F73F4E51EA7" trl="N">
+    <value column="Name" isTrl="N" original="Reconciled Item No.">Reconciled Item No.</value>
+    <value column="PrintName" isTrl="N" original="Reconciled Item No.">Reconciled Item No.</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F1D81ADE47094291B577E6B10B2B95E4" trl="N">
+    <value column="Name" isTrl="N" original="There is a difference of">There is a difference of</value>
+    <value column="PrintName" isTrl="N" original="There is a difference of">There is a difference of</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F3ABC3F6561D43CF8C08E69212487ECE" trl="N">
+    <value column="Name" isTrl="N" original="Order No.">Order No.</value>
+    <value column="PrintName" isTrl="N" original="Order No.">Order No.</value>
+    <value column="Description" isTrl="N" original="Order Number">Order Number</value>
+    <value column="Help" isTrl="N" original="Order Number">Order Number</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F5888F54E21C4D59ABF5FBFE6474B229" trl="N">
+    <value column="Name" isTrl="N" original="Document Display Logic">Document Display Logic</value>
+    <value column="PrintName" isTrl="N" original="Document Display Logic">Document Display Logic</value>
+    <value column="Description" isTrl="N" original="Parameter used to implement Display Logic on Document">Parameter used to implement Display Logic on Document</value>
+    <value column="Help" isTrl="N" original="Parameter used to implement Display Logic on Document">Parameter used to implement Display Logic on Document</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F5D2D2099B7D4949838CA0D405D55BB2" trl="N">
+    <value column="Name" isTrl="N" original="Amount on GL Items">Amount on GL Items</value>
+    <value column="PrintName" isTrl="N" original="Amount on GL Items">Amount on GL Items</value>
+    <value column="Description" isTrl="N" original="Amount on GL Items">Amount on GL Items</value>
+    <value column="Help" isTrl="N" original="Amount on GL Items">Amount on GL Items</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F726F34EDB774C969FE577766A811E76" trl="N">
+    <value column="Name" isTrl="N" original="Payment Document No.">Payment Document No.</value>
+    <value column="PrintName" isTrl="N" original="Payment Document No.">Payment Document No.</value>
+    <value column="Description" isTrl="N" original="Document number of the payment ">Document number of the payment </value>
+    <value column="Help" isTrl="N" original="Document number of the payment">Document number of the payment</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F79620AE1CC041308045C23E661BD907" trl="N">
+    <value column="Name" isTrl="N" original="Match Transactions Force">Match Transactions Force</value>
+    <value column="PrintName" isTrl="N" original="Match Transactions Force">Match Transactions Force</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F8CF71B37C84442EB5526AF3998BEBBF" trl="N">
+    <value column="Name" isTrl="N" original="Expected Payment">Expected Payment</value>
+    <value column="PrintName" isTrl="N" original="Expected Payment">Expected Payment</value>
+    <value column="Description" isTrl="N" original="Expected Payment">Expected Payment</value>
+    <value column="Help" isTrl="N" original="Expected Payment">Expected Payment</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="FC780C136EFA4D98B2435A9448FA44AD" trl="N">
     <value column="Name" isTrl="N" original="Process_Reconciliation">Process_Reconciliation</value>
     <value column="PrintName" isTrl="N" original="Process Reconciliation">Process Reconciliation</value>
     <value column="Description" isTrl="N" original="Process Reconciliation Document">Process Reconciliation Document</value>
     <value column="Help" isTrl="N" original="Used to process and reactivate reconciliation documents">Used to process and reactivate reconciliation documents</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="FC965F5F8EC74CDD87BFDC9B101A9D2D" trl="N">
+    <value column="Name" isTrl="N" original="Transaction Type">Transaction Type</value>
+    <value column="PrintName" isTrl="N" original="Transaction Type">Transaction Type</value>
+    <value column="Description" isTrl="N" original="Type of transaction">Type of transaction</value>
+    <value column="Help" isTrl="N" original="The Transaction Type indicates the type of transaction to be submitted.">The Transaction Type indicates the type of transaction to be submitted.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>

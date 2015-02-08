@@ -53,7 +53,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="1005400001" trl="N">
-    <value column="Name" isTrl="Y" original="Heartbeat Configuration">Настройки Кардиограммы</value>
+    <value column="Name" isTrl="Y" original="Heartbeat Configuration">Настройки кардиограммы</value>
     <value column="Description" isTrl="N" original="Enable or disable the heartbeat process and configure internet connection proxy information ">Enable or disable the heartbeat process and configure internet connection proxy information </value>
   </row>
   <row id="1005500000" trl="N">
@@ -348,6 +348,10 @@
     <value column="Name" isTrl="N" original="Product Transaction Summary">Product Transaction Summary</value>
     <value column="Description" isTrl="N" original="Product Transaction Summary">Product Transaction Summary</value>
   </row>
+  <row id="1A99A1553A0F4EF1AF5EB20F69238C2E" trl="N">
+    <value column="Name" isTrl="N" original="Landed Cost Distribution Algorithm">Landed Cost Distribution Algorithm</value>
+    <value column="Description" isTrl="N" original="Master window where available landed cost distribution algorithms are defined.">Master window where available landed cost distribution algorithms are defined.</value>
+  </row>
   <row id="1C00140BAFA946E3A63F1AD557A35F45" trl="N">
     <value column="Name" isTrl="Y" original="Period Control Log">Журнал контроля периода</value>
     <value column="Description" isTrl="N" original="This windows shows the log for period control. ">This windows shows the log for period control. </value>
@@ -493,7 +497,7 @@
     <value column="Description" isTrl="N" original="Customer Relations and Partner Management">Customer Relations and Partner Management</value>
   </row>
   <row id="264" trl="N">
-    <value column="Name" isTrl="N" original="Commission Payment">Commission Payment</value>
+    <value column="Name" isTrl="Y" original="Commission Payment">Комиссионный платеж</value>
     <value column="Description" isTrl="N" original="Create commissions and create corresponding invoices.">Create commissions and create corresponding invoices.</value>
   </row>
   <row id="26BF4F6D476E4D0CAF5E62EBC63E440E" trl="N">
@@ -660,6 +664,10 @@
     <value column="Name" isTrl="Y" original="Security">Безопасность</value>
     <value column="Description" isTrl="N" original="Open a folder where you can see session logs and monitor modifications made by each user.">Open a folder where you can see session logs and monitor modifications made by each user.</value>
   </row>
+  <row id="369F385A56D4448191BCCDB6ABD900A1" trl="N">
+    <value column="Name" isTrl="N" original="Inventory Amount Update">Inventory Amount Update</value>
+    <value column="Description" isTrl="N" original="Inventory Amount Update window allows to change either current inventory amount or current unit cost of products in stock at a given reference date.">Inventory Amount Update window allows to change either current inventory amount or current unit cost of products in stock at a given reference date.</value>
+  </row>
   <row id="372" trl="N">
     <value column="Name" isTrl="Y" original="Web">Вэб</value>
     <value column="Description" isTrl="N" original=""/>
@@ -677,7 +685,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="384" trl="N">
-    <value column="Name" isTrl="Y" original="Accounting Dimension">Аналитические счета</value>
+    <value column="Name" isTrl="Y" original="Accounting Dimension">План счетов по субконто</value>
     <value column="Description" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
   </row>
   <row id="392" trl="N">
@@ -756,9 +764,17 @@
     <value column="Name" isTrl="Y" original="Enterprise module management">Управление модулями организации</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
+  <row id="648F02DE454D41CB90BBE4F66F5813A2" trl="N">
+    <value column="Name" isTrl="N" original="Product Characteristic">Product Characteristic</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="6787A809DB364371B797ECED5E9262BF" trl="N">
     <value column="Name" isTrl="N" original="Reject Reason">Reject Reason</value>
     <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="70EA2A01CB2444FC9F2139FCEB9BA7D7" trl="N">
+    <value column="Name" isTrl="N" original="Landed Cost Type">Landed Cost Type</value>
+    <value column="Description" isTrl="N" original="Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.">Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.</value>
   </row>
   <row id="75B726735EA7497C9DB06E35B1CBFD86" trl="N">
     <value column="Name" isTrl="Y" original="Open/Close Period Control">Открыть/Закрыть период</value>
@@ -781,7 +797,7 @@
     <value column="Description" isTrl="N" original="Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.">Create and edit potential projects which your business partner's are bidding on.  Create plans to purchase and proposals to your products if a business partner bid is won.</value>
   </row>
   <row id="800008" trl="N">
-    <value column="Name" isTrl="N" original="Incoterm">Incoterm</value>
+    <value column="Name" isTrl="Y" original="Incoterm">Условия Incoterm</value>
     <value column="Description" isTrl="N" original="Define international commercial terms (Incoterms) to be used in sales transactions.">Define international commercial terms (Incoterms) to be used in sales transactions.</value>
   </row>
   <row id="800010" trl="N">
@@ -805,7 +821,7 @@
     <value column="Description" isTrl="N" original="Report Total Product Template">Report Total Product Template</value>
   </row>
   <row id="800024" trl="N">
-    <value column="Name" isTrl="Y" original="Volume Discount">Скидка от объема</value>
+    <value column="Name" isTrl="Y" original="Volume Discount">Скидка от объёма</value>
     <value column="Description" isTrl="N" original="Create volume discounts related to products and product categories to be assigned to selected business partners.">Create volume discounts related to products and product categories to be assigned to selected business partners.</value>
   </row>
   <row id="800025" trl="N">
@@ -1449,16 +1465,24 @@
     <value column="Description" isTrl="N" original="Valued Stock Report">Valued Stock Report</value>
   </row>
   <row id="A519EEB1C1994CCF8208E5B73B5A04C6" trl="N">
-    <value column="Name" isTrl="Y" original="Costing Rules">Метод калькуляции</value>
+    <value column="Name" isTrl="Y" original="Costing Rules">Методы калькуляции</value>
     <value column="Description" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account ">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account </value>
   </row>
   <row id="A5A76D4C0D084A80AFB9A2A8F4A0A8AE" trl="N">
     <value column="Name" isTrl="Y" original="Return to Vendor Shipment">Возврат поставщику по накладной</value>
     <value column="Description" isTrl="Y" original="Return to vendor shipment">Возврат поставщику по накладной</value>
   </row>
+  <row id="A89F0CBA7D174B0C83F51F2ED9801383" trl="N">
+    <value column="Name" isTrl="N" original="Brand">Brand</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="AA912A0ED1EB4967B6A220291C7C118A" trl="N">
     <value column="Name" isTrl="Y" original="Instance Activation">Активация приложения</value>
     <value column="Description" isTrl="N" original="Manage current instance">Manage current instance</value>
+  </row>
+  <row id="B307FC5041D94B3FA57F830E90264EE4" trl="N">
+    <value column="Name" isTrl="N" original="Process Group">Process Group</value>
+    <value column="Description" isTrl="N" original="Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.">Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.</value>
   </row>
   <row id="B73A1BE38C6F4F4BB17A3B6FA8C3293E" trl="N">
     <value column="Name" isTrl="Y" original="Module Management">Настройки модулей</value>
@@ -1480,6 +1504,10 @@
     <value column="Name" isTrl="Y" original="Process Request">Задание обработки</value>
     <value column="Description" isTrl="N" original="Request processes and reports to be scheduled and executed in the background.">Request processes and reports to be scheduled and executed in the background.</value>
   </row>
+  <row id="BECE8640090B45A7B92AA8329742FB6B" trl="N">
+    <value column="Name" isTrl="N" original="Update Product Characteristics Description">Update Product Characteristics Description</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="C073633F0AFF4A93B17C13F239DE9613" trl="N">
     <value column="Name" isTrl="Y" original="Customer Statement">Акт сверки</value>
     <value column="Description" isTrl="N" original="Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period">Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period</value>
@@ -1496,9 +1524,17 @@
     <value column="Name" isTrl="Y" original="Reset Accounting">Убрать проводки</value>
     <value column="Description" isTrl="Y" original="Reset Accounting Entries">Убрать регистры проводок</value>
   </row>
+  <row id="D0EB635DAB004B16B636122FEA516898" trl="N">
+    <value column="Name" isTrl="N" original="Landed Cost">Landed Cost</value>
+    <value column="Description" isTrl="N" original="Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.">Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.</value>
+  </row>
   <row id="D13B4DBDCBF747BB9A91B17CBC6D1AA5" trl="N">
     <value column="Name" isTrl="Y" original="Process Scheduling">Планирование обработки</value>
     <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="D3B15512AB244A9D88AAF4E63C42CEC6" trl="N">
+    <value column="Name" isTrl="N" original="Cost Adjustment">Cost Adjustment</value>
+    <value column="Description" isTrl="N" original="Cost Adjustment window allows to review product transaction's cost adjustments caused by changes in purchase prices, landed cost allocation or manual/negative cost corrections.">Cost Adjustment window allows to review product transaction's cost adjustments caused by changes in purchase prices, landed cost allocation or manual/negative cost corrections.</value>
   </row>
   <row id="D4A88451E7F64130A1998567B5E0C68F" trl="N">
     <value column="Name" isTrl="Y" original="Project Progress">Выполнение проекта</value>
@@ -1507,6 +1543,10 @@
   <row id="DF55818A579B448AAF0CE64736E20E45" trl="N">
     <value column="Name" isTrl="Y" original="Dataset">Набор данных</value>
     <value column="Description" isTrl="Y" original="Dataset">Набор данных</value>
+  </row>
+  <row id="ED7B60C9919F48C096F93B58128DE565" trl="N">
+    <value column="Name" isTrl="N" original="Simple G/L Journal">Simple G/L Journal</value>
+    <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="EEC07584F29040388C9BAA388BC4C2D0" trl="N">
     <value column="Name" isTrl="Y" original="System Info">Системная информация</value>

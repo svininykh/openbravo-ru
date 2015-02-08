@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REFERENCE" version="0.1">
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_REFERENCE" version="">
+  <row id="0BD87850221D409596E57FBFE58B1392" trl="N">
+    <value column="Name" isTrl="N" original="AD_Tab Selection Type">AD_Tab Selection Type</value>
+    <value column="Description" isTrl="N" original="List with the selection types available in a grid">List with the selection types available in a grid</value>
+    <value column="Help" isTrl="N" original="List with the selection types available in a grid.&#10;Its value can be:&#10; * &quot;None&quot;: no rows can be selected&#10; * &quot;Single&quot;: only one row can be selected&#10; * &quot;Multiple&quot;: multiple rows can be selected">List with the selection types available in a grid.
+Its value can be:
+ * "None": no rows can be selected
+ * "Single": only one row can be selected
+ * "Multiple": multiple rows can be selected</value>
+  </row>
+  <row id="1AC7885279E44C4F976267C28270E1F9" trl="N">
+    <value column="Name" isTrl="N" original="Text Filter Behavior (Window/Tab/Field)">Text Filter Behavior (Window/Tab/Field)</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="892231CFE03848758D74B0209B801C14" trl="N">
+    <value column="Name" isTrl="N" original="Yes/No/Default">Yes/No/Default</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="BCDF0DC3ECD14B07AC54287DCB1276D2" trl="N">
+    <value column="Name" isTrl="N" original="Text Filter Behavior (System)">Text Filter Behavior (System)</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="BF6302EFCC854FA3B75658737442CEC9" trl="N">
+    <value column="Name" isTrl="N" original="Process Definition for Selector">Process Definition for Selector</value>
+    <value column="Description" isTrl="N" original="Process Definition">Process Definition</value>
+    <value column="Help" isTrl="N" original="Process Definitions that have checked the flag: &quot;Can Add Records to a Selector&quot;">Process Definitions that have checked the flag: "Can Add Records to a Selector"</value>
+  </row>
   <row id="D6193AA7FAB6429C8F34249FBF5A5F50" trl="N">
     <value column="Name" isTrl="N" original="OBUIAPP_ViewImplementation">OBUIAPP_ViewImplementation</value>
     <value column="Description" isTrl="N" original="OBUIAPP_ViewImplementation">OBUIAPP_ViewImplementation</value>

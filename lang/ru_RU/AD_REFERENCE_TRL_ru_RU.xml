@@ -25,6 +25,16 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="0230ECA4E893450C87913E8A6031BE54" trl="N">
+    <value column="Name" isTrl="N" original="Return Reason Table">Return Reason Table</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="025E4CBD3FC94036B669F5DAE4D0F193" trl="N">
+    <value column="Name" isTrl="N" original="Node Deletion Policy">Node Deletion Policy</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="0537E1156A064FDE8EF0CFBC97577E5F" trl="N">
     <value column="Name" isTrl="N" original="Storage Bin Selector">Storage Bin Selector</value>
     <value column="Description" isTrl="N" original="Storage Bin Selector">Storage Bin Selector</value>
@@ -419,6 +429,11 @@
     <value column="Description" isTrl="Y" original="Locations of a Business Partner">Расположение контрагента</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="15F1BBE7600B4B54ADBB9DB30E82B5F2" trl="N">
+    <value column="Name" isTrl="N" original="StorageBin Selector without warehouse">StorageBin Selector without warehouse</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="16" trl="N">
     <value column="Name" isTrl="Y" original="DateTime">Дата и время</value>
     <value column="Description" isTrl="Y" original="Date with time">Дата и время</value>
@@ -506,6 +521,11 @@
   </row>
   <row id="177" trl="N">
     <value column="Name" isTrl="N" original="C_PeriodControl Status">C_PeriodControl Status</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="177376BB849C4F718AB5E66CDB81F34E" trl="N">
+    <value column="Name" isTrl="N" original="Process Run">Process Run</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -639,6 +659,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="1D302425F6124D3DB90D89178223D7DB" trl="N">
+    <value column="Name" isTrl="N" original="Process Request">Process Request</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="1DBAAD6ABF2E4FE7A4654DDE387B89C9" trl="N">
     <value column="Name" isTrl="N" original="TableBasedTableSelector">TableBasedTableSelector</value>
     <value column="Description" isTrl="N" original=""/>
@@ -708,6 +733,12 @@
     <value column="Name" isTrl="N" original="AD_ImpFormat Type">AD_ImpFormat Type</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="20D7C424C217463F914DF632E5CF5923" trl="N">
+    <value column="Name" isTrl="N" original="Absolute Time">Absolute Time</value>
+    <value column="Description" isTrl="N" original="Absolute Time">Absolute Time</value>
+    <value column="Help" isTrl="N" original="Time reference, where the displayed time is exactly the same that is stored in the database.&#10;There is no any kind of timezone conversion. The stored time does not have timezone.">Time reference, where the displayed time is exactly the same that is stored in the database.
+There is no any kind of timezone conversion. The stored time does not have timezone.</value>
   </row>
   <row id="21" trl="N">
     <value column="Name" isTrl="Y" original="Location">Расположение</value>
@@ -861,6 +892,11 @@
   </row>
   <row id="239" trl="N">
     <value column="Name" isTrl="N" original="PA_ReportColumn">PA_ReportColumn</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="23AD2773FD02451DA75D1387A970CE82" trl="N">
+    <value column="Name" isTrl="N" original="M_CostAdjustmentLine">M_CostAdjustmentLine</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1139,6 +1175,11 @@
     <value column="Description" isTrl="N" original="Sales Credit Status">Sales Credit Status</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="28D6F0121E844F56937AE51C247133C7" trl="N">
+    <value column="Name" isTrl="N" original="Create PO LInes Pick and Execute">Create PO LInes Pick and Execute</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="29" trl="N">
     <value column="Name" isTrl="Y" original="Quantity">Количество</value>
     <value column="Description" isTrl="Y" original="Quantity data type">Тип данных количества</value>
@@ -1234,8 +1275,18 @@
     <value column="Description" isTrl="N" original="Refers the user dimension 2 table">Refers the user dimension 2 table</value>
     <value column="Help" isTrl="N" original="Refers the user dimension 2 table">Refers the user dimension 2 table</value>
   </row>
+  <row id="3C8CD031B6514878807DF3F198BD4EC6" trl="N">
+    <value column="Name" isTrl="N" original="Tree Structures">Tree Structures</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="3DDC9BFFE43342C4826EC65E97D40586" trl="N">
     <value column="Name" isTrl="N" original="Tab Level">Tab Level</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="3F0C866BE44749FFA60327152404A497" trl="N">
+    <value column="Name" isTrl="N" original="Manage Stock Reservation Pick and Edit">Manage Stock Reservation Pick and Edit</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1294,6 +1345,12 @@
     <value column="Description" isTrl="N" original="Used for search box values yes/no and empty (for any)">Used for search box values yes/no and empty (for any)</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="478169542A1747BD942DD70C8B45089C" trl="N">
+    <value column="Name" isTrl="N" original="Absolute DateTime">Absolute DateTime</value>
+    <value column="Description" isTrl="N" original="Absolute DateTime">Absolute DateTime</value>
+    <value column="Help" isTrl="N" original="DateTime reference, where the displayed date-time is exactly the same that is stored in the database.&#10;There is no any kind of timezone conversion. The stored date-time does not have timezone.">DateTime reference, where the displayed date-time is exactly the same that is stored in the database.
+There is no any kind of timezone conversion. The stored date-time does not have timezone.</value>
+  </row>
   <row id="482FE0CA9E0F438BBE576E612111BF31" trl="N">
     <value column="Name" isTrl="N" original="Physical Inventory line selector">Physical Inventory line selector</value>
     <value column="Description" isTrl="N" original="Physical Inventory line selector">Physical Inventory line selector</value>
@@ -1329,9 +1386,19 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="4FE370EC4A194C0EA1AE50D91B8CCD1B" trl="N">
+    <value column="Name" isTrl="N" original="Product Multiple Selector for Add Product">Product Multiple Selector for Add Product</value>
+    <value column="Description" isTrl="N" original="Multiple selector to be used in the Add Products process definition">Multiple selector to be used in the Add Products process definition</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="5" trl="N">
     <value column="Name" isTrl="N" original="AD_Table Access Levels">AD_Table Access Levels</value>
     <value column="Description" isTrl="N" original="Table Access and Sharing Level list">Table Access and Sharing Level list</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="5079A62A2B4F43FCB1B080F23502EA04" trl="N">
+    <value column="Name" isTrl="N" original="AD_Process_Run">AD_Process_Run</value>
+    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="531F166E5A7C437F9438A94AD8DDF212" trl="N">
@@ -1359,6 +1426,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="5921E65E7BFA4134B98CCDA388CC0559" trl="N">
+    <value column="Name" isTrl="N" original="OBUISEL Account Element Value ">OBUISEL Account Element Value </value>
+    <value column="Description" isTrl="N" original="Account Element Value">Account Element Value</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="595E4FB3F743477BA5A670452556C3DF" trl="N">
     <value column="Name" isTrl="N" original="FIN_Payment_Schedule_v order">FIN_Payment_Schedule_v order</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1368,6 +1440,11 @@
     <value column="Name" isTrl="N" original="Use Attribute Set Value As">Use Attribute Set Value As</value>
     <value column="Description" isTrl="N" original="A distinct Attribute Set Value characteristic.">A distinct Attribute Set Value characteristic.</value>
     <value column="Help" isTrl="N" original="Permits the user to define different types of Attribute Set Values, depending on their usage.">Permits the user to define different types of Attribute Set Values, depending on their usage.</value>
+  </row>
+  <row id="5B988E35236D404B8210801472E363CE" trl="N">
+    <value column="Name" isTrl="N" original="LevelPricingAlgorithms">LevelPricingAlgorithms</value>
+    <value column="Description" isTrl="N" original="This table stores algorithms installed in the system to work with level pricing">This table stores algorithms installed in the system to work with level pricing</value>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="5BBEA02A7BCE441A81BC546DF034162E" trl="N">
     <value column="Name" isTrl="N" original="All document tax amount calculation criteria">All document tax amount calculation criteria</value>
@@ -1429,6 +1506,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="689DF2175C944B70AF0DF7D57C3411A6" trl="N">
+    <value column="Name" isTrl="N" original="MRP_ProductionRunLineSelector">MRP_ProductionRunLineSelector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="6BBBF18412CE4454B7C2F45E5FC1F6A3" trl="N">
     <value column="Name" isTrl="N" original="Tab Access Selector">Tab Access Selector</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1459,6 +1541,11 @@
     <value column="Description" isTrl="Y" original="Status for modules">Статус для модулей</value>
     <value column="Help" isTrl="Y" original="Status for modules">Статус для модулей</value>
   </row>
+  <row id="72878318BB614791915C530EE7F8AF4B" trl="N">
+    <value column="Name" isTrl="N" original="RFC HQL Pick / Edit Lines">RFC HQL Pick / Edit Lines</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="73625A8F22EF4CD7808603156BA606D7" trl="N">
     <value column="Name" isTrl="N" original="Accruals and Deferrals Plan Types">Accruals and Deferrals Plan Types</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1481,6 +1568,11 @@
   </row>
   <row id="7A335E6DA5774F89972F6903C9A142AA" trl="N">
     <value column="Name" isTrl="N" original="Condition of the goods">Condition of the goods</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="7A55F24E10FD467EA8436DFE32D2C368" trl="N">
+    <value column="Name" isTrl="N" original="Price List Type">Price List Type</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1941,8 +2033,23 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="80D920FE975340EDACC52885BA4C34D7" trl="N">
+    <value column="Name" isTrl="N" original="Inventory Types">Inventory Types</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="8238E1DF040B4641877766194CD1EF33" trl="N">
+    <value column="Name" isTrl="N" original="M_Offer no combo">M_Offer no combo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="83AD04A0C49E4801BF276B690265A3D1" trl="N">
     <value column="Name" isTrl="N" original="RM Receipt Pick Edit Lines">RM Receipt Pick Edit Lines</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="842B7287F2A94ACA8AEAD444470E765D" trl="N">
+    <value column="Name" isTrl="N" original="Reserved Good Movement">Reserved Good Movement</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1950,6 +2057,16 @@ For example, if you want to create different invoices for each ship location for
     <value column="Name" isTrl="N" original="Products">Products</value>
     <value column="Description" isTrl="N" original="Generic Product Selector">Generic Product Selector</value>
     <value column="Help" isTrl="N" original="This selector shows all the available products">This selector shows all the available products</value>
+  </row>
+  <row id="84ECA724EF074F679DFD69556C6DAF21" trl="N">
+    <value column="Name" isTrl="N" original="Generic Product">Generic Product</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="84F9333A9141482C8AAC5B9779CDD512" trl="N">
+    <value column="Name" isTrl="N" original="m_ch_value order by seqno">m_ch_value order by seqno</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="86086D70DDBC42B09E2BEB51D25C159F" trl="N">
     <value column="Name" isTrl="Y" original="Session Login Status">Статус подключения сессии</value>
@@ -1971,15 +2088,30 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="8ADAC6C5EBC44105B14527EA96C36BC8" trl="N">
+    <value column="Name" isTrl="N" original="M_Transaction selector">M_Transaction selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="8BA0A3775CE14CE69989B6C09982FB2E" trl="N">
     <value column="Name" isTrl="N" original="Dependency Enforcement">Dependency Enforcement</value>
     <value column="Description" isTrl="N" original="Types of enforcements for dependencies">Types of enforcements for dependencies</value>
     <value column="Help" isTrl="N" original="Types of enforcements for dependencies">Types of enforcements for dependencies</value>
   </row>
+  <row id="8C57A4A2E05F4261A1FADF47C30398AD" trl="N">
+    <value column="Name" isTrl="N" original="Tree Reference">Tree Reference</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="8CEE50DD83244E51AF4949827A04FC52" trl="N">
     <value column="Name" isTrl="N" original="FIN Payment Run Payment result">FIN Payment Run Payment result</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="List of allowed results of a payment after an Payment Run. ">List of allowed results of a payment after an Payment Run. </value>
+  </row>
+  <row id="8DC520C5887F4F20822DF61609E1A4C6" trl="N">
+    <value column="Name" isTrl="N" original="Open reservations of product">Open reservations of product</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="8FAA2F7B2F67456780B3551099E13917" trl="N">
     <value column="Name" isTrl="N" original="Manage Prereservation Pick and Edit">Manage Prereservation Pick and Edit</value>
@@ -1990,6 +2122,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Name" isTrl="Y" original="UOM Length">Ед.изм. длины</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="954BA02AD92D4820B4B3A24B104E24C2" trl="N">
+    <value column="Name" isTrl="N" original="Service Products">Service Products</value>
+    <value column="Description" isTrl="N" original="Service Product Selector">Service Product Selector</value>
+    <value column="Help" isTrl="N" original="This selector shows all the service products">This selector shows all the service products</value>
   </row>
   <row id="956E8F5C98A345AFBCCDD12E49A9074D" trl="N">
     <value column="Name" isTrl="N" original="FIN Execution Process Parameter type">FIN Execution Process Parameter type</value>
@@ -2003,6 +2140,11 @@ For example, if you want to create different invoices for each ship location for
   </row>
   <row id="99EC3A7013654794BB52975DAA3B80E6" trl="N">
     <value column="Name" isTrl="N" original="M_Inventory">M_Inventory</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="9CEE02F4DBA84DB7997AC39C35F2CEA0" trl="N">
+    <value column="Name" isTrl="N" original="Currency Selector">Currency Selector</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -2041,6 +2183,11 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original="Account Element Value">Account Element Value</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="A96E75E357AD433EA0824CFC3848E508" trl="N">
+    <value column="Name" isTrl="N" original="TableTree Selector">TableTree Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="AADA51C554014A2DA108BA393706AD1D" trl="N">
     <value column="Name" isTrl="N" original="Doubtful Debt Pick and Edit Reference">Doubtful Debt Pick and Edit Reference</value>
     <value column="Description" isTrl="N" original="Doubtful Debt Pick and Edit Reference">Doubtful Debt Pick and Edit Reference</value>
@@ -2054,6 +2201,11 @@ For example, if you want to create different invoices for each ship location for
   <row id="AD93286C917A4A74BE5898FD0158100A" trl="N">
     <value column="Name" isTrl="N" original="AD_Heartbeat - Status">AD_Heartbeat - Status</value>
     <value column="Description" isTrl="N" original="Heartbeat status">Heartbeat status</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="ADE80203FF1D4143854E6B938CF3E8B9" trl="N">
+    <value column="Name" isTrl="N" original="Characteristic Selector w/ filter">Characteristic Selector w/ filter</value>
+    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="AE201981DDC0467FB59F64CA978C749F" trl="N">
@@ -2071,15 +2223,30 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Links to an Execution Process">Links to an Execution Process</value>
   </row>
+  <row id="B82C3C28E51F4AA6B87D98E7ABBF92F0" trl="N">
+    <value column="Name" isTrl="N" original="Customer Statement Report Type">Customer Statement Report Type</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="B88DB8C2B8C441DF8DCF3CF3C8565201" trl="N">
     <value column="Name" isTrl="N" original="OBPSLicenseStatus">OBPSLicenseStatus</value>
     <value column="Description" isTrl="N" original="List of possible status of a Professional Subscription License">List of possible status of a Professional Subscription License</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="B8D0D35D24E9465798DDB61FC15EA902" trl="N">
+    <value column="Name" isTrl="N" original="RFC HQL Pick / Edit Orphan Lines">RFC HQL Pick / Edit Orphan Lines</value>
+    <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="BCABCED4983A4ECB814A6D142593ACEA" trl="N">
     <value column="Name" isTrl="N" original="FIN_Matching Type">FIN_Matching Type</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="BE0FDF9E98DA43908E1DACC43893E1F6" trl="N">
+    <value column="Name" isTrl="N" original="Tree Reference Display/Value Field">Tree Reference Display/Value Field</value>
+    <value column="Description" isTrl="N" original="Tree Reference Display/Value Field">Tree Reference Display/Value Field</value>
+    <value column="Help" isTrl="N" original="Tree Reference Display/Value Field">Tree Reference Display/Value Field</value>
   </row>
   <row id="C01DEDDA9B35427786058CB649FB972F" trl="N">
     <value column="Name" isTrl="Y" original="Order Payment Plan">График оплаты ордера</value>
@@ -2111,6 +2278,16 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original="A password which is shown with * in the UI; the cleartext value cannot be recovered as only a hashed value is stored">A password which is shown with * in the UI; the cleartext value cannot be recovered as only a hashed value is stored</value>
     <value column="Help" isTrl="N" original="Fro this type of passwords only a hashed value is stored in the database. It is possible to verify if the same value was entered (to implement a password check), however it is not possible to recover the cleartext value again.">Fro this type of passwords only a hashed value is stored in the database. It is possible to verify if the same value was entered (to implement a password check), however it is not possible to recover the cleartext value again.</value>
   </row>
+  <row id="C632F1CFF5A1453EB28BDF44A70478F8" trl="N">
+    <value column="Name" isTrl="N" original="Product Characteristics">Product Characteristics</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C9252925E607456A9BE935B3B8F1BC9F" trl="N">
+    <value column="Name" isTrl="N" original="ManageVariants Pick and Execute">ManageVariants Pick and Execute</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="CBF00FA9F3744F1A86025AD16F2AF86A" trl="N">
     <value column="Name" isTrl="N" original="End Year Close Actions">End Year Close Actions</value>
     <value column="Description" isTrl="N" original=""/>
@@ -2126,6 +2303,16 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="CE9AF28566544F9787D5B936B0067809" trl="N">
+    <value column="Name" isTrl="N" original="Table Tree Category">Table Tree Category</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D107D85667864E6E9F8B9D54E6F1EDE5" trl="N">
+    <value column="Name" isTrl="N" original="Region Selector">Region Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="D15C950D445D408E8CC8135E530C246B" trl="N">
     <value column="Name" isTrl="N" original="Tab UI Pattern">Tab UI Pattern</value>
     <value column="Description" isTrl="N" original="Tab UI Pattern">Tab UI Pattern</value>
@@ -2136,23 +2323,48 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original="C_Incoterms">C_Incoterms</value>
     <value column="Help" isTrl="N" original="C_Incoterms">C_Incoterms</value>
   </row>
+  <row id="D3D9A7BAF4594950922A22B2D7ABFA74" trl="N">
+    <value column="Name" isTrl="N" original="Characteristic Selector">Characteristic Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="D61E6D984E214F99B10DE56395ED692B" trl="N">
     <value column="Name" isTrl="N" original="Element Selector">Element Selector</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D65D16C78404437AAB008E8040715D2F" trl="N">
+    <value column="Name" isTrl="N" original="All Products Simple Selector">All Products Simple Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Simple selector that shows all products, including those checked as Generic.">Simple selector that shows all products, including those checked as Generic.</value>
   </row>
   <row id="D6C4E62C3EB040989001DA16B3925DC8" trl="N">
     <value column="Name" isTrl="N" original="Smtp Connection Security">Smtp Connection Security</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Different types of smtp connection security">Different types of smtp connection security</value>
   </row>
+  <row id="D920A7ED46C542629D2A1054560EBF14" trl="N">
+    <value column="Name" isTrl="N" original="Item Stockable Products">Item Stockable Products</value>
+    <value column="Description" isTrl="N" original="Item Stockable Products">Item Stockable Products</value>
+    <value column="Help" isTrl="N" original="This selector shows all the item stockable products">This selector shows all the item stockable products</value>
+  </row>
+  <row id="DA2E8CEC6A584B7A8052AE1F19551138" trl="N">
+    <value column="Name" isTrl="N" original="M_CostAdjustment">M_CostAdjustment</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="DA8233ADA105471A9CDE47C618002164" trl="N">
+    <value column="Name" isTrl="N" original="Process Plan Version">Process Plan Version</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="DBCF65339D0F4403822A8A7928533D6B" trl="N">
     <value column="Name" isTrl="N" original="FACT_FactAcctType">FACT_FactAcctType</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="DE2C18CCE5D540519E606CBC1A4B336D" trl="N">
-    <value column="Name" isTrl="N" original="SRM Order Pick / Edit Lines">SRM Order Pick / Edit Lines</value>
+  <row id="DCAE0858FA44432A85F8B67533FB4A5D" trl="N">
+    <value column="Name" isTrl="N" original="LC Cost Match from Invoice">LC Cost Match from Invoice</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -2181,6 +2393,21 @@ For example, if you want to create different invoices for each ship location for
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="E125179F7310445E880814C659CA9F5A" trl="N">
+    <value column="Name" isTrl="N" original="Tree Table Link to Parent / Sequence field">Tree Table Link to Parent / Sequence field</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E68CCF4495A34ED7902293A930386B93" trl="N">
+    <value column="Name" isTrl="N" original="M_InOut Receipts">M_InOut Receipts</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E755FEC72FF74F7891EBC27B3094267B" trl="N">
+    <value column="Name" isTrl="N" original="Invoice Line for Landed Cost Selector">Invoice Line for Landed Cost Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="E8E9B9F9FBDE4E679EC69611D2CCE1E3" trl="N">
     <value column="Name" isTrl="N" original="M_Transaction Status">M_Transaction Status</value>
     <value column="Description" isTrl="N" original=""/>
@@ -2189,6 +2416,16 @@ For example, if you want to create different invoices for each ship location for
   <row id="E943EF6DC4524209BD5933661EC0BDDC" trl="N">
     <value column="Name" isTrl="N" original="FIN_Payment_Schedule_V invoice">FIN_Payment_Schedule_V invoice</value>
     <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="EB3568484660488FA112CBBB2C1D2780" trl="N">
+    <value column="Name" isTrl="N" original="Cost Adjustment Process types">Cost Adjustment Process types</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="List of different processes that generates a Cost Adjustment">List of different processes that generates a Cost Adjustment</value>
+  </row>
+  <row id="EE2E61C84926484C809BEBBCED00C7E3" trl="N">
+    <value column="Name" isTrl="N" original="Payment Selector Transaction">Payment Selector Transaction</value>
+    <value column="Description" isTrl="N" original="Payment Selector Transaction">Payment Selector Transaction</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="EE8B072E19034D0FB34CA1CEB3583620" trl="N">
@@ -2223,6 +2460,11 @@ For example, if you want to create different invoices for each ship location for
   </row>
   <row id="F6A9745024274BD48686CAC8A063AA3E" trl="N">
     <value column="Name" isTrl="N" original="C_Period Status">C_Period Status</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="F8BC73C4041E4164834499FF4D6388F1" trl="N">
+    <value column="Name" isTrl="N" original="m_ch_subset of characteristic">m_ch_subset of characteristic</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
