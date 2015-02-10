@@ -4945,8 +4945,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1656" trl="N">
-    <value column="Name" isTrl="N" original="Used as Filter Column">Used as Filter Column</value>
-    <value column="PrintName" isTrl="N" original="Selection">Selection</value>
+    <value column="Name" isTrl="Y" original="Used as Filter Column">Использовать для фильтра</value>
+    <value column="PrintName" isTrl="Y" original="Selection">Использовать для фильтра</value>
     <value column="Description" isTrl="N" original="Is this column used for finding rows in windows">Is this column used for finding rows in windows</value>
     <value column="Help" isTrl="N" original="&#10;If selected, this column will be used in the Search Window as an available filter criteria.">
 If selected, this column will be used in the Search Window as an available filter criteria.</value>
@@ -5056,8 +5056,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1676" trl="N">
-    <value column="Name" isTrl="N" original="Inventory Quantity">Inventory Quantity</value>
-    <value column="PrintName" isTrl="N" original="Inventory Quantity">Inventory Quantity</value>
+    <value column="Name" isTrl="Y" original="Inventory Quantity">Количество на складе</value>
+    <value column="PrintName" isTrl="Y" original="Inventory Quantity">Количество на складе</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5096,8 +5096,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="168" trl="N">
-    <value column="Name" isTrl="N" original="Automatic Period Control">Automatic Period Control</value>
-    <value column="PrintName" isTrl="N" original="Automatic Period Control">Automatic Period Control</value>
+    <value column="Name" isTrl="Y" original="Automatic Period Control">Автоматический контроль периода</value>
+    <value column="PrintName" isTrl="Y" original="Automatic Period Control">Автоматический контроль периода</value>
     <value column="Description" isTrl="N" original="If selected, the periods are automatically opened and closed">If selected, the periods are automatically opened and closed</value>
     <value column="Help" isTrl="N" original="In the Automatic Period Control, periods are opened and closed based on the current date.  If the Manual alternative is activated, you have to open and close periods explicitly.">In the Automatic Period Control, periods are opened and closed based on the current date.  If the Manual alternative is activated, you have to open and close periods explicitly.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5116,8 +5116,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1681" trl="N">
-    <value column="Name" isTrl="N" original="Show Planned Quantity">Show Planned Quantity</value>
-    <value column="PrintName" isTrl="N" original="Show Planned Quantity">Show Planned Quantity</value>
+    <value column="Name" isTrl="Y" original="Show Planned Quantity">Показать планируемое количество</value>
+    <value column="PrintName" isTrl="Y" original="Show Planned Quantity">Показать планируемое количество</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5126,8 +5126,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1683" trl="N">
-    <value column="Name" isTrl="N" original="Import Fields">Import Fields</value>
-    <value column="PrintName" isTrl="N" original="Import Fields">Import Fields</value>
+    <value column="Name" isTrl="Y" original="Import Fields">Импорт полей</value>
+    <value column="PrintName" isTrl="Y" original="Import Fields">Импорт полей</value>
     <value column="Description" isTrl="N" original="Create Fields from Table Columns">Create Fields from Table Columns</value>
     <value column="Help" isTrl="N" original="Create Fields from Table Columns, this process will create the fields that don't exists in the tab but which exist in the correspondent table.">Create Fields from Table Columns, this process will create the fields that don't exists in the tab but which exist in the correspondent table.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5136,8 +5136,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1684" trl="N">
-    <value column="Name" isTrl="N" original="Import Table">Import Table</value>
-    <value column="PrintName" isTrl="N" original="Import Table">Import Table</value>
+    <value column="Name" isTrl="Y" original="Import Table">Импорт таблицы</value>
+    <value column="PrintName" isTrl="Y" original="Import Table">Импорт таблицы</value>
     <value column="Description" isTrl="N" original="Import Table Columns from Database">Import Table Columns from Database</value>
     <value column="Help" isTrl="N" original="Import Table Columns from Database, this process will create in the application dictionary those columns defined in the table (in DB) but non-existing in the column table (of the application dictionary).">Import Table Columns from Database, this process will create in the application dictionary those columns defined in the table (in DB) but non-existing in the column table (of the application dictionary).</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5146,8 +5146,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1686" trl="N">
-    <value column="Name" isTrl="N" original="Payment Selection">Payment Selection</value>
-    <value column="PrintName" isTrl="N" original="Payment selection">Payment selection</value>
+    <value column="Name" isTrl="N" original="Payment Selection">Выбор платежа</value>
+    <value column="PrintName" isTrl="N" original="Payment selection">Выбор платежа</value>
     <value column="Description" isTrl="N" original="AP Payment Selection Clearing Account">AP Payment Selection Clearing Account</value>
     <value column="Help" isTrl="N" original="AP Payment Selection Clearing Account">AP Payment Selection Clearing Account</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5206,8 +5206,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1698" trl="N">
-    <value column="Name" isTrl="N" original="Request Email">Request Email</value>
-    <value column="PrintName" isTrl="N" original="Request EMail">Request EMail</value>
+    <value column="Name" isTrl="Y" original="Request Email">Запросить электронную почту</value>
+    <value column="PrintName" isTrl="Y" original="Request EMail">Запросить электронную почту</value>
     <value column="Description" isTrl="N" original="EMail address to send automated mails from or receive mails for automated processing (fully qualified)">EMail address to send automated mails from or receive mails for automated processing (fully qualified)</value>
     <value column="Help" isTrl="N" original="EMails for requests, alerts and escalation are sent from this email address as well as delivery information if the sales rep does not have an email account. The address must be filly qualified (e.g. joe.smith@company.com) and should be a valid address.">EMails for requests, alerts and escalation are sent from this email address as well as delivery information if the sales rep does not have an email account. The address must be filly qualified (e.g. joe.smith@company.com) and should be a valid address.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5216,8 +5216,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1699" trl="N">
-    <value column="Name" isTrl="N" original="Request Folder">Request Folder</value>
-    <value column="PrintName" isTrl="N" original="Request Folder">Request Folder</value>
+    <value column="Name" isTrl="Y" original="Request Folder">Запросить каталог</value>
+    <value column="PrintName" isTrl="Y" original="Request Folder">Запросить каталог</value>
     <value column="Description" isTrl="N" original="EMail folder to process incoming emails; if empty INBOX is used">EMail folder to process incoming emails; if empty INBOX is used</value>
     <value column="Help" isTrl="N" original="Email folder used to read emails to process as requests, If left empty the default mailbox (INBOX) will be used. Requires IMAP services.">Email folder used to read emails to process as requests, If left empty the default mailbox (INBOX) will be used. Requires IMAP services.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5226,8 +5226,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1700" trl="N">
-    <value column="Name" isTrl="N" original="Request User">Request User</value>
-    <value column="PrintName" isTrl="N" original="Request User">Request User</value>
+    <value column="Name" isTrl="Y" original="Request User">Запросить имя пользователя</value>
+    <value column="PrintName" isTrl="Y" original="Request User">Запросить имя пользователя</value>
     <value column="Description" isTrl="N" original="User Name (ID) of the email owner">User Name (ID) of the email owner</value>
     <value column="Help" isTrl="N" original="EMail user name for requests, alerts and escalation are sent from this email address as well as delivery information if the sales rep does not have an email account. Required, if your mail server requires authentification as well as for processing incoming mails.">EMail user name for requests, alerts and escalation are sent from this email address as well as delivery information if the sales rep does not have an email account. Required, if your mail server requires authentification as well as for processing incoming mails.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5236,8 +5236,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1701" trl="N">
-    <value column="Name" isTrl="N" original="Request User Password">Request User Password</value>
-    <value column="PrintName" isTrl="N" original="Request User PW">Request User PW</value>
+    <value column="Name" isTrl="N" original="Request User Password">Запросить пароль пользователя</value>
+    <value column="PrintName" isTrl="N" original="Request User PW">Запросить пароль пользователя</value>
     <value column="Description" isTrl="N" original="Password of the user name (ID) for mail processing">Password of the user name (ID) for mail processing</value>
     <value column="Help" isTrl="N" original="Password of the user name (ID) for mail processing">Password of the user name (ID) for mail processing</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5316,8 +5316,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1718" trl="N">
-    <value column="Name" isTrl="N" original="Script">Script</value>
-    <value column="PrintName" isTrl="N" original="Script">Script</value>
+    <value column="Name" isTrl="Y" original="Script">Скрипт</value>
+    <value column="PrintName" isTrl="Y" original="Script">Скрипт</value>
     <value column="Description" isTrl="N" original="A code used to create or modify the database or the database data.">A code used to create or modify the database or the database data.</value>
     <value column="Help" isTrl="N" original="Use Java language constructs to define the result of the calculation">Use Java language constructs to define the result of the calculation</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5326,8 +5326,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="17184E4C77FA4D34AEEC4938B61DB410" trl="N">
-    <value column="Name" isTrl="N" original="Group">Group</value>
-    <value column="PrintName" isTrl="N" original="Group">Group</value>
+    <value column="Name" isTrl="Y" original="Group">Группа</value>
+    <value column="PrintName" isTrl="Y" original="Group">Группа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5336,8 +5336,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="171C2AFB1127408FAC36225596922954" trl="N">
-    <value column="Name" isTrl="N" original="Start in New Line">Start in New Line</value>
-    <value column="PrintName" isTrl="N" original="Start in New Line">Start in New Line</value>
+    <value column="Name" isTrl="Y" original="Start in New Line">Начать с новой строки</value>
+    <value column="PrintName" isTrl="Y" original="Start in New Line">Начать с новой строки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19317,7 +19317,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="800794" trl="N">
-    <value column="Name" isTrl="N" original="Group">Group</value>
+    <value column="Name" isTrl="N" original="Group">Группа</value>
     <value column="PrintName" isTrl="N" original="Acct Rpt Group">Acct Rpt Group</value>
     <value column="Description" isTrl="N" original="Acct Rpt Group">Acct Rpt Group</value>
     <value column="Help" isTrl="N" original="Accounting Report Group defines groups gro general accounting reports.">Accounting Report Group defines groups gro general accounting reports.</value>
