@@ -1037,7 +1037,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300055" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount">Amount</value>
+    <value column="MsgText" isTrl="N" original="Amount">Сумма</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300056" trl="N">
@@ -1529,11 +1529,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="140" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount">Amount</value>
+    <value column="MsgText" isTrl="N" original="Amount">Сумма</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="141" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount Due">Amount Due</value>
+    <value column="MsgText" isTrl="N" original="Amount Due">Сумма погашения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="141F432757BC4581ABC9F9FEF8211CF2" trl="N">
@@ -1541,15 +1541,15 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="142" trl="N">
-    <value column="MsgText" isTrl="N" original="Payment Amount">Payment Amount</value>
+    <value column="MsgText" isTrl="N" original="Payment Amount">Сумма платежа</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="143" trl="N">
-    <value column="MsgText" isTrl="N" original="From Amount">From Amount</value>
+    <value column="MsgText" isTrl="N" original="From Amount">Сумма от</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="144" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount To">Amount To</value>
+    <value column="MsgText" isTrl="N" original="Amount To">Сумма до</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="145" trl="N">
@@ -1625,11 +1625,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="158" trl="N">
-    <value column="MsgText" isTrl="N" original="Business Partner not found">Business Partner not found</value>
+    <value column="MsgText" isTrl="Y" original="Business Partner not found">Не найден контрагент</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="159" trl="N">
-    <value column="MsgText" isTrl="N" original="Business Partner not saved">Business Partner not saved</value>
+    <value column="MsgText" isTrl="Y" original="Business Partner not saved">Не сохранён контрагент</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="15CDE4BE875A46608CEB541331D2CFE7" trl="N">
@@ -3473,7 +3473,7 @@ Be aware that if the daily limit is exceeded @extraDays@ more times in the @numb
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="43A084513DAE435A807E8C115961C4AC" trl="N">
-    <value column="MsgText" isTrl="N" original="Due Date">Due Date</value>
+    <value column="MsgText" isTrl="Y" original="Due Date">Дата погашения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="43A909085DF1445AB36732B5B5BDA544" trl="N">
@@ -5739,23 +5739,23 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800123" trl="N">
-    <value column="MsgText" isTrl="N" original="Today cannot be later than the due date.">Today cannot be later than the due date.</value>
+    <value column="MsgText" isTrl="N" original="Today cannot be later than the due date.">Дата сегодня не может быть позже даты погашения.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800124" trl="N">
-    <value column="MsgText" isTrl="N" original="Percentage not defined.">Percentage not defined.</value>
+    <value column="MsgText" isTrl="N" original="Percentage not defined.">Процент не задан.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800125" trl="N">
-    <value column="MsgText" isTrl="N" original="Period not defined.">Period not defined.</value>
+    <value column="MsgText" isTrl="N" original="Period not defined.">Период не задан.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800126" trl="N">
-    <value column="MsgText" isTrl="N" original="Start date not defined.">Start date not defined.</value>
+    <value column="MsgText" isTrl="N" original="Start date not defined.">Дата начала не задана.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800127" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount not defined.">Amount not defined.</value>
+    <value column="MsgText" isTrl="N" original="Amount not defined.">Сумма не задана.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800128" trl="N">

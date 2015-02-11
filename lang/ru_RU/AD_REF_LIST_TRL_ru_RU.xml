@@ -565,20 +565,20 @@
     <value column="Description" isTrl="N" original="First In First Out Costing">First In First Out Costing</value>
   </row>
   <row id="14DD08512C37437C8B2DE6D3696B4EA0" trl="N">
-    <value column="Name" isTrl="N" original="Payment proposal">Payment proposal</value>
+    <value column="Name" isTrl="Y" original="Payment proposal">Условие оплаты</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="150" trl="N">
-    <value column="Name" isTrl="N" original="International GAAP">International GAAP</value>
-    <value column="Description" isTrl="N" original="International GAAP">International GAAP</value>
+    <value column="Name" isTrl="Y" original="International GAAP">Международный GAAP</value>
+    <value column="Description" isTrl="Y" original="International GAAP">Международный GAAP</value>
   </row>
   <row id="151" trl="N">
-    <value column="Name" isTrl="N" original="US GAAP">US GAAP</value>
-    <value column="Description" isTrl="N" original="United States GAAP">United States GAAP</value>
+    <value column="Name" isTrl="Y" original="US GAAP">GAAP США</value>
+    <value column="Description" isTrl="Y" original="United States GAAP">GAAP США</value>
   </row>
   <row id="152" trl="N">
-    <value column="Name" isTrl="N" original="German HGB">German HGB</value>
-    <value column="Description" isTrl="N" original="German HGB">German HGB</value>
+    <value column="Name" isTrl="Y" original="German HGB">HGB Германии</value>
+    <value column="Description" isTrl="Y" original="German HGB">HGB Германии</value>
   </row>
   <row id="153" trl="N">
     <value column="Name" isTrl="N" original="Actual">Actual</value>
@@ -4461,7 +4461,7 @@
     <value column="Description" isTrl="N" original="Process trigger will execute every n hours.">Process trigger will execute every n hours.</value>
   </row>
   <row id="F84EE22453E144D4B33948B0A512AAF4" trl="N">
-    <value column="Name" isTrl="N" original="Update">Update</value>
+    <value column="Name" isTrl="Y" original="Update">Обновить</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="F8BA0C30CEEB423EA74B3D793C199AFD" trl="N">
@@ -4473,11 +4473,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="F909149B2018465DA19A11D9F9AC9ABD" trl="N">
-    <value column="Name" isTrl="N" original="Payment Proposal Window">Payment Proposal Window</value>
+    <value column="Name" isTrl="Y" original="Payment Proposal Window">Окно условий оплаты</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="F9776B07CC474B519AB631DE03726291" trl="N">
-    <value column="Name" isTrl="N" original="Sales Price List">Sales Price List</value>
+    <value column="Name" isTrl="Y" original="Sales Price List">Прейскурант продажи</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FA4EB912DC0F4A0B80179B78DA09B7AC" trl="N">

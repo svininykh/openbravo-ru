@@ -101,7 +101,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="D16966FBF9604A3D91A50DC83C6EA8E3" trl="N">
-    <value column="Name" isTrl="N" original="Payment Proposal Process">Payment Proposal Process</value>
+    <value column="Name" isTrl="Y" original="Payment Proposal Process">Обработка условий оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Java class to process the Payment Proposals">Java class to process the Payment Proposals</value>
   </row>
@@ -111,7 +111,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="DC23BB9234174E52879E4B21C8CD1F4B" trl="N">
-    <value column="Name" isTrl="N" original="Process Payment Proposal">Process Payment Proposal</value>
+    <value column="Name" isTrl="Y" original="Process Payment Proposal">Параметры обработки условия оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Process that opens the popup with the parameters to process the Payment Proposal">Process that opens the popup with the parameters to process the Payment Proposal</value>
   </row>

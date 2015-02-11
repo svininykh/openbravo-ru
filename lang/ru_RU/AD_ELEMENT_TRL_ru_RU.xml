@@ -3669,8 +3669,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1381" trl="N">
-    <value column="Name" isTrl="N" original="Bank Statement">Bank Statement</value>
-    <value column="PrintName" isTrl="N" original="Bank Statement">Bank Statement</value>
+    <value column="Name" isTrl="Y" original="Bank Statement">Выписка банка</value>
+    <value column="PrintName" isTrl="Y" original="Bank Statement">Выписка банка</value>
     <value column="Description" isTrl="N" original="Bank Statement of account">Bank Statement of account</value>
     <value column="Help" isTrl="N" original="The Bank Statement identifies a unique Bank Statement for a defined time period.  The statement defines all transactions that occurred">The Bank Statement identifies a unique Bank Statement for a defined time period.  The statement defines all transactions that occurred</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -3679,8 +3679,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1382" trl="N">
-    <value column="Name" isTrl="N" original="Bank Statement Line">Bank Statement Line</value>
-    <value column="PrintName" isTrl="N" original="Bank statement line">Bank statement line</value>
+    <value column="Name" isTrl="Y" original="Bank Statement Line">Строка выписки банка</value>
+    <value column="PrintName" isTrl="Y" original="Bank statement line">Строка выписки банка</value>
     <value column="Description" isTrl="N" original="A statement displaying one transaction in the bank statement.">A statement displaying one transaction in the bank statement.</value>
     <value column="Help" isTrl="N" original="The Bank Statement Line identifies a unique transaction (Payment, Withdrawal, Charge) for the defined time period at this Bank.">The Bank Statement Line identifies a unique transaction (Payment, Withdrawal, Charge) for the defined time period at this Bank.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4375,9 +4375,9 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1539" trl="N">
-    <value column="Name" isTrl="N" original="Total Amount">Total Amount</value>
-    <value column="PrintName" isTrl="N" original="Total Amt">Total Amt</value>
-    <value column="Description" isTrl="N" original="Total Amount">Total Amount</value>
+    <value column="Name" isTrl="N" original="Total Amount">Итоговая сумма</value>
+    <value column="PrintName" isTrl="N" original="Total Amt">Итоговая сумма</value>
+    <value column="Description" isTrl="N" original="Total Amount">Итоговая сумма</value>
     <value column="Help" isTrl="N" original="The Total Amount indicates the total document amount.">The Total Amount indicates the total document amount.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -4395,9 +4395,9 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1543" trl="N">
-    <value column="Name" isTrl="N" original="Actual Amount">Actual Amount</value>
-    <value column="PrintName" isTrl="N" original="Actual Amt">Actual Amt</value>
-    <value column="Description" isTrl="N" original="The actual amount">The actual amount</value>
+    <value column="Name" isTrl="N" original="Actual Amount">Текущая сумма</value>
+    <value column="PrintName" isTrl="N" original="Actual Amt">Текущая сумма</value>
+    <value column="Description" isTrl="N" original="The actual amount">Текущая сумма</value>
     <value column="Help" isTrl="N" original="Actual amount indicates the agreed upon amount for a document.">Actual amount indicates the agreed upon amount for a document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -4405,8 +4405,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1544" trl="N">
-    <value column="Name" isTrl="N" original="Actual Quantity">Actual Quantity</value>
-    <value column="PrintName" isTrl="N" original="Actual Qty">Actual Qty</value>
+    <value column="Name" isTrl="N" original="Actual Quantity">Текущие количество</value>
+    <value column="PrintName" isTrl="N" original="Actual Qty">Текущие количество</value>
     <value column="Description" isTrl="N" original="The actual quantity">The actual quantity</value>
     <value column="Help" isTrl="N" original="The Actual Quantity indicates the quantity as referenced on a document.">The Actual Quantity indicates the quantity as referenced on a document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4435,8 +4435,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1547" trl="N">
-    <value column="Name" isTrl="N" original="Commission">Commission</value>
-    <value column="PrintName" isTrl="N" original="Commission">Commission</value>
+    <value column="Name" isTrl="Y" original="Commission">Комиссия</value>
+    <value column="PrintName" isTrl="Y" original="Commission">Комиссия</value>
     <value column="Description" isTrl="N" original="Commission Identifier">Commission Identifier</value>
     <value column="Help" isTrl="N" original="The Commission ID is a unique identifier of a set of commission rules.">The Commission ID is a unique identifier of a set of commission rules.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4445,8 +4445,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1548" trl="N">
-    <value column="Name" isTrl="N" original="Commission Amount">Commission Amount</value>
-    <value column="PrintName" isTrl="N" original="Commission Amt">Commission Amt</value>
+    <value column="Name" isTrl="Y" original="Commission Amount">Сумма комиссии</value>
+    <value column="PrintName" isTrl="Y" original="Commission Amt">Сумма комиссии</value>
     <value column="Description" isTrl="N" original="Generated Commission Amount">Generated Commission Amount</value>
     <value column="Help" isTrl="N" original="The Commission Amount indicates the resulting amount from a Commission Run.">The Commission Amount indicates the resulting amount from a Commission Run.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4455,9 +4455,9 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1549" trl="N">
-    <value column="Name" isTrl="N" original="Commission Line">Commission Line</value>
-    <value column="PrintName" isTrl="N" original="Commission Line">Commission Line</value>
-    <value column="Description" isTrl="N" original="Commission Line">Commission Line</value>
+    <value column="Name" isTrl="Y" original="Commission Line">Строка комиссии</value>
+    <value column="PrintName" isTrl="Y" original="Commission Line">Строка комиссии</value>
+    <value column="Description" isTrl="Y" original="Commission Line">Строка комиссии</value>
     <value column="Help" isTrl="N" original="The Commission Line is a unique instance of a Commission Run.  If the commission run was done in summary mode then there will be a single line representing the selected documents totals.  If the commission run was done in detail mode then each document that was included in the run will have its own commission line.">The Commission Line is a unique instance of a Commission Run.  If the commission run was done in summary mode then there will be a single line representing the selected documents totals.  If the commission run was done in detail mode then each document that was included in the run will have its own commission line.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -4475,8 +4475,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1550" trl="N">
-    <value column="Name" isTrl="N" original="Project Cycle">Project Cycle</value>
-    <value column="PrintName" isTrl="N" original="Project Cycle">Project Cycle</value>
+    <value column="Name" isTrl="Y" original="Project Cycle">Цикл проекта</value>
+    <value column="PrintName" isTrl="Y" original="Project Cycle">Цикл проекта</value>
     <value column="Description" isTrl="N" original="Identifier for this Project Reporting Cycle">Identifier for this Project Reporting Cycle</value>
     <value column="Help" isTrl="N" original="Identifies a Project Cycle which can be made up of one or more cycle steps and cycle phases.">Identifies a Project Cycle which can be made up of one or more cycle steps and cycle phases.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4485,8 +4485,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1552" trl="N">
-    <value column="Name" isTrl="N" original="Project Line">Project Line</value>
-    <value column="PrintName" isTrl="N" original="Project Line">Project Line</value>
+    <value column="Name" isTrl="Y" original="Project Line">Строка проекта</value>
+    <value column="PrintName" isTrl="Y" original="Project Line">Строка проекта</value>
     <value column="Description" isTrl="N" original="Task or step in a project">Task or step in a project</value>
     <value column="Help" isTrl="N" original="The Project Line indicates a unique project line.">The Project Line indicates a unique project line.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4495,9 +4495,9 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1554" trl="N">
-    <value column="Name" isTrl="N" original="Amount">Amount</value>
-    <value column="PrintName" isTrl="N" original="Amount">Amount</value>
-    <value column="Description" isTrl="N" original="Commission Amount">Commission Amount</value>
+    <value column="Name" isTrl="Y" original="Amount">Сумма комиссии</value>
+    <value column="PrintName" isTrl="Y" original="Amount">Сумма комиссии</value>
+    <value column="Description" isTrl="Y" original="Commission Amount">Сумма комиссии</value>
     <value column="Help" isTrl="N" original="The Commission Amount is the total calculated commission.  It is based on the parameters as defined for this Commission Run.">The Commission Amount is the total calculated commission.  It is based on the parameters as defined for this Commission Run.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -4745,8 +4745,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="160" trl="N">
-    <value column="Name" isTrl="N" original="Amount">Amount</value>
-    <value column="PrintName" isTrl="N" original="Amt">Amt</value>
+    <value column="Name" isTrl="N" original="Amount">Сумма</value>
+    <value column="PrintName" isTrl="N" original="Amt">Сумма</value>
     <value column="Description" isTrl="N" original="A monetary sum of two or more quantities.">A monetary sum of two or more quantities.</value>
     <value column="Help" isTrl="N" original="Amount">Amount</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4755,8 +4755,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1606" trl="N">
-    <value column="Name" isTrl="N" original="Column Type">Column Type</value>
-    <value column="PrintName" isTrl="N" original="Column Type">Column Type</value>
+    <value column="Name" isTrl="N" original="Column Type">Тип столбца</value>
+    <value column="PrintName" isTrl="N" original="Column Type">Тип столбца</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9353,8 +9353,8 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="44451AE2A25C4722A5A68EAF8DC1A125" trl="N">
-    <value column="Name" isTrl="N" original="Set Amount">Set Amount</value>
-    <value column="PrintName" isTrl="N" original="Amount">Amount</value>
+    <value column="Name" isTrl="N" original="Set Amount">Задана сумма</value>
+    <value column="PrintName" isTrl="N" original="Amount">Сумма</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -17659,7 +17659,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
   <row id="800582" trl="N">
     <value column="Name" isTrl="Y" original="Min. Amount">Cумма от</value>
     <value column="PrintName" isTrl="Y" original="Amnt From">Мин. сумма</value>
-    <value column="Description" isTrl="N" original="Amount from">Amount from</value>
+    <value column="Description" isTrl="N" original="Amount from">Сумма от</value>
     <value column="Help" isTrl="N" original="The minumun amount the discount is applied to.">The minumun amount the discount is applied to.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -17669,7 +17669,7 @@ Process Quantity = Quantity  x  Conversion Rate</value>
   <row id="800583" trl="N">
     <value column="Name" isTrl="Y" original="Max. Amount">Сумма до</value>
     <value column="PrintName" isTrl="Y" original="Amnt To">Макс. сумма</value>
-    <value column="Description" isTrl="N" original="Amount to">Amount to</value>
+    <value column="Description" isTrl="N" original="Amount to">Сумма до</value>
     <value column="Help" isTrl="N" original="The maximum amount the discount is applied to.">The maximum amount the discount is applied to.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -19677,18 +19677,18 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8189F49FFECC6E56E040007F01003E83" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Name">Business Partner Name</value>
-    <value column="PrintName" isTrl="N" original="Business Partner Name">Business Partner Name</value>
-    <value column="Description" isTrl="N" original="Business Partner Name">Business Partner Name</value>
-    <value column="Help" isTrl="N" original="Business Partner Name">Business Partner Name</value>
+    <value column="Name" isTrl="Y" original="Business Partner Name">Название контрагента</value>
+    <value column="PrintName" isTrl="Y" original="Business Partner Name">Название контрагента</value>
+    <value column="Description" isTrl="N" original="Business Partner Name">Название контрагента</value>
+    <value column="Help" isTrl="N" original="Business Partner Name">Название контрагента</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8189F49FFECD6E56E040007F01003E83" trl="N">
-    <value column="Name" isTrl="N" original="Bank Statement Line">Bank Statement Line</value>
-    <value column="PrintName" isTrl="N" original="Bank Statement Line">Bank Statement Line</value>
+    <value column="Name" isTrl="Y" original="Bank Statement Line">Строка выписки банка</value>
+    <value column="PrintName" isTrl="Y" original="Bank Statement Line">Строка выписки банка</value>
     <value column="Description" isTrl="N" original="Line related to the bank statement">Line related to the bank statement</value>
     <value column="Help" isTrl="N" original="Line related to the bank statement">Line related to the bank statement</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19727,18 +19727,18 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8189F49FFEED6E56E040007F01003E83" trl="N">
-    <value column="Name" isTrl="N" original="Print Summary">Print Summary</value>
-    <value column="PrintName" isTrl="N" original="Print Summary">Print Summary</value>
-    <value column="Description" isTrl="N" original="Print Summary">Print Summary</value>
-    <value column="Help" isTrl="N" original="Print Summary">Print Summary</value>
+    <value column="Name" isTrl="Y" original="Print Summary">Напечатанная сумма</value>
+    <value column="PrintName" isTrl="Y" original="Print Summary">Напечатанная сумма</value>
+    <value column="Description" isTrl="Y" original="Print Summary">Напечатанная сумма</value>
+    <value column="Help" isTrl="Y" original="Print Summary">Напечатанная сумма</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8189F57B424689CBE040007F01003EE0" trl="N">
-    <value column="Name" isTrl="N" original="Bank Statement">Bank Statement</value>
-    <value column="PrintName" isTrl="N" original="Bank Statement">Bank Statement</value>
+    <value column="Name" isTrl="Y" original="Bank Statement">Выписка банка</value>
+    <value column="PrintName" isTrl="Y" original="Bank Statement">Выписка банка</value>
     <value column="Description" isTrl="N" original="Bank statements related to a financial account">Bank statements related to a financial account</value>
     <value column="Help" isTrl="N" original="Bank statements loaded for the given financial account">Bank statements loaded for the given financial account</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19747,8 +19747,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8189F57B424789CBE040007F01003EE0" trl="N">
-    <value column="Name" isTrl="N" original="Reconciliation">Reconciliation</value>
-    <value column="PrintName" isTrl="N" original="Reconciliation">Reconciliation</value>
+    <value column="Name" isTrl="Y" original="Reconciliation">Согласование</value>
+    <value column="PrintName" isTrl="Y" original="Reconciliation">Согласование</value>
     <value column="Description" isTrl="N" original="Reconciliation events related to the financial account">Reconciliation events related to the financial account</value>
     <value column="Help" isTrl="N" original="Reconciliation events related to the financial account">Reconciliation events related to the financial account</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -19757,8 +19757,8 @@ Process Quantity = Quantity  x  Conversion Rate</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8189F57B424889CBE040007F01003EE0" trl="N">
-    <value column="Name" isTrl="N" original="Import Date">Import Date</value>
-    <value column="PrintName" isTrl="N" original="Import Date">Import Date</value>
+    <value column="Name" isTrl="Y" original="Import Date">Дата загрузки</value>
+    <value column="PrintName" isTrl="Y" original="Import Date">Дата загрузки</value>
     <value column="Description" isTrl="N" original="Import date of the bank file">Import date of the bank file</value>
     <value column="Help" isTrl="N" original="Import date of the bank file">Import date of the bank file</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20329,8 +20329,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="876D355A748612B0E040007F01007860" trl="N">
-    <value column="Name" isTrl="N" original="Input Type">Input Type</value>
-    <value column="PrintName" isTrl="N" original="Input Type">Input Type</value>
+    <value column="Name" isTrl="Y" original="Input Type">Тип входного параметра</value>
+    <value column="PrintName" isTrl="Y" original="Input Type">Тип входного параметра</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Defines the Input type of the In type parameter.">Defines the Input type of the In type parameter.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20339,8 +20339,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="876D355A748712B0E040007F01007860" trl="N">
-    <value column="Name" isTrl="N" original="Default Text Value">Default Text Value</value>
-    <value column="PrintName" isTrl="N" original="Default Text Value">Default Text Value</value>
+    <value column="Name" isTrl="Y" original="Default Text Value">Текстовое значение по-умолчанию</value>
+    <value column="PrintName" isTrl="Y" original="Default Text Value">Текстовое значение по-умолчанию</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="String that will be shown by default for Text type parameters.">String that will be shown by default for Text type parameters.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20349,8 +20349,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="876D70C14F9B0860E040007F0100787B" trl="N">
-    <value column="Name" isTrl="N" original="Parameter Type">Parameter Type</value>
-    <value column="PrintName" isTrl="N" original="Parameter Type">Parameter Type</value>
+    <value column="Name" isTrl="Y" original="Parameter Type">Тип параметра</value>
+    <value column="PrintName" isTrl="Y" original="Parameter Type">Тип параметра</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Defines the Execution Process Parameter type.">Defines the Execution Process Parameter type.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20359,8 +20359,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="876D70C14FAD0860E040007F0100787B" trl="N">
-    <value column="Name" isTrl="N" original="Payment Run">Payment Run</value>
-    <value column="PrintName" isTrl="N" original="Payment Run">Payment Run</value>
+    <value column="Name" isTrl="Y" original="Payment Run">Запустить обработку</value>
+    <value column="PrintName" isTrl="Y" original="Payment Run">Запустить обработку</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Identifies each run of an Execution Process">Identifies each run of an Execution Process</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20369,8 +20369,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="876D70C14FAE0860E040007F0100787B" trl="N">
-    <value column="Name" isTrl="N" original="Source of the Execution">Source of the Execution</value>
-    <value column="PrintName" isTrl="N" original="Source of the Execution">Source of the Execution</value>
+    <value column="Name" isTrl="N" original="Source of the Execution">Источник обработки</value>
+    <value column="PrintName" isTrl="N" original="Source of the Execution">Источник обработки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Defines the source that has caused the Execution Process run.">Defines the source that has caused the Execution Process run.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20389,8 +20389,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="877E302527931536E040007F010060E9" trl="N">
-    <value column="Name" isTrl="N" original="Execution Process">Execution Process</value>
-    <value column="PrintName" isTrl="N" original="Execution Process">Execution Process</value>
+    <value column="Name" isTrl="Y" original="Execution Process">Выполнять обработку</value>
+    <value column="PrintName" isTrl="Y" original="Execution Process">Выполнять обработку</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Execution process to be used in the Payment In flow">Execution process to be used in the Payment In flow</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20399,8 +20399,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="877E302527941536E040007F010060E9" trl="N">
-    <value column="Name" isTrl="N" original="Deferred">Deferred</value>
-    <value column="PrintName" isTrl="N" original="Deferred">Deferred</value>
+    <value column="Name" isTrl="Y" original="Deferred">Отложить обработку</value>
+    <value column="PrintName" isTrl="Y" original="Deferred">Отложить обработку</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Sets that the Executiion Process is deferred in the Payment In flow.">Sets that the Executiion Process is deferred in the Payment In flow.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20409,8 +20409,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="877E302527951536E040007F010060E9" trl="N">
-    <value column="Name" isTrl="N" original="Payment Out Allowed">Payment Out Allowed</value>
-    <value column="PrintName" isTrl="N" original="Payment Out Allowed">Payment Out Allowed</value>
+    <value column="Name" isTrl="Y" original="Payment Out Allowed">Разрешено выплачивать платежи</value>
+    <value column="PrintName" isTrl="Y" original="Payment Out Allowed">Разрешено выплачивать платежи</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Sets that Payment Ins are allowed.">Sets that Payment Ins are allowed.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20419,8 +20419,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="877E302527961536E040007F010060E9" trl="N">
-    <value column="Name" isTrl="N" original="Payment In Allowed">Payment In Allowed</value>
-    <value column="PrintName" isTrl="N" original="Payment In Allowed">Payment In Allowed</value>
+    <value column="Name" isTrl="Y" original="Payment In Allowed">Разрешено принимать платежи</value>
+    <value column="PrintName" isTrl="Y" original="Payment In Allowed">Разрешено принимать платежи</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Sets that Payment Ins are allowed.">Sets that Payment Ins are allowed.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20429,8 +20429,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="877E302527971536E040007F010060E9" trl="N">
-    <value column="Name" isTrl="N" original="Execution Process">Execution Process</value>
-    <value column="PrintName" isTrl="N" original="Execution Process">Execution Process</value>
+    <value column="Name" isTrl="Y" original="Execution Process">Выполнять обработку</value>
+    <value column="PrintName" isTrl="Y" original="Execution Process">Выполнять обработку</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Execution process to be used in the Payment Out flow">Execution process to be used in the Payment Out flow</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20439,8 +20439,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="877E302527981536E040007F010060E9" trl="N">
-    <value column="Name" isTrl="N" original="Deferred">Deferred</value>
-    <value column="PrintName" isTrl="N" original="Deferred">Deferred</value>
+    <value column="Name" isTrl="Y" original="Deferred">Отложить обработку</value>
+    <value column="PrintName" isTrl="Y" original="Deferred">Отложить обработку</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Sets that the Execution Process is deferred in the Payment In flow.">Sets that the Execution Process is deferred in the Payment In flow.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -20459,9 +20459,9 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8791FFA10E864602B17E9DCE7EE3581C" trl="N">
-    <value column="Name" isTrl="N" original="Printed Name">Printed Name</value>
-    <value column="PrintName" isTrl="N" original="Printed Name">Printed Name</value>
-    <value column="Description" isTrl="N" original="Printed Name">Printed Name</value>
+    <value column="Name" isTrl="Y" original="Printed Name">Название для печати</value>
+    <value column="PrintName" isTrl="Y" original="Printed Name">Название для печати</value>
+    <value column="Description" isTrl="Y" original="Printed Name">Название для печати</value>
     <value column="Help" isTrl="N" original="Name that will be shown to final user in UI and reports to identify current promotion. In case it is empty, name will be used instead. In general, name should be used internally, whereas printed name is intended to be read by user.">Name that will be shown to final user in UI and reports to identify current promotion. In case it is empty, name will be used instead. In general, name should be used internally, whereas printed name is intended to be read by user.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -22905,8 +22905,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C0B77441B02C9E5FE040007F01005E72" trl="N">
-    <value column="Name" isTrl="N" original="Reversed Payment">Reversed Payment</value>
-    <value column="PrintName" isTrl="N" original="Reversed Payment">Reversed Payment</value>
+    <value column="Name" isTrl="Y" original="Reversed Payment">Возврат оплаты</value>
+    <value column="PrintName" isTrl="Y" original="Reversed Payment">Возврат оплаты</value>
     <value column="Description" isTrl="N" original="Payment which reverses current payment">Payment which reverses current payment</value>
     <value column="Help" isTrl="N" original="Payment which reverses current payment">Payment which reverses current payment</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22915,8 +22915,8 @@ The main purpose of this whereclause is to select which of the records in a part
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C0FEDDACE59D4AA59AFB2D1D65D748E0" trl="N">
-    <value column="Name" isTrl="N" original="Payment Proposal">Payment Proposal</value>
-    <value column="PrintName" isTrl="N" original="Payment Proposal">Payment Proposal</value>
+    <value column="Name" isTrl="Y" original="Payment Proposal">Условие оплаты</value>
+    <value column="PrintName" isTrl="Y" original="Payment Proposal">Условие оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

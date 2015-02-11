@@ -701,8 +701,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="953F1D3D4A2C4A219B99A683A16602D2" trl="N">
-    <value column="Name" isTrl="N" original="Payment Date">Payment Date</value>
-    <value column="PrintName" isTrl="N" original="Payment Date">Payment Date</value>
+    <value column="Name" isTrl="Y" original="Payment Date">Дата платежа</value>
+    <value column="PrintName" isTrl="Y" original="Payment Date">Дата платежа</value>
     <value column="Description" isTrl="N" original="Date of the payment event. It is used in the posting record of the Payment to the general ledger. Defaulted to the Invoice Date field.">Date of the payment event. It is used in the posting record of the Payment to the general ledger. Defaulted to the Invoice Date field.</value>
     <value column="Help" isTrl="N" original="Date of the payment event. It is used in the posting record of the Payment to the general ledger. Defaulted to the Invoice Date field.">Date of the payment event. It is used in the posting record of the Payment to the general ledger. Defaulted to the Invoice Date field.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -711,8 +711,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="9FB9DF74E34449FCAC3702CD42CC8960" trl="N">
-    <value column="Name" isTrl="N" original="Bank Statement Type">Bank Statement Type</value>
-    <value column="PrintName" isTrl="N" original="Type">Type</value>
+    <value column="Name" isTrl="Y" original="Bank Statement Type">Тип выписки банка</value>
+    <value column="PrintName" isTrl="Y" original="Type">Тип</value>
     <value column="Description" isTrl="N" original="Type of bank statement line.">Type of bank statement line.</value>
     <value column="Help" isTrl="N" original="Indicates whether it is a deposit or a payment.">Indicates whether it is a deposit or a payment.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -721,10 +721,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="9FCD84F198D249BFA8EF60B56A6F6A6C" trl="N">
-    <value column="Name" isTrl="N" original="Payment Amount">Payment Amount</value>
-    <value column="PrintName" isTrl="N" original="Payment Amount">Payment Amount</value>
-    <value column="Description" isTrl="N" original="Payment Amount">Payment Amount</value>
-    <value column="Help" isTrl="N" original="Payment Amount">Payment Amount</value>
+    <value column="Name" isTrl="Y" original="Payment Amount">Сумма платежа</value>
+    <value column="PrintName" isTrl="Y" original="Payment Amount">Сумма платежа</value>
+    <value column="Description" isTrl="Y" original="Payment Amount">Сумма платежа</value>
+    <value column="Help" isTrl="Y" original="Payment Amount">Сумма платежа</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1083,10 +1083,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="DD07FB0992434B66BBFB08EA274E720A" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
-    <value column="PrintName" isTrl="N" original="Business Partner">Business Partner</value>
-    <value column="Description" isTrl="N" original="Business Partner Name">Business Partner Name</value>
-    <value column="Help" isTrl="N" original="Business Partner Name">Business Partner Name</value>
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
+    <value column="PrintName" isTrl="Y" original="Business Partner">Контрагент</value>
+    <value column="Description" isTrl="Y" original="Business Partner Name">Название контрагента</value>
+    <value column="Help" isTrl="Y" original="Business Partner Name">Название контрагента</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>

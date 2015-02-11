@@ -375,7 +375,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Business partners can be grouped into different categories with the aim of helping their management and analysis.">Business partners can be grouped into different categories with the aim of helping their management and analysis.</value>
   </row>
   <row id="194" trl="N">
-    <value column="Name" isTrl="N" original="Bank Statement">Bank Statement</value>
+    <value column="Name" isTrl="Y" original="Bank Statement">Выписка банка</value>
     <value column="Description" isTrl="N" original="View your bank statements against transactions created and edited in the application.">View your bank statements against transactions created and edited in the application.</value>
     <value column="Help" isTrl="N" original="View your bank statements against transactions created and edited in the application.">View your bank statements against transactions created and edited in the application.</value>
   </row>
@@ -390,7 +390,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add individual cash transactions to be managed and viewed in the cashbook.">Add individual cash transactions to be managed and viewed in the cashbook.</value>
   </row>
   <row id="1B7B3BB7FEAF41ED8D9727AB98779D3C" trl="N">
-    <value column="Name" isTrl="N" original="Payment Proposal">Payment Proposal</value>
+    <value column="Name" isTrl="Y" original="Payment Proposal">Условие оплаты</value>
     <value column="Description" isTrl="N" original="Generates a payment proposal for a selected payment method based on a criteria.">Generates a payment proposal for a selected payment method based on a criteria.</value>
     <value column="Help" isTrl="N" original="The payment proposal is a tool that helps the user to make payments by selecting the documents related to a given payment method or scheduled to be paid before a given due date. The system proposes what should be paid based on the selection criteria provided by the user.">The payment proposal is a tool that helps the user to make payments by selecting the documents related to a given payment method or scheduled to be paid before a given due date. The system proposes what should be paid based on the selection criteria provided by the user.</value>
   </row>
@@ -405,7 +405,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit the subsection field group properties of tabs.">Edit the subsection field group properties of tabs.</value>
   </row>
   <row id="207" trl="N">
-    <value column="Name" isTrl="N" original="Commission">Commission</value>
+    <value column="Name" isTrl="N" original="Commission">Комиссия</value>
     <value column="Description" isTrl="N" original="Define how and when you want commissions to be calculated and to whom they are to be paid.">Define how and when you want commissions to be calculated and to whom they are to be paid.</value>
     <value column="Help" isTrl="N" original="Define how and when commissions are going to be calculated and to whom they are going to be paid.">Define how and when commissions are going to be calculated and to whom they are going to be paid.</value>
   </row>

@@ -21,7 +21,7 @@
     <value column="Help" isTrl="N" original="Process to add new Payments from the G/L Journal Lines.">Process to add new Payments from the G/L Journal Lines.</value>
   </row>
   <row id="2224A72A74ED41E8AB02F64BB8C3637E" trl="N">
-    <value column="Name" isTrl="N" original="Original Due Date">Original Due Date</value>
+    <value column="Name" isTrl="N" original="Original Due Date">Первоначальный срок оплаты</value>
     <value column="Description" isTrl="N" original="Due date for the payment plan as per contract">Due date for the payment plan as per contract</value>
     <value column="Help" isTrl="N" original="Due date for the payment plan as per contract">Due date for the payment plan as per contract</value>
   </row>
@@ -31,9 +31,9 @@
     <value column="Help" isTrl="N" original="This can be used to input a reference for this specific transaction. For example, a Purchase Order number can be input on a Sales Order for easier reference.">This can be used to input a reference for this specific transaction. For example, a Purchase Order number can be input on a Sales Order for easier reference.</value>
   </row>
   <row id="37DF9510E7134AEC8CF265DB7C208207" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
-    <value column="Description" isTrl="N" original="Business Partner Name">Business Partner Name</value>
-    <value column="Help" isTrl="N" original="Business Partner Name">Business Partner Name</value>
+    <value column="Name" isTrl="Y" original="Business Partner">Контрагент</value>
+    <value column="Description" isTrl="Y" original="Business Partner Name">Название контрагента</value>
+    <value column="Help" isTrl="Y" original="Business Partner Name">Название контрагента</value>
   </row>
   <row id="75E24F44C2F34699A21222ACA723244E" trl="N">
     <value column="Name" isTrl="N" original="bslUpdated">bslUpdated</value>

@@ -1504,7 +1504,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Create and edit a new commission payment.">Create and edit a new commission payment.</value>
   </row>
   <row id="363" trl="N">
-    <value column="Name" isTrl="N" original="Amounts">Amounts</value>
+    <value column="Name" isTrl="Y" original="Amounts">Объём</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit individual sales order lines that yielded a selected commission.">Edit individual sales order lines that yielded a selected commission.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -4077,21 +4077,21 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="Y" original="Sets of data">Набор данных</value>
   </row>
   <row id="C56E698100314ABBBBD3A89626CA551C" trl="N">
-    <value column="Name" isTrl="N" original="Imported Bank Statements">Imported Bank Statements</value>
+    <value column="Name" isTrl="Y" original="Imported Bank Statements">Загруженные выписки банка</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The tab lists the imported bank statement files as well as the bank statements created manually.">The tab lists the imported bank statement files as well as the bank statements created manually.</value>
   </row>
   <row id="C65BA4DF317D46CDA72EF9414A3A23ED" trl="N">
-    <value column="Name" isTrl="N" original="Payment Run">Payment Run</value>
+    <value column="Name" isTrl="Y" original="Payment Run">Выполнить платёж</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="This tab shows all the group of payments executed together.">This tab shows all the group of payments executed together.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The execution date and the execution status of each payment run is shown in this window among other relevant data such as the source of the execution.">The execution date and the execution status of each payment run is shown in this window among other relevant data such as the source of the execution.</value>
   </row>
   <row id="C65FEEACC44241A1966AD608DD76CD88" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="Y" original="Header">Заголовок</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -4105,7 +4105,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Accounting information related to the material shipment">Accounting information related to the material shipment</value>
   </row>
   <row id="C9B5394DBA8C465C9CE26A361696B06E" trl="N">
-    <value column="Name" isTrl="N" original="Production Run">Production Run</value>
+    <value column="Name" isTrl="Y" original="Production Run">Запустить производство</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add progress details of the specified work requirements.">Add progress details of the specified work requirements.</value>
     <value column="Filtername" isTrl="N" original=""/>

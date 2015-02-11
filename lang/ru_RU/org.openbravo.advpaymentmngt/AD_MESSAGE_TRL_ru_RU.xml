@@ -218,11 +218,11 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7955CBDC1CB246FBB6BE1E2C5DD36ACC" trl="N">
-    <value column="MsgText" isTrl="N" original="Due Date">Due Date</value>
+    <value column="MsgText" isTrl="Y" original="Due Date">Дата погашения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7A71FF524AA04923A26AFA67ABE7FD26" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount refunded">Amount refunded</value>
+    <value column="MsgText" isTrl="Y" original="Amount refunded">Сумма возвратв</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7ADA423DD28042B181D3EB9AC5CF1DC0" trl="N">
@@ -358,11 +358,11 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B3D6AF0669DD4DF5BDF48A4D55F84C3C" trl="N">
-    <value column="MsgText" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="MsgText" isTrl="Y" original="Business Partner">Контрагент</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B47593972EA345E7B90F79C78908309A" trl="N">
-    <value column="MsgText" isTrl="N" original="Posted">Posted</value>
+    <value column="MsgText" isTrl="Y" original="Posted">Проведено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B51BB312751F42348FB240284FF9BC33" trl="N">
@@ -518,7 +518,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F5805CF012F5843BD3A005B" trl="N">
-    <value column="MsgText" isTrl="N" original="Bank Statement No.:">Bank Statement No.:</value>
+    <value column="MsgText" isTrl="N" original="Bank Statement No.:">Выписка банка №:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F967128012F969D366A0046" trl="N">

@@ -187,7 +187,7 @@
     <value column="Text" isTrl="N" original="Difference to clear">Difference to clear</value>
   </row>
   <row id="6233C9B1703E402E90E46301737F37D7" trl="N">
-    <value column="Text" isTrl="N" original="Payment Proposal:">Payment Proposal:</value>
+    <value column="Text" isTrl="N" original="Payment Proposal:">Условие оплаты:</value>
   </row>
   <row id="62BA1CFBB74F40A8A7FABBE150773580" trl="N">
     <value column="Text" isTrl="Y" original="This process will generate payments">Эта обработка генерирует платежи</value>
@@ -409,13 +409,13 @@
     <value column="Text" isTrl="N" original="Match using imported Bank Statement Lines">Match using imported Bank Statement Lines</value>
   </row>
   <row id="8549502AAE1A4052E040007F0101680D" trl="N">
-    <value column="Text" isTrl="N" original="Imported Bank Statement Lines">Imported Bank Statement Lines</value>
+    <value column="Text" isTrl="Y" original="Imported Bank Statement Lines">Строки загруженных выписок банка</value>
   </row>
   <row id="8549502AAE1E4052E040007F0101680D" trl="N">
     <value column="Text" isTrl="N" original="Transactions in Openbravo">Transactions in Openbravo</value>
   </row>
   <row id="8549502AAE204052E040007F0101680D" trl="N">
-    <value column="Text" isTrl="N" original="Sender">Sender</value>
+    <value column="Text" isTrl="Y" original="Sender">Отправитель</value>
   </row>
   <row id="8549502AAE224052E040007F0101680D" trl="N">
     <value column="Text" isTrl="N" original="Match">Match</value>
@@ -586,7 +586,7 @@
     <value column="Text" isTrl="Y" original="Invoice Currency">Вылюта счёт-фактуры</value>
   </row>
   <row id="9F4572C44CCA4FF2B4270B084382D60E" trl="N">
-    <value column="Text" isTrl="N" original="Due Date:">Due Date:</value>
+    <value column="Text" isTrl="Y" original="Due Date:">Дата погашения:</value>
   </row>
   <row id="A16BAF6A6B0B4A8F9D8BBFA4695E310C" trl="N">
     <value column="Text" isTrl="Y" original="Add Payment In/Out">Поступление/Выплата</value>
