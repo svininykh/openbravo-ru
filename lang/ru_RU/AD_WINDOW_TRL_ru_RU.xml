@@ -197,12 +197,12 @@ You can also select if transactions are allowed or not for this organization typ
 </value>
   </row>
   <row id="131" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Category">Г/К Категория</value>
+    <value column="Name" isTrl="Y" original="G/L Category">Категория в Г/К</value>
     <value column="Description" isTrl="N" original="Define G/L Categories to be used in the General Ledger.">Define G/L Categories to be used in the General Ledger.</value>
     <value column="Help" isTrl="N" original="Define G/L Categories to be used in the General Ledger.">Define G/L Categories to be used in the General Ledger.</value>
   </row>
   <row id="132" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Journal">Г/К Журнал</value>
+    <value column="Name" isTrl="Y" original="G/L Journal">Журнал по Г/К</value>
     <value column="Description" isTrl="N" original="Create and edit manual G/L journal entries.">Create and edit manual G/L journal entries.</value>
     <value column="Help" isTrl="N" original="A G/L (General Ledger) journal allows to post journal entries to the ledger and create G/L item payments.">A G/L (General Ledger) journal allows to post journal entries to the ledger and create G/L item payments.</value>
   </row>
@@ -925,7 +925,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
   </row>
   <row id="944C49CE80BE4F71B9917BD680A052A8" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost Type">Landed Cost Type</value>
+    <value column="Name" isTrl="N" original="Landed Cost Type">Тип накладных расходов</value>
     <value column="Description" isTrl="N" original="Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.">Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.</value>
     <value column="Help" isTrl="N" original="Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.">Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.</value>
   </row>
@@ -965,12 +965,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.">Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.</value>
   </row>
   <row id="B43A89704D864A6995BD5AC32201DBD9" trl="N">
-    <value column="Name" isTrl="N" original="Condition of the goods">Condition of the goods</value>
+    <value column="Name" isTrl="N" original="Condition of the goods">Состояние товаров</value>
     <value column="Description" isTrl="N" original="Condition of the goods to be used in window RM receipt">Condition of the goods to be used in window RM receipt</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B5673F73F613496C8BEA22FB55E4E1E4" trl="N">
-    <value column="Name" isTrl="N" original="End Year Close">End Year Close</value>
+    <value column="Name" isTrl="N" original="End Year Close">Закрытие в конце года</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -980,7 +980,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B917E8A7B0864ACEA9D941E3B7494E53" trl="N">
-    <value column="Name" isTrl="N" original="Simple G/L Journal">Simple G/L Journal</value>
+    <value column="Name" isTrl="N" original="Simple G/L Journal">Простой журнал по Г/К</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -990,17 +990,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="C846A9EFF5D741A693029D516432BF6C" trl="N">
-    <value column="Name" isTrl="N" original="Process Group">Process Group</value>
+    <value column="Name" isTrl="N" original="Process Group">Групповая обработка</value>
     <value column="Description" isTrl="N" original="Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.">Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.</value>
     <value column="Help" isTrl="N" original="Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.">Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.</value>
   </row>
   <row id="C85110C9334B4C26BA29BB3B91000689" trl="N">
-    <value column="Name" isTrl="N" original="Stock Reservation">Stock Reservation</value>
+    <value column="Name" isTrl="N" original="Stock Reservation">Резерв остатка</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="In this window is possible to review and manage existing Reservations.">In this window is possible to review and manage existing Reservations.</value>
   </row>
   <row id="D1B11CBC0FEF4CA0B44D3BECEBA219BC" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost">Landed Cost</value>
+    <value column="Name" isTrl="N" original="Landed Cost">Накладные расходы</value>
     <value column="Description" isTrl="N" original="Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.">Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.</value>
     <value column="Help" isTrl="N" original="Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.">Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.</value>
   </row>

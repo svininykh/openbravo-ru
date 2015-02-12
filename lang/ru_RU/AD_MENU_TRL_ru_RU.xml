@@ -109,11 +109,11 @@
     <value column="Description" isTrl="N" original="Create and edit projects and tasks potentially requiring sales invoicing.">Create and edit projects and tasks potentially requiring sales invoicing.</value>
   </row>
   <row id="117" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Category">Г/К Категория</value>
+    <value column="Name" isTrl="Y" original="G/L Category">Категория в Г/К</value>
     <value column="Description" isTrl="N" original="Define G/L Categories to be used in the General Ledger.">Define G/L Categories to be used in the General Ledger.</value>
   </row>
   <row id="118" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Journal">Г/К Журнал</value>
+    <value column="Name" isTrl="Y" original="G/L Journal">Журнал по Г/К</value>
     <value column="Description" isTrl="N" original="Create and edit manual G/L journal entries.">Create and edit manual G/L journal entries.</value>
   </row>
   <row id="120" trl="N">
@@ -773,7 +773,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="70EA2A01CB2444FC9F2139FCEB9BA7D7" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost Type">Landed Cost Type</value>
+    <value column="Name" isTrl="N" original="Landed Cost Type">Тип накладных расходов</value>
     <value column="Description" isTrl="N" original="Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.">Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.</value>
   </row>
   <row id="75B726735EA7497C9DB06E35B1CBFD86" trl="N">
@@ -785,8 +785,8 @@
     <value column="Description" isTrl="N" original="Define values of a selected field, depending on the tab that is being edited.">Define values of a selected field, depending on the tab that is being edited.</value>
   </row>
   <row id="800005" trl="N">
-    <value column="Name" isTrl="Y" original="Journal Entries Report">Журнал регистров</value>
-    <value column="Description" isTrl="Y" original="Journal Entries Report">Журнал регистров</value>
+    <value column="Name" isTrl="Y" original="Journal Entries Report">Отчет по проводкам</value>
+    <value column="Description" isTrl="Y" original="Journal Entries Report">Отчет по проводкам</value>
   </row>
   <row id="800006" trl="N">
     <value column="Name" isTrl="Y" original="General Ledger Report">Оборотно сальдовая ведомость</value>
@@ -1525,7 +1525,7 @@
     <value column="Description" isTrl="Y" original="Reset Accounting Entries">Убрать регистры проводок</value>
   </row>
   <row id="D0EB635DAB004B16B636122FEA516898" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost">Landed Cost</value>
+    <value column="Name" isTrl="N" original="Landed Cost">Накладные расходы</value>
     <value column="Description" isTrl="N" original="Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.">Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.</value>
   </row>
   <row id="D13B4DBDCBF747BB9A91B17CBC6D1AA5" trl="N">
@@ -1545,7 +1545,7 @@
     <value column="Description" isTrl="Y" original="Dataset">Набор данных</value>
   </row>
   <row id="ED7B60C9919F48C096F93B58128DE565" trl="N">
-    <value column="Name" isTrl="N" original="Simple G/L Journal">Simple G/L Journal</value>
+    <value column="Name" isTrl="N" original="Simple G/L Journal">Простой журнал по Г/К</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="EEC07584F29040388C9BAA388BC4C2D0" trl="N">

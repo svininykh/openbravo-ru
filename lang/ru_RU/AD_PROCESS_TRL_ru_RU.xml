@@ -730,8 +730,8 @@ When the process is finished it is recommended to schedule the "Costing Backgrou
     <value column="Help" isTrl="N" original="Creates standard module for customizations">Creates standard module for customizations</value>
   </row>
   <row id="800000" trl="N">
-    <value column="Name" isTrl="Y" original="Journal Entries Report">Журнал регистров</value>
-    <value column="Description" isTrl="Y" original="Journal Entries Report">Журнал регистров</value>
+    <value column="Name" isTrl="Y" original="Journal Entries Report">Отчет по проводкам</value>
+    <value column="Description" isTrl="Y" original="Journal Entries Report">Отчет по проводкам</value>
     <value column="Help" isTrl="N" original="The journal entries report is a list of all the journal vouchers of an organization and general ledger shown in a chronological order.">The journal entries report is a list of all the journal vouchers of an organization and general ledger shown in a chronological order.</value>
   </row>
   <row id="800001" trl="N">
@@ -1118,9 +1118,9 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Process Internal Consumption">Process Internal Consumption</value>
   </row>
   <row id="800133" trl="N">
-    <value column="Name" isTrl="Y" original="Journal Entries Report Detail">Журнал регистров детальный отчёт</value>
-    <value column="Description" isTrl="Y" original="Journal Entries Report detail">Журнал регистров детальный отчёт</value>
-    <value column="Help" isTrl="Y" original="Journal Entries Report detail">Журнал регистров детальный отчёт</value>
+    <value column="Name" isTrl="Y" original="Journal Entries Report Detail">Отчет по проводкам детально</value>
+    <value column="Description" isTrl="Y" original="Journal Entries Report detail">Отчет по проводкам детально</value>
+    <value column="Help" isTrl="Y" original="Journal Entries Report detail">Отчет по проводкам детально</value>
   </row>
   <row id="800134" trl="N">
     <value column="Name" isTrl="N" original="Post Amortization">Post Amortization</value>

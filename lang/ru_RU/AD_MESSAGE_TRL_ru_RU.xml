@@ -540,8 +540,8 @@ Control Digit must be length 1.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1002100000" trl="N">
-    <value column="MsgText" isTrl="N" original="Type of Report Can't Be Null">Type of Report Can't Be Null</value>
-    <value column="MsgTip" isTrl="N" original="Choose a Type of Report">Choose a Type of Report</value>
+    <value column="MsgText" isTrl="Y" original="Type of Report Can't Be Null">Не задан тип отчёта</value>
+    <value column="MsgTip" isTrl="Y" original="Choose a Type of Report">Выберите тип отчёта</value>
   </row>
   <row id="1002100001" trl="N">
     <value column="MsgText" isTrl="N" original="The amounts of the Canceled not charge and Generated amount for Witholding do not match">The amounts of the Canceled not charge and Generated amount for Witholding do not match</value>
@@ -1693,7 +1693,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="16EED9CBA19748FC9E63BB60F316B24D" trl="N">
-    <value column="MsgText" isTrl="N" original="Number of Payments created:">Number of Payments created:</value>
+    <value column="MsgText" isTrl="N" original="Number of Payments created:">Создано платежей</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="170" trl="N">
@@ -2546,7 +2546,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2AAD63985F6347A38D66D66A0DF86957" trl="N">
-    <value column="MsgText" isTrl="N" original="Processing module">Processing module</value>
+    <value column="MsgText" isTrl="Y" original="Processing module">Модуль обработки</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2ADD7BAB84FF44F8BA55C270DC4F7F41" trl="N">
@@ -7466,7 +7466,7 @@ Do you want to propagate this value to all payment methods?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="A2647B75CEFA4460BD7D486262772191" trl="N">
-    <value column="MsgText" isTrl="N" original="Create accounting flag was active, but no file was provided, and no accounting module was selected.">Create accounting flag was active, but no file was provided, and no accounting module was selected.</value>
+    <value column="MsgText" isTrl="Y" original="Create accounting flag was active, but no file was provided, and no accounting module was selected.">Выбрано ведение бухгалтерского учёта, но файл с планом счетов не задан и не выбран бухгалтерский модуль.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="A29E0EA08B7B49B6A89722E6DD67A4EE" trl="N">

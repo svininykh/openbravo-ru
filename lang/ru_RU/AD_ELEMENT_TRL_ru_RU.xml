@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_ELEMENT" version="">
   <row id="000AC0F629015A1FE050007F010018C3" trl="N">
-    <value column="Name" isTrl="N" original="Unit Cost">Unit Cost</value>
-    <value column="PrintName" isTrl="N" original="Unit Cost">Unit Cost</value>
+    <value column="Name" isTrl="N" original="Unit Cost">Стоимость за единицу</value>
+    <value column="PrintName" isTrl="N" original="Unit Cost">Стоимость за единицу</value>
     <value column="Description" isTrl="N" original="When checked the cost amount is considered part of the unit cost of the transaction or a cost added like freight costs or insurance costs.">When checked the cost amount is considered part of the unit cost of the transaction or a cost added like freight costs or insurance costs.</value>
     <value column="Help" isTrl="N" original="When checked the cost amount is considered part of the unit cost of the transaction or a cost added like freight costs or insurance costs.">When checked the cost amount is considered part of the unit cost of the transaction or a cost added like freight costs or insurance costs.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11,8 +11,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="001D6CB1D0B467ABE050007F0100057B" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost Type">Landed Cost Type</value>
-    <value column="PrintName" isTrl="N" original="Landed Cost Type">Landed Cost Type</value>
+    <value column="Name" isTrl="N" original="Landed Cost Type">Тип накладных расходов</value>
+    <value column="PrintName" isTrl="N" original="Landed Cost Type">Тип накладных расходов</value>
     <value column="Description" isTrl="N" original="Defines a type of Landed Cost Amount that can be assigned to a Receipt">Defines a type of Landed Cost Amount that can be assigned to a Receipt</value>
     <value column="Help" isTrl="N" original="Defines a type of Landed Cost Amount that can be assigned to a Receipt">Defines a type of Landed Cost Amount that can be assigned to a Receipt</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -31,8 +31,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="0056819E5113679FE050007F01000569" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost Cost">Landed Cost Cost</value>
-    <value column="PrintName" isTrl="N" original="Landed Cost Cost">Landed Cost Cost</value>
+    <value column="Name" isTrl="N" original="Landed Cost Cost">Сумма накладных расходов</value>
+    <value column="PrintName" isTrl="N" original="Landed Cost Cost">Сумма накладных расходов</value>
     <value column="Description" isTrl="N" original="Each Landed Cost amount to be included in the Landed Cost document.">Each Landed Cost amount to be included in the Landed Cost document.</value>
     <value column="Help" isTrl="N" original="Each Landed Cost amount to be included in the Landed Cost document.">Each Landed Cost amount to be included in the Landed Cost document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -41,8 +41,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="0056819E5126679FE050007F01000569" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost Receipt">Landed Cost Receipt</value>
-    <value column="PrintName" isTrl="N" original="Landed Cost Receipt Line">Landed Cost Receipt Line</value>
+    <value column="Name" isTrl="N" original="Landed Cost Receipt">Накладные расходы по чеку</value>
+    <value column="PrintName" isTrl="N" original="Landed Cost Receipt Line">Накладные расходы по строке чека</value>
     <value column="Description" isTrl="N" original="Identifies each Receipt assigned to the Landed Cost Document with the corresponding amount.">Identifies each Receipt assigned to the Landed Cost Document with the corresponding amount.</value>
     <value column="Help" isTrl="N" original="Identifies each Receipt assigned to the Landed Cost Document with the corresponding amount.">Identifies each Receipt assigned to the Landed Cost Document with the corresponding amount.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -51,8 +51,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="00568254CB598733E050007F01000513" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost">Landed Cost</value>
-    <value column="PrintName" isTrl="N" original="Landed Cost">Landed Cost</value>
+    <value column="Name" isTrl="N" original="Landed Cost">Накладные расходы</value>
+    <value column="PrintName" isTrl="N" original="Landed Cost">Накладные расходы</value>
     <value column="Description" isTrl="N" original="Document that relates Landed Costs like Freights or Custom Taxes to Receipts">Document that relates Landed Costs like Freights or Custom Taxes to Receipts</value>
     <value column="Help" isTrl="N" original="Document that relates Landed Costs like Freights or Custom Taxes to Receipts">Document that relates Landed Costs like Freights or Custom Taxes to Receipts</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -61,8 +61,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="005AE3B9D4E73F7BE050007F010019F4" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost Receipt Line Amount">Landed Cost Receipt Line Amount</value>
-    <value column="PrintName" isTrl="N" original="Landed Cost Receipt Line Amount">Landed Cost Receipt Line Amount</value>
+    <value column="Name" isTrl="N" original="Landed Cost Receipt Line Amount">Сумма накладных расходов по строке чека</value>
+    <value column="PrintName" isTrl="N" original="Landed Cost Receipt Line Amount">Сумма накладных расходов по строке чека</value>
     <value column="Description" isTrl="N" original="Identifies the corresponding amount of each Landed Cost Cost assigned to each Receipt Line">Identifies the corresponding amount of each Landed Cost Cost assigned to each Receipt Line</value>
     <value column="Help" isTrl="N" original="Identifies the corresponding amount of each Landed Cost Cost assigned to each Receipt Line">Identifies the corresponding amount of each Landed Cost Cost assigned to each Receipt Line</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -91,8 +91,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="019BC2DE6AF315DDE050007F01002206" trl="N">
-    <value column="Name" isTrl="N" original="Original Cost">Original Cost</value>
-    <value column="PrintName" isTrl="N" original="Original Cost">Original Cost</value>
+    <value column="Name" isTrl="N" original="Original Cost">Базовая себестоимость</value>
+    <value column="PrintName" isTrl="N" original="Original Cost">Базовая себестоимость</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="It is the cost originally calculated before processing cost adjustments on related transactions.">It is the cost originally calculated before processing cost adjustments on related transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -101,8 +101,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="01A04D782909E4AAE050007F01000F57" trl="N">
-    <value column="Name" isTrl="N" original="Is Cost Permanent">Is Cost Permanent</value>
-    <value column="PrintName" isTrl="N" original="Is Cost Permanent">Is Cost Permanent</value>
+    <value column="Name" isTrl="N" original="Is Cost Permanent">Постоянная себестоимость</value>
+    <value column="PrintName" isTrl="N" original="Is Cost Permanent">Постоянная себестоимость</value>
     <value column="Description" isTrl="N" original="Determines whether the cost is permanently adjusted or not.  ">Determines whether the cost is permanently adjusted or not.  </value>
     <value column="Help" isTrl="N" original="Determines whether the cost is permanently adjusted or not.  ">Determines whether the cost is permanently adjusted or not.  </value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -131,8 +131,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="01D99D1115DC1C00E050007F0100700F" trl="N">
-    <value column="Name" isTrl="N" original="Total Cost">Total Cost</value>
-    <value column="PrintName" isTrl="N" original="Total Cost">Total Cost</value>
+    <value column="Name" isTrl="N" original="Total Cost">Итоговая себестоимость</value>
+    <value column="PrintName" isTrl="N" original="Total Cost">Итоговая себестоимость</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Represents the total Cost of the Transaction including all the Cost Adjustments">Represents the total Cost of the Transaction including all the Cost Adjustments</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -231,8 +231,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="0203C4D611392746E050007F0100412C" trl="N">
-    <value column="Name" isTrl="N" original="Products">Products</value>
-    <value column="PrintName" isTrl="N" original="Products">Products</value>
+    <value column="Name" isTrl="N" original="Products">Товары</value>
+    <value column="PrintName" isTrl="N" original="Products">Товары</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -331,8 +331,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="03E129670345D454E050007F01004072" trl="N">
-    <value column="Name" isTrl="N" original="Currency">Currency</value>
-    <value column="PrintName" isTrl="N" original="Currency">Currency</value>
+    <value column="Name" isTrl="N" original="Currency">Валюта</value>
+    <value column="PrintName" isTrl="N" original="Currency">Валюта</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -563,8 +563,8 @@ If one of the trees of a table uses the ADTree tree structure, that must be the 
     <value column="PO_PrintName" isTrl="Y" original="Movement Date">Дата перемещения</value>
   </row>
   <row id="1000" trl="N">
-    <value column="Name" isTrl="N" original="User can start process">User can start process</value>
-    <value column="PrintName" isTrl="N" original="User can start process">User can start process</value>
+    <value column="Name" isTrl="N" original="User can start process">Пользователь может запустить обработку</value>
+    <value column="PrintName" isTrl="N" original="User can start process">Пользователь может запустить обработку</value>
     <value column="Description" isTrl="N" original="Determines a process can be initiated by the user">Determines a process can be initiated by the user</value>
     <value column="Help" isTrl="N" original="The User can start Process checkbox indicates that this process can be initiated by the user (as opposed to system initiated)">The User can start Process checkbox indicates that this process can be initiated by the user (as opposed to system initiated)</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -979,10 +979,10 @@ References will be replaced by values:
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1002100018" trl="N">
-    <value column="Name" isTrl="N" original="Register Name">Register Name</value>
-    <value column="PrintName" isTrl="N" original="Register name">Register name</value>
-    <value column="Description" isTrl="N" original="Register name">Register name</value>
-    <value column="Help" isTrl="N" original="Register name">Register name</value>
+    <value column="Name" isTrl="N" original="Register Name">Название регистра</value>
+    <value column="PrintName" isTrl="N" original="Register name">Название регистра</value>
+    <value column="Description" isTrl="N" original="Register name">Название регистра</value>
+    <value column="Help" isTrl="N" original="Register name">Название регистра</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -8199,8 +8199,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="309" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Category">Г/К Категория</value>
-    <value column="PrintName" isTrl="Y" original="GL Category">Г/К Категория</value>
+    <value column="Name" isTrl="Y" original="G/L Category">Категория в Г/К</value>
+    <value column="PrintName" isTrl="Y" original="GL Category">Категория в Г/К</value>
     <value column="Description" isTrl="N" original="A classification used to group lines in the general ledger.">A classification used to group lines in the general ledger.</value>
     <value column="Help" isTrl="N" original="The General Ledger Category is an optional, user defined method of grouping journal lines.">The General Ledger Category is an optional, user defined method of grouping journal lines.</value>
     <value column="PO_Description" isTrl="N" original=""/>

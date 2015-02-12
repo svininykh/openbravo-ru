@@ -43,7 +43,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="0F76B56EB2874C729ABE1665D5853E9D" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost">Landed Cost</value>
+    <value column="Name" isTrl="N" original="Landed Cost">Накладные расходы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Landed Cost tab allows to allocate additional costs to the goods receipt.">Landed Cost tab allows to allocate additional costs to the goods receipt.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -474,7 +474,7 @@ Define application initiated information and error messages.
     <value column="Help" isTrl="N" original="Create and plan a multiphase project.">Create and plan a multiphase project.</value>
   </row>
   <row id="158" trl="N">
-    <value column="Name" isTrl="Y" original="G/L Category">Г/К Категория</value>
+    <value column="Name" isTrl="Y" original="G/L Category">Категория в Г/К</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define G/L Categories to be used in the General Ledger.">Define G/L Categories to be used in the General Ledger.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2185,7 +2185,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add invoices corresponding to the outsourced part of a completed work requirement.">Add invoices corresponding to the outsourced part of a completed work requirement.</value>
   </row>
   <row id="5EE59CF00EF846DD953BB27BBF44E696" trl="N">
-    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="Name" isTrl="N" original="Header">Заголовок</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Landed Cost Types can be defined either as a &quot;Product&quot; or as an &quot;Account&quot; (G/L Item). Besides that a distribution algorithm can be define to configure the way landed costs are going to be allocated to products.">Landed Cost Types can be defined either as a "Product" or as an "Account" (G/L Item). Besides that a distribution algorithm can be define to configure the way landed costs are going to be allocated to products.</value>
     <value column="Filtername" isTrl="N" original=""/>
