@@ -273,7 +273,7 @@
     <value column="Description" isTrl="N" original="Open a folder where you can define all information to be used in this module.">Open a folder where you can define all information to be used in this module.</value>
   </row>
   <row id="165" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Rules">Business Partner Rules</value>
+    <value column="Name" isTrl="N" original="Business Partner Rules">Условия контрагента</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="166" trl="N">
@@ -361,8 +361,8 @@
     <value column="Description" isTrl="N" original="Import a client from xml">Import a client from xml</value>
   </row>
   <row id="202" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Transactions">Invoice Transactions</value>
-    <value column="Description" isTrl="N" original="Invoice Transactions">Invoice Transactions</value>
+    <value column="Name" isTrl="N" original="Invoice Transactions">Проводки по счет-фактуре</value>
+    <value column="Description" isTrl="N" original="Invoice Transactions">Проводки по счет-фактуре</value>
   </row>
   <row id="203" trl="N">
     <value column="Name" isTrl="Y" original="Procurement Management">Управление поставками</value>
@@ -389,12 +389,12 @@
     <value column="Description" isTrl="N" original="Here you define the return reason">Here you define the return reason</value>
   </row>
   <row id="210" trl="N">
-    <value column="Name" isTrl="N" original="Daily Invoice">Daily Invoice</value>
-    <value column="Description" isTrl="N" original="Daily Invoice">Daily Invoice</value>
+    <value column="Name" isTrl="N" original="Daily Invoice">Ежедневная счет-фактура</value>
+    <value column="Description" isTrl="N" original="Daily Invoice">Ежедневная счет-фактура</value>
   </row>
   <row id="211" trl="N">
-    <value column="Name" isTrl="N" original="Monthly Invoice">Monthly Invoice</value>
-    <value column="Description" isTrl="N" original="Monthly Invoice">Monthly Invoice</value>
+    <value column="Name" isTrl="N" original="Monthly Invoice">>Ежемесячная счет-фактура</value>
+    <value column="Description" isTrl="N" original="Monthly Invoice">>Ежемесячная счет-фактура</value>
   </row>
   <row id="212" trl="N">
     <value column="Name" isTrl="N" original="Monthly Product Invoice">Monthly Product Invoice</value>
@@ -409,8 +409,8 @@
     <value column="Description" isTrl="N" original="Monthly Vendor Invoice Report">Monthly Vendor Invoice Report</value>
   </row>
   <row id="215" trl="N">
-    <value column="Name" isTrl="N" original="Weekly Invoice">Weekly Invoice</value>
-    <value column="Description" isTrl="N" original="Weekly Invoice">Weekly Invoice</value>
+    <value column="Name" isTrl="N" original="Weekly Invoice">Еженедельная счет-фактура</value>
+    <value column="Description" isTrl="N" original="Weekly Invoice">Еженедельная счет-фактура</value>
   </row>
   <row id="216" trl="N">
     <value column="Name" isTrl="Y" original="Form">Форма</value>
@@ -789,8 +789,8 @@
     <value column="Description" isTrl="Y" original="Journal Entries Report">Отчет по проводкам</value>
   </row>
   <row id="800006" trl="N">
-    <value column="Name" isTrl="Y" original="General Ledger Report">Оборотно сальдовая ведомость</value>
-    <value column="Description" isTrl="Y" original="Report general ledger">Оборотно сальдовая ведомость</value>
+    <value column="Name" isTrl="Y" original="General Ledger Report">Отчет по Главной книге</value>
+    <value column="Description" isTrl="Y" original="Report general ledger">Отчет по Главной книге</value>
   </row>
   <row id="800007" trl="N">
     <value column="Name" isTrl="Y" original="Service Project">Сервисный проект</value>
@@ -873,8 +873,8 @@
     <value column="Description" isTrl="N" original="Report To Invoice Consignment">Report To Invoice Consignment</value>
   </row>
   <row id="800042" trl="N">
-    <value column="Name" isTrl="Y" original="Trial Balance">Проект баланса</value>
-    <value column="Description" isTrl="N" original="Trial Balance Report">Trial Balance Report</value>
+    <value column="Name" isTrl="Y" original="Trial Balance">Обортно-сальдовая ведомость</value>
+    <value column="Description" isTrl="N" original="Trial Balance Report">Обортно-сальдовая ведомость</value>
   </row>
   <row id="800043" trl="N">
     <value column="Name" isTrl="Y" original="Create All Price Lists">Создать все прейскуранты</value>

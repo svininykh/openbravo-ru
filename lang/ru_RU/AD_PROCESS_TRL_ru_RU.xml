@@ -225,24 +225,24 @@
     <value column="Help" isTrl="N" original="The report shows transaction summary for stored products">The report shows transaction summary for stored products</value>
   </row>
   <row id="127" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Transactions">Invoice Transactions</value>
-    <value column="Description" isTrl="N" original="Invoice Transactions">Invoice Transactions</value>
-    <value column="Help" isTrl="N" original="Invoice Transactions">Invoice Transactions</value>
+    <value column="Name" isTrl="N" original="Invoice Transactions">Проводки по счет-фактуре</value>
+    <value column="Description" isTrl="N" original="Invoice Transactions">Проводки по счет-фактуре</value>
+    <value column="Help" isTrl="N" original="Invoice Transactions">Проводки по счет-фактуре</value>
   </row>
   <row id="128" trl="N">
-    <value column="Name" isTrl="N" original="Daily Invoice">Daily Invoice</value>
-    <value column="Description" isTrl="N" original="Daily Invoice">Daily Invoice</value>
-    <value column="Help" isTrl="N" original="Daily Invoice">Daily Invoice</value>
+    <value column="Name" isTrl="N" original="Daily Invoice">Ежедневная счет-фактура</value>
+    <value column="Description" isTrl="N" original="Daily Invoice">Ежедневная счет-фактура</value>
+    <value column="Help" isTrl="N" original="Daily Invoice">Ежедневная счет-фактура</value>
   </row>
   <row id="129" trl="N">
-    <value column="Name" isTrl="N" original="Monthly Invoice">Monthly Invoice</value>
-    <value column="Description" isTrl="N" original="Monthly Invoice">Monthly Invoice</value>
-    <value column="Help" isTrl="N" original="Monthly Invoice">Monthly Invoice</value>
+    <value column="Name" isTrl="N" original="Monthly Invoice">Ежемесячная счет-фактура</value>
+    <value column="Description" isTrl="N" original="Monthly Invoice">Ежемесячная счет-фактура</value>
+    <value column="Help" isTrl="N" original="Monthly Invoice">Ежемесячная счет-фактура</value>
   </row>
   <row id="130" trl="N">
-    <value column="Name" isTrl="N" original="Weekly Invoice">Weekly Invoice</value>
-    <value column="Description" isTrl="N" original="Weekly Invoice">Weekly Invoice</value>
-    <value column="Help" isTrl="N" original="Weekly Invoice">Weekly Invoice</value>
+    <value column="Name" isTrl="N" original="Weekly Invoice">Еженедельная счет-фактура</value>
+    <value column="Description" isTrl="N" original="Weekly Invoice">Еженедельная счет-фактура</value>
+    <value column="Help" isTrl="N" original="Weekly Invoice">Еженедельная счет-фактура</value>
   </row>
   <row id="131" trl="N">
     <value column="Name" isTrl="N" original="Weekly Product Invoice">Weekly Product Invoice</value>
@@ -315,9 +315,9 @@
     <value column="Help" isTrl="Y" original="Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. If the receipt line is related to an existing order line, then the price of the invoice line is taken from that order line. In other case, it uses the retrieved price from the price list selected in the below drop-down list.">Генерация счёт-фактуры по накладной основывается на данных текущей накладной. Если строки накладной связаны с строками ордера, тогда цена в счёт-фактуре берётся из строки ордера. Иначе, цена берётся по прейскуранту заданному из выпадающего ниже списка.</value>
   </row>
   <row id="155" trl="N">
-    <value column="Name" isTrl="N" original="Create Payment">Create Payment</value>
-    <value column="Description" isTrl="N" original="Create Payment">Create Payment</value>
-    <value column="Help" isTrl="N" original="Create Payment">Create Payment</value>
+    <value column="Name" isTrl="N" original="Create Payment">Создать платеж</value>
+    <value column="Description" isTrl="N" original="Create Payment">Создать платеж</value>
+    <value column="Help" isTrl="N" original="Create Payment">Создать платеж</value>
   </row>
   <row id="159" trl="N">
     <value column="Name" isTrl="N" original="Dunning Letter">Dunning Letter</value>
@@ -735,8 +735,8 @@ When the process is finished it is recommended to schedule the "Costing Backgrou
     <value column="Help" isTrl="N" original="The journal entries report is a list of all the journal vouchers of an organization and general ledger shown in a chronological order.">The journal entries report is a list of all the journal vouchers of an organization and general ledger shown in a chronological order.</value>
   </row>
   <row id="800001" trl="N">
-    <value column="Name" isTrl="Y" original="General Ledger Report">Оборотно сальдовая ведомость</value>
-    <value column="Description" isTrl="Y" original="Report general ledger">Оборотно сальдовая ведомость</value>
+    <value column="Name" isTrl="Y" original="General Ledger Report">Отчет по Главной книге</value>
+    <value column="Description" isTrl="Y" original="Report general ledger">Отчет по Главной книге</value>
     <value column="Help" isTrl="N" original="The General Ledger report lists every ledger &quot;subaccount&quot; and its debit and credit ledger entries within a given period of time.">The General Ledger report lists every ledger "subaccount" and its debit and credit ledger entries within a given period of time.</value>
   </row>
   <row id="800002" trl="N">
@@ -845,7 +845,7 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Help" isTrl="N" original="This process undo all what was done by the closing year process; all the accounting entries which were generated are undo or reverted.">This process undo all what was done by the closing year process; all the accounting entries which were generated are undo or reverted.</value>
   </row>
   <row id="800039" trl="N">
-    <value column="Name" isTrl="Y" original="Trial Balance">Проект баланса</value>
+    <value column="Name" isTrl="Y" original="Trial Balance">Обортно-сальдовая ведомость</value>
     <value column="Description" isTrl="N" original="Trial Balance Report">Trial Balance Report</value>
     <value column="Help" isTrl="N" original="The trial balance helps to check that the total amount of debits are equal to the total amount of credits.">The trial balance helps to check that the total amount of debits are equal to the total amount of credits.</value>
   </row>

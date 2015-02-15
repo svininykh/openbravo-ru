@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_FIELDGROUP" version="">
   <row id="0C672A3B7CDF416F9522DF3FA5AE4022" trl="N">
-    <value column="Name" isTrl="N" original="Order/Invoice">Order/Invoice</value>
+    <value column="Name" isTrl="N" original="Order/Invoice">Ордер/Счет-фактура</value>
   </row>
   <row id="4E230C937ED04074ACFFC255B4DB93EC" trl="N">
     <value column="Name" isTrl="N" original="Details">Details</value>
@@ -10,7 +10,7 @@
     <value column="Name" isTrl="N" original="Amounts">Суммы</value>
   </row>
   <row id="7B6B5F5475634E35A85CF7023165E50B" trl="N">
-    <value column="Name" isTrl="N" original="GL Items">GL Items</value>
+    <value column="Name" isTrl="N" original="GL Items">Проводки по Г/К</value>
   </row>
   <row id="8C3C34F7EFD04E11A3105EB74BC9999E" trl="N">
     <value column="Name" isTrl="Y" original="Payment Plan">График оплаты</value>

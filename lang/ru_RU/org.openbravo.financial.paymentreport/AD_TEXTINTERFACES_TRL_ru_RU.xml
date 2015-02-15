@@ -115,7 +115,7 @@
     <value column="Text" isTrl="Y" original="Expected Date To:">Ожидаемая дата по:</value>
   </row>
   <row id="64984571E7EE46B590D617CAB3D28598" trl="N">
-    <value column="Text" isTrl="N" original="Payment Date To:">Дата оплаты по:</value>
+    <value column="Text" isTrl="N" original="Payment Date To:">Дата платежа по:</value>
   </row>
   <row id="64F1EDBA15314054B3A147A4262B95FE" trl="N">
     <value column="Text" isTrl="N" original="Document Date From:">Дата документа от:</value>
@@ -145,7 +145,7 @@
     <value column="Text" isTrl="N" original="ACCS_ACCOUNT_ID_D">ACCS_ACCOUNT_ID_D</value>
   </row>
   <row id="8747F91C31704FD0A9EC0C35237158BE" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Date">Invoice Date</value>
+    <value column="Text" isTrl="N" original="Invoice Date">Дата выставления</value>
   </row>
   <row id="8A613E8D2A304FEF9545C2852FC06EF0" trl="N">
     <value column="Text" isTrl="N" original="Document Date To:">Дата документа с:</value>
@@ -247,7 +247,7 @@
     <value column="Text" isTrl="N" original="Overdue:">Overdue:</value>
   </row>
   <row id="C90AC1FF0A6E4D949A89BA6B79B440C1" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Date">Invoice Date</value>
+    <value column="Text" isTrl="N" original="Invoice Date">Дата выставления</value>
   </row>
   <row id="CF7B2971E5954D8C8A0EE48A8479B3B7" trl="N">
     <value column="Text" isTrl="N" original="Ordering Criteria">Ordering Criteria</value>
@@ -289,10 +289,10 @@
     <value column="Text" isTrl="N" original="Payment Report">Payment Report</value>
   </row>
   <row id="E748B33C558747D39E79783EC4788B20" trl="N">
-    <value column="Text" isTrl="N" original="Business Partner Category:">Business Partner Category:</value>
+    <value column="Text" isTrl="N" original="Business Partner Category:">Категория контрагента:</value>
   </row>
   <row id="E8821FAD1F0548E191F19C25EA803222" trl="N">
-    <value column="Text" isTrl="N" original="Deposit/Withdraw Date">Deposit/Withdraw Date</value>
+    <value column="Text" isTrl="N" original="Deposit/Withdraw Date">Дата Поступления/Выплаты</value>
   </row>
   <row id="EA4AB68461A14FEDBB4CA15CAB168555" trl="N">
     <value column="Text" isTrl="Y" original="Expected Date From">Ожидаемая дата с</value>
@@ -304,9 +304,9 @@
     <value column="Text" isTrl="N" original="Transactional Amount">Transactional Amount</value>
   </row>
   <row id="F8F132DDFDF14ECF8FA7C78CD88A4821" trl="N">
-    <value column="Text" isTrl="N" original="None">None</value>
+    <value column="Text" isTrl="N" original="None">Ни одного</value>
   </row>
   <row id="F931748E59634FB1BA40BCF5FA01EFCC" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Date">Invoice Date</value>
+    <value column="Text" isTrl="N" original="Invoice Date">Дата выставления</value>
   </row>
 </compiereTrl>

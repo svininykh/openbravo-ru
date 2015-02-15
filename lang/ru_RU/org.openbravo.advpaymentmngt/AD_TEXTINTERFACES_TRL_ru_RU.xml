@@ -169,7 +169,7 @@
     <value column="Text" isTrl="Y" original="Cleared">Очищено</value>
   </row>
   <row id="55C25FEEFC8E443F908854E36E9F74DB" trl="N">
-    <value column="Text" isTrl="Y" original="Orders and Invoices">Ордера и счета</value>
+    <value column="Text" isTrl="Y" original="Orders and Invoices">Ордеры и счета-фактуры</value>
   </row>
   <row id="56AAE175522A4972923EFA921DA73BFA" trl="N">
     <value column="Text" isTrl="Y" original="Financial Account">Финансовый счёт</value>
@@ -274,7 +274,7 @@
     <value column="Text" isTrl="Y" original="Add Transaction">Добавить транзакцию</value>
   </row>
   <row id="7DC28544FC1245BCACE69BFA4499008C" trl="N">
-    <value column="Text" isTrl="Y" original="Orders and Invoices">Ордера и счета-фактуры</value>
+    <value column="Text" isTrl="Y" original="Orders and Invoices">Ордеры и счета-фактуры</value>
   </row>
   <row id="7ED6FC64149858B3E040007F01007327" trl="N">
     <value column="Text" isTrl="Y" original="There is a difference of">Расхождение</value>
@@ -346,13 +346,13 @@
     <value column="Text" isTrl="N" original="Difference">Difference</value>
   </row>
   <row id="810D27F98F7E5E44E040007F01007F1D" trl="N">
-    <value column="Text" isTrl="Y" original="Orders">Одера</value>
+    <value column="Text" isTrl="Y" original="Orders">Ордеры</value>
   </row>
   <row id="810D27F98F805E44E040007F01007F1D" trl="N">
     <value column="Text" isTrl="Y" original="Invoices">Счета-фактуры</value>
   </row>
   <row id="810FC8FB3581BDD3E040007F01006D3C" trl="N">
-    <value column="Text" isTrl="Y" original="Orders">Ордера</value>
+    <value column="Text" isTrl="Y" original="Orders">Ордеры</value>
   </row>
   <row id="810FC8FB3583BDD3E040007F01006D3C" trl="N">
     <value column="Text" isTrl="Y" original="Invoices">Счета-фактуры</value>
@@ -391,7 +391,7 @@
     <value column="Text" isTrl="Y" original="2nd Dimension">2ое субконто</value>
   </row>
   <row id="84AD152C2958082CE040007F01006D2B" trl="N">
-    <value column="Text" isTrl="Y" original="GL Items">Проводки Г/К</value>
+    <value column="Text" isTrl="Y" original="GL Items">Проводки по Г/К</value>
   </row>
   <row id="84AD152C295E082CE040007F01006D2B" trl="N">
     <value column="Text" isTrl="Y" original="GL Item">Проводка Г/К</value>
@@ -526,10 +526,10 @@
     <value column="Text" isTrl="Y" original="Action">Действие</value>
   </row>
   <row id="939B749BB60DA1D5E040007F01003065" trl="N">
-    <value column="Text" isTrl="Y" original="Reference No.">Ссылка №</value>
+    <value column="Text" isTrl="Y" original="Reference No.">Идентификатор</value>
   </row>
   <row id="939C24C99DB9FC2BE040007F010036B2" trl="N">
-    <value column="Text" isTrl="Y" original="Reference No.">Ссылка №</value>
+    <value column="Text" isTrl="Y" original="Reference No.">Идентификатор</value>
   </row>
   <row id="941752B6DDB7231BE040007F0100437B" trl="N">
     <value column="Text" isTrl="Y" original="Payment Method">Способ оплаты</value>
@@ -616,7 +616,7 @@
     <value column="Text" isTrl="N" original="Currently cleared">Currently cleared</value>
   </row>
   <row id="A8F5EE29EF37BBCAE040007F01002D53" trl="N">
-    <value column="Text" isTrl="Y" original="GL Items">Проводки Г/К</value>
+    <value column="Text" isTrl="Y" original="GL Items">Проводки по Г/К</value>
   </row>
   <row id="A8F5EE29EF3ABBCAE040007F01002D53" trl="N">
     <value column="Text" isTrl="Y" original="GL Item">Проводка Г/К</value>

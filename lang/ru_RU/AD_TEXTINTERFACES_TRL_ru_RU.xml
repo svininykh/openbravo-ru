@@ -1088,7 +1088,7 @@
     <value column="Text" isTrl="Y" original="AVERAGE COST">СРЕДНЯЯ СТОИМОСТЬ</value>
   </row>
   <row id="222BFD8719D647B59942214EACDCC867" trl="N">
-    <value column="Text" isTrl="Y" original="General Ledger Report">Оборотно сальдовая ведомость</value>
+    <value column="Text" isTrl="Y" original="General Ledger Report">Отчет по Главной книге</value>
   </row>
   <row id="23494C9103B54824A4E15E3160581E3E" trl="N">
     <value column="Text" isTrl="N" original="VO">VO</value>
@@ -1148,7 +1148,7 @@
     <value column="Text" isTrl="Y" original="Stack (y)">Ось (y)</value>
   </row>
   <row id="2A1D06FA18B54BFE9CF2ACB115B588E3" trl="N">
-    <value column="Text" isTrl="Y" original="General Ledger Report">Оборотно сальдовая ведомость</value>
+    <value column="Text" isTrl="Y" original="General Ledger Report">Отчет по Главной книге</value>
   </row>
   <row id="2B21DC35615C450F83BD69A744CA0764" trl="N">
     <value column="Text" isTrl="N" original="Asset Description :">Asset Description :</value>
@@ -1305,7 +1305,7 @@
     <value column="Text" isTrl="Y" original="Product name">Название товара</value>
   </row>
   <row id="489F85DBE3EF4C9C82D8230B727D55F9" trl="N">
-    <value column="Text" isTrl="Y" original="Journal Entries Report">Оборотно сальдовая ведомость</value>
+    <value column="Text" isTrl="Y" original="Journal Entries Report">Отчет по проводкам</value>
   </row>
   <row id="48AF9E125D2143669AFAAA89D52473D3" trl="N">
     <value column="Text" isTrl="Y" original="Audit Trail - Deleted Records">Метки аудита - Удалённые записи</value>
@@ -1617,7 +1617,7 @@
     <value column="Text" isTrl="Y" original="View All">Просмотр всех</value>
   </row>
   <row id="59CF916B477A4E91A08F78C306970DE2" trl="N">
-    <value column="Text" isTrl="N" original="Order Number">Order Number</value>
+    <value column="Text" isTrl="N" original="Order Number">Номер ордера</value>
   </row>
   <row id="59FC4FBB8C97F7DDE040007F01003E48" trl="N">
     <value column="Text" isTrl="Y" original="Register Module">Регистрация модуля</value>
@@ -1884,7 +1884,7 @@
     <value column="Text" isTrl="Y" original="Post/Unpost Document">Документ провести или сделать не проведённым</value>
   </row>
   <row id="61CDE597969742C99E2A5B506D916E23" trl="N">
-    <value column="Text" isTrl="Y" original="Journal Entries Report">Оборотно сальдовая ведомость</value>
+    <value column="Text" isTrl="Y" original="Journal Entries Report">Отчет по проводкам</value>
   </row>
   <row id="62B7C7033E04DD2CE040007F01017009" trl="N">
     <value column="Text" isTrl="N" original="PROPOSAL">PROPOSAL</value>
@@ -3889,7 +3889,7 @@
     <value column="Text" isTrl="Y" original="Document type">Тип документа</value>
   </row>
   <row id="807126" trl="N">
-    <value column="Text" isTrl="N" original="Done by:">Done by:</value>
+    <value column="Text" isTrl="N" original="Done by:">Сделано для:</value>
   </row>
   <row id="807127" trl="N">
     <value column="Text" isTrl="N" original="Done scheduled maintenances">Done scheduled maintenances</value>
@@ -4531,7 +4531,7 @@
     <value column="Text" isTrl="Y" original="Tax Report">Отчёт по налогу</value>
   </row>
   <row id="807459" trl="N">
-    <value column="Text" isTrl="Y" original="General Ledger Report">Оборотно сальдовая ведомость</value>
+    <value column="Text" isTrl="Y" original="General Ledger Report">Отчет по Главной книге</value>
   </row>
   <row id="807508" trl="N">
     <value column="Text" isTrl="Y" original="Alert">Предупреждение</value>
@@ -4639,7 +4639,7 @@
     <value column="Text" isTrl="N" original="Phase:">Phase:</value>
   </row>
   <row id="807979" trl="N">
-    <value column="Text" isTrl="N" original="Done:">Done:</value>
+    <value column="Text" isTrl="N" original="Done:">Сделано:</value>
   </row>
   <row id="807980" trl="N">
     <value column="Text" isTrl="Y" original="Available">Доступно</value>
@@ -4660,7 +4660,7 @@
     <value column="Text" isTrl="N" original="Work type">Work type</value>
   </row>
   <row id="808005" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Date:">Invoice Date:</value>
+    <value column="Text" isTrl="N" original="Invoice Date:">Дата выставления:</value>
   </row>
   <row id="808034" trl="N">
     <value column="Text" isTrl="N" original="Not invoiced orders filter">Not invoiced orders filter</value>
@@ -5506,10 +5506,10 @@
     <value column="Text" isTrl="N" original="Paid To:">Paid To:</value>
   </row>
   <row id="9438F45D86C73928E040007F01005A67" trl="N">
-    <value column="Text" isTrl="N" original="Payment Date:">Payment Date:</value>
+    <value column="Text" isTrl="N" original="Payment Date:">Дата платежа:</value>
   </row>
   <row id="9438F45D86CA3928E040007F01005A67" trl="N">
-    <value column="Text" isTrl="N" original="Paid Amount (">Paid Amount (</value>
+    <value column="Text" isTrl="N" original="Paid Amount (">Сумма платежа (</value>
   </row>
   <row id="94C751F6BF0B248CE040A8C021012D64" trl="N">
     <value column="Text" isTrl="N" original=" merged into "> merged into </value>
@@ -5913,7 +5913,7 @@
     <value column="Text" isTrl="N" original="XLS Format">XLS Format</value>
   </row>
   <row id="D06F914B4FEE484B89B39BBDD1FBA5BD" trl="N">
-    <value column="Text" isTrl="Y" original="Trial Balance">Проект баланса</value>
+    <value column="Text" isTrl="Y" original="Trial Balance">Обортно-сальдовая ведомость</value>
   </row>
   <row id="D07ED53714914E0696C37AC75E8572D3" trl="N">
     <value column="Text" isTrl="N" original="Decline">Decline</value>
@@ -5949,7 +5949,7 @@
     <value column="Text" isTrl="Y" original="Due Date">Дата погашения</value>
   </row>
   <row id="DA35BAB2B783408EADC9E615FF99AED7" trl="N">
-    <value column="Text" isTrl="Y" original="Trial Balance">Проект баланса</value>
+    <value column="Text" isTrl="Y" original="Trial Balance">Обортно-сальдовая ведомость</value>
   </row>
   <row id="DAF427C6019B462591CB2B2D3232ED60" trl="N">
     <value column="Text" isTrl="Y" original="Dependency problems.">Проблемы зависимостей.</value>
@@ -6144,16 +6144,16 @@
     <value column="Text" isTrl="Y" original="PRODUCT NAME">НАЗВАНИЕ ТОВАРА</value>
   </row>
   <row id="FD4B9BD0444F79A0E040007F01014582" trl="N">
-    <value column="Text" isTrl="N" original="Document No">Document No</value>
+    <value column="Text" isTrl="N" original="Document No">Документ №</value>
   </row>
   <row id="FD4B9BD0445179A0E040007F01014582" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Date">Invoice Date</value>
+    <value column="Text" isTrl="N" original="Invoice Date">Дата выставления</value>
   </row>
   <row id="FD59FDD69133BE06E040007F01017371" trl="N">
-    <value column="Text" isTrl="N" original="Document No">Document No</value>
+    <value column="Text" isTrl="N" original="Document No">Документ №</value>
   </row>
   <row id="FD59FDD69135BE06E040007F01017371" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Date">Invoice Date</value>
+    <value column="Text" isTrl="N" original="Invoice Date">Дата выставления</value>
   </row>
   <row id="FD59FDD69137BE06E040007F01017371" trl="N">
     <value column="Text" isTrl="N" original="M.%">M.%</value>
