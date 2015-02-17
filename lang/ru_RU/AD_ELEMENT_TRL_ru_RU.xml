@@ -3389,8 +3389,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1341" trl="N">
-    <value column="Name" isTrl="Y" original="Records Created">Созданые записи</value>
-    <value column="PrintName" isTrl="Y" original="Records created">Созданые записи</value>
+    <value column="Name" isTrl="Y" original="Records Created">Создан список сырья</value>
+    <value column="PrintName" isTrl="Y" original="Records created">Создан список сырья</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Check to indicate that the records has been created and the production is ready to be processed.">Check to indicate that the records has been created and the production is ready to be processed.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -4195,8 +4195,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1490" trl="N">
-    <value column="Name" isTrl="Y" original="Create Lines From">Стр. на основании</value>
-    <value column="PrintName" isTrl="Y" original="Create lines from">Стр. на основании</value>
+    <value column="Name" isTrl="Y" original="Create Lines From">С-ки на основании</value>
+    <value column="PrintName" isTrl="Y" original="Create lines from">С-ки на основании</value>
     <value column="Description" isTrl="N" original="An addition of statements from pre-existing documents.">An addition of statements from pre-existing documents.</value>
     <value column="Help" isTrl="N" original="A process that allows the user to copy lines (products) from an existing document different from the one being copied into. For example, in case of entering a new Goods Shipment, the user can copy lines (products) from an existing Sales Order or Sales Invoice.">A process that allows the user to copy lines (products) from an existing document different from the one being copied into. For example, in case of entering a new Goods Shipment, the user can copy lines (products) from an existing Sales Order or Sales Invoice.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -5036,8 +5036,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1672" trl="N">
-    <value column="Name" isTrl="N" original="Product quantity must be on stock">Product quantity must be on stock</value>
-    <value column="PrintName" isTrl="N" original="Product quantity must be on stock">Product quantity must be on stock</value>
+    <value column="Name" isTrl="N" original="Product quantity must be on stock">Кол-во сырья должно быть на складе</value>
+    <value column="PrintName" isTrl="N" original="Product quantity must be on stock">Кол-во сырья должно быть на складе</value>
     <value column="Description" isTrl="N" original="If not sufficient on stock in the warehouse, the BOM is not produced">If not sufficient on stock in the warehouse, the BOM is not produced</value>
     <value column="Help" isTrl="N" original="If not sufficient on stock in the warehouse, the BOM is not produced">If not sufficient on stock in the warehouse, the BOM is not produced</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -23732,8 +23732,8 @@ Processes with "Requires Explicit Access Permission" flag set to true, do not in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="D69FE5544E75D667E040007F01001784" trl="N">
-    <value column="Name" isTrl="N" original="Characteristic">Characteristic</value>
-    <value column="PrintName" isTrl="N" original="Characteristic">Characteristic</value>
+    <value column="Name" isTrl="N" original="Characteristic">Характеристика</value>
+    <value column="PrintName" isTrl="N" original="Characteristic">Характеристика</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Definition of a Product Characteristic">Definition of a Product Characteristic</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -23752,8 +23752,8 @@ Processes with "Requires Explicit Access Permission" flag set to true, do not in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="D6A392F2D7B69EE2E040007F01002D70" trl="N">
-    <value column="Name" isTrl="N" original="Characteristic Value">Characteristic Value</value>
-    <value column="PrintName" isTrl="N" original="Characteristic Value">Characteristic Value</value>
+    <value column="Name" isTrl="N" original="Characteristic Value">Значение характеристики</value>
+    <value column="PrintName" isTrl="N" original="Characteristic Value">Значение характеристики</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Identifies a possible value of a Product Characteristic">Identifies a possible value of a Product Characteristic</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -23792,7 +23792,7 @@ Processes with "Requires Explicit Access Permission" flag set to true, do not in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="D6DAE72466AE20D3E040007F01003941" trl="N">
-    <value column="Name" isTrl="N" original="Characteristic of Product">Characteristic of Product</value>
+    <value column="Name" isTrl="N" original="Characteristic of Product">Характеристика товара</value>
     <value column="PrintName" isTrl="N" original="M_Product_Ch_ID">M_Product_Ch_ID</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
@@ -23812,8 +23812,8 @@ Processes with "Requires Explicit Access Permission" flag set to true, do not in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="D6E2864435C64457BD602348E394EFA9" trl="N">
-    <value column="Name" isTrl="N" original="Prepayment Amount">Prepayment Amount</value>
-    <value column="PrintName" isTrl="N" original="Prepayment Amount">Prepayment Amount</value>
+    <value column="Name" isTrl="N" original="Prepayment Amount">Сумма предоплаты</value>
+    <value column="PrintName" isTrl="N" original="Prepayment Amount">Сумма предоплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -23942,8 +23942,8 @@ Processes with "Requires Explicit Access Permission" flag set to true, do not in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="DA9043B34A024B13E040007F010048FD" trl="N">
-    <value column="Name" isTrl="N" original="Characteristic Description">Characteristic Description</value>
-    <value column="PrintName" isTrl="N" original="Characteristic Description">Characteristic Description</value>
+    <value column="Name" isTrl="N" original="Characteristic Description">Описание характеристики</value>
+    <value column="PrintName" isTrl="N" original="Characteristic Description">Описание характеристики</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Text with the concatenation of the characteristics and its values assigned to the product.">Text with the concatenation of the characteristics and its values assigned to the product.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -24092,8 +24092,8 @@ Processes with "Requires Explicit Access Permission" flag set to true, do not in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="E070B0DC282FC229E040007F010016E6" trl="N">
-    <value column="Name" isTrl="N" original="Create Lines">Create Lines</value>
-    <value column="PrintName" isTrl="N" original="Create Lines">Create Lines</value>
+    <value column="Name" isTrl="N" original="Create Lines">Создать с-ки</value>
+    <value column="PrintName" isTrl="N" original="Create Lines">Создать с-ки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
