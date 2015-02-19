@@ -7427,8 +7427,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="226" trl="N">
-    <value column="Name" isTrl="N" original="Client List">Client List</value>
-    <value column="PrintName" isTrl="N" original="Client List">Client List</value>
+    <value column="Name" isTrl="N" original="Client List">Список подключений</value>
+    <value column="PrintName" isTrl="N" original="Client List">Список подключений</value>
     <value column="Description" isTrl="N" original="Clients this Role can access">Clients this Role can access</value>
     <value column="Help" isTrl="N" original="Indicates the Clients (by client id) that this Role can access.  Multiple Clients are delimited by a comma ','.">Indicates the Clients (by client id) that this Role can access.  Multiple Clients are delimited by a comma ','.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9123,8 +9123,8 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original="Company Agent">Company Agent</value>
   </row>
   <row id="40D3360F2BB046D3B499A86D2CB78200" trl="N">
-    <value column="Name" isTrl="N" original="Organization Module">Organization Module</value>
-    <value column="PrintName" isTrl="N" original="Organization Module">Organization Module</value>
+    <value column="Name" isTrl="N" original="Organization Module">Модуль организации</value>
+    <value column="PrintName" isTrl="N" original="Organization Module">Модуль организации</value>
     <value column="Description" isTrl="N" original="Modules and data sets applied to organization">Modules and data sets applied to organization</value>
     <value column="Help" isTrl="N" original="Modules and data sets applied to organization">Modules and data sets applied to organization</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9615,8 +9615,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="478" trl="N">
-    <value column="Name" isTrl="N" original="Organization List">Organization List</value>
-    <value column="PrintName" isTrl="N" original="Organization List">Organization List</value>
+    <value column="Name" isTrl="N" original="Organization List">Список организаций</value>
+    <value column="PrintName" isTrl="N" original="Organization List">Список организаций</value>
     <value column="Description" isTrl="N" original="List of Organizations this Role can access">List of Organizations this Role can access</value>
     <value column="Help" isTrl="N" original="The Organization List indicates the Organizations (by organization id) that this Role can access.  Multiple Organizations are delimited by a comma ','.">The Organization List indicates the Organizations (by organization id) that this Role can access.  Multiple Organizations are delimited by a comma ','.</value>
     <value column="PO_Description" isTrl="N" original=""/>

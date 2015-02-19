@@ -103,7 +103,7 @@
     <value column="Text" isTrl="N" original="Secondary Quantity">Secondary Quantity</value>
   </row>
   <row id="02C21E704E2847EB9A22E9EBD1BF8632" trl="N">
-    <value column="Text" isTrl="N" original="Product name">Product name</value>
+    <value column="Text" isTrl="N" original="Product name">Название товара</value>
   </row>
   <row id="02E4CF0415C84120B759B7E2E5146558" trl="N">
     <value column="Text" isTrl="Y" original="Entry">Запись</value>
@@ -112,10 +112,10 @@
     <value column="Text" isTrl="N" original="Show P&amp;L Closing Entries">Show P&amp;L Closing Entries</value>
   </row>
   <row id="04142C9BE1044C30AAEE0AAF25F89227" trl="N">
-    <value column="Text" isTrl="N" original="Client:">Client:</value>
+    <value column="Text" isTrl="N" original="Client:">Подключение:</value>
   </row>
   <row id="043304C07CB44C50B8FE73C57A3D157F" trl="N">
-    <value column="Text" isTrl="N" original="Initial Page Number">Initial Page Number</value>
+    <value column="Text" isTrl="N" original="Initial Page Number">Начальный номер страницы</value>
   </row>
   <row id="06D146DA9FC911DD8326D35A1C1FBFCD" trl="N">
     <value column="Text" isTrl="N" original="Secondary Quantity">Secondary Quantity</value>
@@ -130,7 +130,7 @@
     <value column="Text" isTrl="Y" original="Attribute Set Value">Значение характеристики</value>
   </row>
   <row id="076247A1AD11457A8C4755CC2BE04D6F" trl="N">
-    <value column="Text" isTrl="N" original="Business Partner Balance :">Business Partner Balance :</value>
+    <value column="Text" isTrl="N" original="Business Partner Balance :">Баланс контрагента:</value>
   </row>
   <row id="076A33F965BE426DB4304151ACE806A5" trl="N">
     <value column="Text" isTrl="Y" original="Uom">Ед.изм.</value>
@@ -404,7 +404,7 @@
     <value column="Text" isTrl="Y" original="Loading...">Загрузка...</value>
   </row>
   <row id="1000600032" trl="N">
-    <value column="Text" isTrl="N" original="Date of First Sale">Date of First Sale</value>
+    <value column="Text" isTrl="N" original="Date of First Sale">Дата первой продажи</value>
   </row>
   <row id="1000600033" trl="N">
     <value column="Text" isTrl="N" original="Cal1 No.">Cal1 No.</value>
@@ -500,7 +500,7 @@
     <value column="Text" isTrl="Y" original="Loading...">Загрузка...</value>
   </row>
   <row id="1000600064" trl="N">
-    <value column="Text" isTrl="N" original="Date of First Sale">Date of First Sale</value>
+    <value column="Text" isTrl="N" original="Date of First Sale">Дата первой продажи</value>
   </row>
   <row id="1000600065" trl="N">
     <value column="Text" isTrl="N" original="DataGrid">DataGrid</value>
@@ -1016,7 +1016,7 @@
     <value column="Text" isTrl="Y" original="(current">(текущий</value>
   </row>
   <row id="17197CC00EA74C1CBAECD53118047C56" trl="N">
-    <value column="Text" isTrl="N" original="Client N-1:">Client N-1:</value>
+    <value column="Text" isTrl="N" original="Client N-1:">Подключение N-1:</value>
   </row>
   <row id="18D599A7C6A745C380B0AE85DEB49EFC" trl="N">
     <value column="Text" isTrl="Y" original="VOIDED">ОТМЕНЕНО</value>
@@ -1914,10 +1914,10 @@
     <value column="Text" isTrl="N" original="Amt. ref">Amt. ref</value>
   </row>
   <row id="64FEEE212EC8429A9E31B595D8FFD72C" trl="N">
-    <value column="Text" isTrl="N" original="Uom">Uom</value>
+    <value column="Text" isTrl="N" original="Uom">Ед.изм.</value>
   </row>
   <row id="65460DC1057646288AF72863775F7881" trl="N">
-    <value column="Text" isTrl="N" original="Date:">Date:</value>
+    <value column="Text" isTrl="N" original="Date:">Дата:</value>
   </row>
   <row id="65505548D00711DD9127001D09C4A2FE" trl="N">
     <value column="Text" isTrl="Y" original="Customers">Клиенты</value>
@@ -2473,13 +2473,13 @@
     <value column="Text" isTrl="Y" original="Go up">Вверх</value>
   </row>
   <row id="800302" trl="N">
-    <value column="Text" isTrl="N" original="Exclude">Exclude</value>
+    <value column="Text" isTrl="N" original="Exclude">Исключить</value>
   </row>
   <row id="800303" trl="N">
     <value column="Text" isTrl="Y" original="Go down">Вниз</value>
   </row>
   <row id="800304" trl="N">
-    <value column="Text" isTrl="N" original="Exclude all">Exclude all</value>
+    <value column="Text" isTrl="N" original="Exclude all">Все исключить</value>
   </row>
   <row id="800311" trl="N">
     <value column="Text" isTrl="Y" original="Organization">Организация</value>
@@ -2506,22 +2506,22 @@
     <value column="Text" isTrl="Y" original="Back">Назад</value>
   </row>
   <row id="800389" trl="N">
-    <value column="Text" isTrl="N" original="Report print">Report print</value>
+    <value column="Text" isTrl="N" original="Report print">Печать отчёта</value>
   </row>
   <row id="800390" trl="N">
     <value column="Text" isTrl="Y" original="PRINTING...">ПЕЧАТЬ...</value>
   </row>
   <row id="800407" trl="N">
-    <value column="Text" isTrl="N" original="Download">Download</value>
+    <value column="Text" isTrl="N" original="Download">Скачать</value>
   </row>
   <row id="800410" trl="N">
     <value column="Text" isTrl="Y" original="File name">Имя файла</value>
   </row>
   <row id="800411" trl="N">
-    <value column="Text" isTrl="N" original="Text">Text</value>
+    <value column="Text" isTrl="N" original="Text">Текст</value>
   </row>
   <row id="800412" trl="N">
-    <value column="Text" isTrl="N" original="type">type</value>
+    <value column="Text" isTrl="N" original="type">тип</value>
   </row>
   <row id="800415" trl="N">
     <value column="Text" isTrl="N" original="Select field order on the tab">Select field order on the tab</value>
@@ -5967,7 +5967,7 @@
     <value column="Text" isTrl="N" original="Expected">Expected</value>
   </row>
   <row id="DDB68A140DF74CDDBB98D9735AAAB8BE" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Organization:</value>
+    <value column="Text" isTrl="N" original="Organization:">Организация:</value>
   </row>
   <row id="DE7AD47F6FD743DAA01B47B462B07167" trl="N">
     <value column="Text" isTrl="N" original="Help for ">Help for </value>
