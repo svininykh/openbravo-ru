@@ -721,7 +721,7 @@
     <value column="Description" isTrl="N" original="Display historical information about data changes of record via the audit trail system">Display historical information about data changes of record via the audit trail system</value>
   </row>
   <row id="3CC69F84B2524A69B53D1BD90FC7D0B9" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
+    <value column="Name" isTrl="N" original="User Defined Dimension 2">Субконто 2 определено пользователем</value>
     <value column="Description" isTrl="N" original="User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
   </row>
   <row id="400" trl="N">
@@ -749,7 +749,7 @@
     <value column="Description" isTrl="N" original="Lists Project Lines with generated Purchase Orders of a Work Order or Asset Project, which are not issued to the Project">Lists Project Lines with generated Purchase Orders of a Work Order or Asset Project, which are not issued to the Project</value>
   </row>
   <row id="4ACC59DA7DAB48FFAEB9128B7D803A15" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
+    <value column="Name" isTrl="N" original="User Defined Dimension 1">Субконто 1 определено пользователем</value>
     <value column="Description" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
   </row>
   <row id="53C26F9057764F6DA861E00B14758E53" trl="N">
@@ -825,8 +825,8 @@
     <value column="Description" isTrl="N" original="Create volume discounts related to products and product categories to be assigned to selected business partners.">Create volume discounts related to products and product categories to be assigned to selected business partners.</value>
   </row>
   <row id="800025" trl="N">
-    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure">Balance sheet and P&amp;L structure</value>
-    <value column="Description" isTrl="N" original="Balance sheet and P&amp;L structure">Balance sheet and P&amp;L structure</value>
+    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure">Структура Баланса и Отчета о ПиУ</value>
+    <value column="Description" isTrl="N" original="Balance sheet and P&amp;L structure">Структура Баланса и Отчёта о Прибылях и Убытках</value>
   </row>
   <row id="800027" trl="N">
     <value column="Name" isTrl="N" original="Settlement">Settlement</value>
@@ -1161,11 +1161,11 @@
     <value column="Description" isTrl="N" original="Create Budget Reports in Excel">Create Budget Reports in Excel</value>
   </row>
   <row id="800193" trl="N">
-    <value column="Name" isTrl="N" original="Payment Status Management">Payment Status Management</value>
+    <value column="Name" isTrl="N" original="Payment Status Management">Управление статусом платежа</value>
     <value column="Description" isTrl="N" original="Edit the status of payments for the accounting purposes.">Edit the status of payments for the accounting purposes.</value>
   </row>
   <row id="800194" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Accounting Report Setup">User Defined Accounting Report Setup</value>
+    <value column="Name" isTrl="N" original="User Defined Accounting Report Setup">Настройки отчета по бухгалтерским счетам</value>
     <value column="Description" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
   </row>
   <row id="800195" trl="N">
@@ -1177,7 +1177,7 @@
     <value column="Description" isTrl="N" original="Shipper Report">Shipper Report</value>
   </row>
   <row id="800198" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Accounting Report">User Defined Accounting Report</value>
+    <value column="Name" isTrl="N" original="User Defined Accounting Report">Отчета по бухгалтерским счетам</value>
     <value column="Description" isTrl="N" original="Selects an accounting model to obtain its report.">Selects an accounting model to obtain its report.</value>
   </row>
   <row id="800199" trl="N">
@@ -1253,7 +1253,7 @@
     <value column="Description" isTrl="N" original="Create a comprehensive and organized plan to request purchases over a specified time period.">Create a comprehensive and organized plan to request purchases over a specified time period.</value>
   </row>
   <row id="800224" trl="N">
-    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure Setup">Balance sheet and P&amp;L structure Setup</value>
+    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure Setup">Настройка структуры Баланса и Отчета о ПиУ</value>
     <value column="Description" isTrl="N" original="Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.">Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.</value>
   </row>
   <row id="800225" trl="N">

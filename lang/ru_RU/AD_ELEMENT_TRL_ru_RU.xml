@@ -9546,7 +9546,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
   <row id="469" trl="N">
     <value column="Name" isTrl="Y" original="Name">Название</value>
     <value column="PrintName" isTrl="Y" original="Name">Название</value>
-    <value column="Description" isTrl="Y" original="A non-unique identifier for a record/document often used as a search tool.">Не-уникальный идентификатор для записи или документа, чаще всего используется в качестве инструмента поиска.</value>
+    <value column="Description" isTrl="Y" original="A non-unique identifier for a record/document often used as a search tool.">Неуникальный идентификатор для записи или документа, чаще всего используется в качестве инструмента поиска.</value>
     <value column="Help" isTrl="N" original="A more descriptive identifier (that does need to be unique) of a record/document that is used as a default search option along with the search key (that is unique and mostly shorter). It is up to 60 characters in length.">A more descriptive identifier (that does need to be unique) of a record/document that is used as a default search option along with the search key (that is unique and mostly shorter). It is up to 60 characters in length.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>

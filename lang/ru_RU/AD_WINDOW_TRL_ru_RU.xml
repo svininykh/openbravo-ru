@@ -835,12 +835,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit budgets to be used for informative purposes.">Create and edit budgets to be used for informative purposes.</value>
   </row>
   <row id="800080" trl="N">
-    <value column="Name" isTrl="N" original="Payment Status Management">Payment Status Management</value>
+    <value column="Name" isTrl="N" original="Payment Status Management">Управление статусом платежа</value>
     <value column="Description" isTrl="N" original="Edit the status of payments for the accounting purposes.">Edit the status of payments for the accounting purposes.</value>
     <value column="Help" isTrl="N" original="Edit the status of payments for the accounting purposes.">Edit the status of payments for the accounting purposes.</value>
   </row>
   <row id="800081" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Accounting Report Setup">User Defined Accounting Report Setup</value>
+    <value column="Name" isTrl="N" original="User Defined Accounting Report Setup">Настройки отчета по бухгалтерским счетам</value>
     <value column="Description" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
     <value column="Help" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
   </row>
@@ -900,7 +900,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create a comprehensive and organized plan to request purchases over a specified time period.">Create a comprehensive and organized plan to request purchases over a specified time period.</value>
   </row>
   <row id="800099" trl="N">
-    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure Setup">Balance sheet and P&amp;L structure Setup</value>
+    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure Setup">Настройка структуры Баланса и Отчета о ПиУ</value>
     <value column="Description" isTrl="N" original="Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.">Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.</value>
     <value column="Help" isTrl="N" original="Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.">Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.</value>
   </row>
@@ -920,7 +920,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="Y" original="Discounts and Promotions Types ">Виды скидок и акций</value>
   </row>
   <row id="929DA14E43E94D4E97863133D930D769" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Dimension 1">User Defined Dimension 1</value>
+    <value column="Name" isTrl="N" original="User Defined Dimension 1">Субконто 1 определено пользователем</value>
     <value column="Description" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
     <value column="Help" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
   </row>
@@ -940,7 +940,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="9F13F7F5BA604C01911589C7E44FAD82" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Dimension 2">User Defined Dimension 2</value>
+    <value column="Name" isTrl="N" original="User Defined Dimension 2">Субконто 2 определено пользователем</value>
     <value column="Description" isTrl="N" original="User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
     <value column="Help" isTrl="N" original="User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
   </row>

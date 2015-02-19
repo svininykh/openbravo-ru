@@ -780,8 +780,8 @@ When the process is finished it is recommended to schedule the "Costing Backgrou
     <value column="Help" isTrl="N" original="Report Total Product Template">Report Total Product Template</value>
   </row>
   <row id="800021" trl="N">
-    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure">Balance sheet and P&amp;L structure</value>
-    <value column="Description" isTrl="N" original="Balance sheet and P&amp;L structure">Balance sheet and P&amp;L structure</value>
+    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure">Структура Баланса и Отчета о ПиУ</value>
+    <value column="Description" isTrl="N" original="Balance sheet and P&amp;L structure">Структура Баланса и Отчета о Прибылях и Убытках</value>
     <value column="Help" isTrl="N" original="The Balance sheet and P&amp;L structure report engine allows to launch the Balance Sheet and P&amp;L which need to be previously configured.">The Balance sheet and P&amp;L structure report engine allows to launch the Balance Sheet and P&amp;L which need to be previously configured.</value>
   </row>
   <row id="800022" trl="N">
@@ -1133,7 +1133,7 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Copy Budget">Copy Budget</value>
   </row>
   <row id="800136" trl="N">
-    <value column="Name" isTrl="N" original="Copy Accounts">Copy Accounts</value>
+    <value column="Name" isTrl="N" original="Copy Accounts">Копировать счета</value>
     <value column="Description" isTrl="N" original="Copy and overwrite Accounts">Copy and overwrite Accounts</value>
     <value column="Help" isTrl="N" original="The Copy Accounts Process will take the accounts defined for a asset group and copy them to any asset that references this group.  If an account exists at the product level it will be overwritten.">The Copy Accounts Process will take the accounts defined for a asset group and copy them to any asset that references this group.  If an account exists at the product level it will be overwritten.</value>
   </row>
@@ -1168,7 +1168,7 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Shipper Report">Shipper Report</value>
   </row>
   <row id="800144" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Accounting Report">User Defined Accounting Report</value>
+    <value column="Name" isTrl="N" original="User Defined Accounting Report">Отчета по бухгалтерским счетам</value>
     <value column="Description" isTrl="N" original="Selects an accounting model to obtain its report.">Selects an accounting model to obtain its report.</value>
     <value column="Help" isTrl="N" original="Selects an accounting model to obtain its report.">Selects an accounting model to obtain its report.</value>
   </row>
