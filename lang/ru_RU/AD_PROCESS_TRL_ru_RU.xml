@@ -212,7 +212,7 @@
   <row id="122" trl="N">
     <value column="Name" isTrl="Y" original="Process Movements">Обработать перемещения</value>
     <value column="Description" isTrl="Y" original="Process Inventory Movements">Обработать складские перемещения</value>
-    <value column="Help" isTrl="N" original="Process Inventory Movements will update inventory quantities based on the defined movements between warehouses or locations.">В результате успешной обработки обновится количество на складе, согласно заявленному перемещению между складами или местами хранения товаров.</value>
+    <value column="Help" isTrl="Y" original="Process Inventory Movements will update inventory quantities based on the defined movements between warehouses or locations.">В результате успешной обработки обновится количество на складе, согласно заявленному перемещению между складами или местами хранения товаров.</value>
   </row>
   <row id="123" trl="N">
     <value column="Name" isTrl="N" original="Generate Commission">Generate Commission</value>
@@ -225,24 +225,24 @@
     <value column="Help" isTrl="N" original="The report shows transaction summary for stored products">The report shows transaction summary for stored products</value>
   </row>
   <row id="127" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Transactions">Проводки по счет-фактуре</value>
-    <value column="Description" isTrl="N" original="Invoice Transactions">Проводки по счет-фактуре</value>
-    <value column="Help" isTrl="N" original="Invoice Transactions">Проводки по счет-фактуре</value>
+    <value column="Name" isTrl="Y" original="Invoice Transactions">Проводки по счет-фактуре</value>
+    <value column="Description" isTrl="Y" original="Invoice Transactions">Проводки по счет-фактуре</value>
+    <value column="Help" isTrl="Y" original="Invoice Transactions">Проводки по счет-фактуре</value>
   </row>
   <row id="128" trl="N">
-    <value column="Name" isTrl="N" original="Daily Invoice">Ежедневная счет-фактура</value>
-    <value column="Description" isTrl="N" original="Daily Invoice">Ежедневная счет-фактура</value>
-    <value column="Help" isTrl="N" original="Daily Invoice">Ежедневная счет-фактура</value>
+    <value column="Name" isTrl="Y" original="Daily Invoice">Ежедневная счет-фактура</value>
+    <value column="Description" isTrl="Y" original="Daily Invoice">Ежедневная счет-фактура</value>
+    <value column="Help" isTrl="Y" original="Daily Invoice">Ежедневная счет-фактура</value>
   </row>
   <row id="129" trl="N">
-    <value column="Name" isTrl="N" original="Monthly Invoice">Ежемесячная счет-фактура</value>
-    <value column="Description" isTrl="N" original="Monthly Invoice">Ежемесячная счет-фактура</value>
-    <value column="Help" isTrl="N" original="Monthly Invoice">Ежемесячная счет-фактура</value>
+    <value column="Name" isTrl="Y" original="Monthly Invoice">Ежемесячная счет-фактура</value>
+    <value column="Description" isTrl="Y" original="Monthly Invoice">Ежемесячная счет-фактура</value>
+    <value column="Help" isTrl="Y" original="Monthly Invoice">Ежемесячная счет-фактура</value>
   </row>
   <row id="130" trl="N">
-    <value column="Name" isTrl="N" original="Weekly Invoice">Еженедельная счет-фактура</value>
-    <value column="Description" isTrl="N" original="Weekly Invoice">Еженедельная счет-фактура</value>
-    <value column="Help" isTrl="N" original="Weekly Invoice">Еженедельная счет-фактура</value>
+    <value column="Name" isTrl="Y" original="Weekly Invoice">Еженедельная счет-фактура</value>
+    <value column="Description" isTrl="Y" original="Weekly Invoice">Еженедельная счет-фактура</value>
+    <value column="Help" isTrl="Y" original="Weekly Invoice">Еженедельная счет-фактура</value>
   </row>
   <row id="131" trl="N">
     <value column="Name" isTrl="N" original="Weekly Product Invoice">Weekly Product Invoice</value>
@@ -267,12 +267,12 @@
   <row id="136" trl="N">
     <value column="Name" isTrl="Y" original="Verify BOM">Проверить спецификацию</value>
     <value column="Description" isTrl="N" original="Verify BOM Structure">Verify BOM Structure</value>
-    <value column="Help" isTrl="N" original="The Verify BOM Structure checks the elements and steps which comprise a Bill of Materials.">Провести сверку компонентов и этапов производства по спецификации необходимого сырья и материалов.</value>
+    <value column="Help" isTrl="Y" original="The Verify BOM Structure checks the elements and steps which comprise a Bill of Materials.">Провести сверку компонентов и этапов производства по спецификации необходимого сырья и материалов.</value>
   </row>
   <row id="137" trl="N">
     <value column="Name" isTrl="Y" original="Create/Process Production">Создать/Обработать производство</value>
     <value column="Description" isTrl="N" original="Create production lines, if not created - otherwise process the production">Create production lines, if not created - otherwise process the production</value>
-    <value column="Help" isTrl="N" original="Create/Post Production will generate the production lines and process the production.  If the production lines already exists, the production will be processed">Будет создан по спецификации список необходимого сырья для производства. Если этот список уже заполнен, будет выполнена обработка производства по спецификации.</value>
+    <value column="Help" isTrl="Y" original="Create/Post Production will generate the production lines and process the production.  If the production lines already exists, the production will be processed">Будет создан по спецификации список необходимого сырья для производства. Если этот список уже заполнен, будет выполнена обработка производства по спецификации.</value>
   </row>
   <row id="138" trl="N">
     <value column="Name" isTrl="N" original="Quarterly Customer Invoice by Product">Quarterly Customer Invoice by Product</value>
@@ -315,9 +315,9 @@
     <value column="Help" isTrl="Y" original="Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. If the receipt line is related to an existing order line, then the price of the invoice line is taken from that order line. In other case, it uses the retrieved price from the price list selected in the below drop-down list.">Генерация счёт-фактуры по накладной основывается на данных текущей накладной. Если строки накладной связаны с строками ордера, тогда цена в счёт-фактуре берётся из строки ордера. Иначе, цена берётся по прейскуранту заданному из выпадающего ниже списка.</value>
   </row>
   <row id="155" trl="N">
-    <value column="Name" isTrl="N" original="Create Payment">Создать платеж</value>
-    <value column="Description" isTrl="N" original="Create Payment">Создать платеж</value>
-    <value column="Help" isTrl="N" original="Create Payment">Создать платеж</value>
+    <value column="Name" isTrl="Y" original="Create Payment">Создать платеж</value>
+    <value column="Description" isTrl="Y" original="Create Payment">Создать платеж</value>
+    <value column="Help" isTrl="Y" original="Create Payment">Создать платеж</value>
   </row>
   <row id="159" trl="N">
     <value column="Name" isTrl="N" original="Dunning Letter">Dunning Letter</value>
@@ -780,8 +780,8 @@ When the process is finished it is recommended to schedule the "Costing Backgrou
     <value column="Help" isTrl="N" original="Report Total Product Template">Report Total Product Template</value>
   </row>
   <row id="800021" trl="N">
-    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure">Структура Баланса и Отчета о ПиУ</value>
-    <value column="Description" isTrl="N" original="Balance sheet and P&amp;L structure">Структура Баланса и Отчета о Прибылях и Убытках</value>
+    <value column="Name" isTrl="Y" original="Balance sheet and P&amp;L structure">Структура Баланса и Отчета о ПиУ</value>
+    <value column="Description" isTrl="Y" original="Balance sheet and P&amp;L structure">Структура Баланса и Отчета о Прибылях и Убытках</value>
     <value column="Help" isTrl="N" original="The Balance sheet and P&amp;L structure report engine allows to launch the Balance Sheet and P&amp;L which need to be previously configured.">The Balance sheet and P&amp;L structure report engine allows to launch the Balance Sheet and P&amp;L which need to be previously configured.</value>
   </row>
   <row id="800022" trl="N">
@@ -860,9 +860,9 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Help" isTrl="N" original="Report product movement">Report product movement</value>
   </row>
   <row id="800048" trl="N">
-    <value column="Name" isTrl="N" original="Move a Storage Bin">Переместить на складе</value>
-    <value column="Description" isTrl="N" original="Move a Storage Bin">Переместить на складе</value>
-    <value column="Help" isTrl="N" original="Move a Storage Bin">Переместить на складе</value>
+    <value column="Name" isTrl="Y" original="Move a Storage Bin">Переместить на складе</value>
+    <value column="Description" isTrl="Y" original="Move a Storage Bin">Переместить на складе</value>
+    <value column="Help" isTrl="Y" original="Move a Storage Bin">Переместить на складе</value>
   </row>
   <row id="800050" trl="N">
     <value column="Name" isTrl="N" original="Warehouse movement">Warehouse movement</value>
@@ -1133,7 +1133,7 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Copy Budget">Copy Budget</value>
   </row>
   <row id="800136" trl="N">
-    <value column="Name" isTrl="N" original="Copy Accounts">Копировать счета</value>
+    <value column="Name" isTrl="Y" original="Copy Accounts">Копировать счета</value>
     <value column="Description" isTrl="N" original="Copy and overwrite Accounts">Copy and overwrite Accounts</value>
     <value column="Help" isTrl="N" original="The Copy Accounts Process will take the accounts defined for a asset group and copy them to any asset that references this group.  If an account exists at the product level it will be overwritten.">The Copy Accounts Process will take the accounts defined for a asset group and copy them to any asset that references this group.  If an account exists at the product level it will be overwritten.</value>
   </row>
@@ -1168,7 +1168,7 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Shipper Report">Shipper Report</value>
   </row>
   <row id="800144" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Accounting Report">Отчета по бухгалтерским счетам</value>
+    <value column="Name" isTrl="Y" original="User Defined Accounting Report">Отчет по бухгалтерским счетам</value>
     <value column="Description" isTrl="N" original="Selects an accounting model to obtain its report.">Selects an accounting model to obtain its report.</value>
     <value column="Help" isTrl="N" original="Selects an accounting model to obtain its report.">Selects an accounting model to obtain its report.</value>
   </row>

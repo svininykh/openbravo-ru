@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_TEXTINTERFACES" version="">
   <row id="02AAEE46AC52441E84CC3D86CDABEC7C" trl="N">
-    <value column="Text" isTrl="N" original="Due Date To:">Дата погашения по:</value>
+    <value column="Text" isTrl="Y" original="Due Date To:">Дата погашения по:</value>
   </row>
   <row id="02F7B62B809A4C7994C6661D4150A410" trl="N">
     <value column="Text" isTrl="N" original="PlannedDSO">PlannedDSO</value>
   </row>
   <row id="044881ABF38E44E1BFE3D28F6992587F" trl="N">
-    <value column="Text" isTrl="N" original="Amount From:">Сумма от:</value>
+    <value column="Text" isTrl="Y" original="Amount From:">Сумма от:</value>
   </row>
   <row id="07E1DCCF2C364609B69C788D366688C7" trl="N">
     <value column="Text" isTrl="N" original="Conversion Date:">Conversion Date:</value>
   </row>
   <row id="0C17541538FA430595E29E3F31DDC072" trl="N">
-    <value column="Text" isTrl="N" original="Document Date To">Дата документа по</value>
+    <value column="Text" isTrl="Y" original="Document Date To">Дата документа по</value>
   </row>
   <row id="0EBE2A7946CE44ABB1095D1176187E6B" trl="N">
     <value column="Text" isTrl="N" original="APRM_FATS_BPARTNER">APRM_FATS_BPARTNER</value>
@@ -37,10 +37,10 @@
     <value column="Text" isTrl="N" original="Sales Person">Sales Person</value>
   </row>
   <row id="23597E0AA4A841E19A8C046894A0EB4E" trl="N">
-    <value column="Text" isTrl="N" original="Due Date From">Дата погашения с</value>
+    <value column="Text" isTrl="Y" original="Due Date From">Дата погашения с</value>
   </row>
   <row id="287D509836E44802A71F49C9648B3312" trl="N">
-    <value column="Text" isTrl="N" original="Document Date From">Дата документа с</value>
+    <value column="Text" isTrl="Y" original="Document Date From">Дата документа с</value>
   </row>
   <row id="28AB1D831E5B413F8CB7065AC7F6C767" trl="N">
     <value column="Text" isTrl="Y" original="Expected Date From:">Ожидаемая дата с:</value>
@@ -106,19 +106,19 @@
     <value column="Text" isTrl="N" original="FINPR_BPartner_Category">FINPR_BPartner_Category</value>
   </row>
   <row id="4B2C2262F89E45D1945A4DDC2A941571" trl="N">
-    <value column="Text" isTrl="N" original="Due Date To">Дата погашения по</value>
+    <value column="Text" isTrl="Y" original="Due Date To">Дата погашения по</value>
   </row>
   <row id="55A3D8825B094737B9E1479A50AE73B1" trl="N">
-    <value column="Text" isTrl="N" original="Status:">Статус:</value>
+    <value column="Text" isTrl="Y" original="Status:">Статус:</value>
   </row>
   <row id="60C048466A5646679B61AAC6240A697A" trl="N">
     <value column="Text" isTrl="Y" original="Expected Date To:">Ожидаемая дата по:</value>
   </row>
   <row id="64984571E7EE46B590D617CAB3D28598" trl="N">
-    <value column="Text" isTrl="N" original="Payment Date To:">Дата платежа по:</value>
+    <value column="Text" isTrl="Y" original="Payment Date To:">Дата платежа по:</value>
   </row>
   <row id="64F1EDBA15314054B3A147A4262B95FE" trl="N">
-    <value column="Text" isTrl="N" original="Document Date From:">Дата документа от:</value>
+    <value column="Text" isTrl="Y" original="Document Date From:">Дата документа от:</value>
   </row>
   <row id="66531E5447774162A53CD03AAEE01C17" trl="N">
     <value column="Text" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
@@ -136,31 +136,31 @@
     <value column="Text" isTrl="N" original="Only empty Business Partner">Only empty Business Partner</value>
   </row>
   <row id="7FF75B077A6D4C2CA4752A0F82AD7B39" trl="N">
-    <value column="Text" isTrl="N" original="Due Date From:">Дата погашения с:</value>
+    <value column="Text" isTrl="Y" original="Due Date From:">Дата погашения с:</value>
   </row>
   <row id="7FFF499FA6DE45D8A60427A22D91165E" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Организация:</value>
+    <value column="Text" isTrl="Y" original="Organization:">Организация:</value>
   </row>
   <row id="81DD7CAF25BE4F17BF5F04B43BB076E0" trl="N">
     <value column="Text" isTrl="N" original="ACCS_ACCOUNT_ID_D">ACCS_ACCOUNT_ID_D</value>
   </row>
   <row id="8747F91C31704FD0A9EC0C35237158BE" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Date">Дата выставления</value>
+    <value column="Text" isTrl="Y" original="Invoice Date">Дата выставления</value>
   </row>
   <row id="8A613E8D2A304FEF9545C2852FC06EF0" trl="N">
-    <value column="Text" isTrl="N" original="Document Date To:">Дата документа с:</value>
+    <value column="Text" isTrl="Y" original="Document Date To:">Дата документа с:</value>
   </row>
   <row id="8B947CC936E44FBCBCE62F4E02A01C63" trl="N">
     <value column="Text" isTrl="N" original="Payment Report">Payment Report</value>
   </row>
   <row id="8DFAF1EEAAE24EE094C0BF142C0BE56A" trl="N">
-    <value column="Text" isTrl="N" original="Payment Date">Дата платежа</value>
+    <value column="Text" isTrl="Y" original="Payment Date">Дата платежа</value>
   </row>
   <row id="937AA8C7B9DA4ACF92B9A1ACA7719A65" trl="N">
-    <value column="Text" isTrl="N" original="Amount To:">Сумма до:</value>
+    <value column="Text" isTrl="Y" original="Amount To:">Сумма до:</value>
   </row>
   <row id="956DE8D037514B20A7303E122AAD2713" trl="N">
-    <value column="Text" isTrl="N" original="Due Date">Дата погашения</value>
+    <value column="Text" isTrl="Y" original="Due Date">Дата погашения</value>
   </row>
   <row id="977F3730B74146ADBB48FCD85218F034" trl="N">
     <value column="Text" isTrl="N" original="CurrentDSO">CurrentDSO</value>
@@ -172,7 +172,7 @@
     <value column="Text" isTrl="Y" original="Financial Account:">Финансовый счёт:</value>
   </row>
   <row id="99EA5838DCBE4CECAB864CC3D50B54AD" trl="N">
-    <value column="Text" isTrl="N" original="Due Date">Дата погашения</value>
+    <value column="Text" isTrl="Y" original="Due Date">Дата погашения</value>
   </row>
   <row id="9A42E119872F46FDA71FC4FF28C9653E" trl="N">
     <value column="Text" isTrl="Y" original="Grouping Criteria">Критерий группировки</value>
@@ -181,10 +181,10 @@
     <value column="Text" isTrl="N" original="Base Amount">Base Amount</value>
   </row>
   <row id="A062D2FD534B478CBBDD8BFE94834193" trl="N">
-    <value column="Text" isTrl="N" original="Payment Date From">Дата платежа с</value>
+    <value column="Text" isTrl="Y" original="Payment Date From">Дата платежа с</value>
   </row>
   <row id="A178474701304374BF37B9FFBB6B8E38" trl="N">
-    <value column="Text" isTrl="N" original="Base Currency">Базовая валюта</value>
+    <value column="Text" isTrl="Y" original="Base Currency">Базовая валюта</value>
   </row>
   <row id="A1CC0391770548668172514B0F7D0DDD" trl="N">
     <value column="Text" isTrl="N" original="Base Amount">Base Amount</value>
@@ -196,7 +196,7 @@
     <value column="Text" isTrl="N" original="Include Payments Using Credit">Include Payments Using Credit</value>
   </row>
   <row id="AF2D1591711675E8E040007F0101337D" trl="N">
-    <value column="Text" isTrl="N" original="Payment Description">Описание платежа</value>
+    <value column="Text" isTrl="Y" original="Payment Description">Описание платежа</value>
   </row>
   <row id="AF2E12144150C776E040007F01013C23" trl="N">
     <value column="Text" isTrl="N" original="Include Payments Using Credit:">Include Payments Using Credit:</value>
@@ -220,7 +220,7 @@
     <value column="Text" isTrl="N" original="** Several invoices have been paid using the same credit payment">** Several invoices have been paid using the same credit payment</value>
   </row>
   <row id="B973837A2C334DC49973CEE4179F43B7" trl="N">
-    <value column="Text" isTrl="N" original="Business Partner Category">Категория контрагента</value>
+    <value column="Text" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
   </row>
   <row id="B9CF74E3592E4EF684332D8BD3F34AE2" trl="N">
     <value column="Text" isTrl="N" original="Financial Account">Financial Account</value>
@@ -247,7 +247,7 @@
     <value column="Text" isTrl="N" original="Overdue:">Overdue:</value>
   </row>
   <row id="C90AC1FF0A6E4D949A89BA6B79B440C1" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Date">Дата выставления</value>
+    <value column="Text" isTrl="Y" original="Invoice Date">Дата выставления</value>
   </row>
   <row id="CF7B2971E5954D8C8A0EE48A8479B3B7" trl="N">
     <value column="Text" isTrl="N" original="Ordering Criteria">Ordering Criteria</value>
@@ -256,13 +256,13 @@
     <value column="Text" isTrl="N" original="Sub Total (Status):">Sub Total (Status):</value>
   </row>
   <row id="D3B9E8172CB74CA98A74A6B119612106" trl="N">
-    <value column="Text" isTrl="N" original="Payment Date From:">Дата платежа с:</value>
+    <value column="Text" isTrl="Y" original="Payment Date From:">Дата платежа с:</value>
   </row>
   <row id="D3DA75B510A54CEDAD7813134FA06BB7" trl="N">
     <value column="Text" isTrl="N" original="Balance: ">Balance: </value>
   </row>
   <row id="D79B532849AC43F09FB38375FB9CBBA2" trl="N">
-    <value column="Text" isTrl="N" original="Payment Date To">Дата платежа по</value>
+    <value column="Text" isTrl="Y" original="Payment Date To">Дата платежа по</value>
   </row>
   <row id="DAFB4AF969704E6A8587DD2F9ED525AD" trl="N">
     <value column="Text" isTrl="N" original="Sales Person">Sales Person</value>
@@ -289,10 +289,10 @@
     <value column="Text" isTrl="N" original="Payment Report">Payment Report</value>
   </row>
   <row id="E748B33C558747D39E79783EC4788B20" trl="N">
-    <value column="Text" isTrl="N" original="Business Partner Category:">Категория контрагента:</value>
+    <value column="Text" isTrl="Y" original="Business Partner Category:">Категория контрагента:</value>
   </row>
   <row id="E8821FAD1F0548E191F19C25EA803222" trl="N">
-    <value column="Text" isTrl="N" original="Deposit/Withdraw Date">Дата Поступления/Выплаты</value>
+    <value column="Text" isTrl="Y" original="Deposit/Withdraw Date">Дата Поступления/Выплаты</value>
   </row>
   <row id="EA4AB68461A14FEDBB4CA15CAB168555" trl="N">
     <value column="Text" isTrl="Y" original="Expected Date From">Ожидаемая дата с</value>
@@ -304,9 +304,9 @@
     <value column="Text" isTrl="N" original="Transactional Amount">Transactional Amount</value>
   </row>
   <row id="F8F132DDFDF14ECF8FA7C78CD88A4821" trl="N">
-    <value column="Text" isTrl="N" original="None">Ни одного</value>
+    <value column="Text" isTrl="Y" original="None">Ни одного</value>
   </row>
   <row id="F931748E59634FB1BA40BCF5FA01EFCC" trl="N">
-    <value column="Text" isTrl="N" original="Invoice Date">Дата выставления</value>
+    <value column="Text" isTrl="Y" original="Invoice Date">Дата выставления</value>
   </row>
 </compiereTrl>

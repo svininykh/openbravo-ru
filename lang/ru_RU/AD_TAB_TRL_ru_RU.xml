@@ -43,7 +43,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="0F76B56EB2874C729ABE1665D5853E9D" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost">Накладные расходы</value>
+    <value column="Name" isTrl="Y" original="Landed Cost">Накладные расходы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Landed Cost tab allows to allocate additional costs to the goods receipt.">Landed Cost tab allows to allocate additional costs to the goods receipt.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1831,14 +1831,16 @@ The corresponding tables have then the following setting:
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit attributes to be assigned to attribute sets.">Create and edit attributes to be assigned to attribute sets.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;">Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;</value>
+    <value column="Help" isTrl="N" original="Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. &#10;">Attribute window allows to create and edit attributes such as color or size to be assigned to attribute sets. 
+</value>
   </row>
   <row id="463" trl="N">
     <value column="Name" isTrl="Y" original="Attribute Value">Значение характеристики</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define individual characteristic values of this attribute.">Define individual characteristic values of this attribute.</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;">An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;</value>
+    <value column="Help" isTrl="N" original="An attribute can have several values or individual characteristics to be detailed for each attribute. &#10;">An attribute can have several values or individual characteristics to be detailed for each attribute. 
+</value>
   </row>
   <row id="464" trl="N">
     <value column="Name" isTrl="Y" original="Lot">Партия</value>
@@ -2170,7 +2172,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Specific objects for web.xml file">Specific objects for web.xml file</value>
   </row>
   <row id="5DD4A4D36D71411FB3BE2783C3D55473" trl="N">
-    <value column="Name" isTrl="N" original="Organization Type">Вид организации</value>
+    <value column="Name" isTrl="Y" original="Organization Type">Вид организации</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Defines an organization type which will be available into the system">Defines an organization type which will be available into the system</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2185,7 +2187,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add invoices corresponding to the outsourced part of a completed work requirement.">Add invoices corresponding to the outsourced part of a completed work requirement.</value>
   </row>
   <row id="5EE59CF00EF846DD953BB27BBF44E696" trl="N">
-    <value column="Name" isTrl="N" original="Header">Заголовок</value>
+    <value column="Name" isTrl="Y" original="Header">Заголовок</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Landed Cost Types can be defined either as a &quot;Product&quot; or as an &quot;Account&quot; (G/L Item). Besides that a distribution algorithm can be define to configure the way landed costs are going to be allocated to products.">Landed Cost Types can be defined either as a "Product" or as an "Account" (G/L Item). Besides that a distribution algorithm can be define to configure the way landed costs are going to be allocated to products.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2241,7 +2243,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Define and maintain tree references which make it possible to search through a suggestion box, a drop-down or a popup tree window with multiple search columns.">Define and maintain tree references which make it possible to search through a suggestion box, a drop-down or a popup tree window with multiple search columns.</value>
   </row>
   <row id="671B313575F54538990EC8834C0C4A2B" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Dimension 1">Субконто 1 определено пользователем</value>
+    <value column="Name" isTrl="Y" original="User Defined Dimension 1">Субконто 1 определено пользователем</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="The User Defined Dimension 1 window allows to create the values of the user defined accounting dimension.">The User Defined Dimension 1 window allows to create the values of the user defined accounting dimension.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2360,7 +2362,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Org Schema tabs allows to add or to review the accounting schema/s of the organization.">Org Schema tabs allows to add or to review the accounting schema/s of the organization.</value>
   </row>
   <row id="769BB4BF6B0B4C39AD28E9A00D260F33" trl="N">
-    <value column="Name" isTrl="N" original="Characteristics">Характеристики</value>
+    <value column="Name" isTrl="Y" original="Characteristics">Характеристики</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2374,7 +2376,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="The lines tab allows to enter the journal entries of a G/L journal as well as G/L item payment related information.">The lines tab allows to enter the journal entries of a G/L journal as well as G/L item payment related information.</value>
   </row>
   <row id="77B382924865466E8333415AAA1263CC" trl="N">
-    <value column="Name" isTrl="N" original="Characteristic Configuration">Параметры характеристик</value>
+    <value column="Name" isTrl="Y" original="Characteristic Configuration">Параметры характеристик</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3319,7 +3321,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="This tab lists information about the discounts automatically applied based on the supplier configuration and / or manually entered for the purchase invoice.">This tab lists information about the discounts automatically applied based on the supplier configuration and / or manually entered for the purchase invoice.</value>
   </row>
   <row id="800212" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Accounting Report Setup">Настройки отчета по бухгалтерским счетам</value>
+    <value column="Name" isTrl="Y" original="User Defined Accounting Report Setup">Настройки отчета по бухгалтерским счетам</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View detailed general ledger entries for a specified time period.">View detailed general ledger entries for a specified time period.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3732,7 +3734,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create an obligation for accounting to expect to receive all or part of your sales order amount in advance.">Create an obligation for accounting to expect to receive all or part of your sales order amount in advance.</value>
   </row>
   <row id="885A6DB490044F3F8528373B60E3D9F5" trl="N">
-    <value column="Name" isTrl="N" original="Period Control">Контроль периода</value>
+    <value column="Name" isTrl="Y" original="Period Control">Контроль периода</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3760,7 +3762,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="New warehouse rules can only by applied by extension modules which must include a dataset with the definition of the rule and a procedure that implements it.">New warehouse rules can only by applied by extension modules which must include a dataset with the definition of the rule and a procedure that implements it.</value>
   </row>
   <row id="8BAC66D939B344C2A6702725D75FB079" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Dimension 2">Субконто 2 определено пользователем</value>
+    <value column="Name" isTrl="Y" original="User Defined Dimension 2">Субконто 2 определено пользователем</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="Y" original="The User Defined Dimension 2 window allows to create the values of the user defined accounting dimension.">User Defined Dimension 2</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3858,7 +3860,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Accounting information related to the sales invoice">Accounting information related to the sales invoice</value>
   </row>
   <row id="A43B5CFC17754AED86B9E57F71460C4E" trl="N">
-    <value column="Name" isTrl="N" original="Characteristic Values">Значения характеристики</value>
+    <value column="Name" isTrl="Y" original="Characteristic Values">Значения характеристики</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -3879,11 +3881,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="A661A0A05DCD4650BCB14B010C87F0AA" trl="N">
-    <value column="Name" isTrl="N" original="Characteristic">Характеристика</value>
+    <value column="Name" isTrl="Y" original="Characteristic">Характеристика</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Characteristic definition">Заданная характеристика</value>
+    <value column="Help" isTrl="Y" original="Characteristic definition">Заданная характеристика</value>
   </row>
   <row id="A6BA61CF899D457B9E8AA1C83BB79C5B" trl="N">
     <value column="Name" isTrl="N" original="Variants">Variants</value>
@@ -4168,7 +4170,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit taxes applied to your order.">Edit taxes applied to your order.</value>
   </row>
   <row id="D28DF93499FC45D4B1DC4C0029FFA914" trl="N">
-    <value column="Name" isTrl="N" original="Characteristics">Характеристики</value>
+    <value column="Name" isTrl="Y" original="Characteristics">Характеристики</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add product characteristics in order to include or exclude them from a selected Promotion/Discount..">Add product characteristics in order to include or exclude them from a selected Promotion/Discount..</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -4238,7 +4240,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Add products to be included in your sales quotation.  Each product can be added by creating a new line.">Add products to be included in your sales quotation.  Each product can be added by creating a new line.</value>
   </row>
   <row id="E429CB8F5CDF4D8395B76D553E72A2D0" trl="N">
-    <value column="Name" isTrl="N" original="Period Control">Контроль периода</value>
+    <value column="Name" isTrl="Y" original="Period Control">Контроль периода</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>

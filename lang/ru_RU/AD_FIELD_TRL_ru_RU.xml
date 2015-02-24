@@ -222,8 +222,8 @@
   </row>
   <row id="3747" trl="N">
     <value column="Name" isTrl="Y" original="Verify BOM">Проверить спецификацию</value>
-    <value column="Description" isTrl="N" original="Verify BOM Structure">Проверить спецификацию</value>
-    <value column="Help" isTrl="N" original="The Verify BOM Structure checks the elements and steps which comprise a Bill of Materials.">Провести сверку компонентов и этапов производства по спецификации необходимого сырья и материалов.</value>
+    <value column="Description" isTrl="Y" original="Verify BOM Structure">Проверить спецификацию</value>
+    <value column="Help" isTrl="Y" original="The Verify BOM Structure checks the elements and steps which comprise a Bill of Materials.">Провести сверку компонентов и этапов производства по спецификации необходимого сырья и материалов.</value>
   </row>
   <row id="37CB520066824462B975F7293A547925" trl="N">
     <value column="Name" isTrl="N" original="RM order">RM order</value>
@@ -591,7 +591,7 @@
     <value column="Help" isTrl="N" original="Generate Purchase Order From Project">Generate Purchase Order From Project</value>
   </row>
   <row id="800446" trl="N">
-    <value column="Name" isTrl="N" original="Amount">Сумма</value>
+    <value column="Name" isTrl="Y" original="Amount">Сумма</value>
     <value column="Description" isTrl="N" original="Amount in a defined currency">Amount in a defined currency</value>
     <value column="Help" isTrl="N" original="The Amount indicates the amount for this document line.">The Amount indicates the amount for this document line.</value>
   </row>
@@ -801,7 +801,7 @@
     <value column="Help" isTrl="N" original="A unique identifier and a reference to an order line (product).">A unique identifier and a reference to an order line (product).</value>
   </row>
   <row id="804131" trl="N">
-    <value column="Name" isTrl="N" original="Grouping category">Группировка по категориям</value>
+    <value column="Name" isTrl="Y" original="Grouping category">Группировка по категориям</value>
     <value column="Description" isTrl="N" original="Acct Rpt Group">Acct Rpt Group</value>
     <value column="Help" isTrl="N" original="Accounting Report Group defines groups for general accounting reports.">Accounting Report Group defines groups for general accounting reports.</value>
   </row>
@@ -998,7 +998,7 @@
     <value column="Help" isTrl="N" original="Tax Rate to be used in all sales invoices belonging to this Organization (in except of tax rates included in sales invoices, that have got the Is Tax Deductable flag active)">Tax Rate to be used in all sales invoices belonging to this Organization (in except of tax rates included in sales invoices, that have got the Is Tax Deductable flag active)</value>
   </row>
   <row id="BEAEE8F7263C47798AD3C4DC486893BD" trl="N">
-    <value column="Name" isTrl="N" original="GL Item">Проводка Г/К</value>
+    <value column="Name" isTrl="Y" original="GL Item">Проводка Г/К</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

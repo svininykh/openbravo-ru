@@ -51,8 +51,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1D4D93F0B7034CF5A7C2C9E3F0B04293" trl="N">
-    <value column="Name" isTrl="N" original="Payment Method">Способ оплаты</value>
-    <value column="PrintName" isTrl="N" original="Payment Method">Способ оплаты</value>
+    <value column="Name" isTrl="Y" original="Payment Method">Способ оплаты</value>
+    <value column="PrintName" isTrl="Y" original="Payment Method">Способ оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -61,8 +61,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="256AB5C3D6144B2C9884CF0FA4D81911" trl="N">
-    <value column="Name" isTrl="N" original="Payment Date">Дата платежа</value>
-    <value column="PrintName" isTrl="N" original="Payment Date">Дата платежа</value>
+    <value column="Name" isTrl="Y" original="Payment Date">Дата платежа</value>
+    <value column="PrintName" isTrl="Y" original="Payment Date">Дата платежа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -121,10 +121,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="399FFABE15CF42CEB8629148E07D5403" trl="N">
-    <value column="Name" isTrl="N" original="Amount on Invoices and/or Orders">Сумма по счетам и/или ордерам</value>
-    <value column="PrintName" isTrl="N" original="Amount on Invoices and/or Orders">Сумма по счетам и/или ордерам</value>
-    <value column="Description" isTrl="N" original="Amount on Invoices and/or Orders">Сумма по счетам и/или ордерам</value>
-    <value column="Help" isTrl="N" original="Amount on Invoices and/or Orders">Сумма по счетам и/или ордерам</value>
+    <value column="Name" isTrl="Y" original="Amount on Invoices and/or Orders">Сумма по счетам и/или ордерам</value>
+    <value column="PrintName" isTrl="Y" original="Amount on Invoices and/or Orders">Сумма по счетам и/или ордерам</value>
+    <value column="Description" isTrl="Y" original="Amount on Invoices and/or Orders">Сумма по счетам и/или ордерам</value>
+    <value column="Help" isTrl="Y" original="Amount on Invoices and/or Orders">Сумма по счетам и/или ордерам</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -141,8 +141,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="429B447E4FE9420287E1EEB75DC341E9" trl="N">
-    <value column="Name" isTrl="N" original="Action Regarding Document">Действие с документом</value>
-    <value column="PrintName" isTrl="N" original="Action Regarding Document">Действие с документом</value>
+    <value column="Name" isTrl="Y" original="Action Regarding Document">Действие с документом</value>
+    <value column="PrintName" isTrl="Y" original="Action Regarding Document">Действие с документом</value>
     <value column="Description" isTrl="N" original="A drop down list box indicating the actions regarding document">A drop down list box indicating the actions regarding document</value>
     <value column="Help" isTrl="N" original="A drop down list box indicating the actions regarding document">A drop down list box indicating the actions regarding document</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -221,8 +221,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="533E204A46FD4BB9AED3D9FC26EEC67C" trl="N">
-    <value column="Name" isTrl="N" original="Payment Method">Способ оплаты</value>
-    <value column="PrintName" isTrl="N" original="Payment Method">Способ оплаты</value>
+    <value column="Name" isTrl="Y" original="Payment Method">Способ оплаты</value>
+    <value column="PrintName" isTrl="Y" original="Payment Method">Способ оплаты</value>
     <value column="Description" isTrl="N" original="It is the method by which payment is expected to be made or received.">It is the method by which payment is expected to be made or received.</value>
     <value column="Help" isTrl="N" original="It is the method by which payment is expected to be made or received.">It is the method by which payment is expected to be made or received.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -351,8 +351,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6BC644F4DC3248E2998DE88C055826B2" trl="N">
-    <value column="Name" isTrl="N" original="Order/Invoice">Ордер/Счет-фактура</value>
-    <value column="PrintName" isTrl="N" original="Order/Invoice">Ордер/Счет-фактура</value>
+    <value column="Name" isTrl="Y" original="Order/Invoice">Ордер/Счет-фактура</value>
+    <value column="PrintName" isTrl="Y" original="Order/Invoice">Ордер/Счет-фактура</value>
     <value column="Description" isTrl="N" original="Orders and Invoices to be paid">Orders and Invoices to be paid</value>
     <value column="Help" isTrl="N" original="Orders and Invoices to be paid">Orders and Invoices to be paid</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -371,8 +371,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6D7CB8FA9C4644E8B0AFDA576D134B6A" trl="N">
-    <value column="Name" isTrl="N" original="Reference No.">Идентификатор</value>
-    <value column="PrintName" isTrl="N" original="Reference No.">Идентификатор</value>
+    <value column="Name" isTrl="Y" original="Reference No.">Идентификатор</value>
+    <value column="PrintName" isTrl="Y" original="Reference No.">Идентификатор</value>
     <value column="Description" isTrl="N" original="The number for a specific reference.">The number for a specific reference.</value>
     <value column="Help" isTrl="N" original="The reference number can be printed on orders and invoices to allow your business partner to faster identify your records.">The reference number can be printed on orders and invoices to allow your business partner to faster identify your records.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -681,9 +681,9 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="904EC23F6DE3450F91EAD0C30862220D" trl="N">
-    <value column="Name" isTrl="N" original="Expected Amount">Ожидаемая сумма</value>
-    <value column="PrintName" isTrl="N" original="Expected Amount">Ожидаемая сумма</value>
-    <value column="Description" isTrl="N" original="Expected Amount">Ожидаемая сумма</value>
+    <value column="Name" isTrl="Y" original="Expected Amount">Ожидаемая сумма</value>
+    <value column="PrintName" isTrl="Y" original="Expected Amount">Ожидаемая сумма</value>
+    <value column="Description" isTrl="Y" original="Expected Amount">Ожидаемая сумма</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -951,14 +951,14 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C1DA4E5EEEDE4FE5B2E9411AA411BF67" trl="N">
-    <value column="Name" isTrl="N" original="Received From">Было получено от</value>
-    <value column="PrintName" isTrl="N" original="Received From">Было получено от</value>
+    <value column="Name" isTrl="Y" original="Received From">Было получено от</value>
+    <value column="PrintName" isTrl="Y" original="Received From">Было получено от</value>
     <value column="Description" isTrl="N" original="Is the Payee of the invoice. Defaulted to the Business Partner from the Invoice">Is the Payee of the invoice. Defaulted to the Business Partner from the Invoice</value>
     <value column="Help" isTrl="N" original="Is the Payee of the invoice. Defaulted to the Business Partner from the Invoice">Is the Payee of the invoice. Defaulted to the Business Partner from the Invoice</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original="To Be Paid To">Будет выплачено для</value>
-    <value column="PO_PrintName" isTrl="N" original="To Be Paid To">Будет выплачено для</value>
+    <value column="PO_Name" isTrl="Y" original="To Be Paid To">Будет выплачено для</value>
+    <value column="PO_PrintName" isTrl="Y" original="To Be Paid To">Будет выплачено для</value>
   </row>
   <row id="C581AB086E0141EEAA2EEAA8605BD8F0" trl="N">
     <value column="Name" isTrl="N" original="id">id</value>
@@ -971,8 +971,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C5BB574D9652494086707528FF8175D6" trl="N">
-    <value column="Name" isTrl="N" original="Select Expected Payments">Выбор ожидаемых платежей</value>
-    <value column="PrintName" isTrl="N" original="Select Expected Payments">Выбор ожидаемых платежей</value>
+    <value column="Name" isTrl="Y" original="Select Expected Payments">Выбор ожидаемых платежей</value>
+    <value column="PrintName" isTrl="Y" original="Select Expected Payments">Выбор ожидаемых платежей</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -991,8 +991,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C923C2DF529C426AABDFB31E1CFF2760" trl="N">
-    <value column="Name" isTrl="N" original="Actual Payment">Фактический платёж</value>
-    <value column="PrintName" isTrl="N" original="Actual Payment">Фактический платёж</value>
+    <value column="Name" isTrl="Y" original="Actual Payment">Фактический платёж</value>
+    <value column="PrintName" isTrl="Y" original="Actual Payment">Фактический платёж</value>
     <value column="Description" isTrl="N" original="Is the amount paid">Is the amount paid</value>
     <value column="Help" isTrl="N" original="Is the amount paid">Is the amount paid</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1063,8 +1063,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="DABC92A3E32E4DBFB78068CF6A4FBAC7" trl="N">
-    <value column="Name" isTrl="N" original="GL Item">Проводка Г/К</value>
-    <value column="PrintName" isTrl="N" original="GL Item">Проводка Г/К</value>
+    <value column="Name" isTrl="Y" original="GL Item">Проводка Г/К</value>
+    <value column="PrintName" isTrl="Y" original="GL Item">Проводка Г/К</value>
     <value column="Description" isTrl="N" original="G/L Items  added as part of a given payment">G/L Items  added as part of a given payment</value>
     <value column="Help" isTrl="N" original="G/L Items  added as part of a given payment">G/L Items  added as part of a given payment</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1103,8 +1103,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="DF96F3B1C94743F9BEFA1555FBD2BB23" trl="N">
-    <value column="Name" isTrl="N" original="Conversion Rate">Курс обмена</value>
-    <value column="PrintName" isTrl="N" original="Conversion Rate">Курс обмена</value>
+    <value column="Name" isTrl="Y" original="Conversion Rate">Курс обмена</value>
+    <value column="PrintName" isTrl="Y" original="Conversion Rate">Курс обмена</value>
     <value column="Description" isTrl="N" original="The amount or quantity at which one unit of measure is changed to another.">The amount or quantity at which one unit of measure is changed to another.</value>
     <value column="Help" isTrl="N" original="The Conversion Rate defines the rate (multiply or divide) to use when converting a source currency to an accounting currency.">The Conversion Rate defines the rate (multiply or divide) to use when converting a source currency to an accounting currency.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1113,14 +1113,14 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="E33F3B5BAC75488DAAAC10471326EFFA" trl="N">
-    <value column="Name" isTrl="N" original="Deposit To">Принять в</value>
-    <value column="PrintName" isTrl="N" original="Deposit To">Принять в</value>
+    <value column="Name" isTrl="Y" original="Deposit To">Принять в</value>
+    <value column="PrintName" isTrl="Y" original="Deposit To">Принять в</value>
     <value column="Description" isTrl="N" original="Financial Account to which the amount is going to be deposited.">Financial Account to which the amount is going to be deposited.</value>
     <value column="Help" isTrl="N" original="Financial Account to which the amount is going to be deposited.">Financial Account to which the amount is going to be deposited.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original="Take From">Выплатить из</value>
-    <value column="PO_PrintName" isTrl="N" original="Take From">Выплатить из</value>
+    <value column="PO_Name" isTrl="Y" original="Take From">Выплатить из</value>
+    <value column="PO_PrintName" isTrl="Y" original="Take From">Выплатить из</value>
   </row>
   <row id="E9AA03CAEC954FF8B268C2C164BA6CBF" trl="N">
     <value column="Name" isTrl="N" original="Organization Display Logic">Organization Display Logic</value>
@@ -1163,8 +1163,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="F1D81ADE47094291B577E6B10B2B95E4" trl="N">
-    <value column="Name" isTrl="N" original="There is a difference of">Расхождение</value>
-    <value column="PrintName" isTrl="N" original="There is a difference of">Расхождение</value>
+    <value column="Name" isTrl="Y" original="There is a difference of">Расхождение</value>
+    <value column="PrintName" isTrl="Y" original="There is a difference of">Расхождение</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1173,10 +1173,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="F3ABC3F6561D43CF8C08E69212487ECE" trl="N">
-    <value column="Name" isTrl="N" original="Order No.">Ордер №</value>
-    <value column="PrintName" isTrl="N" original="Order No.">Ордер №</value>
-    <value column="Description" isTrl="N" original="Order Number">Номер ордера</value>
-    <value column="Help" isTrl="N" original="Order Number">Номер ордера</value>
+    <value column="Name" isTrl="Y" original="Order No.">Ордер №</value>
+    <value column="PrintName" isTrl="Y" original="Order No.">Ордер №</value>
+    <value column="Description" isTrl="Y" original="Order Number">Номер ордера</value>
+    <value column="Help" isTrl="Y" original="Order Number">Номер ордера</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1193,18 +1193,18 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="F5D2D2099B7D4949838CA0D405D55BB2" trl="N">
-    <value column="Name" isTrl="N" original="Amount on GL Items">Сумма по проводкам Г/К</value>
-    <value column="PrintName" isTrl="N" original="Amount on GL Items">Сумма по проводкам Г/К</value>
-    <value column="Description" isTrl="N" original="Amount on GL Items">Сумма по проводкам Г/К</value>
-    <value column="Help" isTrl="N" original="Amount on GL Items">Сумма по проводкам Г/К</value>
+    <value column="Name" isTrl="Y" original="Amount on GL Items">Сумма по проводкам Г/К</value>
+    <value column="PrintName" isTrl="Y" original="Amount on GL Items">Сумма по проводкам Г/К</value>
+    <value column="Description" isTrl="Y" original="Amount on GL Items">Сумма по проводкам Г/К</value>
+    <value column="Help" isTrl="Y" original="Amount on GL Items">Сумма по проводкам Г/К</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="F726F34EDB774C969FE577766A811E76" trl="N">
-    <value column="Name" isTrl="N" original="Payment Document No.">>Платёжный документ №</value>
-    <value column="PrintName" isTrl="N" original="Payment Document No.">>Платёжный документ №</value>
+    <value column="Name" isTrl="Y" original="Payment Document No.">Платёжный документ №</value>
+    <value column="PrintName" isTrl="Y" original="Payment Document No.">Платёжный документ №</value>
     <value column="Description" isTrl="N" original="Document number of the payment ">Document number of the payment </value>
     <value column="Help" isTrl="N" original="Document number of the payment">Document number of the payment</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -1223,10 +1223,10 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="F8CF71B37C84442EB5526AF3998BEBBF" trl="N">
-    <value column="Name" isTrl="N" original="Expected Payment">Ожидаемый платёж</value>
-    <value column="PrintName" isTrl="N" original="Expected Payment">Ожидаемый платёж</value>
-    <value column="Description" isTrl="N" original="Expected Payment">Ожидаемый платёж</value>
-    <value column="Help" isTrl="N" original="Expected Payment">Ожидаемый платёж</value>
+    <value column="Name" isTrl="Y" original="Expected Payment">Ожидаемый платёж</value>
+    <value column="PrintName" isTrl="Y" original="Expected Payment">Ожидаемый платёж</value>
+    <value column="Description" isTrl="Y" original="Expected Payment">Ожидаемый платёж</value>
+    <value column="Help" isTrl="Y" original="Expected Payment">Ожидаемый платёж</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>

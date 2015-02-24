@@ -1033,7 +1033,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="257F25CAB32A4009AA45EFCE2ADE5F1C" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost">Накладные расходы</value>
+    <value column="Name" isTrl="Y" original="Landed Cost">Накладные расходы</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="258" trl="Y">
@@ -1225,7 +1225,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="306" trl="N">
-    <value column="Name" isTrl="N" original="AR Invoice">Расходная СФ</value>
+    <value column="Name" isTrl="Y" original="AR Invoice">Расходная СФ</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="307" trl="N">
@@ -1545,19 +1545,19 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="387" trl="N">
-    <value column="Name" isTrl="N" original="String">Строка</value>
+    <value column="Name" isTrl="Y" original="String">Строка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="388" trl="N">
-    <value column="Name" isTrl="N" original="Number">Число</value>
+    <value column="Name" isTrl="Y" original="Number">Число</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="389" trl="N">
-    <value column="Name" isTrl="N" original="Date">Дата</value>
+    <value column="Name" isTrl="Y" original="Date">Дата</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="390" trl="N">
-    <value column="Name" isTrl="N" original="Constant">Константа</value>
+    <value column="Name" isTrl="Y" original="Constant">Константа</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="391" trl="N">
@@ -2649,7 +2649,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="7D10DB31B24A4ACAA68FAB36DA3F82FB" trl="N">
-    <value column="Name" isTrl="N" original="Product Characteristic">Характеристики товара</value>
+    <value column="Name" isTrl="Y" original="Product Characteristic">Характеристики товара</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="7E67333C2FC749B780E70A8DF91891AF" trl="N">
@@ -2797,11 +2797,11 @@
     <value column="Description" isTrl="N" original="Settlement of debt-payments">Settlement of debt-payments</value>
   </row>
   <row id="800032" trl="N">
-    <value column="Name" isTrl="N" original="Cancel/Generate">Отменить/Создать</value>
+    <value column="Name" isTrl="Y" original="Cancel/Generate">Отменить/Создать</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800033" trl="N">
-    <value column="Name" isTrl="N" original="GL Item">Проводка Г/К</value>
+    <value column="Name" isTrl="Y" original="GL Item">Проводка Г/К</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800034" trl="N">
@@ -3481,7 +3481,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800236" trl="N">
-    <value column="Name" isTrl="N" original="User defined">Определено пользователем</value>
+    <value column="Name" isTrl="Y" original="User defined">Определено пользователем</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="800237" trl="N">
@@ -3889,7 +3889,7 @@
     <value column="Description" isTrl="N" original="First specified weekday of the month.">First specified weekday of the month.</value>
   </row>
   <row id="A5E76849613D4568B988BDE5F9A5BB7A" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost">Накладные расходы</value>
+    <value column="Name" isTrl="Y" original="Landed Cost">Накладные расходы</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A6013E760F1240988DC3FB463EA569F7" trl="N">
@@ -3913,7 +3913,7 @@
     <value column="Description" isTrl="Y" original="Cost Center">Центр затрат</value>
   </row>
   <row id="A7DC8BEB84F746AFB15C2570366AB246" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost Cost">Сумма накладных расходов</value>
+    <value column="Name" isTrl="Y" original="Landed Cost Cost">Сумма накладных расходов</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A8B33A78E45F474DA5CCA51E61D5B32D" trl="N">
@@ -4305,7 +4305,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="DD3B45F6E92E41458FBFFEF977EEE480" trl="N">
-    <value column="Name" isTrl="N" original="Area">Площадь</value>
+    <value column="Name" isTrl="Y" original="Area">Площадь</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="DDB179FA9EDE41E0B30BBF8AD59ADA16" trl="N">

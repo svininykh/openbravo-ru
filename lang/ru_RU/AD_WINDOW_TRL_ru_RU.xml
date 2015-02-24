@@ -405,7 +405,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Edit the subsection field group properties of tabs.">Edit the subsection field group properties of tabs.</value>
   </row>
   <row id="207" trl="N">
-    <value column="Name" isTrl="N" original="Commission">Комиссия</value>
+    <value column="Name" isTrl="Y" original="Commission">Комиссия</value>
     <value column="Description" isTrl="N" original="Define how and when you want commissions to be calculated and to whom they are to be paid.">Define how and when you want commissions to be calculated and to whom they are to be paid.</value>
     <value column="Help" isTrl="N" original="Define how and when commissions are going to be calculated and to whom they are going to be paid.">Define how and when commissions are going to be calculated and to whom they are going to be paid.</value>
   </row>
@@ -502,7 +502,8 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="260" trl="N">
     <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
     <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
-    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest. &#10;</value>
+    <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest. 
+</value>
   </row>
   <row id="264" trl="N">
     <value column="Name" isTrl="Y" original="Session">Сессия</value>
@@ -615,7 +616,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Supplier's payments and prepayments can be made and managed in the payment out window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.">Supplier's payments and prepayments can be made and managed in the payment out window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.</value>
   </row>
   <row id="6FAD464D6C5C487F956B49E8B5EFC761" trl="N">
-    <value column="Name" isTrl="N" original="Product Characteristic">Характеристики товара</value>
+    <value column="Name" isTrl="Y" original="Product Characteristic">Характеристики товара</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Product Characteristic can be defined to complete the definition of a product using variants.">Product Characteristic can be defined to complete the definition of a product using variants.</value>
   </row>
@@ -835,12 +836,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create and edit budgets to be used for informative purposes.">Create and edit budgets to be used for informative purposes.</value>
   </row>
   <row id="800080" trl="N">
-    <value column="Name" isTrl="N" original="Payment Status Management">Управление статусом платежа</value>
+    <value column="Name" isTrl="Y" original="Payment Status Management">Управление статусом платежа</value>
     <value column="Description" isTrl="N" original="Edit the status of payments for the accounting purposes.">Edit the status of payments for the accounting purposes.</value>
     <value column="Help" isTrl="N" original="Edit the status of payments for the accounting purposes.">Edit the status of payments for the accounting purposes.</value>
   </row>
   <row id="800081" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Accounting Report Setup">Настройки отчета по бухгалтерским счетам</value>
+    <value column="Name" isTrl="Y" original="User Defined Accounting Report Setup">Настройки отчета по бухгалтерским счетам</value>
     <value column="Description" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
     <value column="Help" isTrl="N" original="Define parameters and methods of showing reports.">Define parameters and methods of showing reports.</value>
   </row>
@@ -900,7 +901,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Create a comprehensive and organized plan to request purchases over a specified time period.">Create a comprehensive and organized plan to request purchases over a specified time period.</value>
   </row>
   <row id="800099" trl="N">
-    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure Setup">Настройка структуры Баланса и Отчета о ПиУ</value>
+    <value column="Name" isTrl="Y" original="Balance sheet and P&amp;L structure Setup">Настройка структуры Баланса и Отчета о ПиУ</value>
     <value column="Description" isTrl="N" original="Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.">Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.</value>
     <value column="Help" isTrl="N" original="Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.">Balance Sheet and P&amp;L structure setup allows to configure the two main financial reports which are the Balance Sheet and the P&amp;L.</value>
   </row>
@@ -920,12 +921,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="Y" original="Discounts and Promotions Types ">Виды скидок и акций</value>
   </row>
   <row id="929DA14E43E94D4E97863133D930D769" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Dimension 1">Субконто 1 определено пользователем</value>
+    <value column="Name" isTrl="Y" original="User Defined Dimension 1">Субконто 1 определено пользователем</value>
     <value column="Description" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
     <value column="Help" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
   </row>
   <row id="944C49CE80BE4F71B9917BD680A052A8" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost Type">Тип накладных расходов</value>
+    <value column="Name" isTrl="Y" original="Landed Cost Type">Тип накладных расходов</value>
     <value column="Description" isTrl="N" original="Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.">Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.</value>
     <value column="Help" isTrl="N" original="Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.">Landed Cost Types window allows to define different types of Landed Costs that can be assigned to Goods Receipts and therefore allocated to the products included in the receipts.</value>
   </row>
@@ -940,7 +941,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="9F13F7F5BA604C01911589C7E44FAD82" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Dimension 2">Субконто 2 определено пользователем</value>
+    <value column="Name" isTrl="Y" original="User Defined Dimension 2">Субконто 2 определено пользователем</value>
     <value column="Description" isTrl="N" original="User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
     <value column="Help" isTrl="N" original="User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
   </row>
@@ -965,12 +966,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.">Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.</value>
   </row>
   <row id="B43A89704D864A6995BD5AC32201DBD9" trl="N">
-    <value column="Name" isTrl="N" original="Condition of the goods">Состояние товаров</value>
+    <value column="Name" isTrl="Y" original="Condition of the goods">Состояние товаров</value>
     <value column="Description" isTrl="N" original="Condition of the goods to be used in window RM receipt">Condition of the goods to be used in window RM receipt</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B5673F73F613496C8BEA22FB55E4E1E4" trl="N">
-    <value column="Name" isTrl="N" original="End Year Close">Закрытие в конце года</value>
+    <value column="Name" isTrl="Y" original="End Year Close">Закрытие в конце года</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -980,7 +981,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B917E8A7B0864ACEA9D941E3B7494E53" trl="N">
-    <value column="Name" isTrl="N" original="Simple G/L Journal">Простой журнал по Г/К</value>
+    <value column="Name" isTrl="Y" original="Simple G/L Journal">Простой журнал по Г/К</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -990,17 +991,17 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="C846A9EFF5D741A693029D516432BF6C" trl="N">
-    <value column="Name" isTrl="N" original="Process Group">Групповая обработка</value>
+    <value column="Name" isTrl="Y" original="Process Group">Групповая обработка</value>
     <value column="Description" isTrl="N" original="Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.">Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.</value>
     <value column="Help" isTrl="N" original="Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.">Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.</value>
   </row>
   <row id="C85110C9334B4C26BA29BB3B91000689" trl="N">
-    <value column="Name" isTrl="N" original="Stock Reservation">Резерв остатка</value>
+    <value column="Name" isTrl="Y" original="Stock Reservation">Резерв остатка</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="In this window is possible to review and manage existing Reservations.">In this window is possible to review and manage existing Reservations.</value>
   </row>
   <row id="D1B11CBC0FEF4CA0B44D3BECEBA219BC" trl="N">
-    <value column="Name" isTrl="N" original="Landed Cost">Накладные расходы</value>
+    <value column="Name" isTrl="Y" original="Landed Cost">Накладные расходы</value>
     <value column="Description" isTrl="N" original="Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.">Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.</value>
     <value column="Help" isTrl="N" original="Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.">Landed Cost window allows to allocate additional costs such as freight, insurance or duties to goods receipt(s) therefore the cost of the products included in the receipt(s) is adjusted as applicable.</value>
   </row>

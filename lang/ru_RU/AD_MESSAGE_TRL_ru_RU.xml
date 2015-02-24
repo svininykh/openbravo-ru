@@ -616,7 +616,14 @@ Control Digit must be length 1.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400015" trl="N">
-    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.</value>
+    <value column="MsgText" isTrl="N" original="This process will create the Purchase Orders necessary to complete all the requisition lines. &#10;An order line is created for each requisition line.&#10;The process closes the requisition when it finishes successfully. &#10;The Order Date is the date of the Purchase Orders. &#10;The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.&#10;The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.&#10;The Organization is the organization used by the Purchase Orders.&#10;The Warehouse is the warehouse used by the Purchase Orders.">This process will create the Purchase Orders necessary to complete all the requisition lines. 
+An order line is created for each requisition line.
+The process closes the requisition when it finishes successfully. 
+The Order Date is the date of the Purchase Orders. 
+The Business Partner is the preferred vendor the Purchase Orders. If it is left blank, then the Partner defined in the requisition (or requisition line) is used. If these are not defined, then the current vendor set for the product is used.
+The Price List is the price list for the Purchase Orders. If it is left blank, then the Price List defined in the requisition (or requisition line) is used.
+The Organization is the organization used by the Purchase Orders.
+The Warehouse is the warehouse used by the Purchase Orders.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1004400016" trl="N">
@@ -1037,7 +1044,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300055" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount">Сумма</value>
+    <value column="MsgText" isTrl="Y" original="Amount">Сумма</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1006300056" trl="N">
@@ -1529,11 +1536,11 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="140" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount">Сумма</value>
+    <value column="MsgText" isTrl="Y" original="Amount">Сумма</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="141" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount Due">Сумма погашения</value>
+    <value column="MsgText" isTrl="Y" original="Amount Due">Сумма погашения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="141F432757BC4581ABC9F9FEF8211CF2" trl="N">
@@ -1541,15 +1548,15 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="142" trl="N">
-    <value column="MsgText" isTrl="N" original="Payment Amount">Сумма платежа</value>
+    <value column="MsgText" isTrl="Y" original="Payment Amount">Сумма платежа</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="143" trl="N">
-    <value column="MsgText" isTrl="N" original="From Amount">Сумма от</value>
+    <value column="MsgText" isTrl="Y" original="From Amount">Сумма от</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="144" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount To">Сумма до</value>
+    <value column="MsgText" isTrl="Y" original="Amount To">Сумма до</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="145" trl="N">
@@ -1693,7 +1700,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="16EED9CBA19748FC9E63BB60F316B24D" trl="N">
-    <value column="MsgText" isTrl="N" original="Number of Payments created:">Создано платежей</value>
+    <value column="MsgText" isTrl="Y" original="Number of Payments created:">Создано платежей</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="170" trl="N">
@@ -2994,7 +3001,7 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="365" trl="N">
-    <value column="MsgText" isTrl="N" original="Number of Rows x Columns">Кол-во строк x Кол-во столбцов</value>
+    <value column="MsgText" isTrl="Y" original="Number of Rows x Columns">Кол-во строк * Кол-во столбцов</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="366" trl="N">
@@ -3155,6 +3162,10 @@ Do you want to enable the Heartbeat and continue?</value>
   </row>
   <row id="394" trl="N">
     <value column="MsgText" isTrl="N" original="Bank Routing Number is not valid">Bank Routing Number is not valid</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="39410937E65E4F2E8E6DDC884430AEF6" trl="N">
+    <value column="MsgText" isTrl="N" original="This report cannot be run. Execute &quot;Costing Background process&quot; in order to be able to run it.">This report cannot be run. Execute "Costing Background process" in order to be able to run it.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="395" trl="N">
@@ -3361,11 +3372,12 @@ Be aware that if the daily limit is exceeded @extraDays@ more times in the @numb
     <value column="MsgTip" isTrl="N" original="(Re-) Open Period or change Accounting Date">(Re-) Open Period or change Accounting Date</value>
   </row>
   <row id="4175F8D83F474E808F89BD557C36D3CC" trl="N">
-    <value column="MsgText" isTrl="Y" original="13th Period">13ый период</value>
+    <value column="MsgText" isTrl="Y" original="13th Period">13-ый период</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="417C01FAE8E447F7985AA6C04074924C" trl="N">
-    <value column="MsgText" isTrl="N" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table. &#10;This column is already checked as key: </value>
+    <value column="MsgText" isTrl="N" original="Only one key column is allowed per table. &#10;This column is already checked as key: ">Only one key column is allowed per table. 
+This column is already checked as key: </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="418" trl="N">
@@ -4265,7 +4277,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="577" trl="N">
-    <value column="MsgText" isTrl="N" original="User defined message">Сообщение определено пользователем</value>
+    <value column="MsgText" isTrl="Y" original="User defined message">Сообщение определено пользователем</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="578" trl="N">
@@ -4461,11 +4473,11 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D3624FE019649CCB3B5900F32E59E22" trl="N">
-    <value column="MsgText" isTrl="N" original="For a better experience, it is recommended to use XX or YY">For a better experience, it is recommended to use XX or YY</value>
+    <value column="MsgText" isTrl="N" original="For a better experience, it is recommended to use XX or YY (or a higher version of any of them)">For a better experience, it is recommended to use XX or YY (or a higher version of any of them)</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5D4A70813DF6421E8A6260FFB1BE0B86" trl="N">
-    <value column="MsgText" isTrl="Y" original="Is not compatible with Openbravo 3.">Не совместим с Openbravo 3.</value>
+    <value column="MsgText" isTrl="Y" original="Is not compatible with Openbravo 3.">Несовместим с Openbravo 3.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5DDBAC99880F4F159204247F691227DB" trl="N">
@@ -4759,7 +4771,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="64F35F2418B944BD88A146A3032D3717" trl="N">
-    <value column="MsgText" isTrl="N" original="Invoiced Quantity cannot be higher than Delivered Quantity when Invoice Terms are: After Delivery">Invoiced Quantity cannot be higher than Delivered Quantity when Invoice Terms are: After Delivery</value>
+    <value column="MsgText" isTrl="N" original="Invoiced Quantity should not be higher than Delivered Quantity when Invoice Terms are After Delivery">Invoiced Quantity should not be higher than Delivered Quantity when Invoice Terms are After Delivery</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="650" trl="N">
@@ -5739,23 +5751,23 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800123" trl="N">
-    <value column="MsgText" isTrl="N" original="Today cannot be later than the due date.">Дата сегодня не может быть позже даты погашения.</value>
+    <value column="MsgText" isTrl="Y" original="Today cannot be later than the due date.">Дата сегодня не может быть позже даты погашения.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800124" trl="N">
-    <value column="MsgText" isTrl="N" original="Percentage not defined.">Процент не задан.</value>
+    <value column="MsgText" isTrl="Y" original="Percentage not defined.">Процент не задан.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800125" trl="N">
-    <value column="MsgText" isTrl="N" original="Period not defined.">Период не задан.</value>
+    <value column="MsgText" isTrl="Y" original="Period not defined.">Период не задан.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800126" trl="N">
-    <value column="MsgText" isTrl="N" original="Start date not defined.">Дата начала не задана.</value>
+    <value column="MsgText" isTrl="Y" original="Start date not defined.">Дата начала не задана.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800127" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount not defined.">Сумма не задана.</value>
+    <value column="MsgText" isTrl="Y" original="Amount not defined.">Сумма не задана.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800128" trl="N">
@@ -5775,7 +5787,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800132" trl="N">
-    <value column="MsgText" isTrl="N" original="Debit and credit amounts do not match.">Суммы одновременно дожны быть по дебету и кредиту.</value>
+    <value column="MsgText" isTrl="Y" original="Debit and credit amounts do not match.">Суммы одновременно дожны быть по дебету и кредиту.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800133" trl="N">
@@ -5787,7 +5799,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800135" trl="N">
-    <value column="MsgText" isTrl="N" original="Payments">Платежи</value>
+    <value column="MsgText" isTrl="Y" original="Payments">Платежи</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="800136" trl="N">
@@ -7281,7 +7293,7 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="92B1EEF0AB18416DB602DD1B8CE55ACE" trl="N">
-    <value column="MsgText" isTrl="N" original="Client Deleted">Подключение удалено</value>
+    <value column="MsgText" isTrl="Y" original="Client Deleted">Подключение удалено</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="93C32F538F1B46FE828624B1AD63F01E" trl="N">

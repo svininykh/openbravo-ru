@@ -65,7 +65,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="414A21904E994915AA9D60F3F8A2ACE8" trl="N">
-    <value column="MsgText" isTrl="N" original="Done">Сделать</value>
+    <value column="MsgText" isTrl="Y" original="Done">Сделать</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="440D4DC2068A45A1AAAECE9AD79ECC33" trl="N">
@@ -161,7 +161,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="810E2C3850AF44FC8A14D1C907BFC2A8" trl="N">
-    <value column="MsgText" isTrl="Y" original="Group by ${viewer.getSummaryTitle(field)}">Группировать по ${viewer.getSummaryTitle(field)}</value>
+    <value column="MsgText" isTrl="Y" original="Group by ${title}">Группировать по ${viewer.getSummaryTitle(field)}</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="810EF7D2E0B144AFB800BD7238C53DB2" trl="N">

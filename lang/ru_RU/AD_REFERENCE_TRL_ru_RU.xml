@@ -271,7 +271,7 @@
   </row>
   <row id="129" trl="N">
     <value column="Name" isTrl="N" original="AD_Client">AD_Client</value>
-    <value column="Description" isTrl="N" original="Client selection">Выбор подключения</value>
+    <value column="Description" isTrl="Y" original="Client selection">Выбор подключения</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="13" trl="N">
@@ -660,7 +660,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1D302425F6124D3DB90D89178223D7DB" trl="N">
-    <value column="Name" isTrl="N" original="Process Request">Задание обработки</value>
+    <value column="Name" isTrl="Y" original="Process Request">Задание обработки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1087,17 +1087,17 @@ There is no any kind of timezone conversion. The stored time does not have timez
   </row>
   <row id="273" trl="N">
     <value column="Name" isTrl="N" original="C_ElementValue (Parents)">C_ElementValue (Parents)</value>
-    <value column="Description" isTrl="N" original="Account selection">Выбор счёта</value>
+    <value column="Description" isTrl="Y" original="Account selection">Выбор счёта</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="275" trl="N">
     <value column="Name" isTrl="N" original="C_Period (all)">C_Period (all)</value>
-    <value column="Description" isTrl="N" original="Periods Sorted by Date">Периоды отсортированы по дате</value>
+    <value column="Description" isTrl="Y" original="Periods Sorted by Date">Периоды отсортированы по дате</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="276" trl="N">
     <value column="Name" isTrl="N" original="AD_Org (all)">AD_Org (all)</value>
-    <value column="Description" isTrl="N" original="Organization selection">Выбор организации</value>
+    <value column="Description" isTrl="Y" original="Organization selection">Выбор организации</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="277" trl="N">
@@ -2279,7 +2279,7 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original="Fro this type of passwords only a hashed value is stored in the database. It is possible to verify if the same value was entered (to implement a password check), however it is not possible to recover the cleartext value again.">Fro this type of passwords only a hashed value is stored in the database. It is possible to verify if the same value was entered (to implement a password check), however it is not possible to recover the cleartext value again.</value>
   </row>
   <row id="C632F1CFF5A1453EB28BDF44A70478F8" trl="N">
-    <value column="Name" isTrl="N" original="Product Characteristics">Характеристики товара</value>
+    <value column="Name" isTrl="Y" original="Product Characteristics">Характеристики товара</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -2324,7 +2324,7 @@ For example, if you want to create different invoices for each ship location for
     <value column="Help" isTrl="N" original="C_Incoterms">C_Incoterms</value>
   </row>
   <row id="D3D9A7BAF4594950922A22B2D7ABFA74" trl="N">
-    <value column="Name" isTrl="N" original="Characteristic Selector">Выбор характеристики</value>
+    <value column="Name" isTrl="Y" original="Characteristic Selector">Выбор характеристики</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
