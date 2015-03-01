@@ -13692,8 +13692,8 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="77BB832AAF2E4997BAB7C90C044F49D9" trl="N">
-    <value column="Name" isTrl="N" original="Currency">Currency</value>
-    <value column="PrintName" isTrl="N" original="Currency">Currency</value>
+    <value column="Name" isTrl="N" original="Currency">Валюта</value>
+    <value column="PrintName" isTrl="N" original="Currency">Валюта</value>
     <value column="Description" isTrl="N" original="An accepted medium of monetary exchange that may vary across countries.">An accepted medium of monetary exchange that may vary across countries.</value>
     <value column="Help" isTrl="N" original="Indicates the currency to be used when processing this document.">Indicates the currency to be used when processing this document.</value>
     <value column="PO_Description" isTrl="N" original=""/>
