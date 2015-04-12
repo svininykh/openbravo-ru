@@ -2102,28 +2102,28 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Select a business partner to begin viewing related transactions.">Select a business partner to begin viewing related transactions.</value>
   </row>
   <row id="551" trl="N">
-    <value column="Name" isTrl="N" original="Partner Orders">Ордеры контрагента</value>
+    <value column="Name" isTrl="Y" original="Partner Orders">Ордеры контрагента</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View orders related to a specific business partner.">View orders related to a specific business partner.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="View orders related to a specific business partner.">View orders related to a specific business partner.</value>
   </row>
   <row id="552" trl="N">
-    <value column="Name" isTrl="N" original="Partner Shipments">Накладные контрагента</value>
+    <value column="Name" isTrl="Y" original="Partner Shipments">Накладные контрагента</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View shipments related to a specific business partner.">View shipments related to a specific business partner.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="View shipments related to a specific business partner.">View shipments related to a specific business partner.</value>
   </row>
   <row id="553" trl="N">
-    <value column="Name" isTrl="N" original="Partner Invoices">Счета-фактуры контрагента</value>
+    <value column="Name" isTrl="Y" original="Partner Invoices">Счета-фактуры контрагента</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View invoices related to a specific business partner.">View invoices related to a specific business partner.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="View invoices related to a specific business partner.">View invoices related to a specific business partner.</value>
   </row>
   <row id="555" trl="N">
-    <value column="Name" isTrl="N" original="Partner Assets">Основные средства контрагента</value>
+    <value column="Name" isTrl="Y" original="Partner Assets">Основные средства контрагента</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="View assets for a specific business partner.">View assets for a specific business partner.</value>
     <value column="Filtername" isTrl="N" original=""/>

@@ -193,6 +193,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgText" isTrl="N" original="No Document Type defined for the Reconciliation">No Document Type defined for the Reconciliation</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="673AA094D768424699B01CB934C92466" trl="N">
+    <value column="MsgText" isTrl="N" original="Received In or Paid Out amounts should be different to zero in GL Item grid">Received In or Paid Out amounts should be different to zero in GL Item grid</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="677879BD3D72467AA2D646765E596E4F" trl="N">
     <value column="MsgText" isTrl="N" original="Payment No.">Payment No.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -491,6 +495,10 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
   </row>
   <row id="F4500597D99243129F93A0769047CFCB" trl="N">
     <value column="MsgText" isTrl="N" original="Tax payments can not be reactivated.">Tax payments can not be reactivated.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="F482DF98F6FF45728419D116A7726765" trl="N">
+    <value column="MsgText" isTrl="N" original="Credit amount should not be greater than total amount">Credit amount should not be greater than total amount</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F579E42461DC472AA4F21B14DD3D680B" trl="N">

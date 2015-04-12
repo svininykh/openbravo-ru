@@ -8450,10 +8450,8 @@ When Never the Balance is always used, when Positive the balance is considered Z
   <row id="348" trl="N">
     <value column="Name" isTrl="Y" original="Active">Активно</value>
     <value column="PrintName" isTrl="Y" original="Active">Активно</value>
-    <value column="Description" isTrl="Y" original="A flag indicating whether this record is available for use or de-activated.">Флаг, указывающий что эта запись доступна для использования или неактивна.</value>
-    <value column="Help" isTrl="N" original="There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.">There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records:
-(1) The system requires the record for auditing purposes.
-(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.</value>
+    <value column="Description" isTrl="Y" original="A flag indicating whether this record is available for use or de-activated.">Флаг указывающий что эта запись доступна для использования или неактивна.</value>
+    <value column="Help" isTrl="N" original="There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.">There are two methods of making records unavailable in the system: One is to delete the record, the other is to de-activate the record. A de-activated record is not available for selection, but available for reporting. There are two reasons for de-activating and not deleting records: &#10;(1) The system requires the record for auditing purposes.&#10;(2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are existing invoices for it. By de-activating the Business Partner you prevent it from being used in future transactions.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -9082,8 +9080,8 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="404" trl="N">
-    <value column="Name" isTrl="N" original="Range">Диапазон</value>
-    <value column="PrintName" isTrl="N" original="Range">Диапазон</value>
+    <value column="Name" isTrl="Y" original="Range">Диапазон</value>
+    <value column="PrintName" isTrl="Y" original="Range">Диапазон</value>
     <value column="Description" isTrl="N" original="The parameter is a range of values">The parameter is a range of values</value>
     <value column="Help" isTrl="N" original="The Range checkbox indicates that this parameter is a range of values.">The Range checkbox indicates that this parameter is a range of values.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13692,8 +13690,8 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="77BB832AAF2E4997BAB7C90C044F49D9" trl="N">
-    <value column="Name" isTrl="N" original="Currency">Валюта</value>
-    <value column="PrintName" isTrl="N" original="Currency">Валюта</value>
+    <value column="Name" isTrl="Y" original="Currency">Валюта</value>
+    <value column="PrintName" isTrl="Y" original="Currency">Валюта</value>
     <value column="Description" isTrl="N" original="An accepted medium of monetary exchange that may vary across countries.">An accepted medium of monetary exchange that may vary across countries.</value>
     <value column="Help" isTrl="N" original="Indicates the currency to be used when processing this document.">Indicates the currency to be used when processing this document.</value>
     <value column="PO_Description" isTrl="N" original=""/>

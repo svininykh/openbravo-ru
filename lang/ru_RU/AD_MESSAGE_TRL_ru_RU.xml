@@ -2012,7 +2012,7 @@ Press the Continue button to go to the Instance Activation window.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="203" trl="N">
-    <value column="MsgText" isTrl="N" original="Currency Conversion">Конвертация валюты</value>
+    <value column="MsgText" isTrl="Y" original="Currency Conversion">Конвертация валюты</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2032BD4864974872B7317B03DCD2C67D" trl="N">
@@ -5011,11 +5011,11 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6CA1ABF3BD6047798BC810CEA1477B45" trl="N">
-    <value column="MsgText" isTrl="N" original="New value">Новое значение</value>
+    <value column="MsgText" isTrl="Y" original="New value">Новое значение</value>
     <value column="MsgTip" isTrl="N" original="Used for grid-column translation in the audit trail popup">Used for grid-column translation in the audit trail popup</value>
   </row>
   <row id="6D2758613C5F44AF9204D818EB0085C8" trl="N">
-    <value column="MsgText" isTrl="N" original="You cannot change the unit of the product because it has inventory">Вы не можете изменить единицы измерения, так как у товара уже есть движение по складу</value>
+    <value column="MsgText" isTrl="Y" original="You cannot change the unit of the product because it has inventory">Вы не можете изменить единицы измерения, так как у товара уже есть движение по складу</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6D5E5F8894AF4B77A713CD24B7500BCB" trl="N">
@@ -7237,7 +7237,7 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="8F2EC1874B364DF1A771756411EE0FD8" trl="N">
-    <value column="MsgText" isTrl="N" original="Currency field cannot be empty">Не задана валюта</value>
+    <value column="MsgText" isTrl="Y" original="Currency field cannot be empty">Не задана валюта</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="8F3E26D7655C42718BD12468136EA296" trl="N">
