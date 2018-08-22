@@ -14,6 +14,13 @@
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Accounting information related to the doubtful debt">Accounting information related to the doubtful debt</value>
   </row>
+  <row id="2700A962BC484D4C9B3E30B1C3C66BFB" trl="N">
+    <value column="Name" isTrl="N" original="Add Multiple Payments P&amp;E">Add Multiple Payments P&amp;E</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="User can select multiple payments at the same time. The system will create a separate transaction per selected payment">User can select multiple payments at the same time. The system will create a separate transaction per selected payment</value>
+    <value column="Filtername" isTrl="N" original="Payments are filtered by the selected Financial Account">Payments are filtered by the selected Financial Account</value>
+    <value column="Help" isTrl="N" original="User can select multiple payments at the same time. The system will create a separate transaction per selected payment">User can select multiple payments at the same time. The system will create a separate transaction per selected payment</value>
+  </row>
   <row id="2A9BA5FDA0F8470D881F8EA9DEDCC598" trl="N">
     <value column="Name" isTrl="Y" original="Accounting History">История проводок</value>
     <value column="CommitWarning" isTrl="N" original=""/>
@@ -123,7 +130,7 @@
     <value column="Name" isTrl="N" original="Find Transactions to Match">Find Transactions to Match</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original="Transactions prior to Bank Statement Line's Transaction Date">Transactions prior to Bank Statement Line's Transaction Date</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B82C02920AA84E8DB57D553185BD2F06" trl="N">

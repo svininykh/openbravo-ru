@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="OBUIAPP_PROCESS" version="">
+  <row id="154CB4F9274A479CB38A285E16984539" trl="N">
+    <value column="Name" isTrl="N" original="Find Transactions to Match">Find Transactions to Match</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="4CE463C04CA0412CAC57EF58FE0F8498" trl="N">
+    <value column="Name" isTrl="N" original="Add Multiple Payments">Add Multiple Payments</value>
+    <value column="Description" isTrl="N" original="User can select multiple payments at the same time. The system will create a separate transaction per selected payment">User can select multiple payments at the same time. The system will create a separate transaction per selected payment</value>
+    <value column="Help" isTrl="N" original="User can select multiple payments at the same time. The system will create a separate transaction per selected payment">User can select multiple payments at the same time. The system will create a separate transaction per selected payment</value>
+  </row>
+  <row id="4EEB3497082C4F2182E16A4371CD5D96" trl="N">
+    <value column="Name" isTrl="N" original="Modify Payment In Plan">Modify Payment In Plan</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="6F87442DF7BC43AB8A666BDED2F7D64E" trl="N">
+    <value column="Name" isTrl="N" original="Modify Payment Out Plan">Modify Payment Out Plan</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="86F0B1EBE2BC48E3ACF458768D14CC99" trl="N">
+    <value column="Name" isTrl="N" original="Match Statement">Match Statement</value>
+    <value column="Description" isTrl="N" original="Match statements for bank statement lines against payments / GL items">Match statements for bank statement lines against payments / GL items</value>
+    <value column="Help" isTrl="N" original="Match statements for bank statement lines against payments / GL items">Match statements for bank statement lines against payments / GL items</value>
+  </row>
+  <row id="8D0D32CC819E449D9A08E0459B482963" trl="N">
+    <value column="Name" isTrl="N" original="Payment Proposal Pick and Edit Lines">Payment Proposal Pick and Edit Lines</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="9BED7889E1034FE68BD85D5D16857320" trl="N">
+    <value column="Name" isTrl="N" original="Add Payment">Add Payment</value>
+    <value column="Description" isTrl="N" original="Add Payment window is intended to deliver capabilities of add payments against invoices and orders.">Add Payment window is intended to deliver capabilities of add payments against invoices and orders.</value>
+    <value column="Help" isTrl="N" original="Add Payment window is intended to deliver capabilities of add payments against invoices and orders.">Add Payment window is intended to deliver capabilities of add payments against invoices and orders.</value>
+  </row>
+  <row id="CC73C4845CDC487395804946EACB225F" trl="N">
+    <value column="Name" isTrl="N" original="Funds Transfer">Funds Transfer</value>
+    <value column="Description" isTrl="N" original="Transfer funds between Financial Accounts">Transfer funds between Financial Accounts</value>
+    <value column="Help" isTrl="N" original="Transfer funds between Financial Accounts">Transfer funds between Financial Accounts</value>
+  </row>
+  <row id="E68790A7B65F4D45AB35E2BAE34C1F39" trl="N">
+    <value column="Name" isTrl="N" original="Add Transaction">Add Transaction</value>
+    <value column="Description" isTrl="N" original="Add Transaction window is intended to deliver capabilities of add transaction to a financial account">Add Transaction window is intended to deliver capabilities of add transaction to a financial account</value>
+    <value column="Help" isTrl="N" original="Add Transaction window is intended to deliver capabilities of add transaction to a financial account">Add Transaction window is intended to deliver capabilities of add transaction to a financial account</value>
+  </row>
+</compiereTrl>

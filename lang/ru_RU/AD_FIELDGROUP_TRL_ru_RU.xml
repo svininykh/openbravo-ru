@@ -177,8 +177,14 @@
   <row id="800002" trl="Y">
     <value column="Name" isTrl="Y" original="BP Tax Category">Категория налога контрагента</value>
   </row>
+  <row id="95B37D4EFC654CB5A09443C80A8ED5C1" trl="N">
+    <value column="Name" isTrl="N" original="Service Product Line">Service Product Line</value>
+  </row>
   <row id="9E1CC6B8E1804E2487C4BC88009C8783" trl="N">
     <value column="Name" isTrl="N" original="Expense Plan">Expense Plan</value>
+  </row>
+  <row id="AA044EC1D74D4F43A2C7CC7CE3246DC3" trl="N">
+    <value column="Name" isTrl="N" original="Service Product">Service Product</value>
   </row>
   <row id="AE71A689EC32416CAD7994B5D29CE3C6" trl="N">
     <value column="Name" isTrl="Y" original="On Hold">Заблокировано</value>
@@ -191,6 +197,9 @@
   </row>
   <row id="D2A0D89EDB884813B6833F6880777C27" trl="N">
     <value column="Name" isTrl="Y" original="Bank Account Format">Формат банковского счёта</value>
+  </row>
+  <row id="DD3AC8569DF44BA0A192B2A88AE50E71" trl="N">
+    <value column="Name" isTrl="N" original="Inherited Information">Inherited Information</value>
   </row>
   <row id="DED752CA2E4D49DB9B1232C707FD2622" trl="N">
     <value column="Name" isTrl="Y" original="Notifications">Оповещения</value>

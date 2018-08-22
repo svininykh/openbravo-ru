@@ -5,6 +5,11 @@
     <value column="Description" isTrl="N" original="A charge related to conducting business.">A charge related to conducting business.</value>
     <value column="Help" isTrl="N" original="Cost amount.">Cost amount.</value>
   </row>
+  <row id="67D3A7BA80F7458B827BBC82373F4910" trl="N">
+    <value column="Name" isTrl="N" original="Legal Entity Organization">Legal Entity Organization</value>
+    <value column="Description" isTrl="N" original="Organizational entity within client">Organizational entity within client</value>
+    <value column="Help" isTrl="N" original="An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.">An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.</value>
+  </row>
   <row id="78D383D70F52476C9E1CF557D2F76E24" trl="N">
     <value column="Name" isTrl="N" original="Incremental">Incremental</value>
     <value column="Description" isTrl="N" original="When this flag is checked the amount entered in the cost field is added to the current cost of the transaction.">When this flag is checked the amount entered in the cost field is added to the current cost of the transaction.</value>

@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_WINDOW" version="">
+  <row id="48B7215F9BF6458E813E6B280DEDB958" trl="N">
+    <value column="Name" isTrl="N" original="Data Pool Selection">Data Pool Selection</value>
+    <value column="Description" isTrl="N" original="Defines which database pool should be used for a particular report.">Defines which database pool should be used for a particular report.</value>
+    <value column="Help" isTrl="N" original="Defines which database pool should be used for a particular report. Reports can be defined either in the Report and Process or in the Process Definition Window. If no pool is defined for a report in this window, it should use the one defined in Preferences.">Defines which database pool should be used for a particular report. Reports can be defined either in the Report and Process or in the Process Definition Window. If no pool is defined for a report in this window, it should use the one defined in Preferences.</value>
+  </row>
   <row id="54AE252A40C34DA285FC48DA94EB3847" trl="N">
     <value column="Name" isTrl="N" original="Navigation Bar Components">Navigation Bar Components</value>
     <value column="Description" isTrl="N" original="Navigation Bar Components">Navigation Bar Components</value>

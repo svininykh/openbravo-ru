@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="OBUIAPP_PARAMETER" version="">
+  <row id="74479AE073FF4FA5A527DC79EC0A1C82" trl="N">
+    <value column="Name" isTrl="N" original="Payment">Payment</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="B2E975E0ADE3445C90DA81F0F492EA1C" trl="N">
     <value column="Name" isTrl="N" original="Order">Order</value>
     <value column="Description" isTrl="N" original="A unique and often automatically generated identifier for a sales order.">A unique and often automatically generated identifier for a sales order.</value>

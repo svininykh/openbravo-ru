@@ -14,12 +14,26 @@
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="2B7B3CCDC940436F93437445AA7752F3" trl="N">
+    <value column="Name" isTrl="N" original="Report Definition">Report Definition</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Report definition when the UI Pattern of the Process Definition is &quot;Report (Using JR Templates)&quot;. Each Process Definition can only have one Report Definition.">Report definition when the UI Pattern of the Process Definition is "Report (Using JR Templates)". Each Process Definition can only have one Report Definition.</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Report definition when the UI Pattern of the Process Definition is &quot;Report (Using JR Templates)&quot;. Each Process Definition can only have one Report Definition.">Report definition when the UI Pattern of the Process Definition is "Report (Using JR Templates)". Each Process Definition can only have one Report Definition.</value>
+  </row>
   <row id="49B33DC2EDFD45A48EECE139AD5E9AC9" trl="N">
     <value column="Name" isTrl="N" original="Tab">Tab</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Grid Configuration at Tab level">Grid Configuration at Tab level</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="In this tab the user can set some properties that will be used to define how the grid filtering should work in the selected tab. The values set here will be used in all its fields, unless its properties are overriden at field level. If a property is not set, its value will be taking from the system level.">In this tab the user can set some properties that will be used to define how the grid filtering should work in the selected tab. The values set here will be used in all its fields, unless its properties are overriden at field level. If a property is not set, its value will be taking from the system level.</value>
+  </row>
+  <row id="4F5C5D438DAF47D4AE8DD48C44D4FE04" trl="N">
+    <value column="Name" isTrl="N" original="Parameter Translation">Parameter Translation</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="6D732D027FFA4FB1BD0140ED3B606C0E" trl="N">
     <value column="Name" isTrl="N" original="Process Definition">Process Definition</value>
@@ -42,6 +56,27 @@
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Defines the access to views by Role.">Defines the access to views by Role.</value>
   </row>
+  <row id="89C465EF7FA747DF994F415869573310" trl="N">
+    <value column="Name" isTrl="N" original="Attachment Metadata Translation">Attachment Metadata Translation</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Metadata translations">Metadata translations</value>
+  </row>
+  <row id="AB1837F0A66D4137BD2E6F49378E7A9D" trl="N">
+    <value column="Name" isTrl="N" original="Attachment Metadata">Attachment Metadata</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Define metadata values assigned to a tab">Define metadata values assigned to a tab</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Define metadata values assigned to attachments of the tab">Define metadata values assigned to attachments of the tab</value>
+  </row>
+  <row id="B34CD80126254F428E72D040C3998900" trl="N">
+    <value column="Name" isTrl="N" original="Metadata Translation">Metadata Translation</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Metadata translations">Metadata translations</value>
+  </row>
   <row id="D26230D6D21546C6970E79FF1C51165E" trl="N">
     <value column="Name" isTrl="N" original="Field">Field</value>
     <value column="CommitWarning" isTrl="N" original=""/>
@@ -56,6 +91,20 @@
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The menu parameters are used in the new user interface to pass parameters to standard view implementations.">The menu parameters are used in the new user interface to pass parameters to standard view implementations.</value>
   </row>
+  <row id="D829B2F06F444694B7080C9BA19428E6" trl="N">
+    <value column="Name" isTrl="N" original="Header">Header</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Associates a Report to a data pool.">Associates a Report to a data pool.</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Associates a Report to a data pool.">Associates a Report to a data pool.</value>
+  </row>
+  <row id="F48E7C517C334F26AC5A25D71FE707D5" trl="N">
+    <value column="Name" isTrl="N" original="Metadata">Metadata</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original="Global parameters">Global parameters</value>
+    <value column="Help" isTrl="N" original="Definition of the metadata that can be configured to be included as additional information on each Attachment File.">Definition of the metadata that can be configured to be included as additional information on each Attachment File.</value>
+  </row>
   <row id="F648835984F842AF906FA5F97EF6641B" trl="N">
     <value column="Name" isTrl="N" original="View Implementation">View Implementation</value>
     <value column="CommitWarning" isTrl="N" original=""/>
@@ -64,6 +113,13 @@
     <value column="Help" isTrl="N" original="A view is shown in the user interface as a tab in the multi-tab interface or as a popup. The view can be anything from a grid, form or a popup window. When the view is shown in the multi-tab interface then it must be a Smartclient canvas.&#10;&#10;The view implementation defines the component which is capable of generating the client side javascript to be shown in the browser. A view implementation is a java class which extends the org.openbravo.client.kernel.BaseTemplateComponent class.">A view is shown in the user interface as a tab in the multi-tab interface or as a popup. The view can be anything from a grid, form or a popup window. When the view is shown in the multi-tab interface then it must be a Smartclient canvas.
 
 The view implementation defines the component which is capable of generating the client side javascript to be shown in the browser. A view implementation is a java class which extends the org.openbravo.client.kernel.BaseTemplateComponent class.</value>
+  </row>
+  <row id="FD25BB2F15814C7C9C5CDE550F50FBFF" trl="N">
+    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original="Edit your process definition translations for the predefined languages of your choice.">Edit your process definition translations for the predefined languages of your choice.</value>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Edit your process definition translations for the predefined languages of your choice.">Edit your process definition translations for the predefined languages of your choice.</value>
   </row>
   <row id="FF8080812EFBEA81012EFBED3F58000C" trl="N">
     <value column="Name" isTrl="N" original="View Implementation">View Implementation</value>

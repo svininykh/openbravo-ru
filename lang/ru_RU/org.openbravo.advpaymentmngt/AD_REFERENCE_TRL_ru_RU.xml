@@ -65,6 +65,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="488E4BF765294DD8A7A943BDED4BA6E6" trl="N">
+    <value column="Name" isTrl="N" original="Business Partner selector without default expressions">Business Partner selector without default expressions</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="4BD88BC3C76C44F09F01AD56D3604D02" trl="N">
     <value column="Name" isTrl="N" original="APRM GL Item">APRM GL Item</value>
     <value column="Description" isTrl="N" original=""/>
@@ -120,6 +125,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="98E0BF0783E44EFABE2F2BDDE866D6AE" trl="N">
+    <value column="Name" isTrl="N" original="FIN_Finacc_Transaction selector">FIN_Finacc_Transaction selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="B8C833E4F0A44A2DA5FC7606F3CD9439" trl="N">
     <value column="Name" isTrl="N" original="Modify Payment Out Plan">Modify Payment Out Plan</value>
     <value column="Description" isTrl="N" original=""/>
@@ -129,6 +139,21 @@
     <value column="Name" isTrl="N" original="Transaction Type AddTransaction">Transaction Type AddTransaction</value>
     <value column="Description" isTrl="N" original="List of options for transaction type in Add Transaction popup">List of options for transaction type in Add Transaction popup</value>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C20E5E22588E40E5B8CC6D80ED3015C5" trl="N">
+    <value column="Name" isTrl="N" original="Match Statement Actions">Match Statement Actions</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C4A74AE591F04D9A9CB859CC67F61340" trl="N">
+    <value column="Name" isTrl="N" original="Financial Transaction Selector">Financial Transaction Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D9B6068A6D3E4B7487470E7D2F033A54" trl="N">
+    <value column="Name" isTrl="N" original="Add Multiple Payments P&amp;E">Add Multiple Payments P&amp;E</value>
+    <value column="Description" isTrl="N" original="User can select multiple payments at the same time. The system will create a separate transaction per selected payment">User can select multiple payments at the same time. The system will create a separate transaction per selected payment</value>
+    <value column="Help" isTrl="N" original="User can select multiple payments at the same time. The system will create a separate transaction per selected payment">User can select multiple payments at the same time. The system will create a separate transaction per selected payment</value>
   </row>
   <row id="DA5377445D8D468DB17743F8082B3CFD" trl="N">
     <value column="Name" isTrl="N" original="Find Transactions to Match P&amp;E">Find Transactions to Match P&amp;E</value>

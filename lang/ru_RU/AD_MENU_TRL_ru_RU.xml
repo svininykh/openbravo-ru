@@ -8,6 +8,10 @@
     <value column="Name" isTrl="Y" original="Costing Algorithm">Алгоритм калькуляции</value>
     <value column="Description" isTrl="N" original="A costing algorithm defines the method to use to calculate the cost of the transactions.">A costing algorithm defines the method to use to calculate the cost of the transactions.</value>
   </row>
+  <row id="0E4EAC3AEECF45BC81680CFFC3D9F3D6" trl="N">
+    <value column="Name" isTrl="N" original="Cluster">Cluster</value>
+    <value column="Description" isTrl="N" original="Cluster folder gathers all the settings that may be applied being on a clustered environment">Cluster folder gathers all the settings that may be applied being on a clustered environment</value>
+  </row>
   <row id="1000001" trl="N">
     <value column="Name" isTrl="N" original="Openbravo ERP">Openbravo ERP</value>
     <value column="Description" isTrl="N" original="Openbravo Homepage">Openbravo Homepage</value>
@@ -312,6 +316,10 @@
     <value column="Name" isTrl="Y" original="Physical Inventory">Инвентаризация</value>
     <value column="Description" isTrl="N" original="Create and edit inventory counts and update your stock quantities.">Create and edit inventory counts and update your stock quantities.</value>
   </row>
+  <row id="17E054F552B443C5B3438B7E38FDD09D" trl="N">
+    <value column="Name" isTrl="N" original="Cashflow Forecast Report">Cashflow Forecast Report</value>
+    <value column="Description" isTrl="N" original="Cashflow Forecast">Cashflow Forecast</value>
+  </row>
   <row id="180" trl="N">
     <value column="Name" isTrl="Y" original="Goods Shipment">Накладная отгрузки</value>
     <value column="Description" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
@@ -436,6 +444,10 @@
     <value column="Name" isTrl="Y" original="Bill of Materials Production">Производство по спецификации</value>
     <value column="Description" isTrl="N" original="Create and run production processes using the previously defined bills of materials.">Create and run production processes using the previously defined bills of materials.</value>
   </row>
+  <row id="22FA719BCA6D47BE9F226057718308FA" trl="N">
+    <value column="Name" isTrl="N" original="Inventory Status">Inventory Status</value>
+    <value column="Description" isTrl="N" original="Manage the inventory status definitions">Manage the inventory status definitions</value>
+  </row>
   <row id="230" trl="N">
     <value column="Name" isTrl="N" original="Quarterly Customer Invoice by Product">Quarterly Customer Invoice by Product</value>
     <value column="Description" isTrl="N" original="Quarterly Customer Invoice by Product">Quarterly Customer Invoice by Product</value>
@@ -449,12 +461,8 @@
     <value column="Description" isTrl="N" original="Business partners can be grouped into different categories with the aim of helping their management and analysis.">Business partners can be grouped into different categories with the aim of helping their management and analysis.</value>
   </row>
   <row id="234" trl="N">
-    <value column="Name" isTrl="N" original="Bank Statement">Bank Statement</value>
+    <value column="Name" isTrl="Y" original="Bank Statement">Выписка банка</value>
     <value column="Description" isTrl="N" original="View your bank statements against transactions created and edited in the application.">View your bank statements against transactions created and edited in the application.</value>
-  </row>
-  <row id="2345D54C6D044A999C7FDD5C504008A6" trl="N">
-    <value column="Name" isTrl="N" original="Update Audit Trail Infrastructure">Update Audit Trail Infrastructure</value>
-    <value column="Description" isTrl="N" original="Update Audit Trail Infrastructure">Update Audit Trail Infrastructure</value>
   </row>
   <row id="236" trl="N">
     <value column="Name" isTrl="Y" original="Receivables and Payables">Выплаты и поступления</value>
@@ -485,7 +493,7 @@
     <value column="Description" isTrl="N" original="Product Transaction Value">Product Transaction Value</value>
   </row>
   <row id="257" trl="N">
-    <value column="Name" isTrl="N" original="Commission">Commission</value>
+    <value column="Name" isTrl="Y" original="Commission">Комиссия</value>
     <value column="Description" isTrl="N" original="Define how and when you want commissions to be calculated and to whom they are to be paid.">Define how and when you want commissions to be calculated and to whom they are to be paid.</value>
   </row>
   <row id="260" trl="N">
@@ -528,6 +536,10 @@
     <value column="Name" isTrl="Y" original="Application Image">Изображения приложения</value>
     <value column="Description" isTrl="N" original="Create and edit images that later will be used in other windows.">Create and edit images that later will be used in other windows.</value>
   </row>
+  <row id="2B900D4873984239A50C5BD18EA72E04" trl="N">
+    <value column="Name" isTrl="N" original="Direct Process Import Entries">Direct Process Import Entries</value>
+    <value column="Description" isTrl="N" original="Directly process import entries">Directly process import entries</value>
+  </row>
   <row id="303" trl="N">
     <value column="Name" isTrl="Y" original="Synchronize Terminology">Синхронизация интерфейса</value>
     <value column="Description" isTrl="N" original="Synchronize the terminology within the system.">Synchronize the terminology within the system.</value>
@@ -539,6 +551,10 @@
   <row id="307" trl="N">
     <value column="Name" isTrl="N" original="Reset Accounting Old">Reset Accounting Old</value>
     <value column="Description" isTrl="N" original="Reset Accounting Entries">Reset Accounting Entries</value>
+  </row>
+  <row id="308B984799CC4F5EBE5A5AC298EB260D" trl="N">
+    <value column="Name" isTrl="N" original="Reset Unit Cost">Reset Unit Cost</value>
+    <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="310" trl="N">
     <value column="Name" isTrl="Y" original="Price List Schema">Расчет цен</value>
@@ -681,7 +697,7 @@
     <value column="Description" isTrl="N" original="Reset Cache of the System ** Close all Windows before proceeding **">Reset Cache of the System ** Close all Windows before proceeding **</value>
   </row>
   <row id="383A3256E1CD4839A8AE36B3077FF071" trl="N">
-    <value column="Name" isTrl="Y" original="Stock Reservation">Резервация остатков</value>
+    <value column="Name" isTrl="Y" original="Stock Reservation">Резерв остатка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="384" trl="N">
@@ -748,6 +764,14 @@
     <value column="Name" isTrl="N" original="Project POs not Issued">Project POs not Issued</value>
     <value column="Description" isTrl="N" original="Lists Project Lines with generated Purchase Orders of a Work Order or Asset Project, which are not issued to the Project">Lists Project Lines with generated Purchase Orders of a Work Order or Asset Project, which are not issued to the Project</value>
   </row>
+  <row id="418B86D4BFFE468290A9C08C38600B09" trl="N">
+    <value column="Name" isTrl="N" original="Referenced Inventory Type">Referenced Inventory Type</value>
+    <value column="Description" isTrl="N" original="Defines different types of containers or boxes, which includes any kind of object that can contain goods.">Defines different types of containers or boxes, which includes any kind of object that can contain goods.</value>
+  </row>
+  <row id="476F5A0FE3DA4AE88075824691B5FAB8" trl="N">
+    <value column="Name" isTrl="N" original="Attachment Method">Attachment Method</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="4ACC59DA7DAB48FFAEB9128B7D803A15" trl="N">
     <value column="Name" isTrl="Y" original="User Defined Dimension 1">Субконто 1 определено пользователем</value>
     <value column="Description" isTrl="N" original="User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 1 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
@@ -771,6 +795,14 @@
   <row id="6787A809DB364371B797ECED5E9262BF" trl="N">
     <value column="Name" isTrl="N" original="Reject Reason">Reject Reason</value>
     <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="68516F327BFE4CDEB2DA255122089917" trl="N">
+    <value column="Name" isTrl="N" original="Reset Accounting">Reset Accounting</value>
+    <value column="Description" isTrl="N" original="Reset Accounting Entries">Reset Accounting Entries</value>
+  </row>
+  <row id="6EEC8E0853CB432B886B8751A73F5E28" trl="N">
+    <value column="Name" isTrl="N" original="Data Import Entries">Data Import Entries</value>
+    <value column="Description" isTrl="N" original="Shows the import entries processed and to be processed">Shows the import entries processed and to be processed</value>
   </row>
   <row id="70EA2A01CB2444FC9F2139FCEB9BA7D7" trl="N">
     <value column="Name" isTrl="Y" original="Landed Cost Type">Тип накладных расходов</value>
@@ -1114,7 +1146,7 @@
   </row>
   <row id="800179" trl="N">
     <value column="Name" isTrl="Y" original="Text Interfaces">Текст интерфейсов</value>
-    <value column="Description" isTrl="Y" original="Edit translations of forms and reports.">Редактировать перевод форм и отчётов.</value>
+    <value column="Description" isTrl="N" original="Edit translations of forms and reports.">Edit translations of forms and reports.</value>
   </row>
   <row id="800180" trl="N">
     <value column="Name" isTrl="N" original="Callout">Callout</value>
@@ -1444,13 +1476,13 @@
     <value column="Name" isTrl="N" original="Sales Order Open Item">Sales Order Open Item</value>
     <value column="Description" isTrl="N" original="SalesOrderOpenItem">SalesOrderOpenItem</value>
   </row>
-  <row id="800289" trl="N">
-    <value column="Name" isTrl="N" original="Cash Flow Statement">Cash Flow Statement</value>
-    <value column="Description" isTrl="N" original="Cash Flow Statement">Cash Flow Statement</value>
-  </row>
   <row id="800290" trl="N">
     <value column="Name" isTrl="N" original="Generate Cash Flow Statement">Generate Cash Flow Statement</value>
     <value column="Description" isTrl="N" original="Generate Cash Flow Statement">Generate Cash Flow Statement</value>
+  </row>
+  <row id="83558EB4D10D41C9980BF6518A0BA7F8" trl="N">
+    <value column="Name" isTrl="N" original="Data Import Entry Archive">Data Import Entry Archive</value>
+    <value column="Description" isTrl="N" original="Archive of imported data">Archive of imported data</value>
   </row>
   <row id="8521FBEB13094CE1B80F1F9326C847E8" trl="N">
     <value column="Name" isTrl="Y" original="Pareto Product Report">Отчет Парето по товару</value>
@@ -1463,6 +1495,14 @@
   <row id="8BA9DEA4CA5F4AFE84A60C9EB5BF1A66" trl="N">
     <value column="Name" isTrl="N" original="Valued Stock Report">Valued Stock Report</value>
     <value column="Description" isTrl="N" original="Valued Stock Report">Valued Stock Report</value>
+  </row>
+  <row id="8BF3C57A58984F59B30B5855ED4E259A" trl="N">
+    <value column="Name" isTrl="N" original="Referenced Inventory">Referenced Inventory</value>
+    <value column="Description" isTrl="N" original="Defines the containers or boxes, which includes any kind of object that can contain goods.">Defines the containers or boxes, which includes any kind of object that can contain goods.</value>
+  </row>
+  <row id="A202F302ED074EFF8ED15DCE441C9387" trl="N">
+    <value column="Name" isTrl="N" original="PLM Status">PLM Status</value>
+    <value column="Description" isTrl="N" original="Product Lifecycle Management Status Window">Product Lifecycle Management Status Window</value>
   </row>
   <row id="A519EEB1C1994CCF8208E5B73B5A04C6" trl="N">
     <value column="Name" isTrl="Y" original="Costing Rules">Методы калькуляции</value>
@@ -1480,9 +1520,21 @@
     <value column="Name" isTrl="Y" original="Instance Activation">Активация приложения</value>
     <value column="Description" isTrl="N" original="Manage current instance">Manage current instance</value>
   </row>
+  <row id="ADCE75FCECA8464194C03EB7B6CEA4BA" trl="N">
+    <value column="Name" isTrl="N" original="Reset Valued Stock Aggregate">Reset Valued Stock Aggregate</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="B307FC5041D94B3FA57F830E90264EE4" trl="N">
-    <value column="Name" isTrl="N" original="Process Group">Process Group</value>
+    <value column="Name" isTrl="Y" original="Process Group">Групповая обработка</value>
     <value column="Description" isTrl="N" original="Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.">Create a Process Group to be able to schedule and execute a group of processes as a single unit from the Process Scheduler. The batch of processes will be executed in series.</value>
+  </row>
+  <row id="B362D98BEA924E0A9424546BBF7FF6C4" trl="N">
+    <value column="Name" isTrl="N" original="Service Price Rule">Service Price Rule</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="B6D984F9FEFB412D827A37BACF2F1D66" trl="N">
+    <value column="Name" isTrl="N" original="Payables Aging Schedule">Payables Aging Schedule</value>
+    <value column="Description" isTrl="N" original="Payables Aging Schedule">Payables Aging Schedule</value>
   </row>
   <row id="B73A1BE38C6F4F4BB17A3B6FA8C3293E" trl="N">
     <value column="Name" isTrl="Y" original="Module Management">Настройки модулей</value>
@@ -1493,7 +1545,7 @@
     <value column="Description" isTrl="N" original="Monitor the results, run time, start and finish times of execution of process requests.">Monitor the results, run time, start and finish times of execution of process requests.</value>
   </row>
   <row id="B98CC98DABEE409DB43A0A224CA140EA" trl="N">
-    <value column="Name" isTrl="Y" original="End Year Close">Закрытие конец года</value>
+    <value column="Name" isTrl="Y" original="End Year Close">Закрытие в конце года</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="BC399BACA2F34B968C54555D79ED66A7" trl="N">
@@ -1516,9 +1568,17 @@
     <value column="Name" isTrl="N" original="Accounting templates">Accounting templates</value>
     <value column="Description" isTrl="N" original="Accounting templates to overwrite default accounting behavior">Accounting templates to overwrite default accounting behavior</value>
   </row>
+  <row id="C4ADA28EF2794F9AA047339E153B3C11" trl="N">
+    <value column="Name" isTrl="N" original="Attachments Configuration">Attachments Configuration</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
   <row id="C62EBC52C8DF463B9B720D52F250A8CF" trl="N">
-    <value column="Name" isTrl="N" original="Condition of the goods">Condition of the goods</value>
+    <value column="Name" isTrl="Y" original="Condition of the goods">Состояние товаров</value>
     <value column="Description" isTrl="N" original="Condition of the goods to be used in window RM receipt">Condition of the goods to be used in window RM receipt</value>
+  </row>
+  <row id="CC226771DE354AEEAA5D69F696F1A676" trl="N">
+    <value column="Name" isTrl="N" original="Receivables Aging Schedule">Receivables Aging Schedule</value>
+    <value column="Description" isTrl="N" original="Receivables Aging Schedule">Receivables Aging Schedule</value>
   </row>
   <row id="CC8E287A0B0743D69C53D8F678F9AD41" trl="N">
     <value column="Name" isTrl="Y" original="Reset Accounting">Убрать проводки</value>
@@ -1540,9 +1600,17 @@
     <value column="Name" isTrl="Y" original="Project Progress">Выполнение проекта</value>
     <value column="Description" isTrl="N" original="Report that shows the progress of the projects.">Report that shows the progress of the projects.</value>
   </row>
+  <row id="DA0544E59BC84E129ACB64EF0D355E54" trl="N">
+    <value column="Name" isTrl="N" original="Cluster Services">Cluster Services</value>
+    <value column="Description" isTrl="N" original="Display information about the cluster nodes responsible of handling the available cluster services.">Display information about the cluster nodes responsible of handling the available cluster services.</value>
+  </row>
   <row id="DF55818A579B448AAF0CE64736E20E45" trl="N">
     <value column="Name" isTrl="Y" original="Dataset">Набор данных</value>
     <value column="Description" isTrl="Y" original="Dataset">Набор данных</value>
+  </row>
+  <row id="E7F3F7CCB0C246B3903FFAB6AEFF126D" trl="N">
+    <value column="Name" isTrl="N" original="Cluster Service Settings">Cluster Service Settings</value>
+    <value column="Description" isTrl="N" original="Define the configuration of the available cluster services.">Define the configuration of the available cluster services.</value>
   </row>
   <row id="ED7B60C9919F48C096F93B58128DE565" trl="N">
     <value column="Name" isTrl="Y" original="Simple G/L Journal">Простой журнал по Г/К</value>

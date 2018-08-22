@@ -10,6 +10,46 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="08AF323AC6C566ADE050007F0100548B" trl="N">
+    <value column="Name" isTrl="N" original="Report Definition">Report Definition</value>
+    <value column="PrintName" isTrl="N" original="Report Definition">Report Definition</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="The Report Definition of a Process Definition created as Report.">The Report Definition of a Process Definition created as Report.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="08AF323AC6C666ADE050007F0100548B" trl="N">
+    <value column="Name" isTrl="N" original="PDF Template">PDF Template</value>
+    <value column="PrintName" isTrl="N" original="PDF Template">PDF Template</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="JRXML PDF Template">JRXML PDF Template</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="08AF323AC6C766ADE050007F0100548B" trl="N">
+    <value column="Name" isTrl="N" original="Excel Template">Excel Template</value>
+    <value column="PrintName" isTrl="N" original="Excel Template">Excel Template</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="JRXML template to export to Excel the report when a specific template is required for excel">JRXML template to export to Excel the report when a specific template is required for excel</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="08AF323AC6C866ADE050007F0100548B" trl="N">
+    <value column="Name" isTrl="N" original="Use PDF as Excel Template">Use PDF as Excel Template</value>
+    <value column="PrintName" isTrl="N" original="Use PDF as Excel Template">Use PDF as Excel Template</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Determines whether the PDF Template needs to be used to generate the Excel report instead of defining a specific template for it.">Determines whether the PDF Template needs to be used to generate the Excel report instead of defining a specific template for it.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="0E87BDD6E59C4B5FB9273E2580CC76B2" trl="N">
     <value column="Name" isTrl="N" original="Navigation Bar Component Role Access">Navigation Bar Component Role Access</value>
     <value column="PrintName" isTrl="N" original="Navigation Bar Component Role Access">Navigation Bar Component Role Access</value>
@@ -20,11 +60,31 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="0FA9076400FE4EF2BEACC722292144C5" trl="N">
+    <value column="Name" isTrl="N" original="Use PDF as HTML Template">Use PDF as HTML Template</value>
+    <value column="PrintName" isTrl="N" original="Use PDF as HTML Template">Use PDF as HTML Template</value>
+    <value column="Description" isTrl="N" original="Determines whether the PDF Template needs to be used to generate the HTML report instead of defining a specific template for it.">Determines whether the PDF Template needs to be used to generate the HTML report instead of defining a specific template for it.</value>
+    <value column="Help" isTrl="N" original="Determines whether the PDF Template needs to be used to generate the HTML report instead of defining a specific template for it.">Determines whether the PDF Template needs to be used to generate the HTML report instead of defining a specific template for it.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="10922048465547F48765035389E22977" trl="N">
     <value column="Name" isTrl="N" original="Lazy Filtering on Grid">Lazy Filtering on Grid</value>
     <value column="PrintName" isTrl="N" original="Lazy Filtering on Grid">Lazy Filtering on Grid</value>
-    <value column="Description" isTrl="N" original="If it is set, the grid won't perform a filter action until a button be pressed.">If it is set, the grid won't perform a filter action until a button be pressed.</value>
-    <value column="Help" isTrl="N" original="If it is set, the grid won't perform a filter action until the 'Apply Filters' button be pressed.">If it is set, the grid won't perform a filter action until the 'Apply Filters' button be pressed.</value>
+    <value column="Description" isTrl="Y" original="If it is set, the grid won't perform a filter and/or a sorting action until the 'Apply Filters' button be pressed. In the same way, the summary functions present in the grid won't be recalculated until this button be pressed.">If it is set, the grid won't perform a filter action until a button be pressed.</value>
+    <value column="Help" isTrl="Y" original="If it is set, the grid won't perform a filter and/or a sorting action until the 'Apply Filters' button be pressed. In the same way, the summary functions present in the grid won't be recalculated until this button be pressed.">If it is set, the grid won't perform a filter action until the 'Apply Filters' button be pressed.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="1185A82966EA40ABA990B5DDBD9B8FBA" trl="N">
+    <value column="Name" isTrl="N" original="Disable Foreign Key Combo">Disable Foreign Key Combo</value>
+    <value column="PrintName" isTrl="N" original="Disable Foreign Key Filter Combo">Disable Foreign Key Filter Combo</value>
+    <value column="Description" isTrl="N" original="If this flag is checked, the foreign key combo will be disabled and the column will be filtered like a standard text column">If this flag is checked, the foreign key combo will be disabled and the column will be filtered like a standard text column</value>
+    <value column="Help" isTrl="N" original="If this flag is checked, the foreign key combo will be disabled and the column will be filtered like a standard text column">If this flag is checked, the foreign key combo will be disabled and the column will be filtered like a standard text column</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -61,6 +121,16 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="2D51BCE155184D34A5F38FFE515D5C23" trl="N">
+    <value column="Name" isTrl="N" original="Unfiltered Foreign Key Combo">Unfiltered Foreign Key Combo</value>
+    <value column="PrintName" isTrl="N" original="Is FK Dropdown Unfiltered">Is FK Dropdown Unfiltered</value>
+    <value column="Description" isTrl="N" original="If this flag if checked, the filter drop down will show the rows from the referenced table unfiltered by specific rows being referenced in the referencing table.">If this flag if checked, the filter drop down will show the rows from the referenced table unfiltered by specific rows being referenced in the referencing table.</value>
+    <value column="Help" isTrl="N" original="If this flag if checked, the filter drop down will show the rows from the referenced table unfiltered by specific rows being referenced in the referencing table. The filters entered by the user in the grid filter editor will be applied.">If this flag if checked, the filter drop down will show the rows from the referenced table unfiltered by specific rows being referenced in the referencing table. The filters entered by the user in the grid filter editor will be applied.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="31DCDECE67A34C418930D50405D8057D" trl="N">
     <value column="Name" isTrl="Y" original="Start in New Line">Начать с новой строки</value>
     <value column="PrintName" isTrl="Y" original="Startinnewline">Начать с новой строки</value>
@@ -76,6 +146,16 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PrintName" isTrl="N" original="ongridloadfunction">ongridloadfunction</value>
     <value column="Description" isTrl="N" original="This function is invoked when the grid parameter is loaded for the first time.">This function is invoked when the grid parameter is loaded for the first time.</value>
     <value column="Help" isTrl="N" original="This function is invoked when the grid parameter is loaded for the first time.">This function is invoked when the grid parameter is loaded for the first time.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="3303E3F5D9714BFB81B967BAFD6AE5C9" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_Data_Pool_Sel_ID">Obuiapp_Data_Pool_Sel_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Data_Pool_Sel_ID">Obuiapp_Data_Pool_Sel_ID</value>
+    <value column="Description" isTrl="N" original="Data pool selection for Reports">Data pool selection for Reports</value>
+    <value column="Help" isTrl="N" original="Holds the relationship between a report and the database pool where its data will be fetched.">Holds the relationship between a report and the database pool where its data will be fetched.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -182,6 +262,16 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="520A61A4210C4197B3D6C68EFD39AE2F" trl="N">
+    <value column="Name" isTrl="N" original="Property Path">Property Path</value>
+    <value column="PrintName" isTrl="N" original="Property Path">Property Path</value>
+    <value column="Description" isTrl="N" original="Defines the property path taken for this parameter.">Defines the property path taken for this parameter.</value>
+    <value column="Help" isTrl="N" original="Defines the property path taken for this parameter.">Defines the property path taken for this parameter.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="5509E6BF87024E24A53DA324952D33C1" trl="N">
     <value column="Name" isTrl="N" original="Classname of the view implementation">Classname of the view implementation</value>
     <value column="PrintName" isTrl="N" original="Java Classname">Java Classname</value>
@@ -197,6 +287,16 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PrintName" isTrl="N" original="Obuiapp_Process_ID">Obuiapp_Process_ID</value>
     <value column="Description" isTrl="N" original="Process Defintion">Process Defintion</value>
     <value column="Help" isTrl="N" original="Process Defintion is a re implementation of Process with 3.0 infrastructure.">Process Defintion is a re implementation of Process with 3.0 infrastructure.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="692C0966E75147738DEC8F0EAC10B219" trl="N">
+    <value column="Name" isTrl="N" original="Value Key">Value Key</value>
+    <value column="PrintName" isTrl="N" original="Value Key">Value Key</value>
+    <value column="Description" isTrl="N" original="Column to store ID values.">Column to store ID values.</value>
+    <value column="Help" isTrl="N" original="Column to store ID values of Foreign Key parameters and Search Key of List parameters.">Column to store ID values of Foreign Key parameters and Search Key of List parameters.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -222,11 +322,31 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="6F89D13CC2D547DF82B8B835DC91BC39" trl="N">
+    <value column="Name" isTrl="N" original="Allow Summary Functions">Allow Summary Functions</value>
+    <value column="PrintName" isTrl="N" original="Allow Summary Functions">Allow Summary Functions</value>
+    <value column="Description" isTrl="N" original="If this flag is enabled then the user can add summary functions into the grid, by using the column header context menu. If not enabled, then the summary functions menu will not be available.">If this flag is enabled then the user can add summary functions into the grid, by using the column header context menu. If not enabled, then the summary functions menu will not be available.</value>
+    <value column="Help" isTrl="N" original="If this flag is enabled then the user can add summary functions into the grid, by using the column header context menu. If not enabled, then the summary functions menu will not be available.">If this flag is enabled then the user can add summary functions into the grid, by using the column header context menu. If not enabled, then the summary functions menu will not be available.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="7A18B7D741A349B493D145C80DB54E5E" trl="N">
     <value column="Name" isTrl="N" original="Obuiapp_Ref_Window_ID">Obuiapp_Ref_Window_ID</value>
     <value column="PrintName" isTrl="N" original="Obuiapp_Ref_Window_ID">Obuiapp_Ref_Window_ID</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="7B0DBFCC0E5C429092E23014127C44B8" trl="N">
+    <value column="Name" isTrl="N" original="HTML Template">HTML Template</value>
+    <value column="PrintName" isTrl="N" original="HTML Template">HTML Template</value>
+    <value column="Description" isTrl="N" original="JRXML template to use for exporting the report to HTML format">JRXML template to use for exporting the report to HTML format</value>
+    <value column="Help" isTrl="N" original="JRXML template to use for exporting the report to HTML format">JRXML template to use for exporting the report to HTML format</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -255,6 +375,26 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
   <row id="7FCB281817674667B5E7BA53B464F299" trl="N">
     <value column="Name" isTrl="N" original="Obuiapp_Note_ID">Obuiapp_Note_ID</value>
     <value column="PrintName" isTrl="N" original="Obuiapp_Note_ID">Obuiapp_Note_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="801D650DB70C49448DFD0E73C8EEF143" trl="N">
+    <value column="Name" isTrl="N" original="Show In Description">Show In Description</value>
+    <value column="PrintName" isTrl="N" original="ATT_Showindescription">ATT_Showindescription</value>
+    <value column="Description" isTrl="N" original="Defines if this parameter is relevant in Text column on C_File table.">Defines if this parameter is relevant in Text column on C_File table.</value>
+    <value column="Help" isTrl="N" original="Defines if this parameter is relevant in Text column on C_File table.">Defines if this parameter is relevant in Text column on C_File table.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="82F94DF2DAF64D0CA93BA0CDC4346972" trl="N">
+    <value column="Name" isTrl="N" original="Process Translation">Process Translation</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Process_Trl_ID">Obuiapp_Process_Trl_ID</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -372,6 +512,16 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="9CCFB3754A1B4F78BAE881FAAD33E9D6" trl="N">
+    <value column="Name" isTrl="N" original="Report">Report</value>
+    <value column="PrintName" isTrl="N" original="Report">Report</value>
+    <value column="Description" isTrl="N" original="References a report regardless the place it is defined">References a report regardless the place it is defined</value>
+    <value column="Help" isTrl="N" original="References a report regardless the place it is defined">References a report regardless the place it is defined</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="9EAE872F6F394DE3AB3BE9AE2B8C7E73" trl="N">
     <value column="Name" isTrl="N" original="On Refresh Function">On Refresh Function</value>
     <value column="PrintName" isTrl="N" original="On Refresh Function">On Refresh Function</value>
@@ -450,6 +600,16 @@ Its value can be:
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="B86D9D39A3234489A642BA8BCC749835" trl="N">
+    <value column="Name" isTrl="N" original="Data Pool">Data Pool</value>
+    <value column="PrintName" isTrl="N" original="Data Pool">Data Pool</value>
+    <value column="Description" isTrl="N" original="Lists all possible database pools which OBDal can use to retrieve data.">Lists all possible database pools which OBDal can use to retrieve data.</value>
+    <value column="Help" isTrl="N" original="Lists all possible database pools which OBDal can use to retrieve data.">Lists all possible database pools which OBDal can use to retrieve data.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="BA3A1846B28F4FFC8F00886F5251A7BA" trl="N">
     <value column="Name" isTrl="N" original="By Default Allow Sorting">By Default Allow Sorting</value>
     <value column="PrintName" isTrl="N" original="By Default Allow Sorting">By Default Allow Sorting</value>
@@ -465,6 +625,16 @@ Its value can be:
     <value column="PrintName" isTrl="N" original="Obuiapp_Menu_Parameters_ID">Obuiapp_Menu_Parameters_ID</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="C1AA24FDF3714201BD68237D38243ACA" trl="N">
+    <value column="Name" isTrl="N" original="Static Component">Static Component</value>
+    <value column="PrintName" isTrl="N" original="Static Component">Static Component</value>
+    <value column="Description" isTrl="N" original="Defines whether a navigation bar component is static or not.">Defines whether a navigation bar component is static or not.</value>
+    <value column="Help" isTrl="N" original="Defines whether a navigation bar component is static or not. Static components are generated in the same request of the session dynamic resources. Non static components requires an extra request call to generate its content.">Defines whether a navigation bar component is static or not. Static components are generated in the same request of the session dynamic resources. Non static components requires an extra request call to generate its content.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>

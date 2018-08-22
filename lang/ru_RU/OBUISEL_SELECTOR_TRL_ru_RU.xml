@@ -17,6 +17,16 @@
   </row>
   <row id="121CCCD7F670457A9FF815163F11A61F" trl="N">
     <value column="Name" isTrl="N" original="Invoice Line Selector">Invoice Line Selector</value>
+    <value column="Description" isTrl="N" original="Invoice Lines that can be added to a Landed Cost">Invoice Lines that can be added to a Landed Cost</value>
+    <value column="Help" isTrl="N" original="A selector that proposes Invoice Lines that can be linked to a Landed Cost.">A selector that proposes Invoice Lines that can be linked to a Landed Cost.</value>
+  </row>
+  <row id="159A0EA5DE8844E9B0E7198E5525C854" trl="N">
+    <value column="Name" isTrl="N" original="Client Selector">Client Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="1DB80A7D4BC244F0BE5615702D3BF91C" trl="N">
+    <value column="Name" isTrl="N" original="Legal or Business Organizations Selector">Legal or Business Organizations Selector</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -60,6 +70,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="34E8E3A0240B4252AABFF77D01B91EF3" trl="N">
+    <value column="Name" isTrl="N" original="Simple AD_Tab Selector">Simple AD_Tab Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="3E93B5BA717D4596BA41B843AFFB903C" trl="N">
     <value column="Name" isTrl="N" original="Process Run">Process Run</value>
     <value column="Description" isTrl="N" original=""/>
@@ -90,13 +105,33 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="4D3AD61E57AF460EAB4D36A4E1476667" trl="N">
+    <value column="Name" isTrl="N" original="Product Complete">Product Complete</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="4E0AC6FEC5EA4A2BB474747DB03A3A21" trl="N">
+    <value column="Name" isTrl="N" original="Organization Selector">Organization Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="518C9A856274423AB19490CA145AE139" trl="N">
     <value column="Name" isTrl="N" original="Table Tree Category">Table Tree Category</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="5D8307CE8322429DBED98ADC8E8361E6" trl="N">
+    <value column="Name" isTrl="N" original="Simple AD_Field Selector">Simple AD_Field Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="5E026139F74D4FD5AC4FA23189A03C92" trl="N">
     <value column="Name" isTrl="N" original="DatasourceSelectorForTables">DatasourceSelectorForTables</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="631ED05BC8594B1FBF55D1079BAB30B5" trl="N">
+    <value column="Name" isTrl="N" original="UOM Selector">UOM Selector</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -115,6 +150,16 @@
     <value column="Description" isTrl="N" original="Storage Bin Selector">Storage Bin Selector</value>
     <value column="Help" isTrl="N" original="Storage Bin Selector">Storage Bin Selector</value>
   </row>
+  <row id="784A05D3FE67483A85C8CB77AAEC5910" trl="N">
+    <value column="Name" isTrl="N" original="Account Schema Selector">Account Schema Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="7875FD8CEC604CB3AF3ABDF9D9024CA3" trl="N">
+    <value column="Name" isTrl="N" original="Order for invoicing">Order for invoicing</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="7B07F521E4804C89B7956E584989CC16" trl="N">
     <value column="Name" isTrl="N" original="Process Plan Version">Process Plan Version</value>
     <value column="Description" isTrl="N" original="Process Plan Version Selector">Process Plan Version Selector</value>
@@ -124,6 +169,11 @@
     <value column="Name" isTrl="N" original="User Dimension 1">User Dimension 1</value>
     <value column="Description" isTrl="N" original="User Dimension 1">User Dimension 1</value>
     <value column="Help" isTrl="N" original="User Dimension 1">User Dimension 1</value>
+  </row>
+  <row id="8190C8CCE42C41B2AF573D075BF90F1B" trl="N">
+    <value column="Name" isTrl="N" original="M_InOutLine Receipts">M_InOutLine Receipts</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="862F54CB1B074513BD791C6789F4AA42" trl="N">
     <value column="Name" isTrl="N" original="Business Partner with contact and location">Business Partner with contact and location</value>
@@ -160,6 +210,16 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="A9173FEF71164322A789C8B0ACD753D5" trl="N">
+    <value column="Name" isTrl="N" original="RTV/RFC ReturnedUOMSelector">RTV/RFC ReturnedUOMSelector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="ACF43EE5C10F4A83ABCDF1C9F55CDB12" trl="N">
+    <value column="Name" isTrl="N" original="Table Multi Selector">Table Multi Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="B06B003BD6E34FDDAF5DFD5A9ECD14E2" trl="N">
     <value column="Name" isTrl="N" original="Transaction">Transaction</value>
     <value column="Description" isTrl="N" original=""/>
@@ -190,10 +250,20 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="BA3E7AE2C78E44AF890EDEFCDB76CD9A" trl="N">
+    <value column="Name" isTrl="N" original="Legal Organizations Selector">Legal Organizations Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="BD1DA40E134A42B9889B529302A96871" trl="N">
     <value column="Name" isTrl="N" original="User Dimension 2">User Dimension 2</value>
     <value column="Description" isTrl="N" original="User Dimension 2">User Dimension 2</value>
     <value column="Help" isTrl="N" original="User Dimension 2">User Dimension 2</value>
+  </row>
+  <row id="BE418876228146A39B8F020CC3531BB2" trl="N">
+    <value column="Name" isTrl="N" original="RTVSH Returned UOM">RTVSH Returned UOM</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="BE6ACDD8B76E4BA994E7127F112FDFAC" trl="N">
     <value column="Name" isTrl="N" original="Element Value">Element Value</value>
@@ -235,6 +305,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="DFC496029B4743E49D78E6B4414BDAF2" trl="N">
+    <value column="Name" isTrl="N" original="AUM Selector Filtered by Product">AUM Selector Filtered by Product</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="E1F081829D324B20B7214E7018B589C4" trl="N">
     <value column="Name" isTrl="N" original="MRP_ProductionRunLineSelector">MRP_ProductionRunLineSelector</value>
     <value column="Description" isTrl="N" original=""/>
@@ -245,13 +320,43 @@
     <value column="Description" isTrl="Y" original="Asset Selector">Переключатель основных средств</value>
     <value column="Help" isTrl="Y" original="Asset Selector">Переключатель основных средств</value>
   </row>
+  <row id="E80D7648BF3848BD9DD23B31287CC59B" trl="N">
+    <value column="Name" isTrl="N" original="Context Role Direct Accessible Organizations">Context Role Direct Accessible Organizations</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E8F1B0721E104D07AAC532290C951C37" trl="N">
+    <value column="Name" isTrl="N" original="On Hand Locator">On Hand Locator</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="EA58EEA492A84913ADA70BA8CEC296AB" trl="N">
+    <value column="Name" isTrl="N" original="Attachment Selector">Attachment Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="EB3C41F0973A4EDA91E475833792A6D4" trl="N">
     <value column="Name" isTrl="Y" original="ProductSimple">Простой товар</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="EBE0615996484135B061F2E15C2E3174" trl="N">
+    <value column="Name" isTrl="N" original="Calendar Selector">Calendar Selector</value>
+    <value column="Description" isTrl="N" original="Calendar Simple Selector.">Calendar Simple Selector.</value>
+    <value column="Help" isTrl="N" original="Calendar Simple Selector.">Calendar Simple Selector.</value>
+  </row>
   <row id="EBFFA9D8B4FE4F9F8E591D0AB79D8343" trl="N">
     <value column="Name" isTrl="N" original="C_Order Purchase no combo">C_Order Purchase no combo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="EC317FD8B5B54EC096438659CD06F280" trl="N">
+    <value column="Name" isTrl="N" original="PLM-Status">PLM-Status</value>
+    <value column="Description" isTrl="N" original="Product Lifecycle Management Status reference">Product Lifecycle Management Status reference</value>
+    <value column="Help" isTrl="N" original="Product Lifecycle Management Status reference">Product Lifecycle Management Status reference</value>
+  </row>
+  <row id="ED3DEE195F2F482CA4C828FCF9F77D3D" trl="N">
+    <value column="Name" isTrl="N" original="Inventory Status">Inventory Status</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -280,8 +385,28 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="F879D55C4CEA4364BEC07ED3C002F230" trl="N">
+    <value column="Name" isTrl="N" original="Operative UOM Selector">Operative UOM Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="FA5BC3AD909645C3BCF9384AE635009A" trl="N">
     <value column="Name" isTrl="N" original="Account Element Value">Account Element Value</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="FE64BB86B64C4C23A9BB3B595D11D523" trl="N">
+    <value column="Name" isTrl="N" original="Service Price Rule">Service Price Rule</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="FEC62894695F421BA166564426DF0E2F" trl="N">
+    <value column="Name" isTrl="N" original="Warehouse Selector">Warehouse Selector</value>
+    <value column="Description" isTrl="N" original="Default selector for a warehouse">Default selector for a warehouse</value>
+    <value column="Help" isTrl="N" original="Default selector for a warehouse">Default selector for a warehouse</value>
+  </row>
+  <row id="FED71549F4554FEB900DA516DDC3CA52" trl="N">
+    <value column="Name" isTrl="N" original="Tab Selector">Tab Selector</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

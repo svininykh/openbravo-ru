@@ -5,6 +5,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="09205723CA864FDF83B2E72CCBC148FD" trl="N">
+    <value column="Name" isTrl="N" original="Quantity Order in draft transactions">Quantity Order in draft transactions</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="09443D24F490441BA12AFB6490481875" trl="N">
     <value column="Name" isTrl="Y" original="List Price">Цена прейскуранта</value>
     <value column="Description" isTrl="N" original=""/>
@@ -14,6 +19,16 @@
     <value column="Name" isTrl="Y" original="Characteristic Description">Описание характеристики</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="0C9C3717BCC54876986C1FF78879242E" trl="N">
+    <value column="Name" isTrl="N" original="Height(Z)">Height(Z)</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="1160DAB9BB44466BAC0486726AF91215" trl="N">
+    <value column="Name" isTrl="N" original="Tab">Tab</value>
+    <value column="Description" isTrl="N" original="A non-unique identifier for a record/document often used as a search tool.">A non-unique identifier for a record/document often used as a search tool.</value>
+    <value column="Help" isTrl="N" original="A more descriptive identifier (that does need to be unique) of a record/document that is used as a default search option along with the search key (that is unique and mostly shorter). It is up to 60 characters in length.">A more descriptive identifier (that does need to be unique) of a record/document that is used as a default search option along with the search key (that is unique and mostly shorter). It is up to 60 characters in length.</value>
   </row>
   <row id="13CA3020FEB644D9AA51B4797181BB29" trl="N">
     <value column="Name" isTrl="N" original="id">id</value>
@@ -45,6 +60,16 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="3111D7A528C8456085F2FF73F66103B6" trl="N">
+    <value column="Name" isTrl="N" original="Search Key">Search Key</value>
+    <value column="Description" isTrl="N" original="Search Key">Search Key</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="31D4ABD63E97420293A5A48E177BCA7C" trl="N">
+    <value column="Name" isTrl="N" original="Product UOM out">Product UOM out</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="32244F2B9B414FD4B3AB8607DC91EA3A" trl="N">
     <value column="Name" isTrl="Y" original="List Price">Цена прейскуранта</value>
     <value column="Description" isTrl="N" original=""/>
@@ -62,6 +87,11 @@
   </row>
   <row id="38075EEC36C24E3CAB44D1B33D2CE637" trl="N">
     <value column="Name" isTrl="N" original="identifier">identifier</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="39E5DFE4838643159BD8A9DDC11EA202" trl="N">
+    <value column="Name" isTrl="N" original="Shelves(Y)">Shelves(Y)</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -140,8 +170,28 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="4FDDBA2B3D0F4C1C8BF8831729ED51F8" trl="N">
+    <value column="Name" isTrl="N" original="Corridor(X)">Corridor(X)</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="54541B92159547FF9C306D4273B881E7" trl="N">
+    <value column="Name" isTrl="N" original="On Hand Quantity order">On Hand Quantity order</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="5545248A63EC4FB1833AB17C07C5542C" trl="N">
     <value column="Name" isTrl="Y" original="Value">Значение</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="56CF04D01F364FD1AC5BA64E0D5CC4D6" trl="N">
+    <value column="Name" isTrl="N" original="name">name</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="59D8A7A4F1B14020A52D827967FEE47E" trl="N">
+    <value column="Name" isTrl="N" original="Priority No.">Priority No.</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -155,8 +205,18 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="63324DD1917043AE9753C7C57EA13F79" trl="N">
+    <value column="Name" isTrl="N" original="Attribute out">Attribute out</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="63507B832CF94D8BB30286ED4369E55B" trl="N">
     <value column="Name" isTrl="Y" original="Credit Line available">Кредитный лимит доступен</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="66992632F34048DAA53180DA15C241D6" trl="N">
+    <value column="Name" isTrl="N" original="By Default">By Default</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -165,8 +225,18 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="69ADDE1D4FBF4E2B8116E1514E2E049E" trl="N">
+    <value column="Name" isTrl="N" original="Quantity order out">Quantity order out</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="6DDC519575994A81A5C92046AD2FB7B6" trl="N">
     <value column="Name" isTrl="Y" original="Ordered Qty.">Кол-во ордера</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="6E60C08DA25D43F597380B6A307F98EA" trl="N">
+    <value column="Name" isTrl="N" original="Warehouse">Warehouse</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -182,6 +252,11 @@
   </row>
   <row id="7CA7330BA4864D2FB1FED44CDB88A622" trl="N">
     <value column="Name" isTrl="Y" original="Name">Название</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="8053296757A84A4BBF1F5DC27886B36E" trl="N">
+    <value column="Name" isTrl="N" original="Alias">Alias</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -215,6 +290,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="9AE7DBE4D26C42E69397961BBE2A8B72" trl="N">
+    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Description" isTrl="N" original="Product of the Invoice Line">Product of the Invoice Line</value>
+    <value column="Help" isTrl="N" original="Product associated to the Invoice Line">Product associated to the Invoice Line</value>
+  </row>
   <row id="9D9998D878F2442BB240A5872C8D6A8E" trl="N">
     <value column="Name" isTrl="Y" original="Value">Значение</value>
     <value column="Description" isTrl="N" original=""/>
@@ -222,6 +302,11 @@
   </row>
   <row id="A246D4AC538E42BE9F0CD8182A558712" trl="N">
     <value column="Name" isTrl="Y" original="Customer">Клиент</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="A29D60CD276243789FCACA4D044318FE" trl="N">
+    <value column="Name" isTrl="N" original="Product id">Product id</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -240,6 +325,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="B0D7816370094619A58B6E0272638374" trl="N">
+    <value column="Name" isTrl="N" original="value">value</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="B103893820FC4080809A97FABD49D8AF" trl="N">
     <value column="Name" isTrl="N" original="identifier">identifier</value>
     <value column="Description" isTrl="N" original=""/>
@@ -255,6 +345,11 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="C1BD7C0A5F514B76A825C3CEAEC73B7A" trl="N">
+    <value column="Name" isTrl="N" original="Locator out">Locator out</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="C68D5472E5C94D01AD29C3AA4946B698" trl="N">
     <value column="Name" isTrl="N" original="Generic Product">Generic Product</value>
     <value column="Description" isTrl="N" original=""/>
@@ -267,6 +362,21 @@
   </row>
   <row id="CA8DF8BBBDA34D5AB299E14E86320BC6" trl="N">
     <value column="Name" isTrl="Y" original="Customer">Клиент</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="CB8A1B4FDF9343179B3B4AB24BEFEB25" trl="N">
+    <value column="Name" isTrl="N" original="Order UOM">Order UOM</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="CE3158DA05BC42DFABEE80D45DAD126C" trl="N">
+    <value column="Name" isTrl="N" original="UOM out">UOM out</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D149E770E87D45709FF0C7DAE2C8B777" trl="N">
+    <value column="Name" isTrl="N" original="id">id</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

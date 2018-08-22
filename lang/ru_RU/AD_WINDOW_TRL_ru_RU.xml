@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_RU" table="AD_WINDOW" version="">
+  <row id="052D0C552B7C4E6E814B3B1910DF573D" trl="N">
+    <value column="Name" isTrl="N" original="Inventory Status">Inventory Status</value>
+    <value column="Description" isTrl="N" original="Manage the inventory status definitions">Manage the inventory status definitions</value>
+    <value column="Help" isTrl="N" original="The inventory status refers to the condition of a specific inventory (such as AVAILABLE, RETURN, DEFECT, TRANSIT) that is stored in a specific organization, warehouse and bin and for a product with a specific lot/serial and quantity. The inventory status can allow or disallow certain business processes.">The inventory status refers to the condition of a specific inventory (such as AVAILABLE, RETURN, DEFECT, TRANSIT) that is stored in a specific organization, warehouse and bin and for a product with a specific lot/serial and quantity. The inventory status can allow or disallow certain business processes.</value>
+  </row>
   <row id="08F09D2A7C774585B014C06C0F44F591" trl="N">
     <value column="Name" isTrl="N" original="AD Implementation Mapping">AD Implementation Mapping</value>
     <value column="Description" isTrl="N" original="Displays the AD-implementation mappings">Displays the AD-implementation mappings</value>
@@ -344,6 +349,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original="Define titles to be used to address a business partner.">Define titles to be used to address a business partner.</value>
     <value column="Help" isTrl="N" original="Title window allows to setup business partner titles such as Mr or Madame to be used while contacting business partners.">Title window allows to setup business partner titles such as Mr or Madame to be used while contacting business partners.</value>
   </row>
+  <row id="17F3B5BC762145B9AAD2F6483BC12CF4" trl="N">
+    <value column="Name" isTrl="N" original="Data Import Entries">Data Import Entries</value>
+    <value column="Description" isTrl="N" original="Shows the import entries processed and to be processed">Shows the import entries processed and to be processed</value>
+    <value column="Help" isTrl="N" original="Shows the import entries processed and to be processed">Shows the import entries processed and to be processed</value>
+  </row>
   <row id="181" trl="N">
     <value column="Name" isTrl="Y" original="Purchase Order">Ордер поставщика</value>
     <value column="Description" isTrl="N" original="Create and edit orders to buy products from suppliers.">Create and edit orders to buy products from suppliers.</value>
@@ -538,7 +548,7 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="283" trl="N">
     <value column="Name" isTrl="Y" original="Accounting Dimension">План счетов по субконто</value>
     <value column="Description" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
-    <value column="Help" isTrl="N" original="Create and edit accounting dimensions to be used in dimensional reports.">Create and edit accounting dimensions to be used in dimensional reports.</value>
+    <value column="Help" isTrl="Y" original="Create and edit accounting dimensions to be used in dimensional reports.&#10;THIS WINDOW IS DEPRECATED. TO BE DELETED IN NEXT MAJOR VERSION">Create and edit accounting dimensions to be used in dimensional reports.</value>
   </row>
   <row id="291" trl="Y">
     <value column="Name" isTrl="Y" original="Business Partner Info">Сведения о контрагенте</value>
@@ -555,15 +565,30 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="396E76B84F574F8F850D1F4606AD06E3" trl="N">
+    <value column="Name" isTrl="N" original="Unbox Referenced Inventory P&amp;E">Unbox Referenced Inventory P&amp;E</value>
+    <value column="Description" isTrl="N" original="Show stock that can be unboxed from a referenced inventory">Show stock that can be unboxed from a referenced inventory</value>
+    <value column="Help" isTrl="N" original="Show stock that can be unboxed from a referenced inventory">Show stock that can be unboxed from a referenced inventory</value>
+  </row>
   <row id="3CAAC7D54593489384452416ACF356DD" trl="N">
     <value column="Name" isTrl="Y" original="Payment Method">Способ оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="3DA7267B2FEC42B287B4428DF658C7E5" trl="N">
+    <value column="Name" isTrl="N" original="Referenced Inventory Type">Referenced Inventory Type</value>
+    <value column="Description" isTrl="N" original="Defines different types of containers or boxes, which includes any kind of object that can contain goods.">Defines different types of containers or boxes, which includes any kind of object that can contain goods.</value>
+    <value column="Help" isTrl="N" original="Defines different types of containers or boxes, which includes any kind of object that can contain goods.">Defines different types of containers or boxes, which includes any kind of object that can contain goods.</value>
+  </row>
   <row id="3E945A9102144C16BD211D211089C2DF" trl="N">
     <value column="Name" isTrl="Y" original="Costing Rules">Методы калькуляции</value>
     <value column="Description" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account ">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account </value>
     <value column="Help" isTrl="N" original="A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The &quot;Warehouse&quot; can be configured as a dimension to take into account while calculating costs.">A costing rule can be applied during cost calculation.  Each costing rule requires a costing algorithm and a valid from date to properly calculate the  cost of material's transactions. The "Warehouse" can be configured as a dimension to take into account while calculating costs.</value>
+  </row>
+  <row id="3F38D98AF2FA4F888E2DAEAC7BCF8724" trl="N">
+    <value column="Name" isTrl="N" original="Cluster Service Settings">Cluster Service Settings</value>
+    <value column="Description" isTrl="N" original="Define the configuration of the available cluster services.">Define the configuration of the available cluster services.</value>
+    <value column="Help" isTrl="N" original="Define the configuration of the available cluster services.">Define the configuration of the available cluster services.</value>
   </row>
   <row id="442FA34D72E5423B8DDBD65DBF0ED4B6" trl="N">
     <value column="Name" isTrl="N" original="Reservation Pick and Edit">Reservation Pick and Edit</value>
@@ -590,10 +615,20 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="Y" original="System Info">Системная информация</value>
     <value column="Help" isTrl="Y" original="System Info">Системная информация</value>
   </row>
+  <row id="5F14B963BFFB4C039CA523D871C3FDD6" trl="N">
+    <value column="Name" isTrl="N" original="PLM Status">PLM Status</value>
+    <value column="Description" isTrl="N" original="Product Lifecycle Management Status Window">Product Lifecycle Management Status Window</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="60703FC84BF6494B8A59DDFEAB48A4F6" trl="N">
     <value column="Name" isTrl="N" original="RFC/RTV HQL Pick / Edit Lines">RFC/RTV HQL Pick / Edit Lines</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="6A5963EA222743ACB44F9C65DF7F658C" trl="N">
+    <value column="Name" isTrl="N" original="Referenced Inventory">Referenced Inventory</value>
+    <value column="Description" isTrl="N" original="Defines the containers or boxes, which includes any kind of object that can contain goods.">Defines the containers or boxes, which includes any kind of object that can contain goods.</value>
+    <value column="Help" isTrl="N" original="Defines the containers or boxes, which includes any kind of object that can contain goods.">Defines the containers or boxes, which includes any kind of object that can contain goods.</value>
   </row>
   <row id="6AA84F4BDAA44477808F0E7A86AB4961" trl="N">
     <value column="Name" isTrl="N" original="Prereservation Pick and Edit">Prereservation Pick and Edit</value>
@@ -624,6 +659,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Name" isTrl="Y" original="Cost Center">Центр затрат</value>
     <value column="Description" isTrl="N" original="Cost Center is an accounting dimension which can be used while posting documents to the ledger.">Cost Center is an accounting dimension which can be used while posting documents to the ledger.</value>
     <value column="Help" isTrl="N" original="Cost Center is an accounting dimension which can be used while posting documents to the ledger.">Cost Center is an accounting dimension which can be used while posting documents to the ledger.</value>
+  </row>
+  <row id="7AE5333578E84E3CAEA6F1943ACF324F" trl="N">
+    <value column="Name" isTrl="N" original="Attachments Configuration">Attachments Configuration</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Client configuration of the Attachment Method to be used. Each attachment method can include its own extra fields to complete the configuration of the attachment method. It is only possible to have one active configuration on each client.">Client configuration of the Attachment Method to be used. Each attachment method can include its own extra fields to complete the configuration of the attachment method. It is only possible to have one active configuration on each client.</value>
   </row>
   <row id="800000" trl="N">
     <value column="Name" isTrl="N" original="Auxiliary Input">Auxiliary Input</value>
@@ -668,12 +708,12 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="800013" trl="N">
     <value column="Name" isTrl="Y" original="Incoming Shipment">Поступления</value>
     <value column="Description" isTrl="N" original="Create and manage goods shipments from our vendors">Create and manage goods shipments from our vendors</value>
-    <value column="Help" isTrl="N" original="Create and manage goods shipments from our vendors">Create and manage goods shipments from our vendors</value>
+    <value column="Help" isTrl="Y" original="Create and manage goods shipments from our vendors.&#10;WARNING: This window is not supported anymore and it is only kept for backward compatibility">Create and manage goods shipments from our vendors</value>
   </row>
   <row id="800014" trl="N">
     <value column="Name" isTrl="Y" original="Outgoing Shipment">Выбытия</value>
     <value column="Description" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
-    <value column="Help" isTrl="N" original="Create and manage goods shipments to your customers.">Create and manage goods shipments to your customers.</value>
+    <value column="Help" isTrl="Y" original="Create and manage goods shipments to your customers.&#10;WARNING: This window is not supported anymore and it is only kept for backward compatibility">Create and manage goods shipments to your customers.</value>
   </row>
   <row id="800015" trl="N">
     <value column="Name" isTrl="Y" original="Data File Type">Формат файла данных</value>
@@ -915,6 +955,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="8F104213DDF44D62B75D133C956F74CF" trl="N">
+    <value column="Name" isTrl="N" original="Service Order Line Pick and Edit">Service Order Line Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="9153155013C843839F88E9940B976148" trl="Y">
     <value column="Name" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
     <value column="Description" isTrl="Y" original="Discounts and Promotions Types">Виды скидок и акций</value>
@@ -940,10 +985,25 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="9E9D6221FAF348C3A9B7DA5FCF17F3E0" trl="N">
+    <value column="Name" isTrl="N" original="Services Related Products">Services Related Products</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="9F13F7F5BA604C01911589C7E44FAD82" trl="N">
     <value column="Name" isTrl="Y" original="User Defined Dimension 2">Субконто 2 определено пользователем</value>
     <value column="Description" isTrl="N" original="User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
     <value column="Help" isTrl="N" original="User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.">User Defined Dimension 2 is an accounting dimension which can be customized and used while posting documents to the ledger.</value>
+  </row>
+  <row id="A4BC3EDFD2424618840A981321C9EC1B" trl="N">
+    <value column="Name" isTrl="N" original="Add Products">Add Products</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="A839712F8D5E4929BB2D057BAA55A2A3" trl="N">
+    <value column="Name" isTrl="N" original="Copy from Orders P&amp;E">Copy from Orders P&amp;E</value>
+    <value column="Description" isTrl="N" original="Copies lines from Orders">Copies lines from Orders</value>
+    <value column="Help" isTrl="N" original="Copies lines from Orders">Copies lines from Orders</value>
   </row>
   <row id="A9FD6A5AED3546EC83DB567882646D2E" trl="N">
     <value column="Name" isTrl="Y" original="Accounting Process">Обработка проводки</value>
@@ -960,10 +1020,20 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="N" original="This window shows all the group of payments executed together.">This window shows all the group of payments executed together.</value>
     <value column="Help" isTrl="N" original="The payment run window is a read-only window which shows relevant information of each payment run executed within an organization.">The payment run window is a read-only window which shows relevant information of each payment run executed within an organization.</value>
   </row>
+  <row id="B05F8C73ED3F430296FC9E7C7FAABB7F" trl="N">
+    <value column="Name" isTrl="N" original="Box Referenced Inventory P&amp;E">Box Referenced Inventory P&amp;E</value>
+    <value column="Description" isTrl="N" original="Show stock that can be boxed into a referenced inventory">Show stock that can be boxed into a referenced inventory</value>
+    <value column="Help" isTrl="N" original="Show stock that can be boxed into a referenced inventory">Show stock that can be boxed into a referenced inventory</value>
+  </row>
   <row id="B15DDE526F724EBCB11439BDDB483FA6" trl="N">
     <value column="Name" isTrl="N" original="Accounting templates">Accounting templates</value>
     <value column="Description" isTrl="N" original="Accounting templates to overwrite default accounting behavior">Accounting templates to overwrite default accounting behavior</value>
     <value column="Help" isTrl="N" original="Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.">Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.</value>
+  </row>
+  <row id="B2C0C2AE3B7B49B1A68F864FA8FC603C" trl="N">
+    <value column="Name" isTrl="N" original="Service Price Rule">Service Price Rule</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="B43A89704D864A6995BD5AC32201DBD9" trl="N">
     <value column="Name" isTrl="Y" original="Condition of the goods">Состояние товаров</value>
@@ -984,6 +1054,16 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Name" isTrl="Y" original="Simple G/L Journal">Простой журнал по Г/К</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C09BDAD99A6F4276B022BF2ABBB386AC" trl="N">
+    <value column="Name" isTrl="N" original="Cluster Services">Cluster Services</value>
+    <value column="Description" isTrl="N" original="Display information about the cluster nodes responsible of handling the available cluster services.">Display information about the cluster nodes responsible of handling the available cluster services.</value>
+    <value column="Help" isTrl="N" original="Display information about the cluster nodes responsible of handling the available cluster services.">Display information about the cluster nodes responsible of handling the available cluster services.</value>
+  </row>
+  <row id="C4CA99B1DF4E471CA50577013AE264AD" trl="N">
+    <value column="Name" isTrl="N" original="Attachment Method">Attachment Method</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Defines Attachment Methods that can be used for saving attachments and all metadata that will be saved for each one.">Defines Attachment Methods that can be used for saving attachments and all metadata that will be saved for each one.</value>
   </row>
   <row id="C50A8AEE6F044825B5EF54FAAE76826F" trl="N">
     <value column="Name" isTrl="Y" original="Return to Vendor">Возврат поставщику по ордеру</value>
@@ -1020,6 +1100,11 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Description" isTrl="Y" original="Module management">Управление модулями</value>
     <value column="Help" isTrl="N" original="Manages the modules currently installed.">Manages the modules currently installed.</value>
   </row>
+  <row id="D622DE7A8CB84A59880505589719B38A" trl="N">
+    <value column="Name" isTrl="N" original="Services Related Product Categories">Services Related Product Categories</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="E547CE89D4C04429B6340FFA44E70716" trl="N">
     <value column="Name" isTrl="Y" original="Payment In">Принятые платежи</value>
     <value column="Description" isTrl="N" original="Customer's payments and prepayments received can be recorded and managed in the payment in window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.">Customer's payments and prepayments received can be recorded and managed in the payment in window. Same way G/L item payments do not related to orders/invoices can also be managed in this window.</value>
@@ -1053,6 +1138,11 @@ You can also select if transactions are allowed or not for this organization typ
   <row id="F7253C7B9B8F47518C29248F899C72CE" trl="N">
     <value column="Name" isTrl="N" original="Create Purchase Order Lines">Create Purchase Order Lines</value>
     <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="F88B1280DE564BDBB1D80D159F0D2889" trl="N">
+    <value column="Name" isTrl="N" original="Data Import Entry Archive">Data Import Entry Archive</value>
+    <value column="Description" isTrl="N" original="Archive of imported data">Archive of imported data</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FC404D2406A9491CBD905D0D38F04846" trl="N">

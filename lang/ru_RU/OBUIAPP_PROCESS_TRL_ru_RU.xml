@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_RU" table="OBUIAPP_PROCESS" version="">
+  <row id="0B90883A379A4736B7016B8D5E8E75DB" trl="N">
+    <value column="Name" isTrl="N" original="Box">Box</value>
+    <value column="Description" isTrl="N" original="Box Storage Details into a Referenced Inventory">Box Storage Details into a Referenced Inventory</value>
+    <value column="Help" isTrl="N" original="Box Storage Details into a Referenced Inventory">Box Storage Details into a Referenced Inventory</value>
+  </row>
+  <row id="0C2AFAEFB67B4CB8A1429195EB119A49" trl="N">
+    <value column="Name" isTrl="N" original="Confirm Cancel and Replace Sales Order">Confirm Cancel and Replace Sales Order</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="0D37A9F6109549DEB058373EF2DAEB6A" trl="N">
+    <value column="Name" isTrl="N" original="Aging Balance Process Definition for Receivables">Aging Balance Process Definition for Receivables</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="1B0BF927933A4F41A73739CB6E4A9AD0" trl="N">
+    <value column="Name" isTrl="N" original="Cashflow Forecast Report">Cashflow Forecast Report</value>
+    <value column="Description" isTrl="N" original="Cashflow Forecast Report">Cashflow Forecast Report</value>
+    <value column="Help" isTrl="N" original="Report to display position of a financial account in a future date taking into account items we plan to collect or pay in the given financial account.">Report to display position of a financial account in a future date taking into account items we plan to collect or pay in the given financial account.</value>
+  </row>
+  <row id="24E052E6FEB64295B64E683B5196230B" trl="N">
+    <value column="Name" isTrl="N" original="Landed Cost Matching Process">Landed Cost Matching Process</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="2669887A12CA495787BEBD2F425849AB" trl="N">
+    <value column="Name" isTrl="N" original="Kill Process">Kill Process</value>
+    <value column="Description" isTrl="N" original="Kill background process if the process implements a kill method.">Kill background process if the process implements a kill method.</value>
+    <value column="Help" isTrl="N" original="Kill background process if the process implements a kill method.">Kill background process if the process implements a kill method.</value>
+  </row>
+  <row id="281704CE41444AC4BF9410A725234BFB" trl="N">
+    <value column="Name" isTrl="N" original="Reset Stock Valuation">Reset Stock Valuation</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="281FFDFAB31C4394A2EAA73A6F9F3A3F" trl="N">
+    <value column="Name" isTrl="N" original="LC Cost Match from Invoice">LC Cost Match from Invoice</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="3A4E13B0AB764F188CB062DDE2A9B685" trl="N">
+    <value column="Name" isTrl="N" original="Change Inventory Status">Change Inventory Status</value>
+    <value column="Description" isTrl="N" original="Changes the Inventory Status of the selected Storage Bin">Changes the Inventory Status of the selected Storage Bin</value>
+    <value column="Help" isTrl="N" original="Changes the Inventory Status of the selected Storage Bin">Changes the Inventory Status of the selected Storage Bin</value>
+  </row>
+  <row id="41644B58FB034B62A63D2A40F69D2664" trl="N">
+    <value column="Name" isTrl="N" original="Reserved Good Movement Pick and Edit">Reserved Good Movement Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="45ED6D0400FD42BEA9771C549A9AE8AB" trl="N">
+    <value column="Name" isTrl="N" original="Validate Costing Rule">Validate Costing Rule</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Validate and initialize the Costing Rule. It automatically creates and process the Close and Opening Physical inventories to overwrite an existing Costing Rule. If the instance is using the legacy engine costs it is mandatory to run the Cost Migration Process in advance with System Administrator role.">Validate and initialize the Costing Rule. It automatically creates and process the Close and Opening Physical inventories to overwrite an existing Costing Rule. If the instance is using the legacy engine costs it is mandatory to run the Cost Migration Process in advance with System Administrator role.</value>
+  </row>
+  <row id="4AD70293357245AB96E59C2CDB43A35D" trl="N">
+    <value column="Name" isTrl="N" original="RM Shipment Pick and Edit Lines">RM Shipment Pick and Edit Lines</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="4B5179CBF60C44E79C4BBED159FC498F" trl="N">
+    <value column="Name" isTrl="N" original="Reset Valued Stock Aggregated ">Reset Valued Stock Aggregated </value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="4BDE0AF5E8C44B6C9575E388AAECDF69" trl="N">
+    <value column="Name" isTrl="N" original="Purchase Order Report">Purchase Order Report</value>
+    <value column="Description" isTrl="N" original="Purchase Order Report">Purchase Order Report</value>
+    <value column="Help" isTrl="N" original="This report displays a detailed list of the purchase orders issued to the suppliers.">This report displays a detailed list of the purchase orders issued to the suppliers.</value>
+  </row>
+  <row id="5D335DD61A264A6FAD881E159ADA9F5A" trl="N">
+    <value column="Name" isTrl="N" original="Fix Backdated Transactions">Fix Backdated Transactions</value>
+    <value column="Description" isTrl="N" original="Fix Backdated Transactions process">Fix Backdated Transactions process</value>
+    <value column="Help" isTrl="N" original="Process that recalculates costs of backdated transactions until the given date. &#10;Run process from Costing Rules window.&#10;">Process that recalculates costs of backdated transactions until the given date. 
+Run process from Costing Rules window.
+</value>
+  </row>
+  <row id="5E9F9D7EECC24E4FBB2C60840FF613BE" trl="N">
+    <value column="Name" isTrl="N" original="RM Receipt Pick and Edit Lines">RM Receipt Pick and Edit Lines</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="5F547560D3DE401AA0B570F22E2C6C06" trl="N">
+    <value column="Name" isTrl="N" original="Manage Reservation Pick and Edit">Manage Reservation Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="5F7C5316CB7E4598898150AC88061B1B" trl="N">
+    <value column="Name" isTrl="N" original="Cancel Cost Adjustment">Cancel Cost Adjustment</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="653F9E5D2CCB48E081D98D000EE7CBCF" trl="N">
+    <value column="Name" isTrl="N" original="Manage Stock Reservation Pick and Edit">Manage Stock Reservation Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="6995A4C2592D434A9E16B71E1694CBCA" trl="N">
+    <value column="Name" isTrl="N" original="Create Purchase Order Lines">Create Purchase Order Lines</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="6D8ACA489B96480EAEB0FD7EE729C8C9" trl="N">
+    <value column="Name" isTrl="N" original="Process Cost Adjustment">Process Cost Adjustment</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="70E42AD47E5F4698A9ACCCAF3EB72B9E" trl="N">
+    <value column="Name" isTrl="N" original="Manage Prereservation Pick and Edit">Manage Prereservation Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="726D2F8961314B4C9E9D3E4121C75CD0" trl="N">
+    <value column="Name" isTrl="N" original="Inventory Amount Update">Inventory Amount Update</value>
+    <value column="Description" isTrl="N" original="Generates 2 closing/opening inventories and generates a cost adjustment document">Generates 2 closing/opening inventories and generates a cost adjustment document</value>
+    <value column="Help" isTrl="N" original="Generates 2 closing/opening inventories.&#10;Closing inventory cost is the inventory amount on that moment. The costing background should be disabled during this process to avoid being it calculated as usual.&#10;Opening inventory cost is the desired amount (average).&#10;Generates a Cost Adjustment Document so the cost is adjusted to the reference date in case this is a different date than the current one.&#10;Sets all transactions prior to the reference date as permanently adjusted.">Generates 2 closing/opening inventories.
+Closing inventory cost is the inventory amount on that moment. The costing background should be disabled during this process to avoid being it calculated as usual.
+Opening inventory cost is the desired amount (average).
+Generates a Cost Adjustment Document so the cost is adjusted to the reference date in case this is a different date than the current one.
+Sets all transactions prior to the reference date as permanently adjusted.</value>
+  </row>
+  <row id="7372662B059D4E01A80E5599B500A2D2" trl="N">
+    <value column="Name" isTrl="N" original="Doubtful Debt Pick and Edit">Doubtful Debt Pick and Edit</value>
+    <value column="Description" isTrl="N" original="Doubtful Debt Pick and Edit">Doubtful Debt Pick and Edit</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="7DC2C8DC186B4C1DB18E147911950861" trl="N">
+    <value column="Name" isTrl="N" original="UpdateInvariants">UpdateInvariants</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="8B81D80B06364566B87853FEECAB5DE0" trl="N">
+    <value column="Name" isTrl="N" original="Copy from Orders">Copy from Orders</value>
+    <value column="Description" isTrl="N" original="Copies lines from Orders">Copies lines from Orders</value>
+    <value column="Help" isTrl="N" original="Copies lines from Orders">Copies lines from Orders</value>
+  </row>
+  <row id="8E5996F1F3154B498468938B5341A0CB" trl="N">
+    <value column="Name" isTrl="N" original="Relate Product Cat to a Service Product">Relate Product Cat to a Service Product</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="96FE01F2F12F45FC8ED4A1978EBD034C" trl="N">
+    <value column="Name" isTrl="N" original="Landed Cost Process">Landed Cost Process</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="97FFD59B991D49BFB5153C309B009272" trl="N">
+    <value column="Name" isTrl="N" original="Grant Portal Access">Grant Portal Access</value>
+    <value column="Description" isTrl="N" original="Grants to this user access to portal">Grants to this user access to portal</value>
+    <value column="Help" isTrl="N" original="Grants to this user access to one of the available portal roles and resets the password for this user.">Grants to this user access to one of the available portal roles and resets the password for this user.</value>
+  </row>
+  <row id="A2C19D0EF6594D14A64BC62E99A89CC3" trl="N">
+    <value column="Name" isTrl="N" original="RFC/RTV HQL Pick and Edit Lines">RFC/RTV HQL Pick and Edit Lines</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="A2FAF49712D1445ABE750315CE1B473A" trl="N">
+    <value column="Name" isTrl="N" original="Cancel and Replace Sales Order">Cancel and Replace Sales Order</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="This process action will open a copy of the current row in edit mode. After changing the desired values press Confirm Cancel And Replace in order to create a copy of the opened Sales Order but with negative quantities and complete it. Afterwards the process will create a new Sales Order with the new values.">This process action will open a copy of the current row in edit mode. After changing the desired values press Confirm Cancel And Replace in order to create a copy of the opened Sales Order but with negative quantities and complete it. Afterwards the process will create a new Sales Order with the new values.</value>
+  </row>
+  <row id="A832A5DA28FB4BB391BDE883E928DFC5" trl="N">
+    <value column="Name" isTrl="N" original="Open Close Periods">Open Close Periods</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="AB810AFFC62E4FC199C8C422A18B2533" trl="N">
+    <value column="Name" isTrl="N" original="Add Products">Add Products</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="B05273730AA14DAEA91EAC7A828C8026" trl="N">
+    <value column="Name" isTrl="N" original="Process Price Difference Adjustment">Process Price Difference Adjustment</value>
+    <value column="Description" isTrl="N" original="This process allows to adjust the cost of a transaction, caused by a price difference between the order and the corresponding invoice.">This process allows to adjust the cost of a transaction, caused by a price difference between the order and the corresponding invoice.</value>
+    <value column="Help" isTrl="N" original="Price difference adjustments can be performed &quot;automatically&quot; by scheduling the &quot;Price Correction Background Process&quot; or manually for a given product or set of products by running this process.">Price difference adjustments can be performed "automatically" by scheduling the "Price Correction Background Process" or manually for a given product or set of products by running this process.</value>
+  </row>
+  <row id="B5C942145F354ABEBC9F16235D80D776" trl="N">
+    <value column="Name" isTrl="N" original="Set New Currency">Set New Currency</value>
+    <value column="Description" isTrl="N" original="Sets new currency for the customer">Sets new currency for the customer</value>
+    <value column="Help" isTrl="N" original="Sets new currency for the customer. If the amount is specified, the new customer balance will be set to this amount. If the exchange rate is specified, the new customer balance will be calculated with the specified exchange rate. If the amount and exchange rates are not specified, default conversion rate will be applied for the new customer balance.">Sets new currency for the customer. If the amount is specified, the new customer balance will be set to this amount. If the exchange rate is specified, the new customer balance will be calculated with the specified exchange rate. If the amount and exchange rates are not specified, default conversion rate will be applied for the new customer balance.</value>
+  </row>
+  <row id="BFE085D6E3DC423792FA7DD0DCF5C2A6" trl="N">
+    <value column="Name" isTrl="N" original="UnBox">UnBox</value>
+    <value column="Description" isTrl="N" original="UnBox Storage Details from a Referenced Inventory">UnBox Storage Details from a Referenced Inventory</value>
+    <value column="Help" isTrl="N" original="UnBox Storage Details from a Referenced Inventory">UnBox Storage Details from a Referenced Inventory</value>
+  </row>
+  <row id="C1A39F72074A4FAC8F354CF7CA1BF704" trl="N">
+    <value column="Name" isTrl="N" original="Direct Process Import Entries">Direct Process Import Entries</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C4265E27C8134096B49DFBF69369DFC6" trl="N">
+    <value column="Name" isTrl="N" original="Service Order Line Relation Pick and Edit">Service Order Line Relation Pick and Edit</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C600DAD457664EFDA6B1AA76931552BA" trl="N">
+    <value column="Name" isTrl="N" original="Reactivate Landed Cost">Reactivate Landed Cost</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C6ED4B93E0D54C08A57072AEEC40E6EC" trl="N">
+    <value column="Name" isTrl="N" original="Reset Accounting">Reset Accounting</value>
+    <value column="Description" isTrl="N" original="Reset Accounting Entries">Reset Accounting Entries</value>
+    <value column="Help" isTrl="N" original="The reset accounting process allows to totally or partially remove the ledger entries of an organization. The ledger entries can be massively re-created again by using the &quot;Accounting Server Process&quot; or the &quot;G/L Posting by DB Tables&quot; process. The manual changes done for the accounting entries description will obviously be lost after running this process">The reset accounting process allows to totally or partially remove the ledger entries of an organization. The ledger entries can be massively re-created again by using the "Accounting Server Process" or the "G/L Posting by DB Tables" process. The manual changes done for the accounting entries description will obviously be lost after running this process</value>
+  </row>
+  <row id="D395B727675C45C98320F8A40E0768E7" trl="N">
+    <value column="Name" isTrl="N" original="Manual Cost Adjustment">Manual Cost Adjustment</value>
+    <value column="Description" isTrl="N" original="Manual Cost Adjustment process: Generates a cost adjustment document. and adds a line for the given transaction.">Manual Cost Adjustment process: Generates a cost adjustment document. and adds a line for the given transaction.</value>
+    <value column="Help" isTrl="N" original="Manual Cost Adjustment process: Generates a cost adjustment document. and adds a line for the given transaction.">Manual Cost Adjustment process: Generates a cost adjustment document. and adds a line for the given transaction.</value>
+  </row>
+  <row id="DDB20065809843FF92835E59ADB2234C" trl="N">
+    <value column="Name" isTrl="N" original="Landed Cost Matching Cancel">Landed Cost Matching Cancel</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="E66C669B0B01498C8EB3F99CD371CF9A" trl="N">
+    <value column="Name" isTrl="N" original="Relate Products to a Service Product">Relate Products to a Service Product</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="EB4C4053F3B94A17A08D1DD7E89CEB7E" trl="N">
+    <value column="Name" isTrl="N" original="Aging Balance Process Definition for Payables">Aging Balance Process Definition for Payables</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="F1EC1AB61DCD4858BAD3A52BE60006F9" trl="N">
+    <value column="Name" isTrl="N" original="Recalculate Role Permissions">Recalculate Role Permissions</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="This process recalculates role permissions, based on the role inheritance defined. Depending on the role type the behavior varies:&#10;- If the role is a template one, the permissions for the role will be recalculated and also propagated to every role which is currently inheriting from this template.&#10;- If the role is not marked as template, just the permissions for this role are recalculated.&#10;For details - http://wiki.openbravo.com/wiki/Role#Permissions_Inheritance">This process recalculates role permissions, based on the role inheritance defined. Depending on the role type the behavior varies:
+- If the role is a template one, the permissions for the role will be recalculated and also propagated to every role which is currently inheriting from this template.
+- If the role is not marked as template, just the permissions for this role are recalculated.
+For details - http://wiki.openbravo.com/wiki/Role#Permissions_Inheritance</value>
+  </row>
+  <row id="FACDBDDCB6F947CBBC9CA8034EBEBD87" trl="N">
+    <value column="Name" isTrl="N" original="CopyProcessPlanVersion">CopyProcessPlanVersion</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="FE3A8C134D41488DB3A69837BD54B56A" trl="N">
+    <value column="Name" isTrl="N" original="Manage Variants">Manage Variants</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

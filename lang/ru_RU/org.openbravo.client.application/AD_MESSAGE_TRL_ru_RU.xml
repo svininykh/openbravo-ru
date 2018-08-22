@@ -44,6 +44,14 @@
     <value column="MsgText" isTrl="N" original="Only values between 1 and 4 may be entered into the field Column Number.">Only values between 1 and 4 may be entered into the field Column Number.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="08E6012738BB4D88906AE6B422511C9D" trl="N">
+    <value column="MsgText" isTrl="N" original="There is already an Attachment Metadata with the same DB Column Name for this Attachment Method.">There is already an Attachment Metadata with the same DB Column Name for this Attachment Method.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="090A0260AFDA4799923FC2ADE44EB55B" trl="N">
+    <value column="MsgText" isTrl="N" original="The &lt;a href=&quot;http://centralrepository.openbravo.com/openbravo/org.openbravo.forge.ui/sso/ForgeModuleDetail/Google-Sign-In&quot; target=&quot;_blank&quot;&gt;module&lt;/a&gt; that contains the &lt;a href=&quot;http://wiki.openbravo.com/wiki/Configuration_Manual/Google_Integration&quot; target=&quot;_blank&quot;&gt;log in to application using Google Account&lt;/a&gt; feature is not installed. Ask your System Administrator to install it.">The &lt;a href="http://centralrepository.openbravo.com/openbravo/org.openbravo.forge.ui/sso/ForgeModuleDetail/Google-Sign-In" target="_blank"&gt;module&lt;/a&gt; that contains the &lt;a href="http://wiki.openbravo.com/wiki/Configuration_Manual/Google_Integration" target="_blank"&gt;log in to application using Google Account&lt;/a&gt; feature is not installed. Ask your System Administrator to install it.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="090A37D22DDB1C89012DDB22CE910012" trl="N">
     <value column="MsgText" isTrl="Y" original="Linked Item">Связанная запись</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -68,6 +76,10 @@
     <value column="MsgText" isTrl="Y" original="Save Note">Сохранить заметку</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="0BB85B43F187432F934B3A7AF6456685" trl="N">
+    <value column="MsgText" isTrl="N" original="View">View</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="0BEB24CF954E410EAFE4EF198C38A902" trl="N">
     <value column="MsgText" isTrl="N" original="Total prereserved quantity exceeds the quantity in sales order line (%0) considering the already reserved quantity in other reservations (%1). Please enter a valid number.">Total prereserved quantity exceeds the quantity in sales order line (%0) considering the already reserved quantity in other reservations (%1). Please enter a valid number.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -80,12 +92,16 @@
     <value column="MsgText" isTrl="Y" original="Quick Launch">Быстрый запуск</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="1337DB6FF60E49C9921D29411DC77BD1" trl="N">
+    <value column="MsgText" isTrl="N" original="There is no implementation for this attachment method">There is no implementation for this attachment method</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="14E32CCB062B43E78CA7CC6DEBE3CDF8" trl="N">
     <value column="MsgText" isTrl="Y" original="The value entered is not valid.">Введено неверное значение.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="165D4AB1311A477C8F95184C0A9F4B2F" trl="N">
-    <value column="MsgText" isTrl="Y" original="New password">Новый пароль</value>
+    <value column="MsgText" isTrl="Y" original="New Password">Новый пароль</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="16723782BE0C4B23AAF08CA507B9C2B4" trl="N">
@@ -94,6 +110,10 @@
   </row>
   <row id="16EF30EF95D94CB2A93129015A363315" trl="N">
     <value column="MsgText" isTrl="N" original="%0 [executing]">%0 [executing]</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="1A0108DBD48D4F3496569E662C7475CE" trl="N">
+    <value column="MsgText" isTrl="N" original="Your search returned too many results. Please refine your search terms.">Your search returned too many results. Please refine your search terms.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1B783EC678E644E385778D2D7D25A97B" trl="N">
@@ -116,16 +136,34 @@
     <value column="MsgText" isTrl="N" original="This user doesn't have access to the backend. To be able to access Openbravo, a user needs a role with access to the backend.">This user doesn't have access to the backend. To be able to access Openbravo, a user needs a role with access to the backend.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="22B2E4B7C3F949D689E58B61EF8FAFED" trl="N">
+    <value column="MsgText" isTrl="N" original="Error saving metadata values into the DataBase.">Error saving metadata values into the DataBase.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="2333963CB96745B1BC645FEF9F92F269" trl="N">
     <value column="MsgText" isTrl="N" original="Error uploading image: %0">Error uploading image: %0</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="2588E18549E74C79BD24F6717AF1DD8B" trl="N">
+    <value column="MsgText" isTrl="N" original="Changing the Currency of the Organization requires to recalculate the Unit Costs of the product.&#10;&#10;When saving the current unit costs will be deleted if the currency is changed. Please execute the Reset Unit Costs process afterwards to recalculate them using the new Currency.">Changing the Currency of the Organization requires to recalculate the Unit Costs of the product.
+
+When saving the current unit costs will be deleted if the currency is changed. Please execute the Reset Unit Costs process afterwards to recalculate them using the new Currency.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="26DBE659B9B746CF996AC9F4A6475BC3" trl="N">
     <value column="MsgText" isTrl="Y" original="Log Out">Выйти</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="26F5ED9591484A29AC2BFA3E6D56B86B" trl="N">
+    <value column="MsgText" isTrl="N" original="No Jasper Report template found to print the report.">No Jasper Report template found to print the report.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="2C8A8843F1E04317AD38623A3C52F978" trl="N">
     <value column="MsgText" isTrl="N" original="You current role does not give you access to this functionality.">You current role does not give you access to this functionality.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="2EEFD14AC47C4C2ABB4218DFB2F12564" trl="N">
+    <value column="MsgText" isTrl="N" original="New record filter applied. Click to clear.">New record filter applied. Click to clear.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="30C2B55E35744A9182219A8B4091A6E3" trl="N">
@@ -180,8 +218,20 @@
     <value column="MsgText" isTrl="Y" original="Change Password">Изменить пароль</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="412D69CAD5354EF2B4302AF3C3983FBC" trl="N">
+    <value column="MsgText" isTrl="N" original="Error saving metadata into database. The property path must return only one record">Error saving metadata into database. The property path must return only one record</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="42181711B0664B9A898BDE8754ADA4E0" trl="N">
     <value column="MsgText" isTrl="Y" original="Warning">Внимание</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="42B286FCB7054BD49A7FCDE676DB736A" trl="N">
+    <value column="MsgText" isTrl="N" original="&lt;a href=&quot;http://wiki.openbravo.com/wiki/Configuration_Manual/Google_Integration&quot; target=&quot;_blank&quot;&gt;Log in to application using Google Account&lt;/a&gt; is a Premium Feature">&lt;a href="http://wiki.openbravo.com/wiki/Configuration_Manual/Google_Integration" target="_blank"&gt;Log in to application using Google Account&lt;/a&gt; is a Premium Feature</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="449C8BE622434987A5BF5CEEAD846E43" trl="N">
+    <value column="MsgText" isTrl="N" original="Returning %0 %1, considering quantity returned in other RM Orders, Returned Qty exceeds the Quantity. Please enter a valid range: 0 - %2.">Returning %0 %1, considering quantity returned in other RM Orders, Returned Qty exceeds the Quantity. Please enter a valid range: 0 - %2.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="48A6793A3C364216B184A33117EF7ED1" trl="N">
@@ -214,6 +264,14 @@
   </row>
   <row id="597897349BE0452C89E43E27D94A175D" trl="N">
     <value column="MsgText" isTrl="N" original="Reserved quantity is lower than the released quantity. Enter a valid number equal or higher than %0.">Reserved quantity is lower than the released quantity. Enter a valid number equal or higher than %0.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="59C9FFE39DD248DF9E60AE5C6B22A166" trl="N">
+    <value column="MsgText" isTrl="N" original="Export to PDF">Export to PDF</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="5A14C677DAD14CEF87F3CDA618A10582" trl="N">
+    <value column="MsgText" isTrl="N" original="Process Definition: %0 created.">Process Definition: %0 created.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5A40D3779E0C4F2BAE25C2153D4BB858" trl="N">
@@ -260,8 +318,16 @@
     <value column="MsgText" isTrl="Y" original="Loading...">Загрузка...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="699499DEBB904E1B84D4CB28600647C7" trl="N">
+    <value column="MsgText" isTrl="N" original="Sign in using">Sign in using</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="6A4C386D3944445BB369FC252C6B924C" trl="N">
+    <value column="MsgText" isTrl="N" original="The Tab Id is mandatory on Attachment Requests">The Tab Id is mandatory on Attachment Requests</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="6B478D5FA6E442B19E29F29AFF70EDBA" trl="N">
-    <value column="MsgText" isTrl="N" original="Edit Description">Edit Description</value>
+    <value column="MsgText" isTrl="Y" original="Edit">Edit Description</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="6C6BCBC5C75F449CAD5A8182866FF9D9" trl="N">
@@ -286,6 +352,10 @@
   </row>
   <row id="733C8CD6D07F44E5BDD0D9DFB521B2B8" trl="N">
     <value column="MsgText" isTrl="Y" original="Are you sure that you want to delete the %0 selected records? This will also delete all their child records.">Вы уверены, что следует удалить %0 выбранные записи? Это может привести к удалению всех дочерних записей.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="734F1A1DF43349A189CE20BF54352FF1" trl="N">
+    <value column="MsgText" isTrl="N" original="Read-Only pool is not activated yet. Default pool will be used for all requests.">Read-Only pool is not activated yet. Default pool will be used for all requests.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7410A9E707384D369419188644A31430" trl="N">
@@ -324,6 +394,10 @@
     <value column="MsgText" isTrl="Y" original="Save your changes in the database">Сохранить ваши изменения в базе данных</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="7F4934C893024B329C8A230264C0D603" trl="N">
+    <value column="MsgText" isTrl="N" original="Filter by %0">Filter by %0</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="80A295E6A2EE4213BD9D975158749977" trl="N">
     <value column="MsgText" isTrl="N" original="Open View">Open View</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -339,6 +413,10 @@ All modules in this window must be "in development".</value>
   </row>
   <row id="839DDEEC373B4151BC1C721AB90FB5AC" trl="N">
     <value column="MsgText" isTrl="Y" original="Set Font">Набор символов</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="86043443EEC547A3814372EA43D69BF5" trl="N">
+    <value column="MsgText" isTrl="N" original="The window has been opened to create a new record in form view. Click on the refresh button to load the data using the current grid filters.">The window has been opened to create a new record in form view. Click on the refresh button to load the data using the current grid filters.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="888D0AF770AE4037B85120FB775FE038" trl="N">
@@ -377,8 +455,12 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="N" original="year,years,Year,Years,month,months,Month,Months,week,weeks,Week,Weeks,d,day,days,D,Day,Days,h,hr,hrs,hour,hours,H,Hr,Hrs,Hour,Hours,m,min,mins,minute,minutes,M,Min,Mins,Minute,Minutes,s,sec,secs,second,seconds,S,Sec,Secs,Second,Seconds">year,years,Year,Years,month,months,Month,Months,week,weeks,Week,Weeks,d,day,days,D,Day,Days,h,hr,hrs,hour,hours,H,Hr,Hrs,Hour,Hours,m,min,mins,minute,minutes,M,Min,Mins,Minute,Minutes,s,sec,secs,second,seconds,S,Sec,Secs,Second,Seconds</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="988A00C1107646778D9FF93A37B3CF94" trl="N">
+    <value column="MsgText" isTrl="N" original="This attachment does not exist in the application">This attachment does not exist in the application</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="9A2BB372D26D47A8B63BC87CB08B270C" trl="N">
-    <value column="MsgText" isTrl="Y" original="Confirm password">Подтвердить пароль</value>
+    <value column="MsgText" isTrl="Y" original="Confirm Password">Подтвердить пароль</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9A66DC27282742BF825F53B741231823" trl="N">
@@ -401,8 +483,8 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="N" original="The new storage and current storage bin need to be different">The new storage and current storage bin need to be different</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="A0B273389C804A118EF44AD4E8D97515" trl="N">
-    <value column="MsgText" isTrl="N" original="Instance Activation">Instance Activation</value>
+  <row id="A497EC573BCE49F093FFA012620BD082" trl="N">
+    <value column="MsgText" isTrl="N" original="You have to define at least one of PDF Template or XLS Template or HTML Template fields.">You have to define at least one of PDF Template or XLS Template or HTML Template fields.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="A57B3DD733264DB1BB3D6F84EA104931" trl="N">
@@ -461,6 +543,10 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="N" original="New fields cannot be added to the grid while it is being edited.">New fields cannot be added to the grid while it is being edited.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="C2E68125A8E7418FA7CC0CC3779EAFD0" trl="N">
+    <value column="MsgText" isTrl="N" original="No file found. Please, try again and select a file">No file found. Please, try again and select a file</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="C415C626CAE14E35A7F05C42F11DA114" trl="N">
     <value column="MsgText" isTrl="N" original="Total prereserved quantity exceeds the pending to receipt quantity. The sum of all prereserved quantities must be equal or lower than %0.">Total prereserved quantity exceeds the pending to receipt quantity. The sum of all prereserved quantities must be equal or lower than %0.</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -481,6 +567,10 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="Y" original="One or more fields contain illegal values, check the errors for each field.">Одно или несколько полей содержат неверные значения, проверьти и исправьте указанные поля.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="CB123A82E3EF4C8CAB80A01884C2C4EA" trl="N">
+    <value column="MsgText" isTrl="N" original="Unsupported export action: %0">Unsupported export action: %0</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="CB2FE513B6C0424A8D074AF6BDFC8607" trl="N">
     <value column="MsgText" isTrl="N" original="Min">Min</value>
     <value column="MsgTip" isTrl="N" original=""/>
@@ -489,12 +579,24 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="Y" original="By 1000">По 1000</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="CB998CDA34B54001896EC47F0FD21983" trl="N">
+    <value column="MsgText" isTrl="N" original="The Attachment Method is mandatory when a Tab is defined.">The Attachment Method is mandatory when a Tab is defined.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="CBB8D95E3D4B471EBA06A7AD57065098" trl="N">
     <value column="MsgText" isTrl="N" original="The record was successfully saved.">The record was successfully saved.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="CDBC4895920A424CB8715EC232729ABD" trl="N">
+    <value column="MsgText" isTrl="N" original="Export to Excel">Export to Excel</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="CE3E9A8711D54E719F02630BE8D5E2FB" trl="N">
     <value column="MsgText" isTrl="Y" original="By 1">По 1</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="CEA329C437C54C7AB101D4A3EC0A89EC" trl="N">
+    <value column="MsgText" isTrl="N" original="There were %0 records selected prior to refreshing. Due to limitations regarding the page size, only the  first %1 record(s) selection has been kept.">There were %0 records selected prior to refreshing. Due to limitations regarding the page size, only the  first %1 record(s) selection has been kept.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="CF668C49E43D4FA799A43191EA10C17A" trl="N">
@@ -513,8 +615,16 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="N" original="Property not found">Property not found</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="D6E69384ADFE40D58AE5A3287F6D3900" trl="N">
+    <value column="MsgText" isTrl="N" original="Error retrieving parameter values from json.">Error retrieving parameter values from json.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="D71BBF4693BD45329F17355A907B9D39" trl="N">
     <value column="MsgText" isTrl="N" original="Access Restricted">Access Restricted</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="D779698DB3A6486B801ED22037369E18" trl="N">
+    <value column="MsgText" isTrl="N" original="The sum of the Ship Qty exceeds the Pending Qty for that particular RM Order No. and Line No.">The sum of the Ship Qty exceeds the Pending Qty for that particular RM Order No. and Line No.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="DAC8C406FB1D497CAF91619E6B8A5458" trl="N">
@@ -533,12 +643,20 @@ All modules in this window must be "in development".</value>
     <value column="MsgText" isTrl="N" original="Cancelling this edit will clear unsaved edit values for this record. Continue?">Cancelling this edit will clear unsaved edit values for this record. Continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
+  <row id="E1B1F9C89283486F90FEE70EDC716EB7" trl="N">
+    <value column="MsgText" isTrl="N" original="Sign in using your Google Account">Sign in using your Google Account</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
   <row id="E20A23145D554996A09BC927B847F3BB" trl="N">
     <value column="MsgText" isTrl="Y" original="End Session">Завершить сессию</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E25F7BC6017747E08BDBAD4DD01DD316" trl="N">
     <value column="MsgText" isTrl="N" original="Strike Through Selection">Strike Through Selection</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="E2CFCC268524436DBD625057291FEC48" trl="N">
+    <value column="MsgText" isTrl="N" original="View Implementation: %0 created.">View Implementation: %0 created.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="E4446D7FB74A4C57A9C715B4DDACC3E9" trl="N">
@@ -555,6 +673,10 @@ All modules in this window must be "in development".</value>
   </row>
   <row id="EAFDE736DF5044AB9773BDCD169B8F20" trl="N">
     <value column="MsgText" isTrl="Y" original="New">Новый</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="EB1C7A0D04884B10A10511820D85B5AB" trl="N">
+    <value column="MsgText" isTrl="N" original="There are already other reporting processes running, they need to be finished before you can continue, please try to run your report again later.">There are already other reporting processes running, they need to be finished before you can continue, please try to run your report again later.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EB604D750BED42A6B32EFABAC50394E2" trl="N">
@@ -839,12 +961,12 @@ Please save or discard them before add or remove a note.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808130D5DD6A0130D5EEF54A000A" trl="N">
-    <value column="MsgText" isTrl="N" original="Only Professional and Basic Edition subscribers can restrict access to modules in %0 maturity status.&lt;br/&gt;&#10;&lt;a href=&quot;http://wiki.openbravo.com/wiki/Modules_Management#Learn_why&quot; class=&quot;OBNoteListGridDelete&quot; target=&quot;_blank&quot;&gt;Learn why&lt;/a&gt;.">Only Professional and Basic Edition subscribers can restrict access to modules in %0 maturity status.&lt;br/&gt;
+    <value column="MsgText" isTrl="Y" original="Only Professional and Enterprise Edition subscribers can restrict access to modules in %0 maturity status.&lt;br/&gt;&#10;&lt;a href=&quot;http://wiki.openbravo.com/wiki/Modules_Management#Learn_why&quot; class=&quot;OBNoteListGridDelete&quot; target=&quot;_blank&quot;&gt;Learn why&lt;/a&gt;.">Only Professional and Basic Edition subscribers can restrict access to modules in %0 maturity status.&lt;br/&gt;
 &lt;a href="http://wiki.openbravo.com/wiki/Modules_Management#Learn_why" class="OBNoteListGridDelete" target="_blank"&gt;Learn why&lt;/a&gt;.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80808130DC55FE0130DC9631A60019" trl="N">
-    <value column="MsgText" isTrl="N" original="%0 only available for Professional and Basic Edition subscribers. &lt;br/&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.openbravo.com/product/erp/editions/&quot;&gt;Learn more&lt;/a&gt; about the benefits of Openbravo's Professional and Basic Editions.">%0 only available for Professional and Basic Edition subscribers. &lt;br/&gt;&lt;a target="_blank" href="http://www.openbravo.com/product/erp/editions/"&gt;Learn more&lt;/a&gt; about the benefits of Openbravo's Professional and Basic Editions.</value>
+    <value column="MsgText" isTrl="Y" original="%0 only available for Professional and Enterprise Edition subscribers. &lt;br/&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.openbravo.com/product/erp/editions/&quot;&gt;Learn more&lt;/a&gt; about the benefits of Openbravo's Professional and Enterprise Editions.">%0 only available for Professional and Basic Edition subscribers. &lt;br/&gt;&lt;a target="_blank" href="http://www.openbravo.com/product/erp/editions/"&gt;Learn more&lt;/a&gt; about the benefits of Openbravo's Professional and Basic Editions.</value>
     <value column="MsgTip" isTrl="N" original="%0 is a place-holder used to show a feature description">%0 is a place-holder used to show a feature description</value>
   </row>
   <row id="FF808081314C76B401314D0A2A240082" trl="N">
@@ -1563,7 +1685,7 @@ Please &lt;b&gt;logout&lt;/b&gt; from the application unless your access is auth
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818132D550210132D55C83410044" trl="N">
-    <value column="MsgText" isTrl="N" original="Unsupported file format.&#10;Supported file formats are JPG, PNG, GIF and BMP.">Unsupported file format.
+    <value column="MsgText" isTrl="Y" original="Unsupported file format.&#10;Supported file formats are JPG, PNG, GIF, BMP and SVG.">Unsupported file format.
 Supported file formats are JPG, PNG, GIF and BMP.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>

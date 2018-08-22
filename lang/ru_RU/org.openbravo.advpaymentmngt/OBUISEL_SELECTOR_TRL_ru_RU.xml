@@ -30,6 +30,16 @@
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="80D03C83D251489F984B488FA5B0B75F" trl="N">
+    <value column="Name" isTrl="N" original="Financial Transaction Selector">Financial Transaction Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="8E06629A43A84B099387466818B1C54F" trl="N">
+    <value column="Name" isTrl="N" original="FIN_Finacc_Transaction Selector">FIN_Finacc_Transaction Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="9FAD469CE4414A25974CF45C0AD22D35" trl="N">
     <value column="Name" isTrl="Y" original="GL Item selector">Выбор проводки Г/К</value>
     <value column="Description" isTrl="N" original=""/>
@@ -57,6 +67,11 @@
   </row>
   <row id="BA4FDCB15ACB47AD81BE3985E13032EE" trl="N">
     <value column="Name" isTrl="Y" original="Payment Method">Способ оплаты</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C994CAFA0DD14C83B0251EB1C6529575" trl="N">
+    <value column="Name" isTrl="N" original="Business Partner">Business Partner</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

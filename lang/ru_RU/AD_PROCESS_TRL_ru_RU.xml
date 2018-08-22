@@ -184,11 +184,6 @@
     <value column="Description" isTrl="N" original="** Special **">** Special **</value>
     <value column="Help" isTrl="N" original="** Special **">** Special **</value>
   </row>
-  <row id="117" trl="N">
-    <value column="Name" isTrl="N" original="Delivery Note / Shipment Print">Delivery Note / Shipment Print</value>
-    <value column="Description" isTrl="N" original="** Special **">** Special **</value>
-    <value column="Help" isTrl="N" original="** Special **">** Special **</value>
-  </row>
   <row id="118" trl="N">
     <value column="Name" isTrl="Y" original="Generate Shipments">Создать накладные</value>
     <value column="Description" isTrl="N" original="Generate shipment">Generate shipment</value>
@@ -197,7 +192,7 @@
   <row id="119" trl="N">
     <value column="Name" isTrl="N" original="Generate Invoices">Generate Invoices</value>
     <value column="Description" isTrl="N" original="Generate Invoices">Generate Invoices</value>
-    <value column="Help" isTrl="N" original="Generate Invoices">Generate Invoices</value>
+    <value column="Help" isTrl="Y" original="Generate Invoices executes automatic bulk generation of Sales Invoices for all Sales Orders pending to be invoiced that belongs to the selected Organization or, if the Include Child Organizations checkbox is checked, to the selected Organization and it's children.&#10;The Invoices generated are going to be created all of them against the selected Organization.&#10;">Generate Invoices</value>
   </row>
   <row id="120" trl="N">
     <value column="Name" isTrl="Y" original="Order Transactions">Транзакции ордера</value>
@@ -644,14 +639,6 @@ If the Generic Product already has any Variant created the process returns an er
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="58763832F5F3485CAD33B8B9FCD6C640" trl="N">
-    <value column="Name" isTrl="N" original="Update Audit Trail Infrastructure">Update Audit Trail Infrastructure</value>
-    <value column="Description" isTrl="N" original="Update Audit Trail Infrastructure">Update Audit Trail Infrastructure</value>
-    <value column="Help" isTrl="N" original="This process updates the infrastructure for a complete audit of the selected tables.&lt;br/&gt;&#10;This process:&lt;br/&gt;&#10;- Will Stop the background process scheduler during process execution&lt;br/&gt;&#10;- Can take several minutes. Do not close the browser during execution.">This process updates the infrastructure for a complete audit of the selected tables.&lt;br/&gt;
-This process:&lt;br/&gt;
-- Will Stop the background process scheduler during process execution&lt;br/&gt;
-- Can take several minutes. Do not close the browser during execution.</value>
-  </row>
   <row id="5A2A0AF88AF54BB085DCC52FCC9B17B7" trl="N">
     <value column="Name" isTrl="N" original="Reservation Process">Reservation Process</value>
     <value column="Description" isTrl="N" original=""/>
@@ -864,11 +851,6 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Description" isTrl="Y" original="Move a Storage Bin">Переместить на складе</value>
     <value column="Help" isTrl="Y" original="Move a Storage Bin">Переместить на складе</value>
   </row>
-  <row id="800050" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse movement">Warehouse movement</value>
-    <value column="Description" isTrl="N" original="**Special**">**Special**</value>
-    <value column="Help" isTrl="N" original="**Special**">**Special**</value>
-  </row>
   <row id="800058" trl="N">
     <value column="Name" isTrl="N" original="Shipments Dimensional Report">Shipments Dimensional Report</value>
     <value column="Description" isTrl="N" original="Shipment dimensional analyze">Shipment dimensional analyze</value>
@@ -903,11 +885,6 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Name" isTrl="Y" original="Create Price List Version">Создать версию прейскуранта</value>
     <value column="Description" isTrl="Y" original="Create Price List Version">Создать версию прейскуранта</value>
     <value column="Help" isTrl="Y" original="Create Price List Version">Создать версию прейскуранта</value>
-  </row>
-  <row id="800070" trl="N">
-    <value column="Name" isTrl="N" original="Settlement printed">Settlement printed</value>
-    <value column="Description" isTrl="N" original="** special **">** special **</value>
-    <value column="Help" isTrl="N" original="** special **">** special **</value>
   </row>
   <row id="800073" trl="N">
     <value column="Name" isTrl="N" original="Sales Rep Pricelist">Sales Rep Pricelist</value>
@@ -1003,11 +980,6 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Name" isTrl="Y" original="Business Partner Contract">Договор контрагента</value>
     <value column="Description" isTrl="Y" original="Creates business partner contract">Создать договора с контрагентом</value>
     <value column="Help" isTrl="N" original="Creates a PDF report containing the business partner name, address,... And the price list for the customer.">Creates a PDF report containing the business partner name, address,... And the price list for the customer.</value>
-  </row>
-  <row id="800101" trl="N">
-    <value column="Name" isTrl="N" original="Promissory Note">Promissory Note</value>
-    <value column="Description" isTrl="N" original="** special **">** special **</value>
-    <value column="Help" isTrl="N" original="** special **">** special **</value>
   </row>
   <row id="800102" trl="N">
     <value column="Name" isTrl="N" original="Applied Discounts in Invoices">Applied Discounts in Invoices</value>
@@ -1247,11 +1219,6 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Description" isTrl="N" original="Process Purchase Plan">Process Purchase Plan</value>
     <value column="Help" isTrl="N" original="Process Purchase Plan">Process Purchase Plan</value>
   </row>
-  <row id="800165" trl="Y">
-    <value column="Name" isTrl="Y" original="Copy from Order">Копировать из ордера</value>
-    <value column="Description" isTrl="Y" original="Copy From Order">Копировать из ордера</value>
-    <value column="Help" isTrl="Y" original="Copies lines from Order">Копировать строки из ордера</value>
-  </row>
   <row id="800168" trl="N">
     <value column="Name" isTrl="Y" original="Not Posted Transaction Report">Отчёт по непроведённым транзакциям</value>
     <value column="Description" isTrl="Y" original="Not Posted Transaction Report">Отчёт по непроведённым транзакциям</value>
@@ -1266,11 +1233,6 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Name" isTrl="Y" original="Alert Process">Обработка предупреждений</value>
     <value column="Description" isTrl="Y" original="Alert Process">Обработка предупреждений</value>
     <value column="Help" isTrl="Y" original="AlertProcess">Обработка предупреждений</value>
-  </row>
-  <row id="800171" trl="N">
-    <value column="Name" isTrl="Y" original="Purchase Order Report">Отчет Ордеры поставщика</value>
-    <value column="Description" isTrl="Y" original="Purchase Order Report">Отчёт по ордерам поставщика</value>
-    <value column="Help" isTrl="N" original="This report displays a detailed list of the purchase orders issued to the suppliers.">This report displays a detailed list of the purchase orders issued to the suppliers.</value>
   </row>
   <row id="800172" trl="N">
     <value column="Name" isTrl="N" original="Sales Report by Partner and Product">Sales Report by Partner and Product</value>
@@ -1423,11 +1385,6 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Description" isTrl="N" original="Sales Invoice Dimensional Report">Sales Invoice Dimensional Report</value>
     <value column="Help" isTrl="N" original="Sales Invoice Dimensional Report  shows information about registered sales invoices (Sales Invoices in a status Completed or Voided) during a selected period of time. ">Sales Invoice Dimensional Report  shows information about registered sales invoices (Sales Invoices in a status Completed or Voided) during a selected period of time. </value>
   </row>
-  <row id="800206" trl="N">
-    <value column="Name" isTrl="N" original="Cash Flow Statement">Cash Flow Statement</value>
-    <value column="Description" isTrl="N" original="Cash Flow Statement">Cash Flow Statement</value>
-    <value column="Help" isTrl="N" original="Cash Flow Statement">Cash Flow Statement</value>
-  </row>
   <row id="800207" trl="N">
     <value column="Name" isTrl="N" original="Generate Cash Flow Statement">Generate Cash Flow Statement</value>
     <value column="Description" isTrl="N" original="Generate Cash Flow Statement">Generate Cash Flow Statement</value>
@@ -1478,6 +1435,11 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Description" isTrl="N" original="Process to print payments or send them through email to the client">Process to print payments or send them through email to the client</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
+  <row id="B7536B07807F4F6CB9FA609B076AF0AD" trl="N">
+    <value column="Name" isTrl="N" original="Generate Aggregated Data Background">Generate Aggregated Data Background</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
   <row id="BA574D8A4CF54AFF8B7BC2E6FACA161E" trl="N">
     <value column="Name" isTrl="N" original="Price Correction Background">Price Correction Background</value>
     <value column="Description" isTrl="N" original=""/>
@@ -1492,6 +1454,11 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Name" isTrl="Y" original="Apply Modules">Применить модули</value>
     <value column="Description" isTrl="N" original="This process apply all the installed modules">This process apply all the installed modules</value>
     <value column="Help" isTrl="N" original="This process applies all the installed modules. It loads the module definition in the database and generate and compiles the corresponding code.">This process applies all the installed modules. It loads the module definition in the database and generate and compiles the corresponding code.</value>
+  </row>
+  <row id="CD10460DF4C14232801DD5C6A14575DD" trl="N">
+    <value column="Name" isTrl="N" original="Reprocess Error Import Entries">Reprocess Error Import Entries</value>
+    <value column="Description" isTrl="N" original="Reset all Error Import Entries back to Initial to be reprocessed">Reset all Error Import Entries back to Initial to be reprocessed</value>
+    <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="CD7283DF804B449C97DA09446669EEEF" trl="N">
     <value column="Name" isTrl="Y" original="Process Batch">Пакетная обраб.</value>

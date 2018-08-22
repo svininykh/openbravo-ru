@@ -9,6 +9,11 @@ Its value can be:
  * "Single": only one row can be selected
  * "Multiple": multiple rows can be selected</value>
   </row>
+  <row id="159EBE3F67A6431B842695888C5F1E79" trl="N">
+    <value column="Name" isTrl="N" original="Database Pool Type">Database Pool Type</value>
+    <value column="Description" isTrl="N" original="Lists all possible database pools which OBDal can use to retrieve data.">Lists all possible database pools which OBDal can use to retrieve data.</value>
+    <value column="Help" isTrl="N" original="Lists all possible database pools which OBDal can use to retrieve data.">Lists all possible database pools which OBDal can use to retrieve data.</value>
+  </row>
   <row id="1AC7885279E44C4F976267C28270E1F9" trl="N">
     <value column="Name" isTrl="N" original="Text Filter Behavior (Window/Tab/Field)">Text Filter Behavior (Window/Tab/Field)</value>
     <value column="Description" isTrl="N" original=""/>
@@ -18,6 +23,11 @@ Its value can be:
     <value column="Name" isTrl="N" original="Yes/No/Default">Yes/No/Default</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="9613657373F54165954A69D54803F65F" trl="N">
+    <value column="Name" isTrl="N" original="Pool Report Selector">Pool Report Selector</value>
+    <value column="Description" isTrl="N" original="This selector groups all reports from Process Definition and Report and Process.">This selector groups all reports from Process Definition and Report and Process.</value>
+    <value column="Help" isTrl="N" original="This selector groups all reports from Process Definition and Report and Process.">This selector groups all reports from Process Definition and Report and Process.</value>
   </row>
   <row id="BCDF0DC3ECD14B07AC54287DCB1276D2" trl="N">
     <value column="Name" isTrl="N" original="Text Filter Behavior (System)">Text Filter Behavior (System)</value>

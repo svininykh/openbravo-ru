@@ -147,6 +147,9 @@
   <row id="8747F91C31704FD0A9EC0C35237158BE" trl="N">
     <value column="Text" isTrl="Y" original="Invoice Date">Дата выставления</value>
   </row>
+  <row id="893CD872390148E99FCCAC1714D937A5" trl="N">
+    <value column="Text" isTrl="N" original="Include payments with Base Amount 0">Include payments with Base Amount 0</value>
+  </row>
   <row id="8A613E8D2A304FEF9545C2852FC06EF0" trl="N">
     <value column="Text" isTrl="Y" original="Document Date To:">Дата документа с:</value>
   </row>
@@ -192,6 +195,9 @@
   <row id="AC44B03FF40047059E663CEB9CF49A5A" trl="N">
     <value column="Text" isTrl="N" original="Transactional Currency">Transactional Currency</value>
   </row>
+  <row id="AE86D09F82DD4588AB57CBF2004F2773" trl="N">
+    <value column="Text" isTrl="N" original="Payment Method">Payment Method</value>
+  </row>
   <row id="AF049D5097F14A79E040007F010149FB" trl="N">
     <value column="Text" isTrl="N" original="Include Payments Using Credit">Include Payments Using Credit</value>
   </row>
@@ -218,6 +224,9 @@
   </row>
   <row id="AFBBE094BB59D031E040007F01013B9F" trl="N">
     <value column="Text" isTrl="N" original="** Several invoices have been paid using the same credit payment">** Several invoices have been paid using the same credit payment</value>
+  </row>
+  <row id="B1B0646B7C574424953A5A25D3353041" trl="N">
+    <value column="Text" isTrl="N" original="Sales Representative">Sales Representative</value>
   </row>
   <row id="B973837A2C334DC49973CEE4179F43B7" trl="N">
     <value column="Text" isTrl="Y" original="Business Partner Category">Категория контрагента</value>

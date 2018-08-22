@@ -40,6 +40,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="124C4AAA06BA4D939D862BEE389AB4DA" trl="N">
+    <value column="Name" isTrl="N" original="Financial Account">Financial Account</value>
+    <value column="PrintName" isTrl="N" original="Financial Account">Financial Account</value>
+    <value column="Description" isTrl="N" original="Displayed Financial Account field in Sales Order Payment Schedule Details tab. For netting payments the value displayed will be empty.">Displayed Financial Account field in Sales Order Payment Schedule Details tab. For netting payments the value displayed will be empty.</value>
+    <value column="Help" isTrl="N" original="Displayed Financial Account field in Sales Order Payment Schedule Details tab. For netting payments the value displayed will be empty.">Displayed Financial Account field in Sales Order Payment Schedule Details tab. For netting payments the value displayed will be empty.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="1C8028555014460F81C6ACC811CA74E2" trl="N">
     <value column="Name" isTrl="N" original="EM_APRM_Process_Reconciliation_Force">EM_APRM_Process_Reconciliation_Force</value>
     <value column="PrintName" isTrl="N" original="EM_APRM_Process_Reconciliation_Force">EM_APRM_Process_Reconciliation_Force</value>
@@ -70,6 +80,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="2622EC9C32614ED692A415EC3F3DC3EF" trl="N">
+    <value column="Name" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="PrintName" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="Description" isTrl="N" original="Payment Method in Sales Invoice">Payment Method in Sales Invoice</value>
+    <value column="Help" isTrl="N" original="Payment Method in Sales Invoice">Payment Method in Sales Invoice</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="2C70D5BAFED340D68C564DA5C3F15A7E" trl="N">
     <value column="Name" isTrl="N" original="Paid Out">Paid Out</value>
     <value column="PrintName" isTrl="N" original="Paid Out">Paid Out</value>
@@ -94,7 +114,7 @@
     <value column="Name" isTrl="N" original="Currency To">Currency To</value>
     <value column="PrintName" isTrl="N" original="Currency To">Currency To</value>
     <value column="Description" isTrl="N" original="Target currency">Target currency</value>
-    <value column="Help" isTrl="N" original="The Currency To defines the target currency for this conversion rate.">The Currency To defines the target currency for this conversion rate.</value>
+    <value column="Help" isTrl="Y" original="The Currency To defines the target currency for this conversion rate">The Currency To defines the target currency for this conversion rate.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -140,6 +160,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="3FD7BEBC464E44469550B39D5C48AE2C" trl="N">
+    <value column="Name" isTrl="N" original="Transaction Date">Transaction Date</value>
+    <value column="PrintName" isTrl="N" original="Transaction Date">Transaction Date</value>
+    <value column="Description" isTrl="N" original="Date for the generated transactions">Date for the generated transactions</value>
+    <value column="Help" isTrl="N" original="Date for the generated transactions">Date for the generated transactions</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="429B447E4FE9420287E1EEB75DC341E9" trl="N">
     <value column="Name" isTrl="Y" original="Action Regarding Document">Действие с документом</value>
     <value column="PrintName" isTrl="Y" original="Action Regarding Document">Действие с документом</value>
@@ -175,6 +205,16 @@
     <value column="PrintName" isTrl="N" original="Generate Credit">Generate Credit</value>
     <value column="Description" isTrl="N" original="Amount left as credit on the payment.">Amount left as credit on the payment.</value>
     <value column="Help" isTrl="N" original="Amount left as credit on the payment.">Amount left as credit on the payment.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="4E2A12CBEE07461DAA355A0E0B81AA3B" trl="N">
+    <value column="Name" isTrl="N" original="Bank Fee To">Bank Fee To</value>
+    <value column="PrintName" isTrl="N" original="Bank Fee To">Bank Fee To</value>
+    <value column="Description" isTrl="N" original="Fee at the target Bank">Fee at the target Bank</value>
+    <value column="Help" isTrl="N" original="Fee at the target Bank">Fee at the target Bank</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -290,6 +330,26 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="5EC0293D0A0A48E086D239D216947A1D" trl="N">
+    <value column="Name" isTrl="N" original="Origin Financial Account">Origin Financial Account</value>
+    <value column="PrintName" isTrl="N" original="Origin Financial Account">Origin Financial Account</value>
+    <value column="Description" isTrl="N" original="Financial Account from where the funds were transferred">Financial Account from where the funds were transferred</value>
+    <value column="Help" isTrl="N" original="Financial Account from where the funds were transferred">Financial Account from where the funds were transferred</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="5EE957873DEE4461A57BA8CAEAF50943" trl="N">
+    <value column="Name" isTrl="N" original="Process Organization">Process Organization</value>
+    <value column="PrintName" isTrl="N" original="Process Organization">Process Organization</value>
+    <value column="Description" isTrl="N" original="Parameter used to save value of current Process Definition ad_org_id parameter.">Parameter used to save value of current Process Definition ad_org_id parameter.</value>
+    <value column="Help" isTrl="N" original="Parameter used to save value of current Process Definition ad_org_id parameter.">Parameter used to save value of current Process Definition ad_org_id parameter.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="5FD519D1480447A092C2C08E6B462B8E" trl="N">
     <value column="Name" isTrl="N" original="Customer Credit">Customer Credit</value>
     <value column="PrintName" isTrl="N" original="Customer Credit">Customer Credit</value>
@@ -305,6 +365,16 @@
     <value column="PrintName" isTrl="N" original="Aprm_Finacc_Trx_Full_Acct_V_ID">Aprm_Finacc_Trx_Full_Acct_V_ID</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="614DA3D0232C447CAB525FB9BFCB8709" trl="N">
+    <value column="Name" isTrl="N" original="Funds Transfer">Funds Transfer</value>
+    <value column="PrintName" isTrl="N" original="Funds Transfer">Funds Transfer</value>
+    <value column="Description" isTrl="N" original="Transfer funds between Financial Accounts">Transfer funds between Financial Accounts</value>
+    <value column="Help" isTrl="N" original="Transfer funds between Financial Accounts">Transfer funds between Financial Accounts</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -780,6 +850,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="A0CEAF4259424F31B5E8751CBFBCCF26" trl="N">
+    <value column="Name" isTrl="N" original="Bank Fee">Bank Fee</value>
+    <value column="PrintName" isTrl="N" original="Bank Fee">Bank Fee</value>
+    <value column="Description" isTrl="N" original="This transaction is subject to a Bank Fee">This transaction is subject to a Bank Fee</value>
+    <value column="Help" isTrl="N" original="This transaction is subject to a Bank Fee">This transaction is subject to a Bank Fee</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="A28B183E6A9B34C0E040007F010067F9" trl="N">
     <value column="Name" isTrl="N" original="EM_APRM_Process Bank Statement">EM_APRM_Process Bank Statement</value>
     <value column="PrintName" isTrl="N" original="EM_APRM_Process Bank Statement">EM_APRM_Process Bank Statement</value>
@@ -850,6 +930,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="A3F4495893084689A6F604722ACA1EC2" trl="N">
+    <value column="Name" isTrl="N" original="Default G/L Item for Funds Transfer">Default G/L Item for Funds Transfer</value>
+    <value column="PrintName" isTrl="N" original="Default G/L Item for Funds Transfer">Default G/L Item for Funds Transfer</value>
+    <value column="Description" isTrl="N" original="Default G/L Item used for Funds Transfer Process">Default G/L Item used for Funds Transfer Process</value>
+    <value column="Help" isTrl="N" original="Default G/L Item used for Funds Transfer Process in Financial Account Window">Default G/L Item used for Funds Transfer Process in Financial Account Window</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="A62C80360F274C44AA6BF58315DF65FF" trl="N">
     <value column="Name" isTrl="N" original="Converted Amount Read Only Logic">Converted Amount Read Only Logic</value>
     <value column="PrintName" isTrl="N" original="Converted Amount Read Only Logic">Converted Amount Read Only Logic</value>
@@ -915,6 +1005,26 @@
     <value column="PrintName" isTrl="N" original="buttonList">buttonList</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="B4F49C74A5FE40A48F023D34C6BE3837" trl="N">
+    <value column="Name" isTrl="N" original="Deposit Amount">Deposit Amount</value>
+    <value column="PrintName" isTrl="N" original="Deposit Amount">Deposit Amount</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="B8DABAF351464FA1A0F3C4C91515BDE5" trl="N">
+    <value column="Name" isTrl="N" original="Bank Fee From">Bank Fee From</value>
+    <value column="PrintName" isTrl="N" original="Bank Fee From">Bank Fee From</value>
+    <value column="Description" isTrl="N" original="Fee at the origin Bank">Fee at the origin Bank</value>
+    <value column="Help" isTrl="N" original="Fee at the origin Bank">Fee at the origin Bank</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1010,6 +1120,16 @@
     <value column="PO_Name" isTrl="N" original=""/>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
+  <row id="D0F4319D572E49398FD01216BA9DE4EF" trl="N">
+    <value column="Name" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="PrintName" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="Description" isTrl="N" original="Displayed Payment Method field in Sales Order Payment Schedule Details tab. For netting payments the value displayed will be empty.">Displayed Payment Method field in Sales Order Payment Schedule Details tab. For netting payments the value displayed will be empty.</value>
+    <value column="Help" isTrl="N" original="Displayed Payment Method field in Sales Order Payment Schedule Details tab. For netting payments the value displayed will be empty.">Displayed Payment Method field in Sales Order Payment Schedule Details tab. For netting payments the value displayed will be empty.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="D2AC3F75FCDC4BC187A1F492C46D68D1" trl="N">
     <value column="Name" isTrl="N" original="Purchase Invoice's Reference for Payment Description">Purchase Invoice's Reference for Payment Description</value>
     <value column="PrintName" isTrl="N" original="Purchase Invoice's Reference for Payment Description">Purchase Invoice's Reference for Payment Description</value>
@@ -1037,6 +1157,26 @@
     <value column="PrintName" isTrl="N" original="Outstanding Payment Items Amount">Outstanding Payment Items Amount</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="D521B46D67FA4014B71B52EE04B0492A" trl="N">
+    <value column="Name" isTrl="N" original="Currency From">Currency From</value>
+    <value column="PrintName" isTrl="N" original="Currency From">Currency From</value>
+    <value column="Description" isTrl="N" original="The Currency From defines the source currency">The Currency From defines the source currency</value>
+    <value column="Help" isTrl="N" original="The Currency From defines the source currency">The Currency From defines the source currency</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="D62D89A819A840B3978E4434C9B66C86" trl="N">
+    <value column="Name" isTrl="N" original="Financial Account">Financial Account</value>
+    <value column="PrintName" isTrl="N" original="Financial Account">Financial Account</value>
+    <value column="Description" isTrl="N" original="Financial Account in sales invoice details">Financial Account in sales invoice details</value>
+    <value column="Help" isTrl="N" original="Financial Account in sales invoice details">Financial Account in sales invoice details</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1152,11 +1292,31 @@
     <value column="PO_Name" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
     <value column="PO_PrintName" isTrl="N" original="Modify Payment Plan">Modify Payment Plan</value>
   </row>
+  <row id="EF3508748A6A42C186F6709D68728306" trl="N">
+    <value column="Name" isTrl="N" original="Actions">Actions</value>
+    <value column="PrintName" isTrl="N" original="Actions">Actions</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
   <row id="F109FCAF8CC1462AB2A94F73F4E51EA7" trl="N">
     <value column="Name" isTrl="N" original="Reconciled Item No.">Reconciled Item No.</value>
     <value column="PrintName" isTrl="N" original="Reconciled Item No.">Reconciled Item No.</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F18571A261AB41D49246E1C04D647256" trl="N">
+    <value column="Name" isTrl="N" original="Funds Transfer Enabled">Funds Transfer Enabled</value>
+    <value column="PrintName" isTrl="N" original="Funds Transfer Enabled">Funds Transfer Enabled</value>
+    <value column="Description" isTrl="N" original="Funds Transfer Enabled flag is used to show/hide funds transfer button process.">Funds Transfer Enabled flag is used to show/hide funds transfer button process.</value>
+    <value column="Help" isTrl="N" original="Funds Transfer Enabled flag is used to show/hide funds transfer button process and to show/hide Financial Accounts in Funds Transfer Process">Funds Transfer Enabled flag is used to show/hide funds transfer button process and to show/hide Financial Accounts in Funds Transfer Process</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -1227,6 +1387,16 @@
     <value column="PrintName" isTrl="Y" original="Expected Payment">Ожидаемый платёж</value>
     <value column="Description" isTrl="Y" original="Expected Payment">Ожидаемый платёж</value>
     <value column="Help" isTrl="Y" original="Expected Payment">Ожидаемый платёж</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="FC01C8BFAB68409497398AB4C6D923F1" trl="N">
+    <value column="Name" isTrl="N" original="Add Multiple Payments">Add Multiple Payments</value>
+    <value column="PrintName" isTrl="N" original="Add Multiple Payments">Add Multiple Payments</value>
+    <value column="Description" isTrl="N" original="User can select multiple payments at the same time. The system will create a separate transaction per selected payment">User can select multiple payments at the same time. The system will create a separate transaction per selected payment</value>
+    <value column="Help" isTrl="N" original="User can select multiple payments at the same time. The system will create a separate transaction per selected payment">User can select multiple payments at the same time. The system will create a separate transaction per selected payment</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>

@@ -6,11 +6,20 @@
   <row id="28F920CD36E14AFBB2025802363E8B02" trl="N">
     <value column="Name" isTrl="Y" original="Qty">Кол-во</value>
   </row>
+  <row id="321C5D48888745C3A042FF005E7375AC" trl="N">
+    <value column="Name" isTrl="N" original="Organization">Organization</value>
+  </row>
   <row id="39ECC838BD604F49BA07220A64D855A3" trl="N">
     <value column="Name" isTrl="Y" original="Quantity">Кол-во</value>
   </row>
   <row id="3A8324D4520B42B08DDED26BD05F98B5" trl="N">
     <value column="Name" isTrl="Y" original="Date">Дата</value>
+  </row>
+  <row id="3DA8615A37CD447EB85FE4B9386E8622" trl="N">
+    <value column="Name" isTrl="N" original="Product Category">Product Category</value>
+  </row>
+  <row id="5CE9158CF68C406199B5D7E501F0AE0E" trl="N">
+    <value column="Name" isTrl="N" original="Warehouse">Warehouse</value>
   </row>
   <row id="7D6F8F4432754AB5872B925CF2BD1E37" trl="N">
     <value column="Name" isTrl="Y" original="Organization">Организация</value>
@@ -42,6 +51,12 @@
   <row id="D3C5848B4225429A90B63B888EA5E1C6" trl="N">
     <value column="Name" isTrl="Y" original="Product">Товар</value>
   </row>
+  <row id="DA677F18E1234D25850C4016B02CFB45" trl="N">
+    <value column="Name" isTrl="N" original="Quantity On Hand">Quantity On Hand</value>
+  </row>
+  <row id="DE3F5D2B067645B6A0F1266BFCB9F821" trl="N">
+    <value column="Name" isTrl="N" original="Product Attribute">Product Attribute</value>
+  </row>
   <row id="E4755A4156FE4E87AFC771FDCE3F9A0B" trl="N">
     <value column="Name" isTrl="Y" original="Project">Проект</value>
   </row>
@@ -50,5 +65,8 @@
   </row>
   <row id="F80128948ADD4FDFBAC82BF7EBF0FEFD" trl="N">
     <value column="Name" isTrl="Y" original="UOM">Ед.изм.</value>
+  </row>
+  <row id="FCD6D2F3AAA34DF7BA0B97B11A7A15CB" trl="N">
+    <value column="Name" isTrl="N" original="Product">Product</value>
   </row>
 </compiereTrl>
