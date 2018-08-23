@@ -2556,37 +2556,37 @@
     <value column="Text" isTrl="N" original="Otherwise, you need to provide a new Activation File that can be downloaded from  ">Otherwise, you need to provide a new Activation File that can be downloaded from  </value>
   </row>
   <row id="6E59421C5B64AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Browse File System">Browse File System</value>
+    <value column="Text" isTrl="Y" original="Browse File System">Найти файл</value>
   </row>
   <row id="6E59421C5B65AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Activate Online">Activate Online</value>
+    <value column="Text" isTrl="Y" original="Activate Online">Онлайн активация</value>
   </row>
   <row id="6E59421C5B66AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Refresh Online">Refresh Online</value>
+    <value column="Text" isTrl="Y" original="Refresh Online">Онлайн обновление</value>
   </row>
   <row id="6E59421C5B67AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Reactivate Online">Reactivate Online</value>
+    <value column="Text" isTrl="Y" original="Reactivate Online">Повторная активация</value>
   </row>
   <row id="6E59421C5B68AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Activate with Activation File">Activate with Activation File</value>
+    <value column="Text" isTrl="Y" original="Activate with Activation File">Активировать через файл</value>
   </row>
   <row id="6E59421C5B69AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Refresh with Activation File">Refresh with Activation File</value>
+    <value column="Text" isTrl="Y" original="Refresh with Activation File">Обновить через файл</value>
   </row>
   <row id="6E59421C5B6AAB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Reactivate with Activation File">Reactivate with Activation File</value>
+    <value column="Text" isTrl="Y" original="Reactivate with Activation File">Повторно активировать через файл</value>
   </row>
   <row id="6E59421C5B6EAB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Deactivate">Deactivate</value>
+    <value column="Text" isTrl="Y" original="Deactivate">Отозвать активацию</value>
   </row>
   <row id="6E59421C5B6FAB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Activate Online">Activate Online</value>
+    <value column="Text" isTrl="Y" original="Activate Online">Онлайн активация</value>
   </row>
   <row id="6E59421C5B70AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Refresh Activation Online">Refresh Activation Online</value>
+    <value column="Text" isTrl="Y" original="Refresh Activation Online">Онлайн обновление активации</value>
   </row>
   <row id="6E59421C5B71AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Renew Activation Online">Renew Activation Online</value>
+    <value column="Text" isTrl="Y" original="Renew Activation Online">Онлайн возобновление активации</value>
   </row>
   <row id="6E59421C5B73AB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="N" original="Paste the System Key in the area below and declare what is the main purpose of the Instance you want to activate.">Paste the System Key in the area below and declare what is the main purpose of the Instance you want to activate.</value>
@@ -2689,7 +2689,7 @@
     <value column="Text" isTrl="N" original="Ok">Ok</value>
   </row>
   <row id="7B4C1C8699DB11DD82D9001B388C61A4" trl="N">
-    <value column="Text" isTrl="N" original="Install Modules">Install Modules</value>
+    <value column="Text" isTrl="Y" original="Install Modules">Установить модули</value>
   </row>
   <row id="7B4FEA3299DB11DDAD6A001B388C61A4" trl="N">
     <value column="Text" isTrl="N" original="Do you want to continue installing the following module(s)?">Do you want to continue installing the following module(s)?</value>
@@ -4174,7 +4174,7 @@
     <value column="Text" isTrl="N" original="Login">Login</value>
   </row>
   <row id="807204" trl="N">
-    <value column="Text" isTrl="N" original="LOT:">LOT:</value>
+    <value column="Text" isTrl="Y" original="LOT:">Артикул:</value>
   </row>
   <row id="807209" trl="N">
     <value column="Text" isTrl="Y" original="message text">текст сообщения</value>
@@ -6336,16 +6336,16 @@
     <value column="Text" isTrl="N" original="Invoice Nº">Invoice Nº</value>
   </row>
   <row id="E65E0CA6995D11DD8ADC001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Module Detail">Module Detail</value>
+    <value column="Text" isTrl="Y" original="Module Detail">Описание модуля</value>
   </row>
   <row id="E6633B0E995D11DDB7B0001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Install Module">Install Module</value>
+    <value column="Text" isTrl="Y" original="Install Module">Установка модуля</value>
   </row>
   <row id="E668C7D6995D11DDABE9001D09C4A2FE" trl="N">
     <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="E6768AD8995D11DD8924001D09C4A2FE" trl="N">
-    <value column="Text" isTrl="N" original="Browse File System">Browse File System</value>
+    <value column="Text" isTrl="Y" original="Browse File System">Найти файл</value>
   </row>
   <row id="E6894EE1CD7D4E58B3B2AD4A25B6ED2C" trl="N">
     <value column="Text" isTrl="N" original="Audit Trail - Record History">Audit Trail - Record History</value>

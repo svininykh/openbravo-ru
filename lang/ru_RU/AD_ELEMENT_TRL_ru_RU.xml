@@ -4214,8 +4214,8 @@ or All (AD_CLIENT=anything, AD_ORG_ID=anything)</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1474" trl="N">
-    <value column="Name" isTrl="N" original="Manual">Manual</value>
-    <value column="PrintName" isTrl="N" original="Manual">Manual</value>
+    <value column="Name" isTrl="Y" original="Manual">Ручное управление</value>
+    <value column="PrintName" isTrl="Y" original="Manual">Ручное управление</value>
     <value column="Description" isTrl="N" original="A task or process completed directly by the user, not automatically by the application.">A task or process completed directly by the user, not automatically by the application.</value>
     <value column="Help" isTrl="N" original="The Manual check box indicates if the process will done manually.">The Manual check box indicates if the process will done manually.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6095,8 +6095,8 @@ If selected, this column will be used in the Search Window as an available filte
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1843" trl="N">
-    <value column="Name" isTrl="N" original="Multilingual Documents">Multilingual Documents</value>
-    <value column="PrintName" isTrl="N" original="Multi Lingual Documents">Multi Lingual Documents</value>
+    <value column="Name" isTrl="Y" original="Multilingual Documents">Многоязычные документы</value>
+    <value column="PrintName" isTrl="Y" original="Multi Lingual Documents">Многоязычные документы</value>
     <value column="Description" isTrl="N" original="Documents are Multi Lingual">Documents are Multi Lingual</value>
     <value column="Help" isTrl="N" original="If selected, you enable multi lingual documents and need to maintain translations for entities used in documents (examples: Products, Payment Terms, ...).&lt;BR&gt;Please note, that the base language is always English.">If selected, you enable multi lingual documents and need to maintain translations for entities used in documents (examples: Products, Payment Terms, ...).&lt;BR&gt;Please note, that the base language is always English.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6366,8 +6366,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1937" trl="N">
-    <value column="Name" isTrl="N" original="Guaranteed Days">Guaranteed Days</value>
-    <value column="PrintName" isTrl="N" original="Guarantee days">Guarantee days</value>
+    <value column="Name" isTrl="Y" original="Guaranteed Days">Дней гарантии</value>
+    <value column="PrintName" isTrl="Y" original="Guarantee days">Дней гарантии</value>
     <value column="Description" isTrl="N" original="Number of days the product is guaranteed or available">Number of days the product is guaranteed or available</value>
     <value column="Help" isTrl="N" original="If the value is 0, there is no limit to the availability or guarantee, otherwise the guarantee date is calculated by adding the days to the delivery date.">If the value is 0, there is no limit to the availability or guarantee, otherwise the guarantee date is calculated by adding the days to the delivery date.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6889,8 +6889,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2013" trl="N">
-    <value column="Name" isTrl="N" original="Lot">Lot</value>
-    <value column="PrintName" isTrl="N" original="Lot">Lot</value>
+    <value column="Name" isTrl="Y" original="Lot">Артикул</value>
+    <value column="PrintName" isTrl="Y" original="Lot">Артикул</value>
     <value column="Description" isTrl="N" original="A group of identical or similar items organized and placed into inventory under one number.">A group of identical or similar items organized and placed into inventory under one number.</value>
     <value column="Help" isTrl="N" original="For individual products, you can define Lot Numbers">For individual products, you can define Lot Numbers</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6899,8 +6899,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2014" trl="N">
-    <value column="Name" isTrl="N" original="Serial No.">Serial No.</value>
-    <value column="PrintName" isTrl="N" original="Serial No">Serial No</value>
+    <value column="Name" isTrl="Y" original="Serial No.">Серийный номер</value>
+    <value column="PrintName" isTrl="Y" original="Serial No">Серийный номер</value>
     <value column="Description" isTrl="N" original="An attribute used as a unique identifier for a product.">An attribute used as a unique identifier for a product.</value>
     <value column="Help" isTrl="N" original="For individual products, you can define Serial Numbers">For individual products, you can define Serial Numbers</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6959,8 +6959,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2021" trl="N">
-    <value column="Name" isTrl="N" original="Lot">Lot</value>
-    <value column="PrintName" isTrl="N" original="Lot">Lot</value>
+    <value column="Name" isTrl="Y" original="Lot">Артикул</value>
+    <value column="PrintName" isTrl="Y" original="Lot">Артикул</value>
     <value column="Description" isTrl="N" original="A group of identical or similar items organized and placed into inventory under one number.">A group of identical or similar items organized and placed into inventory under one number.</value>
     <value column="Help" isTrl="N" original="The individual Lot of a Product">The individual Lot of a Product</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6969,8 +6969,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2022" trl="N">
-    <value column="Name" isTrl="N" original="Lot Control">Lot Control</value>
-    <value column="PrintName" isTrl="N" original="Lot Control">Lot Control</value>
+    <value column="Name" isTrl="Y" original="Lot Control">Контроль артикулов</value>
+    <value column="PrintName" isTrl="Y" original="Lot Control">Контроль артикулов</value>
     <value column="Description" isTrl="N" original="Product Lot Control">Product Lot Control</value>
     <value column="Help" isTrl="N" original="Definition to create Lot numbers for Products">Definition to create Lot numbers for Products</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6979,8 +6979,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2023" trl="N">
-    <value column="Name" isTrl="N" original="Serial No Control">Serial No Control</value>
-    <value column="PrintName" isTrl="N" original="Serial No Control">Serial No Control</value>
+    <value column="Name" isTrl="Y" original="Serial No Control">Контроль серийных номеров</value>
+    <value column="PrintName" isTrl="Y" original="Serial No Control">Контроль серийных номеров</value>
     <value column="Description" isTrl="N" original="Product Serial Number Control">Product Serial Number Control</value>
     <value column="Help" isTrl="N" original="Definition to create Serial numbers for Products">Definition to create Serial numbers for Products</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9407,8 +9407,8 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="3CB911FAA1D54CABB7A38AF0CC989151" trl="N">
-    <value column="Name" isTrl="N" original="Returnable">Returnable</value>
-    <value column="PrintName" isTrl="N" original="Returnable">Returnable</value>
+    <value column="Name" isTrl="Y" original="Returnable">Подлежит воврату</value>
+    <value column="PrintName" isTrl="Y" original="Returnable">Подлежит воврату</value>
     <value column="Description" isTrl="N" original="Indicates if the Product is Returnable or not">Indicates if the Product is Returnable or not</value>
     <value column="Help" isTrl="N" original="Indicates if the Product is Returnable or not">Indicates if the Product is Returnable or not</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9967,8 +9967,8 @@ Glossary orphan elements are preserved when running Synchronize Terminology proc
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="446" trl="N">
-    <value column="Name" isTrl="N" original="Lot Name">Lot Name</value>
-    <value column="PrintName" isTrl="N" original="Lot Name">Lot Name</value>
+    <value column="Name" isTrl="Y" original="Lot Name">Название артикула</value>
+    <value column="PrintName" isTrl="Y" original="Lot Name">Название артикула</value>
     <value column="Description" isTrl="N" original="A group of identical or similar items organized and placed into inventory under one number.">A group of identical or similar items organized and placed into inventory under one number.</value>
     <value column="Help" isTrl="N" original="The Lot Number indicates the specific lot that a product was part of.">The Lot Number indicates the specific lot that a product was part of.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11689,8 +11689,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="568" trl="N">
-    <value column="Name" isTrl="N" original="Serial No.">Serial No.</value>
-    <value column="PrintName" isTrl="N" original="Serial No">Serial No</value>
+    <value column="Name" isTrl="Y" original="Serial No.">Серийный номер</value>
+    <value column="PrintName" isTrl="Y" original="Serial No">Серийный номер</value>
     <value column="Description" isTrl="N" original="An attribute used as a unique identifier for a product.">An attribute used as a unique identifier for a product.</value>
     <value column="Help" isTrl="N" original="The Serial Number identifies a tracked, warranted product.  It can only be used when the quantity is 1.">The Serial Number identifies a tracked, warranted product.  It can only be used when the quantity is 1.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -21491,8 +21491,8 @@ In case the field is not checked, the preference is defined by Attribute, which 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="8976BF563A8848EE9A25AB42C1B995D3" trl="N">
-    <value column="Name" isTrl="N" original="Is Web Service Enabled">Is Web Service Enabled</value>
-    <value column="PrintName" isTrl="N" original="Is Web Service Enabled">Is Web Service Enabled</value>
+    <value column="Name" isTrl="Y" original="Is Web Service Enabled">Доступен веб-сервис</value>
+    <value column="PrintName" isTrl="Y" original="Is Web Service Enabled">Доступен веб-сервис</value>
     <value column="Description" isTrl="N" original="If checked, web services will be able to obtain data for users with this role">If checked, web services will be able to obtain data for users with this role</value>
     <value column="Help" isTrl="N" original="If checked, web services will be able to obtain data for users with this role. It applies to both JSON REST and XML REST web services">If checked, web services will be able to obtain data for users with this role. It applies to both JSON REST and XML REST web services</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22867,8 +22867,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="A11314C983E0497AA506DACC73FFB0C6" trl="N">
-    <value column="Name" isTrl="N" original="Overdue Return Days">Overdue Return Days</value>
-    <value column="PrintName" isTrl="N" original="Overdue Return Days">Overdue Return Days</value>
+    <value column="Name" isTrl="Y" original="Overdue Return Days">Дней на возврат</value>
+    <value column="PrintName" isTrl="Y" original="Overdue Return Days">Дней на возврат</value>
     <value column="Description" isTrl="N" original="Indicates if a Service is Returnable how many days has the customer to return it after buying">Indicates if a Service is Returnable how many days has the customer to return it after buying</value>
     <value column="Help" isTrl="N" original="Indicates if a Service is Returnable how many days has the customer to return it after buying">Indicates if a Service is Returnable how many days has the customer to return it after buying</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -25205,8 +25205,8 @@ Processes with "Requires Explicit Access Permission" flag set to true, do not in
     <value column="PO_PrintName" isTrl="N" original="Payment Out Run Message">Payment Out Run Message</value>
   </row>
   <row id="D6C6D9A4434CFD26E040007F01000176" trl="N">
-    <value column="Name" isTrl="N" original="Brand">Brand</value>
-    <value column="PrintName" isTrl="N" original="Brand">Brand</value>
+    <value column="Name" isTrl="Y" original="Brand">Торговая марка</value>
+    <value column="PrintName" isTrl="Y" original="Brand">Торговая марка</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="The brand identifies the Manufacturer or a type of product manufactured by a company under a particular name.">The brand identifies the Manufacturer or a type of product manufactured by a company under a particular name.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -25396,8 +25396,8 @@ Processes with "Requires Explicit Access Permission" flag set to true, do not in
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="DA703EF19A4D40D88539C32F1573D57A" trl="N">
-    <value column="Name" isTrl="N" original="PLM Status">PLM Status</value>
-    <value column="PrintName" isTrl="N" original="PLM Status">PLM Status</value>
+    <value column="Name" isTrl="Y" original="PLM Status">Статус жизненного цикла</value>
+    <value column="PrintName" isTrl="Y" original="PLM Status">Статус жизненного цикла</value>
     <value column="Description" isTrl="N" original="Product Lifecycle Management Status">Product Lifecycle Management Status</value>
     <value column="Help" isTrl="N" original="Product Lifecycle Management Status">Product Lifecycle Management Status</value>
     <value column="PO_Description" isTrl="N" original=""/>

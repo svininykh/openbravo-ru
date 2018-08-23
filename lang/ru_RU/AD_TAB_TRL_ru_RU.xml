@@ -1906,14 +1906,14 @@ The corresponding tables have then the following setting:
 </value>
   </row>
   <row id="464" trl="N">
-    <value column="Name" isTrl="Y" original="Lot">Партия</value>
+    <value column="Name" isTrl="Y" original="Lot">Артикул</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit lots assigned to your specific products.">Edit lots assigned to your specific products.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Edit lots assigned to your specific products.">Edit lots assigned to your specific products.</value>
   </row>
   <row id="465" trl="N">
-    <value column="Name" isTrl="Y" original="Lot Control">Контроль партии</value>
+    <value column="Name" isTrl="Y" original="Lot Control">Контроль артикулов</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define your lot number sequence.">Define your lot number sequence.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2074,7 +2074,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="It is possible to assign additional accounting process to be run after the standard one for a given general ledger configuration">It is possible to assign additional accounting process to be run after the standard one for a given general ledger configuration</value>
   </row>
   <row id="4FB5884A443240EEB5504BBF7813870D" trl="N">
-    <value column="Name" isTrl="N" original="Documents">Documents</value>
+    <value column="Name" isTrl="Y" original="Documents">Документы</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>

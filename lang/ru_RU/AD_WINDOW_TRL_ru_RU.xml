@@ -145,7 +145,7 @@ By enabling the heartbeat, you consent to the processing of this data and storin
     <value column="Help" isTrl="N" original="An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.">An account tree is the way Openbravo captures the chart of accounts of an Organization. The chart of accounts is a list of the accounts used in an organization's general ledger.</value>
   </row>
   <row id="11A2976F05D841EFAE654A8B83EB4204" trl="N">
-    <value column="Name" isTrl="N" original="Brand">Brand</value>
+    <value column="Name" isTrl="Y" original="Brand">Торговая марка</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -495,12 +495,12 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.">An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.</value>
   </row>
   <row id="257" trl="N">
-    <value column="Name" isTrl="Y" original="Lot">Лот</value>
+    <value column="Name" isTrl="Y" original="Lot">Артикул</value>
     <value column="Description" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
     <value column="Help" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
   </row>
   <row id="258" trl="N">
-    <value column="Name" isTrl="Y" original="Lot Number Sequence">Нумерация лотов</value>
+    <value column="Name" isTrl="Y" original="Lot Number Sequence">Нумерация артикулов</value>
     <value column="Description" isTrl="N" original="Define a number sequence to assign lot numbers to products.">Define a number sequence to assign lot numbers to products.</value>
     <value column="Help" isTrl="N" original="A product attribute can be a Lot Number.">A product attribute can be a Lot Number.</value>
   </row>
@@ -616,7 +616,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="Y" original="System Info">Системная информация</value>
   </row>
   <row id="5F14B963BFFB4C039CA523D871C3FDD6" trl="N">
-    <value column="Name" isTrl="N" original="PLM Status">PLM Status</value>
+    <value column="Name" isTrl="Y" original="PLM Status">Статус жизненного цикла</value>
     <value column="Description" isTrl="N" original="Product Lifecycle Management Status Window">Product Lifecycle Management Status Window</value>
     <value column="Help" isTrl="N" original=""/>
   </row>

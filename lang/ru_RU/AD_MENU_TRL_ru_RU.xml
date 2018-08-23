@@ -649,11 +649,11 @@
     <value column="Description" isTrl="N" original="Define a serial number sequence to assign serial numbers to products.">Define a serial number sequence to assign serial numbers to products.</value>
   </row>
   <row id="355" trl="N">
-    <value column="Name" isTrl="Y" original="Lot Number Sequence">Нумерация лотов</value>
+    <value column="Name" isTrl="Y" original="Lot Number Sequence">Нумерация артикулов</value>
     <value column="Description" isTrl="N" original="Define a number sequence to assign lot numbers to products.">Define a number sequence to assign lot numbers to products.</value>
   </row>
   <row id="356" trl="N">
-    <value column="Name" isTrl="Y" original="Lot">Лот</value>
+    <value column="Name" isTrl="Y" original="Lot">Артикул</value>
     <value column="Description" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
   </row>
   <row id="357" trl="N">
@@ -1501,7 +1501,7 @@
     <value column="Description" isTrl="N" original="Defines the containers or boxes, which includes any kind of object that can contain goods.">Defines the containers or boxes, which includes any kind of object that can contain goods.</value>
   </row>
   <row id="A202F302ED074EFF8ED15DCE441C9387" trl="N">
-    <value column="Name" isTrl="N" original="PLM Status">PLM Status</value>
+    <value column="Name" isTrl="Y" original="PLM Status">Статус жизненного цикла</value>
     <value column="Description" isTrl="N" original="Product Lifecycle Management Status Window">Product Lifecycle Management Status Window</value>
   </row>
   <row id="A519EEB1C1994CCF8208E5B73B5A04C6" trl="N">
@@ -1513,7 +1513,7 @@
     <value column="Description" isTrl="Y" original="Return to vendor shipment">Возврат поставщику по накладной</value>
   </row>
   <row id="A89F0CBA7D174B0C83F51F2ED9801383" trl="N">
-    <value column="Name" isTrl="N" original="Brand">Brand</value>
+    <value column="Name" isTrl="Y" original="Brand">Торговая марка</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="AA912A0ED1EB4967B6A220291C7C118A" trl="N">
