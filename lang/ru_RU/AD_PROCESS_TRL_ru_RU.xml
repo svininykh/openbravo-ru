@@ -146,8 +146,8 @@
   </row>
   <row id="109" trl="N">
     <value column="Name" isTrl="Y" original="Process Shipment">Обработка накладной</value>
-    <value column="Description" isTrl="N" original="Process Shipment (Update Inventory)">Process Shipment (Update Inventory)</value>
-    <value column="Help" isTrl="N" original="This process will move products in/out of inventory and mark line items as received/shipped.">This process will move products in/out of inventory and mark line items as received/shipped.</value>
+    <value column="Description" isTrl="N" original="Process Shipment (Update Inventory)">Обработка накладной (Обновление остатков)</value>
+    <value column="Help" isTrl="N" original="This process will move products in/out of inventory and mark line items as received/shipped.">Данная обработка переместить товары с/на склад и отметить строки позиций выданны/получены.</value>
   </row>
   <row id="110" trl="N">
     <value column="Name" isTrl="N" original="Order Print">Order Print</value>
@@ -625,9 +625,9 @@ If the Generic Product already has any Variant created the process returns an er
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="49DEE812BF0545269781FCEBF2235924" trl="N">
-    <value column="Name" isTrl="N" original="Process Shipment Java">Process Shipment Java</value>
-    <value column="Description" isTrl="N" original="Process Shipment (Update Inventory)">Process Shipment (Update Inventory)</value>
-    <value column="Help" isTrl="N" original="This process will move products in/out of inventory and mark line items as received/shipped.">This process will move products in/out of inventory and mark line items as received/shipped.</value>
+    <value column="Name" isTrl="Y" original="Process Shipment Java">Java обработка накладной</value>
+    <value column="Description" isTrl="Y" original="Process Shipment (Update Inventory)">Обработка накладной (Обновление остатков)</value>
+    <value column="Help" isTrl="Y" original="This process will move products in/out of inventory and mark line items as received/shipped.">Данная обработка переместить товары с/на склад и отметить строки позиций выданны/получены.</value>
   </row>
   <row id="53863D4359114ADE92133F772135AEEB" trl="Y">
     <value column="Name" isTrl="Y" original="Set as Ready">Установить готовность</value>

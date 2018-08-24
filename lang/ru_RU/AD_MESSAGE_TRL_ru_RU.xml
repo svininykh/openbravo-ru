@@ -1088,7 +1088,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Selector">Used for column name translation in Product Selector</value>
   </row>
   <row id="1006400005" trl="N">
-    <value column="MsgText" isTrl="N" original="Warehouse quant.">Warehouse quant.</value>
+    <value column="MsgText" isTrl="Y" original="Warehouse quant.">Кол-во склада</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Product Selector">Used for column name translation in Product Selector</value>
   </row>
   <row id="1006400006" trl="N">
@@ -1152,7 +1152,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Locator Selector">Used for column name translation in Locator Selector</value>
   </row>
   <row id="1006400021" trl="N">
-    <value column="MsgText" isTrl="Y" original="Corridor">Коридор</value>
+    <value column="MsgText" isTrl="Y" original="Corridor">Ряд</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Locator Selector">Used for column name translation in Locator Selector</value>
   </row>
   <row id="1006400022" trl="N">
@@ -4409,7 +4409,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="553" trl="N">
-    <value column="MsgText" isTrl="N" original="Start Search ...">Start Search ...</value>
+    <value column="MsgText" isTrl="Y" original="Start Search ...">Начат поиск ...</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="554" trl="N">
@@ -4975,7 +4975,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="636" trl="N">
-    <value column="MsgText" isTrl="N" original="No Currency Conversion Rate between currencies found">No Currency Conversion Rate between currencies found</value>
+    <value column="MsgText" isTrl="Y" original="No Currency Conversion Rate between currencies found">Не найден курс конвертации между валютами</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="637" trl="N">
@@ -5399,7 +5399,7 @@ You can upgrade the license of your instance by contacting Openbravo sales staff
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="716A7D748A979ED8E040007F01015931" trl="N">
-    <value column="MsgText" isTrl="N" original="This record cannot be deleted because it is associated with other existing elements. Please see Linked Items">This record cannot be deleted because it is associated with other existing elements. Please see Linked Items</value>
+    <value column="MsgText" isTrl="Y" original="This record cannot be deleted because it is associated with other existing elements. Please see Linked Items">Эта запись не может быть удалена, так как она связанна с другими элементами. Проверьте Связанные записи</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="716A7D748A989ED8E040007F01015931" trl="N">
@@ -6801,7 +6801,7 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804732" trl="N">
-    <value column="MsgText" isTrl="Y" original="In line">В строке</value>
+    <value column="MsgText" isTrl="Y" original="In line">В строке </value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="804733" trl="N">
@@ -8412,11 +8412,11 @@ Changing the Business Partner's currency will not allow you to use available cre
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BC306EC7509948A784E523A32B12F972" trl="N">
-    <value column="MsgText" isTrl="N" original="(Default)">(Default)</value>
+    <value column="MsgText" isTrl="Y" original="(Default)">(По-умолчанию)</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BC598373A34D43049D2C3415C69E65A7" trl="N">
-    <value column="MsgText" isTrl="N" original="has no storage bin defined">has no storage bin defined</value>
+    <value column="MsgText" isTrl="Y" original="has no storage bin defined">не указанно место хранения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="BC6E700B0E4745F598FF9A6640F52328" trl="N">

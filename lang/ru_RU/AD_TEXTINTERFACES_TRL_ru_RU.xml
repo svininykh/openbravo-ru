@@ -142,7 +142,7 @@
     <value column="Text" isTrl="Y" original="Storage Bin">Место хранения</value>
   </row>
   <row id="06E61B009FC911DDB11B0FCE2FEEA29F" trl="N">
-    <value column="Text" isTrl="Y" original="Attribute Set Value">Значение характеристики</value>
+    <value column="Text" isTrl="Y" original="Attribute Set Value">Значение набора характеристик</value>
   </row>
   <row id="06ED94CF46954CBCBA801D0A3A1ED86B" trl="N">
     <value column="Text" isTrl="N" original="Current Balance">Current Balance</value>
@@ -860,10 +860,10 @@
     <value column="Text" isTrl="N" original="Create from Multiple Receipt">Create from Multiple Receipt</value>
   </row>
   <row id="1005300012" trl="N">
-    <value column="Text" isTrl="N" original="Attribute value">Attribute value</value>
+    <value column="Text" isTrl="N" original="Attribute value">Значение характеристики</value>
   </row>
   <row id="1005300013" trl="N">
-    <value column="Text" isTrl="N" original="Attribute Set Value">Attribute Set Value</value>
+    <value column="Text" isTrl="Y" original="Attribute Set Value">Значение набора характеристик</value>
   </row>
   <row id="1005300014" trl="N">
     <value column="Text" isTrl="N" original="Cal1 No.">Cal1 No.</value>
@@ -1479,7 +1479,7 @@
     <value column="Text" isTrl="N" original="PRODUCT CATEGORY">PRODUCT CATEGORY</value>
   </row>
   <row id="4714331CFF0B4DA1A12C019B72C665B5" trl="N">
-    <value column="Text" isTrl="N" original="WAREHOUSE">WAREHOUSE</value>
+    <value column="Text" isTrl="Y" original="WAREHOUSE">СКЛАД</value>
   </row>
   <row id="4716134EDEBA4F8FA5988CD14FDC00D9" trl="N">
     <value column="Text" isTrl="N" original="upgrade">upgrade</value>
@@ -2115,7 +2115,7 @@
     <value column="Text" isTrl="N" original="Locator multiple selector">Locator multiple selector</value>
   </row>
   <row id="5EE7577081C14D568CA7836320F4401E" trl="N">
-    <value column="Text" isTrl="N" original="Attribute Set Value">Attribute Set Value</value>
+    <value column="Text" isTrl="Y" original="Attribute Set Value">Значение набора характеристик</value>
   </row>
   <row id="5F07665E34214D948E34B66B78751B12" trl="N">
     <value column="Text" isTrl="N" original="Order UOM">Order UOM</value>
@@ -3295,7 +3295,7 @@
     <value column="Text" isTrl="Y" original="Last price">Последняя цена</value>
   </row>
   <row id="804052" trl="Y">
-    <value column="Text" isTrl="Y" original="UOM">Ед. изм.</value>
+    <value column="Text" isTrl="Y" original="UOM">Ед.изм.</value>
   </row>
   <row id="804061" trl="Y">
     <value column="Text" isTrl="Y" original="Translation Import/Export">Перевод импортировать/экспортировать</value>

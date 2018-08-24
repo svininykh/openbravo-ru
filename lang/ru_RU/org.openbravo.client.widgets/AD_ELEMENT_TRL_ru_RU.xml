@@ -21,8 +21,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7C0B2441091D498A8B7885FEE83F38DF" trl="N">
-    <value column="Name" isTrl="N" original="UOM Name">UOM Name</value>
-    <value column="PrintName" isTrl="N" original="UOM Name">UOM Name</value>
+    <value column="Name" isTrl="Y" original="UOM Name">Название ед.изм.</value>
+    <value column="PrintName" isTrl="Y" original="UOM Name">Название ед.изм.</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -31,8 +31,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="83F192931C7142E7872BFE1428EE5C66" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse Name">Warehouse Name</value>
-    <value column="PrintName" isTrl="N" original="Warehouse Name">Warehouse Name</value>
+    <value column="Name" isTrl="Y" original="Warehouse Name">Название склада</value>
+    <value column="PrintName" isTrl="Y" original="Warehouse Name">Название склада</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

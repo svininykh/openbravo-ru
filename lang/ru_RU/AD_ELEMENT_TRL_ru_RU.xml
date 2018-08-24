@@ -6718,8 +6718,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1E5CB7185CF94CC595BDB2A1C2129C75" trl="N">
-    <value column="Name" isTrl="N" original="Allocated Quantity">Allocated Quantity</value>
-    <value column="PrintName" isTrl="N" original="AllocatedQuantity">AllocatedQuantity</value>
+    <value column="Name" isTrl="N" original="Allocated Quantity">Выделенно кол-во</value>
+    <value column="PrintName" isTrl="N" original="AllocatedQuantity">Выделенно кол-во</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="From a Reservation, the quantity that it is already allocated, which means that the Reserved Stock already has an&#10; Storage Bin and an Attribute values assigned to it">From a Reservation, the quantity that it is already allocated, which means that the Reserved Stock already has an
  Storage Bin and an Attribute values assigned to it</value>
@@ -6879,8 +6879,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2012" trl="N">
-    <value column="Name" isTrl="N" original="Instance Attribute">Instance Attribute</value>
-    <value column="PrintName" isTrl="N" original="Instance Attribute">Instance Attribute</value>
+    <value column="Name" isTrl="Y" original="Instance Attribute">Индивидуальная характеристика</value>
+    <value column="PrintName" isTrl="Y" original="Instance Attribute">Индивидуальная характеристика</value>
     <value column="Description" isTrl="N" original="The product attribute is specific to the instance (like Serial No, Lot or Guarantee Date)">The product attribute is specific to the instance (like Serial No, Lot or Guarantee Date)</value>
     <value column="Help" isTrl="N" original="If selected, the individual instance of the product has this attribute - like the individual Serial or Lot Numbers or  Guarantee Date of a product instance.  If not selected, all instances of the product share the attribute (e.g. color=green).">If selected, the individual instance of the product has this attribute - like the individual Serial or Lot Numbers or  Guarantee Date of a product instance.  If not selected, all instances of the product share the attribute (e.g. color=green).</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6929,8 +6929,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2019" trl="N">
-    <value column="Name" isTrl="Y" original="Attribute Set Value">Значение характеристики</value>
-    <value column="PrintName" isTrl="Y" original="Attribute Set Instance">Значение характеристики</value>
+    <value column="Name" isTrl="Y" original="Attribute Set Value">Значение набора характеристик</value>
+    <value column="PrintName" isTrl="Y" original="Attribute Set Instance">Значение набора характеристик</value>
     <value column="Description" isTrl="Y" original="An attribute associated with a product as part of an attribute set.">Характеристики связанные с данным товаром как часть набора характеристик.</value>
     <value column="Help" isTrl="N" original="The values of the actual Product Attributes">The values of the actual Product Attributes</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7529,8 +7529,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2129" trl="N">
-    <value column="Name" isTrl="N" original="List">List</value>
-    <value column="PrintName" isTrl="N" original="List">List</value>
+    <value column="Name" isTrl="Y" original="List">Список</value>
+    <value column="PrintName" isTrl="Y" original="List">Список</value>
     <value column="Description" isTrl="N" original="This attribute has a predefined list of values">This attribute has a predefined list of values</value>
     <value column="Help" isTrl="N" original="If the attribute has a predefined list of values, you can select it by choosing one of the valid values. Otherwise you can enter the attribute value manually.">If the attribute has a predefined list of values, you can select it by choosing one of the valid values. Otherwise you can enter the attribute value manually.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -7570,7 +7570,7 @@ The fact of using a given product type does not mean a different accounting. All
   </row>
   <row id="215" trl="N">
     <value column="Name" isTrl="Y" original="UOM">Единицы измерения</value>
-    <value column="PrintName" isTrl="Y" original="UOM">Ед. изм.</value>
+    <value column="PrintName" isTrl="Y" original="UOM">Ед.изм.</value>
     <value column="Description" isTrl="Y" original="A non monetary unit of measure.">Не стоимостные единицы измерения.</value>
     <value column="Help" isTrl="N" original="The UOM defines a unique non monetary unit of measure">The UOM defines a unique non monetary unit of measure</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9045,8 +9045,8 @@ When this flag is enabled, this default behavior can be overridden allowing to r
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="362" trl="N">
-    <value column="Name" isTrl="N" original="Central Maintenance">Central Maintenance</value>
-    <value column="PrintName" isTrl="N" original="Centrally maintained">Centrally maintained</value>
+    <value column="Name" isTrl="Y" original="Central Maintenance">Централизованно обслуживается</value>
+    <value column="PrintName" isTrl="Y" original="Centrally maintained">Централизованно обслуживается</value>
     <value column="Description" isTrl="N" original="A flag indicating that this label is managed in a central repository.">A flag indicating that this label is managed in a central repository.</value>
     <value column="Help" isTrl="N" original="The Centrally Maintained checkbox indicates if the Name, Description and Help maintained in 'System Element' table  or 'Window' table.">The Centrally Maintained checkbox indicates if the Name, Description and Help maintained in 'System Element' table  or 'Window' table.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9235,8 +9235,8 @@ When this flag is enabled, this default behavior can be overridden allowing to r
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="392" trl="N">
-    <value column="Name" isTrl="N" original="Mandatory">Mandatory</value>
-    <value column="PrintName" isTrl="N" original="Mandatory">Mandatory</value>
+    <value column="Name" isTrl="Y" original="Mandatory">Обязательно</value>
+    <value column="PrintName" isTrl="Y" original="Mandatory">Обязательно</value>
     <value column="Description" isTrl="N" original="An indication noting that completing in a field is required to proceed.">An indication noting that completing in a field is required to proceed.</value>
     <value column="Help" isTrl="N" original="The Mandatory checkbox indicates if the field is required for a record to be save to the database.">The Mandatory checkbox indicates if the field is required for a record to be save to the database.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11219,8 +11219,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEF752DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Attribute Set Value">Attribute Set Value</value>
-    <value column="PrintName" isTrl="N" original="Attribute Set Value">Attribute Set Value</value>
+    <value column="Name" isTrl="Y" original="Attribute Set Value">Значение набора характеристик</value>
+    <value column="PrintName" isTrl="Y" original="Attribute Set Value">Значение набора характеристик</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11339,9 +11339,9 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="530" trl="N">
-    <value column="Name" isTrl="Y" original="Quantity on Hand">Количество на руках</value>
-    <value column="PrintName" isTrl="Y" original="On Hand Qty">Кол-во на руках</value>
-    <value column="Description" isTrl="Y" original="On Hand Quantity">Количество на руках</value>
+    <value column="Name" isTrl="Y" original="Quantity on Hand">Доступно кол-во</value>
+    <value column="PrintName" isTrl="Y" original="On Hand Qty">Доступно кол-во</value>
+    <value column="Description" isTrl="Y" original="On Hand Quantity">Доступно кол-во</value>
     <value column="Help" isTrl="N" original="The On Hand Quantity indicates the quantity of a product that is on hand in a warehouse.">The On Hand Quantity indicates the quantity of a product that is on hand in a warehouse.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -13181,7 +13181,7 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
   </row>
   <row id="602" trl="N">
     <value column="Name" isTrl="Y" original="Symbol">Обозначение</value>
-    <value column="PrintName" isTrl="Y" original="UoM">Ед. изм.</value>
+    <value column="PrintName" isTrl="Y" original="UoM">Ед.изм.</value>
     <value column="Description" isTrl="N" original="An abbreviated description used to define a unit of measure or currency.">An abbreviated description used to define a unit of measure or currency.</value>
     <value column="Help" isTrl="N" original="The Symbol identifies the Symbol to be displayed and printed for a Unit of Measure">The Symbol identifies the Symbol to be displayed and printed for a Unit of Measure</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13804,8 +13804,8 @@ The distribution algorithm will be driven by this priority. The pending payments
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="67B484CD6E3F425AB3D97E0E4585852D" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse Rule Type">Warehouse Rule Type</value>
-    <value column="PrintName" isTrl="N" original="Warehouse Rule Type">Warehouse Rule Type</value>
+    <value column="Name" isTrl="Y" original="Warehouse Rule Type">Тип правил хранения</value>
+    <value column="PrintName" isTrl="Y" original="Warehouse Rule Type">Тип правил хранения</value>
     <value column="Description" isTrl="N" original="Defines the type of procedure to be used">Defines the type of procedure to be used</value>
     <value column="Help" isTrl="N" original="There are two types:&#10;- Parameter: This is the one which should be used by default. It receives parameters directly avoiding to use PInstance infrastructure to get performance improvements.&#10;- PInstance: Deprecated. This was the old way of defining warehouse rules. It was receiving parameters via PInstance para and that was causing performance issues.">There are two types:
 - Parameter: This is the one which should be used by default. It receives parameters directly avoiding to use PInstance infrastructure to get performance improvements.
@@ -13916,7 +13916,7 @@ The distribution algorithm will be driven by this priority. The pending payments
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6AAAA39D446F42CFA9F90D3DE546005F" trl="N">
-    <value column="Name" isTrl="N" original="Use default conversion rate">Use default conversion rate</value>
+    <value column="Name" isTrl="Y" original="Use default conversion rate">Использовать конвертацию по-умолчанию</value>
     <value column="PrintName" isTrl="N" original="Default_Conversion_Rate">Default_Conversion_Rate</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
@@ -14026,8 +14026,8 @@ The distribution algorithm will be driven by this priority. The pending payments
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6D64D89A976E47AFBEAA8634530CC0C3" trl="N">
-    <value column="Name" isTrl="N" original="Set New Currency">Set New Currency</value>
-    <value column="PrintName" isTrl="N" original="Set New Currency">Set New Currency</value>
+    <value column="Name" isTrl="Y" original="Set New Currency">Задать валюту</value>
+    <value column="PrintName" isTrl="Y" original="Set New Currency">Задать валюту</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -24541,8 +24541,8 @@ If this flag is checked the creation and deletion of tree nodes will be handled 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CABF113EC59AA4EFE040007F010017BB" trl="N">
-    <value column="Name" isTrl="Y" original="Reserved Qty">Зарезервировано количество</value>
-    <value column="PrintName" isTrl="Y" original="Reserved Qty">Зарез. кол-во</value>
+    <value column="Name" isTrl="Y" original="Reserved Qty">Зарезервировано кол-во</value>
+    <value column="PrintName" isTrl="Y" original="Reserved Qty">Зарезервировано кол-во</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Represents the total quantity reserved to fulfill the reservation. It cannot be higher than the pending quantity.">Represents the total quantity reserved to fulfill the reservation. It cannot be higher than the pending quantity.</value>
     <value column="PO_Description" isTrl="N" original=""/>

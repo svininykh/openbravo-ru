@@ -520,7 +520,7 @@
     <value column="Help" isTrl="N" original="The value of the password is encrypted when being saved, however in a way that the cleartext password (as entered) can be recovered. Example use-case is to store a password which needs to be passed later as cleartext to some external service (i.e. a email server password)">The value of the password is encrypted when being saved, however in a way that the cleartext password (as entered) can be recovered. Example use-case is to store a password which needs to be passed later as cleartext to some external service (i.e. a email server password)</value>
   </row>
   <row id="17" trl="N">
-    <value column="Name" isTrl="N" original="List">List</value>
+    <value column="Name" isTrl="Y" original="List">Список</value>
     <value column="Description" isTrl="N" original="Reference List">Reference List</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -1462,7 +1462,7 @@ There is no any kind of timezone conversion. The stored date-time does not have 
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="511000BCCFAF486CBC76A5B8CEEDCE38" trl="N">
-    <value column="Name" isTrl="N" original="Warehouse Rule Type">Warehouse Rule Type</value>
+    <value column="Name" isTrl="Y" original="Warehouse Rule Type">Тип правил хранения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

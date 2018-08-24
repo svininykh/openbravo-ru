@@ -177,7 +177,7 @@ Sets all transactions prior to the reference date as permanently adjusted.</valu
     <value column="Help" isTrl="N" original="Price difference adjustments can be performed &quot;automatically&quot; by scheduling the &quot;Price Correction Background Process&quot; or manually for a given product or set of products by running this process.">Price difference adjustments can be performed "automatically" by scheduling the "Price Correction Background Process" or manually for a given product or set of products by running this process.</value>
   </row>
   <row id="B5C942145F354ABEBC9F16235D80D776" trl="N">
-    <value column="Name" isTrl="N" original="Set New Currency">Set New Currency</value>
+    <value column="Name" isTrl="Y" original="Set New Currency">Задать валюту</value>
     <value column="Description" isTrl="N" original="Sets new currency for the customer">Sets new currency for the customer</value>
     <value column="Help" isTrl="N" original="Sets new currency for the customer. If the amount is specified, the new customer balance will be set to this amount. If the exchange rate is specified, the new customer balance will be calculated with the specified exchange rate. If the amount and exchange rates are not specified, default conversion rate will be applied for the new customer balance.">Sets new currency for the customer. If the amount is specified, the new customer balance will be set to this amount. If the exchange rate is specified, the new customer balance will be calculated with the specified exchange rate. If the amount and exchange rates are not specified, default conversion rate will be applied for the new customer balance.</value>
   </row>
