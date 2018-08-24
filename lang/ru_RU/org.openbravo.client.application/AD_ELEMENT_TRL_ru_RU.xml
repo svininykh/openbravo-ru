@@ -383,7 +383,7 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="801D650DB70C49448DFD0E73C8EEF143" trl="N">
-    <value column="Name" isTrl="N" original="Show In Description">Show In Description</value>
+    <value column="Name" isTrl="Y" original="Show In Description">Отображать в описании</value>
     <value column="PrintName" isTrl="N" original="ATT_Showindescription">ATT_Showindescription</value>
     <value column="Description" isTrl="N" original="Defines if this parameter is relevant in Text column on C_File table.">Defines if this parameter is relevant in Text column on C_File table.</value>
     <value column="Help" isTrl="N" original="Defines if this parameter is relevant in Text column on C_File table.">Defines if this parameter is relevant in Text column on C_File table.</value>

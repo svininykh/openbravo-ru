@@ -1940,7 +1940,7 @@ Do you want to enable the Heartbeat?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1998C76DEE4E40C0BED520AF56AE633E" trl="N">
-    <value column="MsgText" isTrl="N" original="Organization">Organization</value>
+    <value column="MsgText" isTrl="Y" original="Organization">Организация</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="19E206D186C94610B0179C6B106E94BF" trl="N">
@@ -3197,14 +3197,14 @@ Do you want to enable the Heartbeat and continue?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="376" trl="N">
-    <value column="MsgText" isTrl="N" original="Order by">Order by</value>
+    <value column="MsgText" isTrl="Y" original="Order by">Сортировать по</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="377" trl="N">
-    <value column="MsgText" isTrl="N" original="{0} Line(s) - {1,number,#,##0.00} -  Total: {2,number,#,##0.00}  {3}  =  {4,number,#,##0.00}">{0} Line(s) - {1,number,#,##0.00} -  Total: {2,number,#,##0.00}  {3}  =  {4,number,#,##0.00}</value>
+  <row id="377" trl="Y">
+    <value column="MsgText" isTrl="Y" original="{0} Line(s) - {1,number,#,##0.00} -  Total: {2,number,#,##0.00}  {3}  =  {4,number,#,##0.00}">{0} Строк(и) - {1,number,#,##0.00} -  Итого: {2,number,#,##0.00}  {3}  =  {4,number,#,##0.00}</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
-  <row id="378" trl="N">
+  <row id="378" trl="Y">
     <value column="MsgText" isTrl="Y" original="Org">Организация</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
@@ -4713,7 +4713,7 @@ Since this is the first time that you login, please select the purpose of this i
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5C8DE651AA9D427399258704DF015CB4" trl="N">
-    <value column="MsgText" isTrl="N" original="Organization">Organization</value>
+    <value column="MsgText" isTrl="Y" original="Organization">Организация</value>
     <value column="MsgTip" isTrl="N" original="Used for column name translation in Locator Selector">Used for column name translation in Locator Selector</value>
   </row>
   <row id="5D3624FE019649CCB3B5900F32E59E17" trl="N">
@@ -7909,7 +7909,7 @@ Openbravo Administrator</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9DF58DD1831645A7B240DF296302E9CD" trl="N">
-    <value column="MsgText" isTrl="N" original="Expiration Date">Expiration Date</value>
+    <value column="MsgText" isTrl="Y" original="Expiration Date">Срок годности</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9E28C2ECFB6F4EBEB05B90F4A71DBBC7" trl="N">

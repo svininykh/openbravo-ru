@@ -321,8 +321,8 @@
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="02F1D370B8B34FB79D151811C705B200" trl="N">
-    <value column="Name" isTrl="N" original="Days To Password Expiration">Days To Password Expiration</value>
-    <value column="PrintName" isTrl="N" original="Days To Password Expiration">Days To Password Expiration</value>
+    <value column="Name" isTrl="Y" original="Days To Password Expiration">Дней действия пароля</value>
+    <value column="PrintName" isTrl="Y" original="Days To Password Expiration">Дней действия пароля</value>
     <value column="Description" isTrl="N" original="Define the days that user password must be valid from previous password change">Define the days that user password must be valid from previous password change</value>
     <value column="Help" isTrl="N" original="Define the days that user password must be valid from previous password change, if value is set to 0 no update will be required, for value greater than 0, password must be updated when the last password update date of the user plus the days defined here achieves. It will affect to all users depending the client.">Define the days that user password must be valid from previous password change, if value is set to 0 no update will be required, for value greater than 0, password must be updated when the last password update date of the user plus the days defined here achieves. It will affect to all users depending the client.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -371,8 +371,8 @@
     <value column="PO_PrintName" isTrl="Y" original="Explode">Разобрать на части</value>
   </row>
   <row id="046DBDB9E87B0A01E050007F01000340" trl="N">
-    <value column="Name" isTrl="N" original="Include Child Organizations">Include Child Organizations</value>
-    <value column="PrintName" isTrl="N" original="Include Child Organizations">Include Child Organizations</value>
+    <value column="Name" isTrl="Y" original="Include Child Organizations">Включая дочернии организации</value>
+    <value column="PrintName" isTrl="Y" original="Include Child Organizations">Включая дочернии организации</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6356,8 +6356,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1936" trl="N">
-    <value column="Name" isTrl="N" original="Expiration Date">Expiration Date</value>
-    <value column="PrintName" isTrl="N" original="Guarantee date">Guarantee date</value>
+    <value column="Name" isTrl="Y" original="Expiration Date">Срок годности</value>
+    <value column="PrintName" isTrl="Y" original="Guarantee date">Срок годности</value>
     <value column="Description" isTrl="N" original="The date upon which an item is guaranteed to be of good quality.">The date upon which an item is guaranteed to be of good quality.</value>
     <value column="Help" isTrl="N" original="Date when the normal guarantee or availability expires">Date when the normal guarantee or availability expires</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6869,8 +6869,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2011" trl="N">
-    <value column="Name" isTrl="N" original="Expiration Date">Expiration Date</value>
-    <value column="PrintName" isTrl="N" original="Guarantee Date">Guarantee Date</value>
+    <value column="Name" isTrl="Y" original="Expiration Date">Срок годности</value>
+    <value column="PrintName" isTrl="Y" original="Guarantee Date">Срок годности</value>
     <value column="Description" isTrl="N" original="The date upon which an item is guaranteed to be of good quality.">The date upon which an item is guaranteed to be of good quality.</value>
     <value column="Help" isTrl="N" original="For individual products, you can define a guarantee or expiry date">For individual products, you can define a guarantee or expiry date</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -6929,9 +6929,9 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="2019" trl="N">
-    <value column="Name" isTrl="Y" original="Attribute Set Value">Значение атрибутов</value>
-    <value column="PrintName" isTrl="Y" original="Attribute Set Instance">Значение атрибутов</value>
-    <value column="Description" isTrl="Y" original="An attribute associated with a product as part of an attribute set.">Атрибуты связанные с данным товаром как часть набора атрибутов.</value>
+    <value column="Name" isTrl="Y" original="Attribute Set Value">Значение характеристики</value>
+    <value column="PrintName" isTrl="Y" original="Attribute Set Instance">Значение характеристики</value>
+    <value column="Description" isTrl="Y" original="An attribute associated with a product as part of an attribute set.">Характеристики связанные с данным товаром как часть набора характеристик.</value>
     <value column="Help" isTrl="N" original="The values of the actual Product Attributes">The values of the actual Product Attributes</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -8713,8 +8713,8 @@ When this flag is enabled, this default behavior can be overridden allowing to r
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="314D557225BB42C2BE1F312928AB6FFA" trl="N">
-    <value column="Name" isTrl="N" original="Organization">Organization</value>
-    <value column="PrintName" isTrl="N" original="Organization">Organization</value>
+    <value column="Name" isTrl="Y" original="Organization">Организация</value>
+    <value column="PrintName" isTrl="Y" original="Organization">Организация</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -9325,8 +9325,8 @@ When this flag is enabled, this default behavior can be overridden allowing to r
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="3AC492F79F7E4D9E94311B00AE6BA15A" trl="N">
-    <value column="Name" isTrl="N" original="Show in Lines">Show in Lines</value>
-    <value column="PrintName" isTrl="N" original="Show in Lines">Show in Lines</value>
+    <value column="Name" isTrl="Y" original="Show in Lines">Отображать в строках</value>
+    <value column="PrintName" isTrl="Y" original="Show in Lines">Отображать в строках</value>
     <value column="Description" isTrl="N" original="This flag indicates whether the accounting dimension is displayed on document lines tab.">This flag indicates whether the accounting dimension is displayed on document lines tab.</value>
     <value column="Help" isTrl="N" original="This flag indicates whether the accounting dimension is displayed on document lines tab.">This flag indicates whether the accounting dimension is displayed on document lines tab.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -11019,8 +11019,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="5221067DBEDC52DEE040007F01001FE1" trl="N">
-    <value column="Name" isTrl="N" original="Role Organization Access">Role Organization Access</value>
-    <value column="PrintName" isTrl="N" original="Role Organization Access">Role Organization Access</value>
+    <value column="Name" isTrl="Y" original="Role Organization Access">Уровень доступа роли организации</value>
+    <value column="PrintName" isTrl="Y" original="Role Organization Access">Уровень доступа роли организации</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -12362,8 +12362,8 @@ Price Lists are used to determine the pricing, margin and cost of items purchase
   <row id="57C8E0FB1428DE03E040007F01001B6B" trl="N">
     <value column="Name" isTrl="Y" original="Module Translation">Перевод модуля</value>
     <value column="PrintName" isTrl="Y" original="Module Translation">Перевод модуля</value>
-    <value column="Description" isTrl="N" original="Translation for modules">Translation for modules</value>
-    <value column="Help" isTrl="N" original="Translation for modules">Translation for modules</value>
+    <value column="Description" isTrl="Y" original="Translation for modules">Перевод для модулей</value>
+    <value column="Help" isTrl="Y" original="Translation for modules">Перевод для модулей</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -14819,8 +14819,8 @@ Do not forget to generate Audit infrastructure after selecting or deselecting a 
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="7E320D4473FF44EFBA7A934F136B815D" trl="N">
-    <value column="Name" isTrl="N" original="Show in Header">Show in Header</value>
-    <value column="PrintName" isTrl="N" original="Show in Header">Show in Header</value>
+    <value column="Name" isTrl="Y" original="Show in Header">Отображать в заголовке</value>
+    <value column="PrintName" isTrl="Y" original="Show in Header">Отображать в заголовке</value>
     <value column="Description" isTrl="N" original="This flag indicates whether the accounting dimension is displayed on document header tab.">This flag indicates whether the accounting dimension is displayed on document header tab.</value>
     <value column="Help" isTrl="N" original="This flag indicates whether the accounting dimension is displayed on document header tab.">This flag indicates whether the accounting dimension is displayed on document header tab.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -23617,8 +23617,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="B48D79396B5E42EEA605AFC18B59F166" trl="N">
-    <value column="Name" isTrl="N" original="Organization Tree">Organization Tree</value>
-    <value column="PrintName" isTrl="N" original="Organization Tree">Organization Tree</value>
+    <value column="Name" isTrl="Y" original="Organization Tree">Структура организации</value>
+    <value column="PrintName" isTrl="Y" original="Organization Tree">Структура организации</value>
     <value column="Description" isTrl="N" original="Maintain the Level Information of the Organization in the Organization Tree Structure.">Maintain the Level Information of the Organization in the Organization Tree Structure.</value>
     <value column="Help" isTrl="N" original="Maintain the Level Information of the Organization in the Organization Tree Structure.">Maintain the Level Information of the Organization in the Organization Tree Structure.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -25879,8 +25879,8 @@ For details - http://wiki.openbravo.com/wiki/Role#Permissions_Inheritance</value
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="E7D1B98BBBDD491E9AF666B510D61188" trl="N">
-    <value column="Name" isTrl="N" original="Show in Lines">Show in Lines</value>
-    <value column="PrintName" isTrl="N" original="Show in Lines">Show in Lines</value>
+    <value column="Name" isTrl="Y" original="Show in Lines">Отображать в строках</value>
+    <value column="PrintName" isTrl="Y" original="Show in Lines">Отображать в строках</value>
     <value column="Description" isTrl="N" original="This flag indicates whether the accounting dimension is displayed on document lines tab.">This flag indicates whether the accounting dimension is displayed on document lines tab.</value>
     <value column="Help" isTrl="N" original="This flag indicates whether the accounting dimension is displayed on document lines tab.">This flag indicates whether the accounting dimension is displayed on document lines tab.</value>
     <value column="PO_Description" isTrl="N" original=""/>

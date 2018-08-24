@@ -115,7 +115,7 @@
 The view implementation defines the component which is capable of generating the client side javascript to be shown in the browser. A view implementation is a java class which extends the org.openbravo.client.kernel.BaseTemplateComponent class.</value>
   </row>
   <row id="FD25BB2F15814C7C9C5CDE550F50FBFF" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Edit your process definition translations for the predefined languages of your choice.">Edit your process definition translations for the predefined languages of your choice.</value>
     <value column="Filtername" isTrl="N" original=""/>

@@ -103,7 +103,7 @@
     <value column="Text" isTrl="N" original="Reply-to">Reply-to</value>
   </row>
   <row id="01CB59466E62429AA71D1FF4EE80FE8C" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Organization:</value>
+    <value column="Text" isTrl="Y" original="Organization:">Организация:</value>
   </row>
   <row id="023982B9A70C450DA2F5A9C8A8112574" trl="N">
     <value column="Text" isTrl="N" original="Activate the instance with the Activation File you downloaded and the System Key you received upon purchasing of an Openbravo Professional/Enterprise Edition.">Activate the instance with the Activation File you downloaded and the System Key you received upon purchasing of an Openbravo Professional/Enterprise Edition.</value>
@@ -1169,7 +1169,7 @@
     <value column="Text" isTrl="Y" original="General Ledger Report">Отчет по Главной книге</value>
   </row>
   <row id="2282CAB5174E4B7DB934DA3917C00607" trl="N">
-    <value column="Text" isTrl="N" original="Organization-">Organization-</value>
+    <value column="Text" isTrl="Y" original="Organization-">Организация-</value>
   </row>
   <row id="229BB844135E4C73818EDCADAB7CD8A7" trl="N">
     <value column="Text" isTrl="N" original="AUM">AUM</value>
@@ -1353,7 +1353,7 @@
     <value column="Text" isTrl="Y" original="Entry">Запись</value>
   </row>
   <row id="3669BDABC6664D779BB7FC32CF7C81B9" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Organization:</value>
+    <value column="Text" isTrl="Y" original="Organization:">Организация:</value>
   </row>
   <row id="369D4B81D7F64B2EA3EF1C09B2BC6170" trl="N">
     <value column="Text" isTrl="N" original="Product Group -">Product Group -</value>
@@ -1419,7 +1419,7 @@
     <value column="Text" isTrl="N" original="Report general ledger journal">Report general ledger journal</value>
   </row>
   <row id="3EF733B542E643C687677EC5718E2994" trl="N">
-    <value column="Text" isTrl="N" original="Learn more about Openbravo Professional/Enterprise Edition subscription options">Learn more about Openbravo Professional/Enterprise Edition subscription options</value>
+    <value column="Text" isTrl="N" original="Learn more about Openbravo Professional/Enterprise Edition subscription options">Узнать больше о версии подписки Openbravo Professional/Enterprise</value>
   </row>
   <row id="3F1024E0A08D47CDA648DAE42FC3DBE3" trl="N">
     <value column="Text" isTrl="Y" original="Financial account">Финансовый счёт</value>
@@ -1905,7 +1905,7 @@
     <value column="Text" isTrl="Y" original="Field">Поле</value>
   </row>
   <row id="5BBA1AA49EF94B6BACAD7CD1CD3CC958" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Organization:</value>
+    <value column="Text" isTrl="Y" original="Organization:">Организация:</value>
   </row>
   <row id="5BBACA9971B34BE5977DE7D616E3FF61" trl="N">
     <value column="Text" isTrl="N" original="Pro. ref">Pro. ref</value>
@@ -2109,7 +2109,7 @@
     <value column="Text" isTrl="Y" original="Generated on">Создано</value>
   </row>
   <row id="5E5C79B0AAB043D7AF14F6FAF4955322" trl="N">
-    <value column="Text" isTrl="N" original="Organization-">Organization-</value>
+    <value column="Text" isTrl="Y" original="Organization-">Организация-</value>
   </row>
   <row id="5E9E96C3E6F44EFE83E4CBD4DBF48D4E" trl="N">
     <value column="Text" isTrl="N" original="Locator multiple selector">Locator multiple selector</value>
@@ -2127,7 +2127,7 @@
     <value column="Text" isTrl="Y" original="Payment Method">Способ оплаты</value>
   </row>
   <row id="5FBA0F81C9EA4C9189BBC98495F353E6" trl="N">
-    <value column="Text" isTrl="N" original="Organization-">Organization-</value>
+    <value column="Text" isTrl="Y" original="Organization-">Организация-</value>
   </row>
   <row id="60131D0676FF409BAD9EF1084CA6A6A3" trl="N">
     <value column="Text" isTrl="Y" original="VOIDED">ОТМЕНЕНО</value>
@@ -2187,10 +2187,10 @@
     <value column="Text" isTrl="N" original="Currently this module cannot be updated because maximum it is published with is ">Currently this module cannot be updated because maximum it is published with is </value>
   </row>
   <row id="63D0C87E44084E14AF2B1BBB3F953EB7" trl="N">
-    <value column="Text" isTrl="N" original="General Ledger:">General Ledger:</value>
+    <value column="Text" isTrl="Y" original="General Ledger:">Главная Книга:</value>
   </row>
   <row id="640819A12AC04504A57377D099E34321" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Organization:</value>
+    <value column="Text" isTrl="Y" original="Organization:">Организация:</value>
   </row>
   <row id="640C638DCC7942D5858629EC64595C7A" trl="N">
     <value column="Text" isTrl="N" original="Outsource">Outsource</value>
@@ -2217,22 +2217,22 @@
     <value column="Text" isTrl="Y" original="Customers">Клиенты</value>
   </row>
   <row id="65957141B42A4BEFB91D847FB758B6F9" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Organization:</value>
+    <value column="Text" isTrl="Y" original="Organization:">Организация:</value>
   </row>
   <row id="65F148CC2FF246018D6D7C39F19D5EEC" trl="N">
     <value column="Text" isTrl="N" original="identifier">identifier</value>
   </row>
   <row id="669BA2A9EE554455B944F6594CBE1FDA" trl="N">
-    <value column="Text" isTrl="N" original="General Ledger:">General Ledger:</value>
+    <value column="Text" isTrl="Y" original="General Ledger:">Главная Книга:</value>
   </row>
   <row id="66D7C4700AE2495AB0922E85EA3C5CF0" trl="N">
-    <value column="Text" isTrl="N" original="Confirm Password">Confirm Password</value>
+    <value column="Text" isTrl="Y" original="Confirm Password">Подтвердить пароль</value>
   </row>
   <row id="686BBCEA8DF24912B31BEC13DCE4117E" trl="N">
     <value column="Text" isTrl="N" original="Purchase Order Report">Purchase Order Report</value>
   </row>
   <row id="69B61F0276871955E040007F01017873" trl="N">
-    <value column="Text" isTrl="Y" original="Group By Bank Account">Групировать по банковскому счёту</value>
+    <value column="Text" isTrl="Y" original="Group By Bank Account">Группировать по банковскому счёту</value>
   </row>
   <row id="69B61F0276881955E040007F01017873" trl="N">
     <value column="Text" isTrl="Y" original="Bank Acc.">Банковский счёт</value>
@@ -2475,7 +2475,7 @@
     <value column="Text" isTrl="Y" original="License Type:">Тип лицензии:</value>
   </row>
   <row id="6E59421C5B41AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Learn more about subscription types">Learn more about subscription types</value>
+    <value column="Text" isTrl="Y" original="Learn more about subscription types">Узнать больше о типе подписки</value>
   </row>
   <row id="6E59421C5B42AB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="N" original="This product has been created by Openbravo S.L.U. and is distributed under the ">This product has been created by Openbravo S.L.U. and is distributed under the </value>
@@ -5284,10 +5284,10 @@
     <value column="Text" isTrl="N" original="Wgt. Ref.">Wgt. Ref.</value>
   </row>
   <row id="8A09B93469FD41CC8787C641B355A0C2" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Organization:</value>
+    <value column="Text" isTrl="Y" original="Organization:">Организация:</value>
   </row>
   <row id="8A25CC8C89CE491C9EC0F5D96C9B7AB4" trl="N">
-    <value column="Text" isTrl="N" original="Upgrade">Upgrade</value>
+    <value column="Text" isTrl="Y" original="Upgrade">Обновление</value>
   </row>
   <row id="8A67F1404BE465AAE040007F01015A1A" trl="N">
     <value column="Text" isTrl="Y" original="Settings">Настройки</value>
@@ -5302,13 +5302,13 @@
     <value column="Text" isTrl="N" original="- Maturity Level: ">- Maturity Level: </value>
   </row>
   <row id="8A67F1404BEC65AAE040007F01015A1A" trl="N">
-    <value column="Text" isTrl="N" original="Learn more">Learn more</value>
+    <value column="Text" isTrl="Y" original="Learn more">Узнать больше</value>
   </row>
   <row id="8A67F1404BEE65AAE040007F01015A1A" trl="N">
     <value column="Text" isTrl="N" original="- Maturity Level:">- Maturity Level:</value>
   </row>
   <row id="8A67F1404BF465AAE040007F01015A1A" trl="N">
-    <value column="Text" isTrl="N" original="Do you want to continue?">Do you want to continue?</value>
+    <value column="Text" isTrl="Y" original="Do you want to continue?">Вы хотите продолжить?</value>
   </row>
   <row id="8A67F1404BF665AAE040007F01015A1A" trl="N">
     <value column="Text" isTrl="Y" original="Module Management">Настройка модуля</value>
@@ -5449,10 +5449,10 @@
     <value column="Text" isTrl="N" original="Acquire a license for the following modules:">Acquire a license for the following modules:</value>
   </row>
   <row id="8DB301CB8DDF8C89E040007F010121DB" trl="N">
-    <value column="Text" isTrl="N" original="Learn more...">Learn more...</value>
+    <value column="Text" isTrl="Y" original="Learn more...">Узнать больше...</value>
   </row>
   <row id="8DB59121CA327211E040007F01013D10" trl="N">
-    <value column="Text" isTrl="N" original="Minimum version of Core required: ">Minimum version of Core required: </value>
+    <value column="Text" isTrl="Y" original="Minimum version of Core required: ">Минимальная требуемая версия ядра системы: </value>
   </row>
   <row id="8DB59121CA347211E040007F01013D10" trl="N">
     <value column="Text" isTrl="N" original="x">x</value>
@@ -5467,22 +5467,22 @@
     <value column="Text" isTrl="Y" original="This is a Sales order">Это ордер клиента</value>
   </row>
   <row id="8F7E41648CA64CC09162B201696D400A" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Organization:</value>
+    <value column="Text" isTrl="Y" original="Organization:">Организация:</value>
   </row>
   <row id="9013518B7A4F43C89A3D1B92F91B7344" trl="N">
-    <value column="Text" isTrl="N" original="Search Key">Search Key</value>
+    <value column="Text" isTrl="Y" original="Search Key">Код поиска</value>
   </row>
   <row id="90333AD8F13346419056F038E249A6C4" trl="N">
     <value column="Text" isTrl="Y" original="Date To">Дата по</value>
   </row>
   <row id="907ABC375C2D4A2BB73DD09945CD0FAD" trl="N">
-    <value column="Text" isTrl="N" original="Product Search Key">Product Search Key</value>
+    <value column="Text" isTrl="Y" original="Product Search Key">Код поиска товара</value>
   </row>
   <row id="907D5A8C35CA4AE9806BA4FAB890A024" trl="N">
     <value column="Text" isTrl="N" original="Generated on">Generated on</value>
   </row>
   <row id="916CE4455BAA4670ACD38B9E4FF9B974" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Organization:</value>
+    <value column="Text" isTrl="Y" original="Organization:">Организация:</value>
   </row>
   <row id="91C8B575671B7107E040007F0100283A" trl="N">
     <value column="Text" isTrl="Y" original="Instance Purpose Configuration">Настройка цели экземпляра</value>
@@ -5806,7 +5806,7 @@
     <value column="Text" isTrl="Y" original="Storage Bin">Место хранения</value>
   </row>
   <row id="AA3B5B332BA84FA0B4FBD5DD1E83A08C" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Organization:</value>
+    <value column="Text" isTrl="Y" original="Organization:">Организация:</value>
   </row>
   <row id="AA4392E426734B488A1ED55D579DDFE3" trl="N">
     <value column="Text" isTrl="Y" original="Invoice No">Cчёт-фактура №</value>
@@ -5815,13 +5815,13 @@
     <value column="Text" isTrl="N" original="Total stock value">Total stock value</value>
   </row>
   <row id="AA88CC595BDB41B3BCD1FAAE7D781F83" trl="N">
-    <value column="Text" isTrl="N" original="Secondary Filters:">Secondary Filters:</value>
+    <value column="Text" isTrl="Y" original="Secondary Filters:">Дополнительные фильтры:</value>
   </row>
   <row id="AB5665550CB843EEA35452904422CA6E" trl="N">
-    <value column="Text" isTrl="N" original="Secondary Filters:">Secondary Filters:</value>
+    <value column="Text" isTrl="Y" original="Secondary Filters:">Дополнительные фильтры:</value>
   </row>
   <row id="AC50FE75FF6A4341A4B92E3AA4812C28" trl="N">
-    <value column="Text" isTrl="N" original="Organization-">Organization-</value>
+    <value column="Text" isTrl="Y" original="Organization-">Организация-</value>
   </row>
   <row id="AC56F925B6414A96847C1612262794D0" trl="N">
     <value column="Text" isTrl="N" original="Modification time to">Modification time to</value>
@@ -5957,19 +5957,19 @@
     <value column="Text" isTrl="N" original="Initial Balance">Initial Balance</value>
   </row>
   <row id="B452E079E30940659696C7AAAAF9FA25" trl="N">
-    <value column="Text" isTrl="N" original="Organization:">Organization:</value>
+    <value column="Text" isTrl="Y" original="Organization:">Организация:</value>
   </row>
   <row id="B46CDCFF428E44CB900A3F65F8C37ACD" trl="N">
     <value column="Text" isTrl="N" original=" The following modules do not declare in its dependencies compatibility with the new major release. "> The following modules do not declare in its dependencies compatibility with the new major release. </value>
   </row>
   <row id="B4E02FBD9AAA4720805BC717C79B43F4" trl="N">
-    <value column="Text" isTrl="N" original="General Ledger:">General Ledger:</value>
+    <value column="Text" isTrl="Y" original="General Ledger:">Главная Книга:</value>
   </row>
   <row id="B54A880502BC417DB0D3C06B4420990E" trl="N">
     <value column="Text" isTrl="N" original="Net Due">Net Due</value>
   </row>
   <row id="B595CABC32F7463C8E1007FE1407F2B6" trl="N">
-    <value column="Text" isTrl="N" original="Excel Format">Excel Format</value>
+    <value column="Text" isTrl="Y" original="Excel Format">Формат Excel</value>
   </row>
   <row id="B59A7DD9F2704360BB015D6DC1FC97A2" trl="N">
     <value column="Text" isTrl="Y" original="Order Nº">Ордер №</value>
@@ -6024,7 +6024,7 @@
     <value column="Text" isTrl="N" original="Current Balance">Current Balance</value>
   </row>
   <row id="C022C1FBF16D4220875BEA8B25F064A5" trl="N">
-    <value column="Text" isTrl="N" original="Organization-">Organization-</value>
+    <value column="Text" isTrl="Y" original="Organization-">Организация-</value>
   </row>
   <row id="C0CADA462DC64FBD83F11FCFB658D412" trl="N">
     <value column="Text" isTrl="N" original="Grid Configuration">Grid Configuration</value>
@@ -6381,7 +6381,7 @@
     <value column="Text" isTrl="N" original="Include Zero Figures">Include Zero Figures</value>
   </row>
   <row id="EC40E4D9DE0541EAA8ABD0698BF5C115" trl="N">
-    <value column="Text" isTrl="N" original="Learn more how to fix it">Learn more how to fix it</value>
+    <value column="Text" isTrl="N" original="Learn more how to fix it">Узнать больше как исправить</value>
   </row>
   <row id="EC4EE891C71A4F89BD01C320AE77A707" trl="N">
     <value column="Text" isTrl="N" original="Invoiced">Invoiced</value>

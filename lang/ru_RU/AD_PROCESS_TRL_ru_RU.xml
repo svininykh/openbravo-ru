@@ -1270,8 +1270,8 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Orders Awaiting Invoice Report JR">Orders Awaiting Invoice Report JR</value>
   </row>
   <row id="800179" trl="N">
-    <value column="Name" isTrl="N" original="Expiration Date Report">Expiration Date Report</value>
-    <value column="Description" isTrl="N" original="Expiration Date Report">Expiration Date Report</value>
+    <value column="Name" isTrl="Y" original="Expiration Date Report">Отчет по сроку годности</value>
+    <value column="Description" isTrl="Y" original="Expiration Date Report">Отчет по сроку годности</value>
     <value column="Help" isTrl="N" original="Expiration Date Report JR">Expiration Date Report JR</value>
   </row>
   <row id="800180" trl="N">

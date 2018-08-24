@@ -1315,7 +1315,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="The user can define if a product can be related to a product of 'Service' type by creating a relation between an Order Line of the Service product and another Sales Order Line of the product included/excluded.">The user can define if a product can be related to a product of 'Service' type by creating a relation between an Order Line of the Service product and another Sales Order Line of the product included/excluded.</value>
   </row>
   <row id="300E688580EE4650A26E914CAF4A3F1D" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Discounts and Promotions Translations">Discounts and Promotions Translations</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1490,7 +1490,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Add cash journal lines. Each line represents one particular cash transaction.">Add cash journal lines. Each line represents one particular cash transaction.</value>
   </row>
   <row id="33C66CD397294F6382B9AE616C92C716" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Discount Types Translations">Discount Types Translations</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -2376,7 +2376,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="6B0F3B7BF32B46D5AAAFED2F9D20C046" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
@@ -4077,7 +4077,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="A93A7E59D2C4432483FCE282BA219CE8" trl="N">
-    <value column="Name" isTrl="N" original="Translation">Translation</value>
+    <value column="Name" isTrl="Y" original="Translation">Перевод</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Inventory Status definitions translations">Inventory Status definitions translations</value>
     <value column="Filtername" isTrl="N" original=""/>
