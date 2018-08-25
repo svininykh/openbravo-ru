@@ -1668,7 +1668,7 @@
     <value column="Text" isTrl="N" original="Document Date">Document Date</value>
   </row>
   <row id="569E9CF742C944AC877CC0488A0D2DB6" trl="N">
-    <value column="Text" isTrl="N" original="Payments out until">Payments out until</value>
+    <value column="Text" isTrl="Y" original="Payments out until">Выплатить до</value>
   </row>
   <row id="5708B2818D3B40DFACC92839DE74CD00" trl="N">
     <value column="Text" isTrl="N" original="&amp;nbsp">&amp;nbsp</value>
@@ -2382,13 +2382,13 @@
     <value column="Text" isTrl="N" original="Restart servlet container now  ">Restart servlet container now  </value>
   </row>
   <row id="6A9170A3C173437AAC3616D042A24B81" trl="N">
-    <value column="Text" isTrl="N" original="PERCENTAGE">PERCENTAGE</value>
+    <value column="Text" isTrl="Y" original="PERCENTAGE">ПРОЦЕНТ</value>
   </row>
   <row id="6AA980867E27428AB6ED0C47F4437B5D" trl="N">
     <value column="Text" isTrl="Y" original="Storage Bin">Место хранения</value>
   </row>
   <row id="6B6C30BED8E34F9F883D3AEBFB1D86E8" trl="N">
-    <value column="Text" isTrl="N" original="Openbravo documentation">Openbravo documentation</value>
+    <value column="Text" isTrl="Y" original="Openbravo documentation">Документация Openbravo</value>
   </row>
   <row id="6B7070215DD042ECA16DDBF56573192E" trl="N">
     <value column="Text" isTrl="N" original="DataGrid">DataGrid</value>
@@ -2403,10 +2403,10 @@
     <value column="Text" isTrl="Y" original="Amount Greater Than">Сумма больше чем</value>
   </row>
   <row id="6C08A06267C74584B1C368D6F765D8C5" trl="N">
-    <value column="Text" isTrl="N" original="Quantity in Alternative UOM">Quantity in Alternative UOM</value>
+    <value column="Text" isTrl="Y" original="Quantity in Alternative UOM">Кол-во в альтернативных ед.изм.</value>
   </row>
   <row id="6C1F27D575C64926BBEDC6341FAB9D06" trl="N">
-    <value column="Text" isTrl="N" original="* &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;The value entered is not valid.">* 															The value entered is not valid.</value>
+    <value column="Text" isTrl="N" original="* &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;The value entered is not valid.">* &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;Введённо неверное значение.</value>
   </row>
   <row id="6C33A3117F6947CB8BA439FB694A0905" trl="N">
     <value column="Text" isTrl="Y" original="Advanced Filters">Дополнительные фильтры</value>
@@ -2442,19 +2442,19 @@
     <value column="Text" isTrl="Y" original="Install File">Установить файл</value>
   </row>
   <row id="6E59421C5B34AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Activate from Activation File">Activate from Activation File</value>
+    <value column="Text" isTrl="Y" original="Activate from Activation File">Активировать файлом активации</value>
   </row>
   <row id="6E59421C5B35AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Refresh with Activation File">Refresh with Activation File</value>
+    <value column="Text" isTrl="Y" original="Refresh with Activation File">Обновить файлом активации</value>
   </row>
   <row id="6E59421C5B36AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Renew with Activation File">Renew with Activation File</value>
+    <value column="Text" isTrl="Y" original="Renew with Activation File">Возобновить файлом активации</value>
   </row>
   <row id="6E59421C5B38AB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="N" original="Paste the System Key in the area below, declare what is the main purpose of the Instance you want to activate and upload the Activation File.">Paste the System Key in the area below, declare what is the main purpose of the Instance you want to activate and upload the Activation File.</value>
   </row>
   <row id="6E59421C5B39AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Activation File">Activation File</value>
+    <value column="Text" isTrl="Y" original="Activation File">Файл активации</value>
   </row>
   <row id="6E59421C5B3BAB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
@@ -2466,7 +2466,7 @@
     <value column="Text" isTrl="Y" original="Refresh Instance">Обновить экземпляр</value>
   </row>
   <row id="6E59421C5B3EAB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Renew Activation">Renew Activation</value>
+    <value column="Text" isTrl="Y" original="Renew Activation">Возобновить активацию</value>
   </row>
   <row id="6E59421C5B3FAB25E040007F01016FD1" trl="Y">
     <value column="Text" isTrl="Y" original="Instance Purpose:">Цели экземпляра Openbravo:</value>
@@ -2490,16 +2490,16 @@
     <value column="Text" isTrl="Y" original="Continue">Продолжить</value>
   </row>
   <row id="6E59421C5B47AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Deactivate Instance">Deactivate Instance</value>
+    <value column="Text" isTrl="Y" original="Deactivate Instance">Деактивировать экземпляр</value>
   </row>
   <row id="6E59421C5B48AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Instance Management">Instance Management</value>
+    <value column="Text" isTrl="Y" original="Instance Management">Управление экземпляром</value>
   </row>
   <row id="6E59421C5B49AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Instance Activation">Instance Activation</value>
+    <value column="Text" isTrl="Y" original="Instance Activation">Активация экземпляра</value>
   </row>
   <row id="6E59421C5B4AAB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Subscription Status">Subscription Status</value>
+    <value column="Text" isTrl="Y" original="Subscription Status">Статус подписки</value>
   </row>
   <row id="6E59421C5B4BAB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="Y" original="Active">Активно</value>
@@ -2514,10 +2514,10 @@
     <value column="Text" isTrl="N" original=" expires."> expires.</value>
   </row>
   <row id="6E59421C5B50AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Expired">Expired</value>
+    <value column="Text" isTrl="Y" original="Expired">Просрочено</value>
   </row>
   <row id="6E59421C5B52AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Inactive">Inactive</value>
+    <value column="Text" isTrl="Y" original="Inactive">Неактивно</value>
   </row>
   <row id="6E59421C5B56AB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="N" original="Contact an ">Contact an </value>
@@ -2529,10 +2529,10 @@
     <value column="Text" isTrl="N" original="  to purchase a subscription.">  to purchase a subscription.</value>
   </row>
   <row id="6E59421C5B59AB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Instance Details">Instance Details</value>
+    <value column="Text" isTrl="Y" original="Instance Details">Детали экземпляры</value>
   </row>
   <row id="6E59421C5B5AAB25E040007F01016FD1" trl="N">
-    <value column="Text" isTrl="N" original="Activation">Activation</value>
+    <value column="Text" isTrl="Y" original="Activation">Активировано</value>
   </row>
   <row id="6E59421C5B5CAB25E040007F01016FD1" trl="N">
     <value column="Text" isTrl="N" original="You will receive a System Key when you purchase a subscription.">You will receive a System Key when you purchase a subscription.</value>
@@ -2628,7 +2628,7 @@
     <value column="Text" isTrl="N" original="User2">User2</value>
   </row>
   <row id="722A452B40AD4A5ABEFBD0275FD8E81F" trl="N">
-    <value column="Text" isTrl="N" original="Percentage">Percentage</value>
+    <value column="Text" isTrl="Y" original="Percentage">Процент</value>
   </row>
   <row id="74F9FE001D3644CD918CC41E8218A508" trl="N">
     <value column="Text" isTrl="N" original="\n">\n</value>
@@ -3136,7 +3136,7 @@
     <value column="Text" isTrl="Y" original="GENERAL DATA">ОСНОВНЫЕ ДАННЫЕ</value>
   </row>
   <row id="803062" trl="N">
-    <value column="Text" isTrl="N" original="TIN/ID">TIN/ID</value>
+    <value column="Text" isTrl="Y" original="TIN/ID">Код</value>
   </row>
   <row id="803064" trl="N">
     <value column="Text" isTrl="Y" original="Registration date">Дата регистрации</value>
@@ -3670,7 +3670,7 @@
     <value column="Text" isTrl="N" original="Fact type">Fact type</value>
   </row>
   <row id="806450" trl="N">
-    <value column="Text" isTrl="N" original="Terms">Terms</value>
+    <value column="Text" isTrl="Y" original="Terms">Условия</value>
   </row>
   <row id="806452" trl="N">
     <value column="Text" isTrl="N" original="A. Account">A. Account</value>
@@ -4024,10 +4024,10 @@
     <value column="Text" isTrl="N" original="Edit PCC Values">Edit PCC Values</value>
   </row>
   <row id="807132" trl="N">
-    <value column="Text" isTrl="N" original="Email">Email</value>
+    <value column="Text" isTrl="Y" original="Email">Эл.почта</value>
   </row>
   <row id="807133" trl="N">
-    <value column="Text" isTrl="N" original="Employee">Employee</value>
+    <value column="Text" isTrl="Y" original="Employee">Сотрудник</value>
   </row>
   <row id="807134" trl="N">
     <value column="Text" isTrl="N" original="End From Date">End From Date</value>
@@ -4225,7 +4225,7 @@
     <value column="Text" isTrl="N" original="Other units">Other units</value>
   </row>
   <row id="807229" trl="N">
-    <value column="Text" isTrl="N" original="Others">Others</value>
+    <value column="Text" isTrl="Y" original="Others">Прочие</value>
   </row>
   <row id="807231" trl="N">
     <value column="Text" isTrl="N" original="Palets">Palets</value>
@@ -4915,13 +4915,13 @@
     <value column="Text" isTrl="N" original="Quantity Ref..">Quantity Ref..</value>
   </row>
   <row id="809742" trl="N">
-    <value column="Text" isTrl="N" original="Business Partner Card">Business Partner Card</value>
+    <value column="Text" isTrl="Y" original="Business Partner Card">Профиль контрагента</value>
   </row>
   <row id="809744" trl="N">
-    <value column="Text" isTrl="N" original="General Information">General Information</value>
+    <value column="Text" isTrl="Y" original="General Information">Основная информация</value>
   </row>
   <row id="809745" trl="N">
-    <value column="Text" isTrl="N" original="Customer Analysis">Customer Analysis</value>
+    <value column="Text" isTrl="Y" original="Customer Analysis">Аналитика клиента</value>
   </row>
   <row id="809746" trl="N">
     <value column="Text" isTrl="Y" original="Contacts">Контакты</value>
@@ -5746,10 +5746,10 @@
     <value column="Text" isTrl="N" original="You canceled your Professional/Enterprise Edition subscription and you are no longer entitled to update or install commercial modules. You cannot update or install the following module(s) which are released under a commercial license: ">You canceled your Professional/Enterprise Edition subscription and you are no longer entitled to update or install commercial modules. You cannot update or install the following module(s) which are released under a commercial license: </value>
   </row>
   <row id="A4EDB3AA68A14937994C020502FAC8D1" trl="N">
-    <value column="Text" isTrl="N" original="Shelves(Y)">Shelves(Y)</value>
+    <value column="Text" isTrl="Y" original="Shelves(Y)">Полки(Y)</value>
   </row>
   <row id="A52A7AE613C04390AB6699C2B41F01C6" trl="N">
-    <value column="Text" isTrl="N" original="PERCENTAGE">PERCENTAGE</value>
+    <value column="Text" isTrl="Y" original="PERCENTAGE">ПРОЦЕНТ</value>
   </row>
   <row id="A58343BC5D374F80A30BE6C28F656E8A" trl="N">
     <value column="Text" isTrl="N" original="Qty in AUM">Qty in AUM</value>
@@ -6222,7 +6222,7 @@
     <value column="Text" isTrl="N" original="In order to complete installation/update of the modules, the system requires to be rebuilt from the command line.">In order to complete installation/update of the modules, the system requires to be rebuilt from the command line.</value>
   </row>
   <row id="DB73250081B44C2D9144FBCC9623E52C" trl="N">
-    <value column="Text" isTrl="N" original="Percentage">Percentage</value>
+    <value column="Text" isTrl="Y" original="Percentage">Процент</value>
   </row>
   <row id="DBAD2FD2624549FB94F0B9EDC8B7BE3D" trl="N">
     <value column="Text" isTrl="Y" original="Business Partner Category">Категория контрагента</value>
@@ -6249,7 +6249,7 @@
     <value column="Text" isTrl="N" original="Create Physical Inventory">Create Physical Inventory</value>
   </row>
   <row id="DDDD6E56D1DD444194304A227AB80DD5" trl="N">
-    <value column="Text" isTrl="N" original="PERCENTAGE">PERCENTAGE</value>
+    <value column="Text" isTrl="Y" original="PERCENTAGE">ПРОЦЕНТ</value>
   </row>
   <row id="DE7AD47F6FD743DAA01B47B462B07167" trl="N">
     <value column="Text" isTrl="N" original="Help for ">Help for </value>
@@ -6258,16 +6258,16 @@
     <value column="Text" isTrl="Y" original="Invoice Date">Дата выставления</value>
   </row>
   <row id="DF2679C863284BB29DBBE25B1049F9FF" trl="N">
-    <value column="Text" isTrl="N" original="General Ledger:">General Ledger:</value>
+    <value column="Text" isTrl="Y" original="General Ledger:">Главная Книга:</value>
   </row>
   <row id="DF842A6F5AD14FD29B30E9EC0365D1E9" trl="N">
     <value column="Text" isTrl="Y" original="BOM PRODUCTION REPORT">ОТЧЕТ ПРОИЗВОДСТВА ПО СПЕЦИФИКАЦИИ</value>
   </row>
   <row id="E018D4B8AFA949BEB3C5B6483868DBBF" trl="N">
-    <value column="Text" isTrl="N" original="PAYMENT">PAYMENT</value>
+    <value column="Text" isTrl="Y" original="PAYMENT">ПЛАТЁЖ</value>
   </row>
   <row id="E031167259DB42B5896369572CD38A14" trl="N">
-    <value column="Text" isTrl="N" original="Planned Date:">Planned Date:</value>
+    <value column="Text" isTrl="Y" original="Planned Date:">Планируемая дата:</value>
   </row>
   <row id="E0CBE4F115604DAB9E4F285D17E27057" trl="N">
     <value column="Text" isTrl="N" original=" You are about to install module(s) with maturity levels lower than General Availability."> You are about to install module(s) with maturity levels lower than General Availability.</value>
@@ -6279,7 +6279,7 @@
     <value column="Text" isTrl="N" original="Generated on">Generated on</value>
   </row>
   <row id="E228440A042711DE90B03B18C9F4D4A2" trl="N">
-    <value column="Text" isTrl="Y" original="Create lines from">Стр-ки на основании</value>
+    <value column="Text" isTrl="Y" original="Create lines from">Строки на основании</value>
   </row>
   <row id="E27EA944ED494BB19F4CCAEBC0937E42" trl="N">
     <value column="Text" isTrl="N" original="As Of Date:">As Of Date:</value>

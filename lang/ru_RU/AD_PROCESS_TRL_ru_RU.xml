@@ -947,7 +947,7 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Help" isTrl="N" original="Valued Stock Report Legacy shows the stock for a particular warehouse and the value of that stock.">Valued Stock Report Legacy shows the stock for a particular warehouse and the value of that stock.</value>
   </row>
   <row id="800089" trl="N">
-    <value column="Name" isTrl="N" original="Grant Access">Grant Access</value>
+    <value column="Name" isTrl="Y" original="Grant Access">Установить уровень доступа</value>
     <value column="Description" isTrl="N" original="Inserts access to module and window, process, task, workflow and forms.">Inserts access to module and window, process, task, workflow and forms.</value>
     <value column="Help" isTrl="N" original="Inserts access to module and window, process, task, workflow and forms.">Inserts access to module and window, process, task, workflow and forms.</value>
   </row>

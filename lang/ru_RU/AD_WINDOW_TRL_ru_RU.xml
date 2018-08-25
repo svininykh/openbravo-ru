@@ -1031,7 +1031,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.">Accounting templates to overwrite default accounting behavior. Each template is related to an specific table.</value>
   </row>
   <row id="B2C0C2AE3B7B49B1A68F864FA8FC603C" trl="N">
-    <value column="Name" isTrl="N" original="Service Price Rule">Service Price Rule</value>
+    <value column="Name" isTrl="Y" original="Service Price Rule">Расчет стоимости сервиса</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

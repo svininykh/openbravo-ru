@@ -2878,8 +2878,8 @@ Advanced features are only granted to the automatic roles defined as advanced.</
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="117A16ACB7314B9C9D94654202FEF1CC" trl="N">
-    <value column="Name" isTrl="N" original="Rule Type">Rule Type</value>
-    <value column="PrintName" isTrl="N" original="Rule Type">Rule Type</value>
+    <value column="Name" isTrl="Y" original="Rule Type">Тип расчета</value>
+    <value column="PrintName" isTrl="Y" original="Rule Type">Тип расчета</value>
     <value column="Description" isTrl="N" original="Select Percentage to get price based on a percentage of the related product price or ranges to set different rules depending on the amount of the related product">Select Percentage to get price based on a percentage of the related product price or ranges to set different rules depending on the amount of the related product</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -13986,8 +13986,8 @@ The distribution algorithm will be driven by this priority. The pending payments
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6C0C6F7437984998BB5ABA0CA84383F1" trl="N">
-    <value column="Name" isTrl="N" original="Service Price Rule">Service Price Rule</value>
-    <value column="PrintName" isTrl="N" original="Service Price Rule">Service Price Rule</value>
+    <value column="Name" isTrl="Y" original="Service Price Rule">Расчет стоимости сервиса</value>
+    <value column="PrintName" isTrl="Y" original="Service Price Rule">Расчет стоимости сервиса</value>
     <value column="Description" isTrl="N" original="Rules to establish service price.">Rules to establish service price.</value>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -22202,14 +22202,14 @@ There is an example image on the Login folder of the Default skin.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="92B735EF8049459BB5DDF6E17174EC6E" trl="N">
-    <value column="Name" isTrl="N" original="Percentage">Percentage</value>
-    <value column="PrintName" isTrl="N" original="Percentage">Percentage</value>
+    <value column="Name" isTrl="Y" original="Percentage">Процент</value>
+    <value column="PrintName" isTrl="Y" original="Percentage">Процент</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
-    <value column="PO_Name" isTrl="N" original="Percentage">Percentage</value>
-    <value column="PO_PrintName" isTrl="N" original="Percentage">Percentage</value>
+    <value column="PO_Name" isTrl="Y" original="Percentage">Процент</value>
+    <value column="PO_PrintName" isTrl="Y" original="Percentage">Процент</value>
   </row>
   <row id="92F58598478D4D2E91B0D45471EB3A59" trl="N">
     <value column="Name" isTrl="N" original="Number Of Days Overdue: Group Two">Number Of Days Overdue: Group Two</value>
@@ -23167,8 +23167,8 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="AD72BF9B66D34289B0833273976595CA" trl="N">
-    <value column="Name" isTrl="N" original="Service Price Rule Range">Service Price Rule Range</value>
-    <value column="PrintName" isTrl="N" original="Service Price Rule Range">Service Price Rule Range</value>
+    <value column="Name" isTrl="Y" original="Service Price Rule Range">Диапазон расчета стоимости сервиса</value>
+    <value column="PrintName" isTrl="Y" original="Service Price Rule Range">>Диапазон расчета стоимости сервиса</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -26165,8 +26165,8 @@ This field is populated in case the used price list includes taxes.</value>
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="F26D3514DBA84CF2897C720093BF6BEC" trl="N">
-    <value column="Name" isTrl="N" original="Birth Place">Birth Place</value>
-    <value column="PrintName" isTrl="N" original="Birth Place">Birth Place</value>
+    <value column="Name" isTrl="Y" original="Birth Place">Место рождения</value>
+    <value column="PrintName" isTrl="Y" original="Birth Place">Место рождения</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

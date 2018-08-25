@@ -1539,14 +1539,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Edit the selected commission amount.">Edit the selected commission amount.</value>
   </row>
   <row id="3595EBAC842D45FC95B96135C7799F0A" trl="N">
-    <value column="Name" isTrl="N" original="Price Rule Version">Price Rule Version</value>
+    <value column="Name" isTrl="Y" original="Price Rule Version">Версия расчета стоимости</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original=""/>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="361A63248C2942868C6248F8613130C8" trl="N">
-    <value column="Name" isTrl="N" original="Service Price Rule">Service Price Rule</value>
+    <value column="Name" isTrl="Y" original="Service Price Rule">Расчет стоимости сервиса</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define rules to establish service price">Define rules to establish service price</value>
     <value column="Filtername" isTrl="N" original=""/>
