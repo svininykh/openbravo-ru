@@ -1301,7 +1301,7 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Sales dimensional analyze JR">Sales dimensional analyze JR</value>
   </row>
   <row id="800185" trl="N">
-    <value column="Name" isTrl="N" original="Stock Report">Stock Report</value>
+    <value column="Name" isTrl="Y" original="Stock Report">Отчет Остатки товара</value>
     <value column="Description" isTrl="N" original="Customer Stock Report">Customer Stock Report</value>
     <value column="Help" isTrl="N" original="Stock Report shows a stock level of all products (that have quantity on hand different from zero) and their location (warehouse and storage bin) grouped by product category. For each row product, quantity, unit, attribute, shelves, column, height and warehouse">Stock Report shows a stock level of all products (that have quantity on hand different from zero) and their location (warehouse and storage bin) grouped by product category. For each row product, quantity, unit, attribute, shelves, column, height and warehouse</value>
   </row>
