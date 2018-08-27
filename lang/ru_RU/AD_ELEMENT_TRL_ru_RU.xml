@@ -6718,8 +6718,8 @@ The fact of using a given product type does not mean a different accounting. All
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="1E5CB7185CF94CC595BDB2A1C2129C75" trl="N">
-    <value column="Name" isTrl="N" original="Allocated Quantity">Выделенно кол-во</value>
-    <value column="PrintName" isTrl="N" original="AllocatedQuantity">Выделенно кол-во</value>
+    <value column="Name" isTrl="Y" original="Allocated Quantity">Выделенно кол-во</value>
+    <value column="PrintName" isTrl="Y" original="AllocatedQuantity">Выделенно кол-во</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="From a Reservation, the quantity that it is already allocated, which means that the Reserved Stock already has an&#10; Storage Bin and an Attribute values assigned to it">From a Reservation, the quantity that it is already allocated, which means that the Reserved Stock already has an
  Storage Bin and an Attribute values assigned to it</value>
@@ -23168,7 +23168,7 @@ By disabling this option standard beats will be sent to HeartBeat server, but no
   </row>
   <row id="AD72BF9B66D34289B0833273976595CA" trl="N">
     <value column="Name" isTrl="Y" original="Service Price Rule Range">Диапазон расчета стоимости сервиса</value>
-    <value column="PrintName" isTrl="Y" original="Service Price Rule Range">>Диапазон расчета стоимости сервиса</value>
+    <value column="PrintName" isTrl="Y" original="Service Price Rule Range">&gt;Диапазон расчета стоимости сервиса</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
