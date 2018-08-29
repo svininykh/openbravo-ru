@@ -1729,7 +1729,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Matched purchase order view informs about which purchase order line is linked to which receipt line and invoice line, if any.">Matched purchase order view informs about which purchase order line is linked to which receipt line and invoice line, if any.</value>
   </row>
   <row id="410" trl="N">
-    <value column="Name" isTrl="N" original="Expense Type">Expense Type</value>
+    <value column="Name" isTrl="N" original="Expense Type">Тип затрат</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Maintain Expense Report Type">Maintain Expense Report Type</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1799,11 +1799,11 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Create an account number for the expense type in order to manage the General Ledger Accounting.">Create an account number for the expense type in order to manage the General Ledger Accounting.</value>
   </row>
   <row id="420" trl="N">
-    <value column="Name" isTrl="Y" original="Price">Цена</value>
+    <value column="Name" isTrl="Y" original="Price">Стоимость</value>
     <value column="CommitWarning" isTrl="N" original=""/>
-    <value column="Description" isTrl="N" original="Expense Type Pricing">Expense Type Pricing</value>
+    <value column="Description" isTrl="N" original="Expense Type Pricing">Стоимость затрат</value>
     <value column="Filtername" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="Expense Type Pricing">Expense Type Pricing</value>
+    <value column="Help" isTrl="N" original="Expense Type Pricing">Стоимость затрат</value>
   </row>
   <row id="421" trl="N">
     <value column="Name" isTrl="Y" original="Price">Цена</value>
@@ -1883,14 +1883,14 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="Cost adjustment documents are automatically created by either the  &quot;Costing Background&quot; Process or the &quot;Price Correction Background&quot; process as applicable, depending on the source of the adjustment.">Cost adjustment documents are automatically created by either the  "Costing Background" Process or the "Price Correction Background" process as applicable, depending on the source of the adjustment.</value>
   </row>
   <row id="461" trl="N">
-    <value column="Name" isTrl="Y" original="Attribute Set">Набор характеристик</value>
+    <value column="Name" isTrl="Y" original="Attribute Set">Набор атрибутов</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create an attribute set to define products with multiple characteristics.">Create an attribute set to define products with multiple characteristics.</value>
     <value column="Filtername" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Attribute Set window allows to create as many combination of attributes as required for defining products with few or multiple characteristics.">Attribute Set window allows to create as many combination of attributes as required for defining products with few or multiple characteristics.</value>
   </row>
   <row id="462" trl="N">
-    <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
+    <value column="Name" isTrl="Y" original="Attribute">Атрибут</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Create and edit attributes to be assigned to attribute sets.">Create and edit attributes to be assigned to attribute sets.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1898,7 +1898,7 @@ The corresponding tables have then the following setting:
 </value>
   </row>
   <row id="463" trl="N">
-    <value column="Name" isTrl="Y" original="Attribute Value">Значение характеристики</value>
+    <value column="Name" isTrl="Y" original="Attribute Value">Значение атрибута</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Define individual characteristic values of this attribute.">Define individual characteristic values of this attribute.</value>
     <value column="Filtername" isTrl="N" original=""/>
@@ -1927,7 +1927,7 @@ The corresponding tables have then the following setting:
     <value column="Help" isTrl="N" original="A Serial Number is a unique number given to each unit of a product/item which can be defined to have a prefix or a sufix among other characteristics.">A Serial Number is a unique number given to each unit of a product/item which can be defined to have a prefix or a sufix among other characteristics.</value>
   </row>
   <row id="467" trl="N">
-    <value column="Name" isTrl="Y" original="Assigned Attribute">Заданные характеристики</value>
+    <value column="Name" isTrl="Y" original="Assigned Attribute">Заданные атрибуты</value>
     <value column="CommitWarning" isTrl="N" original=""/>
     <value column="Description" isTrl="N" original="Add individually defined attributes to an attribute set.">Add individually defined attributes to an attribute set.</value>
     <value column="Filtername" isTrl="N" original=""/>

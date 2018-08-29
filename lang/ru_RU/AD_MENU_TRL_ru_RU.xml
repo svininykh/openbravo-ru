@@ -569,7 +569,7 @@
     <value column="Description" isTrl="N" original="Track matching between purchase order lines and the corresponding shipment/receipt or invoice lines. ">Track matching between purchase order lines and the corresponding shipment/receipt or invoice lines. </value>
   </row>
   <row id="317" trl="N">
-    <value column="Name" isTrl="N" original="Expense Type">Expense Type</value>
+    <value column="Name" isTrl="N" original="Expense Type">Тип затрат</value>
     <value column="Description" isTrl="N" original="Maintain Expense Report Types">Maintain Expense Report Types</value>
   </row>
   <row id="318" trl="N">
@@ -641,7 +641,7 @@
     <value column="Description" isTrl="N" original="Report Account Statement Beginning Balance and Transactions">Report Account Statement Beginning Balance and Transactions</value>
   </row>
   <row id="353" trl="N">
-    <value column="Name" isTrl="Y" original="Attribute Set">Набор характеристик</value>
+    <value column="Name" isTrl="Y" original="Attribute Set">Набор атрибутов</value>
     <value column="Description" isTrl="N" original="Define a group of attributes to apply to specific products.">Define a group of attributes to apply to specific products.</value>
   </row>
   <row id="354" trl="N">
@@ -657,11 +657,11 @@
     <value column="Description" isTrl="N" original="Create and edit lots for your products.">Create and edit lots for your products.</value>
   </row>
   <row id="357" trl="N">
-    <value column="Name" isTrl="Y" original="Product Attributes">Характеристики товара</value>
+    <value column="Name" isTrl="Y" original="Product Attributes">Атрибуты товара</value>
     <value column="Description" isTrl="N" original="Open a folder where you can define product attributes, and create and edit products lots and serial numbers.">Open a folder where you can define product attributes, and create and edit products lots and serial numbers.</value>
   </row>
   <row id="359" trl="N">
-    <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
+    <value column="Name" isTrl="Y" original="Attribute">Атрибут</value>
     <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
   </row>
   <row id="362" trl="N">

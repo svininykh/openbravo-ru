@@ -445,7 +445,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="A price list schema is a template used to automatically populate a new version of a price list ">A price list schema is a template used to automatically populate a new version of a price list </value>
   </row>
   <row id="234" trl="N">
-    <value column="Name" isTrl="N" original="Expense Type">Expense Type</value>
+    <value column="Name" isTrl="N" original="Expense Type">Тип затрат</value>
     <value column="Description" isTrl="N" original="Maintain Expense Report Types">Maintain Expense Report Types</value>
     <value column="Help" isTrl="N" original="Maintain Expense Report Types">Maintain Expense Report Types</value>
   </row>
@@ -490,7 +490,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="View internal employee expenses before processing them.">View internal employee expenses before processing them.</value>
   </row>
   <row id="256" trl="N">
-    <value column="Name" isTrl="Y" original="Attribute Set">Набор характеристик</value>
+    <value column="Name" isTrl="Y" original="Attribute Set">Набор атрибутов</value>
     <value column="Description" isTrl="N" original="Define a group of attributes to apply to specific products.">Define a group of attributes to apply to specific products.</value>
     <value column="Help" isTrl="N" original="An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.">An attribute set can be defined by a single attribute or by a set of attributes to apply to specific products.</value>
   </row>
@@ -510,7 +510,7 @@ You can also select if transactions are allowed or not for this organization typ
     <value column="Help" isTrl="N" original="A product attribute can be a serial number.">A product attribute can be a serial number.</value>
   </row>
   <row id="260" trl="N">
-    <value column="Name" isTrl="Y" original="Attribute">Характеристика</value>
+    <value column="Name" isTrl="Y" original="Attribute">Атрибуты</value>
     <value column="Description" isTrl="N" original="Create and edit attributes to be combined into attribute sets and subsequently added to products.">Create and edit attributes to be combined into attribute sets and subsequently added to products.</value>
     <value column="Help" isTrl="N" original="Products can have an attribute or a set of attributes which makes them different to the rest. &#10;">Products can have an attribute or a set of attributes which makes them different to the rest. 
 </value>
